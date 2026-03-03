@@ -38,7 +38,7 @@ temp_image_*.png
 temp_image_*.webp
 
 # News data (GitHub Actions tarafından otomatik oluşturulacak)
-latest_football_news.json
+# latest_football_news.json - Bu dosya GitHub'da olmalı (web sitesi için)
 football_news_*.json
 
 # Browser data
