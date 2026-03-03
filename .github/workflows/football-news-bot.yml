@@ -112,6 +112,10 @@ jobs:
       if: steps.fetch_news.outputs.news_available == 'true' && (github.event.inputs.run_social_media != 'false' || github.event_name != 'workflow_dispatch')
       env:
         DISPLAY: :99
+        X_TURKISH_USERNAME: ${{ secrets.X_TURKISH_USERNAME }}
+        X_TURKISH_PASSWORD: ${{ secrets.X_TURKISH_PASSWORD }}
+        X_ENGLISH_USERNAME: ${{ secrets.X_ENGLISH_USERNAME }}
+        X_ENGLISH_PASSWORD: ${{ secrets.X_ENGLISH_PASSWORD }}
       run: |
         # Start virtual display for headless browser
         sudo apt-get install -y xvfb
