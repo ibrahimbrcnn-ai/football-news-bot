@@ -1,0 +1,208 @@
+{
+  "english_sources": {
+    "international": [
+      {
+        "name": "ESPN FC",
+        "rss": "https://www.espn.com/espn/rss/soccer/news",
+        "priority": 10,
+        "region": "global"
+      },
+      {
+        "name": "BBC Sport Football",
+        "rss": "http://feeds.bbci.co.uk/sport/football/rss.xml",
+        "priority": 10,
+        "region": "global"
+      },
+      {
+        "name": "Goal.com",
+        "rss": "https://www.goal.com/feeds/news",
+        "priority": 9,
+        "region": "global"
+      },
+      {
+        "name": "Sky Sports Football",
+        "rss": "https://www.skysports.com/rss/12040",
+        "priority": 8,
+        "region": "europe"
+      },
+      {
+        "name": "UEFA.com",
+        "rss": "https://www.uefa.com/rssfeed/news",
+        "priority": 9,
+        "region": "europe"
+      },
+      {
+        "name": "FIFA.com",
+        "rss": "https://www.fifa.com/rss-feeds/news",
+        "priority": 10,
+        "region": "global"
+      }
+    ],
+    "premier_league": [
+      {
+        "name": "Premier League Official",
+        "rss": "https://www.premierleague.com/news.rss",
+        "priority": 10,
+        "region": "england"
+      },
+      {
+        "name": "Guardian Football",
+        "rss": "https://www.theguardian.com/football/rss",
+        "priority": 9,
+        "region": "england"
+      }
+    ],
+    "la_liga": [
+      {
+        "name": "La Liga Official",
+        "rss": "https://www.laliga.com/en/news/rss",
+        "priority": 9,
+        "region": "spain"
+      },
+      {
+        "name": "Marca English",
+        "rss": "https://www.marca.com/en/football.rss",
+        "priority": 8,
+        "region": "spain"
+      }
+    ],
+    "serie_a": [
+      {
+        "name": "Serie A Official",
+        "rss": "https://www.legaseriea.it/en/serie-a/news.rss",
+        "priority": 8,
+        "region": "italy"
+      }
+    ],
+    "bundesliga": [
+      {
+        "name": "Bundesliga Official",
+        "rss": "https://www.bundesliga.com/en/news.rss",
+        "priority": 8,
+        "region": "germany"
+      }
+    ],
+    "south_america": [
+      {
+        "name": "CONMEBOL",
+        "rss": "https://www.conmebol.com/en/news.rss",
+        "priority": 7,
+        "region": "south_america"
+      },
+      {
+        "name": "ESPN Brasil (EN)",
+        "rss": "https://www.espn.com.br/futebol/rss",
+        "priority": 7,
+        "region": "brazil"
+      }
+    ],
+    "africa": [
+      {
+        "name": "CAF Online",
+        "rss": "https://www.cafonline.com/news.rss",
+        "priority": 6,
+        "region": "africa"
+      }
+    ],
+    "asia": [
+      {
+        "name": "AFC News",
+        "rss": "https://www.the-afc.com/news.rss",
+        "priority": 6,
+        "region": "asia"
+      }
+    ]
+  },
+  "turkish_sources": [
+    {
+      "name": "Fanatik",
+      "rss": "https://www.fanatik.com.tr/rss",
+      "priority": 9,
+      "region": "turkey"
+    },
+    {
+      "name": "Habertürk Spor",
+      "rss": "https://www.haberturk.com/rss/spor.xml",
+      "priority": 9,
+      "region": "turkey"
+    },
+    {
+      "name": "TRT Spor",
+      "rss": "https://www.trtspor.com.tr/rss",
+      "priority": 8,
+      "region": "turkey"
+    },
+    {
+      "name": "NTV Spor",
+      "rss": "https://www.ntvspor.net/rss",
+      "priority": 8,
+      "region": "turkey"
+    },
+    {
+      "name": "Milliyet Spor",
+      "rss": "https://www.milliyet.com.tr/rss/rsspembe.xml",
+      "priority": 8,
+      "region": "turkey"
+    },
+    {
+      "name": "Fotomac",
+      "rss": "https://www.fotomac.com.tr/rss",
+      "priority": 7,
+      "region": "turkey"
+    }
+  ],
+  "regional_sources": {
+    "brazil": [
+      {
+        "name": "Globo Esporte",
+        "rss": "https://ge.globo.com/futebol/rss.xml",
+        "priority": 8,
+        "region": "brazil",
+        "language": "portuguese"
+      },
+      {
+        "name": "UOL Esporte",
+        "rss": "https://esporte.uol.com.br/futebol/rss.xml",
+        "priority": 7,
+        "region": "brazil",
+        "language": "portuguese"
+      }
+    ],
+    "argentina": [
+      {
+        "name": "Ole",
+        "rss": "https://www.ole.com.ar/rss/futbol.xml",
+        "priority": 7,
+        "region": "argentina",
+        "language": "spanish"
+      }
+    ],
+    "france": [
+      {
+        "name": "L'Équipe",
+        "rss": "https://www.lequipe.fr/rss/actu_rss_Football.xml",
+        "priority": 8,
+        "region": "france",
+        "language": "french"
+      }
+    ],
+    "germany": [
+      {
+        "name": "Kicker",
+        "rss": "https://www.kicker.de/news/fussball/rss.xml",
+        "priority": 8,
+        "region": "germany",
+        "language": "german"
+      }
+    ],
+    "netherlands": [
+      {
+        "name": "VI.nl",
+        "rss": "https://www.vi.nl/rss",
+        "priority": 6,
+        "region": "netherlands",
+        "language": "dutch"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+name: Football News Bot
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      run_social_media:
+        description: 'Post to social media'
+        required: false
+        default: 'true'
+        type: boolean
+
+  # Run on push to main branch (for testing)
+  push:
+    branches: [ main ]
+    paths:
+      - '**.py'
+      - '.github/workflows/**'
+
+jobs:
+  fetch-and-post-news:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: [3.9]
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+        # Install Chrome browser and ChromeDriver
+        sudo apt-get update
+        sudo apt-get install -y wget unzip
+        
+        # Install Google Chrome
+        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+        
+        # Install ChromeDriver
+        CHROMEDRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE)
+        wget -N http://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip -P ~/
+        unzip ~/chromedriver_linux64.zip -d ~/
+        sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
+        sudo chmod +x /usr/local/bin/chromedriver
+        
+    - name: Set up environment variables
+      env:
+        X_ENGLISH_USERNAME: ${{ secrets.X_ENGLISH_USERNAME }}
+        X_ENGLISH_PASSWORD: ${{ secrets.X_ENGLISH_PASSWORD }}
+        X_TURKISH_USERNAME: ${{ secrets.X_TURKISH_USERNAME }}
+        X_TURKISH_PASSWORD: ${{ secrets.X_TURKISH_PASSWORD }}
+      run: |
+        echo "X_ENGLISH_USERNAME=$X_ENGLISH_USERNAME" >> $GITHUB_ENV
+        echo "X_ENGLISH_PASSWORD=$X_ENGLISH_PASSWORD" >> $GITHUB_ENV
+        echo "X_TURKISH_USERNAME=$X_TURKISH_USERNAME" >> $GITHUB_ENV
+        echo "X_TURKISH_PASSWORD=$X_TURKISH_PASSWORD" >> $GITHUB_ENV
+        
+    - name: Run news aggregation
+      id: fetch_news
+      run: |
+        echo "Starting news aggregation..."
+        python football_news_aggregator.py
+        
+        # Check if news file was created
+        if [ -f "latest_football_news.json" ]; then
+          echo "news_available=true" >> $GITHUB_OUTPUT
+          
+          # Count news items
+          NEWS_COUNT=$(python -c "import json; data=json.load(open('latest_football_news.json')); print(len(data.get('news', [])))")
+          echo "news_count=$NEWS_COUNT" >> $GITHUB_OUTPUT
+          echo "News aggregation completed: $NEWS_COUNT items"
+        else
+          echo "news_available=false" >> $GITHUB_OUTPUT
+          echo "news_count=0" >> $GITHUB_OUTPUT
+          echo "No news file generated"
+        fi
+        
+    - name: Update website data
+      if: steps.fetch_news.outputs.news_available == 'true'
+      run: |
+        # The latest_football_news.json will be committed back to the repo
+        echo "News data ready for website"
+        
+    - name: Post to social media
+      if: steps.fetch_news.outputs.news_available == 'true' && (github.event.inputs.run_social_media != 'false' || github.event_name != 'workflow_dispatch')
+      env:
+        DISPLAY: :99
+      run: |
+        # Start virtual display for headless browser
+        sudo apt-get install -y xvfb
+        Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
+        
+        echo "Starting social media posting..."
+        
+        # Create a separate script for social media posting
+        cat > post_to_social.py << 'EOF'
+        import os
+        import sys
+        from x_automation_bot import XAutomationBot
+        import json
+        
+        def main():
+            try:
+                # Load latest news
+                with open('latest_football_news.json', 'r') as f:
+                    data = json.load(f)
+                
+                news_items = data.get('news', [])
+                
+                if not news_items:
+                    print("No news items to post")
+                    return
+                
+                # Initialize bot with headless mode
+                bot = XAutomationBot(headless=True)
+                
+                if bot.setup_driver():
+                    print("Driver setup successful")
+                    
+                    # Post top 6 news items
+                    top_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)[:6]
+                    
+                    posted_count = bot.process_news_batch(top_news)
+                    print(f"Posted {posted_count} news items to social media")
+                    
+                    bot.close()
+                    
+                    if posted_count > 0:
+                        sys.exit(0)  # Success
+                    else:
+                        sys.exit(1)  # No posts made
+                else:
+                    print("Failed to setup driver")
+                    sys.exit(1)
+                    
+            except Exception as e:
+                print(f"Social media posting failed: {e}")
+                sys.exit(1)
+        
+        if __name__ == "__main__":
+            main()
+        EOF
+        
+        # Run social media posting with timeout
+        timeout 10m python post_to_social.py || echo "Social media posting completed with timeout or error"
+        
+    - name: Commit updated news data
+      if: steps.fetch_news.outputs.news_available == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add the news file if it exists and has changed
+        if [ -f "latest_football_news.json" ]; then
+          git add latest_football_news.json
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update football news - $(date -u +%Y-%m-%d\ %H:%M\ UTC) - ${{ steps.fetch_news.outputs.news_count }} items"
+            git push
+          fi
+        fi
+        
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## Football News Bot Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Time**: $(date -u)" >> $GITHUB_STEP_SUMMARY
+        echo "- **News Available**: ${{ steps.fetch_news.outputs.news_available }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **News Count**: ${{ steps.fetch_news.outputs.news_count }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Workflow**: ${{ github.workflow }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "football_news.log" ]; then
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Recent Logs" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          tail -10 football_news.log >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+    - name: Upload logs as artifact
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: football-news-logs
+        path: |
+          football_news.log
+          *.json
+        retention-days: 7
+
+# Deployment job (runs after news job completes successfully)
+  deploy-website:
+    needs: fetch-and-post-news
+    runs-on: ubuntu-latest
+    if: success() && contains(github.event_name, 'push') || contains(github.event_name, 'workflow_dispatch')
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Pull latest changes
+      run: git pull origin main
+        
+    - name: Deploy to Vercel (if configured)
+      if: env.VERCEL_TOKEN != ''
+      env:
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+        VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+      run: |
+        npm i -g vercel
+        vercel --token $VERCEL_TOKEN --prod --yes
+        
+    - name: Deploy to Railway (if configured)
+      if: env.RAILWAY_TOKEN != ''
+      env:
+        RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+      run: |
+        # Install Railway CLI
+        curl -sSL https://railway.app/install.sh | sh
+        railway login --token $RAILWAY_TOKEN
+        railway up --service football-news-app
+        
+    - name: Deploy to Heroku (if configured)
+      if: env.HEROKU_API_KEY != ''
+      env:
+        HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME }}
+      run: |
+        # This would require additional Heroku setup
+        echo "Heroku deployment would go here"

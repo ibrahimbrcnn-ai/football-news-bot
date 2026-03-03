@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en" id="html-element">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Global Football News - Latest Updates</title>
+    <meta name="description" content="Get the latest football news from around the world in English and Turkish">
+    <meta name="keywords" content="football, soccer, news, transfers, Premier League, Champions League">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Global Football News">
+    <meta property="og:description" content="Latest football news from around the world">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-domain.com">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --primary-color: #00a8ff;
+            --secondary-color: #192a56;
+            --accent-color: #ffc048;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8f9fa;
+            --bg-card: #ffffff;
+            --border-color: #e9ecef;
+            --shadow: 0 4px 6px rgba(0,0,0,0.1);
+            --shadow-hover: 0 8px 25px rgba(0,0,0,0.15);
+            --gradient: linear-gradient(135deg, #00a8ff 0%, #192a56 100%);
+        }
+        
+        [data-theme="dark"] {
+            --text-primary: #ffffff;
+            --text-secondary: #bdc3c7;
+            --bg-primary: #0f1419;
+            --bg-secondary: #1a1f24;
+            --bg-card: #252d35;
+            --border-color: #3d4852;
+            --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            --shadow-hover: 0 8px 25px rgba(0,0,0,0.4);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: all 0.3s ease;
+        }
+        
+        .header {
+            background: var(--gradient);
+            color: white;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 2rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        
+        .logo i {
+            margin-right: 0.5rem;
+            font-size: 2rem;
+        }
+        
+        .header-controls {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .language-switch {
+            display: flex;
+            background: rgba(255,255,255,0.2);
+            border-radius: 25px;
+            overflow: hidden;
+        }
+        
+        .lang-btn {
+            padding: 0.5rem 1rem;
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+        
+        .lang-btn.active {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        .theme-toggle {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 0.5rem;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .theme-toggle:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .stats-bar {
+            background: var(--bg-secondary);
+            padding: 1rem;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            box-shadow: var(--shadow);
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .news-card {
+            background: var(--bg-card);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-hover);
+        }
+        
+        .news-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 15px 15px 0 0;
+        }
+        
+        .news-image.placeholder {
+            background: var(--gradient);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 3rem;
+        }
+        
+        .news-content {
+            padding: 1.5rem;
+        }
+        
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+        
+        .news-source {
+            background: var(--primary-color);
+            color: white;
+            padding: 0.2rem 0.8rem;
+            border-radius: 15px;
+            font-weight: 500;
+        }
+        
+        .news-time {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+        
+        .news-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+            color: var(--text-primary);
+        }
+        
+        .news-title a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .news-title a:hover {
+            color: var(--primary-color);
+        }
+        
+        .news-summary {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+        
+        .news-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        
+        .tag {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            border: 1px solid var(--border-color);
+        }
+        
+        .priority-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: var(--accent-color);
+            color: var(--text-primary);
+            padding: 0.3rem 0.6rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .priority-high {
+            background: #e74c3c;
+            color: white;
+        }
+        
+        .priority-medium {
+            background: #f39c12;
+            color: white;
+        }
+        
+        .priority-low {
+            background: #95a5a6;
+            color: white;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+        
+        .loading i {
+            font-size: 3rem;
+            animation: spin 2s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .no-news {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+        
+        .no-news i {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+            color: var(--border-color);
+        }
+        
+        .footer {
+            background: var(--bg-secondary);
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--primary-color);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        
+        .social-link:hover {
+            background: var(--secondary-color);
+            transform: translateY(-2px);
+        }
+        
+        @media (max-width: 768px) {
+            .header-content {
+                padding: 0 1rem;
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+            
+            .news-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .stats-bar {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .social-links {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <i class="fas fa-futbol"></i>
+                <span id="site-title">Global Football News</span>
+            </div>
+            <div class="header-controls">
+                <div class="language-switch">
+                    <button class="lang-btn active" data-lang="en">English</button>
+                    <button class="lang-btn" data-lang="tr">Türkçe</button>
+                </div>
+                <button class="theme-toggle" id="theme-toggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-number" id="total-news">0</div>
+                <div class="stat-label" data-en="Total News" data-tr="Toplam Haber">Total News</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="sources-count">120+</div>
+                <div class="stat-label" data-en="Sources" data-tr="Kaynak">Sources</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="last-update">-</div>
+                <div class="stat-label" data-en="Last Update" data-tr="Son Güncelleme">Last Update</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="languages-count">6</div>
+                <div class="stat-label" data-en="Languages" data-tr="Dil">Languages</div>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <i class="fas fa-spinner"></i>
+            <p data-en="Loading latest football news..." data-tr="Son futbol haberleri yükleniyor...">Loading latest football news...</p>
+        </div>
+
+        <div class="news-grid" id="news-grid">
+            <!-- News items will be loaded here -->
+        </div>
+
+        <div class="no-news hidden" id="no-news">
+            <i class="fas fa-newspaper"></i>
+            <h3 data-en="No news available" data-tr="Haber bulunamadı">No news available</h3>
+            <p data-en="Please check back later for the latest football updates." data-tr="En son futbol güncellemeleri için lütfen daha sonra tekrar kontrol edin.">Please check back later for the latest football updates.</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="social-links">
+                <a href="https://twitter.com/your_english_account" class="social-link" target="_blank">
+                    <i class="fab fa-twitter"></i>
+                    <span data-en="Follow English News" data-tr="İngilizce Haberleri Takip Et">Follow English News</span>
+                </a>
+                <a href="https://twitter.com/your_turkish_account" class="social-link" target="_blank">
+                    <i class="fab fa-twitter"></i>
+                    <span data-en="Follow Turkish News" data-tr="Türkçe Haberleri Takip Et">Follow Turkish News</span>
+                </a>
+            </div>
+            <p data-en="&copy; 2024 Global Football News. All rights reserved." data-tr="&copy; 2024 Global Football News. Tüm hakları saklıdır.">&copy; 2024 Global Football News. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        class FootballNewsApp {
+            constructor() {
+                this.currentLanguage = 'en';
+                this.newsData = [];
+                this.initializeApp();
+            }
+
+            initializeApp() {
+                this.setupEventListeners();
+                this.loadTheme();
+                this.loadNews();
+                this.startAutoRefresh();
+            }
+
+            setupEventListeners() {
+                // Language switcher
+                document.querySelectorAll('.lang-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        this.switchLanguage(e.target.dataset.lang);
+                    });
+                });
+
+                // Theme toggle
+                document.getElementById('theme-toggle').addEventListener('click', () => {
+                    this.toggleTheme();
+                });
+            }
+
+            switchLanguage(lang) {
+                this.currentLanguage = lang;
+                
+                // Update active button
+                document.querySelectorAll('.lang-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.lang === lang);
+                });
+
+                // Update page language
+                document.getElementById('html-element').lang = lang;
+                
+                // Update all translatable elements
+                document.querySelectorAll('[data-en][data-tr]').forEach(element => {
+                    if (element.innerHTML) {
+                        element.innerHTML = element.dataset[lang];
+                    }
+                });
+
+                // Update page title
+                const titles = {
+                    en: 'Global Football News - Latest Updates',
+                    tr: 'Global Futbol Haberleri - Son Güncellemeler'
+                };
+                document.getElementById('page-title').textContent = titles[lang];
+                document.getElementById('site-title').textContent = lang === 'en' ? 'Global Football News' : 'Global Futbol Haberleri';
+
+                // Re-render news with current language
+                this.renderNews();
+            }
+
+            toggleTheme() {
+                const body = document.body;
+                const currentTheme = body.dataset.theme;
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                
+                body.dataset.theme = newTheme;
+                localStorage.setItem('theme', newTheme);
+
+                // Update icon
+                const icon = document.querySelector('#theme-toggle i');
+                icon.className = newTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+            }
+
+            loadTheme() {
+                const savedTheme = localStorage.getItem('theme') || 'light';
+                document.body.dataset.theme = savedTheme;
+                
+                const icon = document.querySelector('#theme-toggle i');
+                icon.className = savedTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+            }
+
+            async loadNews() {
+                try {
+                    document.getElementById('loading').classList.remove('hidden');
+                    document.getElementById('no-news').classList.add('hidden');
+                    
+                    // Try to load from latest file
+                    const response = await fetch('latest_football_news.json');
+                    
+                    if (response.ok) {
+                        const data = await response.json();
+                        this.newsData = data.news || [];
+                        
+                        // Update stats
+                        document.getElementById('total-news').textContent = this.newsData.length;
+                        document.getElementById('last-update').textContent = this.formatTime(data.timestamp);
+                        
+                        this.renderNews();
+                    } else {
+                        throw new Error('Failed to load news');
+                    }
+                } catch (error) {
+                    console.error('Error loading news:', error);
+                    this.showNoNews();
+                } finally {
+                    document.getElementById('loading').classList.add('hidden');
+                }
+            }
+
+            renderNews() {
+                const newsGrid = document.getElementById('news-grid');
+                newsGrid.innerHTML = '';
+
+                if (this.newsData.length === 0) {
+                    this.showNoNews();
+                    return;
+                }
+
+                this.newsData.forEach(newsItem => {
+                    const newsCard = this.createNewsCard(newsItem);
+                    newsGrid.appendChild(newsCard);
+                });
+            }
+
+            createNewsCard(newsItem) {
+                const card = document.createElement('div');
+                card.className = 'news-card';
+                
+                // Determine priority class
+                const score = newsItem.priority_score || 0;
+                let priorityClass = 'priority-low';
+                let priorityText = 'Low';
+                
+                if (score >= 80) {
+                    priorityClass = 'priority-high';
+                    priorityText = this.currentLanguage === 'en' ? 'High' : 'Yüksek';
+                } else if (score >= 60) {
+                    priorityClass = 'priority-medium';
+                    priorityText = this.currentLanguage === 'en' ? 'Medium' : 'Orta';
+                } else {
+                    priorityText = this.currentLanguage === 'en' ? 'Low' : 'Düşük';
+                }
+
+                // Get title and summary based on language
+                const title = this.currentLanguage === 'tr' && newsItem.title_tr 
+                    ? newsItem.title_tr 
+                    : newsItem.title;
+                
+                const summary = this.currentLanguage === 'tr' && newsItem.summary_tr 
+                    ? newsItem.summary_tr 
+                    : newsItem.summary;
+
+                // Create image element
+                let imageElement = '';
+                if (newsItem.image_url) {
+                    imageElement = `<img class="news-image" src="${newsItem.image_url}" alt="${title}" onerror="this.outerHTML='<div class=\\'news-image placeholder\\'><i class=\\'fas fa-image\\'></i></div>'">`;
+                } else {
+                    imageElement = '<div class="news-image placeholder"><i class="fas fa-image"></i></div>';
+                }
+
+                // Create tags
+                const tags = (newsItem.categories || []).map(category => 
+                    `<span class="tag">${category}</span>`
+                ).join('');
+
+                card.innerHTML = `
+                    ${imageElement}
+                    <div class="priority-badge ${priorityClass}">${priorityText}</div>
+                    <div class="news-content">
+                        <div class="news-meta">
+                            <span class="news-source">${newsItem.source}</span>
+                            <span class="news-time">
+                                <i class="far fa-clock"></i>
+                                ${this.formatTime(newsItem.published)}
+                            </span>
+                        </div>
+                        <h3 class="news-title">
+                            <a href="${newsItem.url}" target="_blank">${title}</a>
+                        </h3>
+                        <p class="news-summary">${summary}</p>
+                        <div class="news-tags">${tags}</div>
+                    </div>
+                `;
+
+                return card;
+            }
+
+            showNoNews() {
+                document.getElementById('news-grid').innerHTML = '';
+                document.getElementById('no-news').classList.remove('hidden');
+            }
+
+            formatTime(timestamp) {
+                try {
+                    const date = new Date(timestamp);
+                    const now = new Date();
+                    const diffMs = now - date;
+                    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                    const diffMinutes = Math.floor(diffMs / (1000 * 60));
+
+                    if (diffMinutes < 1) {
+                        return this.currentLanguage === 'en' ? 'Just now' : 'Şimdi';
+                    } else if (diffMinutes < 60) {
+                        return this.currentLanguage === 'en' 
+                            ? `${diffMinutes}m ago` 
+                            : `${diffMinutes}dk önce`;
+                    } else if (diffHours < 24) {
+                        return this.currentLanguage === 'en' 
+                            ? `${diffHours}h ago` 
+                            : `${diffHours}s önce`;
+                    } else {
+                        return date.toLocaleDateString(this.currentLanguage === 'en' ? 'en-US' : 'tr-TR');
+                    }
+                } catch {
+                    return '-';
+                }
+            }
+
+            startAutoRefresh() {
+                // Refresh every 15 minutes
+                setInterval(() => {
+                    this.loadNews();
+                }, 15 * 60 * 1000);
+            }
+        }
+
+        // Initialize app when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            new FootballNewsApp();
+        });
+    </script>
+</body>
+</html>

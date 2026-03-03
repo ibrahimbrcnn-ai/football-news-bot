@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables (ÖNEMLİ: Şifreleri GitHub'a yüklemeyin!)
+.env
+.env.local
+.env.production
+.env.staging
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+football_news.log
+football_news_main.log
+
+# Temporary files
+temp_image_*.jpg
+temp_image_*.png
+temp_image_*.webp
+
+# News data (GitHub Actions tarafından otomatik oluşturulacak)
+latest_football_news.json
+football_news_*.json
+
+# Browser data
+*.crx
+chromedriver
+chromedriver.exe
+
+# Flask
+instance/
+.webassets-cache
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
