@@ -38,75 +38,175 @@ class XAutomationBot:
         self.last_reset_date = datetime.now().date()
         
     def setup_driver(self):
-        """Setup Chrome driver with stealth options"""
+        """Setup Chrome driver with ADVANCED stealth options"""
         chrome_options = Options()
         
         if self.headless:
-            chrome_options.add_argument('--headless')
+            chrome_options.add_argument('--headless=new')  # New headless mode
         
-        # Stealth mode options
+        # ADVANCED Anti-detection options
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-dev-shm-usage')
         chrome_options.add_argument('--disable-blink-features=AutomationControlled')
-        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options.add_argument('--disable-extensions')
+        chrome_options.add_argument('--disable-plugins')
+        chrome_options.add_argument('--disable-images')  # Faster loading
+        chrome_options.add_argument('--disable-javascript')  # Bypass some detections
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--disable-web-security')
+        chrome_options.add_argument('--disable-features=VizDisplayCompositor')
+        chrome_options.add_argument('--disable-ipc-flooding-protection')
+        chrome_options.add_argument('--ignore-certificate-errors')
+        chrome_options.add_argument('--ignore-ssl-errors')
+        chrome_options.add_argument('--ignore-certificate-errors-spki-list')
         
-        # Random user agent
+        # REAL browser behavior simulation
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
+        chrome_options.add_experimental_option("detach", True)
+        
+        # REAL user agent rotation (LATEST)
         user_agents = [
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         ]
         chrome_options.add_argument(f'--user-agent={random.choice(user_agents)}')
         
-        # Window size randomization
-        window_sizes = [(1366, 768), (1920, 1080), (1440, 900), (1600, 900)]
+        # REAL window sizes
+        window_sizes = [(1366, 768), (1920, 1080), (1440, 900), (1600, 900), (1280, 1024)]
         width, height = random.choice(window_sizes)
         chrome_options.add_argument(f'--window-size={width},{height}')
         
+        # Memory and performance optimizations
+        chrome_options.add_argument('--memory-pressure-off')
+        chrome_options.add_argument('--max_old_space_size=4096')
+        
         try:
+            print("🚀 Initializing STEALTH Chrome driver...")
             self.driver = webdriver.Chrome(options=chrome_options)
-            self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-            self.wait = WebDriverWait(self.driver, 20)
             
-            print("✅ Chrome driver initialized successfully")
+            # ADVANCED JavaScript stealth injections
+            self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+            self.driver.execute_script("Object.defineProperty(navigator, 'plugins', {get: () => [1, 2, 3, 4, 5]})")
+            self.driver.execute_script("Object.defineProperty(navigator, 'languages', {get: () => ['en-US', 'en']})")
+            self.driver.execute_script("Object.defineProperty(navigator, 'permissions', {get: () => ({query: () => ({state: 'granted'})})})")
+            self.driver.execute_script("window.chrome = {runtime: {}}")
+            
+            # Set realistic viewport
+            self.driver.set_window_size(width, height)
+            
+            self.wait = WebDriverWait(self.driver, 30)  # Longer timeout
+            
+            print("✅ STEALTH Chrome driver initialized successfully")
             return True
             
         except Exception as e:
-            print(f"❌ Failed to initialize driver: {e}")
+            print(f"❌ Failed to initialize STEALTH driver: {e}")
             return False
     
     def human_like_delay(self, min_delay=1, max_delay=3):
-        """Human-like random delays"""
-        delay = random.uniform(min_delay, max_delay)
+        """ADVANCED human-like random delays with realistic patterns"""
+        # Realistic delay patterns
+        delay_patterns = [
+            random.uniform(min_delay, max_delay),  # Normal
+            random.uniform(min_delay * 0.5, min_delay),  # Quick
+            random.uniform(max_delay, max_delay * 1.5),  # Slow/thinking
+        ]
+        delay = random.choice(delay_patterns)
         time.sleep(delay)
     
     def human_typing(self, element, text):
-        """Type text with human-like delays"""
+        """ULTRA-realistic human typing with mistakes and corrections"""
         element.clear()
-        for char in text:
+        
+        # Sometimes pause before typing (thinking)
+        if random.random() < 0.3:
+            time.sleep(random.uniform(0.5, 1.5))
+        
+        for i, char in enumerate(text):
+            # Realistic typing speed variation
+            if char.isalpha():
+                delay = random.uniform(0.08, 0.25)  # Letters
+            elif char.isdigit():
+                delay = random.uniform(0.15, 0.35)  # Numbers (slower)
+            else:
+                delay = random.uniform(0.05, 0.20)  # Special chars
+            
+            # Occasionally make "mistakes" and correct (more human)
+            if random.random() < 0.05 and i < len(text) - 1:  # 5% mistake chance
+                wrong_chars = 'abcdefghijklmnopqrstuvwxyz'
+                wrong_char = random.choice(wrong_chars)
+                element.send_keys(wrong_char)
+                time.sleep(random.uniform(0.1, 0.3))
+                element.send_keys(Keys.BACK_SPACE)  # Correct mistake
+                time.sleep(random.uniform(0.1, 0.2))
+            
             element.send_keys(char)
-            time.sleep(random.uniform(0.05, 0.15))
+            time.sleep(delay)
+            
+            # Random pauses during typing (thinking/reading)
+            if random.random() < 0.1:  # 10% pause chance
+                time.sleep(random.uniform(0.3, 0.8))
     
     def random_mouse_movement(self):
-        """Random mouse movements to appear human"""
+        """ADVANCED random mouse movements simulating real user behavior"""
         try:
             actions = ActionChains(self.driver)
             viewport_width = self.driver.execute_script("return window.innerWidth")
             viewport_height = self.driver.execute_script("return window.innerHeight")
             
-            for _ in range(random.randint(2, 5)):
-                x = random.randint(100, viewport_width - 100)
-                y = random.randint(100, viewport_height - 100)
-                actions.move_by_offset(x, y)
-                actions.pause(random.uniform(0.1, 0.3))
+            # Current mouse position (start from random)
+            current_x = random.randint(100, viewport_width - 100)
+            current_y = random.randint(100, viewport_height - 100)
+            
+            # Realistic mouse movement patterns
+            movement_count = random.randint(3, 8)
+            
+            for _ in range(movement_count):
+                # Move to random position with curved path
+                target_x = random.randint(50, viewport_width - 50)
+                target_y = random.randint(50, viewport_height - 50)
+                
+                # Bezier-like curve simulation
+                steps = random.randint(5, 15)
+                for step in range(steps):
+                    progress = step / steps
+                    # Add some curve randomness
+                    curve_offset_x = random.randint(-50, 50) * (1 - abs(progress - 0.5) * 2)
+                    curve_offset_y = random.randint(-30, 30) * (1 - abs(progress - 0.5) * 2)
+                    
+                    next_x = current_x + (target_x - current_x) * progress + curve_offset_x
+                    next_y = current_y + (target_y - current_y) * progress + curve_offset_y
+                    
+                    # Ensure within bounds
+                    next_x = max(10, min(viewport_width - 10, next_x))
+                    next_y = max(10, min(viewport_height - 10, next_y))
+                    
+                    actions.move_to_element_with_offset(self.driver.find_element(By.TAG_NAME, "body"), next_x, next_y)
+                    actions.pause(random.uniform(0.01, 0.05))
+                
+                current_x, current_y = target_x, target_y
+                
+                # Sometimes pause at position (reading/thinking)
+                if random.random() < 0.4:
+                    actions.pause(random.uniform(0.2, 0.8))
+                
+                # Occasionally scroll (very human)
+                if random.random() < 0.3:
+                    scroll_amount = random.randint(-3, 3)
+                    if scroll_amount != 0:
+                        self.driver.execute_script(f"window.scrollBy(0, {scroll_amount * 100})")
+                        actions.pause(random.uniform(0.1, 0.3))
             
             actions.perform()
-        except:
+            
+        except Exception as e:
+            print(f"Mouse movement error: {e}")
             pass
     
     def login_to_account(self, account_type):
-        """Login to X account"""
+        """ADVANCED Human-like login to X account"""
         account = self.accounts[account_type]
         
         if not account['username'] or not account['password']:
@@ -114,51 +214,152 @@ class XAutomationBot:
             return False
         
         try:
-            print(f"🔐 Logging in to {account_type} account...")
-            self.driver.get("https://twitter.com/i/flow/login")
+            print(f"🔐 STEALTH login to {account_type} account...")
             
-            self.human_like_delay(3, 6)
-            
-            # Username input
-            username_input = self.wait.until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'input[autocomplete="username"]'))
-            )
-            self.human_typing(username_input, account['username'])
-            
-            # Next button
-            next_button = self.wait.until(
-                EC.element_to_be_clickable((By.XPATH, '//span[text()="Next"]'))
-            )
-            next_button.click()
-            
+            # First visit X.com homepage (more natural)
+            self.driver.get("https://x.com")
             self.human_like_delay(2, 4)
             
-            # Password input
-            password_input = self.wait.until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="password"]'))
-            )
+            # Random mouse movements on homepage
+            self.random_mouse_movement()
+            self.human_like_delay(1, 3)
+            
+            # Now go to login
+            self.driver.get("https://x.com/i/flow/login")
+            self.human_like_delay(4, 7)
+            
+            # More random movements
+            self.random_mouse_movement()
+            
+            # Multiple selectors for username (X changes them)
+            username_selectors = [
+                'input[autocomplete="username"]',
+                'input[name="text"]',
+                'input[data-testid="ocfEnterTextTextInput"]',
+                'input[placeholder*="username"]',
+                'input[placeholder*="email"]'
+            ]
+            
+            username_input = None
+            for selector in username_selectors:
+                try:
+                    username_input = self.wait.until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                    )
+                    break
+                except:
+                    continue
+            
+            if not username_input:
+                print("❌ Username input not found")
+                return False
+            
+            # VERY human-like typing
+            self.human_like_delay(1, 2)
+            self.human_typing(username_input, account['username'])
+            self.human_like_delay(1, 3)
+            
+            # Find Next button with multiple approaches
+            next_selectors = [
+                '//span[text()="Next"]',
+                '//span[contains(text(),"Next")]',
+                '//div[@role="button" and contains(.,"Next")]',
+                '[data-testid="LoginForm_Login_Button"]'
+            ]
+            
+            next_button = None
+            for selector in next_selectors:
+                try:
+                    if selector.startswith('//'):
+                        next_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, selector)))
+                    else:
+                        next_button = self.wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, selector)))
+                    break
+                except:
+                    continue
+            
+            if next_button:
+                self.random_mouse_movement()
+                next_button.click()
+                self.human_like_delay(3, 6)
+            
+            # Password input with multiple selectors
+            password_selectors = [
+                'input[name="password"]',
+                'input[type="password"]',
+                'input[autocomplete="current-password"]',
+                'input[data-testid="ocfEnterTextTextInput"]'
+            ]
+            
+            password_input = None
+            for selector in password_selectors:
+                try:
+                    password_input = self.wait.until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                    )
+                    break
+                except:
+                    continue
+            
+            if not password_input:
+                print("❌ Password input not found")
+                return False
+            
+            self.human_like_delay(1, 2)
             self.human_typing(password_input, account['password'])
+            self.human_like_delay(2, 4)
             
-            # Login button
-            login_button = self.wait.until(
-                EC.element_to_be_clickable((By.XPATH, '//span[text()="Log in"]'))
-            )
-            login_button.click()
+            # Login button with multiple approaches
+            login_selectors = [
+                '//span[text()="Log in"]',
+                '//span[contains(text(),"Log in")]',
+                '//div[@data-testid="LoginForm_Login_Button"]',
+                '[data-testid="LoginForm_Login_Button"]'
+            ]
             
-            self.human_like_delay(5, 8)
+            login_button = None
+            for selector in login_selectors:
+                try:
+                    if selector.startswith('//'):
+                        login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, selector)))
+                    else:
+                        login_button = self.wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, selector)))
+                    break
+                except:
+                    continue
             
-            # Check if login successful
-            try:
-                self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, '[data-testid="SideNav_NewTweet_Button"]')))
+            if login_button:
+                self.random_mouse_movement()
+                login_button.click()
+                self.human_like_delay(5, 10)  # Longer wait for login process
+            
+            # Check for success with multiple indicators
+            success_selectors = [
+                '[data-testid="SideNav_NewTweet_Button"]',
+                '[data-testid="tweetButtonInline"]',
+                '[aria-label="Post"]',
+                '[data-testid="primaryColumn"]'
+            ]
+            
+            login_successful = False
+            for selector in success_selectors:
+                try:
+                    self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
+                    login_successful = True
+                    break
+                except:
+                    continue
+            
+            if login_successful:
                 account['logged_in'] = True
-                print(f"✅ Successfully logged in to {account_type} account")
+                print(f"✅ STEALTH login successful for {account_type} account!")
                 return True
-            except TimeoutException:
-                print(f"❌ Login failed for {account_type} account")
+            else:
+                print(f"❌ STEALTH login failed for {account_type} account")
                 return False
                 
         except Exception as e:
-            print(f"❌ Login error for {account_type}: {e}")
+            print(f"❌ STEALTH login error for {account_type}: {e}")
             return False
     
     def download_image(self, image_url, filename):

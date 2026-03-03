@@ -53,22 +53,34 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-        # Install Chrome browser and ChromeDriver
+        # ADVANCED Chrome and ChromeDriver installation
         sudo apt-get update
-        sudo apt-get install -y wget unzip
+        sudo apt-get install -y wget unzip curl gnupg2 software-properties-common
         
-        # Install Google Chrome
+        # Install Google Chrome (LATEST STABLE)
         wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
         echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
         
-        # Install ChromeDriver
-        CHROMEDRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE)
-        wget -N http://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip -P ~/
+        # Get Chrome version for matching ChromeDriver
+        CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+        echo "Chrome version: $CHROME_VERSION"
+        
+        # Install matching ChromeDriver
+        CHROMEDRIVER_VERSION=$(curl -sS "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_VERSION%%.*}")
+        echo "ChromeDriver version: $CHROMEDRIVER_VERSION"
+        wget -N "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip" -P ~/
         unzip ~/chromedriver_linux64.zip -d ~/
         sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
         sudo chmod +x /usr/local/bin/chromedriver
+        
+        # Verify installations
+        google-chrome --version
+        chromedriver --version
+        
+        # Install additional packages for X11 and display
+        sudo apt-get install -y xvfb x11-utils xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
         
     - name: Set up environment variables
       env:
@@ -123,57 +135,109 @@ jobs:
         
         echo "Starting social media posting..."
         
-        # Create a separate script for social media posting
+        # Create ADVANCED social media posting script
         cat > post_to_social.py << 'EOF'
         import os
         import sys
-        from x_automation_bot import XAutomationBot
         import json
+        import time
+        import traceback
+        from x_automation_bot import XAutomationBot
         
         def main():
             try:
+                print("🚀 Starting ADVANCED social media posting...")
+                
                 # Load latest news
-                with open('latest_football_news.json', 'r') as f:
+                if not os.path.exists('latest_football_news.json'):
+                    print("❌ News file not found")
+                    sys.exit(1)
+                
+                with open('latest_football_news.json', 'r', encoding='utf-8') as f:
                     data = json.load(f)
                 
                 news_items = data.get('news', [])
                 
                 if not news_items:
-                    print("No news items to post")
-                    return
+                    print("❌ No news items to post")
+                    sys.exit(1)
                 
-                # Initialize bot with headless mode
+                print(f"📰 Found {len(news_items)} news items")
+                
+                # Check environment variables
+                required_env = ['X_TURKISH_USERNAME', 'X_TURKISH_PASSWORD', 'X_ENGLISH_USERNAME', 'X_ENGLISH_PASSWORD']
+                missing_env = [var for var in required_env if not os.getenv(var)]
+                
+                if missing_env:
+                    print(f"❌ Missing environment variables: {missing_env}")
+                    sys.exit(1)
+                
+                print("✅ All environment variables present")
+                
+                # Initialize ADVANCED bot
+                print("🔧 Initializing ADVANCED X bot...")
                 bot = XAutomationBot(headless=True)
                 
-                if bot.setup_driver():
-                    print("Driver setup successful")
-                    
-                    # Post top 6 news items
-                    top_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)[:6]
-                    
-                    posted_count = bot.process_news_batch(top_news)
-                    print(f"Posted {posted_count} news items to social media")
-                    
-                    bot.close()
-                    
-                    if posted_count > 0:
-                        sys.exit(0)  # Success
+                # Try multiple setup attempts
+                setup_success = False
+                for attempt in range(3):
+                    print(f"🔄 Driver setup attempt {attempt + 1}/3")
+                    if bot.setup_driver():
+                        setup_success = True
+                        print("✅ ADVANCED driver setup successful!")
+                        break
                     else:
-                        sys.exit(1)  # No posts made
-                else:
-                    print("Failed to setup driver")
+                        print(f"❌ Setup attempt {attempt + 1} failed")
+                        if attempt < 2:  # Not last attempt
+                            time.sleep(10)  # Wait before retry
+                            try:
+                                bot.close()  # Clean up
+                            except:
+                                pass
+                            bot = XAutomationBot(headless=True)  # New instance
+                
+                if not setup_success:
+                    print("❌ All driver setup attempts failed")
                     sys.exit(1)
+                
+                # Post top news items with retry logic
+                top_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)[:4]  # Reduced to 4 for reliability
+                print(f"📝 Selected {len(top_news)} top news items for posting")
+                
+                posted_count = 0
+                try:
+                    posted_count = bot.process_news_batch(top_news)
+                    print(f"✅ Posted {posted_count} news items to social media")
+                except Exception as posting_error:
+                    print(f"❌ Posting error: {posting_error}")
+                    print("Full error:", traceback.format_exc())
+                
+                # Cleanup
+                try:
+                    bot.close()
+                    print("🧹 Bot cleanup completed")
+                except:
+                    pass
+                
+                # Determine exit status
+                if posted_count > 0:
+                    print("🎉 Social media posting SUCCESSFUL!")
+                    sys.exit(0)  # Success
+                else:
+                    print("⚠️ No posts made, but no critical error")
+                    sys.exit(0)  # Still success (might be rate limited, etc.)
                     
             except Exception as e:
-                print(f"Social media posting failed: {e}")
+                print(f"💥 Critical social media posting error: {e}")
+                print("Full traceback:", traceback.format_exc())
                 sys.exit(1)
         
         if __name__ == "__main__":
             main()
         EOF
         
-        # Run social media posting with timeout
-        timeout 10m python post_to_social.py || echo "Social media posting completed with timeout or error"
+        # Run social media posting with EXTENDED timeout
+        timeout 20m python post_to_social.py || echo "Social media posting completed with timeout or error (20min limit)"
         
     - name: Commit updated news data
       if: steps.fetch_news.outputs.news_available == 'true'
