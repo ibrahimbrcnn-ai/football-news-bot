@@ -284,4 +284,4 @@ Sorularınız için:
 ⭐ **Beğendiyseniz star verin!** Bu projenin gelişmesine yardımcı olur.
 
 🚀 **Deployed by:** [Your Name](https://github.com/your-username)
-📅 **Last Updated:** $(date)
+📅 **Last Updated:** March 4, 2026
