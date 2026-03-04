@@ -253,8 +253,22 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            # Pull latest changes first to avoid conflicts
+            git pull --rebase || {
+              echo "Rebase failed, trying merge strategy"
+              git pull --no-rebase --strategy=recursive -X ours || {
+                echo "Merge failed, force pushing"
+                git commit -m "Update football news - $(date -u +%Y-%m-%d\ %H:%M\ UTC) - ${{ steps.fetch_news.outputs.news_count }} items" || true
+                git push --force-with-lease || git push --force
+                exit 0
+              }
+            }
+            
             git commit -m "Update football news - $(date -u +%Y-%m-%d\ %H:%M\ UTC) - ${{ steps.fetch_news.outputs.news_count }} items"
-            git push
+            git push || {
+              echo "Push failed, trying force push"
+              git push --force-with-lease || git push --force
+            }
           fi
         fi
         
