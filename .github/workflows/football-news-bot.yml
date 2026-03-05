@@ -120,33 +120,25 @@ jobs:
         # The latest_football_news.json will be committed back to the repo
         echo "News data ready for website"
         
-    - name: Post to social media
-      if: steps.fetch_news.outputs.news_available == 'true' && (github.event.inputs.run_social_media != 'false' || github.event_name != 'workflow_dispatch')
+    - name: Post to Telegram
+      if: steps.fetch_news.outputs.news_available == 'true'
       env:
-        DISPLAY: :99
-        X_TURKISH_USERNAME: ${{ secrets.X_TURKISH_USERNAME }}
-        X_TURKISH_PASSWORD: ${{ secrets.X_TURKISH_PASSWORD }}
-        X_ENGLISH_USERNAME: ${{ secrets.X_ENGLISH_USERNAME }}
-        X_ENGLISH_PASSWORD: ${{ secrets.X_ENGLISH_PASSWORD }}
+        TELEGRAM_TURKISH_BOT_TOKEN: ${{ secrets.TELEGRAM_TURKISH_BOT_TOKEN }}
+        TELEGRAM_ENGLISH_BOT_TOKEN: ${{ secrets.TELEGRAM_ENGLISH_BOT_TOKEN }}
       run: |
-        # Start virtual display for headless browser
-        sudo apt-get install -y xvfb
-        Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
+        echo "📱 Starting Telegram posting..."
         
-        echo "Starting social media posting..."
-        
-        # Create ADVANCED social media posting script
-        cat > post_to_social.py << 'EOF'
+        # Create Telegram posting script
+        cat > post_to_telegram.py << 'EOF'
         import os
         import sys
         import json
-        import time
         import traceback
-        from x_automation_bot import XAutomationBot
+        from telegram_bot import TelegramBot
         
         def main():
             try:
-                print("🚀 Starting ADVANCED social media posting...")
+                print("🚀 Starting Telegram posting...")
                 
                 # Load latest news
                 if not os.path.exists('latest_football_news.json'):
@@ -164,71 +156,35 @@ jobs:
                 
                 print(f"📰 Found {len(news_items)} news items")
                 
-                # Check environment variables
-                required_env = ['X_TURKISH_USERNAME', 'X_TURKISH_PASSWORD', 'X_ENGLISH_USERNAME', 'X_ENGLISH_PASSWORD']
+                # Check tokens
+                required_env = ['TELEGRAM_TURKISH_BOT_TOKEN', 'TELEGRAM_ENGLISH_BOT_TOKEN']
                 missing_env = [var for var in required_env if not os.getenv(var)]
                 
                 if missing_env:
                     print(f"❌ Missing environment variables: {missing_env}")
                     sys.exit(1)
                 
-                print("✅ All environment variables present")
+                print("✅ All tokens present")
                 
-                # Initialize ADVANCED bot
-                print("🔧 Initializing ADVANCED X bot...")
-                bot = XAutomationBot(headless=True)
+                # Initialize Telegram bot
+                bot = TelegramBot()
                 
-                # Try multiple setup attempts
-                setup_success = False
-                for attempt in range(3):
-                    print(f"🔄 Driver setup attempt {attempt + 1}/3")
-                    if bot.setup_driver():
-                        setup_success = True
-                        print("✅ ADVANCED driver setup successful!")
-                        break
-                    else:
-                        print(f"❌ Setup attempt {attempt + 1} failed")
-                        if attempt < 2:  # Not last attempt
-                            time.sleep(10)  # Wait before retry
-                            try:
-                                bot.close()  # Clean up
-                            except:
-                                pass
-                            bot = XAutomationBot(headless=True)  # New instance
-                
-                if not setup_success:
-                    print("❌ All driver setup attempts failed")
-                    sys.exit(1)
-                
-                # Post top news items with retry logic
-                top_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)[:4]  # Reduced to 4 for reliability
+                # Post top news (10 items)
+                top_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)[:10]
                 print(f"📝 Selected {len(top_news)} top news items for posting")
                 
-                posted_count = 0
-                try:
-                    posted_count = bot.process_news_batch(top_news)
-                    print(f"✅ Posted {posted_count} news items to social media")
-                except Exception as posting_error:
-                    print(f"❌ Posting error: {posting_error}")
-                    print("Full error:", traceback.format_exc())
+                posted_count = bot.post_news_batch(top_news, max_posts=10)
+                print(f"✅ Posted {posted_count} news items to Telegram")
                 
-                # Cleanup
-                try:
-                    bot.close()
-                    print("🧹 Bot cleanup completed")
-                except:
-                    pass
-                
-                # Determine exit status
                 if posted_count > 0:
-                    print("🎉 Social media posting SUCCESSFUL!")
-                    sys.exit(0)  # Success
+                    print("🎉 Telegram posting SUCCESSFUL!")
+                    sys.exit(0)
                 else:
-                    print("⚠️ No posts made, but no critical error")
-                    sys.exit(0)  # Still success (might be rate limited, etc.)
+                    print("⚠️ No posts made")
+                    sys.exit(0)
                     
             except Exception as e:
-                print(f"💥 Critical social media posting error: {e}")
+                print(f"💥 Telegram posting error: {e}")
                 print("Full traceback:", traceback.format_exc())
                 sys.exit(1)
         
@@ -236,8 +192,8 @@ jobs:
             main()
         EOF
         
-        # Run social media posting with EXTENDED timeout
-        timeout 20m python post_to_social.py || echo "Social media posting completed with timeout or error (20min limit)"
+        # Run Telegram posting
+        python post_to_telegram.py || echo "Telegram posting completed with warning"
         
     - name: Commit updated news data
       if: steps.fetch_news.outputs.news_available == 'true'
