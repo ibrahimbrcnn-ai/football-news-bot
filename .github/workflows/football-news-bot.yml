@@ -96,6 +96,8 @@ jobs:
       env:
         TELEGRAM_TURKISH_BOT_TOKEN: ${{ secrets.TELEGRAM_TURKISH_BOT_TOKEN }}
         TELEGRAM_ENGLISH_BOT_TOKEN: ${{ secrets.TELEGRAM_ENGLISH_BOT_TOKEN }}
+        TELEGRAM_TURKISH_CHANNEL_ID: ${{ secrets.TELEGRAM_TURKISH_CHANNEL_ID }}
+        TELEGRAM_ENGLISH_CHANNEL_ID: ${{ secrets.TELEGRAM_ENGLISH_CHANNEL_ID }}
       run: |
         echo "📱 Starting Telegram posting..."
         
