@@ -1,7 +1,29 @@
 {
-  "timestamp": "2026-03-05T14:01:05.060354",
+  "timestamp": "2026-03-05T14:45:32.130345",
   "total_items": 30,
   "news": [
+    {
+      "title": "Kane injury imperils Bundesliga record chase",
+      "summary": "Harry Kane will miss Bayern Munich's game against Borussia Monchengladbach on Friday with a calf injury in a blow to his hopes of breaking the Bundesliga record for most goals in a season.",
+      "url": "https://www.espn.com/soccer/story/_/id/48110053/harry-kane-calf-injury-imperils-bundesliga-record-chase",
+      "image_url": null,
+      "published": "2026-03-05T13:59:04",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:39:25.112678",
+      "priority_score": 100,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "injuries",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-05T14:43:47.030039",
+      "title_tr": "Kane'in sakatlığı Bundesliga'daki rekor kovalamacasını tehlikeye attı",
+      "summary_tr": "Harry Kane, Cuma günü Bayern Münih'in Borussia Monchengladbach'a karşı oynayacağı maçı baldırından sakatlanarak kaçıracak ve Bundesliga'da bir sezonda en çok gol rekorunu kırma umutlarına darbe vuracak."
+    },
     {
       "title": "Galatasaray’da Nhaga müjdesi! Okan Buruk’un büyük planı ortaya çıktı",
       "summary": "Galatasaray’ın genç transferi Renato Nhaga, ilk maçında sergilediği performans ve kaydettiği golle teknik heyetin beğenisini kazandı. Genç oyuncu için teknik direktör Okan Buruk’un nasıl bir yol haritası belirlediği de netleşti.",
@@ -12,14 +34,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:45.502583",
+      "fetched_at": "2026-03-05T14:41:58.138751",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T13:59:41.984299",
+      "processed_at": "2026-03-05T14:43:47.668441",
       "title_tr": "Galatasaray’da Nhaga müjdesi! Okan Buruk’un büyük planı ortaya çıktı",
       "summary_tr": "Galatasaray’ın genç transferi Renato Nhaga, ilk maçında sergilediği performans ve kaydettiği golle teknik heyetin beğenisini kazandı. Genç oyuncu için teknik direktör Okan Buruk’un nasıl bir yol haritası belirlediği de netleşti."
     },
@@ -33,14 +55,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:45.502940",
+      "fetched_at": "2026-03-05T14:41:58.139138",
       "priority_score": 86,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T13:59:42.015132",
+      "processed_at": "2026-03-05T14:43:47.698950",
       "title_tr": "Avrupa devleri peşinde ama… Dursun Özbek noktayı koydu! Osimhen'in sözleşmesindeki kritik madde",
       "summary_tr": "Son dönemde Avrupa’nın dev kulüplerinin radarına giren Victor Osimhen’e ilgi giderek artarken, Galatasaray Başkanı Dursun Özbek Nijeryalı golcünün geleceğine dair dikkat çeken açıklamalarda bulundu."
     },
@@ -54,15 +76,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:13.112251",
+      "fetched_at": "2026-03-05T14:39:30.819026",
       "priority_score": 75,
       "categories": [
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-03-05T13:59:41.346661",
+      "processed_at": "2026-03-05T14:43:47.065157",
       "title_tr": "Sakatlanan Kane'in lig rekoru sona erdi",
       "summary_tr": "Bayern Münihli Harry Kane, Cuma günkü Borussia Monchengladbach maçında forma giyemeyecek ve bu sezon Bundesliga'daki rekoruna son verecek."
+    },
+    {
+      "title": "Real Madrid ile Mbappe arasında sakatlık krizi!",
+      "summary": "Kylian Mbappe ile Real Madrid arasında sakatlık süreci nedeniyle görüş ayrılığı yaşandığı iddia edildi. Kulüp doktorları oyuncunun kısa sürede dönebileceğini düşünürken, Mbappe’nin tedavi için Fransa’ya gitmesi yönetimle aradaki gerilimi artırdı.",
+      "url": "https://www.haberturk.com/real-madrid-ile-mbappe-arasinda-sakatlik-krizi-3867341-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772717527/3867341/jpg/1280x1280",
+      "published": "2026-03-05T13:32:54",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:41:20.791686",
+      "priority_score": 73,
+      "categories": [
+        "injuries",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-05T14:43:47.239555",
+      "title_tr": "Real Madrid ile Mbappe arasında sakatlık krizi!",
+      "summary_tr": "Kylian Mbappe ile Real Madrid arasında sakatlık süreci nedeniyle görüş ayrılığı yaşandığı iddia edildi. Kulüp doktorları oyuncunun kısa sürede dönebileceğini düşünürken, Mbappe’nin tedavi için Fransa’ya gitmesi yönetimle aradaki gerilimi artırdı."
     },
     {
       "title": "Championship play-offs to be expanded to six teams",
@@ -74,13 +116,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:26.519966",
+      "fetched_at": "2026-03-05T14:39:39.237789",
       "priority_score": 71,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-05T13:59:41.404251",
+      "processed_at": "2026-03-05T14:43:47.127763",
       "title_tr": "Şampiyona play-off'ları altı takıma genişletilecek",
       "summary_tr": "EFL, Sky Bet Şampiyonası play-off'larının gelecek sezondan itibaren dört takımdan altı takıma çıkarılacağını doğruladı."
     },
@@ -89,78 +131,40 @@
       "summary": "Real Madrid coach Álvaro Arbeloa has insisted that Kylian Mbappé's progress in recovering from injury is \"all good news\" despite uncertainty about the start forward.",
       "url": "https://www.espn.com/soccer/story/_/id/48109007/kylian-mbappe-real-madrid-injury-progress-all-good-news-alvaro-arbeloa",
       "image_url": null,
-      "published": "2026-03-05T13:49:15",
+      "published": "2026-03-05T13:59:04",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.529841",
+      "fetched_at": "2026-03-05T14:39:25.113039",
       "priority_score": 65,
       "categories": [
         "injuries",
         "la_liga"
       ],
-      "processed_at": "2026-03-05T13:59:41.315944",
+      "processed_at": "2026-03-05T14:43:47.031382",
       "title_tr": "Arbeloa: Mbappé'nin sakatlığındaki ilerleme 'tüm iyi haberler'",
       "summary_tr": "Real Madrid teknik direktörü Álvaro Arbeloa, ileri başlangıç ​​konusundaki belirsizliğe rağmen Kylian Mbappé'nin sakatlıktan kurtulma konusundaki ilerlemesinin \"tamamen iyi haber\" olduğu konusunda ısrar etti."
     },
     {
-      "title": "Ten-man Newcastle score late winner to beat Man Utd",
-      "summary": "Substitute William Osula scores a stoppage-time winner to help 10-man Newcastle beat Manchester United 2-1 at St James' Park, as Michael Carrick suffers his first defeat as Red Devils boss.",
-      "url": "https://www.bbc.com/sport/football/videos/c363801718lo?at_medium=RSS&at_campaign=rss",
+      "title": "'I never point fingers' - Man City blink first in title race",
+      "summary": "Pep Guardiola's Manchester City have blinked first in the run-in during this season's Premier League title race - so has the momentum now swung Arsenal's way?",
+      "url": "https://www.bbc.com/sport/football/articles/cgk22ed0e5go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-04T22:49:10",
+      "published": "2026-03-04T23:29:16",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:13.112587",
+      "fetched_at": "2026-03-05T14:39:30.819199",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-05T13:59:41.354162",
-      "title_tr": "On kişilik Newcastle, Man Utd'u geç yenerek galip geldi",
-      "summary_tr": "Yedek oyuncu William Osula, uzatma süresi galibiyetini alarak 10 kişilik Newcastle'ın St James' Park'ta Manchester United'ı 2-1 yenmesine yardımcı olurken, Michael Carrick Red Devils'in patronu olarak ilk yenilgisini yaşıyor."
-    },
-    {
-      "title": "'Hungry for more' - Lewandowski on Kane, Rashford and secrets of a star striker",
-      "summary": "\"I see my record of 41 goals in 29 games… Wow!\"",
-      "url": "https://www.skysports.com/football/news/12040/13515025/robert-lewandowski-interview-barcelona-and-poland-icon-on-harry-kane-marcus-rashford-and-the-secrets-to-a-star-striker",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-robert-lewandowski_7183137.jpg?20260305132043",
-      "published": "2026-03-05T13:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:55:26.519450",
-      "priority_score": 61,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-05T13:59:41.376928",
-      "title_tr": "'Daha fazlasına aç' - Lewandowski, Kane, Rashford ve yıldız forvetin sırlarını anlatıyor",
-      "summary_tr": "\"29 maçta 41 gollük rekorumu görüyorum... Vay be!\""
-    },
-    {
-      "title": "Matildas sweep aside Iran in dominant Women’s Asian Cup showing",
-      "summary": "Australia defeat Iran 4-0 in one-sided Group A matchMary Fowler starts and scores while Alanna Kennedy nets braceThe Matildas are two wins from two in their home Asian Cup after a straightforward 4-0 defeat of Iran in their second group-stage game on a humid, rainy night on the Gold Coast.Midfielder",
-      "url": "https://www.theguardian.com/football/2026/mar/05/matildas-sweep-aside-iran-in-dominant-womens-asian-cup-showing",
-      "image_url": null,
-      "published": "2026-03-05T11:20:21",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:55:47.261372",
-      "priority_score": 58,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-05T13:59:41.478233",
-      "title_tr": "Matildas, Kadınlar Asya Kupası'nda İran'ı mağlup etti",
-      "summary_tr": "Avustralya, tek taraflı Grup A maçında İran'ı 4-0 yendiMary Fowler sahaya çıkıyor ve gol atarken Alanna Kennedy fileleri güçlendiriyor Matildas, Gold Coast'ta nemli ve yağmurlu bir gecede ikinci grup aşaması maçında İran'ı basit bir 4-0 mağlup ettikten sonra kendi evinde Asya Kupası'nda iki galibiyet aldı."
+      "processed_at": "2026-03-05T14:43:47.068258",
+      "title_tr": "'Asla parmakla göstermem' - Man City şampiyonluk yarışında ilk sırada göz kırpıyor",
+      "summary_tr": "Pep Guardiola'nın Manchester City'si, bu sezonun Premier Lig şampiyonluk yarışında ilk sırada göz kırptı - peki ivme şimdi Arsenal'in lehine mi döndü?"
     },
     {
       "title": "Trabzonspor'un golcü sezonu!",
@@ -172,113 +176,93 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:09.456705",
+      "fetched_at": "2026-03-05T14:41:20.792141",
       "priority_score": 58,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-05T13:59:41.571312",
+      "processed_at": "2026-03-05T14:43:47.268655",
       "title_tr": "Trabzonspor'un golcü sezonu!",
       "summary_tr": "Trabzonspor, bu sezon gol üretme konusunda sıkıntı yaşamıyor. Bordo-mavililer, 24 hafta sonunda attığı 48 golle son 6 sezon içindeki en golcü dönemini yaşıyor. Trabzonspor, bu sezon oynadığı 29 karşılaşmanın sadece 3'ünde rakip filelere gol bırakamadı."
     },
     {
-      "title": "Brighton boss slams Arsenal tactics, tells PL to act",
-      "summary": "Brighton boss Fabian Hürzeler has launched a scathing attack on Arsenal's time-wasting tactics by calling on the Premier League to intervene.",
-      "url": "https://www.espn.com/soccer/story/_/id/48103701/brighton-fabian-hurzeler-arsenal-wasting-premier-league",
-      "image_url": null,
-      "published": "2026-03-05T13:49:15",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.528858",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-05T13:59:41.313127",
-      "title_tr": "Brighton patronu Arsenal taktiklerini eleştirdi ve PL'ye harekete geçmesini söyledi",
-      "summary_tr": "Brighton teknik direktörü Fabian Hürzeler, Premier Lig'e müdahale çağrısında bulunarak Arsenal'in zaman kaybı taktiklerine sert bir saldırı başlattı."
-    },
-    {
-      "title": "Galatasaray derbide tam kadro!",
-      "summary": "Galatasaray, Türkiye Kupası’nda Alanyaspor’u eleyerek moralli şekilde Beşiktaş derbisine hazırlanıyor. Sakatlıklarını atlatan Roland Sallai ve Yunus Akgün’ün takıma dönmesiyle Okan Buruk’un elindeki alternatifler artarken, sarı-kırmızılı ekip derbiyi kazanarak liderlik avantajını sürdürmeyi hedefliy",
-      "url": "https://www.haberturk.com/galatasaray-derbide-tam-kadro-3867191-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772698829/3867191/jpg/1280x1280",
-      "published": "2026-03-05T08:20:51",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:57:09.457341",
-      "priority_score": 53,
-      "categories": [
-        "injuries",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-05T13:59:41.617671",
-      "title_tr": "Galatasaray derbide tam kadro!",
-      "summary_tr": "Galatasaray, Türkiye Kupası’nda Alanyaspor’u eleyerek moralli şekilde Beşiktaş derbisine hazırlanıyor. Sakatlıklarını atlatan Roland Sallai ve Yunus Akgün’ün takıma dönmesiyle Okan Buruk’un elindeki alternatifler artarken, sarı-kırmızılı ekip derbiyi kazanarak liderlik avantajını sürdürmeyi hedefliy"
-    },
-    {
-      "title": "Gareth Bale'den Real Madrid itirafı! 'Bir yıldız gibi davranmanızı bekliyorlar'",
-      "summary": "Gareth Bale, katıldığı bir podcastte Real Madrid kariyeriyle ilgili çarpıcı açıklama ve itirafta bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/gareth-baleden-real-madrid-itirafi-bir-yildiz-gibi-davranmanizi-bekliyorlar-43122051",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a97dbca802d8e3476241d3.jpg",
-      "published": "2026-03-05T13:12:00",
+      "title": "Derbide gözler kalecilerde!",
+      "summary": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü.",
+      "url": "https://www.hurriyet.com.tr/sporarena/derbide-gozler-kalecilerde-43121837",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9485aa802d8e347623eff.jpg",
+      "published": "2026-03-05T09:10:48",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:23.858884",
-      "priority_score": 51,
+      "fetched_at": "2026-03-05T14:41:35.852355",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-05T14:43:47.402300",
+      "title_tr": "Derbide gözler kalecilerde!",
+      "summary_tr": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü."
+    },
+    {
+      "title": "Rondje Buitenland: 'Onze eigen Yamal kan een sleutelrol vervullen op het WK'",
+      "summary": "Tijd voor een nieuwe aflevering van Rondje Buitenland Extra. Experts buitenlands voetbal Süleyman Öztürk en Bas van den Hoven bespreken de uitschakeling van Barcelona in de Copa del Rey, maar ook de tweede nederlaag op rij van Real Madrid komt aan bod. Uiteraard ook veel aandacht voor de Premier Lea",
+      "url": "https://www.vi.nl/pro/rondje-buitenland-extra-onze-eigen-yamal-kan-een-sleutelrol-vervullen-op-het-wk",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/05/b625e00663a68c24fc36c95aab2c32808c19dca2.jpg?width=1200",
+      "published": "2026-03-05T14:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:43:44.607133",
+      "priority_score": 47,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-05T13:59:41.635968",
-      "title_tr": "Gareth Bale'den Real Madrid itirafı! 'Bir yıldız gibi davranmanızı bekliyorlar'",
-      "summary_tr": "Gareth Bale, katıldığı bir podcastte Real Madrid kariyeriyle ilgili çarpıcı açıklama ve itirafta bulundu."
+      "processed_at": "2026-03-05T14:43:47.897834",
+      "title_tr": "Yurtdışı Turu: 'Yamal'ımız Dünya Kupası'nda kilit rol oynayabilir'",
+      "summary_tr": "Rondje Buitenland Extra'nın yeni bölümünün zamanı geldi. Yabancı futbol uzmanları Süleyman Öztürk ve Bas van den Hoven, Barcelona'nın Copa del Rey'deki elenmesini tartışırken, Real Madrid'in üst üste ikinci yenilgisi de tartışılıyor. Tabii ki Premier Lea'ya da büyük ilgi var"
     },
     {
-      "title": "Beşiktaş - Galatasaray derbisi bilet fiyatları ne kadar, bilet kaldı mı?",
-      "summary": "Trendyol Süper Lig'in 25. haftasında oynanacak olan Beşiktaş - Galatasaray derbisinin bilet fiyatları belli oldu. Beşik...",
-      "url": "https://www.yenisafak.com/spor/besiktas--galatasaray-derbisi-bilet-fiyatlari-ne-kadar-bilet-kaldi-mi-4803195",
-      "image_url": null,
-      "published": "2026-03-05T13:00:47",
-      "source": "Yeni Şafak Spor",
+      "title": "'Aké bovenaan lijstje Barça', Atlético denkt aan vervanger van Griezmann",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/van-de-ven-kan-ook-naar-barcelona-slot-ziet-sterkhouder-vertrekken",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-05T14:39:43",
+      "source": "VI.nl",
       "source_priority": 6,
-      "region": "turkey",
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-05T13:59:01.927216",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-05T13:59:42.320976",
-      "title_tr": "Beşiktaş - Galatasaray derbisi bilet fiyatları ne kadar, bilet kaldı mı?",
-      "summary_tr": "Trendyol Süper Lig'in 25. haftasında oynanacak olan Beşiktaş - Galatasaray derbisinin bilet fiyatları belli oldu. Beşik..."
-    },
-    {
-      "title": "Victor Osimhen'e sürpriz transfer önerisi!",
-      "summary": "Son dakika Galatasaray haberleri: Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, sarı-kırmızılı forma altında gösterdiği performansla dikkatleri çekmeye devam ediyor. Nijeryalı eski futbolcu Jonathan...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/05/victor-osimhene-surpriz-transfer-onerisi",
-      "image_url": "https://iaftm.tmgrup.com.tr/5fd83d/1200/675/0/16/800/466?u=https://iftm.tmgrup.com.tr/2026/03/05/victor-osimhene-surpriz-transfer-onerisi-1772708577150.jpeg",
-      "published": "2026-03-05T11:03:29",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:57:57.464907",
-      "priority_score": 64,
+      "fetched_at": "2026-03-05T14:43:44.607039",
+      "priority_score": 67,
       "categories": [
         "transfers",
-        "breaking_news",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-03-05T13:59:42.091968",
-      "title_tr": "Victor Osimhen'e sürpriz transfer önerisi!",
-      "summary_tr": "Son dakika Galatasaray haberleri: Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, sarı-kırmızılı forma altında gösterdiği performansla dikkatleri çekmeye devam ediyor. Nijeryalı eski futbolcu Jonathan...Devamı için tıklayınız"
+      "processed_at": "2026-03-05T14:43:47.880648",
+      "title_tr": "'Aké Barça'nın listesinin zirvesinde' Atletico, Griezmann'ın yerini almayı düşünüyor",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Ten-man Newcastle score late winner to beat Man Utd",
+      "summary": "Substitute William Osula scores a stoppage-time winner to help 10-man Newcastle beat Manchester United 2-1 at St James' Park, as Michael Carrick suffers his first defeat as Red Devils boss.",
+      "url": "https://www.bbc.com/sport/football/videos/c363801718lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-04T22:49:10",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:39:30.819385",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-05T14:43:47.070998",
+      "title_tr": "On kişilik Newcastle, Man Utd'u yenmek için geç bir galibiyet elde etti",
+      "summary_tr": "Yedek oyuncu William Osula, uzatma süresi galibi ile 10 kişilik Newcastle'ın St James' Park'ta Manchester United'ı 2-1 yenmesine yardımcı olurken Michael Carrick, Red Devils'in patronu olarak ilk yenilgisini yaşıyor."
     },
     {
       "title": "Was that the night Arsenal won the Premier League? – Football Weekly",
@@ -290,13 +274,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:47.262116",
+      "fetched_at": "2026-03-05T14:40:03.006641",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-05T13:59:41.492593",
+      "processed_at": "2026-03-05T14:43:47.192071",
       "title_tr": "Arsenal'in Premier Lig'i kazandığı gece miydi bu? – Haftalık Futbol",
       "summary_tr": "Robyn Cowen'a Barry Glendenning, John Brewin ve Jonathan Liew eşlik ederken, Manchester City, Nottingham Forest'a karşı puan kaybediyor ve Arsenal, puan tablosunun zirvesindeki liderliğini yedi puana çıkarıyor. Apple Podcast'leri değerlendirin, değerlendirin, paylaşın ve e-posta üzerinden sohbete katılın."
     },
@@ -310,14 +294,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:09.456427",
+      "fetched_at": "2026-03-05T14:41:20.791849",
       "priority_score": 63,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T13:59:41.549631",
+      "processed_at": "2026-03-05T14:43:47.248880",
       "title_tr": "Beşiktaş yenilerle coşuyor!",
       "summary_tr": "Beşiktaş yeni transferlerinin 11’e girdiği Alanyaspor maçından bu yana 1 beraberlik ve 4 galibiyet aldı. Üst üste 4 maçını kazanan siyah-beyazlılar, rakip kaleye 14 gol gönderirken 6 gol yedi. Beşiktaş’ın bu süreçte attığı gollerin 8’i ise yeni transferlerden geldi."
     },
@@ -331,13 +315,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:23.858978",
+      "fetched_at": "2026-03-05T14:41:35.851909",
       "priority_score": 61,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-03-05T13:59:41.645411",
+      "processed_at": "2026-03-05T14:43:47.345812",
       "title_tr": "PSGli Vitinha'dan şoke eden Real Madrid cevabı! 'Aptallık olurdu'",
       "summary_tr": "PSG'nin Portekizli starı Vitinha, Real Madrid ve Suudi Arabistan'dan gelen transfer tekliflerini neden reddettiğini açıkladı."
     },
@@ -351,13 +335,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.530731",
+      "fetched_at": "2026-03-05T14:39:25.114314",
       "priority_score": 60,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-03-05T13:59:41.322077",
+      "processed_at": "2026-03-05T14:43:47.040004",
       "title_tr": "İyi ya da kötü: Daha fazla VAR ve daha az zaman kaybı dahil olmak üzere Dünya Kupası öncesindeki yeni kural değişikliklerine karar vermek",
       "summary_tr": "Futbolun kurallarını belirleyen IFAB, 1 Temmuz'dan itibaren bazı büyük kural değişiklikleri yapmayı kabul etti; bunlardan bazıları 2026 Dünya Kupası'nda da kabul edildi. Ama iyiler mi?"
     },
@@ -371,53 +355,53 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:13.111222",
+      "fetched_at": "2026-03-05T14:39:30.817810",
       "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-05T13:59:41.333042",
+      "processed_at": "2026-03-05T14:43:47.049004",
       "title_tr": "Osula, beceri yarışmasını kazandıktan 12 yıl sonra Man Utd'u batırdı",
-      "summary_tr": "William Osula, 11 yaşındayken Manchester United beceri yarışmasını kazandı. On yıldan fazla bir süre sonra, Newcastle'ın United'a karşı kazandığı galibiyet golünü attı."
+      "summary_tr": "William Osula, 11 yaşındayken Manchester United yetenek yarışmasını kazandı. On yıldan fazla bir süre sonra, Newcastle'ın United'a karşı kazandığı galibiyet golünü attı."
     },
     {
-      "title": "Derbide gözler kalecilerde!",
-      "summary": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü.",
-      "url": "https://www.hurriyet.com.tr/sporarena/derbide-gozler-kalecilerde-43121837",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9485aa802d8e347623eff.jpg",
-      "published": "2026-03-05T09:10:48",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "Brighton boss slams Arsenal tactics, tells PL to act",
+      "summary": "Brighton boss Fabian Hürzeler has launched a scathing attack on Arsenal's time-wasting tactics by calling on the Premier League to intervene.",
+      "url": "https://www.espn.com/soccer/story/_/id/48103701/brighton-fabian-hurzeler-arsenal-wasting-premier-league",
+      "image_url": null,
+      "published": "2026-03-05T13:59:04",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:23.859408",
-      "priority_score": 56,
+      "fetched_at": "2026-03-05T14:39:25.112038",
+      "priority_score": 55,
       "categories": [
-        "match_results",
-        "super_lig"
+        "premier_league",
+        "serie_a"
       ],
-      "processed_at": "2026-03-05T13:59:41.703973",
-      "title_tr": "Derbide gözler kalecilerde!",
-      "summary_tr": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü."
+      "processed_at": "2026-03-05T14:43:47.028981",
+      "title_tr": "Brighton patronu Arsenal taktiklerini eleştirdi ve PL'ye harekete geçmesini söyledi",
+      "summary_tr": "Brighton teknik direktörü Fabian Hürzeler, Premier Lig'e müdahale çağrısında bulunarak Arsenal'in zaman kaybı taktiklerine sert bir saldırı başlattı."
     },
     {
       "title": "Bale: Utd made bigger offer for me than Madrid",
       "summary": "Gareth Bale has revealed that Manchester United came in with a higher offer for him than Real Madrid while he was at Tottenham, but said his heart was set on a move to the LaLiga giants.",
       "url": "https://www.espn.com/soccer/story/_/id/48109124/gareth-bale-man-united-made-bigger-offer-i-wanted-real-madrid",
       "image_url": null,
-      "published": "2026-03-05T13:49:15",
+      "published": "2026-03-05T13:59:04",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.529306",
+      "fetched_at": "2026-03-05T14:39:25.112245",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-03-05T13:59:41.314080",
+      "processed_at": "2026-03-05T14:43:47.029241",
       "title_tr": "Bale: Utd bana Madrid'den daha büyük bir teklif yaptı",
       "summary_tr": "Gareth Bale, Tottenham'dayken Manchester United'ın kendisine Real Madrid'den daha yüksek bir teklifle geldiğini ancak kalbinin LaLiga devlerine yönelmeye kararlı olduğunu söyledi."
     },
@@ -426,55 +410,36 @@
       "summary": "Bernardo Silva has suggested refereeing decisions going against Manchester City is costing Pep Guardiola's side in the title race.",
       "url": "https://www.espn.com/soccer/story/_/id/48109275/bernardo-silva-refereeing-hurting-man-citys-title-push",
       "image_url": null,
-      "published": "2026-03-05T13:49:15",
+      "published": "2026-03-05T13:59:04",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.529486",
+      "fetched_at": "2026-03-05T14:39:25.112487",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T13:59:41.314570",
+      "processed_at": "2026-03-05T14:43:47.029659",
       "title_tr": "Bernardo: Hakemler City'nin şampiyonluk hamlesine zarar veriyor",
       "summary_tr": "Bernardo Silva, Manchester City'ye karşı alınan hakem kararlarının şampiyonluk yarışında Pep Guardiola'ya mal olacağını öne sürdü."
-    },
-    {
-      "title": "Newcastle's Osula trained to hit stunning winner",
-      "summary": "Eddie Howe revealed Newcastle United super sub William Osula stayed for extra training ahead of facing Manchester United perfecting the finish that secured a box office victory for the 10-man hosts at St James' Park.",
-      "url": "https://www.espn.com/soccer/story/_/id/48105356/newcastle-osula-stayed-late-practice-winner",
-      "image_url": null,
-      "published": "2026-03-05T13:49:15",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.529660",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-05T13:59:41.315233",
-      "title_tr": "Newcastle'lı Osula çarpıcı bir galibiyet elde etmek için eğitildi",
-      "summary_tr": "Eddie Howe, Newcastle United'ın süper yardımcı oyuncusu William Osula'nın, St James' Park'ta 10 kişilik ev sahibi takım için gişe zaferini garantileyen bitişi mükemmelleştiren Manchester United ile karşılaşmadan önce ekstra antrenman için kaldığını açıkladı."
     },
     {
       "title": "Sentnor scores lone goal as USWNT tops Canada",
       "summary": "Ally Sentnor scored in the 55th minute as the United States beat Canada 1-0 on Wednesday in the SheBelieves Cup tournament.",
       "url": "https://www.espn.com/soccer/report/_/gameId/401846989",
       "image_url": null,
-      "published": "2026-03-05T13:49:14",
+      "published": "2026-03-05T13:59:03",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:07.530222",
+      "fetched_at": "2026-03-05T14:39:25.113446",
       "priority_score": 55,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-05T13:59:41.317696",
+      "processed_at": "2026-03-05T14:43:47.032813",
       "title_tr": "USWNT Kanada'yı geride bırakırken Sentnor tek gol attı",
       "summary_tr": "SheBelieves Kupası turnuvasında ABD, Kanada'yı 1-0 yenerken Ally Sentnor 55. dakikada gol attı."
     },
@@ -488,34 +453,34 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-05T13:59:38.724550",
+      "fetched_at": "2026-03-05T14:43:44.607636",
       "priority_score": 52,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-03-05T13:59:42.518721",
+      "processed_at": "2026-03-05T14:43:47.982323",
       "title_tr": "Futbol yasaları Karlsson'u FC Utrecht'te yedek kulübesinde tutuyor: 'İki üst düzey oyuncu'",
       "summary_tr": "Jesper Karlsson'un FC Utrecht'te hâlâ sırasını beklemesi gerekiyor. Ron Jans, kış dönemindeki satın alımın birinci sınıf olduğunu düşünüyor ancak Yoann Cathline ile seçimde bir tane daha var. \"O halde sabırlı olmalısınız, bunlar futbolun kanunlarıdır.\""
     },
     {
-      "title": "Antalya’da beklenti 2-3 gol! Tottenham’ın maçları KG Var bitiyor… İşte Misli’den Günün Tüyoları",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/antalyada-beklenti-2-3-gol-tottenhamin-maclari-kg-var-bitiyor-iste-misliden-gunun-tuyolari-43121743",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9366f2f018e8a84c82b0f.jpg",
-      "published": "2026-03-05T07:54:07",
-      "source": "Hürriyet Spor",
+      "title": "'Hungry for more' - Lewandowski on Kane, Rashford and secrets of a star striker",
+      "summary": "\"I see my record of 41 goals in 29 games… Wow!\"",
+      "url": "https://www.skysports.com/football/news/12040/13515025/robert-lewandowski-interview-barcelona-and-poland-icon-on-harry-kane-marcus-rashford-and-the-secrets-to-a-star-striker",
+      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-robert-lewandowski_7183137.jpg?20260305132043",
+      "published": "2026-03-05T13:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:23.859815",
+      "fetched_at": "2026-03-05T14:39:39.237176",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-05T13:59:41.773758",
-      "title_tr": "Antalya’da beklenti 2-3 gol! Tottenham’ın maçları KG Var bitiyor… İşte Misli’den Günün Tüyoları",
-      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor."
+      "processed_at": "2026-03-05T14:43:47.095209",
+      "title_tr": "'Daha fazlasına aç' - Lewandowski, Kane, Rashford ve yıldız forvetin sırlarını anlatıyor",
+      "summary_tr": "\"29 maçta 41 gollük rekorumu görüyorum... Vay be!\""
     },
     {
       "title": "GALATASARAY LİVERPOOL MAÇ BİLETİ ÜCRETİ: Galatasaray Liverpool maç biletleri satışa çıktı mı?",
@@ -527,35 +492,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:45.501482",
+      "fetched_at": "2026-03-05T14:41:58.137572",
       "priority_score": 51,
       "categories": [
         "super_lig",
         "champions_league"
       ],
-      "processed_at": "2026-03-05T13:59:41.886867",
+      "processed_at": "2026-03-05T14:43:47.574906",
       "title_tr": "GALATASARAY LİVERPOOL MAÇ BİLETİ ÜCRETİ: Galatasaray Liverpool maç biletleri satışa çıktı mı?",
       "summary_tr": "Galatasaray, UEFA Champions League sahnesinde İngiliz devi Liverpool FC ile karşılaşmaya hazırlanıyor. İki köklü kulübü bir araya getirecek bu dev mücadeleye ilişkin organizasyon detayları netleşmeye başladı. Karşılaşmanın hangi şehirde oynanacağı, takımların sahaya çıkacağı tarih ve maç bileti satı"
-    },
-    {
-      "title": "Galatasaray'a Youssouf Fofana transferi için heyecanlandıran haber!",
-      "summary": "Galatasaray mücadele ettiği tüm kulvarda yoluna emin adımlarla ilerlerken sarı-kırmızılılarda diğer yandan transfer çalışmaları tüm hızıyla devam ediyor. Bu anlamda Cimbom'a Youssouf Fofana ile ilgili...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/05/galatasaraya-youssouf-fofana-transferi-icin-heyecanlandiran-haber",
-      "image_url": "https://iaftm.tmgrup.com.tr/9a0667/1200/675/0/92/625/444?u=https://iftm.tmgrup.com.tr/2026/03/05/galatasaraya-youssouf-fofana-transferi-icin-heyecanlandiran-haber-1772698445467.jpeg",
-      "published": "2026-03-05T08:20:45",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-05T13:57:57.465238",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-05T13:59:42.118055",
-      "title_tr": "Galatasaray'a Youssouf Fofana transferi için heyecanlandıran haber!",
-      "summary_tr": "Galatasaray mücadele ettiği tüm kulvarda yoluna emin adımlarla ilerlerken sarı-kırmızılılarda diğer yandan transfer çalışmaları tüm hızıyla devam ediyor. Bu anlamda Cimbom'a Youssouf Fofana ile ilgili...Devamı için tıklayınız"
     },
     {
       "title": "‘The steroids made me feel alone’: Southampton’s Amy Goddard on being diagnosed with Bell’s palsy",
@@ -567,12 +512,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-05T13:55:47.259930",
+      "fetched_at": "2026-03-05T14:40:03.004333",
       "priority_score": 48,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-05T13:59:41.447561",
+      "processed_at": "2026-03-05T14:43:47.148402",
       "title_tr": "'Steroidler beni yalnız hissettirdi': Southampton'dan Amy Goddard'a Bell'in felci teşhisi konulduğunda",
       "summary_tr": "Stoper, 2021'de, etkilenen diğer kişilere yardım etmek isterken yüzünün sol tarafının aniden düştüğü 'taş gibi' bir döneme giriyor. Bir gün, Şubat 2021'de Amy Goddard uyandı ve koşuya çıktı. Eve döndüğünde duş aldı ve yüzünü fırçalamadan önce aynaya baktı."
     },
@@ -586,15 +531,73 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T13:57:09.456565",
+      "fetched_at": "2026-03-05T14:41:20.791999",
       "priority_score": 48,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-03-05T13:59:41.562815",
+      "processed_at": "2026-03-05T14:43:47.260408",
       "title_tr": "Samet Akaydin'dan flaş transfer itirafı!",
       "summary_tr": "Çaykur Rizespor'un milli stoperi Samet Akaydin, A Milli Futbol Takımının play-off'taki rakipleri geçerek Dünya Kupası'na katılacağına inandığını söyledi."
+    },
+    {
+      "title": "Galatasaray derbide tam kadro!",
+      "summary": "Galatasaray, Türkiye Kupası’nda Alanyaspor’u eleyerek moralli şekilde Beşiktaş derbisine hazırlanıyor. Sakatlıklarını atlatan Roland Sallai ve Yunus Akgün’ün takıma dönmesiyle Okan Buruk’un elindeki alternatifler artarken, sarı-kırmızılı ekip derbiyi kazanarak liderlik avantajını sürdürmeyi hedefliy",
+      "url": "https://www.haberturk.com/galatasaray-derbide-tam-kadro-3867191-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772698829/3867191/jpg/1280x1280",
+      "published": "2026-03-05T08:20:51",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:41:20.792766",
+      "priority_score": 48,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-05T14:43:47.312400",
+      "title_tr": "Galatasaray derbide tam kadro!",
+      "summary_tr": "Galatasaray, Türkiye Kupası’nda Alanyaspor’u eleyerek moralli şekilde Beşiktaş derbisine hazırlanıyor. Sakatlıklarını atlatan Roland Sallai ve Yunus Akgün’ün takıma dönmesiyle Okan Buruk’un elindeki alternatifler artarken, sarı-kırmızılı ekip derbiyi kazanarak liderlik avantajını sürdürmeyi hedefliy"
+    },
+    {
+      "title": "Arsenal don't need to make friends to win the Premier League title",
+      "summary": "Brighton boss Fabian Hurzeler had strong words for Arsenal's game management, but the Gunners now control their own destiny in the title race.",
+      "url": "https://www.espn.com/soccer/story/_/id/48103145/arsenal-need-make-friends-win-premier-league",
+      "image_url": null,
+      "published": "2026-03-05T09:21:58",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:39:25.113960",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-05T14:43:47.036199",
+      "title_tr": "Arsenal'in Premier Lig şampiyonluğunu kazanmak için arkadaş edinmesine gerek yok",
+      "summary_tr": "Brighton patronu Fabian Hurzeler, Arsenal'in oyun yönetimine sert sözler söyledi ancak Arsenal artık şampiyonluk yarışında kendi kaderlerini kontrol ediyor."
+    },
+    {
+      "title": "Have two potential Manchester City players ended the club's title hopes?",
+      "summary": "A pair of future Man City signings may have just dented the club's chances of winning the league this season.",
+      "url": "https://www.espn.com/soccer/story/_/id/48104212/have-two-manchester-city-targets-ended-clubs-title-hopes",
+      "image_url": null,
+      "published": "2026-03-05T09:22:19",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-05T14:39:25.114125",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-05T14:43:47.037993",
+      "title_tr": "İki potansiyel Manchester City oyuncusu kulübün şampiyonluk umutlarını sona erdirdi mi?",
+      "summary_tr": "Manchester City'nin gelecekte imzalayacağı bir çift transfer, kulübün bu sezon ligi kazanma şansını azaltmış olabilir."
     }
   ]
 }
