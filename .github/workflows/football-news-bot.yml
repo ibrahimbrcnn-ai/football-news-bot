@@ -53,35 +53,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-        # ADVANCED Chrome and ChromeDriver installation
-        sudo apt-get update
-        sudo apt-get install -y wget unzip curl gnupg2 software-properties-common
-        
-        # Install Google Chrome (LATEST STABLE)
-        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
-        sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
-        
-        # Get Chrome version for matching ChromeDriver
-        CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-        echo "Chrome version: $CHROME_VERSION"
-        
-        # Install matching ChromeDriver
-        CHROMEDRIVER_VERSION=$(curl -sS "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_VERSION%%.*}")
-        echo "ChromeDriver version: $CHROMEDRIVER_VERSION"
-        wget -N "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip" -P ~/
-        unzip ~/chromedriver_linux64.zip -d ~/
-        sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
-        sudo chmod +x /usr/local/bin/chromedriver
-        
-        # Verify installations
-        google-chrome --version
-        chromedriver --version
-        
-        # Install additional packages for X11 and display
-        sudo apt-get install -y xvfb x11-utils xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
-        
     - name: Set up environment variables
       env:
         X_ENGLISH_USERNAME: ${{ secrets.X_ENGLISH_USERNAME }}
