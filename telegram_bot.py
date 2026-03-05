@@ -103,20 +103,22 @@ class TelegramBot:
         source = news_item.get('source', 'Unknown')
         categories = news_item.get('categories', [])
         
-        # Create message with HTML formatting
+        # Create message with HTML formatting (for Telegram)
         message = f"<b>⚽ {title}</b>\n\n"
         
         if summary:
-            message += f"{summary[:300]}...\n\n"
+            # Limit summary to 200 chars for better X compatibility via IFTTT
+            summary_text = summary[:200] if len(summary) > 200 else summary
+            message += f"{summary_text}...\n\n"
         
         # Add categories as hashtags
         if categories:
             hashtags = self._generate_hashtags(categories, language)
             message += f"{hashtags}\n\n"
         
-        # Add source and link
+        # Add source and link (plain URL for IFTTT compatibility)
         message += f"📰 <i>{source}</i>\n"
-        message += f"🔗 <a href='{url}'>Haberin Devamı</a>" if language == 'tr' else f"🔗 <a href='{url}'>Read More</a>"
+        message += f"🔗 {url}"  # Plain URL instead of HTML link for IFTTT
         
         return message
     
@@ -170,9 +172,14 @@ class TelegramBot:
             try:
                 self.logger.info(f"📝 Processing news {idx}/{min(len(sorted_news), max_posts)}")
                 
+                # Get image URL (if available)
+                image_url = news_item.get('image_url')
+                
                 # Post to Turkish channel
+                # Try with image first for better visual appeal on Telegram
+                # IFTTT will automatically include the image when forwarding to X
                 tr_message = self.format_news_message(news_item, 'tr')
-                if self.send_message('turkish', tr_message, news_item.get('image_url')):
+                if self.send_message('turkish', tr_message, image_url):
                     turkish_posts += 1
                     self.logger.info(f"✅ Turkish: {idx}/{min(len(sorted_news), max_posts)}")
                 else:
@@ -182,7 +189,7 @@ class TelegramBot:
                 
                 # Post to English channel
                 en_message = self.format_news_message(news_item, 'en')
-                if self.send_message('english', en_message, news_item.get('image_url')):
+                if self.send_message('english', en_message, image_url):
                     english_posts += 1
                     self.logger.info(f"✅ English: {idx}/{min(len(sorted_news), max_posts)}")
                 else:
