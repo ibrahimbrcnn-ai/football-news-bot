@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-05T17:59:43.568903",
+  "timestamp": "2026-03-05T19:13:42.682865",
   "total_items": 30,
   "news": [
     {
@@ -7,12 +7,12 @@
       "summary": "Harry Kane will miss Bayern Munich's game against Borussia Monchengladbach on Friday with a calf injury in a blow to his hopes of breaking the Bundesliga record for most goals in a season.",
       "url": "https://www.espn.com/soccer/story/_/id/48110053/harry-kane-calf-injury-imperils-bundesliga-record-chase",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
+      "published": "2026-03-05T18:01:56",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.283760",
+      "fetched_at": "2026-03-05T19:08:02.612847",
       "priority_score": 100,
       "categories": [
         "match_results",
@@ -20,7 +20,7 @@
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-03-05T17:58:16.373659",
+      "processed_at": "2026-03-05T19:12:18.022163",
       "title_tr": "Kane'in sakatlığı Bundesliga'daki rekor kovalamacasını tehlikeye attı",
       "summary_tr": "Harry Kane, Cuma günü Bayern Münih'in Borussia Monchengladbach'a karşı oynayacağı maçı baldırından sakatlanarak kaçıracak ve Bundesliga'da bir sezonda en çok gol rekorunu kırma umutlarına darbe vuracak."
     },
@@ -34,14 +34,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:56:14.640387",
+      "fetched_at": "2026-03-05T19:10:30.464278",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T17:58:17.025112",
+      "processed_at": "2026-03-05T19:12:18.658684",
       "title_tr": "Galatasaray’da Nhaga müjdesi! Okan Buruk’un büyük planı ortaya çıktı",
       "summary_tr": "Galatasaray’ın genç transferi Renato Nhaga, ilk maçında sergilediği performans ve kaydettiği golle teknik heyetin beğenisini kazandı. Genç oyuncu için teknik direktör Okan Buruk’un nasıl bir yol haritası belirlediği de netleşti."
     },
@@ -55,16 +55,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:56:14.640721",
+      "fetched_at": "2026-03-05T19:10:30.464712",
       "priority_score": 81,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T17:58:17.055734",
+      "processed_at": "2026-03-05T19:12:18.687854",
       "title_tr": "Avrupa devleri peşinde ama… Dursun Özbek noktayı koydu! Osimhen'in sözleşmesindeki kritik madde",
       "summary_tr": "Son dönemde Avrupa’nın dev kulüplerinin radarına giren Victor Osimhen’e ilgi giderek artarken, Galatasaray Başkanı Dursun Özbek Nijeryalı golcünün geleceğine dair dikkat çeken açıklamalarda bulundu."
+    },
+    {
+      "title": "'Aké bovenaan lijstje Barça', Bonaventura houdt het voor gezien",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/ak-bovenaan-lijstje-bar-a-bonaventura-houdt-het-voor-gezien",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-05T18:54:16",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:12:15.210073",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-05T19:12:18.855226",
+      "title_tr": "Bonaventura, 'Aké Barça'nın listesinin zirvesinde' diyor",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Ten-man Newcastle score late winner to beat Man Utd",
@@ -76,73 +96,53 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:54:00.301588",
+      "fetched_at": "2026-03-05T19:08:09.473340",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.414642",
+      "processed_at": "2026-03-05T19:12:18.059239",
       "title_tr": "On kişilik Newcastle, Man Utd'u geç yenerek galip geldi",
-      "summary_tr": "Yedek oyuncu William Osula, uzatma süresi galibiyetiyle 10 kişilik Newcastle'ın, St James' Park'ta Manchester United'ı 2-1 yenmesine yardımcı olurken, Michael Carrick, Red Devils'in patronu olarak ilk yenilgisini yaşıyor."
+      "summary_tr": "Yedek oyuncu William Osula, uzatma süresi galibiyetini alarak 10 kişilik Newcastle'ın St James' Park'ta Manchester United'ı 2-1 yenmesine yardımcı olurken, Michael Carrick Red Devils'in patronu olarak ilk yenilgisini yaşıyor."
     },
     {
-      "title": "F.Bahçe ve G.Saray'ın transfer derbisi!",
-      "summary": "Trendyol Süper Lig'de şampiyonluk için son düzlüğe girilirken, Afrika basınından Fenerbahçe ve Galatasaray için flaş bir transfer iddiası ortaya atıldı.",
-      "url": "https://www.haberturk.com/fenerbahce-ve-galatasaray-in-transfer-derbisi-pape-matar-sarr-3867370-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772725726/3867370/jpg/1280x1280",
-      "published": "2026-03-05T15:49:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:55:40.401155",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-05T17:58:16.589230",
-      "title_tr": "F.Bahçe ve G.Saray'ın transfer derbisi!",
-      "summary_tr": "Trendyol Süper Lig'de şampiyonluk için son düzlüğe girilirken, Afrika basınından Fenerbahçe ve Galatasaray için flaş bir transfer iddiası ortaya atıldı."
-    },
-    {
-      "title": "Sky Sports launches 'Grid Insider' ahead of new season",
-      "summary": "Sky Sports has launched its first-ever nationwide competition to find a standout creator to feature on the biggest stage in broadcasting when it comes to motorsport; Sky Sports F1.",
-      "url": "https://www.skysports.com/f1/news/12040/13514999/sky-sports-launches-grid-insider-to-uncover-fresh-voice-from-heart-of-f1s-social-community",
-      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-f1-sky-f1_7182182.jpg?20260304153304",
-      "published": "2026-03-05T17:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:54:10.659415",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-05T17:58:16.439786",
-      "title_tr": "Sky Sports yeni sezon öncesinde 'Grid Insider'ı başlatıyor",
-      "summary_tr": "Sky Sports, motor sporları söz konusu olduğunda yayıncılığın en büyük sahnesinde yer alacak öne çıkan bir yaratıcıyı bulmak için ülke çapında ilk yarışmasını başlattı; Gökyüzü Sporları F1."
-    },
-    {
-      "title": "'I understand why more teams want the golden ticket' Championship reaction to play-offs extension",
-      "summary": "BBC Sport gets the views of Championship managers as the EFL announces the play-off places will be extended to eighth from next season",
-      "url": "https://www.bbc.com/sport/football/articles/czr00r6jmymo?at_medium=RSS&at_campaign=rss",
+      "title": "Leagues Cup to play in Mexico for 4th edition",
+      "summary": "The 2026 edition of Leagues Cup will see Liga MX teams host phase one matches for the first time since the intraleague tournament debuted the modern format.",
+      "url": "https://www.espn.com/soccer/story/_/id/48111180/liga-mx-stadiums-host-leagues-cup-phase-one-matches-2026",
       "image_url": null,
-      "published": "2026-03-05T17:38:32",
-      "source": "BBC Sport Football",
+      "published": "2026-03-05T18:01:56",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:54:00.299784",
+      "fetched_at": "2026-03-05T19:08:02.612501",
       "priority_score": 55,
       "categories": [
-        "match_results"
+        "breaking_news"
       ],
-      "processed_at": "2026-03-05T17:58:16.390559",
-      "title_tr": "'Neden daha fazla takımın altın bilet istediğini anlıyorum' Şampiyonanın play-off uzatmasına tepkisi",
-      "summary_tr": "EFL play-off sıralarının gelecek sezondan itibaren sekizinci sıraya uzatılacağını duyururken BBC Sport, Şampiyona yöneticilerinin görüşlerini aldı"
+      "processed_at": "2026-03-05T19:12:18.021121",
+      "title_tr": "Ligler Kupası 4'üncü kez Meksika'da oynanacak",
+      "summary_tr": "Lig Kupası'nın 2026 edisyonu, Liga MX takımlarının, lig içi turnuvanın modern formata başlamasından bu yana ilk kez birinci aşama maçlarına ev sahipliği yapmasını sağlayacak."
+    },
+    {
+      "title": "Tottenham v Crystal Palace: Premier League – live",
+      "summary": "Follow latest updates from 8pm (GMT) kick-offGet in touch with Daniel via emailFootball is not a consensual pursuit … cue someone saying yes it is. But him – of course it’s a him – aside, we can surely all agree that we never agree, and not just to force a second most ingenious paradox into an alrea",
+      "url": "https://www.theguardian.com/football/live/2026/mar/05/tottenham-v-crystal-palace-premier-league-live",
+      "image_url": null,
+      "published": "2026-03-05T19:00:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:08:43.304309",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-05T19:12:18.116677",
+      "title_tr": "Tottenham - Crystal Palace: Premier Lig – canlı",
+      "summary_tr": "En son güncellemeleri saat 20:00 (GMT) başlama vuruşundan itibaren takip edin Daniel ile e-posta yoluyla iletişime geçin Futbol karşılıklı anlaşmaya dayalı bir uğraş değildir… birinin evet dediğine işaret edin. Ama o -elbette o bir o- bir yana, hiçbir zaman aynı fikirde olmadığımız konusunda kesinlikle hepimiz hemfikir olabiliriz, hem de bu sadece ikinci en ustaca paradoksu bir gerçekliğe zorlamak için değil."
     },
     {
       "title": "Trabzonspor'un golcü sezonu!",
@@ -154,53 +154,72 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:40.401600",
+      "fetched_at": "2026-03-05T19:09:54.465973",
       "priority_score": 53,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-05T17:58:16.618417",
+      "processed_at": "2026-03-05T19:12:18.258057",
       "title_tr": "Trabzonspor'un golcü sezonu!",
       "summary_tr": "Trabzonspor, bu sezon gol üretme konusunda sıkıntı yaşamıyor. Bordo-mavililer, 24 hafta sonunda attığı 48 golle son 6 sezon içindeki en golcü dönemini yaşıyor. Trabzonspor, bu sezon oynadığı 29 karşılaşmanın sadece 3'ünde rakip filelere gol bırakamadı."
     },
     {
-      "title": "Galatasaray'da Dursun Özbek ve Okan Buruk'tan şampiyonluk sözü!",
-      "summary": "Galatasaray Başkanı Dursun Özbek ve teknik direktör Okan Buruk, katıldıkları iftarda taraftarlarına şampiyonluk sözü verdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-dursun-ozbek-ve-okan-buruktan-sampiyonluk-sozu-43122225",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9bab4a802d8e3476242bb.jpg",
-      "published": "2026-03-05T17:17:44",
-      "source": "Hürriyet Spor",
+      "title": "Highlights: England fall to India in high-scoring T20 semi-final",
+      "summary": "Highlights of India against England from the T20 World Cup semi-final.",
+      "url": "https://www.skysports.com/watch/video/13515827/india-vs-england-highlights-of-t20-world-cup-semi-final",
+      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-england-india-highlights_7183459.jpg?20260305185047",
+      "published": "2026-03-05T18:46:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:51.599937",
+      "fetched_at": "2026-03-05T19:08:22.068021",
       "priority_score": 51,
       "categories": [
-        "super_lig"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-03-05T17:58:16.666153",
-      "title_tr": "Galatasaray'da Dursun Özbek ve Okan Buruk'tan şampiyonluk sözü!",
-      "summary_tr": "Galatasaray Başkanı Dursun Özbek ve teknik direktör Okan Buruk, katıldıkları iftarda taraftarlarına şampiyonluk sözü verdi."
+      "processed_at": "2026-03-05T19:12:18.073240",
+      "title_tr": "Öne Çıkanlar: İngiltere, yüksek skorlu T20 yarı finalinde Hindistan'a yenildi",
+      "summary_tr": "T20 Dünya Kupası yarı finalinde Hindistan'ın İngiltere'ye karşı öne çıkan maçları."
     },
     {
-      "title": "Galatasaray'a Hakan Çalhanoğlu müjdesi! Inter'in yeni kararını duyurdular",
-      "summary": "Galatasaray'ın uzun süredir ilgilendiği Hakan Çalhanoğlu için verilen yeni karar duyuruldu. Inter'in milli oyuncu için indirime gitmeye hazır olduğu belirtildi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-hakan-calhanoglu-mujdesi-interin-yeni-kararini-duyurdular-43122222",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9b7e5a802d8e3476242a4.jpg",
-      "published": "2026-03-05T17:07:09",
+      "title": "McCullum: I would love to stay as England head coach",
+      "summary": "Brendon McCullum reflects on England's performances during the winter across Test and white-ball cricket, saying he would love to stay on as head coach.",
+      "url": "https://www.skysports.com/watch/video/13515813/brendon-mccullum-i-would-love-to-stay-as-head-coach",
+      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-cricket-mccullum_7183429.jpg?20260305182232",
+      "published": "2026-03-05T18:19:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:08:22.068114",
+      "priority_score": 51,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-05T19:12:18.076587",
+      "title_tr": "McCullum: İngiltere'nin başantrenörü olarak kalmayı çok isterim",
+      "summary_tr": "Brendon McCullum, İngiltere'nin kış boyunca Test ve beyaz top kriketindeki performanslarını değerlendirerek baş antrenör olarak kalmayı çok istediğini söyledi."
+    },
+    {
+      "title": "Galatasaray'da Beşiktaş maçı mesaisi başladı!",
+      "summary": "Galatasaray'da Roland Sallai, Yunus Akgün ve Mauro Icardi takımla çalıştı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-besiktas-maci-mesaisi-basladi-43122251",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9ce00a802d8e34762430b.jpg",
+      "published": "2026-03-05T18:40:46",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:51.600018",
+      "fetched_at": "2026-03-05T19:10:05.810991",
       "priority_score": 51,
       "categories": [
-        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T17:58:16.676015",
-      "title_tr": "Galatasaray'a Hakan Çalhanoğlu müjdesi! Inter'in yeni kararını duyurdular",
-      "summary_tr": "Galatasaray'ın uzun süredir ilgilendiği Hakan Çalhanoğlu için verilen yeni karar duyuruldu. Inter'in milli oyuncu için indirime gitmeye hazır olduğu belirtildi."
+      "processed_at": "2026-03-05T19:12:18.298766",
+      "title_tr": "Galatasaray'da Beşiktaş maçı mesaisi başladı!",
+      "summary_tr": "Galatasaray'da Roland Sallai, Yunus Akgün ve Mauro Icardi takımla çalıştı."
     },
     {
       "title": "Kan Kane record van Lewandowski evenaren? 'Had er nog meer kunnen maken'",
@@ -212,54 +231,34 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-05T17:58:13.193517",
+      "fetched_at": "2026-03-05T19:12:15.210829",
       "priority_score": 47,
       "categories": [
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-03-05T17:58:17.315549",
+      "processed_at": "2026-03-05T19:12:19.012736",
       "title_tr": "Kane, Lewandowski'nin rekorunu kırabilecek mi? 'Daha fazlasını yapabilirdik'",
-      "summary_tr": "Harry Kane şu anda Bundesliga'yı yok ediyor. Ancak İngiliz gol kralı henüz Robert Lewandowski'nin rekoruna ulaşamıyor, Barselona'nın 37 yaşındaki forveti de onu şaşırtıyor."
+      "summary_tr": "Harry Kane şu anda Bundesliga'yı yok ediyor. Ancak İngiliz gol kralı henüz Robert Lewandowski'nin rekoruna ulaşamıyor, bu da Barselona'nın 37 yaşındaki forveti için sürpriz bir durum."
     },
     {
-      "title": "Brighton boss slams Arsenal tactics, tells PL to act",
-      "summary": "Brighton boss Fabian Hürzeler has launched a scathing attack on Arsenal's time-wasting tactics by calling on the Premier League to intervene.",
-      "url": "https://www.espn.com/soccer/story/_/id/48103701/brighton-fabian-hurzeler-arsenal-wasting-premier-league",
+      "title": "Why is Dele Alli training at Tottenham?",
+      "summary": "Our Ask Me Anything team explain why Dele Alli is training at former club Tottenham Hotspur.",
+      "url": "https://www.bbc.com/sport/football/articles/c3v7700kneeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
-      "source": "ESPN FC",
+      "published": "2026-03-05T14:51:21",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.282925",
+      "fetched_at": "2026-03-05T19:08:09.472768",
       "priority_score": 45,
       "categories": [
-        "premier_league",
-        "serie_a"
+        "general"
       ],
-      "processed_at": "2026-03-05T17:58:16.372106",
-      "title_tr": "Brighton patronu Arsenal taktiklerini eleştirdi ve PL'ye harekete geçmesini söyledi",
-      "summary_tr": "Brighton teknik direktörü Fabian Hürzeler, Premier Lig'e müdahale çağrısında bulunarak Arsenal'in zaman kaybı taktiklerine sert bir saldırı başlattı."
-    },
-    {
-      "title": "Fabian Hürzeler and Brighton win one battle but lose the one that matters",
-      "summary": "When Fabian Hürzeler grumbled about Arsenal’s penchant for time-wasting ahead of their visit to the Amex Stadium, he knew exactly what levers he was pulling. While he may have been speaking to the ladies and gentlemen of the press, Brighton’s head coach was playing to a different gallery: his own te",
-      "url": "https://www.theguardian.com/football/2026/mar/05/fabian-hurzeler-and-brighton-win-one-battle-but-lose-the-one-that-matters",
-      "image_url": null,
-      "published": "2026-03-05T15:52:41",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:54:29.832457",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-05T17:58:16.485035",
-      "title_tr": "Fabian Hürzeler ve Brighton bir mücadele kazandı ancak önemli olanı kaybetti",
-      "summary_tr": "Fabian Hürzeler, Amex Stadı'na gitmeden önce Arsenal'in zaman kaybetme eğilimi hakkında homurdandığında, hangi kolu çektiğini tam olarak biliyordu. Brighton'ın başantrenörü basın mensuplarıyla konuşuyor olsa da farklı bir galeride oynuyordu: kendi takımı."
+      "processed_at": "2026-03-05T19:12:18.051895",
+      "title_tr": "Dele Alli neden Tottenham'da antrenman yapıyor?",
+      "summary_tr": "Bana Bir Şey Sor ekibimiz, Dele Alli'nin neden eski kulüp Tottenham Hotspur'da antrenman yaptığını açıklıyor."
     },
     {
       "title": "When Chelsea beat Wrexham in the FA Cup – after 300 minutes of football",
@@ -271,34 +270,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-05T17:54:29.833171",
+      "fetched_at": "2026-03-05T19:08:43.305485",
       "priority_score": 43,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.498412",
+      "processed_at": "2026-03-05T19:12:18.135052",
       "title_tr": "Chelsea, FA Cup'ta Wrexham'ı 300 dakikalık futbolun ardından yendiğinde",
       "summary_tr": "Takımlar Cumartesi günü tekrar karşılaştı ve 1982'de kazananı bulmak dokuz günde üç maç aldı. 1980'lerin Spor Blogu'na göre, bazı açılardan tarih tekerrür ediyor. 1982'de Chelsea ve Wrexham, önceki turlarda sırasıyla Hull ve Nottingham Forest'ı yendikten sonra FA Cup'ta karşılaştı. aynı"
     },
     {
-      "title": "PSGli Vitinha'dan şoke eden Real Madrid cevabı! 'Aptallık olurdu'",
-      "summary": "PSG'nin Portekizli starı Vitinha, Real Madrid ve Suudi Arabistan'dan gelen transfer tekliflerini neden reddettiğini açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/psgli-vitinhadan-soke-eden-real-madrid-cevabi-aptallik-olurdu-43121962",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9771deb59fdefaeb267ae.jpg",
-      "published": "2026-03-05T12:29:43",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "F.Bahçe ve G.Saray'ın transfer derbisi!",
+      "summary": "Trendyol Süper Lig'de şampiyonluk için son düzlüğe girilirken, Afrika basınından Fenerbahçe ve Galatasaray için flaş bir transfer iddiası ortaya atıldı.",
+      "url": "https://www.haberturk.com/fenerbahce-ve-galatasaray-in-transfer-derbisi-pape-matar-sarr-3867370-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772725726/3867370/jpg/1280x1280",
+      "published": "2026-03-05T15:49:17",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:51.600455",
-      "priority_score": 61,
+      "fetched_at": "2026-03-05T19:09:54.465555",
+      "priority_score": 63,
       "categories": [
         "transfers",
-        "la_liga"
+        "super_lig"
       ],
-      "processed_at": "2026-03-05T17:58:16.728405",
-      "title_tr": "PSGli Vitinha'dan şoke eden Real Madrid cevabı! 'Aptallık olurdu'",
-      "summary_tr": "PSG'nin Portekizli starı Vitinha, Real Madrid ve Suudi Arabistan'dan gelen transfer tekliflerini neden reddettiğini açıkladı."
+      "processed_at": "2026-03-05T19:12:18.228859",
+      "title_tr": "F.Bahçe ve G.Saray'ın transfer derbisi!",
+      "summary_tr": "Trendyol Süper Lig'de şampiyonluk için son düzlüğe girilirken, Afrika basınından Fenerbahçe ve Galatasaray için flaş bir transfer iddiası ortaya atıldı."
     },
     {
       "title": "Beşiktaş yenilerle coşuyor!",
@@ -310,132 +309,93 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:40.401325",
+      "fetched_at": "2026-03-05T19:09:54.465698",
       "priority_score": 58,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-05T17:58:16.598600",
+      "processed_at": "2026-03-05T19:12:18.238358",
       "title_tr": "Beşiktaş yenilerle coşuyor!",
       "summary_tr": "Beşiktaş yeni transferlerinin 11’e girdiği Alanyaspor maçından bu yana 1 beraberlik ve 4 galibiyet aldı. Üst üste 4 maçını kazanan siyah-beyazlılar, rakip kaleye 14 gol gönderirken 6 gol yedi. Beşiktaş’ın bu süreçte attığı gollerin 8’i ise yeni transferlerden geldi."
     },
     {
-      "title": "'Aké bovenaan lijstje Barça, Atlético denkt aan vervanger van Griezmann'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/van-de-ven-kan-ook-naar-barcelona-slot-ziet-sterkhouder-vertrekken",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-03-05T15:27:10",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:58:13.193588",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-05T17:58:17.332646",
-      "title_tr": "'Aké, Barça'nın listesinin başında yer alıyor, Atletico, Griezmann'ın yerine bir isim düşünüyor'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Osula sinks Man Utd - 12 years after winning skills contest",
-      "summary": "William Osula won a Manchester United skills contest at the age of 11. More than a decade later, he scored Newcastle's winner against United.",
-      "url": "https://www.bbc.com/sport/football/articles/crl4461jyx1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-05T11:54:02",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:54:00.300856",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-05T17:58:16.404442",
-      "title_tr": "Osula, beceri yarışmasını kazandıktan 12 yıl sonra Man Utd'u batırdı",
-      "summary_tr": "William Osula, 11 yaşındayken Manchester United beceri yarışmasını kazandı. On yıldan fazla bir süre sonra, Newcastle'ın United'a karşı kazandığı galibiyet golünü attı."
-    },
-    {
-      "title": "Dit is de reden dat Bale zijn schoenen aan de wilgen moest hangen",
-      "summary": "Hij verbrak het transferrecord in 2013 en wordt gezien als de beste voetballer uit zijn land, maar toch verliep niet alles vlekkeloos voor Gareth Bale. De inmiddels 36-jarige Welshman doet een boekje open over een blessure die als een rode draad door zijn loopbaan liep.",
-      "url": "https://www.vi.nl/nieuws/waarom-bale-noodzakelijk-zijn-schoenen-aan-de-wilgen-moest-hangen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/05/42999e2d6b5ee6789d1d657ee4093b2974e05ac1.jpg?width=1200",
-      "published": "2026-03-05T17:06:52",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:58:13.193302",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-05T17:58:17.266232",
-      "title_tr": "Bu yüzden Bale botlarını asmak zorunda kaldı",
-      "summary_tr": "2013 yılında transfer rekorunu kıran ve ülkesinin en iyi futbolcusu olarak kabul edilen Gareth Bale için her şey yolunda gitmedi. Şu anda 36 yaşında olan Galli oyuncu, kariyeri boyunca yaygın olarak görülen bir sakatlık hakkında konuştu."
-    },
-    {
-      "title": "'Hungry for more' - Lewandowski on Kane, Rashford and secrets of a star striker",
-      "summary": "\"I see my record of 41 goals in 29 games… Wow!\"",
-      "url": "https://www.skysports.com/football/news/12040/13515025/robert-lewandowski-interview-barcelona-and-poland-icon-on-harry-kane-marcus-rashford-and-the-secrets-to-a-star-striker",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-robert-lewandowski_7183137.jpg?20260305132043",
-      "published": "2026-03-05T13:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-05T17:54:10.659823",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-05T17:58:16.472990",
-      "title_tr": "'Daha fazlasına aç' - Lewandowski, Kane, Rashford ve yıldız forvetin sırlarını anlatıyor",
-      "summary_tr": "\"29 maçta 41 gollük rekorumu görüyorum... Vay be!\""
-    },
-    {
-      "title": "Derbide gözler kalecilerde!",
-      "summary": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü.",
-      "url": "https://www.hurriyet.com.tr/sporarena/derbide-gozler-kalecilerde-43121837",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9485aa802d8e347623eff.jpg",
-      "published": "2026-03-05T09:10:48",
+      "title": "PSGli Vitinha'dan şoke eden Real Madrid cevabı! 'Aptallık olurdu'",
+      "summary": "PSG'nin Portekizli starı Vitinha, Real Madrid ve Suudi Arabistan'dan gelen transfer tekliflerini neden reddettiğini açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/psgli-vitinhadan-soke-eden-real-madrid-cevabi-aptallik-olurdu-43121962",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69a9771deb59fdefaeb267ae.jpg",
+      "published": "2026-03-05T12:29:43",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-05T17:55:51.600865",
+      "fetched_at": "2026-03-05T19:10:05.811634",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-05T19:12:18.376199",
+      "title_tr": "PSGli Vitinha'dan şoke eden Real Madrid cevabı! 'Aptallık olurdu'",
+      "summary_tr": "PSG'nin Portekizli starı Vitinha, Real Madrid ve Suudi Arabistan'dan gelen transfer tekliflerini neden reddettiğini açıkladı."
+    },
+    {
+      "title": "Sky Sports launches 'Grid Insider' ahead of new season",
+      "summary": "Sky Sports has launched its first-ever nationwide competition to find a standout creator to feature on the biggest stage in broadcasting when it comes to motorsport; Sky Sports F1.",
+      "url": "https://www.skysports.com/f1/news/12040/13514999/sky-sports-launches-grid-insider-to-uncover-fresh-voice-from-heart-of-f1s-social-community",
+      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-f1-sky-f1_7182182.jpg?20260304153304",
+      "published": "2026-03-05T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:08:22.068492",
       "priority_score": 51,
       "categories": [
-        "match_results",
-        "super_lig"
+        "breaking_news"
       ],
-      "processed_at": "2026-03-05T17:58:16.786539",
-      "title_tr": "Derbide gözler kalecilerde!",
-      "summary_tr": "Bu sezon Süper Lig'de Galatasaray'ın kalecisi Uğurcan Çakır 17 maçta 14 gol yerken, Beşiktaş'ın file bekçisi Ersin Destanoğlu ise 16 müsabakada kalesinde 18 gol gördü."
+      "processed_at": "2026-03-05T19:12:18.095084",
+      "title_tr": "Sky Sports yeni sezon öncesinde 'Grid Insider'ı başlatıyor",
+      "summary_tr": "Sky Sports, motor sporları söz konusu olduğunda yayıncılığın en büyük sahnesinde yer alacak öne çıkan bir yaratıcıyı bulmak için ülke çapında ilk yarışmasını başlattı; Gökyüzü Sporları F1."
+    },
+    {
+      "title": "Brighton boss slams Arsenal tactics, tells PL to act",
+      "summary": "Brighton boss Fabian Hürzeler has launched a scathing attack on Arsenal's time-wasting tactics by calling on the Premier League to intervene.",
+      "url": "https://www.espn.com/soccer/story/_/id/48103701/brighton-fabian-hurzeler-arsenal-wasting-premier-league",
+      "image_url": null,
+      "published": "2026-03-05T18:01:56",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:08:02.611853",
+      "priority_score": 45,
+      "categories": [
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-05T19:12:18.019976",
+      "title_tr": "Brighton patronu Arsenal taktiklerini eleştirdi ve PL'ye harekete geçmesini söyledi",
+      "summary_tr": "Brighton teknik direktörü Fabian Hürzeler, Premier Lig'e müdahale çağrısında bulunarak Arsenal'in zaman kaybı taktiklerine sert bir saldırı başlattı."
     },
     {
       "title": "Bale: Utd made bigger offer for me than Madrid",
       "summary": "Gareth Bale has revealed that Manchester United came in with a higher offer for him than Real Madrid while he was at Tottenham, but said his heart was set on a move to the LaLiga giants.",
       "url": "https://www.espn.com/soccer/story/_/id/48109124/gareth-bale-man-united-made-bigger-offer-i-wanted-real-madrid",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
+      "published": "2026-03-05T18:01:56",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.283133",
+      "fetched_at": "2026-03-05T19:08:02.612061",
       "priority_score": 45,
       "categories": [
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-03-05T17:58:16.372414",
+      "processed_at": "2026-03-05T19:12:18.020304",
       "title_tr": "Bale: Utd bana Madrid'den daha büyük bir teklif yaptı",
       "summary_tr": "Gareth Bale, Tottenham'dayken Manchester United'ın kendisine Real Madrid'den daha yüksek bir teklifle geldiğini ancak kalbinin LaLiga devlerine yönelmeye kararlı olduğunu söyledi."
     },
@@ -444,17 +404,17 @@
       "summary": "Phil Parkinson wants to draw on Wrexham's FA Cup history as well as his own when they face Chelsea in the fifth round on Saturday.",
       "url": "https://www.espn.com/soccer/story/_/id/48110695/wrexham-phil-parkinson-draws-fa-cup-history-ahead-chelsea-clash",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
+      "published": "2026-03-05T18:01:56",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.283386",
+      "fetched_at": "2026-03-05T19:08:02.612314",
       "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.372762",
+      "processed_at": "2026-03-05T19:12:18.020655",
       "title_tr": "Wrexham, Chelsea maçı öncesi Kupa tarihini anlattı",
       "summary_tr": "Phil Parkinson, Cumartesi günü beşinci turda Chelsea ile karşılaşacakları sırada Wrexham'ın FA Cup geçmişinin yanı sıra kendi geçmişinden de yararlanmak istiyor."
     },
@@ -463,38 +423,38 @@
       "summary": "Bernardo Silva has suggested refereeing decisions going against Manchester City is costing Pep Guardiola's side in the title race.",
       "url": "https://www.espn.com/soccer/story/_/id/48109275/bernardo-silva-refereeing-hurting-man-citys-title-push",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
+      "published": "2026-03-05T18:01:56",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.283576",
+      "fetched_at": "2026-03-05T19:08:02.612678",
       "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.373193",
+      "processed_at": "2026-03-05T19:12:18.021627",
       "title_tr": "Bernardo: Hakemler City'nin şampiyonluk hamlesine zarar veriyor",
       "summary_tr": "Bernardo Silva, Manchester City'ye karşı alınan hakem kararlarının şampiyonluk yarışında Pep Guardiola'ya mal olacağını öne sürdü."
     },
     {
-      "title": "Sentnor scores lone goal as USWNT tops Canada",
-      "summary": "Ally Sentnor scored in the 55th minute as the United States beat Canada 1-0 on Wednesday in the SheBelieves Cup tournament.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401846989",
+      "title": "Liverpool youth GK joins FC Cincinnati on loan",
+      "summary": "Liverpool youth goalkeeper Fabian Mrozek has moved to MLS side FC Cincinnati on loan for the 2026 season.",
+      "url": "https://www.espn.com/soccer/story/_/id/48112312/liverpool-youth-goalkeeper-fabian-mrozek-joins-fc-cincinnati-loan",
       "image_url": null,
-      "published": "2026-03-05T15:59:03",
+      "published": "2026-03-05T18:01:56",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.284303",
+      "fetched_at": "2026-03-05T19:08:02.613024",
       "priority_score": 45,
       "categories": [
-        "match_results"
+        "general"
       ],
-      "processed_at": "2026-03-05T17:58:16.375781",
-      "title_tr": "USWNT Kanada'yı geride bırakırken Sentnor tek gol attı",
-      "summary_tr": "SheBelieves Kupası turnuvasında ABD, Kanada'yı 1-0 yenerken Ally Sentnor 55. dakikada gol attı."
+      "processed_at": "2026-03-05T19:12:18.022785",
+      "title_tr": "Liverpool genç GK kiralık olarak FC Cincinnati'ye katıldı",
+      "summary_tr": "Liverpool'un genç kalecisi Fabian Mrozek, 2026 sezonu için MLS takımı FC Cincinnati'ye kiralık olarak transfer oldu."
     },
     {
       "title": "The best teams in European soccer right now: Can anybody touch Barcelona, Bayern?",
@@ -506,13 +466,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.284651",
+      "fetched_at": "2026-03-05T19:08:02.613564",
       "priority_score": 45,
       "categories": [
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-03-05T17:58:16.377858",
+      "processed_at": "2026-03-05T19:12:18.025808",
       "title_tr": "Şu anda Avrupa futbolunun en iyi takımları: Herkes Barcelona'ya, Bayern'e dokunabilir mi?",
       "summary_tr": "Takvim Mart ayına dönerken, 2026'nın en ateşli, en formda Avrupa kulüplerini sıralamak için fazlasıyla yeterli olduğunu gördük. Takımınız sıralamada nerede?"
     },
@@ -526,12 +486,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.285137",
+      "fetched_at": "2026-03-05T19:08:02.614050",
       "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.382448",
+      "processed_at": "2026-03-05T19:12:18.030348",
       "title_tr": "Arsenal'in Premier Lig şampiyonluğunu kazanmak için arkadaş edinmesine gerek yok",
       "summary_tr": "Brighton patronu Fabian Hurzeler, Arsenal'in oyun yönetimine sert sözler söyledi ancak Arsenal artık şampiyonluk yarışında kendi kaderlerini kontrol ediyor."
     },
@@ -545,52 +505,91 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:53:53.285318",
+      "fetched_at": "2026-03-05T19:08:02.614232",
       "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-05T17:58:16.384497",
+      "processed_at": "2026-03-05T19:12:18.032397",
       "title_tr": "İki potansiyel Manchester City oyuncusu kulübün şampiyonluk umutlarını sona erdirdi mi?",
       "summary_tr": "Manchester City'nin gelecekte imzalayacağı bir çift transfer, kulübün bu sezon ligi kazanma şansını azaltmış olabilir."
     },
     {
-      "title": "Previously silent Iran players sing and salute anthem",
-      "summary": "Alireza Mohebbi, an Australia-based correspondent for Iran International TV, says there is \"no doubt\" the players are under instruction to sing.",
-      "url": "https://www.bbc.com/sport/football/articles/cjrqqw771z3o?at_medium=RSS&at_campaign=rss",
+      "title": "'I understand why more teams want golden ticket' - Championship reaction to play-offs extension",
+      "summary": "BBC Sport gets the views of Championship managers as the EFL announces the play-off places will be extended to eighth from next season.",
+      "url": "https://www.bbc.com/sport/football/articles/czr00r6jmymo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-05T12:30:56",
+      "published": "2026-03-05T17:38:32",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-05T17:54:00.299966",
+      "fetched_at": "2026-03-05T19:08:09.471913",
       "priority_score": 45,
       "categories": [
-        "serie_a"
+        "match_results"
       ],
-      "processed_at": "2026-03-05T17:58:16.392521",
-      "title_tr": "Daha önce sessiz kalan İranlı oyuncular marşı söyleyip selamladı",
-      "summary_tr": "İran Uluslararası TV'nin Avustralya merkezli muhabiri Alireza Mohebbi, oyunculara şarkı söyleme talimatı verildiğine \"şüphe yok\" diyor."
+      "processed_at": "2026-03-05T19:12:18.040319",
+      "title_tr": "'Neden daha fazla takımın altın bilet istediğini anlıyorum' - Şampiyonanın play-off uzatmasına tepkisi",
+      "summary_tr": "EFL, play-off sıralamalarının gelecek sezondan itibaren sekizinciye uzatılacağını duyururken BBC Sport, Şampiyona yöneticilerinin görüşlerini aldı."
     },
     {
-      "title": "Why is Dele Alli training at Tottenham?",
-      "summary": "Our Ask Me Anything team explain why Dele Alli is training at former club Tottenham Hotspur.",
-      "url": "https://www.bbc.com/sport/football/articles/c3v7700kneeo?at_medium=RSS&at_campaign=rss",
+      "title": "‘The steroids made me feel alone’: Southampton’s Amy Goddard on being diagnosed with Bell’s palsy",
+      "summary": "Centre-back opens up on the ‘petrifying’ time in 2021 when the left side of her face suddenly dropped as she wants to help others who are affectedOne day, in February 2021, Amy Goddard woke up and went for a run. On her return home she took a shower and then looked in the mirror before brushing her ",
+      "url": "https://www.theguardian.com/football/2026/mar/05/southampton-amy-goddard-bells-palsy",
       "image_url": null,
-      "published": "2026-03-05T14:51:21",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-03-05T11:33:27",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-05T17:54:00.300681",
-      "priority_score": 45,
+      "fetched_at": "2026-03-05T19:08:43.305863",
+      "priority_score": 43,
       "categories": [
-        "general"
+        "transfers"
       ],
-      "processed_at": "2026-03-05T17:58:16.401627",
-      "title_tr": "Dele Alli neden Tottenham'da antrenman yapıyor?",
-      "summary_tr": "Bana Bir Şey Sor ekibimiz, Dele Alli'nin neden eski kulüp Tottenham Hotspur'da antrenman yaptığını açıklıyor."
+      "processed_at": "2026-03-05T19:12:18.143302",
+      "title_tr": "'Steroidler beni yalnız hissettirdi': Southampton'dan Amy Goddard'a Bell'in felci teşhisi konulduğunda",
+      "summary_tr": "Stoper, 2021'de, etkilenen diğer kişilere yardım etmek isterken yüzünün sol tarafının aniden düştüğü 'taş gibi' bir döneme giriyor. Bir gün, Şubat 2021'de Amy Goddard uyandı ve koşuya çıktı. Eve döndüğünde duş aldı ve yüzünü fırçalamadan önce aynaya baktı."
+    },
+    {
+      "title": "Samet Akaydin'dan flaş transfer itirafı!",
+      "summary": "Çaykur Rizespor'un milli stoperi Samet Akaydin, A Milli Futbol Takımının play-off'taki rakipleri geçerek Dünya Kupası'na katılacağına inandığını söyledi.",
+      "url": "https://www.haberturk.com/samet-akaydin-dan-flas-transfer-itirafi-3867260-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/05/ver1772707918/3867260/jpg/1280x1280",
+      "published": "2026-03-05T10:53:33",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:09:54.465834",
+      "priority_score": 43,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-03-05T19:12:18.250144",
+      "title_tr": "Samet Akaydin'dan flaş transfer itirafı!",
+      "summary_tr": "Çaykur Rizespor'un milli stoperi Samet Akaydin, A Milli Futbol Takımının play-off'taki rakipleri geçerek Dünya Kupası'na katılacağına inandığını söyledi."
+    },
+    {
+      "title": "Dubbele jacht voor Boëtius: WK met Suriname en play-offs met RKC",
+      "summary": "Jean-Paul Boëtius (31) zette op woensdag zijn handtekening onder een contract dat hem voor de rest van dit seizoen aan RKC Waalwijk bindt. Op weg naar het WK met Suriname en op jacht naar de play-offs met de Brabantse club. ‘Als beide lukt, zou dat heel veel voldoening geven’, droomt de voormalige F",
+      "url": "https://www.vi.nl/pro/dubbele-jacht-voor-bo-tius-wk-met-suriname-en-play-offs-met-rkc",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/05/630bad529c09a8662952cd41a80b243ed6786cc4.jpg?width=1200",
+      "published": "2026-03-05T18:00:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-05T19:12:15.210400",
+      "priority_score": 42,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-03-05T19:12:18.917192",
+      "title_tr": "Boëtius için çifte av: Surinam ile Dünya Kupası ve RKC ile play-off",
+      "summary_tr": "Jean-Paul Boëtius (31), Çarşamba günü kendisini bu sezonun geri kalanında RKC Waalwijk'e bağlayan bir sözleşme imzaladı. Surinam ile Dünya Kupası yolunda ve Brabant kulübüyle play-off arayışında. Eski F rüyasında \"Her ikisi de başarılı olsaydı çok tatmin edici olurdu\" diyor."
     }
   ]
 }
