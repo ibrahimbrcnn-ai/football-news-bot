@@ -115,40 +115,109 @@
   },
   "turkish_sources": [
     {
+      "name": "A Spor",
+      "rss": "https://www.aspor.com.tr/rss/gundem",
+      "priority": 10,
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
       "name": "Fanatik",
-      "rss": "https://www.fanatik.com.tr/rss",
+      "rss": "https://www.fanatik.com.tr/rss/anasayfa",
       "priority": 9,
-      "region": "turkey"
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Sporx",
+      "rss": "https://www.sporx.com/rss",
+      "priority": 9,
+      "region": "turkey",
+      "language": "turkish"
     },
     {
       "name": "Habertürk Spor",
       "rss": "https://www.haberturk.com/rss/spor.xml",
       "priority": 9,
-      "region": "turkey"
+      "region": "turkey",
+      "language": "turkish"
     },
     {
-      "name": "TRT Spor",
-      "rss": "https://www.trtspor.com.tr/rss",
+      "name": "Fotospor",
+      "rss": "https://www.fotospor.com/rss",
+      "priority": 9,
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Hürriyet Spor",
+      "rss": "https://www.hurriyet.com.tr/rss/spor",
       "priority": 8,
-      "region": "turkey"
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Sabah Spor",
+      "rss": "https://www.sabah.com.tr/rss/spor.xml",
+      "priority": 8,
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Sözcü Spor",
+      "rss": "https://www.sozcu.com.tr/kategori/spor/feed/",
+      "priority": 8,
+      "region": "turkey",
+      "language": "turkish"
     },
     {
       "name": "NTV Spor",
-      "rss": "https://www.ntvspor.net/rss",
+      "rss": "https://www.ntvspor.net/rss/spor",
       "priority": 8,
-      "region": "turkey"
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "CNN Türk Spor",
+      "rss": "https://www.cnnturk.com/feed/rss/spor/news",
+      "priority": 8,
+      "region": "turkey",
+      "language": "turkish"
     },
     {
       "name": "Milliyet Spor",
-      "rss": "https://www.milliyet.com.tr/rss/rsspembe.xml",
-      "priority": 8,
-      "region": "turkey"
+      "rss": "https://www.milliyet.com.tr/rss/rssnew/sporrssnew.xml",
+      "priority": 7,
+      "region": "turkey",
+      "language": "turkish"
     },
     {
       "name": "Fotomac",
-      "rss": "https://www.fotomac.com.tr/rss",
+      "rss": "https://www.fotomac.com.tr/rss/anasayfa",
       "priority": 7,
-      "region": "turkey"
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "AMK Spor",
+      "rss": "https://www.amkspor.com/rss",
+      "priority": 7,
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Türkiye Gazetesi Spor",
+      "rss": "https://www.turkiyegazetesi.com.tr/rss/spor.xml",
+      "priority": 6,
+      "region": "turkey",
+      "language": "turkish"
+    },
+    {
+      "name": "Yeni Şafak Spor",
+      "rss": "https://www.yenisafak.com/rss?xml=spor",
+      "priority": 6,
+      "region": "turkey",
+      "language": "turkish"
     }
   ],
   "regional_sources": {
