@@ -36,45 +36,58 @@ class TelegramBot:
             return False
         
         if not bot['chat_id']:
-            self.logger.warning(f"⚠️ Missing chat_id for {bot_type} bot, using default")
-            # If no chat_id, message will be sent to bot itself (for testing)
-            bot['chat_id'] = None
+            self.logger.error(f"❌ Missing chat_id for {bot_type} bot")
+            return False
         
         base_url = f"https://api.telegram.org/bot{bot['token']}"
         
         try:
+            # Try with image first, fallback to text only if image fails
             if image_url:
-                # Send photo with caption
-                url = f"{base_url}/sendPhoto"
-                data = {
-                    'photo': image_url,
-                    'caption': text[:1024],  # Telegram caption limit
-                    'parse_mode': parse_mode
-                }
-            else:
-                # Send text message
+                try:
+                    url = f"{base_url}/sendPhoto"
+                    data = {
+                        'chat_id': bot['chat_id'],
+                        'photo': image_url,
+                        'caption': text[:1024],  # Telegram caption limit
+                        'parse_mode': parse_mode
+                    }
+                    response = requests.post(url, json=data, timeout=15)
+                    
+                    if response.status_code == 200:
+                        self.logger.info(f"✅ Photo sent successfully to {bot_type} channel")
+                        return True
+                    else:
+                        self.logger.warning(f"⚠️ Failed to send photo to {bot_type}, trying text only: {response.text[:100]}")
+                        # Fall through to text-only
+                        image_url = None
+                except Exception as img_error:
+                    self.logger.warning(f"⚠️ Image error for {bot_type}, sending text only: {img_error}")
+                    image_url = None
+            
+            # Send text message (either originally text-only or fallback from image failure)
+            if not image_url:
                 url = f"{base_url}/sendMessage"
                 data = {
+                    'chat_id': bot['chat_id'],
                     'text': text[:4096],  # Telegram message limit
                     'parse_mode': parse_mode,
                     'disable_web_page_preview': False
                 }
-            
-            # Add chat_id if available
-            if bot['chat_id']:
-                data['chat_id'] = bot['chat_id']
-            
-            response = requests.post(url, json=data, timeout=30)
-            
-            if response.status_code == 200:
-                self.logger.info(f"✅ Message sent successfully to {bot_type} channel")
-                return True
-            else:
-                self.logger.error(f"❌ Failed to send message to {bot_type}: {response.text}")
-                return False
+                response = requests.post(url, json=data, timeout=15)
                 
+                if response.status_code == 200:
+                    self.logger.info(f"✅ Message sent successfully to {bot_type} channel")
+                    return True
+                else:
+                    self.logger.error(f"❌ Failed to send message to {bot_type}: {response.text[:200]}")
+                    return False
+                
+        except requests.exceptions.Timeout:
+            self.logger.error(f"❌ Timeout sending to {bot_type} (15s)")
+            return False
         except Exception as e:
-            self.logger.error(f"❌ Error sending message to {bot_type}: {e}")
+            self.logger.error(f"❌ Error sending message to {bot_type}: {str(e)[:200]}")
             return False
     
     def format_news_message(self, news_item, language='tr'):
@@ -151,25 +164,38 @@ class TelegramBot:
         # Sort by priority
         sorted_news = sorted(news_items, key=lambda x: x.get('priority_score', 0), reverse=True)
         
-        for news_item in sorted_news[:max_posts]:
+        self.logger.info(f"📰 Starting to post {min(len(sorted_news), max_posts)} news items...")
+        
+        for idx, news_item in enumerate(sorted_news[:max_posts], 1):
             try:
+                self.logger.info(f"📝 Processing news {idx}/{min(len(sorted_news), max_posts)}")
+                
                 # Post to Turkish channel
                 tr_message = self.format_news_message(news_item, 'tr')
                 if self.send_message('turkish', tr_message, news_item.get('image_url')):
                     turkish_posts += 1
-                    time.sleep(2)  # Rate limiting
+                    self.logger.info(f"✅ Turkish: {idx}/{min(len(sorted_news), max_posts)}")
+                else:
+                    self.logger.warning(f"⚠️ Turkish post {idx} failed, continuing...")
+                
+                time.sleep(2)  # Rate limiting
                 
                 # Post to English channel
                 en_message = self.format_news_message(news_item, 'en')
                 if self.send_message('english', en_message, news_item.get('image_url')):
                     english_posts += 1
-                    time.sleep(2)  # Rate limiting
+                    self.logger.info(f"✅ English: {idx}/{min(len(sorted_news), max_posts)}")
+                else:
+                    self.logger.warning(f"⚠️ English post {idx} failed, continuing...")
+                
+                time.sleep(2)  # Rate limiting
                 
             except Exception as e:
-                self.logger.error(f"❌ Error posting news: {e}")
+                self.logger.error(f"❌ Error posting news {idx}: {str(e)[:200]}")
+                self.logger.info(f"⏭️ Skipping to next news...")
                 continue
         
-        self.logger.info(f"📊 Posted {turkish_posts} Turkish + {english_posts} English messages")
+        self.logger.info(f"📊 FINAL: Posted {turkish_posts} Turkish + {english_posts} English messages")
         return turkish_posts + english_posts
     
     def send_daily_summary(self, news_count, language='tr'):
