@@ -1,45 +1,25 @@
 {
-  "timestamp": "2026-03-06T12:37:54.536303",
+  "timestamp": "2026-03-06T13:52:15.825130",
   "total_items": 30,
   "news": [
-    {
-      "title": "Messi, Miami honored by Trump at White House",
-      "summary": "Inter Miami and captain Lionel Messi attended a White House reception on Thursday to celebrate winning MLS Cup for the first time in club history.",
-      "url": "https://www.espn.com/soccer/story/_/id/48113548/lionel-messi-inter-miami-white-house-celebration-donald-trump",
-      "image_url": null,
-      "published": "2026-03-06T12:11:39",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.331870",
-      "priority_score": 90,
-      "categories": [
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-06T12:36:34.710495",
-      "title_tr": "Messi ve Miami, Beyaz Saray'da Trump tarafından onurlandırıldı",
-      "summary_tr": "Inter Miami ve kaptan Lionel Messi, kulüp tarihinde ilk kez MLS Kupası'nı kazanmayı kutlamak için Perşembe günü Beyaz Saray resepsiyonuna katıldı."
-    },
     {
       "title": "Transfer rumors, news: Arsenal forced to let one key player go this summer",
       "summary": "Arsenal must offload a first-term player in the summer to balance their books, but who could it be? Transfer Talk has the latest.",
       "url": "https://www.espn.com/soccer/story/_/id/48119264/transfer-rumors-news-arsenal-forced-let-one-key-player-go-summer",
       "image_url": null,
-      "published": "2026-03-06T08:37:50",
+      "published": "2026-03-06T13:28:00",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.333891",
-      "priority_score": 90,
+      "fetched_at": "2026-03-06T13:46:21.461915",
+      "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-06T12:36:34.720697",
+      "processed_at": "2026-03-06T13:50:59.247688",
       "title_tr": "Transfer söylentileri, haberler: Arsenal bu yaz önemli bir oyuncunun gitmesine izin vermek zorunda kaldı",
       "summary_tr": "Arsenal'in hesaplarını dengelemek için yazın ilk dönem bir oyuncuyu transfer etmesi gerekiyor ama bu kim olabilir? Transfer Talk'ta en son gelişmeler var."
     },
@@ -53,7 +33,7 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:34:27.201111",
+      "fetched_at": "2026-03-06T13:48:15.625662",
       "priority_score": 88,
       "categories": [
         "transfers",
@@ -61,7 +41,7 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-03-06T12:36:34.944546",
+      "processed_at": "2026-03-06T13:50:59.505033",
       "title_tr": "Osimhen, Dünya devinin takibinde!",
       "summary_tr": "Galatasaray'da forma giyen yıldız golcü Victor Osimhen'in İspanyol devinin transfer listesinde yer aldığı aktarıldı. Sezon sonunda hücum hattını güçlendirmek isteyen Barcelona, Nijeryalı forvetin durumunu yakında takip ediyor."
     },
@@ -70,98 +50,118 @@
       "summary": "Galatasaray'ın golcüsü Victor Osimhen'in İspanyol devinin transfer listesinde yer aldığı aktarıldı.",
       "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-victor-osimhen-dunya-devinin-listesinde-43122623",
       "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69aaa07ba802d8e3476247f6.jpg",
-      "published": "2026-03-06T09:50:03",
+      "published": "2026-03-06T09:50:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:34:39.878012",
+      "fetched_at": "2026-03-06T13:48:28.274998",
       "priority_score": 86,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-06T12:36:35.037527",
+      "processed_at": "2026-03-06T13:50:59.627924",
       "title_tr": "Galatasaray'da Victor Osimhen dünya devinin listesinde!",
       "summary_tr": "Galatasaray'ın golcüsü Victor Osimhen'in İspanyol devinin transfer listesinde yer aldığı aktarıldı."
     },
     {
+      "title": "Messi, Miami honored by Trump at White House",
+      "summary": "Inter Miami and captain Lionel Messi attended a White House reception on Thursday to celebrate winning MLS Cup for the first time in club history.",
+      "url": "https://www.espn.com/soccer/story/_/id/48113548/lionel-messi-inter-miami-white-house-celebration-donald-trump",
+      "image_url": null,
+      "published": "2026-03-06T12:11:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:21.460089",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-06T13:50:59.239220",
+      "title_tr": "Messi ve Miami, Beyaz Saray'da Trump tarafından onurlandırıldı",
+      "summary_tr": "Inter Miami ve kaptan Lionel Messi, kulüp tarihinde ilk kez MLS Kupası'nı kazanmayı kutlamak için Perşembe günü Beyaz Saray resepsiyonuna katıldı."
+    },
+    {
       "title": "Man Utd announce 5% increase in season ticket prices, Spurs latest – football news live",
-      "summary": "⚽ All the latest news heading into the weekend’s action⚽ Ten things to look out for | Football Daily | Email DomWill your team still be in the hat after the FA Cup fifth round?Here are some things to look out for over the weekend – starting with Wolves v Liverpool, which kicks off in under 12 hours.",
+      "summary": "⚽ All the latest news heading into the weekend’s action⚽ Ten things to look out for | Football Daily | Email LukeWill your team still be in the hat after the FA Cup fifth round?Here are some things to look out for over the weekend – starting with Wolves v Liverpool, which kicks off in under 12 hours",
       "url": "https://www.theguardian.com/football/live/2026/mar/06/fa-cup-buildup-tottenham-crisis-deepens-and-more-football-news-live",
       "image_url": null,
-      "published": "2026-03-06T12:17:03",
+      "published": "2026-03-06T13:40:41",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-06T12:33:14.998910",
+      "fetched_at": "2026-03-06T13:47:02.253153",
       "priority_score": 63,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-03-06T12:36:34.818363",
+      "processed_at": "2026-03-06T13:50:59.361212",
       "title_tr": "Man Utd, sezonluk bilet fiyatlarında %5 artış duyurdu, Spurs son – futbol haberleri canlı",
-      "summary_tr": "⚽ Hafta sonu aksiyonuna ilişkin en son haberler⚽ Dikkat edilmesi gereken on şey | Futbol Günlük | Dom'a e-posta gönderin FA Kupası beşinci turundan sonra takımınız hala şapkada olacak mı? İşte hafta sonu boyunca dikkat etmeniz gereken bazı şeyler: 12 saatten kısa bir süre içinde başlayacak olan Wolves - Liverpool maçıyla başlayarak."
+      "summary_tr": "⚽ Hafta sonu aksiyonuna ilişkin en son haberler⚽ Dikkat edilmesi gereken on şey | Futbol Günlük | E-posta Luke FA Kupası beşinci turundan sonra takımınız hala şapkada olacak mı? İşte hafta sonu boyunca dikkat etmeniz gereken bazı şeyler: 12 saatten kısa bir süre sonra başlayacak Wolves - Liverpool maçıyla başlayarak"
     },
     {
-      "title": "Alperen Şengün'ün çabası Rockets'a yetmedi!",
-      "summary": "NBA'de milli oyuncu Alperen Şengün'ün 17 sayı attığı maçta Houston Rockets, sahasında Golden State Warriors'a 115-113 yenildi. Öte yandan Los Angeles Lakers'ın yıldızı LeBron James, 15 bin 838 isabetli şutla NBA tarihinde en fazla saha içi isabet bulan oyuncu oldu.",
-      "url": "https://www.haberturk.com/alperen-sengun-un-cabasi-rockets-a-yetmedi-3867528-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/06/ver1772783245/3867528/jpg/1280x1280",
-      "published": "2026-03-06T07:48:00",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:34:27.201184",
-      "priority_score": 58,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-06T12:36:34.950352",
-      "title_tr": "Alperen Şengün'ün çabası Rockets'a yetmedi!",
-      "summary_tr": "NBA'de milli oyuncu Alperen Şengün'ün 17 sayı attığı maçta Houston Rockets, sahasında Golden State Warriors'a 115-113 yenildi. Öte yandan Los Angeles Lakers'ın yıldızı LeBron James, 15 bin 838 isabetli şutla NBA tarihinde en fazla saha içi isabet bulan oyuncu oldu."
-    },
-    {
-      "title": "Saka responds to criticism of Arsenal by insisting ‘we don’t listen to that stuff’",
-      "summary": "Forward says all that matters is they keep winningSaka unconcerned by lower goals and assist tallyBukayo Saka says he is untroubled by the rising tide of criticism against Arsenal and wants to do one thing and one thing alone – win. The winger marked his 300th appearance for the club with the only g",
-      "url": "https://www.theguardian.com/football/2026/mar/05/saka-arsenal-criticism-we-dont-listen-to-that-stuff",
+      "title": "'Stick with the plan' - Patience key for England, says Wiegman",
+      "summary": "England manager Sarina Wiegman says it is \"very important\" her team are patient if goals do not come quickly in their 2027 Women's World Cup qualifier against Iceland on Saturday.",
+      "url": "https://www.bbc.com/sport/football/articles/c93we05q3edo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-05T22:30:03",
+      "published": "2026-03-06T13:09:39",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:25.613004",
+      "priority_score": 55,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-03-06T13:50:59.253980",
+      "title_tr": "Wiegman, 'Plana sadık kalın' - İngiltere için sabrın anahtarı diyor",
+      "summary_tr": "İngiltere teknik direktörü Sarina Wiegman, Cumartesi günü İzlanda'ya karşı oynanacak 2027 Kadınlar Dünya Kupası eleme maçında gollerin çabuk gelmemesi halinde takımının sabırlı olmasının \"çok önemli\" olduğunu söyledi."
+    },
+    {
+      "title": "‘People wouldn’t cross the road. Now they cross the Atlantic’: FA Cup ties chart Wrexham’s rise",
+      "summary": "Thirty-four years on from Mickey Thomas’ winner against Arsenal, the Welsh club seek statement win over Chelsea“It’s just surreal,” says the former Wrexham midfielder Mickey Thomas, scorer of arguably the club’s most famous goal. When he helped strike down Arsenal, the reigning English champions, in",
+      "url": "https://www.theguardian.com/football/2026/mar/06/wrexham-chelsea-fa-cup-fifth-round-ryan-reynolds-rob-mac-mickey-thomas",
+      "image_url": null,
+      "published": "2026-03-06T13:00:22",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-06T12:33:15.002518",
+      "fetched_at": "2026-03-06T13:47:02.253527",
       "priority_score": 53,
       "categories": [
-        "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-06T12:36:34.863334",
-      "title_tr": "Saka, Arsenal'e yönelik eleştirilere \"biz bu tür şeyleri dinlemiyoruz\" diyerek yanıt verdi",
-      "summary_tr": "Forvet, önemli olan tek şeyin, düşük gollere aldırış etmeden Saka'yı kazanmaya devam etmeleri ve asist sayıları olduğunu söylüyor. Bukayo Saka, Arsenal'e yönelik artan eleştiri dalgasından rahatsız olmadığını ve tek ve tek bir şeyi tek başına yapmak istediğini söylüyor: kazanmak. Kanat oyuncusu, kulüpte 300. kez forma giydi."
+      "processed_at": "2026-03-06T13:50:59.369314",
+      "title_tr": "‘İnsanlar yolun karşısına geçmiyor. Şimdi Atlantik'i geçiyorlar': FA Cup beraberlikleri Wrexham'ın yükselişini gösteriyor",
+      "summary_tr": "Mickey Thomas'ın Arsenal'e karşı kazandığı galibiyetin üzerinden 34 yıl geçtikten sonra, Galli kulüp Chelsea'ye karşı açık bir galibiyet arayışında, kulübün tartışmasız en meşhur golünü atan eski Wrexham orta saha oyuncusu Mickey Thomas \"Bu gerçeküstü\" diyor. İngiltere'nin son şampiyonu Arsenal'in yıkılmasına yardım ettiğinde"
     },
     {
-      "title": "Tottenham fighting relegation: What is the plan?",
-      "summary": "Tottenham's Premier League survival hopes look more desperate by the week. Their chances of relegation now stand at 16.1 per cent after Igor Tudor's disaster start has landed them just one point above the drop zone, without a domestic win in 2026.",
-      "url": "https://www.skysports.com/football/news/12040/13516063/tottenham-fighting-relegation-igor-tudor-has-made-a-disaster-start-to-spurs-reign-so-where-do-the-club-turn-next",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-tottenham-richarlison_7184133.jpg?20260306114539",
-      "published": "2026-03-06T11:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Trump'ın İran açıklamasına Messi'den alkış!",
+      "summary": "ABD Başkanı Donald Trump, MLS şampiyonu Inter Miami’yi Beyaz Saray’da konuk ederken İran’a yönelik sert açıklamalarda bulundu. Dünyaca ünlü Lionel Messi ve Luis Suarez’in de aralarında bulunduğu futbolcuların Trump’ın savaş konuşmasını alkışlaması dünya gündemine oturdu.",
+      "url": "https://www.haberturk.com/trump-iran-savasini-anlatti-messi-ve-takim-arkadaslari-alkisladi-3867544-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/06/ver1772784845/3867544/jpg/1280x1280",
+      "published": "2026-03-06T08:14:16",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.490677",
-      "priority_score": 51,
+      "fetched_at": "2026-03-06T13:48:15.625518",
+      "priority_score": 53,
       "categories": [
-        "premier_league"
+        "serie_a"
       ],
-      "processed_at": "2026-03-06T12:36:34.752871",
-      "title_tr": "Tottenham küme düşmeyle mücadele ediyor: Plan nedir?",
-      "summary_tr": "Tottenham'ın Premier Lig'de hayatta kalma umutları her hafta daha umutsuz görünüyor. Igor Tudor'un felaket başlangıcının, 2026'da iç saha galibiyeti olmadan düşme bölgesinin sadece bir puan üstüne gelmesinin ardından küme düşme şansları şu anda yüzde 16,1 seviyesinde bulunuyor."
+      "processed_at": "2026-03-06T13:50:59.495698",
+      "title_tr": "Trump'ın İran açıklamasına Messi'den alkış!",
+      "summary_tr": "ABD Başkanı Donald Trump, MLS şampiyonu Inter Miami’yi Beyaz Saray’da konuk ederken İran’a yönelik sert açıklamalarda bulundu. Dünyaca ünlü Lionel Messi ve Luis Suarez’in de aralarında bulunduğu futbolcuların Trump’ın savaş konuşmasını alkışlaması dünya gündemine oturdu."
     },
     {
       "title": "Dream to reality? Millwall fan Doughty on Lions' promotion push",
@@ -173,53 +173,53 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.490854",
+      "fetched_at": "2026-03-06T13:46:37.408122",
       "priority_score": 51,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-06T12:36:34.760236",
+      "processed_at": "2026-03-06T13:50:59.306725",
       "title_tr": "Gerçekliğe hayal mi? Millwall hayranı Doughty, Lions'ın terfi hamlesi hakkında konuştu",
       "summary_tr": "Alfie Doughty için rüya gerçeğe dönüşebilir. Çocukluğundaki Millwall hayranı, artık Premier Lig'e ilk kez yükselmek için çabalayan Millwall takımının önemli bir parçası."
     },
     {
-      "title": "Nicolo Zaniolo: 'Zamanı geldiğinde her şeyi konuşuruz!'",
-      "summary": "Galatasaray'dan kiralık olarak Udinese'de forma giyen Nicolo Zaniolo, İtalya basınına geleceği ve kariyer hedefleri hakkında açıklamalarda bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/nicolo-zaniolo-zamani-geldiginde-her-seyi-konusuruz-43122748",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69aac1c0a802d8e34762497f.jpg",
-      "published": "2026-03-06T12:04:18",
+      "title": "'Very impressive!' - Mercedes finally showing their hand claims Leclerc",
+      "summary": "Ferrari's Charles Leclerc believes Mercedes showed a first glimpse of the \"very impressive\" pace in Australian Grand Prix practice that has led many to install the Silver Arrows as 2026's title favourites.",
+      "url": "https://www.skysports.com/f1/news/12040/13515935/australian-gp-charles-leclerc-claims-mercedes-are-finally-showing-their-hand-after-very-impressive-friday-in-melbourne",
+      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-george-russell_7184059.jpg?20260306095642",
+      "published": "2026-03-06T10:10:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:37.408194",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-06T13:50:59.311249",
+      "title_tr": "'Çok etkileyici!' - Mercedes sonunda Leclerc'in iddiasını kabul ediyor",
+      "summary_tr": "Ferrari pilotu Charles Leclerc, Mercedes'in Avustralya Grand Prix antrenmanlarında birçok kişinin Silver Arrows'u 2026'nın şampiyonluk favorisi olarak seçmesine yol açan \"çok etkileyici\" tempoyu ilk kez gösterdiğine inanıyor."
+    },
+    {
+      "title": "UEFA'dan Real Madrid'e ırkçılık cezası!",
+      "summary": "UEFA, taraftarlarının \"ırkçı davranışları\" nedeniyle İspanya ekibi Real Madrid'e 15 bin euro para cezası verdi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/uefadan-real-madride-irkcilik-cezasi-43122802",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69aacef7a802d8e3476249fd.jpg",
+      "published": "2026-03-06T12:57:15",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:34:39.877556",
+      "fetched_at": "2026-03-06T13:48:28.274432",
       "priority_score": 51,
       "categories": [
-        "super_lig"
+        "la_liga"
       ],
-      "processed_at": "2026-03-06T12:36:34.987629",
-      "title_tr": "Nicolo Zaniolo: 'Zamanı geldiğinde her şeyi konuşuruz!'",
-      "summary_tr": "Galatasaray'dan kiralık olarak Udinese'de forma giyen Nicolo Zaniolo, İtalya basınına geleceği ve kariyer hedefleri hakkında açıklamalarda bulundu."
-    },
-    {
-      "title": "ZTK KURA ÇEKİMİ TARİHİ: Ziraat Türkiye Kupası çeyrek final kura çekimi ne zaman, hangi gün yapılacak?",
-      "summary": "Türkiye Kupası kura çekimi heyecanı sporseverler tarafından merak ediliyor. 5 Mart’ta oynanan haftanın son maçlarının ardından, Fenerbahçe, Beşiktaş, Galatasaray ve Trabzonspor gruplarını tamamladı. Grup aşaması sona ererken, dikkatler çeyrek final kura çekimine çevrildi. Peki, Ziraat Türkiye Kupası",
-      "url": "https://www.cnnturk.com/spor/futbol/ztk-kura-cekimi-tarihi-ziraat-turkiye-kupasi-ceyrek-final-kura-cekimi-ne-zaman-hangi-gun-yapilacak-2403365",
-      "image_url": null,
-      "published": "2026-03-06T12:23:03",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:35:02.375647",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-06T12:36:35.243040",
-      "title_tr": "ZTK KURA ÇEKİMİ TARİHİ: Ziraat Türkiye Kupası çeyrek final kura çekimi ne zaman, hangi gün yapılacak?",
-      "summary_tr": "Türkiye Kupası kura çekimi heyecanı sporseverler tarafından merak ediliyor. 5 Mart’ta oynanan haftanın son maçlarının ardından, Fenerbahçe, Beşiktaş, Galatasaray ve Trabzonspor gruplarını tamamladı. Grup aşaması sona ererken, dikkatler çeyrek final kura çekimine çevrildi. Peki, Ziraat Türkiye Kupası"
+      "processed_at": "2026-03-06T13:50:59.551845",
+      "title_tr": "UEFA'dan Real Madrid'e ırkçılık cezası!",
+      "summary_tr": "UEFA, taraftarlarının \"ırkçı davranışları\" nedeniyle İspanya ekibi Real Madrid'e 15 bin euro para cezası verdi."
     },
     {
       "title": "Morocco coach quits 3 months before World Cup",
@@ -231,14 +231,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.332096",
-      "priority_score": 85,
+      "fetched_at": "2026-03-06T13:46:21.460319",
+      "priority_score": 75,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-03-06T12:36:34.710891",
+      "processed_at": "2026-03-06T13:50:59.239639",
       "title_tr": "Fas teknik direktörü Dünya Kupası'na 3 ay kala istifa etti",
       "summary_tr": "Fas teknik direktörü Walid Regragui, Perşembe günü gece geç saatlerde düzenlediği basın toplantısında, Dünya Kupası'ndaki mücadelesine sadece aylar kala takımdan ayrıldığını doğruladı."
     },
@@ -252,13 +252,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.332847",
-      "priority_score": 85,
+      "fetched_at": "2026-03-06T13:46:21.461038",
+      "priority_score": 75,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-06T12:36:34.713100",
+      "processed_at": "2026-03-06T13:50:59.241927",
       "title_tr": "Kaynak: Vela, LAFC mülkiyetini geçersiz kılıyor",
       "summary_tr": "Carlos Vela, ESPN'e doğrulanan bir lig kaynağına göre LAFC'nin azınlık hissesini satın alan üç yeni yatırımcı arasında yer alıyor; Brooklyn Nets'in sahibi Joe Tsai de kulüpteki hissesini satan yatırımcılar arasında yer alıyor."
     },
@@ -272,14 +272,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:34:27.201256",
-      "priority_score": 78,
+      "fetched_at": "2026-03-06T13:48:15.625802",
+      "priority_score": 73,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-06T12:36:34.955856",
+      "processed_at": "2026-03-06T13:50:59.516961",
       "title_tr": "Mauro Icardi için flaş transfer iddiası!",
       "summary_tr": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi için flaş bir transfer iddiası gündeme geldi. Arjantin basını; tecrübeli golcünün, River Plate ile görüştüğünü öne sürdü."
     },
@@ -293,15 +293,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-06T12:33:15.004569",
+      "fetched_at": "2026-03-06T13:47:02.258228",
       "priority_score": 68,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-06T12:36:34.893422",
+      "processed_at": "2026-03-06T13:50:59.449786",
       "title_tr": "Kadınlar Afrika Uluslar Kupası, başlangıcından sadece 12 gün önce ertelendi",
       "summary_tr": "Kafe, haftalarca süren spekülasyonların ardından turnuvayı yeniden planladı 'Öngörülemeyen koşullar' nedeniyle kararAfrika Futbol Konfederasyonu (Caf), Kadınlar Afrika Uluslar Kupası'nın, turnuvanın başlamasına sadece 12 gün kala, Temmuz ve Ağustos aylarına ertelendiğini doğruladı."
+    },
+    {
+      "title": "Summer transfer needs for all 20 Premier League teams",
+      "summary": "The Premier League season is nearing an end, but what should your team be focusing on in the transfer window?",
+      "url": "https://www.espn.com/soccer/story/_/id/48088692/summer-transfer-needs-all-20-premier-league-teams",
+      "image_url": null,
+      "published": "2026-03-06T13:28:00",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:21.462099",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-06T13:50:59.248986",
+      "title_tr": "Premier Lig'deki 20 takımın tamamının yaz transferine ihtiyacı var",
+      "summary_tr": "Premier Lig sezonu sona yaklaşıyor ancak takımınızın transfer döneminde neye odaklanması gerekiyor?"
     },
     {
       "title": "Galatasaray’ın meraklı öğrencisi: Nhaga!",
@@ -313,36 +333,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-06T12:34:27.201477",
-      "priority_score": 63,
+      "fetched_at": "2026-03-06T13:48:15.626023",
+      "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-03-06T12:36:34.974883",
+      "processed_at": "2026-03-06T13:50:59.537188",
       "title_tr": "Galatasaray’ın meraklı öğrencisi: Nhaga!",
       "summary_tr": "Renato Nhaga, Casa Pia altyapısından Galatasaray’a transfer olduktan sonra kısa sürede uyum sağlamaya çalışıyor. 18 yaşındaki futbolcu antrenmanlarda mücadeleci oyunuyla dikkat çekerken, saha dışında ise tecrübeli isimlerden sürekli öğrenmeye çalışan bir “futbol öğrencisi” olarak öne çıkıyor. İngili"
-    },
-    {
-      "title": "Lewandowski'den Süper Lig'in kaderini değiştirecek karar! Fenerbahçe ve Galatasaray...",
-      "summary": "Barcelona ile sözleşmesi sezon sonunca bitecek olan Robert Lewandowski, geleceğine dair dikkat çeken itiraflarda bulundu. Polonyalı yıldızın adı Fenerbahçe ile anılırken transferde verilecek kararın Galatasaray'ın...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/superlig/2026/03/06/lewandowskiden-super-ligin-kaderini-degistirecek-karar-fenerbahce-ve-galatasaray",
-      "image_url": "https://iaftm.tmgrup.com.tr/978fe7/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/03/06/lewandowskiden-super-ligin-kaderini-degistirecek-karar-fenerbahce-ve-galatasaray-1772787928973.jpg",
-      "published": "2026-03-06T09:06:25",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:35:14.883258",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-06T12:36:35.463681",
-      "title_tr": "Lewandowski'den Süper Lig'in kaderini değiştirecek karar! Fenerbahçe ve Galatasaray...",
-      "summary_tr": "Barcelona ile sözleşmesi sezon sonunca bitecek olan Robert Lewandowski, geleceğine dair dikkat çeken itiraflarda bulundu. Polonyalı yıldızın adı Fenerbahçe ile anılırken transferde verilecek kararın Galatasaray'ın...Devamı için tıklayınız"
     },
     {
       "title": "'City troeft United af in strijd om Anderson, uittocht op komst in Marseille'",
@@ -354,13 +353,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-06T12:36:29.988636",
+      "fetched_at": "2026-03-06T13:50:56.431989",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-03-06T12:36:35.751977",
+      "processed_at": "2026-03-06T13:51:00.262004",
       "title_tr": "'City, Anderson mücadelesinde United'ı geride bıraktı, Marsilya'da göç geliyor'",
       "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
@@ -374,15 +373,170 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.491453",
+      "fetched_at": "2026-03-06T13:46:37.408806",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-03-06T12:36:34.794941",
+      "processed_at": "2026-03-06T13:50:59.351848",
       "title_tr": "2026 Kış Paralimpik Oyunları neden tartışmalı ve rahatsız edici?",
       "summary_tr": "Paralimpik hareketi tartışmalara yabancı değil: yakın tarihte bununla epeyce uğraşmak zorunda kaldı."
+    },
+    {
+      "title": "Saka responds to criticism of Arsenal by insisting ‘we don’t listen to that stuff’",
+      "summary": "Forward says all that matters is they keep winningSaka unconcerned by lower goals and assist tallyBukayo Saka says he is untroubled by the rising tide of criticism against Arsenal and wants to do one thing and one thing alone – win. The winger marked his 300th appearance for the club with the only g",
+      "url": "https://www.theguardian.com/football/2026/mar/05/saka-arsenal-criticism-we-dont-listen-to-that-stuff",
+      "image_url": null,
+      "published": "2026-03-05T22:30:03",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:47:02.257848",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-06T13:50:59.442107",
+      "title_tr": "Saka, Arsenal'e yönelik eleştirilere \"biz bu tür şeyleri dinlemiyoruz\" diyerek yanıt verdi",
+      "summary_tr": "Forvet, önemli olan tek şeyin, düşük gollere aldırış etmeden Saka'yı kazanmaya devam etmeleri ve asist sayıları olduğunu söylüyor. Bukayo Saka, Arsenal'e yönelik artan eleştiri dalgasından rahatsız olmadığını ve tek ve tek bir şeyi tek başına yapmak istediğini söylüyor: kazanmak. Kanat oyuncusu, kulüpte 300. kez forma giydi."
+    },
+    {
+      "title": "Alperen Şengün'ün çabası Rockets'a yetmedi!",
+      "summary": "NBA'de milli oyuncu Alperen Şengün'ün 17 sayı attığı maçta Houston Rockets, sahasında Golden State Warriors'a 115-113 yenildi. Öte yandan Los Angeles Lakers'ın yıldızı LeBron James, 15 bin 838 isabetli şutla NBA tarihinde en fazla saha içi isabet bulan oyuncu oldu.",
+      "url": "https://www.haberturk.com/alperen-sengun-un-cabasi-rockets-a-yetmedi-3867528-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/06/ver1772783245/3867528/jpg/1280x1280",
+      "published": "2026-03-06T07:48:00",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:48:15.625732",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-06T13:50:59.511138",
+      "title_tr": "Alperen Şengün'ün çabası Rockets'a yetmedi!",
+      "summary_tr": "NBA'de milli oyuncu Alperen Şengün'ün 17 sayı attığı maçta Houston Rockets, sahasında Golden State Warriors'a 115-113 yenildi. Öte yandan Los Angeles Lakers'ın yıldızı LeBron James, 15 bin 838 isabetli şutla NBA tarihinde en fazla saha içi isabet bulan oyuncu oldu."
+    },
+    {
+      "title": "Clough: 'Once-in-a-lifetime' Arsenal tie epitomises what FA Cup is about",
+      "summary": "Mansfield may have beaten Championship Sheffield United and Premier League Burnley in the last two rounds of the FA Cup, but it is another game in the run that stands out for Town boss Nigel Clough.",
+      "url": "https://www.skysports.com/football/news/12040/13515264/nigel-clough-exclusive-mansfield-manager-on-facing-arsenal-in-towns-first-fa-cup-fifth-round-tie-since-1974-75",
+      "image_url": "https://e2.365dm.com/26/02/1920x1080/skysports-nigel-clough-mansfield_7174009.jpg?20260224182821",
+      "published": "2026-03-06T10:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:37.408433",
+      "priority_score": 51,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-06T13:50:59.325888",
+      "title_tr": "Clough: 'Hayatta bir kez' Arsenal beraberliği FA Cup'ın ne anlama geldiğinin somut bir örneği",
+      "summary_tr": "Mansfield, FA Cup'ın son iki turunda Şampiyona Sheffield United ve Premier Lig Burnley'i yenmiş olabilir, ancak Town patronu Nigel Clough için bu, serideki başka bir maçtır."
+    },
+    {
+      "title": "Messi and Inter Miami were wallpaper for Trump’s whims in their White House visit",
+      "summary": "The US president welcomed the 2025 MLS Cup champions in a ceremony beset by tangents and awkward asidesNine minutes and 43 seconds. As Inter Miami’s players stood behind the dais at the East Room in the White House with club owner Jorge Mas stood to the left and Lionel Messi to the right; with MLS c",
+      "url": "https://www.theguardian.com/football/2026/mar/05/inter-miami-messi-trump-white-house",
+      "image_url": null,
+      "published": "2026-03-05T23:16:30",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:47:02.256758",
+      "priority_score": 48,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-06T13:50:59.425669",
+      "title_tr": "Messi ve Inter Miami, Trump'ın Beyaz Saray ziyaretindeki kaprislerine duvar kağıdı oldu",
+      "summary_tr": "ABD başkanı, 2025 MLS Kupası şampiyonunu, dokuz dakika 43 saniyelik tuhaflıklar ve garip yanlarla kuşatılmış bir törenle karşıladı. Inter Miami oyuncuları Beyaz Saray'daki Doğu Odası'nda kürsünün arkasında dururken, kulüp sahibi Jorge Mas solda ve Lionel Messi sağda duruyordu; MLS c ile"
+    },
+    {
+      "title": "Afrika basınında Cherif'e övgü!",
+      "summary": "Devre arasında Fransız kulübü Angers'den Fenerbahçe'ye transfer olan Sidiki Cherif son iki maçta gösterdiği performansla övgüleri almaya başladı. Afrika basını ise Cherif'in performansına yer verdi",
+      "url": "https://www.haberturk.com/afrika-basininda-cherif-e-ovgu-gelecegi-hayli-parlak-gorunuyor-3867539-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/06/ver1772784077/3867539/jpg/1280x1280",
+      "published": "2026-03-06T08:01:54",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:48:15.625590",
+      "priority_score": 48,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-06T13:50:59.500077",
+      "title_tr": "Afrika basınında Cherif'e övgü!",
+      "summary_tr": "Devre arasında Fransız kulübü Angers'den Fenerbahçe'ye transfer olan Sidiki Cherif son iki maçta gösterdiği performansla övgüleri almaya başladı. Afrika basını ise Cherif'in performansına yer verdi"
+    },
+    {
+      "title": "Williams loses eighth consecutive WTA singles match in Tour return",
+      "summary": "Venus Williams suffered another blow in her return to the BNP Paribas Open, falling in the first round 6-3, 6-7 (4-7), 6-1 to Diane Parry of France.",
+      "url": "https://www.skysports.com/tennis/news/12040/13515990/venus-williams-loses-eighth-consecutive-wta-singles-match-in-tour-return-after-falling-in-first-round-of-indian-wells",
+      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-venus-williams-wta_7183898.jpg?20260306073547",
+      "published": "2026-03-06T06:38:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:37.408681",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-06T13:50:59.341826",
+      "title_tr": "Williams, Tur dönüşünde art arda sekizinci WTA tekler maçını kaybetti",
+      "summary_tr": "Venus Williams, BNP Paribas Açık'a dönüşünde bir darbe daha aldı ve ilk turda Fransız Diane Parry'ye 6-3, 6-7 (4-7) ve 6-1'lik setlerle mağlup oldu."
+    },
+    {
+      "title": "Jorge Jesus açıkladı: 'Ronaldo’nun sakatlığı beklenenden ciddi!'",
+      "summary": "Jorge Jesus, Cristiano Ronaldo'nun Al Fayha maçında yaşadığı sakatlığın \"beklenenden daha ciddi\" olduğunu belirtti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/jorge-jesus-acikladi-ronaldonun-sakatligi-beklenenden-ciddi-43122834",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69aad944a802d8e347624a24.jpg",
+      "published": "2026-03-06T13:42:42",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:48:28.274348",
+      "priority_score": 46,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-06T13:50:59.545930",
+      "title_tr": "Jorge Jesus açıkladı: 'Ronaldo’nun sakatlığı beklenenden ciddi!'",
+      "summary_tr": "Jorge Jesus, Cristiano Ronaldo'nun Al Fayha maçında yaşadığı sakatlığın \"beklenenden daha ciddi\" olduğunu belirtti."
+    },
+    {
+      "title": "Weekend predictions: Can Wrexham top Chelsea to continue dream FA Cup run?",
+      "summary": "It's Friday, and another full weekend of action awaits across the soccer calendar as Julien Laurens picks out the best games to watch in Europe.",
+      "url": "https://www.espn.com/soccer/story/_/id/48112987/weekend-predictions-wrexham-top-chelsea-fa-cup-julien-laurens",
+      "image_url": null,
+      "published": "2026-03-06T09:19:09",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-06T13:46:21.459617",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-06T13:50:59.238448",
+      "title_tr": "Hafta sonu tahminleri: Wrexham, FA Cup koşusuna devam etmek için Chelsea'yi yenebilir mi?",
+      "summary_tr": "Bugün Cuma ve Julien Laurens Avrupa'da izlenecek en iyi maçları seçerken futbol takviminde aksiyon dolu bir hafta sonu daha bekliyor."
     },
     {
       "title": "Spurs out of 'excuses' as relegation fears deepen",
@@ -394,12 +548,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.332286",
-      "priority_score": 55,
+      "fetched_at": "2026-03-06T13:46:21.460510",
+      "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-06T12:36:34.711315",
+      "processed_at": "2026-03-06T13:50:59.240149",
       "title_tr": "Küme düşme korkuları derinleştikçe 'bahaneler' ortaya çıkıyor",
       "summary_tr": "Tottenham'ın golcüsü Dominic Solanke, Premier Lig'de hayatta kalma umutlarının Crystal Palace'a 3-1 yenilmesiyle takımın artık hiçbir mazereti kalmadığını söyledi."
     },
@@ -413,13 +567,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.332462",
-      "priority_score": 55,
+      "fetched_at": "2026-03-06T13:46:21.460686",
+      "priority_score": 45,
       "categories": [
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-03-06T12:36:34.711868",
+      "processed_at": "2026-03-06T13:50:59.240695",
       "title_tr": "Vitinha: Madrid bağlantısı varken PSG'den ayrılmak 'aptallık'",
       "summary_tr": "Paris Saint-Germain'in yıldızı Vitinha, Real Madrid'in ilgisinden dolayı Ligue 1 devlerinden ayrılmayı düşünmenin kendisi için \"aptalca\" olacağını söyledi."
     },
@@ -433,170 +587,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.332638",
-      "priority_score": 55,
+      "fetched_at": "2026-03-06T13:46:21.460858",
+      "priority_score": 45,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-06T12:36:34.712403",
+      "processed_at": "2026-03-06T13:50:59.241247",
       "title_tr": "UEFA, taraftarın Nazi selamı sonrası Real Madrid'e para cezası verdi",
       "summary_tr": "UEFA, bir taraftarın sahada Nazi selamı verirken görüntülenmesinin ardından Real Madrid'e para cezası verdi ve Bernabéu stadının kısmen kapatılmasına karar verdi."
-    },
-    {
-      "title": "Trump'ın İran açıklamasına Messi'den alkış!",
-      "summary": "ABD Başkanı Donald Trump, MLS şampiyonu Inter Miami’yi Beyaz Saray’da konuk ederken İran’a yönelik sert açıklamalarda bulundu. Dünyaca ünlü Lionel Messi ve Luis Suarez’in de aralarında bulunduğu futbolcuların Trump’ın savaş konuşmasını alkışlaması dünya gündemine oturdu.",
-      "url": "https://www.haberturk.com/trump-iran-savasini-anlatti-messi-ve-takim-arkadaslari-alkisladi-3867544-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/06/ver1772784845/3867544/jpg/1280x1280",
-      "published": "2026-03-06T08:14:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:34:27.200967",
-      "priority_score": 53,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-06T12:36:34.935871",
-      "title_tr": "Trump'ın İran açıklamasına Messi'den alkış!",
-      "summary_tr": "ABD Başkanı Donald Trump, MLS şampiyonu Inter Miami’yi Beyaz Saray’da konuk ederken İran’a yönelik sert açıklamalarda bulundu. Dünyaca ünlü Lionel Messi ve Luis Suarez’in de aralarında bulunduğu futbolcuların Trump’ın savaş konuşmasını alkışlaması dünya gündemine oturdu."
-    },
-    {
-      "title": "Zingende Stuttgart-fans zetten concertzaal op zijn kop",
-      "summary": "De fans van VfB Stuttgart hadden deze week een bijzonder uitje. Massaal trokken zij naar een concertzaal. Daar maakten zij er onder begeleiding van een orkest een groot feest van. Niet alleen muziek binnen de lijnen bij de nummer vier van de Bundesliga dus dit seizoen, maar ook daarbuiten.",
-      "url": "https://www.vi.nl/video/zingende-stuttgart-fans-zetten-concertzaal-op-zijn-kop",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-03-06t121542-zien-stuttgart-fans-zorgen-met-orkest-voor-spektakel-in-concertzaal.png?width=1200",
-      "published": "2026-03-06T11:59:18",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:36:29.988131",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-06T12:36:35.638108",
-      "title_tr": "Stuttgart'ta şarkı söyleyen hayranlar konser salonunu alt üst etti",
-      "summary_tr": "VfB Stuttgart taraftarları bu hafta özel bir geziye çıktı. Toplu halde konser salonuna gittiler. Orkestra eşliğinde büyük bir parti yaptılar. Bu sezon sadece Bundesliga'nın dördüncü sırasına giren müzikler değil, aynı zamanda onun dışında da müzik var."
-    },
-    {
-      "title": "'Very impressive!' - Mercedes finally showing their hand claims Leclerc",
-      "summary": "Ferrari's Charles Leclerc believes Mercedes showed a first glimpse of the \"very impressive\" pace in Australian Grand Prix practice that has led many to install the Silver Arrows as 2026's title favourites.",
-      "url": "https://www.skysports.com/f1/news/12040/13515935/australian-gp-charles-leclerc-claims-mercedes-are-finally-showing-their-hand-after-very-impressive-friday-in-melbourne",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-george-russell_7184059.jpg?20260306095642",
-      "published": "2026-03-06T10:10:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.490927",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-06T12:36:34.764161",
-      "title_tr": "'Çok etkileyici!' - Mercedes sonunda Leclerc'in iddiasını kabul ediyor",
-      "summary_tr": "Ferrari pilotu Charles Leclerc, Mercedes'in Avustralya Grand Prix antrenmanlarında birçok kişinin Silver Arrows'u 2026'nın şampiyonluk favorisi olarak seçmesine yol açan \"çok etkileyici\" tempoyu ilk kez gösterdiğine inanıyor."
-    },
-    {
-      "title": "Clough: 'Once-in-a-lifetime' Arsenal tie epitomises what FA Cup is about",
-      "summary": "Mansfield may have beaten Championship Sheffield United and Premier League Burnley in the last two rounds of the FA Cup, but it is another game in the run that stands out for Town boss Nigel Clough.",
-      "url": "https://www.skysports.com/football/news/12040/13515264/nigel-clough-exclusive-mansfield-manager-on-facing-arsenal-in-towns-first-fa-cup-fifth-round-tie-since-1974-75",
-      "image_url": "https://e2.365dm.com/26/02/1920x1080/skysports-nigel-clough-mansfield_7174009.jpg?20260224182821",
-      "published": "2026-03-06T10:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.491163",
-      "priority_score": 51,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-06T12:36:34.777137",
-      "title_tr": "Clough: 'Hayatta bir kez' Arsenal beraberliği FA Cup'ın ne anlama geldiğinin somut bir örneği",
-      "summary_tr": "Mansfield, FA Cup'ın son iki turunda Şampiyona Sheffield United ve Premier Lig Burnley'i yenmiş olabilir, ancak Town patronu Nigel Clough için bu, seride öne çıkan başka bir maç."
-    },
-    {
-      "title": "Williams loses eighth consecutive WTA singles match in Tour return",
-      "summary": "Venus Williams suffered another blow in her return to the BNP Paribas Open, falling in the first round 6-3, 6-7 (4-7), 6-1 to Diane Parry of France.",
-      "url": "https://www.skysports.com/tennis/news/12040/13515990/venus-williams-loses-eighth-consecutive-wta-singles-match-in-tour-return-after-falling-in-first-round-of-indian-wells",
-      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-venus-williams-wta_7183898.jpg?20260306073547",
-      "published": "2026-03-06T06:38:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:32:53.491325",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-06T12:36:34.786235",
-      "title_tr": "Williams, Tur dönüşünde art arda sekizinci WTA tekler maçını kaybetti",
-      "summary_tr": "Venus Williams, BNP Paribas Açık'a dönüşünde bir darbe daha aldı ve ilk turda Fransız Diane Parry'ye 6-3, 6-7 (4-7) ve 6-1'lik setlerle mağlup oldu."
-    },
-    {
-      "title": "Summer transfer needs for all 20 Premier League teams",
-      "summary": "The Premier League season is nearing an end, but what should your team be focusing on in the transfer window?",
-      "url": "https://www.espn.com/soccer/story/_/id/48088692/summer-transfer-needs-all-20-premier-league-teams",
-      "image_url": null,
-      "published": "2026-03-06T10:42:04",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:32:35.334050",
-      "priority_score": 50,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-06T12:36:34.722086",
-      "title_tr": "Premier Lig'deki 20 takımın tamamının yaz transferine ihtiyacı var",
-      "summary_tr": "Premier Lig sezonu sona yaklaşıyor ancak takımınızın transfer döneminde neye odaklanması gerekiyor?"
-    },
-    {
-      "title": "Icardi'nin transferinde sıcak gelişme! Yeni adresini duyurdular",
-      "summary": "Süper Lig devlerinden Galatasaray'ın yıldız ismi Mauro Icardi ile ilgili flaş gelişmeler yaşanıyor. Arjantinli futbolcunun geleceği bir hayli merak konusu olurken yurt dışından oyuncunun yeni adresini...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/06/icardinin-transferinde-sicak-gelisme-yeni-adresini-duyurdular",
-      "image_url": "https://iaftm.tmgrup.com.tr/18c8d3/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/03/06/icardinin-transferinde-sicak-gelisme-yeni-adresini-duyurdular-1772794201211.jpeg",
-      "published": "2026-03-06T10:51:31",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:35:14.882644",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-06T12:36:35.409707",
-      "title_tr": "Icardi'nin transferinde sıcak gelişme! Yeni adresini duyurdular",
-      "summary_tr": "Süper Lig devlerinden Galatasaray'ın yıldız ismi Mauro Icardi ile ilgili flaş gelişmeler yaşanıyor. Arjantinli futbolcunun geleceği bir hayli merak konusu olurken yurt dışından oyuncunun yeni adresini...Devamı için tıklayınız"
-    },
-    {
-      "title": "Messi and Inter Miami were wallpaper for Trump’s whims in their White House visit",
-      "summary": "The US president welcomed the 2025 MLS Cup champions in a ceremony beset by tangents and awkward asidesNine minutes and 43 seconds. As Inter Miami’s players stood behind the dais at the East Room in the White House with club owner Jorge Mas stood to the left and Lionel Messi to the right; with MLS c",
-      "url": "https://www.theguardian.com/football/2026/mar/05/inter-miami-messi-trump-white-house",
-      "image_url": null,
-      "published": "2026-03-05T23:16:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-06T12:33:15.003361",
-      "priority_score": 48,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-06T12:36:34.879026",
-      "title_tr": "Messi ve Inter Miami, Trump'ın Beyaz Saray ziyaretindeki kaprislerine duvar kağıdı oldu",
-      "summary_tr": "ABD başkanı, 2025 MLS Kupası şampiyonunu, dokuz dakika 43 saniyelik tuhaflıklar ve garip yanlarla kuşatılmış bir törenle karşıladı. Inter Miami oyuncuları Beyaz Saray'daki Doğu Odası'nda kürsünün arkasında dururken, kulüp sahibi Jorge Mas solda ve Lionel Messi sağda duruyordu; MLS c ile"
     }
   ]
 }
