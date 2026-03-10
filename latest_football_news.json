@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T04:04:59.151270",
+  "timestamp": "2026-03-10T05:16:28.800183",
   "total_items": 30,
   "news": [
     {
@@ -12,8 +12,8 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.961472",
-      "priority_score": 100,
+      "fetched_at": "2026-03-10T05:11:10.972039",
+      "priority_score": 90,
       "categories": [
         "transfers",
         "breaking_news",
@@ -21,29 +21,30 @@
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.495986",
+      "processed_at": "2026-03-10T05:14:56.586911",
       "title_tr": "Barça, Premier Lig'de 'dünyanın en iyisi' sınavına hazırlanıyor",
       "summary_tr": "Hansi Flick, İspanyol şampiyonunu Salı günü Newcastle United'a karşı oynayacağı Şampiyonlar Ligi son 16 ilk maçına hazırlarken, Barselona'nın \"dünyanın en iyisi\" Premier Lig'in mali gücüyle başa çıkabilecek kaliteye sahip olduğunu söyledi."
     },
     {
-      "title": "Australia grants asylum to five Iranian players",
-      "summary": "Advocates had been imploring Australian officials to meet with the team to secure their safety after the squad were seen making what appeared to be an SOS hand signal after their final Asian Cup match.",
-      "url": "https://www.espn.com/soccer/story/_/id/48156225/women-asian-cup-iranian-soccer-players-australian-federal-police-watch-daring-escape",
+      "title": "Hoffenheim confirm Alessandro Vogt signing",
+      "summary": "Switzerland youth international striker Alessandro Vogt will join Hoffenheim in the summer, the Sinsheim club have confirmed.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/hoffenheim-sign-alessandro-vogt-switzerland-striker-st-gallen-36366",
       "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-03-10T01:39:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.960443",
-      "priority_score": 85,
+      "fetched_at": "2026-03-10T05:12:13.357698",
+      "priority_score": 86,
       "categories": [
         "transfers",
-        "breaking_news"
+        "breaking_news",
+        "serie_a"
       ],
-      "processed_at": "2026-03-10T04:03:26.493468",
-      "title_tr": "Avustralya beş İranlı oyuncuya sığınma hakkı tanıdı",
-      "summary_tr": "Takımın son Asya Kupası maçından sonra SOS el işareti gibi görünen bir hareket yapmasının ardından avukatlar, Avustralyalı yetkililerden güvenliklerini sağlamak için takımla görüşmelerini istedi."
+      "processed_at": "2026-03-10T05:14:56.835741",
+      "title_tr": "Hoffenheim, Alessandro Vogt'u transfer etti",
+      "summary_tr": "Sinsheim kulübü, İsviçreli milli forvet Alessandro Vogt'un yaz aylarında Hoffenheim'a katılacağını doğruladı."
     },
     {
       "title": "Alisson injury not 'a big thing' despite missing Galatasaray",
@@ -55,7 +56,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:47.456276",
+      "fetched_at": "2026-03-10T05:11:16.793157",
       "priority_score": 85,
       "categories": [
         "breaking_news",
@@ -63,7 +64,7 @@
         "super_lig",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.513067",
+      "processed_at": "2026-03-10T05:14:56.604027",
       "title_tr": "Alisson'ın sakatlığı Galatasaray'ın olmamasına rağmen 'önemli bir şey' değil",
       "summary_tr": "Liverpool kalecisi Alisson, sakatlığı nedeniyle Galatasaray ile oynayacağı Şampiyonlar Ligi ilk maçında forma giyemeyecek ancak hafta sonunda Tottenham ile karşılaşabilecek."
     },
@@ -77,15 +78,35 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:44.566844",
+      "fetched_at": "2026-03-10T05:12:13.362995",
       "priority_score": 76,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-03-10T04:03:26.757741",
+      "processed_at": "2026-03-10T05:14:56.876512",
       "title_tr": "Bundesliga'da 25. haftanın öne çıkan videoları",
       "summary_tr": "Harry Kane'siz Bayern Münih, Borussia Mönchengladbach'ı yendi, Hamburg ve Werder Bremen düşme mücadelesinde büyük galibiyetler aldı ve Freiburg ile Bayer Leverkusen altı gollü bir gerilim maçına çıktı."
+    },
+    {
+      "title": "Australia grants asylum to five Iranian players",
+      "summary": "Advocates had been imploring Australian officials to meet with the team to secure their safety after the squad were seen making what appeared to be an SOS hand signal after their final Asian Cup match.",
+      "url": "https://www.espn.com/soccer/story/_/id/48156225/women-asian-cup-iranian-soccer-players-australian-federal-police-watch-daring-escape",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.971041",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-10T05:14:56.584663",
+      "title_tr": "Avustralya beş İranlı oyuncuya sığınma hakkı tanıdı",
+      "summary_tr": "Takımın son Asya Kupası maçından sonra SOS el işareti gibi görünen bir hareket yapmasının ardından avukatlar, Avustralyalı yetkililerden güvenliklerini sağlamak için takımla görüşmelerini istedi."
     },
     {
       "title": "Roebuck: England squad back Borthwick despite 'heartbreaking' loss",
@@ -97,12 +118,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:58.062412",
+      "fetched_at": "2026-03-10T05:11:27.949802",
       "priority_score": 71,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-10T04:03:26.599435",
+      "processed_at": "2026-03-10T05:14:56.689398",
       "title_tr": "Roebuck: İngiltere takımı 'yürek burkan' mağlubiyete rağmen Borthwick'i destekledi",
       "summary_tr": "İngiltere'nin Six Nations kampanyası, Cumartesi günü ilk kez İtalya'ya yenildiğinde yeni bir düşüş yaşadı, ancak Tom Roebuck'a göre takım hala Steve Borthwick'e güveniyor."
     },
@@ -116,35 +137,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:47.457896",
+      "fetched_at": "2026-03-10T05:11:16.794813",
       "priority_score": 70,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-03-10T04:03:26.537120",
+      "processed_at": "2026-03-10T05:14:56.627741",
       "title_tr": "West Ham, Brentford'u penaltılarda yendikten sonra çeyreklere yükseldi",
       "summary_tr": "West Ham, Londra'daki rakipleri Brentford'u penaltılarda 5-3 yenerek 10 yıl sonra ilk kez FA Cup'ta çeyrek finale yükselirken öne çıkanları izleyin."
-    },
-    {
-      "title": "2025/26 DFB Cup overview: LIVE blog, fixtures, results and draws",
-      "summary": "Bayern Munich will face 2023/24 winners Bayer Leverkusen while holders VfB Stuttgart are to play regional rivals Freiburg in this season's DFB Cup semi-finals.",
-      "url": "https://www.bundesliga.com/en/2bundesliga/news/2025-26-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-leverkusen-stuttgart-32660",
-      "image_url": null,
-      "published": "2026-03-09T09:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-10T04:00:44.569802",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-10T04:03:26.785851",
-      "title_tr": "2025/26 DFB Kupası'na genel bakış: CANLI blog, fikstürler, sonuçlar ve eşleşmeler",
-      "summary_tr": "Bayern Münih, 2023/24 sezonunun galibi Bayer Leverkusen ile karşılaşacak ve VfB Stuttgart, bu sezonun DFB Kupası yarı finallerinde bölgesel rakipleri Freiburg ile karşılaşacak."
     },
     {
       "title": "Faltering Liverpool need a big night in Istanbul to revitalise their season",
@@ -156,15 +157,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:19.191592",
+      "fetched_at": "2026-03-10T05:11:49.117253",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-03-10T04:03:26.625495",
+      "processed_at": "2026-03-10T05:14:56.715302",
       "title_tr": "Bocalayan Liverpool'un sezonunu yeniden canlandırmak için İstanbul'da büyük bir geceye ihtiyacı var",
       "summary_tr": "Eylül ayında Galatasaray'a karşı alınan yenilgi, Slot'un mücadelelerini özetledi ve hâlâ düzeltmeye çalıştığı bir şablon oluşturdu. Liverpool'un beklenmedik bir kurtuluş arayışıyla İstanbul'a gelişi ilk kez değil. 21 yıl önceki gibi final değil, Galatasara ile son 16 beraberliği söz konusu"
+    },
+    {
+      "title": "Milan derbide Inter'i tek golle geçti",
+      "summary": "Zirve mücadelesi veren Napoli, evinde Torino'yu 2-1'lik skorla geçti.Como, Cagliari deplasmanında 2-1 galip geldi. Ev s...",
+      "url": "https://www.yenisafak.com/spor/milan-derbide-interi-tek-golle-gecti-4804384",
+      "image_url": null,
+      "published": "2026-03-09T14:47:00",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:14:10.471176",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-10T05:14:57.829155",
+      "title_tr": "Milan derbide Inter'i tek golle geçti",
+      "summary_tr": "Zirve mücadelesi veren Napoli, evinde Torino'yu 2-1'lik skorla geçti.Como, Cagliari deplasmanında 2-1 galip geldi. Ev s..."
     },
     {
       "title": "Galatasaray vs Liverpool preview: Extent of Alisson's injury revealed",
@@ -176,51 +198,94 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:58.061583",
+      "fetched_at": "2026-03-10T05:11:27.948994",
       "priority_score": 46,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-10T04:03:26.543481",
-      "title_tr": "Galatasaray-Liverpool ön izlemesi: Alisson'un sakatlığının boyutu açıklandı",
+      "processed_at": "2026-03-10T05:14:56.634012",
+      "title_tr": "Galatasaray-Liverpool önizlemesi: Alisson'un sakatlığının boyutu açıklandı",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
-      "title": "Arne Slot'tan Galatasaray uyarısı: 'Tek iyi Osimhen değil!'",
-      "summary": "Liverpool Teknik Direktörü Arne Slot, Galatasaray'ın zorlu bir rakip olduğunu belirterek, sarı-kırmızılıları ve Okan Buruk'u bildiklerini söyledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/arne-slottan-galatasaray-uyarisi-tek-iyi-osimhen-degil-43125105",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69af165d7a5d6587c5823ee1.jpg",
-      "published": "2026-03-09T18:50:50",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Hakan Çalhanoğlu bir kez daha sakatlandı: Sahalardan uzak kalacak",
+      "summary": "Hakan Çalhanoğlu’ndan Inter'e bir sakatlık haberi daha geldi. Kısa süre önce yaşadığı sakatlığın ardından sahalara dönm...",
+      "url": "https://www.yenisafak.com/spor/hakan-calhanoglu-bir-kez-daha-sakatlandi-sahalardan-uzak-kalacak-4804442",
+      "image_url": null,
+      "published": "2026-03-09T18:41:06",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-10T04:01:48.512092",
-      "priority_score": 46,
+      "fetched_at": "2026-03-10T05:14:10.462886",
+      "priority_score": 42,
       "categories": [
-        "super_lig"
+        "injuries",
+        "serie_a"
       ],
-      "processed_at": "2026-03-10T04:03:26.993498",
+      "processed_at": "2026-03-10T05:14:57.727712",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "🐐Can Messi pass Ronaldo, reach 1k goals?",
-      "summary": "Lionel Messi is never far from his next record or landmark. As the 2026 MLS season continues, he is on the verge of another huge milestone: his 900th goal.",
-      "url": "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
+      "title": "RB Leipzig announce post-season South Africa tour",
+      "summary": "RB Leipzig will travel to South Africa for a post-season tour, the club have confirmed.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-announce-south-africa-tour-mamelodi-sundowns-36362",
       "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-03-09T23:39:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.962034",
-      "priority_score": 65,
+      "fetched_at": "2026-03-10T05:12:13.358419",
+      "priority_score": 71,
       "categories": [
-        "match_results"
+        "transfers",
+        "breaking_news",
+        "bundesliga"
       ],
-      "processed_at": "2026-03-10T04:03:26.498275",
+      "processed_at": "2026-03-10T05:14:56.842362",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ragnar Ache wins Bundesliga Goal of the Month for February!",
+      "summary": "There were once again some absolutely brilliant goals scored in the Bundesliga in February 2026, but you decided that Ragnar Ache's overhead kick for Cologne was by far the best of the lot!",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/2025-26-goal-of-the-month-season-vote-33934",
+      "image_url": null,
+      "published": "2026-03-09T17:30:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:12:13.359083",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-10T05:14:56.850105",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "2025/26 DFB Cup overview: LIVE blog, fixtures, results and draws",
+      "summary": "Bayern Munich will face 2023/24 winners Bayer Leverkusen while holders VfB Stuttgart are to play regional rivals Freiburg in this season's DFB Cup semi-finals.",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/2025-26-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-leverkusen-stuttgart-32660",
+      "image_url": null,
+      "published": "2026-03-09T09:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:12:13.365832",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-10T05:14:56.905634",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -234,14 +299,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:19.192024",
+      "fetched_at": "2026-03-10T05:11:49.117655",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.632594",
+      "processed_at": "2026-03-10T05:14:56.722406",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -255,14 +320,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:19.192502",
+      "fetched_at": "2026-03-10T05:11:49.118136",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.640056",
+      "processed_at": "2026-03-10T05:14:56.729869",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -276,35 +341,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:19.196708",
+      "fetched_at": "2026-03-10T05:11:49.122298",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.703232",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Milan derbide Inter'i tek golle geçti",
-      "summary": "Zirve mücadelesi veren Napoli, evinde Torino'yu 2-1'lik skorla geçti.Como, Cagliari deplasmanında 2-1 galip geldi. Ev s...",
-      "url": "https://www.yenisafak.com/spor/milan-derbide-interi-tek-golle-gecti-4804384",
-      "image_url": null,
-      "published": "2026-03-09T14:47:00",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-10T04:02:42.416266",
-      "priority_score": 62,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-10T04:03:27.812368",
+      "processed_at": "2026-03-10T05:14:56.793293",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -318,7 +362,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:44.567935",
+      "fetched_at": "2026-03-10T05:12:13.363925",
       "priority_score": 61,
       "categories": [
         "breaking_news",
@@ -326,104 +370,26 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-10T04:03:26.768156",
+      "processed_at": "2026-03-10T05:14:56.887258",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Sources: Pochettino on Madrid coaching shortlist",
-      "summary": "Real Madrid have Mauricio Pochettino on the shortlist of candidates to replace Álvaro Arbeloa ahead next season, different sources told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/48153862/usmnt-mauricio-pochettino-shortlist-become-real-madrid-boss-next-season-sources",
+      "title": "🐐Can Messi pass Ronaldo, reach 1k goals?",
+      "summary": "Lionel Messi is never far from his next record or landmark. As the 2026 MLS season continues, he is on the verge of another huge milestone: his 900th goal.",
+      "url": "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
       "image_url": null,
       "published": "2026-03-10T03:12:36",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.960660",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-03-10T04:03:26.493873",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "MLS duo banned for life for betting on own games",
-      "summary": "MLS issued lifetime suspensions to Derrick Jones and Yaw Yeboah for violating the league's gambling policy after reviewing the results of an investigation.",
-      "url": "https://www.espn.com/soccer/story/_/id/48155514/mls-bans-jones-yeboah-life-betting-own-games",
-      "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.960890",
+      "fetched_at": "2026-03-10T05:11:10.972579",
       "priority_score": 55,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-10T04:03:26.494346",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "FA Cup draw: Man City to face Liverpool in QF",
-      "summary": "Manchester City will host Liverpool in the pick of the FA Cup quarterfinals from the draw on Monday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48155355/fa-cup-draw-manchester-city-face-liverpool-quarterfinal",
-      "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.961104",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-10T04:03:26.494808",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Hulk one of 23 sent off in mass brawl in Brazil",
-      "summary": "Cruzeiro's 1-0 win over Atlético-MG in Sunday's Mineiro Championship final was overshadowed by a mass brawl that erupted seconds before the final whistle and resulted in 23 red cards issued.",
-      "url": "https://www.espn.com/soccer/story/_/id/48150964/hulk-sent-23-players-sent-mass-brawl-brazil-final",
-      "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.961660",
-      "priority_score": 55,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-10T04:03:26.496721",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Slot: Liverpool ready for hostile Gala atmosphere",
-      "summary": "Arne Slot said Liverpool are prepared to face a wall of sound in Turkey, having admitted to being taken aback by the ear-splitting Champions League atmosphere at Galatasaray earlier in the season.",
-      "url": "https://www.espn.com/soccer/story/_/id/48155987/arne-slot-liverpool-ready-hostile-atmosphere-galatasaray",
-      "image_url": null,
-      "published": "2026-03-10T03:12:36",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.961837",
-      "priority_score": 55,
-      "categories": [
-        "super_lig",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-10T04:03:26.497519",
+      "processed_at": "2026-03-10T05:14:56.589169",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -432,19 +398,19 @@
       "summary": "Milan's derby win over Inter has opened a little bit of a title race again in Italy ... at least for now. Arsenal also messed around in the FA Cup and nearly found out, while Lamine Yamal showed just how great he is for Barcelona.",
       "url": "https://www.espn.com/soccer/story/_/id/48150661/milan-derby-serie-arsenal-fa-cup-lamine-yamal-barcelona-spanish-laliga-analysis-gab-marcotti",
       "image_url": null,
-      "published": "2026-03-10T03:34:32",
+      "published": "2026-03-10T05:43:09",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.962576",
+      "fetched_at": "2026-03-10T05:11:10.973122",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-03-10T04:03:26.502583",
+      "processed_at": "2026-03-10T05:14:56.593485",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -458,53 +424,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-10T04:01:34.916003",
+      "fetched_at": "2026-03-10T05:13:03.943333",
       "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-10T04:03:26.842006",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'da Onuachu, 14 yıldır yapılamayanı yaptı: Burak Yılmaz'ın ardından bir ilk!",
-      "summary": "Trabzonspor'un Nijeryalı golcüsü Paul Onuachu, Kayserispor deplasmanını da boş geçmedi. Karşılaşmanın ilk yarısının duraklama dakikalarında biri penaltıdan olmak üzere 2 gol kaydeden golcü oyuncu, 2011-2012 sezonunda Burak Yılmaz’ın 7 maç üst üste gol atma başarısını tekrarladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-onuachu-14-yildir-yapilamayani-yapti-burak-yilmazin-ardindan-bir-ilk-43125090",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69af0f997a5d6587c5823ec4.jpg",
-      "published": "2026-03-09T18:23:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-10T04:01:48.512240",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-10T04:03:27.019599",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Despite wingback depth, Dest injury threatens USMNT's World Cup hopes",
-      "summary": "Sergiño Dest insists his season isn't over after suffering a hamstring injury, but if it is, that's a headache the U.S. doesn't need for the World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/48154669/despite-wingback-depth-sergino-dest-injury-threatens-usmnt-world-cup-hopes",
-      "image_url": null,
-      "published": "2026-03-10T03:12:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.960167",
-      "priority_score": 50,
-      "categories": [
-        "injuries",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-10T04:03:26.493063",
+      "processed_at": "2026-03-10T05:14:56.941744",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -518,12 +444,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-10T04:00:19.198291",
+      "fetched_at": "2026-03-10T05:11:49.123838",
       "priority_score": 48,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-10T04:03:26.730535",
+      "processed_at": "2026-03-10T05:14:56.820654",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -537,12 +463,12 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-10T04:02:42.414720",
+      "fetched_at": "2026-03-10T05:14:10.469688",
       "priority_score": 47,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-10T04:03:27.788355",
+      "processed_at": "2026-03-10T05:14:57.805142",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -556,13 +482,110 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-10T04:02:42.418106",
+      "fetched_at": "2026-03-10T05:14:10.472932",
       "priority_score": 47,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-03-10T04:03:27.835081",
+      "processed_at": "2026-03-10T05:14:57.851573",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Sources: Pochettino on Madrid coaching shortlist",
+      "summary": "Real Madrid have Mauricio Pochettino on the shortlist of candidates to replace Álvaro Arbeloa ahead next season, different sources told ESPN.",
+      "url": "https://www.espn.com/soccer/story/_/id/48153862/usmnt-mauricio-pochettino-shortlist-become-real-madrid-boss-next-season-sources",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.971252",
+      "priority_score": 45,
+      "categories": [
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-10T05:14:56.585001",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "MLS duo banned for life for betting on own games",
+      "summary": "MLS issued lifetime suspensions to Derrick Jones and Yaw Yeboah for violating the league's gambling policy after reviewing the results of an investigation.",
+      "url": "https://www.espn.com/soccer/story/_/id/48155514/mls-bans-jones-yeboah-life-betting-own-games",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.971477",
+      "priority_score": 45,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-10T05:14:56.585378",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "FA Cup draw: Man City to face Liverpool in QF",
+      "summary": "Manchester City will host Liverpool in the pick of the FA Cup quarterfinals from the draw on Monday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48155355/fa-cup-draw-manchester-city-face-liverpool-quarterfinal",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.971664",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-10T05:14:56.585793",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hulk one of 23 sent off in mass brawl in Brazil",
+      "summary": "Cruzeiro's 1-0 win over Atlético-MG in Sunday's Mineiro Championship final was overshadowed by a mass brawl that erupted seconds before the final whistle and resulted in 23 red cards issued.",
+      "url": "https://www.espn.com/soccer/story/_/id/48150964/hulk-sent-23-players-sent-mass-brawl-brazil-final",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.972230",
+      "priority_score": 45,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-10T05:14:56.587638",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Slot: Liverpool ready for hostile Gala atmosphere",
+      "summary": "Arne Slot said Liverpool are prepared to face a wall of sound in Turkey, having admitted to being taken aback by the ear-splitting Champions League atmosphere at Galatasaray earlier in the season.",
+      "url": "https://www.espn.com/soccer/story/_/id/48155987/arne-slot-liverpool-ready-hostile-atmosphere-galatasaray",
+      "image_url": null,
+      "published": "2026-03-10T03:12:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-10T05:11:10.972406",
+      "priority_score": 45,
+      "categories": [
+        "super_lig",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-10T05:14:56.588422",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -576,31 +599,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-10T03:59:39.962380",
+      "fetched_at": "2026-03-10T05:11:10.972937",
       "priority_score": 45,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-10T04:03:26.500799",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man City host Liverpool, Port Vale face Chelsea - full FA Cup draw",
-      "summary": "League One Port Vale's reward for beating Sunderland in the FA Cup is a quarter-final tie away to Chelsea, while Manchester City will host Liverpool in a heavyweight showdown.",
-      "url": "https://www.bbc.com/sport/football/articles/cedz4yeppp8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-09T22:58:40",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-10T03:59:47.456090",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-10T04:03:26.510914",
+      "processed_at": "2026-03-10T05:14:56.591697",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
