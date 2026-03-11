@@ -1,27 +1,71 @@
 {
-  "timestamp": "2026-03-11T21:28:04.872865",
+  "timestamp": "2026-03-11T22:24:10.782491",
   "total_items": 30,
   "news": [
     {
-      "title": "'Things will be more normal' in Champions League home game - Slot",
-      "summary": "Liverpool manager Arne Slot calls for improvement from both his players and the officials, after the Reds 1-0 first leg defeat to Galatasary in Istanbul.",
-      "url": "https://www.bbc.com/sport/football/videos/c309434q52jo?at_medium=RSS&at_campaign=rss",
+      "title": "PSG's late surge overwhelms Chelsea in 1st leg",
+      "summary": "Paris Saint-Germain scored three goals in the final 20 minutes as the holders overwhelmed Chelsea 5-2 in the first leg of their Champions League last-16 tie at the Parc des Princes on Wednesday.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862646",
       "image_url": null,
-      "published": "2026-03-10T22:09:59",
-      "source": "BBC Sport Football",
+      "published": "2026-03-11T23:08:21",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:10.921906",
+      "fetched_at": "2026-03-11T22:18:39.273891",
       "priority_score": 100,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.709244",
+      "title_tr": "PSG'nin geç yükselişi ilk maçta Chelsea'yi mağlup etti",
+      "summary_tr": "Şampiyonlar Ligi son 16 turu ilk maçında Çarşamba günü Parc des Princes'te Chelsea'yi 5-2 mağlup eden Paris Saint-Germain, son 20 dakikada üç gol attı."
+    },
+    {
+      "title": "Valverde’s astonishing Real Madrid hat-trick leaves Manchester City on brink",
+      "summary": "Federico Valverde was the Real Madrid hero who wrote himself into this storied club’s folklore with a first-half, 22-minute hat-trick that decimated Manchester City and cast Pep Guardiola as a tactical novice.Each of Valverde’s goals were a diagram of his supreme skill and City’s chump-like defendin",
+      "url": "https://www.theguardian.com/football/2026/mar/11/real-madrid-manchester-city-champions-league-last-16-first-leg-match-report",
+      "image_url": null,
+      "published": "2026-03-11T22:03:03",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:19:23.651006",
+      "priority_score": 93,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-11T22:22:36.819250",
+      "title_tr": "Valverde'nin şaşırtıcı Real Madrid hat-trick'i Manchester City'yi uçurumun eşiğine getirdi",
+      "summary_tr": "Federico Valverde, ilk yarıda 22 dakikalık bir hat-trick yaparak Manchester City'yi yok eden ve Pep Guardiola'yı taktiksel bir acemi haline getiren Real Madrid kahramanıydı. Valverde'nin gollerinin her biri, onun üstün becerisinin ve City'nin aptal savunmasının bir diyagramıydı."
+    },
+    {
+      "title": "McIlroy set for 'game-time decision' after revealing back injury update",
+      "summary": "Rory McIlroy said his back injury is \"a lot better\" but confirmed he will make a \"game-time\" decision on whether to defend his title at The Players.",
+      "url": "https://www.skysports.com/golf/news/12040/13518183/the-players-rory-mcilroy-reveals-back-injury-update-and-confirms-game-time-decision-on-whether-he-will-play-at-tpc-sawgrass",
+      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-rory-mcilroy-golf_7189482.jpg?20260311212313",
+      "published": "2026-03-11T21:54:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:55.551090",
+      "priority_score": 91,
       "categories": [
         "transfers",
         "breaking_news",
-        "champions_league"
+        "injuries"
       ],
-      "processed_at": "2026-03-11T21:26:43.994423",
-      "title_tr": "Şampiyonlar Ligi iç saha maçında 'her şey daha normal olacak' - Slot",
-      "summary_tr": "Liverpool menajeri Arne Slot, Kırmızılar'ın İstanbul'da Galatasaray'a 1-0 yenildiği ilk maçın ardından hem oyuncularından hem de yetkililerden gelişme çağrısında bulundu."
+      "processed_at": "2026-03-11T22:22:36.793409",
+      "title_tr": "McIlroy, sırt sakatlığı güncellemesini açıkladıktan sonra 'maç zamanı kararı' için hazırlandı",
+      "summary_tr": "Rory McIlroy, sırtındaki sakatlığın \"çok daha iyi\" olduğunu söyledi ancak The Players'da unvanını koruyup korumama konusunda \"maç sırasında\" bir karar vereceğini doğruladı."
     },
     {
       "title": "Havertz penalty rescues draw for Arsenal against Bayer Leverkusen",
@@ -33,7 +77,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817291",
+      "fetched_at": "2026-03-11T22:18:55.550705",
       "priority_score": 81,
       "categories": [
         "match_results",
@@ -41,21 +85,21 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.004140",
+      "processed_at": "2026-03-11T22:22:36.764331",
       "title_tr": "Havertz penaltısı Arsenal'in Bayer Leverkusen'e karşı kurasını kurtardı",
       "summary_tr": "Kai Havertz, eski takımı Bayer Leverkusen'e 89. dakikada attığı penaltıyla, BayArena'da oynanan Şampiyonlar Ligi son 16 turu ilk maçında Arsenal'in 1-1'lik beraberliğini kurtardı."
     },
     {
-      "title": "Champions League live updates: Valverde with first-half hat trick vs. Man City",
-      "summary": "Enjoy all the updates from Wednesday's UEFA Champions League round-of-16 matches, including Real Madrid vs. Manchester City and Paris Saint-Germain vs. Chelsea.",
+      "title": "Champions League recap: Valverde's first-half hat trick helps Real Madrid defeat Man City",
+      "summary": "Enjoy all the action from Wednesday's UEFA Champions League round-of-16 matches, including Real Madrid vs. Manchester City and Paris Saint-Germain vs. Chelsea.",
       "url": "https://www.espn.com/soccer/story/_/id/48114441/champions-league-live-updates-real-madrid-manchester-city-psg-chelsea-bodo-glimt-sporting-lisbon",
       "image_url": null,
-      "published": "2026-03-11T20:43:12",
+      "published": "2026-03-11T23:02:39",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.985496",
+      "fetched_at": "2026-03-11T22:18:39.273149",
       "priority_score": 80,
       "categories": [
         "breaking_news",
@@ -63,52 +107,51 @@
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:43.953133",
-      "title_tr": "Şampiyonlar Ligi canlı güncellemeleri: Valverde, Man City'ye karşı ilk yarıda hat trick yaptı",
-      "summary_tr": "Real Madrid - Manchester City ve Paris Saint-Germain - Chelsea dahil Çarşamba günkü UEFA Şampiyonlar Ligi son 16 turu maçlarına ilişkin tüm güncellemelerin keyfini çıkarın."
+      "processed_at": "2026-03-11T22:22:36.708031",
+      "title_tr": "Şampiyonlar Ligi özeti: Valverde'nin ilk yarıdaki hat trick'i Real Madrid'in Manchester City'yi yenmesine yardımcı oldu",
+      "summary_tr": "Real Madrid - Manchester City ve Paris Saint-Germain - Chelsea dahil Çarşamba günkü UEFA Şampiyonlar Ligi son 16 karşılaşmalarındaki tüm aksiyonun keyfini çıkarın."
     },
     {
-      "title": "Real Madrid v Manchester City: Champions League last 16, first leg – live",
-      "summary": "⚽️ Champions League news from the 8pm GMT kick-off⚽️ Live scores | Follow us on Bluesky | And email ScottThe Atari-esque sprites of Manchester City get the ball rolling. The famous old pile might not be sold out, but it is noisy.The teams are out! Real Madrid in their meringue whites, Manchester Cit",
-      "url": "https://www.theguardian.com/football/live/2026/mar/11/real-madrid-v-manchester-city-champions-league-last-16-first-leg-live",
+      "title": "Havertz scores late penalty to earn Arsenal a draw at Leverkusen",
+      "summary": "Arsenal's Kai Havertz scores a late penalty against his former club Bayer Leverkusen to draw 1-1 in the first leg of their last-16 Champions League tie.",
+      "url": "https://www.bbc.com/sport/football/videos/cx2jxd458n6o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-11T21:15:24",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-03-11T21:58:07",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.628046",
-      "priority_score": 78,
+      "fetched_at": "2026-03-11T22:18:44.947695",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
         "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.723029",
+      "title_tr": "Havertz geç penaltı atarak Arsenal'e Leverkusen'de beraberlik kazandırdı",
+      "summary_tr": "Arsenal'in yıldızı Kai Havertz, Şampiyonlar Ligi son 16 turu ilk maçında eski kulübü Bayer Leverkusen'e geç penaltı atarak 1-1 berabere kaldı."
+    },
+    {
+      "title": "Kinsky chaos as Atletico put five past sorry Spurs in Madrid",
+      "summary": "Tottenham's troubles go from bad to worse as they're beaten 5-2 by Atletico Madrid in the first leg of their last 16 tie in the Champions League, with Spurs goalkeeper Antonin Kinsky substituted after just 17 minutes, with his team already 3-0 down at that stage.",
+      "url": "https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-11T21:58:03",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:44.948059",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.064442",
-      "title_tr": "Real Madrid - Manchester City: Şampiyonlar Ligi son 16 ilk maçı canlı",
-      "summary_tr": "⚽️ Şampiyonlar Ligi 20:00 GMT başlama vuruşundan haberler⚽️ Canlı skorlar | Bizi Bluesky'de takip edin | Ve Scott'a e-posta gönderin. Manchester City'nin Atari benzeri ruhları işleri hızlandırıyor. Meşhur eski yığın tükenmemiş olabilir ama gürültülü.Takımlar dışarıda! Real Madrid beze beyazları, Manchester Cit"
-    },
-    {
-      "title": "Paris Saint-Germain v Chelsea, Bodø/Glimt v Sporting, and more: football – live",
-      "summary": "⚽️ Updates from Champions League last 16 and beyond⚽️ Live scores | Follow us on Bluesky | And mail XaymacaPSG 0-0 Chelsea 3 min: Chelsea have the first chance of the game. Reece James delivers a delicious ball across the six yard box but it’s just out of the reach of João Pedro and Pedro Neto.Both ",
-      "url": "https://www.theguardian.com/football/live/2026/mar/11/paris-saint-germain-v-chelsea-bodglimt-v-sporting-and-more-football-live",
-      "image_url": null,
-      "published": "2026-03-11T21:12:57",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.628557",
-      "priority_score": 78,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-11T21:26:44.070997",
-      "title_tr": "Paris Saint-Germain - Chelsea, Bodø/Glimt - Sporting ve daha fazlası: futbol - canlı",
-      "summary_tr": "⚽️ Şampiyonlar Ligi'nde son 16 ve sonrası güncellemeler⚽️ Canlı skorlar | Bizi Bluesky'de takip edin | Ve XaymacaPSG'ye postayla 0-0 Chelsea 3 dk: Chelsea maçın ilk şansını yakaladı. Reece James altı yardalık alanın üzerinden lezzetli bir top atıyor ancak top João Pedro ve Pedro Neto'nun ulaşamayacağı bir yerde."
+      "processed_at": "2026-03-11T22:22:36.726894",
+      "title_tr": "Atletico Madrid'de üzgün Spurs'u beş kez geride bırakırken Kinsky kaosu",
+      "summary_tr": "Şampiyonlar Ligi'nde son 16 turundaki ilk maçında Atletico Madrid'e 5-2 yenilen Tottenham'ın sorunları daha da kötüye gidiyor, Spurs kalecisi Antonin Kinsky ise sadece 17 dakika sonra oyuna girerken, takımı zaten 3-0 gerideydi."
     },
     {
       "title": "Fenerbahçe, 44 milyonluk golcüyü transfer ediyor! İlk temas gerçekleşti",
@@ -120,7 +163,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-11T21:25:14.235184",
+      "fetched_at": "2026-03-11T22:21:01.989051",
       "priority_score": 71,
       "categories": [
         "transfers",
@@ -128,29 +171,9 @@
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-03-11T21:26:44.318793",
+      "processed_at": "2026-03-11T22:22:37.067993",
       "title_tr": "Fenerbahçe, 44 milyonluk golcüyü transfer ediyor! İlk temas gerçekleşti",
       "summary_tr": "Fenerbahçe, gelecek sezon için transfer çalışmalarına başladı. Sarı lacivertliler bu bağlamda, Juventus'un golcüsü Openda'ya kanca attı. İşte ayrıntılar..."
-    },
-    {
-      "title": "Havertz gives Arsenal draw in Leverkusen return",
-      "summary": "Kai Havertz scored a penalty against his former side Bayer Leverkusen to take a 1-1 scoreline back to the Emirates.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401862578",
-      "image_url": null,
-      "published": "2026-03-11T21:53:56",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.985992",
-      "priority_score": 70,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-11T21:26:43.953938",
-      "title_tr": "Havertz, Leverkusen dönüşünde Arsenal'e beraberlik verdi",
-      "summary_tr": "Kai Havertz, eski takımı Bayer Leverkusen'e penaltı atarak Emirates'e 1-1'lik skoru getirdi."
     },
     {
       "title": "Sadettin Saran tek tek açıkladı!",
@@ -162,100 +185,147 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-11T21:25:02.720831",
+      "fetched_at": "2026-03-11T22:20:47.449242",
       "priority_score": 68,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-03-11T21:26:44.176921",
+      "processed_at": "2026-03-11T22:22:36.926147",
       "title_tr": "Sadettin Saran tek tek açıkladı!",
       "summary_tr": "Fenerbahçe Başkanı Sadettin Saran, kulüp televizyonuna gündeme dair açıklamalarda bulundu. Saran; Lookman transferi, devre arası takıma katılanlar, Jhon Duran ve En-Neysri'nin ayrılıkları, takımın gidişatı ve hakemler hakkında önemli sözler söyledi. İşte Saran'ın açıklamaları..."
     },
     {
-      "title": "Galatasaray'ın galibiyeti, Türkiye'nin UEFA ülke puanını güçlendirdi! İşte tablo...",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu ilk maçında RAMS Park'ta İngiliz devi Liverpool'u 1-0'lık skorla yenerek çeyrek final yolunda dev bir adım attı. Mario Lemina'nın 7. dakikada attığı golle gelen galibiyet, sadece saha içindeki başarıyı değil, Türkiye'nin UEFA ülke puanı sıralamasındaki ",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-galibiyeti-turkiyenin-uefa-ulke-puanini-guclendirdi-iste-tablo-2405255",
+      "title": "Valverde's hat trick dazzles as Madrid dump City",
+      "summary": "Federico Valverde's stellar first-half hat trick was the catalyst as Real Madrid eased past Manchester City 3-0 in the first leg of their Champions League round-of-16 match on Wednesday.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862645",
       "image_url": null,
-      "published": "2026-03-11T13:02:21",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:25:35.076560",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-11T21:26:44.672799",
-      "title_tr": "Galatasaray'ın galibiyeti, Türkiye'nin UEFA ülke puanını güçlendirdi! İşte tablo...",
-      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu ilk maçında RAMS Park'ta İngiliz devi Liverpool'u 1-0'lık skorla yenerek çeyrek final yolunda dev bir adım attı. Mario Lemina'nın 7. dakikada attığı golle gelen galibiyet, sadece saha içindeki başarıyı değil, Türkiye'nin UEFA ülke puanı sıralamasındaki"
-    },
-    {
-      "title": "Spurs keeper Kinsky thankful for support after 'nightmare'",
-      "summary": "Antonin Kinsky thanks those who have sent messages of support after a \"nightmare\" display in Spurs' Champions League defeat at Atletico Madrid.",
-      "url": "https://www.bbc.com/sport/football/articles/c77egk8ykxxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-11T20:48:18",
-      "source": "BBC Sport Football",
+      "published": "2026-03-11T23:08:21",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:10.920102",
-      "priority_score": 55,
+      "fetched_at": "2026-03-11T22:18:39.273658",
+      "priority_score": 80,
       "categories": [
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-11T21:26:43.967995",
-      "title_tr": "Spurs kalecisi Kinsky 'kabustan' sonra desteği için minnettar",
-      "summary_tr": "Antonin Kinsky, Spurs'un Şampiyonlar Ligi'nde Atletico Madrid'e yenilmesindeki \"kabus\" gösterisinin ardından destek mesajları gönderenlere teşekkür ediyor."
-    },
-    {
-      "title": "'Incredible... sensational!' - Brown STUNNED by Valverde's hat-trick against Man City",
-      "summary": "Michael Brown reacts to Federico Valverde's hat-trick in Real Madrid's Champions League clash with Manchester City.",
-      "url": "https://www.skysports.com/watch/video/13518407/real-madrid-vs-man-city-michael-brown-reacts-to-federico-valverdes-hat-trick-in-champions-league-clash",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-man-city-real-madrid_7189471.jpg?20260311211218",
-      "published": "2026-03-11T21:05:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817765",
-      "priority_score": 51,
-      "categories": [
+        "breaking_news",
         "premier_league",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.038878",
-      "title_tr": "'İnanılmaz... sansasyonel!' - Brown, Valverde'nin Manchester City'e karşı yaptığı hat-trick karşısında şaşkına döndü",
-      "summary_tr": "Michael Brown, Real Madrid'in Manchester City ile Şampiyonlar Ligi karşılaşmasında Federico Valverde'nin hat-trick yapmasına tepki gösterdi."
+      "processed_at": "2026-03-11T22:22:36.708830",
+      "title_tr": "Madrid City'yi terk ederken Valverde'nin hat-trick'i göz kamaştırıyor",
+      "summary_tr": "Federico Valverde'nin ilk yarıdaki mükemmel hat-trick'i, Real Madrid'in Çarşamba günü Şampiyonlar Ligi son 16 turu karşılaşmasının ilk ayağında Manchester City'yi 3-0 yenmesinde katalizör oldu."
     },
     {
-      "title": "'Not sure it's a good sign' - Rory takes early break from first practice since injury",
-      "summary": "Rory McIlroy has his first practice session at The Players Championship following his back injury, but takes an early break, leaving commentators unsure if it's a good sign or not.",
-      "url": "https://www.skysports.com/watch/video/13518398/the-players-championship-rory-mcilroy-has-first-practice-session-since-injury",
-      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-rory-mcilroy-golf_7189429.jpg?20260311204706",
-      "published": "2026-03-11T20:43:00",
+      "title": "Newcastle denied crucial win after Barcelona score last minute penalty",
+      "summary": "Newcastle are denied a famous win against Barcelona at St James' Park as teenager Lamine Yamal scores a penalty with the last kick of the game to secure his side a 1-1 draw in first leg of their last 16 tie in the Champions League.",
+      "url": "https://www.bbc.com/sport/football/videos/c0mgy37xz11o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-11T21:58:09",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:44.948619",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.733795",
+      "title_tr": "Newcastle, Barcelona'nın son dakika penaltısını atmasının ardından kritik galibiyeti reddetti",
+      "summary_tr": "Newcastle'ın, St James' Park'ta Barselona'ya karşı ünlü galibiyeti reddedildi; genç Lamine Yamal, Şampiyonlar Ligi'ndeki son 16 beraberliklerinin ilk ayağında maçın son vuruşunda penaltı atarak takımına 1-1 beraberlik kazandırdı."
+    },
+    {
+      "title": "Lemina gives Galatasaray narrow victory over Liverpool",
+      "summary": "Galatasary midfielder Mario Lemina heads in the only goal of the game as Liverpool lose 1-0 to the Turkish champions, in their first leg Champions League last-16 tie.",
+      "url": "https://www.bbc.com/sport/football/videos/ce82jee53rgo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-11T21:58:13",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:44.948785",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "super_lig",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.736286",
+      "title_tr": "Lemina, Galatasaray'a Liverpool'u az farkla mağlup etti",
+      "summary_tr": "Şampiyonlar Ligi son 16 ilk maçında Liverpool'un Türkiye şampiyonuna 1-0 yenildiği maçta, Galatasaraylı orta saha oyuncusu Mario Lemina maçın tek golünü attı."
+    },
+    {
+      "title": "Bayern hit Atalanta for six in first leg victory",
+      "summary": "Bayern Munich look set to book a place in the quarter-finals of the Champions League following a 6-1 first leg victory over Atalanta in their last-16 tie in Bergamo.",
+      "url": "https://www.bbc.com/sport/football/videos/cwyxkzkkygko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-11T21:58:16",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:44.948956",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.738973",
+      "title_tr": "Bayern ilk maçta Atalanta'yı altı galibiyetle mağlup etti",
+      "summary_tr": "Bayern Münih, Bergamo'da son 16 turunda Atalanta'yı 6-1 mağlup ederek Şampiyonlar Ligi'nde çeyrek finale yükseldi."
+    },
+    {
+      "title": "Paris Saint-Germain 5-2 Chelsea, Bodø/Glimt 3-0 Sporting, and more: football – live",
+      "summary": "⚽️ Updates from Champions League last 16 and beyond⚽️ Live scores | Follow us on Bluesky | And mail XaymacaPSG 0-0 Chelsea 3 min: Chelsea have the first chance of the game. Reece James delivers a delicious ball across the six yard box but it’s just out of the reach of João Pedro and Pedro Neto.Both ",
+      "url": "https://www.theguardian.com/football/live/2026/mar/11/paris-saint-germain-v-chelsea-bodglimt-v-sporting-and-more-football-live",
+      "image_url": null,
+      "published": "2026-03-11T22:01:08",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:19:23.651605",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.825981",
+      "title_tr": "Paris Saint-Germain 5-2 Chelsea, Bodø/Glimt 3-0 Sporting ve daha fazlası: futbol – canlı",
+      "summary_tr": "⚽️ Şampiyonlar Ligi'nde son 16 ve sonrası güncellemeler⚽️ Canlı skorlar | Bizi Bluesky'de takip edin | Ve XaymacaPSG'ye postayla 0-0 Chelsea 3 dk: Chelsea maçın ilk şansını yakaladı. Reece James altı yardalık alanın üzerinden lezzetli bir top atıyor ancak top João Pedro ve Pedro Neto'nun ulaşamayacağı bir yerde."
+    },
+    {
+      "title": "Valverde's first-half hat-trick leaves Man City on brink of CL exit",
+      "summary": "Federico Valverde's brilliant first-half hat-trick secured Real Madrid a stunning 3-0 victory over Manchester City, who have a mountain to climb to reach the Champions League quarter-finals.",
+      "url": "https://www.skysports.com/football/real-madrid-vs-manchester-city/report/554899",
+      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-valvedre-real-madrid_7189432.jpg?20260311204836",
+      "published": "2026-03-11T21:53:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817960",
-      "priority_score": 71,
+      "fetched_at": "2026-03-11T22:18:55.550543",
+      "priority_score": 76,
       "categories": [
         "breaking_news",
-        "injuries"
+        "premier_league",
+        "la_liga",
+        "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.053077",
-      "title_tr": "'Bunun iyiye işaret olduğundan emin değilim' - Rory sakatlığının ardından ilk antrenmana erken ara verdi",
-      "summary_tr": "Rory McIlroy, sırtındaki sakatlığın ardından Oyuncular Şampiyonası'nda ilk antrenmanına çıkıyor ancak erken ara veriyor ve yorumcular bunun iyi bir işaret olup olmadığı konusunda kararsız kalıyor."
+      "processed_at": "2026-03-11T22:22:36.757808",
+      "title_tr": "Valverde'nin ilk yarıdaki hat-trick'i Man City'i CL'den ayrılmanın eşiğine getirdi",
+      "summary_tr": "Federico Valverde'nin ilk yarıdaki harika hat-trick'i, Real Madrid'e, Şampiyonlar Ligi çeyrek finaline ulaşmak için tırmanması gereken bir dağ olan Manchester City'ye karşı 3-0'lık çarpıcı bir zafer kazandırdı."
     },
     {
       "title": "Havertz’s late penalty on return to Leverkusen rescues first-leg draw for Arsenal",
-      "summary": "Whoever runs Bayer Leverkusen’s social media accounts obviously meant it as a joke. But even they couldn’t have predicted that a cheeky post hours before kick-off would almost end up being such a good omen for Kasper Hjulmand’s side. “No corners allowed,” it read in a clear dig at Arsenal’s favoured",
+      "summary": "Whoever runs Bayer Leverkusen’s social media accounts obviously meant it as a joke. But even they could not have predicted that a cheeky post hours before kick‑off would almost end up being such a good omen for Kasper Hjulmand’s side. “No corners allowed,” it read in a clear dig at Arsenal’s favoure",
       "url": "https://www.theguardian.com/football/2026/mar/11/bayer-leverkusen-arsenal-champions-league-last-16-first-leg-match-report",
       "image_url": null,
       "published": "2026-03-11T19:53:42",
@@ -263,15 +333,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.628884",
+      "fetched_at": "2026-03-11T22:19:23.651913",
       "priority_score": 68,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.077959",
+      "processed_at": "2026-03-11T22:22:36.832603",
       "title_tr": "Havertz'in Leverkusen'e dönüşünde aldığı geç ceza, Arsenal'in ilk maçtaki beraberliğini kurtardı",
-      "summary_tr": "Bayer Leverkusen'in sosyal medya hesaplarını kim işletiyorsa bunu şaka amaçlı yaptığı belli. Ancak başlama vuruşundan saatler önce atılan arsız bir paylaşımın Kasper Hjulmand için bu kadar iyi bir alamet olacağını onlar bile tahmin edemezlerdi. Arsenal'in tercih ettiği sahayı açıkça vurgulayan yazıda \"Köşeye izin yok\" yazıyordu"
+      "summary_tr": "Bayer Leverkusen'in sosyal medya hesaplarını kim işletiyorsa bunu şaka amaçlı yaptığı belli. Ancak başlama vuruşundan saatler önce atılan küstahça bir gönderinin Kasper Hjulmand için bu kadar iyi bir alamet olacağını onlar bile tahmin edemezlerdi. Arsenal'in lehine net bir şekilde \"Köşeye izin yok\" yazıyordu"
+    },
+    {
+      "title": "7 gollü maçta avantaj PSG'nin!",
+      "summary": "UEFA Şampiyonlar Ligi son 16 turu ilk maçında Fransız devi PSG, evinde İngiliz temsilcisi Chelsea'yi 5-2 mağlup etti. PSG'ye çeyrek finale kalma yolunda avantajı getiren golleri Bradley Barcola, Ousmane Dembele, Vitinha ve Khvicha Kvaratskhelia (2) attı. İki takım arasındaki rövanş maçı, 17 Mart Sal",
+      "url": "https://www.haberturk.com/psg-5-chelsea-2-mac-sonucu-3869000-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/12/ver1773265553/3869000/jpg/1280x1280",
+      "published": "2026-03-11T21:55:49",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:20:47.448906",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.910004",
+      "title_tr": "7 gollü maçta avantaj PSG'nin!",
+      "summary_tr": "UEFA Şampiyonlar Ligi son 16 turu ilk maçında Fransız devi PSG, evinde İngiliz temsilcisi Chelsea'yi 5-2 mağlup etti. PSG'ye çeyrek finale kalma yolunda avantajı getiren golleri Bradley Barcola, Ousmane Dembele, Vitinha ve Khvicha Kvaratskhelia (2) attı. İki takım arasındaki rövanş maçı, 17 Mart Sal"
     },
     {
       "title": "'Arsenal denkt aan Leipzig-verdediger, Juventus wil Lewandowski'",
@@ -283,7 +373,7 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-11T21:26:39.005241",
+      "fetched_at": "2026-03-11T22:22:32.369573",
       "priority_score": 67,
       "categories": [
         "transfers",
@@ -291,7 +381,7 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-03-11T21:26:45.243952",
+      "processed_at": "2026-03-11T22:22:38.051081",
       "title_tr": "'Arsenal, Leipzig'li defans oyuncusunu düşünüyor, Juventus ise Lewandowski'yi istiyor'",
       "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
@@ -305,31 +395,71 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817454",
+      "fetched_at": "2026-03-11T22:18:55.550862",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-11T21:26:44.015359",
+      "processed_at": "2026-03-11T22:22:36.776205",
       "title_tr": "Ravens, Hendrickson'la dört yıllık 112 milyon dolarlık sözleşme imzaladı",
       "summary_tr": "Dört kez Pro Bowl'da öne çıkan oyuncu Trey Hendrickson, Baltimore Ravens ile dört yıllık, 112 milyon dolarlık bir sözleşme imzaladı."
+    },
+    {
+      "title": "Şampiyonlar Ligi'ndeki 7 gollü çılgın maçta PSG, Chelsea’yi devirdi!",
+      "summary": "PSG, UEFA Şampiyonlar Ligi Son 16 Turu ilk maçında Chelsea karşısında 5-2’lik skorla kazandı.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/03/11/sampiyonlar-ligindeki-7-gollu-cilgin-macta-psg-chelseayi-devirdi",
+      "image_url": "https://iasbh.tmgrup.com.tr/aa2393/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/03/12/sampiyonlar-ligindeki-7-gollu-cilgin-macta-psg-chelseayi-devirdi-1773266114825.jpeg",
+      "published": "2026-03-11T21:55:53",
+      "source": "Sabah Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:21:06.308192",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-11T22:22:37.136625",
+      "title_tr": "Şampiyonlar Ligi'ndeki 7 gollü çılgın maçta PSG, Chelsea’yi devirdi!",
+      "summary_tr": "PSG, UEFA Şampiyonlar Ligi Son 16 Turu ilk maçında Chelsea karşısında 5-2’lik skorla kazandı.Devamı için tıklayınız"
+    },
+    {
+      "title": "Galatasaray'ın galibiyeti, Türkiye'nin UEFA ülke puanını güçlendirdi! İşte tablo...",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu ilk maçında RAMS Park'ta İngiliz devi Liverpool'u 1-0'lık skorla yenerek çeyrek final yolunda dev bir adım attı. Mario Lemina'nın 7. dakikada attığı golle gelen galibiyet, sadece saha içindeki başarıyı değil, Türkiye'nin UEFA ülke puanı sıralamasındaki ",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-galibiyeti-turkiyenin-uefa-ulke-puanini-guclendirdi-iste-tablo-2405255",
+      "image_url": null,
+      "published": "2026-03-11T13:02:21",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:21:22.330943",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-11T22:22:37.414922",
+      "title_tr": "Galatasaray'ın galibiyeti, Türkiye'nin UEFA ülke puanını güçlendirdi! İşte tablo...",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu ilk maçında RAMS Park'ta İngiliz devi Liverpool'u 1-0'lık skorla yenerek çeyrek final yolunda dev bir adım attı. Mario Lemina'nın 7. dakikada attığı golle gelen galibiyet, sadece saha içindeki başarıyı değil, Türkiye'nin UEFA ülke puanı sıralamasındaki"
     },
     {
       "title": "Pareja out as Orlando City coach after 6 seasons",
       "summary": "Orlando City have made the first coaching change of the MLS season, announcing Wednesday the exit of long-time head coach Oscar Pareja.",
       "url": "https://www.espn.com/soccer/story/_/id/48175112/oscar-pareja-orlando-city-coach-mls",
       "image_url": null,
-      "published": "2026-03-11T21:53:57",
+      "published": "2026-03-11T23:08:21",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.986421",
+      "fetched_at": "2026-03-11T22:18:39.274470",
       "priority_score": 65,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-11T21:26:43.954733",
+      "processed_at": "2026-03-11T22:22:36.710826",
       "title_tr": "Pareja, 6 sezonun ardından Orlando City'nin teknik direktörü olmayacak",
       "summary_tr": "Orlando City, Çarşamba günü uzun süredir başantrenör Oscar Pareja'nın ayrıldığını duyurarak MLS sezonunun ilk teknik direktör değişikliğini yaptı."
     },
@@ -338,17 +468,17 @@
       "summary": "Lionel Messi is never far from his next record or landmark. As the 2026 MLS season continues, he is on the verge of another huge milestone: his 900th goal.",
       "url": "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
       "image_url": null,
-      "published": "2026-03-11T21:53:57",
+      "published": "2026-03-11T23:08:21",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.987342",
+      "fetched_at": "2026-03-11T22:18:39.275015",
       "priority_score": 65,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-11T21:26:43.958213",
+      "processed_at": "2026-03-11T22:22:36.713068",
       "title_tr": "🐐Messi, Ronaldo'yu geçip 1k gole ulaşabilecek mi?",
       "summary_tr": "Lionel Messi bir sonraki rekorundan veya dönüm noktasından asla uzak değil. 2026 MLS sezonu devam ederken, kendisi bir başka büyük kilometre taşının eşiğinde: 900. golüne."
     },
@@ -362,20 +492,20 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-11T21:25:48.122310",
+      "fetched_at": "2026-03-11T22:21:34.972288",
       "priority_score": 64,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-11T21:26:44.816433",
+      "processed_at": "2026-03-11T22:22:37.558984",
       "title_tr": "Fenerbahçe Fred'in bonservisini belirledi! Brezilyalı'nın birçok talibi var",
       "summary_tr": "Ara transfer döneminde N'Golo Kante transferinin ardından Fred ile yollarını ayırmak isteyen fakat bunu gerçekleştiremeyen Fenerbahçe, sezon sonunda ayrılmasına kesin gözüyle bakılan Brezilyalı için kararını...Devamı için tıklayınız"
     },
     {
       "title": "Harvey Barnes urges Newcastle to outplay Barcelona again at Camp Nou",
-      "summary": "First-leg scorer senses self-belief to reach last eight‘In the Champions League we have hit our top form’Harvey Barnes believes Newcastle are primed for historic success against Barcelona after showing they are more than capable of living with them in the first leg of their Champions League last-16 ",
+      "summary": "Scorer senses self-belief to reach last eight‘In the Champions League we have hit our top form’Harvey Barnes believes Newcastle are primed for historic success against Barcelona after showing they are more than capable of living with them in the first leg of their Champions League last-16 tie.Barnes",
       "url": "https://www.theguardian.com/football/2026/mar/11/harvey-barnes-newcastle-barcelona-camp-nou-champions-league",
       "image_url": null,
       "published": "2026-03-11T12:00:02",
@@ -383,56 +513,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.632025",
+      "fetched_at": "2026-03-11T22:19:23.653936",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.111027",
+      "processed_at": "2026-03-11T22:22:36.866073",
       "title_tr": "Harvey Barnes, Newcastle'ı Camp Nou'da yine Barcelona'yı geride bırakmaya çağırdı",
-      "summary_tr": "İlk maçın golcüsü son sekize ulaşacağına inanıyor 'Şampiyonlar Ligi'nde en iyi formumuzu yakaladık'Harvey Barnes, Şampiyonlar Ligi son 16'nın ilk ayağında Newcastle'ın Barcelona'ya karşı tarihi bir başarıya hazır olduğuna inanıyor"
-    },
-    {
-      "title": "Lamine Yamal hurts Newcastle hopes as Barcelona snatch draw with last kick",
-      "summary": "It was a night when the Tyneside passions pulsed; the nervous energy, too, because this was something unprecedented – a first Champions League knockout stage tie in Newcastle’s history. It was not just the gilded level of the opposition that fired the excitement, the imagination. Eddie Howe was in l",
-      "url": "https://www.theguardian.com/football/2026/mar/10/newcastle-barcelona-champions-league-last-16-first-leg-match-report",
-      "image_url": null,
-      "published": "2026-03-10T22:08:44",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.634316",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-11T21:26:44.152207",
-      "title_tr": "Lamine Yamal, Barcelona'nın son vuruşla berabere kalmasıyla Newcastle'ın umutlarını zedeledi",
-      "summary_tr": "Tyneside tutkularının nabzının attığı bir geceydi; Gergin enerji de vardı çünkü bu benzeri görülmemiş bir şeydi; Newcastle tarihindeki ilk Şampiyonlar Ligi eleme turu beraberliği. Heyecanı ve hayal gücünü ateşleyen sadece muhalefetin yaldızlı düzeyi değildi. Eddie Howe l'deydi"
-    },
-    {
-      "title": "Wrexham felt 'sorry for themselves' in costly loss",
-      "summary": "Phil Parkinson said his Wrexham side were \"feeling sorry for themselves\" as they went down 2-1 at home to fellow promotion hopefuls Hull.",
-      "url": "https://www.espn.com/soccer/story/_/id/48167601/wrexham-hull-city-loss-championship-playoff-promotion-sorry",
-      "image_url": null,
-      "published": "2026-03-11T21:53:56",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.987162",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-11T21:26:43.957411",
-      "title_tr": "Wrexham, pahalıya mal olan kayıp nedeniyle 'kendi adına üzüldü'",
-      "summary_tr": "Phil Parkinson, Wrexham takımının, yükselme umudu olan Hull'a evinde 2-1 yenildikleri için \"kendileri için üzüldüğünü\" söyledi."
+      "summary_tr": "Gol atan oyuncu son sekize ulaşacağına inanıyor 'Şampiyonlar Ligi'nde en iyi formumuza ulaştık'Harvey Barnes, Newcastle'ın, Şampiyonlar Ligi son 16 beraberliği ilk ayağında Barcelona'ya karşı çok daha yetenekli olduğunu gösterdikten sonra tarihi bir başarıya hazır olduğuna inanıyor.Barnes"
     },
     {
       "title": "Roman Abramovich’s Chelsea FC sale cash may be under investigation as ‘proceeds of crime’",
@@ -444,13 +534,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.633809",
+      "fetched_at": "2026-03-11T22:19:23.656620",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-11T21:26:44.143732",
+      "processed_at": "2026-03-11T22:22:36.898083",
       "title_tr": "Roman Abramovich'in Chelsea FC satışından elde ettiği para 'suç geliri' olarak soruşturma altında olabilir",
       "summary_tr": "2022 tarihli anlaşmayla ilgili Companies House'da sunulan belgeler, paranın nasıl kullanılacağı konusunda İngiltere ile yaşanan anlaşmazlığı karmaşık hale getirebilir Çarşamba günü Companies House'da sunulan belgelere göre, Jersey yetkilileri Roman Abramovich'in 2022'de Chelsea FC'yi satmasından elde edilen nakdin suç geliri olup olmadığını araştırıyor olabilir"
     },
@@ -464,13 +554,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-11T21:25:02.720756",
+      "fetched_at": "2026-03-11T22:20:47.449165",
       "priority_score": 58,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-03-11T21:26:44.172423",
+      "processed_at": "2026-03-11T22:22:36.921811",
       "title_tr": "Potanın Perileri, Kanada'yı devirdi!",
       "summary_tr": "A Milli Kadın Basketbol Takımımız, FIBA 2026 Dünya Kupası Elemeleri C Grubu'ndaki ilk maçında Kanada ile karşı karşıya geldi. Basketbol Gelişim Merkezi'nde oynanan mücadeleyi Millilerimiz, 71-69'luk skorla kazandı."
     },
@@ -484,129 +574,53 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817362",
+      "fetched_at": "2026-03-11T22:18:55.550774",
       "priority_score": 56,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-11T21:26:44.007278",
+      "processed_at": "2026-03-11T22:22:36.767656",
       "title_tr": "Golf skor tabloları: Dünyanın dört bir yanından en son skorlar",
       "summary_tr": "The Players ve LIV Golf League dahil dünyanın dört bir yanından en son golf skorları ve sonuçları."
+    },
+    {
+      "title": "Arteta confident improved Arsenal will reach QF",
+      "summary": "Mikel Arteta has vowed Arsenal will improve and \"finish it in London\" after Arsenal's Champions League hopes were tested during a 1-1 draw at Bayer Leverkusen.",
+      "url": "https://www.espn.com/soccer/story/_/id/48177165/mikel-arteta-arsenal-improve-bayer-leverkusen-champions-league",
+      "image_url": null,
+      "published": "2026-03-11T23:08:21",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-11T22:18:39.274081",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-11T22:22:36.709717",
+      "title_tr": "Arteta, Arsenal'in QF'ye ulaşacağından emin",
+      "summary_tr": "Mikel Arteta, Arsenal'in Şampiyonlar Ligi umutlarının Bayer Leverkusen ile 1-1 berabere kaldığı sırada test edilmesinin ardından Arsenal'in gelişeceğine ve \"Londra'da bitireceğine\" söz verdi."
     },
     {
       "title": "'Killed his career': GKs union show Kinsky support",
       "summary": "A host of former goalkeepers including Peter Schmeichel and Joe Hart have spoken out in support of Tottenham Hotspur goalkeeper Antonín Kinsky after his horror-performance in the Champions League round-of-16-clash against Atlético Madrid.",
       "url": "https://www.espn.com/soccer/story/_/id/48171336/killed-career-schmeichel-hart-goalkeepers-show-support-spurs-antonin-kinsky",
       "image_url": null,
-      "published": "2026-03-11T21:53:57",
+      "published": "2026-03-11T23:08:21",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.986231",
+      "fetched_at": "2026-03-11T22:18:39.274290",
       "priority_score": 55,
       "categories": [
         "champions_league"
       ],
-      "processed_at": "2026-03-11T21:26:43.954244",
+      "processed_at": "2026-03-11T22:22:36.710230",
       "title_tr": "'Kariyerini öldürdü': GK'nin sendikası Kinsky'yi destekliyor",
       "summary_tr": "Aralarında Peter Schmeichel ve Joe Hart'ın da bulunduğu çok sayıda eski kaleci, Şampiyonlar Ligi son 16 turunda Atlético Madrid'e karşı sergilediği dehşet verici performansın ardından Tottenham Hotspur kalecisi Antonín Kinsky'yi desteklemek için konuştu."
-    },
-    {
-      "title": "Bayern star Davies suffers hamstring strain",
-      "summary": "Alphonso Davies suffered a hamstring strain in Bayern Munich's 6-1 win over Atalanta in the Champions League on Tuesday, the Bundesliga club said.",
-      "url": "https://www.espn.com/soccer/story/_/id/48166845/canada-bayern-munich-alphonso-davies-injury-atalanta",
-      "image_url": null,
-      "published": "2026-03-11T21:53:56",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.986988",
-      "priority_score": 55,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-11T21:26:43.956561",
-      "title_tr": "Bayern'in yıldızı Davies diz kirişinde gerginlik yaşıyor",
-      "summary_tr": "Bundesliga kulübü, Alphonso Davies'in, Salı günü Şampiyonlar Ligi'nde Bayern Münih'in Atalanta'yı 6-1 mağlup ettiği karşılaşmada diz kirişinde gerginlik yaşadığını söyledi."
-    },
-    {
-      "title": "How Mascherano won over Inter Miami, their fans and ultimately MLS Cup",
-      "summary": "Javier Mascherano took over Inter Miami with no senior coaching experience, but the shock selection learned on the job, leading the Herons to MLS Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/48125326/how-javier-mascherano-won-inter-miami-their-fans-mls-cup",
-      "image_url": null,
-      "published": "2026-03-11T20:43:21",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.987517",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-11T21:26:43.959596",
-      "title_tr": "Mascherano, Inter Miami'yi, taraftarlarını ve sonuçta MLS Kupası'nı nasıl kazandı?",
-      "summary_tr": "Javier Mascherano, üst düzey koçluk deneyimi olmadan Inter Miami'yi devraldı, ancak iş sırasında öğrenilen şok seçimi Herons'u MLS Kupası'na götürdü."
-    },
-    {
-      "title": "VAR review: Arsenal fortunate to be awarded equalizing penalty",
-      "summary": "Just when Arsenal looked like they were headed for defeat at Leverkusen, they were awarded a penalty, but should they have been?",
-      "url": "https://www.espn.com/soccer/story/_/id/48177127/var-review-arsenal-fortunate-awarded-equalizing-penalty-vs-bayer-leverkusen-champions-league",
-      "image_url": null,
-      "published": "2026-03-11T22:18:18",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:05.987712",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-11T21:26:43.960938",
-      "title_tr": "VAR incelemesi: Arsenal eşitleyici penaltı aldığı için şanslı",
-      "summary_tr": "Arsenal, Leverkusen'de yenilgiye doğru gidiyormuş gibi göründüğünde, penaltı kararı aldılar, ama öyle mi verilmeliydi?"
-    },
-    {
-      "title": "Swiaket demolishes Muchova to reach quarter-finals",
-      "summary": "Highlights of the Indian Wells match between Karolina Muchova and Iga Swiatek",
-      "url": "https://www.skysports.com/watch/video/13518410/swiaket-hls-resend",
-      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-swiatek-tennis_7189469.jpg?20260311211057",
-      "published": "2026-03-11T21:07:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:21.817830",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-11T21:26:44.042861",
-      "title_tr": "Swiaket, Muchova'yı yenerek çeyrek finale yükseldi",
-      "summary_tr": "Karolina Muchova ve Iga Swiatek arasındaki Indian Wells maçından öne çıkanlar"
-    },
-    {
-      "title": "North Korea’s shady tactics show Matildas must be ready for more than football",
-      "summary": "Australia are no strangers to the team’s bizarre protests but they will need to keep frustrations in check in Women’s Asian Cup quarter-finalBoos are barrelling around Parramatta Stadium. Wang Shuang, China’s star midfielder who had given her side a 2-1 lead in stoppage time of the first half, is ge",
-      "url": "https://www.theguardian.com/sport/2026/mar/11/north-korea-protest-matildas-australia-womens-asian-cup",
-      "image_url": null,
-      "published": "2026-03-11T14:00:51",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-11T21:23:45.633446",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-11T21:26:44.134134",
-      "title_tr": "Kuzey Kore'nin şüpheli taktikleri Matildas'ın futboldan daha fazlasına hazır olması gerektiğini gösteriyor",
-      "summary_tr": "Avustralya, takımın tuhaf protestolarına yabancı değil ancak Kadınlar Asya Kupası çeyrek finalinde hayal kırıklıklarını kontrol altında tutmaları gerekecek. Boo'lar Parramatta Stadyumu çevresinde dolaşıyor. İlk yarının duraklama süresinde takımına 2-1 üstünlük sağlayan Çin'in yıldız orta saha oyuncusu Wang Shuang, ge"
     }
   ]
 }
