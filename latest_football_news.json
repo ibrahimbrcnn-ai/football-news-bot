@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T17:57:47.487944",
+  "timestamp": "2026-03-17T18:52:08.815129",
   "total_items": 30,
   "news": [
     {
@@ -12,36 +12,56 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.656009",
-      "priority_score": 95,
+      "fetched_at": "2026-03-17T18:47:00.926146",
+      "priority_score": 85,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-17T17:56:37.827445",
+      "processed_at": "2026-03-17T18:50:47.465249",
       "title_tr": "Chelsea'ye para cezası verildi, PL tarafından transfer yasağı ertelendi",
       "summary_tr": "Chelsea'ye, Premier Lig kurallarının tarihi ihlalleri nedeniyle bir yıl süreyle transfer yasağı ve 10,75 milyon £ para cezası verildi."
     },
     {
-      "title": "‘The Premier League is surprisingly lenient’: did Chelsea get off lightly?",
-      "summary": "Experts believe club would be lucky to escape with fine and suspended transfer ban but further penalties may followThe Premier League’s judgment against Chelsea for breaking football’s rules – during an eight-year trophy spree under Roman Abramovich – concludes that the club engaged in “deception an",
-      "url": "https://www.theguardian.com/football/2026/mar/16/the-premier-league-is-surprisingly-lenient-did-chelsea-get-off-lighly",
+      "title": "Arbeloa's youth revolution at Real Madrid is straight from Pep's playbook",
+      "summary": "Promoted from the B team, Álvaro Arbeloa has overseen the biggest influx of young talent into Real Madrid's first team in living memory. Sound familiar?",
+      "url": "https://www.espn.com/soccer/story/_/id/48219008/alvaro-arbeloa-real-madrid-youth-revolution-straight-manchester-city-barcelona-pep-guardiola-playbook",
       "image_url": null,
-      "published": "2026-03-16T20:31:09",
+      "published": "2026-03-17T18:59:21",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.924480",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-17T18:50:47.461403",
+      "title_tr": "Arbeloa'nın Real Madrid'deki gençlik devrimi doğrudan Pep'in taktik kitabından çıktı",
+      "summary_tr": "B takımından yükselen Álvaro Arbeloa, Real Madrid'in hafızalarda kalan ilk takımına en büyük genç yetenek akışını sağladı. Tanıdık geliyor mu?"
+    },
+    {
+      "title": "Arsenal v Bayer Leverkusen, Chelsea v PSG, Sporting v Bodø Glimt: Champions League – live",
+      "summary": "Updates on the second legs of the last-16 tiesGet in touch! Share your thoughts with ScottThis edition of Clocko begins as the first half in Lisbon finishes … and the comeback is on! Sporting Clube de Portugal have made it a third of the way back towards equality, Gonçalo Inácio flashing in a header",
+      "url": "https://www.theguardian.com/football/live/2026/mar/17/arsenal-v-bayer-leverkusen-chelsea-v-psg-bodo-glimt-v-sporting-champions-league-last-16-second-legs-live",
+      "image_url": null,
+      "published": "2026-03-17T18:39:52",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.096522",
-      "priority_score": 83,
+      "fetched_at": "2026-03-17T18:47:44.408709",
+      "priority_score": 78,
       "categories": [
-        "transfers",
         "breaking_news",
-        "premier_league"
+        "premier_league",
+        "champions_league"
       ],
-      "processed_at": "2026-03-17T17:56:38.019489",
-      "title_tr": "'Premier Lig şaşırtıcı derecede hoşgörülü': Chelsea hafif mi kurtuldu?",
-      "summary_tr": "Uzmanlar, kulübün para cezası ve ertelenmiş transfer yasağıyla kaçması durumunda şanslı olacağına inanıyor ancak bunun ardından başka cezalar da gelebilir"
+      "processed_at": "2026-03-17T18:50:47.585780",
+      "title_tr": "Arsenal v Bayer Leverkusen, Chelsea v PSG, Sporting v Bodø Glimpse: Şampiyonlar Ligi - canlı",
+      "summary_tr": "Son 16 karşılaşmasının ikinci ayağına ilişkin güncellemelerİletişime geçin! Düşüncelerinizi Scott'la paylaşın Clocko'nun bu sayısı, Lizbon'daki ilk yarının bitmesiyle başlıyor... ve geri dönüş başlıyor! Sporting Clube de Portekiz, Gonçalo Inácio'nun kafa vuruşuyla eşitliğin üçte birini elde etti"
     },
     {
       "title": "Why Bayern may have to play 16-year-old in goal",
@@ -53,57 +73,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:11.513326",
-      "priority_score": 80,
+      "fetched_at": "2026-03-17T18:47:06.555834",
+      "priority_score": 70,
       "categories": [
         "breaking_news",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-17T17:56:37.854362",
+      "processed_at": "2026-03-17T18:50:47.492833",
       "title_tr": "Bayern neden 16 yaşındaki bir oyuncuyu kalede oynamak zorunda kalabilir?",
       "summary_tr": "Bayern Münih, 16 yaşındaki kaleci Leonard Prescott'a Çarşamba günü Şampiyonlar Ligi'ndeki ilk maçına çıkacak."
-    },
-    {
-      "title": "Brentford’s European hopes take a hit as Arokodare caps Wolves’ comeback",
-      "summary": "When Igor Thiago, celebrating his first call-up to the Brazil squad, scored his fourth goal in four games, the second of their first-half stroll, Brentford were cruising to the shoulders of Chelsea and Liverpool. By full-time, the quest to reach European football for the first time in club history h",
-      "url": "https://www.theguardian.com/football/2026/mar/16/brentford-wolves-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-03-16T22:05:17",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.098417",
-      "priority_score": 78,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-17T17:56:38.056699",
-      "title_tr": "Arokodare'nin Wolves'un geri dönüşünü tamamlamasıyla Brentford'un Avrupa umutları darbe aldı",
-      "summary_tr": "Brezilya kadrosuna ilk çağrılışını kutlayan Igor Thiago, ilk yarıdaki ikinci golü olan dört maçtaki dördüncü golünü attığında, Brentford Chelsea ve Liverpool'un omuzlarına doğru ilerliyordu. Tam zamanlı olarak kulüp tarihinde ilk kez Avrupa futboluna ulaşma arayışı"
-    },
-    {
-      "title": "Arbeloa's youth revolution at Real Madrid is straight from Pep's playbook",
-      "summary": "Promoted from the B team, Álvaro Arbeloa has overseen the biggest influx of young talent into Real Madrid's first team in living memory. Sound familiar?",
-      "url": "https://www.espn.com/soccer/story/_/id/48219008/alvaro-arbeloa-real-madrid-youth-revolution-straight-manchester-city-barcelona-pep-guardiola-playbook",
-      "image_url": null,
-      "published": "2026-03-17T16:16:23",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.656359",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "la_liga"
-      ],
-      "processed_at": "2026-03-17T17:56:37.829957",
-      "title_tr": "Arbeloa'nın Real Madrid'deki gençlik devrimi doğrudan Pep'in taktik kitabından çıktı",
-      "summary_tr": "B takımından yükselen Álvaro Arbeloa, Real Madrid'in hafızalarda kalan ilk takımına en büyük genç yetenek akışını sağladı. Tanıdık geliyor mu?"
     },
     {
       "title": "'Juve richt pijlen op Greenwood, Slot moet flink in de buidel tasten voor talent'",
@@ -115,288 +94,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-17T17:56:33.919215",
+      "fetched_at": "2026-03-17T18:50:43.891447",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-03-17T17:56:39.004343",
+      "processed_at": "2026-03-17T18:50:48.600161",
       "title_tr": "'Juve Greenwood'u hedefliyor, Slot'un yetenek için çok para harcaması gerekiyor'",
       "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "How Torpey aims to make Man Utd's academy 'best in the world'",
-      "summary": "New Man Utd academy chief Stephen Torpey talks for the first time about 'world class' demands of the job, not wanting the club to be parents, JJ Gabriel and Michael Carrick",
-      "url": "https://www.bbc.com/sport/football/articles/c4gen28n9e4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-17T12:00:27",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:11.512645",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-17T17:56:37.845132",
-      "title_tr": "Torpey, Man Utd akademisini 'dünyanın en iyisi' yapmayı nasıl hedefliyor?",
-      "summary_tr": "New Man Utd akademi şefi Stephen Torpey, ilk kez işin 'dünya standartlarında' taleplerinden, kulübün ebeveyn olmasını istememesinden, JJ Gabriel ve Michael Carrick'ten bahsediyor"
-    },
-    {
-      "title": "\"Vazgeçmeden denemeye devam edeceğiz\"",
-      "summary": "İngiltere temsilcisi Liverpool'un İskoç sol beki Andrew Robertson, UEFA Şampiyonlar Ligi son 16 turu rövanşında yarın konuk edecekleri Galatasaray maçına ilişkin, \"Vazgeçmeden denemeye devam edeceğiz, son 8'e kalabilecek kadar iyi olduğumuzu ortaya koyacağız\" ifadelerini kullandı.",
-      "url": "https://www.haberturk.com/andrew-robertson-vazgecmeden-denemeye-devam-edecegiz-3870472-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/17/ver1773768665/3870472/jpg/1280x1280",
-      "published": "2026-03-17T17:31:19",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:54:53.012761",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-17T17:56:38.061353",
-      "title_tr": "\"Vazgeçmeden denemeye devam edeceğiz\"",
-      "summary_tr": "İngiltere temsilcisi Liverpool'un İskoç sol beki Andrew Robertson, UEFA Şampiyonlar Ligi son 16 turu rövanşında yarın konuk edecekleri Galatasaray maçına ilişkin, \"Vazgeçmeden denemeye devam edeceğiz, son 8'e kalabilecek kadar iyi olduğumuzu ortaya koyacağız\" ifadelerini kullandı."
-    },
-    {
-      "title": "\"Kendi sahamızda çok daha güçlüyüz!\"",
-      "summary": "Liverpool Teknik Direktörü Arne Slot, UEFA Şampiyonlar Ligi'nde Galatasaray ile oynayacakları rövanş maçı öncesi basın toplantısında açıklamalarda bulundu.",
-      "url": "https://www.haberturk.com/arne-slot-kendi-sahamizda-cok-daha-gucluyuz-3870466-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/17/ver1773767067/3870466/jpg/1280x1280",
-      "published": "2026-03-17T17:04:51",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:54:53.012846",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-17T17:56:38.066061",
-      "title_tr": "\"Kendi sahamızda çok daha güçlüyüz!\"",
-      "summary_tr": "Liverpool Teknik Direktörü Arne Slot, UEFA Şampiyonlar Ligi'nde Galatasaray ile oynayacakları rövanş maçı öncesi basın toplantısında açıklamalarda bulundu."
-    },
-    {
-      "title": "VakıfBank, seyircisi önünde Final-Four bileti arıyor",
-      "summary": "Türkiye’nin uluslararası alanda en çok kupa kazanan takımı VakıfBank, 4’ü namağlup 6 şampiyonlukla en çok şampiyonluğa ulaşan takım olduğu CEV Şampiyonlar Ligi’nde deplasmanda 2-0’dan dönerek 3-2 kazandığı çeyrek final ilk maçının rövanşında İtalyan ekibi Vero Volley Milano ile VakıfBank Spor Sarayı",
-      "url": "https://www.hurriyet.com.tr/sporarena/vakifbank-seyircisi-onunde-final-four-bileti-ariyor-43130664",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69b93a1ad8757a486473acdb.jpg",
-      "published": "2026-03-17T11:25:24",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:55:08.142130",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-17T17:56:38.220660",
-      "title_tr": "VakıfBank, seyircisi önünde Final-Four bileti arıyor",
-      "summary_tr": "Türkiye’nin uluslararası alanda en çok kupa kazanan takımı VakıfBank, 4’ü namağlup 6 şampiyonlukla en çok şampiyonluğa ulaşan takım olduğu CEV Şampiyonlar Ligi’nde deplasmanda 2-0’dan dönerek 3-2 kazandığı çeyrek final ilk maçının rövanşında İtalyan ekibi Vero Volley Milano ile VakıfBank Spor Sarayı"
-    },
-    {
-      "title": "Fenerbahçe - Gaziantep FK Canlı Skor - Canlı Anlatım",
-      "summary": "Süper Lig'in 27. haftasında Fenerbahçe ve Gaziantep karşı karşıya geliyor. Saat 20.00'de başlayacak karşılaşmanın canlı...",
-      "url": "https://www.yenisafak.com/spor/fenerbahce--gaziantep-fk-canli-skor--canli-anlatim-4806825",
-      "image_url": null,
-      "published": "2026-03-17T19:01:51",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:55:58.395409",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-17T17:56:38.748878",
-      "title_tr": "Fenerbahçe - Gaziantep FK Canlı Skor - Canlı Anlatım",
-      "summary_tr": "Süper Lig'in 27. haftasında Fenerbahçe ve Gaziantep karşı karşıya geliyor. Saat 20.00'de başlayacak karşılaşmanın canlı..."
-    },
-    {
-      "title": "Uzun yıllar Beşiktaş ve Galatasaray forması giymişti: Bebeği için görevinden ayrıldı",
-      "summary": "2. Lig Beyaz Grup ekiplerinden İskenderunspor, teknik direktör Gökhan Zan'ın görevini bıraktığını duyurdu. İSTİFASI KAB...",
-      "url": "https://www.yenisafak.com/spor/uzun-yillar-besiktas-ve-galatasaray-formasi-giymisti-bebegi-icin-gorevinden-ayrildi-4806804",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/3/17/e6726028-m0uhh3v10u8jvp2isfc7.webp",
-      "published": "2026-03-17T17:35:52",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:55:58.397175",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-17T17:56:38.783834",
-      "title_tr": "Uzun yıllar Beşiktaş ve Galatasaray forması giymişti: Bebeği için görevinden ayrıldı",
-      "summary_tr": "2. Lig Beyaz Grup ekiplerinden İskenderunspor, teknik direktör Gökhan Zan'ın görevini bıraktığını duyurdu. İSTİFASI KAB..."
-    },
-    {
-      "title": "YouTube, FIFA agree to live WC broadcast deal",
-      "summary": "YouTube made a World Cup deal with FIFA on Tuesday that lets rights-holding broadcasters stream game action live on the video platform that offers global access to young viewers.",
-      "url": "https://www.espn.com/soccer/story/_/id/48231331/youtube-fifa-agree-live-broadcast-deal-world-cup",
-      "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.654909",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-17T17:56:37.823210",
-      "title_tr": "YouTube ve FIFA, canlı WC yayın anlaşmasını kabul etti",
-      "summary_tr": "YouTube Salı günü FIFA ile, hak sahibi yayıncıların genç izleyicilere küresel erişim sunan video platformunda maç aksiyonlarını canlı olarak yayınlamasına olanak tanıyan bir Dünya Kupası anlaşması yaptı."
-    },
-    {
-      "title": "‘We were all so happy’: Arsenal bid to harness feelgood factor against Leverkusen",
-      "summary": "Riccardo Calafiori reflects on Max Dowman’s impact as Mikel Arteta’s side bid to reach the Champions League quarter-finalsEven the man who Mikel Arteta has described as his chief “chaos creator” almost found things a bit too much. Riccardo Calafiori was in the thick of the celebrations after Max Dow",
-      "url": "https://www.theguardian.com/football/2026/mar/17/arsenal-riccardo-calafiori-bayer-leverkusen-champions-league-preview",
-      "image_url": null,
-      "published": "2026-03-17T07:08:44",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.095646",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-17T17:56:38.003373",
-      "title_tr": "'Hepimiz çok mutluyduk': Arsenal, Leverkusen'e karşı kendini iyi hissetme faktörünü kullanmaya çalıştı",
-      "summary_tr": "Riccardo Calafiori, Mikel Arteta'nın Şampiyonlar Ligi'nde çeyrek finale çıkma teklifinde Max Dowman'ın etkisini değerlendiriyor. Mikel Arteta'nın baş \"kaos yaratıcısı\" olarak tanımladığı adam bile işleri neredeyse biraz fazla buluyordu. Riccardo Calafiori, Max Dow'un ardından kutlamaların ortasındaydı"
-    },
-    {
-      "title": "As fans turn on their club, time is running out for Liverpool to save their season",
-      "summary": "Boos greeted Liverpool after a 1-1 draw to Spurs that signaled further decline for the reigning champions.",
-      "url": "https://www.espn.com/soccer/story/_/id/48214871/running-liverpool-save-their-season-fans-turn-club",
-      "image_url": null,
-      "published": "2026-03-17T16:16:16",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.654441",
-      "priority_score": 55,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-03-17T17:56:37.822479",
-      "title_tr": "Taraftarlar kulüplerine yönelirken Liverpool'un sezonu kurtarması için zaman daralıyor",
-      "summary_tr": "Boos, Spurs ile 1-1 berabere kaldıktan sonra Liverpool'u selamladı ve bu, son şampiyonların daha da düşüşe geçeceğinin sinyalini verdi."
-    },
-    {
-      "title": "Pulisic, McKennie headline March USMNT roster",
-      "summary": "AC Milan attacker Christian Pulisic, Juventus midfielder Weston McKennie and Crystal Palace center back Chris Richards headline the 27-player roster named by United States men's national manager Mauricio Pochettino for the upcoming international window.",
-      "url": "https://www.espn.com/soccer/story/_/id/48231251/christian-pulisic-weston-mckennie-headline-march-united-states-friendlies-roster",
-      "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.654680",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-17T17:56:37.822841",
-      "title_tr": "Pulisic ve McKennie Mart ayı USMNT kadrosunun manşetinde",
-      "summary_tr": "AC Milan'ın hücum oyuncusu Christian Pulisic, Juventus'un orta saha oyuncusu Weston McKennie ve Crystal Palace'ın stoperi Chris Richards, Amerika Birleşik Devletleri erkekler milli menajeri Mauricio Pochettino'nun yaklaşan uluslararası pencere için belirlediği 27 oyunculu kadronun başında yer alıyor."
-    },
-    {
-      "title": "Sources: Barça eye move for Inter's Bastoni",
-      "summary": "Barcelona are interested in signing Inter Milan defender Alessandro Bastoni but are also debating other options internally, club sources have told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/48230522/barcelona-eye-move-inter-milan-defender-alessandro-bastoni-sources",
-      "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.655101",
-      "priority_score": 55,
-      "categories": [
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-17T17:56:37.823689",
-      "title_tr": "Kaynaklar: Barça'nın Inter'den Bastoni için göz kararı",
-      "summary_tr": "Kulüp kaynaklarının ESPN'e verdiği bilgiye göre Barcelona, ​​Inter Milan'ın defans oyuncusu Alessandro Bastoni'yi transfer etmekle ilgileniyor ancak aynı zamanda dahili olarak diğer seçenekleri de tartışıyor."
-    },
-    {
-      "title": "Van de Ven on lack of commitment: 'Nonsense'",
-      "summary": "Micky van de Ven has launched a staunch defence of his commitment to Tottenham and insisted any reports of players not caring about the club's precarious situation are nonsense.",
-      "url": "https://www.espn.com/soccer/story/_/id/48231442/micky-van-de-ven-rubbishes-claims-spurs-players-lack-commitment",
-      "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.655277",
-      "priority_score": 55,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-17T17:56:37.824214",
-      "title_tr": "Van de Ven bağlılık eksikliği üzerine: 'Saçmalık'",
-      "summary_tr": "Micky van de Ven, Tottenham'a olan bağlılığını kararlı bir şekilde savundu ve oyuncuların kulübün istikrarsız durumunu umursamadığına dair her türlü haberin saçma olduğunda ısrar etti."
-    },
-    {
-      "title": "⚽ Chelsea's bizarre huddle around ref explained",
-      "summary": "It has become a ritual under Liam Rosenior for Chelsea players to gather in the center circle before kick-off. So why was a referee involved?",
-      "url": "https://www.espn.com/soccer/story/_/id/48212664/referee-involving-chelsea-team-huddle-was-ridiculous",
-      "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.656187",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-17T17:56:37.828369",
-      "title_tr": "⚽ Chelsea'nin hakem etrafındaki tuhaf kalabalığı açıklandı",
-      "summary_tr": "Liam Rosenior yönetiminde Chelsea oyuncularının başlama vuruşundan önce orta dairede toplanması bir ritüel haline geldi. Peki neden hakem devreye girdi?"
-    },
-    {
-      "title": "NWSL Power Rankings: Portland goes No. 1 in 2026's first week",
-      "summary": "With the first matchday of the 2026 season in the books, ESPN ranks all 16 NWSL clubs from first to worst in this week's edition of Power Rankings.",
-      "url": "https://www.espn.com/soccer/story/_/id/48224238/nwsl-power-rankings-portland-thorns-go-no-1-2026-first-week",
-      "image_url": null,
-      "published": "2026-03-17T16:16:41",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.656885",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-17T17:56:37.835255",
-      "title_tr": "NWSL Güç Sıralaması: Portland 2026'nın ilk haftasında 1 numara oldu",
-      "summary_tr": "2026 sezonunun ilk maç gününün kitaplarda yer almasıyla birlikte ESPN, bu haftaki Güç Sıralaması baskısında 16 NWSL kulübünün tamamını birinciden en kötüye doğru sıralıyor."
     },
     {
       "title": "Beşiktaş'tan Afimico Pululu sürprizi! Transferi böyle duyurdular",
@@ -408,16 +114,213 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-17T17:55:39.293331",
+      "fetched_at": "2026-03-17T18:49:46.243525",
       "priority_score": 54,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-03-17T17:56:38.694876",
+      "processed_at": "2026-03-17T18:50:48.290385",
       "title_tr": "Beşiktaş'tan Afimico Pululu sürprizi! Transferi böyle duyurdular",
       "summary_tr": "Son dakika Beşiktaş transfer haberleri: Yeni sezon için transfer çalışmalarına şimdiden başlayan Beşiktaş ile ilgili flaş bir iddia ortaya atıldı. Siyah-beyazlıların, Polonya ekibi Jagiellonia'da forma...Devamı için tıklayınız"
+    },
+    {
+      "title": "Manchester City v Real Madrid: Champions League last 16, second leg – live",
+      "summary": "Updates from 8pm GMT kickoff at Etihad Stadium Get in touch! Share your thoughts with Daniel In one way or another, most stories are about identity: roughly, who are we and we cool with that? Well, our teams tonight arrive at this game as potential protagonists, both in something of quandary.City ar",
+      "url": "https://www.theguardian.com/football/live/2026/mar/17/manchester-city-v-real-madrid-champions-league-last-16-second-leg-live",
+      "image_url": null,
+      "published": "2026-03-17T18:30:09",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:44.409216",
+      "priority_score": 53,
+      "categories": [
+        "premier_league",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-17T18:50:47.592766",
+      "title_tr": "Manchester City - Real Madrid: Şampiyonlar Ligi son 16 rövanş maçı canlı",
+      "summary_tr": "Etihad Stadyumu'ndaki GMT saatiyle 20:00'den itibaren güncellemeler İletişime geçin! Düşüncelerinizi Daniel'la paylaşın Öyle ya da böyle çoğu hikaye kimlikle ilgilidir: kabaca biz kimiz ve bu konuda rahatız? Bu akşam takımlarımız bu maça potansiyel kahramanlar olarak geliyor, hem de ikilem içinde."
+    },
+    {
+      "title": "VakıfBank, seyircisi önünde Final-Four bileti arıyor",
+      "summary": "Türkiye’nin uluslararası alanda en çok kupa kazanan takımı VakıfBank, 4’ü namağlup 6 şampiyonlukla en çok şampiyonluğa ulaşan takım olduğu CEV Şampiyonlar Ligi’nde deplasmanda 2-0’dan dönerek 3-2 kazandığı çeyrek final ilk maçının rövanşında İtalyan ekibi Vero Volley Milano ile VakıfBank Spor Sarayı",
+      "url": "https://www.hurriyet.com.tr/sporarena/vakifbank-seyircisi-onunde-final-four-bileti-ariyor-43130664",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69b93a1ad8757a486473acdb.jpg",
+      "published": "2026-03-17T11:25:24",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:49:12.960360",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-17T18:50:47.834920",
+      "title_tr": "VakıfBank, seyircisi önünde Final-Four bileti arıyor",
+      "summary_tr": "Türkiye’nin uluslararası alanda en çok kupa kazanan takımı VakıfBank, 4’ü namağlup 6 şampiyonlukla en çok şampiyonluğa ulaşan takım olduğu CEV Şampiyonlar Ligi’nde deplasmanda 2-0’dan dönerek 3-2 kazandığı çeyrek final ilk maçının rövanşında İtalyan ekibi Vero Volley Milano ile VakıfBank Spor Sarayı"
+    },
+    {
+      "title": "Fenerbahçe – Gaziantep FK Bein Sports 1 Canlı İzle | Goller arka arkaya",
+      "summary": "Fenerbahçe, Trendyol Süper Lig'in 27. haftasında sahasında Gaziantep FK ile mücadele ediyor. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanan bu müsabakanın canlı anlatımı burada.",
+      "url": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-gaziantep-fk-maci-bein-sports-1-canli-izle-fenerbahce-gaziantep-fk-maci-bein-sports-maci-bein-sports-1-sifresiz-2407367",
+      "image_url": null,
+      "published": "2026-03-17T21:43:23",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:49:34.770397",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-17T18:50:48.008381",
+      "title_tr": "Fenerbahçe – Gaziantep FK Bein Sports 1 Canlı İzle | Goller arka arkaya",
+      "summary_tr": "Fenerbahçe, Trendyol Süper Lig'in 27. haftasında sahasında Gaziantep FK ile mücadele ediyor. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanan bu müsabakanın canlı anlatımı burada."
+    },
+    {
+      "title": "Beukema droomt van WK met Oranje: 'Een heel groot doel'",
+      "summary": "Sam Beukema (27) hoopt stiekem nog op deelname aan het WK met het Nederlands elftal. De verdediger is bij Napoli bezig aan een uitstekend seizoen. Daardoor heeft hij het eindtoernooi nog niet uit zijn hoofd gezet.",
+      "url": "https://www.vi.nl/nieuws/beukema-droomt-van-wk-met-oranje-een-heel-groot-doel",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/17/82d133286fe7f668aa6b15eeb0fc974f599c05f5.jpg?width=1200",
+      "published": "2026-03-17T18:30:26",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:50:43.890389",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-17T18:50:48.398088",
+      "title_tr": "Beukema, Oranje ile Dünya Kupası hayali kuruyor: 'Çok büyük bir hedef'",
+      "summary_tr": "Sam Beukema (27) gizlice Hollanda milli takımıyla Dünya Kupası'na katılmayı umuyor. Savunma oyuncusu Napoli'de mükemmel bir sezon geçiriyor. Sonuç olarak final turnuvasını henüz aklından çıkarmış değil."
+    },
+    {
+      "title": "Chelsea's cheating - was a fine too lenient?",
+      "summary": "Sports editor Dan Roan analyses whether Chelsea's record fine for a raft of Premier League rule breaches was lenient.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2dx8rjw08o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-17T13:15:01",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:06.554356",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-17T18:50:47.475627",
+      "title_tr": "Chelsea'nin hile yapması çok hafif bir ceza mıydı?",
+      "summary_tr": "Spor editörü Dan Roan, Chelsea'nin bir dizi Premier Lig kural ihlali nedeniyle aldığı rekor cezanın hafif olup olmadığını analiz ediyor."
+    },
+    {
+      "title": "\"Vazgeçmeden denemeye devam edeceğiz\"",
+      "summary": "İngiltere temsilcisi Liverpool'un İskoç sol beki Andrew Robertson, UEFA Şampiyonlar Ligi son 16 turu rövanşında yarın konuk edecekleri Galatasaray maçına ilişkin, \"Vazgeçmeden denemeye devam edeceğiz, son 8'e kalabilecek kadar iyi olduğumuzu ortaya koyacağız\" ifadelerini kullandı.",
+      "url": "https://www.haberturk.com/andrew-robertson-vazgecmeden-denemeye-devam-edecegiz-3870472-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/17/ver1773768665/3870472/jpg/1280x1280",
+      "published": "2026-03-17T17:31:19",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:49:01.361151",
+      "priority_score": 43,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-03-17T18:50:47.698260",
+      "title_tr": "\"Vazgeçmeden denemeye devam edeceğiz\"",
+      "summary_tr": "İngiltere temsilcisi Liverpool'un İskoç sol beki Andrew Robertson, UEFA Şampiyonlar Ligi son 16 turu rövanşında yarın konuk edecekleri Galatasaray maçına ilişkin, \"Vazgeçmeden denemeye devam edeceğiz, son 8'e kalabilecek kadar iyi olduğumuzu ortaya koyacağız\" ifadelerini kullandı."
+    },
+    {
+      "title": "As fans turn on their club, time is running out for Liverpool to save their season",
+      "summary": "Boos greeted Liverpool after a 1-1 draw to Spurs that signaled further decline for the reigning champions.",
+      "url": "https://www.espn.com/soccer/story/_/id/48214871/running-liverpool-save-their-season-fans-turn-club",
+      "image_url": null,
+      "published": "2026-03-17T18:59:29",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.927030",
+      "priority_score": 65,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-03-17T18:50:47.472190",
+      "title_tr": "Taraftarlar kulüplerine yönelirken Liverpool'un sezonu kurtarması için zaman daralıyor",
+      "summary_tr": "Boos, Spurs ile 1-1 berabere kaldıktan sonra Liverpool'u selamladı ve bu, son şampiyonların daha da düşüşe geçeceğinin sinyalini verdi."
+    },
+    {
+      "title": "Pulisic, Reyna in USMNT roster; Adams out injured",
+      "summary": "AC Milan attacker Christian Pulisic, Juventus midfielder Weston McKennie and Crystal Palace center back Chris Richards headline the 27-player roster named by United States men's national manager Mauricio Pochettino for the upcoming international window.",
+      "url": "https://www.espn.com/soccer/story/_/id/48231251/christian-pulisic-weston-mckennie-headline-march-united-states-friendlies-roster",
+      "image_url": null,
+      "published": "2026-03-17T17:35:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.924769",
+      "priority_score": 55,
+      "categories": [
+        "injuries",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-17T18:50:47.461688",
+      "title_tr": "USMNT kadrosunda Pulisic, Reyna; Adams sakatlandı",
+      "summary_tr": "AC Milan'ın hücum oyuncusu Christian Pulisic, Juventus'un orta saha oyuncusu Weston McKennie ve Crystal Palace'ın stoperi Chris Richards, Amerika Birleşik Devletleri erkekler milli menajeri Mauricio Pochettino'nun yaklaşan uluslararası pencere için belirlediği 27 oyunculu kadronun başında yer alıyor."
+    },
+    {
+      "title": "Liverpool's most pivotal match of the season is up next -- and Slot's job may depend on it",
+      "summary": "As Liverpool continue to unravel, this week's Champions League fixture against Galatasaray is make-or-break for Slot's standing at the club.",
+      "url": "https://www.espn.com/soccer/story/_/id/48226592/liverpool-next-champions-league-match-decide-slots-fate",
+      "image_url": null,
+      "published": "2026-03-17T18:59:30",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.926837",
+      "priority_score": 55,
+      "categories": [
+        "super_lig",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-17T18:50:47.470166",
+      "title_tr": "Sırada Liverpool'un sezonun en önemli maçı var ve Slot'un işi buna bağlı olabilir",
+      "summary_tr": "Liverpool çözülmeye devam ederken, bu haftaki Şampiyonlar Ligi karşılaşmasında Galatasaray'a karşı oynanacak maç, Slot'un kulüpteki konumu açısından ya bir sonuç ya da bir sonuç olacak."
+    },
+    {
+      "title": "Eddie Howe says Newcastle will not ‘shrink’ in Barcelona last-16 second leg",
+      "summary": "‘We are in as good a place as any time this season’Howe says Tonali ‘fully committed’ to the clubA week ago Eddie Howe called it the “biggest match in the club’s history”, and that was in Newcastle; this time it’s Barcelona, but Howe has insisted his players will not be overawed when they walk out a",
+      "url": "https://www.theguardian.com/football/2026/mar/17/eddie-howe-newcastle-barcelona-second-leg-last-16",
+      "image_url": null,
+      "published": "2026-03-17T18:37:25",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:44.410083",
+      "priority_score": 53,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-03-17T18:50:47.604916",
+      "title_tr": "Eddie Howe, Newcastle'ın Barselona'nın son 16 ikinci maçında 'küçülmeyeceğini' söyledi",
+      "summary_tr": "Howe, Tonali'nin kulübe 'tamamen bağlı olduğunu' söylüyor 'Bu sezon herhangi bir zamanda olduğu kadar iyi bir yerdeyiz' Bir hafta önce Eddie Howe bunu 'kulüp tarihindeki en büyük maç' olarak nitelendirdi ve bu maç Newcastle'daydı; Bu sefer Barselona'dayız ama Howe, oyuncularının sahaya çıktıklarında şaşkına dönmeyecekleri konusunda ısrar etti."
     },
     {
       "title": "Kerr and Foord propel improved Matildas past China to Women’s Asian Cup final",
@@ -429,90 +332,53 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.096170",
+      "fetched_at": "2026-03-17T18:47:44.412462",
       "priority_score": 53,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-17T17:56:38.011758",
+      "processed_at": "2026-03-17T18:50:47.642438",
       "title_tr": "Kerr ve Foord, Matildas'ı Çin'i geçerek Kadınlar Asya Kupası finaline taşıdı",
       "summary_tr": "Cesur Avustralya, son şampiyonları 2-1 yendi Ev sahibi takım, Cumartesi günü yapılacak kararda Japonya veya Güney Kore ile karşılaşacak Matildalar, Salı gecesi Perth'te son şampiyon Çin'e karşı 2-1'lik cesur bir yenilginin ardından 2018'den bu yana ilk Kadınlar Asya Kupası finaline çıktı. Caitlin Foord'a atılan erken gol iptal edildi."
     },
     {
-      "title": "İşte canlı anlatım ve istatistikler!",
-      "summary": "Fenerbahçe-Gaziantep FK maçının canlı anlatımı HT SPOR'da... Süper Lig'de bitime 8 maç kala lider Galatasaray'ın 7 puan gerisine düşen Fenerbahçe, 27. hafta mücadelesinde Gaziantep FK'yı konuk ediyor. Son 4 haftada 7 puan kaybeden sarı-lacivertliler, rakibini mağlup ederek şampiyonluk iddiasını sürd",
-      "url": "https://www.haberturk.com/spor/mac-detay/fenerbahce-vs-gaziantep-fk-1924502",
-      "image_url": "https://im.haberturk.com/l/2026/03/17/ver1773752889/3870400/jpg/1280x1280",
-      "published": "2026-03-17T16:57:05",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:54:53.012992",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-17T17:56:38.078091",
-      "title_tr": "İşte canlı anlatım ve istatistikler!",
-      "summary_tr": "Fenerbahçe-Gaziantep FK maçının canlı anlatımı HT SPOR'da... Süper Lig'de bitime 8 maç kala lider Galatasaray'ın 7 puan gerisine düşen Fenerbahçe, 27. hafta mücadelesinde Gaziantep FK'yı konuk ediyor. Son 4 haftada 7 puan kaybeden sarı-lacivertliler, rakibini mağlup ederek şampiyonluk iddiasını sürd"
-    },
-    {
-      "title": "Transfers PSV: Pepi laat kassa in Eindhoven rinkelen",
-      "summary": "VI volgt het transfernieuws bij PSV op de voet. De doelwitten van de Eindhovenaren, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-psv-ado-ziet-doelman-14-naar-de-herdgang-vertrekken",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2025/08/02/ca11a6e4-7865-41dd-b98b-a3e0b8e278bb.jpg?width=1200",
-      "published": "2026-03-17T17:07:02",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-17T17:56:33.918671",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-17T17:56:38.880510",
-      "title_tr": "PSV transferleri: Pepi, Eindhoven'da kasayı çaldırıyor",
-      "summary_tr": "VI, PSV'deki transfer haberlerini yakından takip ediyor. Eindhoven halkının hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgisi. Her şeyi burada topluyoruz."
-    },
-    {
-      "title": "Neymar left out of Brazil squad, Endrick makes cut",
-      "summary": "Neymar's hopes of playing at the World Cup are fading with the Santos forward once again left out of Brazil coach Carlo Ancelotti's squad for the upcoming friendlies in the United States.",
-      "url": "https://www.espn.com/soccer/story/_/id/48225082/neymar-left-brazil-squad-endrick-makes-cut",
+      "title": "YouTube, FIFA agree to live WC broadcast deal",
+      "summary": "YouTube made a World Cup deal with FIFA on Tuesday that lets rights-holding broadcasters stream game action live on the video platform that offers global access to young viewers.",
+      "url": "https://www.espn.com/soccer/story/_/id/48231331/youtube-fifa-agree-live-broadcast-deal-world-cup",
       "image_url": null,
       "published": "2026-03-17T17:35:43",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.655446",
+      "fetched_at": "2026-03-17T18:47:00.925003",
       "priority_score": 50,
       "categories": [
+        "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-03-17T17:56:37.824942",
-      "title_tr": "Neymar Brezilya kadrosundan çıkarıldı, Endrick ayrıldı",
-      "summary_tr": "Neymar'ın Dünya Kupası'nda oynama umutları, Santos forvetinin bir kez daha ABD'de yapılacak hazırlık maçlarında Brezilya teknik direktörü Carlo Ancelotti'nin kadrosunda yer almaması nedeniyle sönüyor."
+      "processed_at": "2026-03-17T18:50:47.461952",
+      "title_tr": "YouTube ve FIFA, canlı WC yayın anlaşmasını kabul etti",
+      "summary_tr": "YouTube Salı günü FIFA ile, hak sahibi yayıncıların genç izleyicilere küresel erişim sunan video platformunda maç aksiyonlarını canlı olarak yayınlamasına olanak tanıyan bir Dünya Kupası anlaşması yaptı."
     },
     {
-      "title": "Calvert-Lewin targets Kane understudy role at WC",
-      "summary": "Dominic Calvert-Lewin believes his experience as Harry Kane's England understudy could help him fulfil his dream of playing at the FIFA World Cup this summer.",
-      "url": "https://www.espn.com/soccer/story/_/id/48229252/dominic-calvert-lewin-harry-kane-england-back-world-cup",
+      "title": "How Torpey aims to make Man Utd's academy 'best in the world'",
+      "summary": "New Man Utd academy chief Stephen Torpey talks for the first time about 'world class' demands of the job, not wanting the club to be parents, JJ Gabriel and Michael Carrick",
+      "url": "https://www.bbc.com/sport/football/articles/c4gen28n9e4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-17T17:35:43",
-      "source": "ESPN FC",
+      "published": "2026-03-17T12:00:27",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:05.655823",
+      "fetched_at": "2026-03-17T18:47:06.555144",
       "priority_score": 50,
       "categories": [
-        "world_cup"
+        "breaking_news"
       ],
-      "processed_at": "2026-03-17T17:56:37.826592",
-      "title_tr": "Calvert-Lewin, WC'de Kane'in yedek oyuncu rolünü hedefliyor",
-      "summary_tr": "Dominic Calvert-Lewin, Harry Kane'in İngiltere'deki yedek oyuncusu olarak edindiği deneyimin, bu yaz FIFA Dünya Kupası'nda oynama hayalini gerçekleştirmesine yardımcı olabileceğine inanıyor."
+      "processed_at": "2026-03-17T18:50:47.483725",
+      "title_tr": "Torpey, Man Utd akademisini 'dünyanın en iyisi' yapmayı nasıl hedefliyor?",
+      "summary_tr": "New Man Utd akademi şefi Stephen Torpey, ilk kez işin 'dünya standartlarında' taleplerinden, kulübün ebeveyn olmasını istememesinden, JJ Gabriel ve Michael Carrick'ten bahsediyor"
     },
     {
       "title": "If we got away with it we'll take it - Wolves' Edwards",
@@ -524,12 +390,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:11.514352",
+      "fetched_at": "2026-03-17T18:47:06.556899",
       "priority_score": 50,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-17T17:56:37.873138",
+      "processed_at": "2026-03-17T18:50:47.511245",
       "title_tr": "Eğer paçayı kurtarırsak bunu alırız. - Wolves' Edwards",
       "summary_tr": "Wolves'un patronu Rob Edwards, ilk gollerine giden yolda potansiyel bir geri pas konusundaki tartışmaların ortasında, Brenford'da beraberlik için verdiği mücadeleden dolayı takımını övüyor."
     },
@@ -543,7 +409,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-17T17:55:39.291942",
+      "fetched_at": "2026-03-17T18:49:46.241996",
       "priority_score": 49,
       "categories": [
         "transfers",
@@ -551,7 +417,7 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-03-17T17:56:38.581035",
+      "processed_at": "2026-03-17T18:50:48.167163",
       "title_tr": "GALATASARAY HABERİ: Transferde flaş gelişme! Barcelona ve Victor Osimhen...",
       "summary_tr": "Barcelona, Galatasaray’ın golcüsü Victor Osimhen’i transfer listesinde ilk sıraya aldı. Katalan ekibinin başkanı Laporta'nın da onay verdiği isim için Barcelona'nın karşısına büyük bir engel çıktı. İşte...Devamı için tıklayınız"
     },
@@ -565,14 +431,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.093206",
+      "fetched_at": "2026-03-17T18:47:44.410490",
       "priority_score": 48,
       "categories": [
         "transfers",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-17T17:56:37.957524",
+      "processed_at": "2026-03-17T18:50:47.613663",
       "title_tr": "'Çılgın bir tartışma': Şampiyonlar Ligi elitlerinin EFL anlaşması ödemelerindeki payı konusunda tartışma sürüyor",
       "summary_tr": "Küçük kulüpler 'EFL'deki doğrudan rakiplerini finanse etme' riskiyle karşı karşıya''Diğer Avrupa liglerinin UEFA gelirlerinden vergi alıyor'Bir dizi orta sıradaki Premier Lig kulübü, en büyük takımların UEFA gelirlerinin bir yüzdesinin English Footba ile yeni bir mali anlaşmanın finansmanına yardımcı olmak için kullanılması için lobi yapıyor"
     },
@@ -586,16 +452,152 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-17T17:53:41.097383",
+      "fetched_at": "2026-03-17T18:47:44.413888",
       "priority_score": 48,
       "categories": [
         "premier_league",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-17T17:56:38.038299",
+      "processed_at": "2026-03-17T18:50:47.668896",
       "title_tr": "Guardiola, Manchester City'nin Real Madrid'i geçmek için 'mükemmel oyuna' ihtiyacı olduğunu söyledi",
       "summary_tr": "‘Dakikalar içinde birçok fırsat yaratabiliriz’Rüdiger, Haaland’ı sessiz tutabileceğine inanıyorPep Guardiola, Manchester City’nin Salı günü Şampiyonlar Ligi son 16 beraberliği rövanş maçında Real Madrid’in 3-0’lık skorunu bozmak için “mükemmel bir oyun”a ihtiyacı olduğunu itiraf etti. Álvaro Arbeloa’nın takımı kesinlikle favoriler arasında yer alıyor."
+    },
+    {
+      "title": "VI Live: Inácio kopt Sporting op voorsprong en brengt spanning terug tegen Bodø",
+      "summary": "Dinsdagavond staan de eerste vier duels in de return van de achtste finale in de Champions League op het programma. Bayer Leverkusen heeft nog zicht op een stunt tegen Arsenal, terwijl drie ploegen hopen op een klein wonder. Volg het Champions League-geweld in deze VI Live.",
+      "url": "https://www.vi.nl/nieuws/vi-live-leverkusen-wil-stunten-tegen-arsenal-man-city-en-chelsea-hopen-op-wonder",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/17/c6be6da2eea93630c1970c72f90642e7cc685d2d.jpg?width=1200",
+      "published": "2026-03-17T18:20:34",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:50:43.890460",
+      "priority_score": 47,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-17T18:50:48.415380",
+      "title_tr": "VI Live: Inácio, Sporting'i öne geçirdi ve Bodø'ya karşı gerilimi geri getirdi",
+      "summary_tr": "Şampiyonlar Ligi'nde sekizinci final mücadelesinin ilk dört maçı Salı akşamı oynanacak. Bayer Leverkusen'in Arsenal'e karşı bir hamle yapma ihtimali hala varken üç takım da küçük bir mucize umut ediyor. Bu VI Live'da Şampiyonlar Ligi şiddetini takip edin."
+    },
+    {
+      "title": "Today on Sky Sports Racing: Sintra seeks first win for Juddmonte at Wolverhampton",
+      "summary": "It's all about Wolverhampton today, with all nine races LIVE on Sky Sports Racing from 4.28pm.",
+      "url": "https://www.skysports.com/racing/news/12040/13520067/today-on-sky-sports-racing-sintra-seeks-first-success-for-juddmonte-at-wolverhampton",
+      "image_url": "https://e2.365dm.com/25/11/1920x1080/skysports-wolverhampton-racing_7070902.jpg?20251103171405",
+      "published": "2026-03-17T06:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:18.422394",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-17T18:50:47.527736",
+      "title_tr": "Bugün Sky Sports Racing'de: Sintra, Wolverhampton'da Juddmonte adına ilk galibiyetini istiyor",
+      "summary_tr": "Bugün her şey Wolverhampton'la ilgili, dokuz yarışın tamamı saat 16.28'den itibaren Sky Sports Racing'de CANLI olarak yayınlanacak."
+    },
+    {
+      "title": "Heavyweight Anderson set to make UK debut on Wardley-Dubois bill",
+      "summary": "Jared Anderson is set to box in Britain for the first time in Manchester on May 9.",
+      "url": "https://www.skysports.com/boxing/news/12040/13520826/jared-anderson-set-to-make-uk-debut-on-undercard-of-fabio-wardley-vs-daniel-dubois-world-heavyweight-title-fight",
+      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-jared-anderson-boxing_7195293.jpg?20260317120932",
+      "published": "2026-03-17T11:26:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:18.422846",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-17T18:50:47.546089",
+      "title_tr": "Heavyweight Anderson, Wardley-Dubois tasarısıyla İngiltere'deki ilk maçına çıkacak",
+      "summary_tr": "Jared Anderson, 9 Mayıs'ta Manchester'da ilk kez İngiltere'de boks yapacak."
+    },
+    {
+      "title": "Sources: Barça eye move for Inter's Bastoni",
+      "summary": "Barcelona are interested in signing Inter Milan defender Alessandro Bastoni but are also debating other options internally, club sources have told ESPN.",
+      "url": "https://www.espn.com/soccer/story/_/id/48230522/barcelona-eye-move-inter-milan-defender-alessandro-bastoni-sources",
+      "image_url": null,
+      "published": "2026-03-17T17:35:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.925235",
+      "priority_score": 45,
+      "categories": [
+        "la_liga",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-17T18:50:47.462273",
+      "title_tr": "Kaynaklar: Barça'nın Inter'den Bastoni'ye bakışı",
+      "summary_tr": "Kulüp kaynaklarının ESPN'e verdiği bilgiye göre Barcelona, ​​Inter Milan'ın defans oyuncusu Alessandro Bastoni'yi transfer etmekle ilgileniyor ancak aynı zamanda dahili olarak diğer seçenekleri de tartışıyor."
+    },
+    {
+      "title": "Van de Ven on lack of commitment: 'Nonsense'",
+      "summary": "Micky van de Ven has launched a staunch defence of his commitment to Tottenham and insisted any reports of players not caring about the club's precarious situation are nonsense.",
+      "url": "https://www.espn.com/soccer/story/_/id/48231442/micky-van-de-ven-rubbishes-claims-spurs-players-lack-commitment",
+      "image_url": null,
+      "published": "2026-03-17T17:35:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.925420",
+      "priority_score": 45,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-17T18:50:47.462635",
+      "title_tr": "Van de Ven bağlılık eksikliği üzerine: 'Saçmalık'",
+      "summary_tr": "Micky van de Ven, Tottenham'a olan bağlılığını kararlı bir şekilde savundu ve oyuncuların kulübün istikrarsız durumunu umursamadığına dair her türlü haberin saçma olduğunda ısrar etti."
+    },
+    {
+      "title": "⚽ Chelsea's bizarre huddle around ref explained",
+      "summary": "It has become a ritual under Liam Rosenior for Chelsea players to gather in the center circle before kick-off. So why was a referee involved?",
+      "url": "https://www.espn.com/soccer/story/_/id/48212664/referee-involving-chelsea-team-huddle-was-ridiculous",
+      "image_url": null,
+      "published": "2026-03-17T17:35:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:00.926317",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-17T18:50:47.466024",
+      "title_tr": "⚽ Chelsea'nin hakem etrafındaki tuhaf kalabalığı açıklandı",
+      "summary_tr": "Liam Rosenior yönetiminde Chelsea oyuncularının başlama vuruşundan önce orta dairede toplanması bir ritüel haline geldi. Peki neden hakem devreye girdi?"
+    },
+    {
+      "title": "Nonsense to say Spurs players don't care - Van de Ven",
+      "summary": "Tottenham defender Micky van de Ven says it is \"the biggest nonsense\" to suggest the club's players do not care about the team's current plight.",
+      "url": "https://www.bbc.com/sport/football/articles/c8eg0ep2k86o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-17T16:15:40",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-17T18:47:06.554545",
+      "priority_score": 45,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-17T18:50:47.477191",
+      "title_tr": "Spurs oyuncularının umursamadığını söylemek saçmalık - Van de Ven",
+      "summary_tr": "Tottenham'ın defans oyuncusu Micky van de Ven, kulüp oyuncularının takımın mevcut durumunu umursamadığını öne sürmenin \"en büyük saçmalık\" olduğunu söyledi."
     }
   ]
 }
