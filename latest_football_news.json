@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T12:43:48.979993",
+  "timestamp": "2026-03-19T14:07:48.875486",
   "total_items": 30,
   "news": [
     {
@@ -7,12 +7,12 @@
       "summary": "Lionel Messi became just the second men's player in history to score 900 goals in official matches after scoring in Inter Miami's Concacaf Champions Cup clash with Nashville SC on Wednesday.",
       "url": "https://www.espn.com/soccer/story/_/id/48081661/lionel-messi-scores-900-goals-cristiano-ronaldo",
       "image_url": null,
-      "published": "2026-03-19T13:03:06",
+      "published": "2026-03-19T14:56:12",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.688616",
+      "fetched_at": "2026-03-19T14:02:24.121353",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,31 +20,51 @@
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-03-19T12:42:25.431711",
+      "processed_at": "2026-03-19T14:06:16.464172",
       "title_tr": "Messi 900. golü attı ama Miami CCC'den çıktı",
       "summary_tr": "Lionel Messi, Çarşamba günü Inter Miami'nin Concacaf Şampiyonlar Kupası'nda Nashville SC ile karşılaştığı maçta gol attıktan sonra tarihte resmi maçlarda 900 gol atan ikinci erkek oyuncu oldu."
     },
     {
-      "title": "Kane becomes first Englishman with 50 UCL goals",
-      "summary": "Harry Kane became the first English player to reach the 50-goal mark in the Champions League with his brace in Bayern Munich's 4-1 win over Atalanta on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48243435/harry-kane-becomes-first-englishman-50-ucl-goals",
+      "title": "Bayern's Lennart Karl earns first Germany call-up",
+      "summary": "Bayern Munich teenager Lennart Karl earned a first Germany call-up on Thursday ahead of the World Cup for his eye-catching Champions League goals.",
+      "url": "https://www.espn.com/soccer/story/_/id/48248452/bayern-munich-lennart-karl-earns-first-germany-callup",
       "image_url": null,
-      "published": "2026-03-19T13:03:06",
+      "published": "2026-03-19T14:56:11",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.689585",
-      "priority_score": 100,
+      "fetched_at": "2026-03-19T14:02:24.120962",
+      "priority_score": 95,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga",
-        "champions_league"
+        "champions_league",
+        "world_cup"
       ],
-      "processed_at": "2026-03-19T12:42:25.434576",
-      "title_tr": "Kane, UCL'de 50 gol atan ilk İngiliz oldu",
-      "summary_tr": "Harry Kane, Bayern Münih'in Çarşamba günü Atalanta'yı 4-1 mağlup ettiği maçta attığı golle Şampiyonlar Ligi'nde 50 gol barajına ulaşan ilk İngiliz oyuncu oldu."
+      "processed_at": "2026-03-19T14:06:16.462676",
+      "title_tr": "Bayernli Lennart Karl, Almanya'daki ilk çağrısını kazandı",
+      "summary_tr": "Bayern Münihli genç Lennart Karl, Şampiyonlar Ligi'ndeki göz alıcı golleriyle Perşembe günü Dünya Kupası öncesinde Almanya'ya ilk kez çağrıldı."
+    },
+    {
+      "title": "Striking gambit: Erling Haaland invests in new world chess championship",
+      "summary": "‘There are clear similarities to football’World No 1 Magnus Carlsen likely to playErling Haaland has become a significant investor in a new world chess championship tour that is expected to star his fellow Norwegian Magnus Carlsen, the Guardian can reveal.The deal was agreed shortly before Mancheste",
+      "url": "https://www.theguardian.com/sport/2026/mar/19/striking-gambit-erling-haaland-invests-in-new-world-chess-championship",
+      "image_url": null,
+      "published": "2026-03-19T13:25:50",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:03:09.964310",
+      "priority_score": 88,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-03-19T14:06:16.675470",
+      "title_tr": "Çarpıcı kumar: Erling Haaland yeni dünya satranç şampiyonasına yatırım yapıyor",
+      "summary_tr": "Guardian, 'Futbolla açık benzerlikler var'Dünyanın 1 No'lu Magnus Carlsen'inin oynaması muhtemel Erling Haaland, Norveçli arkadaşı Magnus Carlsen'in başrolde yer alması beklenen yeni bir dünya satranç şampiyonası turu için önemli bir yatırımcı haline geldi.Anlaşma, Mancheste'den kısa bir süre önce kabul edildi."
     },
     {
       "title": "WSL roundup: Lexi Potter makes grade as Chelsea leapfrog Manchester United",
@@ -56,16 +76,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T12:39:20.467438",
+      "fetched_at": "2026-03-19T14:03:09.962759",
       "priority_score": 78,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-19T12:42:25.611084",
+      "processed_at": "2026-03-19T14:06:16.650935",
       "title_tr": "WSL özeti: Lexi Potter, Chelsea'nin Manchester United'ı bir adım öne geçirmesiyle derece elde etti",
       "summary_tr": "Genç oyuncu ilk maçında Brighton'a karşı galip geldi United, West Ham ile berabere kaldıktan sonra şampiyonluk yarışında geri adım attı Chelsea, Manchester United'ın üzerine sıçrayarak Kadınlar Süper Ligi'nde ikinci olurken, genç Lexi Potter ilk üst düzey başlangıcında Brighton'a karşı galibiyet golü attı.Savunan şampiyon"
+    },
+    {
+      "title": "'Real wil toch door met Rüdiger, Spurs-keeper wil naar Serie A'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/bastoni-wekt-aandacht-van-barcelona-juventus-richt-pijlen-op-greenwood",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-19T13:37:25",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:06:12.162708",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-19T14:06:17.651330",
+      "title_tr": "'Real hala Rudiger'la devam etmek istiyor, Spurs kalecisi Serie A'ya gitmek istiyor'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Rondje Europa: Slot flikt het en Barcelona in spektakelstuk langs Newcastle",
@@ -77,57 +117,36 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-19T12:42:20.727279",
-      "priority_score": 77,
+      "fetched_at": "2026-03-19T14:06:12.163360",
+      "priority_score": 67,
       "categories": [
         "match_results",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-19T12:42:26.676447",
+      "processed_at": "2026-03-19T14:06:17.805936",
       "title_tr": "Avrupa Turu: Sonunda işe yaradı ve Barselona, ​​Newcastle'ı muhteşem bir şekilde geçti",
       "summary_tr": "Avrupa Turu'nun yeni bölümü. Tartışılacak çok şey var: Çünkü Şampiyonlar Ligi'nde ne güzel bir haftaydı. Bir kez daha muhteşem sonuçlar ve inanılmaz sayıda gol! Pieter Zwart ve ilk kez sahneye çıkan Stan Spoel'in sunucu Kalum van Oudheusden ile kapsamlı bir şekilde konuşması için yeterli nedenler."
     },
     {
-      "title": "Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats",
-      "summary": "Forward senses collective and individual belief returning as crucial Premier League game against Nottingham Forest loomsThe more that Mathys Tel talked on Wednesday after Tottenham finally won a game under Igor Tudor – albeit the night still ended in aggregate defeat by Atlético Madrid in the Champi",
-      "url": "https://www.theguardian.com/football/2026/mar/19/mathys-tel-spurs-unity-dressing-room-talks-nottingham-forest-premier-league",
-      "image_url": null,
-      "published": "2026-03-19T12:00:02",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Maguire, Trent pushing for England recalls - but Palmer a doubt",
+      "summary": "For the first time since he became England manager, Thomas Tuchel is expected to include at least one Manchester United player in his latest squad, with Harry Maguire the most likely to earn a recall.",
+      "url": "https://www.skysports.com/football/news/12040/13521726/england-squad-harry-maguire-trent-alexander-arnold-and-kobbie-mainoo-pushing-for-england-recalls-but-cole-palmer-selection-is-a-doubt",
+      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-trent-alexander-arnold_7197280.jpg?20260319130703",
+      "published": "2026-03-19T12:16:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-19T12:39:20.465834",
-      "priority_score": 73,
+      "fetched_at": "2026-03-19T14:02:43.197002",
+      "priority_score": 66,
       "categories": [
-        "transfers",
+        "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-19T12:42:25.578990",
-      "title_tr": "Konuşmak güzel: Mathys Tel, soyunma odasındaki sohbetlerden sonra Spurs'teki birliğin büyüdüğünü hissediyor",
-      "summary_tr": "Forvet, Nottingham Forest'a karşı çok önemli bir Premier Lig maçı olarak kolektif ve bireysel inancın geri döndüğünü hissediyor"
-    },
-    {
-      "title": "Exodus Premier League in CL: lotingpech, overvolle kalender of transferbeleid?",
-      "summary": "De Premier League-clubs kregen deze week een harde tik in de Champions League. Binnen 24 uur vlogen vier Engelse teams uit het toernooi, waardoor van de zes deelnemers alleen Arsenal en Liverpool overblijven.",
-      "url": "https://www.vi.nl/nieuws/exodus-premier-league-in-cl-lotingpech-overvolle-kalender-of-transferbeleid",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/19/f2234deb273a54f66d50a83306409f88a31bfd38.jpg?width=1200",
-      "published": "2026-03-19T11:50:17",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:42:20.727348",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-19T12:42:26.696735",
-      "title_tr": "CL'de Exodus Premier League: Şanssızlık mı, aşırı kalabalık takvim mi yoksa transfer politikası mı?",
-      "summary_tr": "Premier Lig kulüpleri bu hafta Şampiyonlar Ligi'nde ağır bir darbe aldı. 24 saat içinde dört İngiliz takımı turnuvadan çekildi ve geriye altı katılımcıdan yalnızca Arsenal ve Liverpool kaldı."
+      "processed_at": "2026-03-19T14:06:16.572645",
+      "title_tr": "Maguire ve Trent'in İngiltere'ye baskı yaptığını hatırlıyor ancak Palmer'ın şüphesi var",
+      "summary_tr": "İngiltere'nin teknik direktörü olmasından bu yana ilk kez, Thomas Tuchel'in son kadrosuna en az bir Manchester United oyuncusunu dahil etmesi bekleniyor; Harry Maguire'ın ise geri çağrılması en muhtemel oyuncu."
     },
     {
       "title": "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid",
@@ -139,14 +158,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:45.942448",
+      "fetched_at": "2026-03-19T14:02:31.399392",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-19T12:42:25.477123",
+      "processed_at": "2026-03-19T14:06:16.500136",
       "title_tr": "Tudor ilk Tottenham galibiyetini aldı ancak Spurs, Atletico Madrid karşısında beraberliği kaybetti",
       "summary_tr": "Tottenham, Şampiyonlar Ligi'ndeki son 16 turu rövanş maçında Atletico Madrid'i 3-2 mağlup ederek teknik direktör Igor Tudor'un ilk galibiyetini aldı ancak bu, beraberliği kazanmak için yeterli değil çünkü Atletico çeyrek finale yükselmek için toplamda 7-5 kazandı."
     },
@@ -160,14 +179,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T12:40:37.784646",
+      "fetched_at": "2026-03-19T14:04:23.599588",
       "priority_score": 63,
       "categories": [
         "injuries",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T12:42:25.671902",
+      "processed_at": "2026-03-19T14:06:16.731252",
       "title_tr": "Galatasaray'dan Lang ve Osimhen açıklaması!",
       "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap"
     },
@@ -181,323 +200,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T12:41:14.331499",
+      "fetched_at": "2026-03-19T14:04:57.750037",
       "priority_score": 61,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T12:42:25.976984",
+      "processed_at": "2026-03-19T14:06:17.010153",
       "title_tr": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
       "summary_tr": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı."
-    },
-    {
-      "title": "Galatasaray'dan Liverpool maçında sakatlanan Osimhen ve Lang için açıklama! 'Kolunda kırık tespit edildi'",
-      "summary": "Galatasaray Kulübü, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-liverpool-macinda-sakatlanan-osimhen-ve-lang-icin-aciklama-kolunda-krik-tespit-edildi-43131989",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bb7db1171b20e71bc6e7ef.jpg",
-      "published": "2026-03-19T04:34:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:40:51.506117",
-      "priority_score": 56,
-      "categories": [
-        "injuries",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:25.890842",
-      "title_tr": "Galatasaray'dan Liverpool maçında sakatlanan Osimhen ve Lang için açıklama! 'Kolunda kırık tespit edildi'",
-      "summary_tr": "Galatasaray Kulübü, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı."
-    },
-    {
-      "title": "\"Liverpool intikamını aldı\"",
-      "summary": "İngiliz basını, Liverpool'un Galatasaray'ı 4-0 yenerek Şampiyonlar Ligi'nde çeyrek finale yükselmesini manşetlerine taşıdı. Gazeteler özellikle Salah ve Szoboszlai'yi öne çıkardı.",
-      "url": "https://www.haberturk.com/ingiliz-basini-liverpool-galatasaray-dan-intikamini-aldi-3870908-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773908921/3870908/jpg/1280x1280",
-      "published": "2026-03-19T08:28:29",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:40:37.785014",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:25.694042",
-      "title_tr": "\"Liverpool intikamını aldı\"",
-      "summary_tr": "İngiliz basını, Liverpool'un Galatasaray'ı 4-0 yenerek Şampiyonlar Ligi'nde çeyrek finale yükselmesini manşetlerine taşıdı. Gazeteler özellikle Salah ve Szoboszlai'yi öne çıkardı."
-    },
-    {
-      "title": "Slot defies doubters as Liverpool & Salah deliver season's 'best performance'",
-      "summary": "Liverpool delivered their “best performance of the season” at the crucial time for Arne Slot. Finally, we saw why they are Premier League champions and Anfield got its team back.",
-      "url": "https://www.skysports.com/football/news/12040/13521642/liverpool-boss-arne-slot-defies-doubters-as-mo-salah-inspires-best-performance-of-the-season-in-champions-league-win",
-      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-salah-mohamed-ekitike_7197098.jpg?20260319084413",
-      "published": "2026-03-19T07:32:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:58.896761",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T12:42:25.510326",
-      "title_tr": "Liverpool ve Salah sezonun 'en iyi performansını' sergilerken Slot şüphecilere meydan okuyor",
-      "summary_tr": "Liverpool, Arne Slot için kritik bir zamanda \"sezonun en iyi performansını\" sergiledi. Sonunda neden Premier Lig şampiyonu olduklarını gördük ve Anfield takımına geri kavuştu."
-    },
-    {
-      "title": "WADA delays potential Trump ban to after WCup",
-      "summary": "WADA put off a decision about barring government officials from major sporting events if their countries voluntarily withhold dues, pushing a potential conflict with President Donald Trump and other U.S. officials until at least after the World Cup.",
-      "url": "https://www.espn.com/olympics/story/_/id/48238804/wada-delays-call-potential-trump-ban-world-cup",
-      "image_url": null,
-      "published": "2026-03-19T13:03:06",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.689768",
-      "priority_score": 85,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-19T12:42:25.435392",
-      "title_tr": "WADA, olası Trump yasağını WCup sonrasına erteledi",
-      "summary_tr": "WADA, ülkelerinin gönüllü olarak aidat ödememesi durumunda hükümet yetkililerinin büyük spor etkinliklerinden men edilmesi yönündeki kararını erteleyerek, Başkan Donald Trump ve diğer ABD'li yetkililerle olası bir çatışmayı en azından Dünya Kupası sonrasına itti."
-    },
-    {
-      "title": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
-      "summary": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y...",
-      "url": "https://www.yenisafak.com/spor/liverpool-macinda-kolu-kirilan-osimhen-nijeryaya-gidiyor-4807377",
-      "image_url": null,
-      "published": "2026-03-19T12:47:58",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:41:40.552768",
-      "priority_score": 72,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:26.441635",
-      "title_tr": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
-      "summary_tr": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y..."
-    },
-    {
-      "title": "Tonali injured in UCL loss ahead of Italy playoff",
-      "summary": "Newcastle midfielder Sandro Tonali went off injured against Barcelona in the Champions League on Wednesday, eight days before Italy starts its World Cup qualifying playoffs bracket.",
-      "url": "https://www.espn.com/soccer/story/_/id/48242590/sandro-tonali-injured-newcastle-loss-italy-playoff",
-      "image_url": null,
-      "published": "2026-03-19T13:03:06",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.689382",
-      "priority_score": 65,
-      "categories": [
-        "injuries",
-        "la_liga",
-        "champions_league",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-19T12:42:25.433938",
-      "title_tr": "Tonali, İtalya play-off'u öncesinde UCL mağlubiyetinde sakatlandı",
-      "summary_tr": "Newcastle'ın orta saha oyuncusu Sandro Tonali, İtalya'nın Dünya Kupası elemeleri play-off'larına başlamasından sekiz gün önce, Çarşamba günü Şampiyonlar Ligi'nde Barcelona'ya karşı sakatlandı."
-    },
-    {
-      "title": "The 15-year-old Man Utd prodigy still too young to play senior football",
-      "summary": "At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent.",
-      "url": "https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-19T07:49:54",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:45.941064",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T12:42:25.454143",
-      "title_tr": "15 yaşındaki Man Utd dahisi üst düzey futbol oynamak için hâlâ çok genç",
-      "summary_tr": "15 yaşındaki Manchester Unitedlı JJ Gabriel, Premier Lig'de oynamak için çok genç ama şimdiden büyük bir yetenek olduğuna dair açık işaretler gösteriyor."
-    },
-    {
-      "title": "'One of a kind' Messi hits 900 career goals - numbers behind milestone",
-      "summary": "After Lionel Messi scored his 900th career goal on Wednesday, BBC Sport looks at the numbers behind the \"insane\" achievement.",
-      "url": "https://www.bbc.com/sport/football/articles/c0rj25g225ro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-18T23:47:35",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:45.941943",
-      "priority_score": 65,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-19T12:42:25.467139",
-      "title_tr": "'Türünün tek örneği' Messi 900 kariyer hedefine ulaştı - rakamlar dönüm noktasının gerisinde",
-      "summary_tr": "Lionel Messi'nin çarşamba günü kariyerindeki 900. golünü atmasının ardından BBC Sport, \"çılgınca\" başarının ardındaki rakamlara bakıyor."
-    },
-    {
-      "title": "Jhon Duran yine gol attı! Zenit'e galibiyeti getirdi",
-      "summary": "Ara transfer döneminde Fenerbahçe'den ayrılıp Rus ekibi Zenit'e transfer olan Kolombiyalı golcü Duran attığı golle takımına galibiyeti getirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/jhon-duran-yine-gol-atti-zenite-galibiyeti-getirdi-43132264",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbd107171b20e71bc6e9bd.jpg",
-      "published": "2026-03-19T10:36:15",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:40:51.505215",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:25.746538",
-      "title_tr": "Jhon Duran yine gol attı! Zenit'e galibiyeti getirdi",
-      "summary_tr": "Ara transfer döneminde Fenerbahçe'den ayrılıp Rus ekibi Zenit'e transfer olan Kolombiyalı golcü Duran attığı golle takımına galibiyeti getirdi."
-    },
-    {
-      "title": "Liverpool-Galatasaray maçı sonrası transfer ortaya çıktı! Dünya yıldızı ile ilk görüşme",
-      "summary": "Galatasaray'da Liverpool maçı öncesi önemli bir gelişme yaşandığı ortaya çıktı. Sarı kırmızılılarda yönetici Abdullah Kavukcu'nun, İngiltere seyahatinde dünayca ünlü yıldız için görüşmelerde bulunduğu kaydedildi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/liverpool-galatasaray-maci-sonrasi-transfer-ortaya-cikti-dunya-yildizi-ile-ilk-gorusme-43132082",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbab83171b20e71bc6e8c5.jpg",
-      "published": "2026-03-19T07:55:31",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:40:51.505762",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:25.816030",
-      "title_tr": "Liverpool-Galatasaray maçı sonrası transfer ortaya çıktı! Dünya yıldızı ile ilk görüşme",
-      "summary_tr": "Galatasaray'da Liverpool maçı öncesi önemli bir gelişme yaşandığı ortaya çıktı. Sarı kırmızılılarda yönetici Abdullah Kavukcu'nun, İngiltere seyahatinde dünayca ünlü yıldız için görüşmelerde bulunduğu kaydedildi."
-    },
-    {
-      "title": "‘We need to deal with this’: Howe urges Newcastle to get over Barça thrashing",
-      "summary": "Manager insists: ‘I have no problem picking myself up’Derby meeting with Sunderland on Sunday will be ‘huge’Eddie Howe urged his Newcastle players to recover quickly from the 7-2 thrashing at Barcelona that ended their Champions League interest at the last‑16 stage, going out 8-3 on aggregate.Anthon",
-      "url": "https://www.theguardian.com/football/2026/mar/18/we-need-to-deal-with-this-howe-urges-newcastle-to-put-thrashing-behind-them",
-      "image_url": null,
-      "published": "2026-03-18T21:53:13",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:39:20.466259",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-19T12:42:25.586649",
-      "title_tr": "'Bununla başa çıkmalıyız': Howe, Newcastle'ı Barça'daki eziyetin üstesinden gelmeye çağırıyor",
-      "summary_tr": "Teknik Direktör ısrar ediyor: 'Kendimi toparlamakta hiçbir sorunum yok' Pazar günü Sunderland ile derbi karşılaşması 'çok büyük' ​​olacak Eddie Howe, Newcastle oyuncularına, Şampiyonlar Ligi'ndeki ilgilerini son 16 etabında sona erdiren ve toplamda 8-3 geride kalan Barselona'ya karşı aldıkları 7-2'lik yenilginin ardından hızlı bir şekilde toparlanmaları konusunda çağrıda bulundu."
-    },
-    {
-      "title": "'Bayern zoekt Goretzka-opvolger, Dortmund aast op terugkeer Sancho'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/bastoni-wekt-aandacht-van-barcelona-juventus-richt-pijlen-op-greenwood",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-03-19T09:31:04",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:42:20.727918",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-19T12:42:26.849975",
-      "title_tr": "'Bayern Goretzka'nın halefini arıyor, Dortmund ise Sancho'nun dönüşünü arıyor'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Maguire, Mainoo, Garner? Who made Sky Sports writers' England squads",
-      "summary": "Ahead of a crunch England squad selection, Thomas Tuchel's final chance to see his potential World Cup hopefuls up close, the Sky Sports digital football team, joined by England reporter Rob Dorsett, have been making their selections ahead of Friday's announcement...",
-      "url": "https://www.skysports.com/football/news/12040/13520491/march-england-squad-who-do-sky-sports-writers-think-thomas-tuchel-should-pick-for-final-internationals-ahead-of-world-cup-squad",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-football-england_7194562.jpg?20260316150320",
-      "published": "2026-03-19T12:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:58.896448",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-19T12:42:25.492890",
-      "title_tr": "Maguire, Mainoo, Garner? Sky Sports yazarlarının İngiltere kadrosunu kim oluşturdu?",
-      "summary_tr": "İngiltere muhabiri Rob Dorsett'in de katıldığı Sky Sports dijital futbol takımı, Thomas Tuchel'in potansiyel Dünya Kupası adaylarını yakından görmek için son şansı olan zorlu İngiltere kadro seçimi öncesinde Cuma günkü duyuru öncesinde seçimlerini yapıyor..."
-    },
-    {
-      "title": "İsabetli şut sayılarını bildi, Misli’yle kazandı! 60.29 oranlı kuponla tam 230.441 TL…",
-      "summary": "Bir Misli üyesi, Çarşamba bülteninde yer alan dört Şampiyonlar Ligi son 16 rövanş mücadelesine de toplam takım isabetli şut sayılarını içeren bir kupon yaptı. Kuponunda yer verdiği maçlardan Barcelona- Newcastle United ve Liverpool- Galatasaray karşılaşmalarına Takım İsabetli Şut: Toplam 13+, Bayern",
-      "url": "https://www.hurriyet.com.tr/sporarena/isabetli-sut-sayilarini-bildi-misliyle-kazandi-60-29-oranli-kuponla-tam-230-441-tl-43132258",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbcfdf171b20e71bc6e9b5.jpg",
-      "published": "2026-03-19T10:50:29",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:40:51.505137",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:25.738817",
-      "title_tr": "İsabetli şut sayılarını bildi, Misli’yle kazandı! 60.29 oranlı kuponla tam 230.441 TL…",
-      "summary_tr": "Bir Misli üyesi, Çarşamba bülteninde yer alan dört Şampiyonlar Ligi son 16 rövanş mücadelesine de toplam takım isabetli şut sayılarını içeren bir kupon yaptı. Kuponunda yer verdiği maçlardan Barcelona- Newcastle United ve Liverpool- Galatasaray karşılaşmalarına Takım İsabetli Şut: Toplam 13+, Bayern"
-    },
-    {
-      "title": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-sampiyonlar-liginden-ne-kadar-kazandi-2408076",
-      "image_url": null,
-      "published": "2026-03-19T10:43:22",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:41:14.331959",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T12:42:26.022283",
-      "title_tr": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
-      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti."
     },
     {
       "title": "Galatasaray’da korkutan sakatlık! Noa Lang ve Victor Osimhen…",
@@ -509,112 +220,398 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T12:41:14.332142",
+      "fetched_at": "2026-03-19T14:04:57.750621",
       "priority_score": 56,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T12:42:26.034311",
+      "processed_at": "2026-03-19T14:06:17.057566",
       "title_tr": "Galatasaray’da korkutan sakatlık! Noa Lang ve Victor Osimhen…",
       "summary_tr": "Galatasaray’da Noa Lang ve Victor Osimhen’in sakatlığı merak edilirken gelen ilk bilgiler iyi yönde olmadı."
     },
     {
-      "title": "Flick's talk inspires Barça's 2nd-half demolition",
-      "summary": "Hansi Flick's half-time team talk led to Barcelona's second half domination against Newcastle United as they set up a Champions League quarterfinal against Atlético Madrid with a thumping 7-2 win.",
-      "url": "https://www.espn.com/soccer/story/_/id/48243679/hansi-flick-barcelona-newcastle-united-champions-league",
-      "image_url": null,
-      "published": "2026-03-19T13:03:06",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "\"Liverpool intikamını aldı\"",
+      "summary": "İngiliz basını, Liverpool'un Galatasaray'ı 4-0 yenerek Şampiyonlar Ligi'nde çeyrek finale yükselmesini manşetlerine taşıdı. Gazeteler özellikle Salah ve Szoboszlai'yi öne çıkardı.",
+      "url": "https://www.haberturk.com/ingiliz-basini-liverpool-galatasaray-dan-intikamini-aldi-3870908-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773908921/3870908/jpg/1280x1280",
+      "published": "2026-03-19T08:28:29",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.688843",
-      "priority_score": 55,
-      "categories": [
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-19T12:42:25.432114",
-      "title_tr": "Flick'in konuşması Barça'nın 2. yarıdaki yıkımına ilham verdi",
-      "summary_tr": "Hansi Flick'in devre arası takım konuşması, Barcelona'nın ikinci yarıda Newcastle United'a karşı üstünlüğüne yol açtı ve Atlético Madrid'e karşı Şampiyonlar Ligi çeyrek finalinde 7-2'lik büyük bir galibiyet elde etti."
-    },
-    {
-      "title": "Slot hails fans' assist for 'almost-perfect' Liverpool",
-      "summary": "Arne Slot has described Liverpool 's 4-0 win over Galatasaray as \"almost the perfect game\" and hailed the fans at Anfield for delivering a special atmosphere.",
-      "url": "https://www.espn.com/soccer/story/_/id/48243864/arne-slot-liverpool-fans-champions-league-galatasaray",
-      "image_url": null,
-      "published": "2026-03-19T13:03:06",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.689026",
-      "priority_score": 55,
+      "fetched_at": "2026-03-19T14:04:23.599966",
+      "priority_score": 53,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-03-19T12:42:25.432659",
-      "title_tr": "Slot, 'neredeyse mükemmel' Liverpool için taraftarların desteğini övdü",
-      "summary_tr": "Arne Slot, Liverpool'un Galatasaray'ı 4-0 yenmesini \"neredeyse mükemmel bir oyun\" olarak nitelendirdi ve Anfield'daki taraftarları özel bir atmosfer yarattıkları için övdü."
+      "processed_at": "2026-03-19T14:06:16.755227",
+      "title_tr": "\"Liverpool intikamını aldı\"",
+      "summary_tr": "İngiliz basını, Liverpool'un Galatasaray'ı 4-0 yenerek Şampiyonlar Ligi'nde çeyrek finale yükselmesini manşetlerine taşıdı. Gazeteler özellikle Salah ve Szoboszlai'yi öne çıkardı."
+    },
+    {
+      "title": "Romero dodges exit talk, 'focused' on Tottenham",
+      "summary": "Cristian Romero has side-stepped talk about a summer transfer and insisted his full focus is on helping Tottenham get out of relegation trouble.",
+      "url": "https://www.espn.com/soccer/story/_/id/48248136/cristian-romero-dodges-tottenham-exit-talk-focused-relegation-battle",
+      "image_url": null,
+      "published": "2026-03-19T14:56:11",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:24.120745",
+      "priority_score": 75,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-03-19T14:06:16.462073",
+      "title_tr": "Romero çıkış konuşmalarından kaçındı ve Tottenham'a 'odaklandı'",
+      "summary_tr": "Cristian Romero, yaz transferiyle ilgili konuşmasında yan adım attı ve tüm odak noktasının Tottenham'ın küme düşme sorunundan kurtulmasına yardım etmek olduğunda ısrar etti."
+    },
+    {
+      "title": "Transfer rumors, news: Man United make move for Newcastle's Guimarães",
+      "summary": "Manchester United have reportedly made a move for Bruno Guimarães, while Europe's biggest clubs keep an eye on Bournemouth's Rayan. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48246970/transfer-rumors-news-real-madrid-psg-liverpool-man-united-eye-rayan",
+      "image_url": null,
+      "published": "2026-03-19T13:55:07",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:24.121904",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.467612",
+      "title_tr": "Transfer söylentileri, haberler: Man United, Newcastle'lı Guimaraes'i transfer etti",
+      "summary_tr": "Manchester United'ın Bruno Guimarão'yu transfer ettiği bildirilirken, Avrupa'nın en büyük kulüpleri Bournemouth'lu Rayan'ı gözetliyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Sources: Courtois set for six-week injury absence",
+      "summary": "Thibaut Courtois is set to be sidelined for around six weeks after sustaining a thigh injury during Tuesday's 2-1 victory over Manchester City, sources told ESPN.",
+      "url": "https://www.espn.com/soccer/story/_/id/48248055/real-madrid-thibaut-courtois-injured-six-weeks",
+      "image_url": null,
+      "published": "2026-03-19T14:56:11",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:24.120168",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.460555",
+      "title_tr": "Kaynaklar: Courtois altı haftalık sakatlık yokluğuna hazırlanıyor",
+      "summary_tr": "Kaynakların ESPN'e verdiği bilgiye göre Thibaut Courtois, Salı günü Manchester City'e karşı alınan 2-1'lik galibiyet sırasında uyluk sakatlığı yaşadıktan sonra yaklaşık altı hafta sahalardan uzak kalacak."
+    },
+    {
+      "title": "Neymar's Santos manager sacked after late defeat",
+      "summary": "Santos manager Juan Pablo Vojvoda has been sacked after a 2-1 defeat to Internacional on Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48247264/santos-sack-juan-pablo-vojvoda-relegation-zone",
+      "image_url": null,
+      "published": "2026-03-19T14:56:11",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:24.120571",
+      "priority_score": 65,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-19T14:06:16.461513",
+      "title_tr": "Neymar'ın Santos menajeri geç yenilginin ardından kovuldu",
+      "summary_tr": "Santos'un teknik direktörü Juan Pablo Vojvoda, Çarşamba günü Internacional'e 2-1 mağlup olmasının ardından görevden alındı."
+    },
+    {
+      "title": "Good to talk: Mathys Tel feels Spurs unity growing after dressing-room chats",
+      "summary": "Forward senses collective and individual belief returning as crucial Premier League game against Nottingham Forest loomsThe more that Mathys Tel talked on Wednesday after Tottenham finally won a game under Igor Tudor – albeit the night still ended in aggregate defeat by Atlético Madrid in the Champi",
+      "url": "https://www.theguardian.com/football/2026/mar/19/mathys-tel-spurs-unity-dressing-room-talks-nottingham-forest-premier-league",
+      "image_url": null,
+      "published": "2026-03-19T12:00:02",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:03:09.961790",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.634915",
+      "title_tr": "Konuşmak güzel: Mathys Tel, soyunma odasındaki sohbetlerden sonra Spurs'teki birliğin büyüdüğünü hissediyor",
+      "summary_tr": "Forvet, Nottingham Forest'a karşı çok önemli bir Premier Lig maçı olarak kolektif ve bireysel inancın geri döndüğünü hissediyor"
+    },
+    {
+      "title": "Over de tactische masterclass van Barcelona tegen Newcastle",
+      "summary": "Barcelona maakte goals aan de lopende band tegen Newcastle United. Pieter Zwart en Stan Spoel analyseren hoe Barça met een tactisch meesterplan Newcastle United volledig domineerde.",
+      "url": "https://www.vi.nl/video/over-de-tactische-masterclass-van-barcelona-tegen-newcastle",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-03-19t140513-tactische-masterclass-barca-zo-speel-je-newcastle-kapot.jpg?width=1200",
+      "published": "2026-03-19T13:52:12",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:06:12.162784",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-19T14:06:17.667972",
+      "title_tr": "Barselona'nın Newcastle'a karşı taktiksel ustalık sınıfı hakkında",
+      "summary_tr": "Barcelona, ​​Newcastle United'a karşı her zaman gol attı. Pieter Zwart ve Stan Spoel, taktiksel bir ana planla Barça'nın Newcastle United'a nasıl tamamen hakim olduğunu analiz ediyor."
+    },
+    {
+      "title": "Jhon Duran yine gol attı! Zenit'e galibiyeti getirdi",
+      "summary": "Ara transfer döneminde Fenerbahçe'den ayrılıp Rus ekibi Zenit'e transfer olan Kolombiyalı golcü Duran attığı golle takımına galibiyeti getirdi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/jhon-duran-yine-gol-atti-zenite-galibiyeti-getirdi-43132264",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbd107171b20e71bc6e9bd.jpg",
+      "published": "2026-03-19T10:36:15",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:04:37.062234",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-19T14:06:16.821297",
+      "title_tr": "Jhon Duran yine gol attı! Zenit'e galibiyeti getirdi",
+      "summary_tr": "Ara transfer döneminde Fenerbahçe'den ayrılıp Rus ekibi Zenit'e transfer olan Kolombiyalı golcü Duran attığı golle takımına galibiyeti getirdi."
+    },
+    {
+      "title": "The 15-year-old Man Utd prodigy still too young to play senior football",
+      "summary": "At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent.",
+      "url": "https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-19T07:49:54",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:31.398354",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.483398",
+      "title_tr": "15 yaşındaki Man Utd dahisi üst düzey futbol oynamak için hâlâ çok genç",
+      "summary_tr": "15 yaşındaki Manchester Unitedlı JJ Gabriel, Premier Lig'de oynamak için çok genç ama şimdiden büyük bir yetenek olduğuna dair açık işaretler gösteriyor."
+    },
+    {
+      "title": "‘We need to deal with this’: Howe urges Newcastle to get over Barça thrashing",
+      "summary": "Manager insists: ‘I have no problem picking myself up’Derby meeting with Sunderland on Sunday will be ‘huge’Eddie Howe urged his Newcastle players to recover quickly from the 7-2 thrashing at Barcelona that ended their Champions League interest at the last‑16 stage, going out 8-3 on aggregate.Anthon",
+      "url": "https://www.theguardian.com/football/2026/mar/18/we-need-to-deal-with-this-howe-urges-newcastle-to-put-thrashing-behind-them",
+      "image_url": null,
+      "published": "2026-03-18T21:53:13",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:03:09.964688",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "serie_a",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.684680",
+      "title_tr": "'Bununla başa çıkmalıyız': Howe, Newcastle'ı Barça'daki eziyetin üstesinden gelmeye çağırıyor",
+      "summary_tr": "Teknik Direktör ısrar ediyor: \"Kendimi toparlamakta hiçbir sorunum yok\" Pazar günü Sunderland ile derbi karşılaşması \"muazzam\" olacak Eddie Howe, Newcastle oyuncularına, Şampiyonlar Ligi'ndeki ilgilerini son 16 etabında sona erdiren ve toplamda 8-3 geride kalan Barselona'ya karşı aldıkları 7-2'lik yenilginin ardından hızlı bir şekilde toparlanmaları konusunda çağrıda bulundu."
+    },
+    {
+      "title": "Exodus Premier League in CL: lotingpech, overvolle kalender of transferbeleid?",
+      "summary": "De Premier League-clubs kregen deze week een harde tik in de Champions League. Binnen 24 uur vlogen vier Engelse teams uit het toernooi, waardoor van de zes deelnemers alleen Arsenal en Liverpool overblijven.",
+      "url": "https://www.vi.nl/nieuws/exodus-premier-league-in-cl-lotingpech-overvolle-kalender-of-transferbeleid",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/19/f2234deb273a54f66d50a83306409f88a31bfd38.jpg?width=1200",
+      "published": "2026-03-19T11:50:17",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:06:12.163427",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-19T14:06:17.827125",
+      "title_tr": "CL'de Exodus Premier League: Şanssızlık mı, aşırı kalabalık takvim mi yoksa transfer politikası mı?",
+      "summary_tr": "Premier Lig kulüpleri bu hafta Şampiyonlar Ligi'nde ağır bir darbe aldı. 24 saat içinde dört İngiliz takımı turnuvadan çekildi ve geriye altı katılımcıdan yalnızca Arsenal ve Liverpool kaldı."
+    },
+    {
+      "title": "İsabetli şut sayılarını bildi, Misli’yle kazandı! 60.29 oranlı kuponla tam 230.441 TL…",
+      "summary": "Bir Misli üyesi, Çarşamba bülteninde yer alan dört Şampiyonlar Ligi son 16 rövanş mücadelesine de toplam takım isabetli şut sayılarını içeren bir kupon yaptı. Kuponunda yer verdiği maçlardan Barcelona- Newcastle United ve Liverpool- Galatasaray karşılaşmalarına Takım İsabetli Şut: Toplam 13+, Bayern",
+      "url": "https://www.hurriyet.com.tr/sporarena/isabetli-sut-sayilarini-bildi-misliyle-kazandi-60-29-oranli-kuponla-tam-230-441-tl-43132258",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbcfdf171b20e71bc6e9b5.jpg",
+      "published": "2026-03-19T10:50:29",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:04:37.062162",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "la_liga",
+        "bundesliga",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-19T14:06:16.813172",
+      "title_tr": "İsabetli şut sayılarını bildi, Misli’yle kazandı! 60.29 oranlı kuponla tam 230.441 TL…",
+      "summary_tr": "Bir Misli üyesi, Çarşamba bülteninde yer alan dört Şampiyonlar Ligi son 16 rövanş mücadelesine de toplam takım isabetli şut sayılarını içeren bir kupon yaptı. Kuponunda yer verdiği maçlardan Barcelona- Newcastle United ve Liverpool- Galatasaray karşılaşmalarına Takım İsabetli Şut: Toplam 13+, Bayern"
+    },
+    {
+      "title": "Liverpool-Galatasaray maçı sonrası transfer ortaya çıktı! Dünya yıldızı ile ilk görüşme",
+      "summary": "Galatasaray'da Liverpool maçı öncesi önemli bir gelişme yaşandığı ortaya çıktı. Sarı kırmızılılarda yönetici Abdullah Kavukcu'nun, İngiltere seyahatinde dünayca ünlü yıldız için görüşmelerde bulunduğu kaydedildi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/liverpool-galatasaray-maci-sonrasi-transfer-ortaya-cikti-dunya-yildizi-ile-ilk-gorusme-43132082",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bbab83171b20e71bc6e8c5.jpg",
+      "published": "2026-03-19T07:55:31",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:04:37.062665",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-19T14:06:16.884306",
+      "title_tr": "Liverpool-Galatasaray maçı sonrası transfer ortaya çıktı! Dünya yıldızı ile ilk görüşme",
+      "summary_tr": "Galatasaray'da Liverpool maçı öncesi önemli bir gelişme yaşandığı ortaya çıktı. Sarı kırmızılılarda yönetici Abdullah Kavukcu'nun, İngiltere seyahatinde dünayca ünlü yıldız için görüşmelerde bulunduğu kaydedildi."
+    },
+    {
+      "title": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-sampiyonlar-liginden-ne-kadar-kazandi-2408076",
+      "image_url": null,
+      "published": "2026-03-19T10:43:22",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:04:57.750450",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-19T14:06:17.045919",
+      "title_tr": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti."
+    },
+    {
+      "title": "Van Dijk: Liverpool won't get carried away",
+      "summary": "Liverpool captain Virgil van Dijk insists they cannot afford to get carried away with their dominant Champions League performance against Galatasaray.",
+      "url": "https://www.espn.com/soccer/story/_/id/48248003/virgil-van-dijk-liverpool-wont-get-carried-away-galatasaray-thrashing",
+      "image_url": null,
+      "published": "2026-03-19T14:56:11",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:02:24.120392",
+      "priority_score": 55,
+      "categories": [
+        "super_lig",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-19T14:06:16.460992",
+      "title_tr": "Van Dijk: Liverpool kendini kaptırmayacak",
+      "summary_tr": "Liverpool kaptanı Virgil van Dijk, Şampiyonlar Ligi'nde Galatasaray'a karşı gösterdikleri üstün performansa kendilerini kaptıramayacakları konusunda ısrar ediyor."
     },
     {
       "title": "Hincapié: No title-race mind games being played",
       "summary": "Arsenal defender Piero Hincapié is fully focused on victory in Sunday's Carabao Cup final over Manchester City and not the impact it could make in the title race.",
       "url": "https://www.espn.com/soccer/story/_/id/48247664/piero-hincapie-arsenal-focused-winning-carabao-cup-not-thinking-title-race-impact",
       "image_url": null,
-      "published": "2026-03-19T13:03:06",
+      "published": "2026-03-19T14:56:11",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.689199",
+      "fetched_at": "2026-03-19T14:02:24.121173",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-19T12:42:25.433247",
+      "processed_at": "2026-03-19T14:06:16.463411",
       "title_tr": "Hincapié: Şampiyonluk yarışı akıl oyunları oynanmıyor",
       "summary_tr": "Arsenal defans oyuncusu Piero Hincapié, tamamen Pazar günkü Carabao Kupası finalinde Manchester City'e karşı kazanılacak zafere odaklanmış durumda, bunun şampiyonluk yarışında yaratabileceği etkiye değil."
     },
     {
-      "title": "Lionel Messi has scored his 900th career goal! Can he reach 1,000? Can he pass Ronaldo?",
-      "summary": "Lionel Messi is never far from his next record or landmark. As the 2026 MLS season continues, he has hit yet another huge milestone: his 900th goal.",
-      "url": "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
+      "title": "Flick's talk inspires Barça's 2nd-half demolition",
+      "summary": "Hansi Flick's half-time team talk led to Barcelona's second half domination against Newcastle United as they set up a Champions League quarterfinal against Atlético Madrid with a thumping 7-2 win.",
+      "url": "https://www.espn.com/soccer/story/_/id/48243679/hansi-flick-barcelona-newcastle-united-champions-league",
       "image_url": null,
-      "published": "2026-03-19T11:11:10",
+      "published": "2026-03-19T14:56:11",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.690285",
+      "fetched_at": "2026-03-19T14:02:24.121535",
       "priority_score": 55,
       "categories": [
-        "match_results"
+        "la_liga",
+        "champions_league"
       ],
-      "processed_at": "2026-03-19T12:42:25.439178",
-      "title_tr": "Lionel Messi kariyerindeki 900. golünü attı! 1000'e ulaşabilir mi? Ronaldo'yu geçebilir mi?",
-      "summary_tr": "Lionel Messi bir sonraki rekorundan veya dönüm noktasından asla uzak değil. 2026 MLS sezonu devam ederken bir başka büyük dönüm noktasına daha ulaştı: 900. golü."
+      "processed_at": "2026-03-19T14:06:16.465094",
+      "title_tr": "Flick'in konuşması Barça'nın 2. yarıdaki yıkımına ilham verdi",
+      "summary_tr": "Hansi Flick'in devre arası takım konuşması, Barselona'nın ikinci yarıda Newcastle United'a karşı üstünlüğüne yol açtı ve Atlético Madrid'e karşı Şampiyonlar Ligi çeyrek finalinde 7-2'lik büyük bir galibiyet elde etti."
     },
     {
-      "title": "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
+      "title": "Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
       "summary": "From a cup final in England to a Madrid derby and relegation six-pointer, another wild weekend of action awaits as Julien Laurens picks out the best games to watch in Europe.",
       "url": "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
       "image_url": null,
-      "published": "2026-03-19T11:46:40",
+      "published": "2026-03-19T14:30:29",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T12:38:39.690811",
+      "fetched_at": "2026-03-19T14:02:24.122253",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-03-19T12:42:25.445538",
-      "title_tr": "Hafta sonu tahminleri: Carabao finalini Arsenal mi yoksa Man City mi kazanır? Madrid derbisine kim gider?",
+      "processed_at": "2026-03-19T14:06:16.470766",
+      "title_tr": "Carabao finalini Arsenal mi yoksa Man City mi kazanır? Madrid derbisine kim gider?",
       "summary_tr": "İngiltere'deki kupa finalinden Madrid derbisine ve küme düşmeden altı sayılık atışlara kadar, Julien Laurens Avrupa'da izlenecek en iyi maçları seçerken, aksiyon dolu bir hafta sonu daha sizi bekliyor."
+    },
+    {
+      "title": "N’Golo Kante'ye milli davet!",
+      "summary": "Fenerbahçe'nin yıldızı N’Golo Kante, Fransa’nın Brezilya ve Kolombiya ile yapacağı hazırlık maçlarının kadrosuna çağrıldı.",
+      "url": "https://www.haberturk.com/ngolo-kante-fransanin-kadrosuna-davet-edildi-3870986-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773927247/3870986/jpg/1280x1280",
+      "published": "2026-03-19T13:35:09",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-19T14:04:23.599130",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-19T14:06:16.698794",
+      "title_tr": "N’Golo Kante'ye milli davet!",
+      "summary_tr": "Fenerbahçe'nin yıldızı N’Golo Kante, Fransa’nın Brezilya ve Kolombiya ile yapacağı hazırlık maçlarının kadrosuna çağrıldı."
     }
   ]
 }
