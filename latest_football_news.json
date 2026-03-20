@@ -1,51 +1,7 @@
 {
-  "timestamp": "2026-03-19T23:25:45.568329",
+  "timestamp": "2026-03-20T01:16:15.019643",
   "total_items": 30,
   "news": [
-    {
-      "title": "Bayern prodigy Karl earns first Germany call-up",
-      "summary": "Bayern Munich teenager Lennart Karl earned a first Germany call-up on Thursday ahead of the World Cup for his eye-catching Champions League goals.",
-      "url": "https://www.espn.com/soccer/story/_/id/48248452/bayern-munich-lennart-karl-earns-first-germany-callup",
-      "image_url": null,
-      "published": "2026-03-20T00:01:57",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.299949",
-      "priority_score": 95,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "bundesliga",
-        "champions_league",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-19T23:24:32.449338",
-      "title_tr": "Bayern'in dahisi Karl, Almanya'daki ilk çağrısını kazandı",
-      "summary_tr": "Bayern Münihli genç Lennart Karl, Şampiyonlar Ligi'ndeki göz alıcı golleriyle Perşembe günü Dünya Kupası öncesinde Almanya'ya ilk kez çağrıldı."
-    },
-    {
-      "title": "Rhine derby sweepstake: Win exclusive prizes on the official Bundesliga app around Cologne vs. Borussia Mönchengladbach!",
-      "summary": "To mark the 100th Bundesliga meeting between local rivals Cologne and Borussia Mönchengladbach, we're offering Bundesliga app users the chance to win exclusive Rhine derby-themed prizes.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/app-cologne-gladbach-shirts-prizes-rhine-derby-free-sweepstake-36503",
-      "image_url": null,
-      "published": "2026-03-19T05:59:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:21:57.109002",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-19T23:24:32.709131",
-      "title_tr": "Ren derbisi çekilişi: Resmi Bundesliga uygulamasında Köln - Borussia Mönchengladbach karşılaşmasında özel ödüller kazanın!",
-      "summary_tr": "Yerel rakipler Köln ve Borussia Mönchengladbach arasındaki 100. Bundesliga karşılaşmasını kutlamak için Bundesliga uygulaması kullanıcılarına Ren derbisi temalı özel ödüller kazanma şansı sunuyoruz."
-    },
     {
       "title": "Liam Rosenior reveals Chelsea have ‘dealt’ with mole behind team leaks",
       "summary": "‘It’s not come from any place of malicious intent’Manager has spoken to Fernández ‘at length’ about futureLiam Rosenior has revealed that Chelsea have found the mole leaking team news. The starting XI was published by French media before the first leg of their Champions League last-16 tie against Pa",
@@ -56,7 +12,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.317643",
+      "fetched_at": "2026-03-20T01:12:11.676827",
       "priority_score": 83,
       "categories": [
         "transfers",
@@ -64,9 +20,69 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-19T23:24:32.589556",
+      "processed_at": "2026-03-20T01:15:00.096616",
       "title_tr": "Liam Rosenior, Chelsea'nin takım sızıntılarının ardındaki köstebekle 'uğraştığını' açıkladı",
       "summary_tr": "Teknik Direktör Fernández'le gelecek hakkında 'uzun uzadıya' konuştu Liam Rosenior, Chelsea'nin takım haberlerini sızdıran köstebeği bulduğunu açıkladı. İlk 11, Fransız medyası tarafından Şampiyonlar Ligi'nde Pa ile oynanan son 16 karşılaşmasının ilk ayağından önce yayımlandı."
+    },
+    {
+      "title": "Premier League and Carabao Cup: things to look out for this weekend",
+      "summary": "Igor Thiago looms over Leeds, Newcastle need to bounce back from Barça and Viktor Gyökeres aims for hero statusPremier League top scorers: latest top-flight standingsThough Manchester United continued to win after playing brilliantly against Manchester City and Arsenal in Michael Carrick’s first two",
+      "url": "https://www.theguardian.com/football/2026/mar/20/premier-league-and-carabao-cup-things-to-look-out-for-this-weekend",
+      "image_url": null,
+      "published": "2026-03-20T00:00:04",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:12:11.674400",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-20T01:15:00.052100",
+      "title_tr": "Premier Lig ve Carabao Kupası: Bu hafta sonu dikkat edilmesi gerekenler",
+      "summary_tr": "Igor Thiago Leeds'i gölgede bırakıyor, Newcastle'ın Barça'dan toparlanması gerekiyor ve Viktor Gyökeres kahraman statüsünü hedefliyor Premier Lig'in en golcüleri: son üst düzey sıralamalarManchester United, Michael Carrick'in ilk iki maçında Manchester City ve Arsenal'e karşı mükemmel bir performans sergiledikten sonra kazanmaya devam etti"
+    },
+    {
+      "title": "Ochoa, Fidalgo lead Mexico's list for WC warm-ups",
+      "summary": "Mexico coach Javier Aguirre announced a 26-man squad on Thursday for upcoming friendlies against Portugal and Belgium, highlighted by the return of veteran Guillermo Ochoa and a first-ever call-up for midfielder Álvaro Fidalgo.",
+      "url": "https://www.espn.com/soccer/story/_/id/48253780/ochoa-fidalgo-highlight-mexico-squad-portugal-belgium-tests",
+      "image_url": null,
+      "published": "2026-03-20T02:01:17",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:11:27.778557",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-20T01:14:59.945746",
+      "title_tr": "Ochoa ve Fidalgo, Meksika'nın tuvalet ısınmaları listesinin başında yer alıyor",
+      "summary_tr": "Meksika teknik direktörü Javier Aguirre, perşembe günü Portekiz ve Belçika ile oynanacak hazırlık maçları için 26 kişilik kadroyu açıkladı; bu, tecrübeli Guillermo Ochoa'nın dönüşü ve orta saha oyuncusu Álvaro Fidalgo'nun ilk kez çağrılmasıyla vurgulandı."
+    },
+    {
+      "title": "Adams to miss Bournemouth clash with Man Utd",
+      "summary": "Bournemouth midfielder Tyler Adams will miss Friday's Premier League game against Manchester United after the U.S. player sustained a quadriceps injury.",
+      "url": "https://www.espn.com/soccer/story/_/id/48251067/usa-tyler-adams-miss-bournemouth-clash-man-united",
+      "image_url": null,
+      "published": "2026-03-20T02:01:17",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:11:27.779076",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-20T01:14:59.947615",
+      "title_tr": "Adams, Manchester Utd ile Bournemouth karşılaşmasını kaçıracak",
+      "summary_tr": "Bournemouth orta saha oyuncusu Tyler Adams, kuadriseps sakatlığı nedeniyle Cuma günü Manchester United'a karşı oynanacak Premier Lig maçını kaçıracak."
     },
     {
       "title": "Carrick has no date for injured De Ligt's return",
@@ -78,97 +94,36 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T23:20:52.245203",
-      "priority_score": 75,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T23:24:32.460905",
-      "title_tr": "Carrick'in sakatlanan De Ligt'in dönüşüyle ​​ilgili bir tarihi yok",
-      "summary_tr": "Manchester United defans oyuncusu Matthijs de Ligt \"iyileşiyor\" ancak teknik direktör Michael Carrick, Hollandalı futbolcunun sırtındaki sakatlıktan dönüşüne ilişkin bir zaman dilimi koyamıyor."
-    },
-    {
-      "title": "Carrick admits to anger in management after Manchester United’s Newcastle defeat",
-      "summary": "Manchester United head coach admits to ‘aggressive’ feelingsHolland defender De Ligt could miss remainder of the seasonMichael Carrick has admitted to getting angry with his Manchester United players and said that was the emotion after the late defeat at Newcastle.United lost 2-1 at St James’ Park t",
-      "url": "https://www.theguardian.com/football/2026/mar/19/carrick-admits-to-anger-in-management-after-manchester-uniteds-newcastle-defeat",
-      "image_url": null,
-      "published": "2026-03-19T22:30:01",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.317233",
-      "priority_score": 73,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T23:24:32.582838",
-      "title_tr": "Carrick, Manchester United'ın Newcastle yenilgisinden sonra yönetime öfke duyduğunu itiraf etti",
-      "summary_tr": "Manchester United başantrenörü 'agresif' duygularını itiraf etti Hollandalı defans oyuncusu De Ligt sezonun geri kalanını kaçırabilirMichael Carrick, Manchester United oyuncularına kızdığını itiraf etti ve bunun Newcastle'daki son yenilginin ardından yaşanan duygu olduğunu söyledi.United, St James' Park'ta 2-1 mağlup oldu"
-    },
-    {
-      "title": "German clubs in 2025/26 UEFA Champions League, Europa League & Conference League: fixtures, results and draws",
-      "summary": "Bayern Munich will face Real Madrid in the 2025/26 UEFA Champions League quarter-finals, while Freiburg and Mainz are through to the UEFA Europa League and Conference League last eight, respectively.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/2025-26-champions-league-europa-draw-fixtures-results-bayern-dortmund-leverkusen-33624",
-      "image_url": null,
-      "published": "2026-03-19T02:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:21:57.111620",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-19T23:24:32.740660",
-      "title_tr": "2025/26 UEFA Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi'ndeki Alman kulüpleri: fikstürler, sonuçlar ve eşleşmeler",
-      "summary_tr": "Bayern Münih, 2025/26 UEFA Şampiyonlar Ligi çeyrek finalinde Real Madrid ile karşılaşacak, Freiburg ve Mainz ise sırasıyla UEFA Avrupa Ligi ve Konferans Ligi'nde son sekizde yer alacak."
-    },
-    {
-      "title": "Adams to miss Bournemouth clash with Man Utd",
-      "summary": "Bournemouth midfielder Tyler Adams will miss Friday's Premier League game against Manchester United after the U.S. player sustained a quadriceps injury.",
-      "url": "https://www.espn.com/soccer/story/_/id/48251067/usa-tyler-adams-miss-bournemouth-clash-man-united",
-      "image_url": null,
-      "published": "2026-03-20T00:01:58",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.299591",
+      "fetched_at": "2026-03-20T01:11:34.408191",
       "priority_score": 65,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-03-19T23:24:32.447995",
-      "title_tr": "Adams, Manchester Utd ile Bournemouth karşılaşmasını kaçıracak",
-      "summary_tr": "Bournemouth orta saha oyuncusu Tyler Adams, kuadriseps sakatlığı nedeniyle Cuma günü Manchester United'a karşı oynanacak Premier Lig maçını kaçıracak."
+      "processed_at": "2026-03-20T01:14:59.969184",
+      "title_tr": "Carrick'in sakatlanan De Ligt'in dönüşüyle ​​ilgili bir tarihi yok",
+      "summary_tr": "Manchester United defans oyuncusu Matthijs de Ligt \"iyileşiyor\" ancak teknik direktör Michael Carrick, Hollandalı futbolcunun sırtındaki sakatlıktan dönüşüne ilişkin bir zaman dilimi koyamıyor."
     },
     {
-      "title": "Dolmabahçe'de kazanan Beşiktaş!",
-      "summary": "Trendyol Süper Lig'in 27. haftasında Beşiktaş sahasında Kasımpaşa'yı 2-1'lik skorla mağlup etti. Siyah-beyazlıların golleri Hyeon-Gyu Oh ve Orkun Kökçü'den gelirken; lacivert-beyazlıların tek golünü ise Adrian Benedyczak kaydetti.",
-      "url": "https://www.haberturk.com/besiktas-2-kasimpasa-1-mac-sonucu-dolmabahce-de-kazanan-besiktas-3870884-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773947088/3870884/jpg/1280x1280",
-      "published": "2026-03-19T19:14:22",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "History made as Messi hits 900 goals",
+      "summary": "Lionel Messi's scores his 900th goal in Inter Miami's match against Nashville SC in the Concacaf Champions Cup. The 38-year-old joins Cristiano Ronaldo in reaching the milestone. Watch some of his greatest World Cup goals.",
+      "url": "https://www.bbc.com/sport/football/videos/cn0z00ved8jo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-19T09:26:41",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T23:22:47.961836",
-      "priority_score": 58,
+      "fetched_at": "2026-03-20T01:11:34.409249",
+      "priority_score": 65,
       "categories": [
         "match_results",
-        "super_lig"
+        "serie_a",
+        "world_cup"
       ],
-      "processed_at": "2026-03-19T23:24:32.800719",
-      "title_tr": "Dolmabahçe'de kazanan Beşiktaş!",
-      "summary_tr": "Trendyol Süper Lig'in 27. haftasında Beşiktaş sahasında Kasımpaşa'yı 2-1'lik skorla mağlup etti. Siyah-beyazlıların golleri Hyeon-Gyu Oh ve Orkun Kökçü'den gelirken; lacivert-beyazlıların tek golünü ise Adrian Benedyczak kaydetti."
+      "processed_at": "2026-03-20T01:14:59.987991",
+      "title_tr": "Messi'nin 900 gole ulaşmasıyla tarih yazıldı",
+      "summary_tr": "Lionel Messi, Concacaf Şampiyonlar Kupası'nda Inter Miami'nin Nashville SC'ye karşı oynadığı maçta 900. golünü attı. 38 yaşındaki oyuncu bu dönüm noktasına ulaşmada Cristiano Ronaldo'ya katıldı. Onun en büyük Dünya Kupası gollerinden bazılarını izleyin."
     },
     {
       "title": "Galatasaray'dan Lang ve Osimhen açıklaması!",
@@ -180,36 +135,56 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:22:47.962141",
+      "fetched_at": "2026-03-20T01:13:18.385212",
       "priority_score": 58,
       "categories": [
         "injuries",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:32.825265",
+      "processed_at": "2026-03-20T01:15:00.212681",
       "title_tr": "Galatasaray'dan Lang ve Osimhen açıklaması!",
       "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap"
     },
     {
-      "title": "Man Utd & Real Madrid want Guimaraes - Friday's gossip",
-      "summary": "Newcastle United's Bruno Guimaraes is wanted by Manchester United and Real Madrid, Tottenham captain Cristian Romero plays down talk of a move, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/cn0w28r0pdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
+      "summary": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y...",
+      "url": "https://www.yenisafak.com/spor/liverpool-macinda-kolu-kirilan-osimhen-nijeryaya-gidiyor-4807377",
       "image_url": null,
-      "published": "2026-03-19T23:15:16",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-03-19T12:47:58",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:20:52.245927",
-      "priority_score": 55,
+      "fetched_at": "2026-03-20T01:14:20.523789",
+      "priority_score": 57,
       "categories": [
-        "premier_league",
-        "la_liga"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:32.469445",
-      "title_tr": "Man Utd ve Real Madrid Guimaraes'i istiyor - Cuma günkü dedikodular",
-      "summary_tr": "Newcastle United'dan Bruno Guimaraes, Manchester United ve Real Madrid tarafından aranıyor, Tottenham kaptanı Cristian Romero ise bir hamle ve daha fazlasıyla ilgili söylentileri önemsemiyor."
+      "processed_at": "2026-03-20T01:15:00.689916",
+      "title_tr": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
+      "summary_tr": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y..."
+    },
+    {
+      "title": "Dolmabahçe'de kazanan Beşiktaş!",
+      "summary": "Trendyol Süper Lig'in 27. haftasında Beşiktaş sahasında Kasımpaşa'yı 2-1'lik skorla mağlup etti. Siyah-beyazlıların golleri Hyeon-Gyu Oh ve Orkun Kökçü'den gelirken; lacivert-beyazlıların tek golünü ise Adrian Benedyczak kaydetti.",
+      "url": "https://www.haberturk.com/besiktas-2-kasimpasa-1-mac-sonucu-dolmabahce-de-kazanan-besiktas-3870884-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773947088/3870884/jpg/1280x1280",
+      "published": "2026-03-19T19:14:22",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:13:18.384949",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T01:15:00.192356",
+      "title_tr": "Dolmabahçe'de kazanan Beşiktaş!",
+      "summary_tr": "Trendyol Süper Lig'in 27. haftasında Beşiktaş sahasında Kasımpaşa'yı 2-1'lik skorla mağlup etti. Siyah-beyazlıların golleri Hyeon-Gyu Oh ve Orkun Kökçü'den gelirken; lacivert-beyazlıların tek golünü ise Adrian Benedyczak kaydetti."
     },
     {
       "title": "Britain's Jones beats idol WIlliams as 17-year-old Kouame breaks record",
@@ -221,12 +196,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:05.447284",
+      "fetched_at": "2026-03-20T01:11:47.144163",
       "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-19T23:24:32.504472",
+      "processed_at": "2026-03-20T01:15:00.007754",
       "title_tr": "Britanyalı Jones, idol Williams'ı yenerken 17 yaşındaki Kouame rekor kırıyor",
       "summary_tr": "Büyük Britanyalı Fran Jones, perşembe günü Miami Open'ın ilk turunda idolü yedi kez Grand Slam şampiyonu Venus Williams'ı mağlup etti."
     },
@@ -240,56 +215,54 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:23:56.175647",
+      "fetched_at": "2026-03-20T01:14:20.514829",
       "priority_score": 47,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:33.474697",
+      "processed_at": "2026-03-20T01:15:00.570668",
       "title_tr": "TFF ertelenen Göztepe - Galatasaray maçının tarihini belirledi",
       "summary_tr": "Galatasaray’ın Süper Lig’de Göztepe ile 18 Mart’ta oynaması planlanan karşılaşması, UEFA Şampiyonlar Ligi’nde Liverpool..."
     },
     {
-      "title": "Sources: Courtois set for six-week injury absence",
-      "summary": "Thibaut Courtois is set to be sidelined for around six weeks after sustaining a thigh injury during Tuesday's 2-1 victory over Manchester City, sources told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/48248055/real-madrid-thibaut-courtois-injured-six-weeks",
-      "image_url": null,
-      "published": "2026-03-20T00:01:57",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.300141",
-      "priority_score": 65,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T23:24:32.450175",
-      "title_tr": "Kaynaklar: Courtois altı haftalık sakatlık yokluğuna hazırlanıyor",
-      "summary_tr": "Kaynakların ESPN'e verdiği bilgiye göre Thibaut Courtois, Salı günü Manchester City'e karşı alınan 2-1'lik galibiyet sırasında uyluk sakatlığı yaşadıktan sonra yaklaşık altı hafta sahalardan uzak kalacak."
-    },
-    {
-      "title": "Bayern Munich youngsters Lennart Karl and Jonas Urbig named among Julian Nagelsmann's Germany squad for March pre-World Cup friendly matches",
-      "summary": "Germany coach Julian Nagelsmann has named a 26-man squad for two friendly international matches in March against Switzerland and Ghana, with Bayern Munich youngsters Lennart Karl and Jonas Urbig included for the first time.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/lennart-karl-jonas-urbig-julian-nagelsmann-germany-squad-world-cup-friendly-matches-36526",
-      "image_url": null,
-      "published": "2026-03-19T13:00:00",
-      "source": "Bundesliga Official",
+      "title": "Hallgrimsson extends Ireland contract as uncapped Vale called up for WC play-offs",
+      "summary": "Uncapped Harvey Vale has been named in the Republic of Ireland’s squad for the World Cup play-offs.",
+      "url": "https://www.skysports.com/football/news/12040/13521839/republic-of-ireland-harvey-vale-called-up-for-world-cup-play-offs-as-heimir-hallgrimsson-signs-new-contract",
+      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-football-heimir-hallgrimsson_7197554.jpg?20260319165659",
+      "published": "2026-03-19T16:12:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "germany",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:57.107012",
-      "priority_score": 61,
+      "fetched_at": "2026-03-20T01:11:47.144775",
+      "priority_score": 41,
       "categories": [
-        "breaking_news",
-        "serie_a",
-        "bundesliga",
+        "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-03-19T23:24:32.680565",
-      "title_tr": "Bayern Münih'in genç oyuncuları Lennart Karl ve Jonas Urbig, Julian Nagelsmann'ın Mart Dünya Kupası öncesi hazırlık maçları için Almanya kadrosunda yer aldı",
-      "summary_tr": "Almanya teknik direktörü Julian Nagelsmann, Mart ayında İsviçre ve Gana'ya karşı oynanacak iki hazırlık maçı için 26 kişilik bir kadro belirledi; Bayern Münih'in genç oyuncuları Lennart Karl ve Jonas Urbig de ilk kez bu kadroya dahil edildi."
+      "processed_at": "2026-03-20T01:15:00.046466",
+      "title_tr": "Hallgrimsson, Vale'in Dünya Kupası play-off'ları için çağrılmasıyla İrlanda'nın sözleşmesini uzattı",
+      "summary_tr": "Uncapped Harvey Vale, İrlanda Cumhuriyeti'nin Dünya Kupası play-off kadrosuna seçildi."
+    },
+    {
+      "title": "Carrick admits to anger in management after Manchester United’s Newcastle defeat",
+      "summary": "Manchester United head coach admits to ‘aggressive’ feelingsHolland defender De Ligt could miss remainder of the seasonMichael Carrick has admitted to getting angry with his Manchester United players and said that was the emotion after the late defeat at Newcastle.United lost 2-1 at St James’ Park t",
+      "url": "https://www.theguardian.com/football/2026/mar/19/carrick-admits-to-anger-in-management-after-manchester-uniteds-newcastle-defeat",
+      "image_url": null,
+      "published": "2026-03-19T22:30:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:12:11.676449",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-20T01:15:00.089978",
+      "title_tr": "Carrick, Manchester United'ın Newcastle yenilgisinden sonra yönetime öfke duyduğunu itiraf etti",
+      "summary_tr": "Manchester United başantrenörü 'agresif' duygularını itiraf etti Hollandalı defans oyuncusu De Ligt sezonun geri kalanını kaçırabilirMichael Carrick, Manchester United oyuncularına kızdığını itiraf etti ve bunun Newcastle'daki geç yenilginin ardından yaşanan duygu olduğunu söyledi.United, St James' Park'ta 2-1 mağlup oldu"
     },
     {
       "title": "Transfer rumors, news: Man United make move for Newcastle's Guimarães",
@@ -301,13 +274,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.301017",
+      "fetched_at": "2026-03-20T01:11:27.780079",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-19T23:24:32.457681",
+      "processed_at": "2026-03-20T01:14:59.955716",
       "title_tr": "Transfer söylentileri, haberler: Man United, Newcastle'lı Guimaraes'i transfer etti",
       "summary_tr": "Manchester United'ın Bruno Guimarão'yu transfer ettiği bildirilirken, Avrupa'nın en büyük kulüpleri Bournemouth'lu Rayan'ı gözetliyor. Transfer Talk'ta en son gelişmeler var."
     },
@@ -321,35 +294,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.321453",
+      "fetched_at": "2026-03-20T01:12:11.679304",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-19T23:24:32.654611",
+      "processed_at": "2026-03-20T01:15:00.144001",
       "title_tr": "Konuşmak güzel: Mathys Tel, soyunma odasındaki sohbetlerden sonra Spurs'teki birliğin büyüdüğünü hissediyor",
       "summary_tr": "Forvet, Nottingham Forest'a karşı çok önemli bir Premier Lig maçı olarak kolektif ve bireysel inancın geri döndüğünü hissediyor"
-    },
-    {
-      "title": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
-      "summary": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y...",
-      "url": "https://www.yenisafak.com/spor/liverpool-macinda-kolu-kirilan-osimhen-nijeryaya-gidiyor-4807377",
-      "image_url": null,
-      "published": "2026-03-19T12:47:58",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:23:56.186515",
-      "priority_score": 57,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T23:24:33.630077",
-      "title_tr": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
-      "summary_tr": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y..."
     },
     {
       "title": "Galatasaray’da korkutan sakatlık! Noa Lang ve Victor Osimhen…",
@@ -361,34 +314,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:23:22.742214",
+      "fetched_at": "2026-03-20T01:13:51.436052",
       "priority_score": 56,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:33.220656",
+      "processed_at": "2026-03-20T01:15:00.546266",
       "title_tr": "Galatasaray’da korkutan sakatlık! Noa Lang ve Victor Osimhen…",
       "summary_tr": "Galatasaray’da Noa Lang ve Victor Osimhen’in sakatlığı merak edilirken gelen ilk bilgiler iyi yönde olmadı."
-    },
-    {
-      "title": "Hincapié: No title-race mind games being played",
-      "summary": "Arsenal defender Piero Hincapié is fully focused on victory in Sunday's Carabao Cup final over Manchester City and not the impact it could make in the title race.",
-      "url": "https://www.espn.com/soccer/story/_/id/48247664/piero-hincapie-arsenal-focused-winning-carabao-cup-not-thinking-title-race-impact",
-      "image_url": null,
-      "published": "2026-03-20T00:01:57",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.300324",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-19T23:24:32.450938",
-      "title_tr": "Hincapié: Şampiyonluk yarışı akıl oyunları oynanmıyor",
-      "summary_tr": "Arsenal defans oyuncusu Piero Hincapié, tamamen Pazar günkü Carabao Kupası finalinde Manchester City'e karşı kazanılacak zafere odaklanmış durumda, bunun şampiyonluk yarışında yaratabileceği etkiye değil."
     },
     {
       "title": "Sarr double helps Crystal Palace edge to extra-time win against nine-man Larnaca",
@@ -400,12 +334,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.316363",
+      "fetched_at": "2026-03-20T01:12:11.675267",
       "priority_score": 53,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-19T23:24:32.567850",
+      "processed_at": "2026-03-20T01:15:00.071971",
       "title_tr": "Sarr, Crystal Palace'ın dokuz kişilik Larnaka karşısında uzatmalarda galibiyet almasına yardımcı oldu",
       "summary_tr": "Crystal Palace'ın Avrupa rekabetinin ilk tadı onları şimdiden Norveç, Polonya, Fransa, İrlanda ve Kıbrıs'a götürdü. Ismaïla Sarr, bu müsabakadaki önceki yedi maçında sadece bir kez gol yiyen inatçı Larnaka savunmasını nihayet kırdıktan sonra, daha fazla büyüye ihtiyaçları vardı."
     },
@@ -419,71 +353,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.319847",
+      "fetched_at": "2026-03-20T01:12:11.677936",
       "priority_score": 53,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-19T23:24:32.629864",
+      "processed_at": "2026-03-20T01:15:00.120374",
       "title_tr": "Çarpıcı kumar: Erling Haaland yeni dünya satranç şampiyonasına yatırım yapıyor",
       "summary_tr": "Dünyanın 1 numarası olan Norveçli yurttaşı Magnus Carlsen, \"Futbolla açık benzerlikler var\" diyor. Guardian, Erling Haaland'ın, Norveçli arkadaşı Magnus Carlsen'in başrolde oynaması beklenen yeni bir dünya satranç şampiyonası turu için önemli bir yatırımcı haline geldiğini ortaya çıkarabilir."
-    },
-    {
-      "title": "Bundesliga Matchday 27 probable teams",
-      "summary": "Luis Díaz and Jonathan Tah are among the several Bayern Munich players suspended for their game at home to Union Berlin.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-2025-26-bayern-dortmund-leverkusen-fantasy-20707",
-      "image_url": null,
-      "published": "2026-03-20T05:35:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:21:57.104257",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-19T23:24:32.659129",
-      "title_tr": "Bundesliga'da 27 muhtemel takım",
-      "summary_tr": "Luis Díaz ve Jonathan Tah, Bayern Münih'in Union Berlin karşısında oynadıkları maç nedeniyle cezalı olan birkaç oyuncusu arasında yer alıyor."
-    },
-    {
-      "title": "Cherif Ndiaye: 'Elendiğimiz için üzgünüz'",
-      "summary": "Samsunspor'un golcü futbolcusu Cherif Ndiaye, Rayo Vallecano'yu yenmelerine rağmen elendikleri için üzgün olduklarını söyledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/cherif-ndiaye-elendigimiz-icin-uzgunuz-43132655",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bc7a68a17c6fe03863e221.jpg",
-      "published": "2026-03-19T22:36:59",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:22:58.833502",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-19T23:24:32.854284",
-      "title_tr": "Cherif Ndiaye: 'Elendiğimiz için üzgünüz'",
-      "summary_tr": "Samsunspor'un golcü futbolcusu Cherif Ndiaye, Rayo Vallecano'yu yenmelerine rağmen elendikleri için üzgün olduklarını söyledi."
-    },
-    {
-      "title": "Konyaspor tek attı, Gençlerbirliği’nden 3 puanı kaptı",
-      "summary": "Konyaspor, sahasında ağırladığı Gençlerbirliği’ni tek golle geçti.",
-      "url": "https://www.cnnturk.com/spor/futbol/konyaspor-tek-atti-genclerbirliginden-3-puani-kapti-2408256",
-      "image_url": null,
-      "published": "2026-03-19T22:39:42",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:23:22.740512",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-19T23:24:33.100757",
-      "title_tr": "Konyaspor tek attı, Gençlerbirliği’nden 3 puanı kaptı",
-      "summary_tr": "Konyaspor, sahasında ağırladığı Gençlerbirliği’ni tek golle geçti."
     },
     {
       "title": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
@@ -495,36 +372,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:23:22.742024",
+      "fetched_at": "2026-03-20T01:13:51.435907",
       "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:33.207799",
+      "processed_at": "2026-03-20T01:15:00.535150",
       "title_tr": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
       "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti."
     },
     {
-      "title": "Liverpool 4 - 0 Galatasaray maç sonucu | Anfield'da zorlu gece: Aslan, Şampiyonlar Ligi'ne veda etti!",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanş karşılaşmasında Liverpool'a konuk oldu. Maç, Liverpool'un 4-0 üstünlüğüyle sona erdi.",
-      "url": "https://www.cnnturk.com/spor/futbol/liverpool-galatasaray-canli-izle-sampiyonlar-ligi-liverpool-galatasaray-maci-sifresiz-canli-izle-iste-trt-1-canli-izle-ekrani-2407909",
+      "title": "Neymar's Santos appoints Cuca as new coach",
+      "summary": "Cuca is back at Santos for a fourth spell, taking over the coaching role just hours after the club dismissed Juan Pablo Vojvoda.",
+      "url": "https://www.espn.com/soccer/story/_/id/48247264/neymar-santos-appoints-cuca-new-coach-vojvoda-dismissal",
       "image_url": null,
-      "published": "2026-03-19T01:00:02",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "published": "2026-03-20T02:01:17",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T23:23:22.742484",
-      "priority_score": 51,
+      "fetched_at": "2026-03-20T01:11:27.779252",
+      "priority_score": 50,
       "categories": [
-        "match_results",
-        "super_lig"
+        "general"
       ],
-      "processed_at": "2026-03-19T23:24:33.241627",
-      "title_tr": "Liverpool 4 - 0 Galatasaray maç sonucu | Anfield'da zorlu gece: Aslan, Şampiyonlar Ligi'ne veda etti!",
-      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanş karşılaşmasında Liverpool'a konuk oldu. Maç, Liverpool'un 4-0 üstünlüğüyle sona erdi."
+      "processed_at": "2026-03-20T01:14:59.948306",
+      "title_tr": "Neymar'ın Santos'u yeni teknik direktörü olarak Cuca'yı atadı",
+      "summary_tr": "Cuca dördüncü kez Santos'a döndü ve Juan Pablo Vojvoda'nın görevden alınmasından birkaç saat sonra teknik direktörlük görevini devraldı."
     },
     {
       "title": "Van Dijk says bond between Liverpool and fans intact after Galatasaray rout",
@@ -536,35 +412,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-19T23:21:31.320322",
+      "fetched_at": "2026-03-20T01:12:11.678333",
       "priority_score": 48,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:32.638021",
+      "processed_at": "2026-03-20T01:15:00.128116",
       "title_tr": "Van Dijk, Galatasaray yenilgisinden sonra Liverpool ile taraftarlar arasındaki bağın bozulmadığını söyledi",
       "summary_tr": "'Hayal kırıklığı var çünkü geçen yıl muhteşemdi'Galatasaray, Lang'in sakatlanmasının ardından UEFA'yı dava etme tehdidinde bulunduVirgil van Dijk, Arne Slot'un Liverpool'u ile Kop arasındaki bağlantının sağlam kaldığını söyledi ve Galatasaray'ın yenilgisini, bir arada kalarak neler başarabileceklerinin kanıtı olarak gösterdi."
-    },
-    {
-      "title": "Emre Belözoğlu puan vererek açıkladı: 'Garanti olduğunu düşünmüyorum'",
-      "summary": "Trendyol Süper Lig'in 27. haftasında Beşiktaş'a 2-1 yenilen Kasımpaşa'nın teknik direktörü Emre Belözoğlu, basit goller...",
-      "url": "https://www.yenisafak.com/spor/emre-belozoglu-puan-vererek-acikladi-garanti-oldugunu-dusunmuyorum-4807511",
-      "image_url": null,
-      "published": "2026-03-19T23:10:46",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-19T23:23:56.178180",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-19T23:24:33.506504",
-      "title_tr": "Emre Belözoğlu puan vererek açıkladı: 'Garanti olduğunu düşünmüyorum'",
-      "summary_tr": "Trendyol Süper Lig'in 27. haftasında Beşiktaş'a 2-1 yenilen Kasımpaşa'nın teknik direktörü Emre Belözoğlu, basit goller..."
     },
     {
       "title": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
@@ -576,35 +432,173 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-19T23:23:22.741846",
+      "fetched_at": "2026-03-20T01:13:51.435753",
       "priority_score": 46,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-19T23:24:33.196311",
+      "processed_at": "2026-03-20T01:15:00.525360",
       "title_tr": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
       "summary_tr": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı."
     },
     {
-      "title": "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
-      "summary": "After a routine round of 16, the UEFA Champions League has given us four incredible quarterfinals, including Barcelona taking on Atletico Madrid. Bill Connelly previews and predicts the action.",
-      "url": "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
+      "title": "Man Utd & Real Madrid want Guimaraes - Friday's gossip",
+      "summary": "Newcastle United's Bruno Guimaraes is wanted by Manchester United and Real Madrid, Tottenham captain Cristian Romero plays down talk of a move, plus more.",
+      "url": "https://www.bbc.com/sport/football/articles/cn0w28r0pdvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-19T18:59:47",
-      "source": "ESPN FC",
+      "published": "2026-03-19T23:15:16",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-19T23:20:44.300501",
+      "fetched_at": "2026-03-20T01:11:34.408783",
       "priority_score": 45,
       "categories": [
-        "la_liga",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-20T01:14:59.979495",
+      "title_tr": "Man Utd ve Real Madrid Guimaraes'i istiyor - Cuma günkü dedikodular",
+      "summary_tr": "Newcastle United'dan Bruno Guimaraes, Manchester United ve Real Madrid tarafından aranıyor, Tottenham kaptanı Cristian Romero ise bir hamle ve daha fazlasıyla ilgili söylentileri önemsemiyor."
+    },
+    {
+      "title": "Premier League set to amend spending rules to give clubs more flexibility for transfers",
+      "summary": "Clubs may be able to roll over squad cost ratio allowance£30 price cap on away tickets extended until 2027-28 seasonThe Premier League is poised to amend its new spending rules before they are introduced next season to give clubs greater flexibility in the transfer market.Under squad cost ratio (SCR",
+      "url": "https://www.theguardian.com/football/2026/mar/19/premier-league-spending-rules-squad-cost-ratio",
+      "image_url": null,
+      "published": "2026-03-19T17:06:42",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:12:11.675596",
+      "priority_score": 43,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-20T01:15:00.079690",
+      "title_tr": "Premier League, kulüplere transferlerde daha fazla esneklik sağlamak için harcama kurallarını değiştirmeye hazırlanıyor",
+      "summary_tr": "Kulüpler, 2027-28 sezonuna kadar uzatılan deplasman biletleri için 30 sterlinlik kadro maliyet oranı ödeneğini devredebilir. Premier Lig, kulüplere transfer pazarında daha fazla esneklik sağlamak için yeni harcama kurallarını gelecek sezon uygulanmadan önce değiştirmeye hazırlanıyor.Kadro maliyet oranı altında (SCR)"
+    },
+    {
+      "title": "It’s a knockout: why are there so many goals in the Champions League? | Jonathan Wilson",
+      "summary": "Theories range from obvious mismatches to Premier League clubs not being able to defend from open playThere were 68 goals in the last 16 of the Champions League, which is not only a lot but goes against the trend of the previous four seasons. What’s going on? Has football suddenly become more attack",
+      "url": "https://www.theguardian.com/football/2026/mar/19/champions-league-goals-premier-league-arsenal-chelsea-liverpool-newcastle-tottenham-manchester-city",
+      "image_url": null,
+      "published": "2026-03-19T19:30:00",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:12:11.677123",
+      "priority_score": 43,
+      "categories": [
+        "match_results",
+        "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-19T23:24:32.452298",
-      "title_tr": "Şampiyonlar Ligi çeyrek final önizlemesi, tahminler: Barselona ilerlemeye devam edecek mi?",
-      "summary_tr": "Rutin son 16 turunun ardından UEFA Şampiyonlar Ligi bize, Barselona'nın Atletico Madrid'le karşılaşması da dahil olmak üzere dört inanılmaz çeyrek final şansı verdi. Bill Connelly eylemi önizliyor ve tahmin ediyor."
+      "processed_at": "2026-03-20T01:15:00.104654",
+      "title_tr": "Bu bir nakavt: Şampiyonlar Ligi'nde neden bu kadar çok gol var? | Jonathan Wilson",
+      "summary_tr": "Teoriler bariz uyumsuzluklardan Premier Lig kulüplerinin açık oyunda savunma yapamamasına kadar uzanıyor. Şampiyonlar Ligi'nin son 16 maçında 68 gol atıldı. Bu sadece çok fazla değil, aynı zamanda önceki dört sezondaki trende de aykırı. Neler oluyor? Futbol birdenbire daha fazla hücuma mı dönüştü?"
+    },
+    {
+      "title": "Arda Turan'lı Shakhtar çeyrek finalde!",
+      "summary": "UEFA Konferans Ligi son 16 turu rövanşında teknik direktörlüğü Arda Turan'ın yaptığı Shakhtar Donetsk, Polonya ekibi Lech Poznan'a 2-1 yenilse de ilk maçı 3-1'lik skorla kazanması nedeniyle adını çeyrek finale yazdırdı. İlk yarıyı 2-0 geride tamamlayan Ukrayna ekibi Shakhtar Donetsk'e çeyrek finali ",
+      "url": "https://www.haberturk.com/shakhtar-donetsk-1-lech-poznan-2-mac-sonucu-3871061-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/20/ver1773957746/3871061/jpg/1280x1280",
+      "published": "2026-03-19T22:18:08",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:13:18.384756",
+      "priority_score": 43,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-20T01:15:00.178446",
+      "title_tr": "Arda Turan'lı Shakhtar çeyrek finalde!",
+      "summary_tr": "UEFA Konferans Ligi son 16 turu rövanşında teknik direktörlüğü Arda Turan'ın yaptığı Shakhtar Donetsk, Polonya ekibi Lech Poznan'a 2-1 yenilse de ilk maçı 3-1'lik skorla kazanması nedeniyle adını çeyrek finale yazdırdı. İlk yarıyı 2-0 geride tamamlayan Ukrayna ekibi Shakhtar Donetsk'e çeyrek finali"
+    },
+    {
+      "title": "From 0-5 down! Littler produces superb comeback to win in Dublin",
+      "summary": "Highlights of the final between Luke Littler and Gerwyn Price on Night 7 of the Premier League in Dublin.",
+      "url": "https://www.skysports.com/watch/video/13522007/premier-league-darts-littler-produces-superb-comeback-to-win-in-dublin",
+      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-littler-price-darts_7197856.jpg?20260319221721",
+      "published": "2026-03-19T22:17:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:11:47.144625",
+      "priority_score": 41,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-20T01:15:00.035476",
+      "title_tr": "0-5 arası düşüş! Littler Dublin'de kazanmak için muhteşem bir geri dönüş yaptı",
+      "summary_tr": "Dublin'de Premier Lig'in 7. Gecesinde Luke Littler ile Gerwyn Price arasında oynanan finalin öne çıkan anları."
+    },
+    {
+      "title": "Cherif Ndiaye: 'Elendiğimiz için üzgünüz'",
+      "summary": "Samsunspor'un golcü futbolcusu Cherif Ndiaye, Rayo Vallecano'yu yenmelerine rağmen elendikleri için üzgün olduklarını söyledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/cherif-ndiaye-elendigimiz-icin-uzgunuz-43132655",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bc7a68a17c6fe03863e221.jpg",
+      "published": "2026-03-19T22:36:59",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:13:30.263159",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-20T01:15:00.236418",
+      "title_tr": "Cherif Ndiaye: 'Elendiğimiz için üzgünüz'",
+      "summary_tr": "Samsunspor'un golcü futbolcusu Cherif Ndiaye, Rayo Vallecano'yu yenmelerine rağmen elendikleri için üzgün olduklarını söyledi."
+    },
+    {
+      "title": "Arda Turan'ın Shakhtar Donetski'i Konferans Ligi'nde çeyrek finalde!",
+      "summary": "Arda Turan'ın çalıştırdığı Shakhtar Donetsk, 3-1 kazandığı maçın rövanşında Lech Poznan'a 2-1 yenilmesine karşın Konferans Ligi'nde çeyrek finale yükseldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/arda-turanin-shakhtar-donetskii-konferans-liginde-ceyrek-finalde-43132644",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bc734ba17c6fe03863e20a.jpg",
+      "published": "2026-03-19T22:07:15",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:13:30.263281",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-20T01:15:00.251881",
+      "title_tr": "Arda Turan'ın Shakhtar Donetski'i Konferans Ligi'nde çeyrek finalde!",
+      "summary_tr": "Arda Turan'ın çalıştırdığı Shakhtar Donetsk, 3-1 kazandığı maçın rövanşında Lech Poznan'a 2-1 yenilmesine karşın Konferans Ligi'nde çeyrek finale yükseldi."
+    },
+    {
+      "title": "Emre Belözoğlu: 'Basit goller yedik, ders çıkarmalıyız'",
+      "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Beşiktaş'a 2-1 mağlup oldukları maçın ardından konuştu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-basit-goller-yedik-ders-cikarmaliyiz-43132580",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bc56f4a17c6fe03863e1a1.jpg",
+      "published": "2026-03-19T20:05:26",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T01:13:30.263530",
+      "priority_score": 41,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T01:15:00.278787",
+      "title_tr": "Emre Belözoğlu: 'Basit goller yedik, ders çıkarmalıyız'",
+      "summary_tr": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Beşiktaş'a 2-1 mağlup oldukları maçın ardından konuştu."
     }
   ]
 }
