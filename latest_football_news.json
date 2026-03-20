@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T05:48:18.954450",
+  "timestamp": "2026-03-20T06:46:51.754546",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.832709",
+      "fetched_at": "2026-03-20T06:42:17.194741",
       "priority_score": 83,
       "categories": [
         "transfers",
@@ -20,9 +20,29 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.633146",
+      "processed_at": "2026-03-20T06:45:21.764023",
       "title_tr": "Liam Rosenior, Chelsea'nin takım sızıntılarının ardındaki köstebekle 'uğraştığını' açıkladı",
-      "summary_tr": "Teknik Direktör Fernández'le gelecek hakkında 'uzun uzadıya' konuştu Liam Rosenior, Chelsea'nin takım haberlerini sızdıran köstebeği bulduğunu açıkladı. İlk 11, Fransız medyası tarafından Şampiyonlar Ligi'nde Pa ile oynanan son 16 karşılaşmasının ilk ayağından önce yayımlandı."
+      "summary_tr": "Teknik Direktör Fernández ile gelecek hakkında 'uzun uzadıya' konuştu Liam Rosenior, Chelsea'nin takım haberlerini sızdıran köstebeği bulduğunu açıkladı. İlk 11, Fransız medyası tarafından Şampiyonlar Ligi'nde Pa ile oynanan son 16 karşılaşmasının ilk ayağından önce yayımlandı."
+    },
+    {
+      "title": "Galatasaray'a Osimhen şoku! İşte ameliyat olursa sakatlık süresi",
+      "summary": "Galatasaray'ın Liverpool ile oynadığı maçta sakatlanarak oyundan çıkan Victor Osimhen ile ilgili son durum belli oldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-osimhen-soku-iste-ameliyat-olursa-sakatlik-suresi-43132725",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bcea67171b20e71bc6edeb.jpg",
+      "published": "2026-03-20T06:35:22",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T06:43:46.023459",
+      "priority_score": 81,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T06:45:21.901962",
+      "title_tr": "Galatasaray'a Osimhen şoku! İşte ameliyat olursa sakatlık süresi",
+      "summary_tr": "Galatasaray'ın Liverpool ile oynadığı maçta sakatlanarak oyundan çıkan Victor Osimhen ile ilgili son durum belli oldu."
     },
     {
       "title": "Premier League and Carabao Cup: things to look out for this weekend",
@@ -34,16 +54,37 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.830290",
-      "priority_score": 78,
+      "fetched_at": "2026-03-20T06:42:17.191906",
+      "priority_score": 73,
       "categories": [
         "breaking_news",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.585787",
+      "processed_at": "2026-03-20T06:45:21.717973",
       "title_tr": "Premier Lig ve Carabao Kupası: Bu hafta sonu dikkat edilmesi gerekenler",
       "summary_tr": "Igor Thiago Leeds'i gölgede bırakıyor, Newcastle'ın Barça'dan toparlanması gerekiyor ve Viktor Gyökeres kahraman statüsünü hedefliyor Premier Lig'in en golcüleri: son üst düzey sıralamalarManchester United, Michael Carrick'in ilk iki maçında Manchester City ve Arsenal'e karşı mükemmel bir performans sergiledikten sonra kazanmaya devam etti"
+    },
+    {
+      "title": "Galatasaray'da Osimhen belirsizliği! Fenerbahçe derbisine yetişecek mi?",
+      "summary": "Galatasaray, Liverpool deplasmanında aldığı sonuç kadar yaşadığı sakatlıklarla da sarsıldı. Sarı-kırmızılı ekip, çeyrek final umutlarının yanı sıra iki önemli oyuncusunu da kaybetti. Bu isimlerden biri olan Victor Osimhen’in sağlık durumu ise belirsizliğini koruyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-osimhen-belirsizligi-fenerbahce-derbisine-yetisecek-mi-2408326",
+      "image_url": null,
+      "published": "2026-03-20T09:36:56",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T06:44:10.325098",
+      "priority_score": 71,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T06:45:22.100800",
+      "title_tr": "Galatasaray'da Osimhen belirsizliği! Fenerbahçe derbisine yetişecek mi?",
+      "summary_tr": "Galatasaray, Liverpool deplasmanında aldığı sonuç kadar yaşadığı sakatlıklarla da sarsıldı. Sarı-kırmızılı ekip, çeyrek final umutlarının yanı sıra iki önemli oyuncusunu da kaybetti. Bu isimlerden biri olan Victor Osimhen’in sağlık durumu ise belirsizliğini koruyor."
     },
     {
       "title": "History made as Messi hits 900 goals",
@@ -55,14 +96,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:40.006441",
+      "fetched_at": "2026-03-20T06:41:42.243540",
       "priority_score": 65,
       "categories": [
         "match_results",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-03-20T05:47:14.519324",
+      "processed_at": "2026-03-20T06:45:21.652102",
       "title_tr": "Messi'nin 900 gole ulaşmasıyla tarih yazıldı",
       "summary_tr": "Lionel Messi, Concacaf Şampiyonlar Kupası'nda Inter Miami'nin Nashville SC'ye karşı oynadığı maçta 900. golünü attı. 38 yaşındaki oyuncu bu dönüm noktasına ulaşmada Cristiano Ronaldo'ya katıldı. Onun en büyük Dünya Kupası gollerinden bazılarını izleyin."
     },
@@ -76,13 +117,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:36.000286",
+      "fetched_at": "2026-03-20T06:41:34.681062",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.485044",
+      "processed_at": "2026-03-20T06:45:21.618732",
       "title_tr": "Transfer söylentileri, haberler: Man United, Newcastle'lı Guimaraes'i transfer etti",
       "summary_tr": "Manchester United'ın Bruno Guimarão'yu transfer ettiği bildirilirken, Avrupa'nın en büyük kulüpleri Bournemouth'lu Rayan'ı gözetliyor. Transfer Talk'ta en son gelişmeler var."
     },
@@ -96,36 +137,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:40.005306",
+      "fetched_at": "2026-03-20T06:41:42.242489",
       "priority_score": 60,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.499045",
+      "processed_at": "2026-03-20T06:45:21.635123",
       "title_tr": "Carrick'in sakatlanan De Ligt'in dönüşüyle ​​ilgili bir tarihi yok",
       "summary_tr": "Manchester United defans oyuncusu Matthijs de Ligt \"iyileşiyor\" ancak teknik direktör Michael Carrick, Hollandalı futbolcunun sırtındaki sakatlıktan dönüşüne ilişkin bir zaman dilimi koyamıyor."
-    },
-    {
-      "title": "Galatasaray'dan Lang ve Osimhen açıklaması!",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap",
-      "url": "https://www.haberturk.com/galatasaray-son-durumu-acikladi-osimhende-kirik-tespit-edildi-lang-ameliyat-oldu-3870867-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773914824/3870867/jpg/1280x1280",
-      "published": "2026-03-19T10:07:03",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-20T05:45:23.700857",
-      "priority_score": 58,
-      "categories": [
-        "injuries",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-20T05:47:14.757965",
-      "title_tr": "Galatasaray'dan Lang ve Osimhen açıklaması!",
-      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap"
     },
     {
       "title": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
@@ -137,13 +157,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-20T05:46:31.032888",
+      "fetched_at": "2026-03-20T06:44:42.204764",
       "priority_score": 57,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:15.343526",
+      "processed_at": "2026-03-20T06:45:22.316398",
       "title_tr": "Liverpool maçında kolu kırılan Osimhen Nijerya'ya gidiyor",
       "summary_tr": "Liverpool'a Şampiyonlar Ligi'nde elenen Galatasaray'da, Nijeryalı golcü Victor Osimhen'in kolu kırılmıştı. HT Spor'da y..."
     },
@@ -157,14 +177,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:35.998895",
+      "fetched_at": "2026-03-20T06:41:34.679454",
       "priority_score": 55,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-20T05:47:14.474082",
+      "processed_at": "2026-03-20T06:45:21.608376",
       "title_tr": "Ochoa ve Fidalgo, Meksika'nın tuvalet ısınmaları listesinin başında yer alıyor",
-      "summary_tr": "Meksika teknik direktörü Javier Aguirre, perşembe günü Portekiz ve Belçika ile oynanacak hazırlık maçları için 26 kişilik kadroyu açıkladı; bu, tecrübeli Guillermo Ochoa'nın dönüşü ve orta saha oyuncusu Álvaro Fidalgo'nun ilk kez çağrılmasıyla vurgulandı."
+      "summary_tr": "Meksika teknik direktörü Javier Aguirre, perşembe günü Portekiz ve Belçika'ya karşı oynanacak hazırlık maçları için 26 kişilik kadroyu açıkladı; bu, tecrübeli Guillermo Ochoa'nın dönüşü ve orta saha oyuncusu Álvaro Fidalgo'nun ilk kez çağrılmasıyla vurgulandı."
     },
     {
       "title": "Dolmabahçe'de kazanan Beşiktaş!",
@@ -176,37 +196,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-20T05:45:23.700591",
+      "fetched_at": "2026-03-20T06:43:34.879422",
       "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:14.737637",
+      "processed_at": "2026-03-20T06:45:21.867016",
       "title_tr": "Dolmabahçe'de kazanan Beşiktaş!",
       "summary_tr": "Trendyol Süper Lig'in 27. haftasında Beşiktaş sahasında Kasımpaşa'yı 2-1'lik skorla mağlup etti. Siyah-beyazlıların golleri Hyeon-Gyu Oh ve Orkun Kökçü'den gelirken; lacivert-beyazlıların tek golünü ise Adrian Benedyczak kaydetti."
     },
     {
-      "title": "Galatasaray'a transferde yıldız yağmuru! İşte listedeki 3 isim",
-      "summary": "Yaz transfer dönemi için temaslarını sıklaştıran Galatasaray, listenin üst sıralarına üç dünya yıldızı ismi yazdı. Sarı-kırmızılılar; Bayern Münih'ten ayrılması beklenen Leon Goretzka, Inter'le sözleşme...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/19/galatasaraya-transferde-yildiz-yagmuru-iste-listedeki-3-isim",
-      "image_url": "https://iaftm.tmgrup.com.tr/e70b10/1200/675/0/67/800/517?u=https://iftm.tmgrup.com.tr/2026/03/19/galatasaraya-transferde-yildiz-yagmuru-iste-listedeki-3-isim-1773872330025.jpeg",
-      "published": "2026-03-20T03:50:26",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
+      "title": "Zorgen om Memphis op dag van bekendmaking Oranje-selectie",
+      "summary": "Memphis Depay ontbrak vrijdag in de uitwedstrijd tegen Chapecoense. De 32-jarige aanvaller van Corinthians blijkt al een tijdje met een pijnlijke knie te spelen en werd uit voorzorg aan de kant gehouden. Het is de vraag in hoeverre dat gevolgen heeft voor de interlandperiode met het Nederlands elfta",
+      "url": "https://www.vi.nl/nieuws/zorgen-om-memphis-op-dag-van-bekendmaking-oranje-selectie",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/20/f631c1ea860ed6dcee36c35f2377c44275168298.jpg?width=1200",
+      "published": "2026-03-20T06:23:31",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-20T05:46:14.726195",
-      "priority_score": 49,
+      "fetched_at": "2026-03-20T06:45:18.657507",
+      "priority_score": 47,
       "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-03-20T05:47:15.177902",
-      "title_tr": "Galatasaray'a transferde yıldız yağmuru! İşte listedeki 3 isim",
-      "summary_tr": "Yaz transfer dönemi için temaslarını sıklaştıran Galatasaray, listenin üst sıralarına üç dünya yıldızı ismi yazdı. Sarı-kırmızılılar; Bayern Münih'ten ayrılması beklenen Leon Goretzka, Inter'le sözleşme...Devamı için tıklayınız"
+      "processed_at": "2026-03-20T06:45:22.337907",
+      "title_tr": "Hollanda seçiminin açıklandığı gün Memphis ile ilgili endişeler",
+      "summary_tr": "Memphis Depay, Cuma günü Chapecoense ile deplasmanda oynanan maçta forma giyemedi. 32 yaşındaki Corinthians saldırganının bir süredir ağrıyan diziyle oynadığı ve tedbir amacıyla kenarda tutulduğu görülüyor. Sorun bunun Hollanda milli takımıyla oynanacak uluslararası maç açısından ne ölçüde sonuçları olacağıdır."
     },
     {
       "title": "Britain's Jones beats idol WIlliams as 17-year-old Kouame breaks record",
@@ -218,34 +235,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:50.686391",
+      "fetched_at": "2026-03-20T06:41:53.755135",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-20T05:47:14.539691",
+      "processed_at": "2026-03-20T06:45:21.681596",
       "title_tr": "Britanyalı Jones, idol Williams'ı yenerken 17 yaşındaki Kouame rekor kırıyor",
       "summary_tr": "Büyük Britanyalı Fran Jones, perşembe günü Miami Open'ın ilk turunda idolü yedi kez Grand Slam şampiyonu Venus Williams'ı mağlup etti."
-    },
-    {
-      "title": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
-      "summary": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı.",
-      "url": "https://www.cnnturk.com/spor/futbol/noa-langtan-haber-var-ameliyat-sonrasi-ilk-paylasim-2408129",
-      "image_url": null,
-      "published": "2026-03-19T14:06:30",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-20T05:46:01.787010",
-      "priority_score": 46,
-      "categories": [
-        "injuries",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-20T05:47:15.030967",
-      "title_tr": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
-      "summary_tr": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı."
     },
     {
       "title": "Galatasaray, UEFA'dan hesap soracak!",
@@ -257,12 +254,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-20T05:45:35.960899",
+      "fetched_at": "2026-03-20T06:43:46.023872",
       "priority_score": 41,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:14.797191",
+      "processed_at": "2026-03-20T06:45:21.939225",
       "title_tr": "Galatasaray, UEFA'dan hesap soracak!",
       "summary_tr": "Galatasaray, Noa Lang'in sakatlanmasına yol açan saha koşullarını uluslararası platforma taşıdı."
     },
@@ -276,15 +273,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.832343",
+      "fetched_at": "2026-03-20T06:42:17.194313",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.625840",
+      "processed_at": "2026-03-20T06:45:21.756917",
       "title_tr": "Carrick, Manchester United'ın Newcastle yenilgisinden sonra yönetime öfke duyduğunu itiraf etti",
       "summary_tr": "Manchester United başantrenörü 'agresif' duygularını itiraf etti Hollandalı defans oyuncusu De Ligt sezonun geri kalanını kaçırabilirMichael Carrick, Manchester United oyuncularına kızdığını itiraf etti ve bunun Newcastle'daki geç yenilginin ardından yaşanan duygu olduğunu söyledi.United, St James' Park'ta 2-1 mağlup oldu"
+    },
+    {
+      "title": "Galatasaray'dan Lang ve Osimhen açıklaması!",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap",
+      "url": "https://www.haberturk.com/galatasaray-son-durumu-acikladi-osimhende-kirik-tespit-edildi-lang-ameliyat-oldu-3870867-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/19/ver1773914824/3870867/jpg/1280x1280",
+      "published": "2026-03-19T10:07:03",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T06:43:34.879730",
+      "priority_score": 58,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T06:45:21.888556",
+      "title_tr": "Galatasaray'dan Lang ve Osimhen açıklaması!",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında İngiltere temsilcisi Liverpool ile deplasmanda yapılan maçta sakatlanan futbolculardan Victor Osimhen'in kolunda kırık tespit edildiğini, başparmağında ciddi kesik oluşan Noa Lang'ın ise ameliyata alınacağını açıkladı. Noa Lang hastaneden yap"
     },
     {
       "title": "Adams to miss Bournemouth clash with Man Utd",
@@ -296,15 +314,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:35.999374",
+      "fetched_at": "2026-03-20T06:41:34.680000",
       "priority_score": 55,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.475994",
+      "processed_at": "2026-03-20T06:45:21.610324",
       "title_tr": "Adams, Manchester Utd ile Bournemouth karşılaşmasını kaçıracak",
       "summary_tr": "Bournemouth orta saha oyuncusu Tyler Adams, kuadriseps sakatlığı nedeniyle Cuma günü Manchester United'a karşı oynanacak Premier Lig maçını kaçıracak."
+    },
+    {
+      "title": "Listen: James Milner - The Football Interview",
+      "summary": "Kelly Somers speaks to Brighton midfielder James Milner.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0n798kw?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-20T06:00:00",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-20T06:41:42.243183",
+      "priority_score": 55,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-20T06:45:21.646013",
+      "title_tr": "Dinle: James Milner - Futbol Röportajı",
+      "summary_tr": "Kelly Somers, Brighton orta saha oyuncusu James Milner ile konuşuyor."
     },
     {
       "title": "Striking gambit: Erling Haaland invests in new world chess championship",
@@ -316,12 +353,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.833835",
+      "fetched_at": "2026-03-20T06:42:17.196031",
       "priority_score": 53,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-20T05:47:14.658489",
+      "processed_at": "2026-03-20T06:45:21.788703",
       "title_tr": "Çarpıcı kumar: Erling Haaland yeni dünya satranç şampiyonasına yatırım yapıyor",
       "summary_tr": "Dünyanın 1 numarası olan Norveçli yurttaşı Magnus Carlsen, \"Futbolla açık benzerlikler var\" diyor. Guardian, Erling Haaland'ın, Norveçli arkadaşı Magnus Carlsen'in başrolde oynaması beklenen yeni bir dünya satranç şampiyonası turu için önemli bir yatırımcı haline geldiğini ortaya çıkarabilir."
     },
@@ -335,14 +372,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-20T05:46:01.787165",
+      "fetched_at": "2026-03-20T06:44:10.327276",
       "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:15.040730",
+      "processed_at": "2026-03-20T06:45:22.238816",
       "title_tr": "Galatasaray Şampiyonlar Ligi’nden ne kadar kazandı?",
       "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool karşısında aldığı 4-0’lık mağlubiyetle turnuvaya veda etti. İlk maçı 1-0 kazanan sarı-kırmızılı ekip, deplasmanda ağır bir yenilgi alarak çeyrek final şansını kaybetti."
     },
@@ -356,12 +393,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.831134",
+      "fetched_at": "2026-03-20T06:42:17.192933",
       "priority_score": 48,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-20T05:47:14.606514",
+      "processed_at": "2026-03-20T06:45:21.738167",
       "title_tr": "Sarr, Crystal Palace'ın dokuz kişilik Larnaka karşısında uzatmalarda galibiyet almasına yardımcı oldu",
       "summary_tr": "Crystal Palace'ın Avrupa rekabetinin ilk tadı onları şimdiden Norveç, Polonya, Fransa, İrlanda ve Kıbrıs'a götürdü. Ismaïla Sarr, bu müsabakadaki önceki yedi maçında sadece bir kez gol yiyen inatçı Larnaka savunmasını nihayet kırdıktan sonra, daha fazla büyüye ihtiyaçları vardı."
     },
@@ -375,15 +412,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.834226",
+      "fetched_at": "2026-03-20T06:42:17.196491",
       "priority_score": 48,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:14.666764",
+      "processed_at": "2026-03-20T06:45:21.796689",
       "title_tr": "Van Dijk, Galatasaray yenilgisinden sonra Liverpool ile taraftarlar arasındaki bağın bozulmadığını söyledi",
       "summary_tr": "'Hayal kırıklığı var çünkü geçen yıl muhteşemdi'Galatasaray, Lang'in sakatlanmasının ardından UEFA'yı dava etme tehdidinde bulunduVirgil van Dijk, Arne Slot'un Liverpool'u ile Kop arasındaki bağlantının sağlam kaldığını söyledi ve Galatasaray'ın yenilgisini, bir arada kalarak neler başarabileceklerinin kanıtı olarak gösterdi."
+    },
+    {
+      "title": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
+      "summary": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı.",
+      "url": "https://www.cnnturk.com/spor/futbol/noa-langtan-haber-var-ameliyat-sonrasi-ilk-paylasim-2408129",
+      "image_url": null,
+      "published": "2026-03-19T14:06:30",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-20T06:44:10.327098",
+      "priority_score": 46,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-20T06:45:22.228414",
+      "title_tr": "Noa Lang'tan haber var! Ameliyat sonrası ilk paylaşım...",
+      "summary_tr": "Galatasaray'ın yıldız futbolcusu Noa Lang, Liverpool ile oynanan karşılaşmada yaşadığı sakatlığın ardından ameliyat oldu ve hastaneden açıklama yaptı."
     },
     {
       "title": "Premier League set to amend spending rules to give clubs more flexibility for transfers",
@@ -395,35 +452,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.831479",
+      "fetched_at": "2026-03-20T06:42:17.193327",
       "priority_score": 43,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.614516",
+      "processed_at": "2026-03-20T06:45:21.746174",
       "title_tr": "Premier League, kulüplere transferlerde daha fazla esneklik sağlamak için harcama kurallarını değiştirmeye hazırlanıyor",
       "summary_tr": "Kulüpler, 2027-28 sezonuna kadar uzatılan deplasman biletleri için 30 sterlinlik kadro maliyet oranı ödeneğini devredebilir. Premier Lig, kulüplere transfer pazarında daha fazla esneklik sağlamak için yeni harcama kurallarını gelecek sezon uygulanmadan önce değiştirmeye hazırlanıyor.Kadro maliyet oranı altında (SCR)"
-    },
-    {
-      "title": "Hallgrimsson extends Ireland contract as uncapped Vale called up for WC play-offs",
-      "summary": "Uncapped Harvey Vale has been named in the Republic of Ireland’s squad for the World Cup play-offs.",
-      "url": "https://www.skysports.com/football/news/12040/13521839/republic-of-ireland-harvey-vale-called-up-for-world-cup-play-offs-as-heimir-hallgrimsson-signs-new-contract",
-      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-football-heimir-hallgrimsson_7197554.jpg?20260319165659",
-      "published": "2026-03-19T16:12:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-20T05:43:50.687000",
-      "priority_score": 41,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-20T05:47:14.579493",
-      "title_tr": "Hallgrimsson, Vale'in Dünya Kupası play-off'ları için çağrılmasıyla İrlanda'nın sözleşmesini uzattı",
-      "summary_tr": "Uncapped Harvey Vale, İrlanda Cumhuriyeti'nin Dünya Kupası play-off kadrosuna seçildi."
     },
     {
       "title": "İlk 15 dakikalarda en çok gol Beşiktaş'tan!",
@@ -435,13 +472,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-20T05:45:35.960832",
+      "fetched_at": "2026-03-20T06:43:46.023801",
       "priority_score": 41,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-20T05:47:14.791854",
+      "processed_at": "2026-03-20T06:45:21.933516",
       "title_tr": "İlk 15 dakikalarda en çok gol Beşiktaş'tan!",
       "summary_tr": "Beşiktaş, Süper Lig'deki maçların ilk çeyreklerinde 10. kez ağları sarstı."
     },
@@ -455,13 +492,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:35.999527",
+      "fetched_at": "2026-03-20T06:41:34.680179",
       "priority_score": 40,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-03-20T05:47:14.476688",
-      "title_tr": "Neymar'ın Santos'u yeni teknik direktörü olarak Cuca'yı atadı",
+      "processed_at": "2026-03-20T06:45:21.611045",
+      "title_tr": "Neymar'ın Santos'u yeni teknik direktör olarak Cuca'yı atadı",
       "summary_tr": "Cuca dördüncü kez Santos'a döndü ve Juan Pablo Vojvoda'nın görevden alınmasından birkaç saat sonra teknik direktörlük görevini devraldı."
     },
     {
@@ -474,13 +511,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:35.999830",
+      "fetched_at": "2026-03-20T06:41:34.680536",
       "priority_score": 40,
       "categories": [
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.478867",
+      "processed_at": "2026-03-20T06:45:21.613276",
       "title_tr": "Şampiyonlar Ligi çeyrek final önizlemesi, tahminler: Barselona ilerlemeye devam edecek mi?",
       "summary_tr": "Rutin son 16 turunun ardından UEFA Şampiyonlar Ligi bize, Barselona'nın Atletico Madrid'le karşılaşması da dahil olmak üzere dört inanılmaz çeyrek final şansı verdi. Bill Connelly eylemi önizliyor ve tahmin ediyor."
     },
@@ -494,13 +531,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:35.999977",
+      "fetched_at": "2026-03-20T06:41:34.680717",
       "priority_score": 40,
       "categories": [
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.480730",
+      "processed_at": "2026-03-20T06:45:21.615048",
       "title_tr": "UCL'in konuşma noktaları: Arsenal favori mi? Madrid'i silecek kadar oynayan var mı?",
       "summary_tr": "UCL son 16 turu tamamlanıp tozlandıktan sonra, ESPN uzmanları aksiyonu ve bunun ne anlama geldiğini ayrıntılarıyla anlatıyor."
     },
@@ -514,34 +551,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:36.000435",
+      "fetched_at": "2026-03-20T06:41:34.681231",
       "priority_score": 40,
       "categories": [
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-03-20T05:47:14.486798",
+      "processed_at": "2026-03-20T06:45:21.620497",
       "title_tr": "Carabao finalini Arsenal mi yoksa Man City mi kazanır? Madrid derbisine kim gider?",
       "summary_tr": "İngiltere'deki kupa finalinden Madrid derbisine ve küme düşmeden altı sayılık atışlara kadar, Julien Laurens Avrupa'da izlenecek en iyi maçları seçerken, aksiyon dolu bir hafta sonu daha sizi bekliyor."
-    },
-    {
-      "title": "Farewell number 18, hello number six - inside Man Utd's midfielder hunt",
-      "summary": "Senior football correspondent Sami Mokbel breaks down Manchester United's search for a new midfielder to replace the outgoing Casemiro.",
-      "url": "https://www.bbc.com/sport/football/articles/czxr6dzr606o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-19T14:50:46",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-20T05:43:40.005645",
-      "priority_score": 40,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-20T05:47:14.505564",
-      "title_tr": "18 numaraya elveda, altı numaraya merhaba - Man Utd'un orta saha oyuncusu avında",
-      "summary_tr": "Kıdemli futbol muhabiri Sami Mokbel, Manchester United'ın giden Casemiro'nun yerine yeni bir orta saha oyuncusu arayışını ayrıntılarıyla anlatıyor."
     },
     {
       "title": "Man Utd & Real Madrid want Guimaraes - Friday's gossip",
@@ -553,55 +571,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:40.005942",
+      "fetched_at": "2026-03-20T06:41:42.242154",
       "priority_score": 40,
       "categories": [
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-03-20T05:47:14.510881",
+      "processed_at": "2026-03-20T06:45:21.630547",
       "title_tr": "Man Utd ve Real Madrid Guimaraes'i istiyor - Cuma günkü dedikodular",
       "summary_tr": "Newcastle United'dan Bruno Guimaraes, Manchester United ve Real Madrid tarafından aranıyor, Tottenham kaptanı Cristian Romero ise bir hamle ve daha fazlasıyla ilgili söylentileri önemsemiyor."
     },
     {
-      "title": "'I'd love her to be here' - Fernandez on Putellas friendship and London City",
-      "summary": "London City Lionesses and Spain defender Jana Fernandez talks to Alex Scott about adjusting to life in the WSL after moving from Barcelona, in a new episode of Eat & Yap which you can watch in full on BBC iPlayer.",
-      "url": "https://www.bbc.com/sport/videos/c5yw88dn1yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Farewell number 18, hello number six - inside Man Utd's midfielder hunt",
+      "summary": "Senior football correspondent Sami Mokbel breaks down Manchester United's search for a new midfielder to replace the outgoing Casemiro.",
+      "url": "https://www.bbc.com/sport/football/articles/czxr6dzr606o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-19T11:40:17",
+      "published": "2026-03-19T14:50:46",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-20T05:43:40.006283",
+      "fetched_at": "2026-03-20T06:41:42.242850",
       "priority_score": 40,
       "categories": [
-        "la_liga"
+        "premier_league"
       ],
-      "processed_at": "2026-03-20T05:47:14.517266",
-      "title_tr": "'Onun burada olmasını isterdim' - Fernandez, Putella'nın dostluğu ve London City hakkında",
-      "summary_tr": "London City Lionesses ve İspanya savunma oyuncusu Jana Fernandez, BBC iPlayer'da tamamını izleyebileceğiniz Eat & Yap'ın yeni bölümünde Alex Scott ile Barselona'dan taşındıktan sonra WSL'deki hayata uyum sağlama hakkında konuşuyor."
-    },
-    {
-      "title": "It’s a knockout: why are there so many goals in the Champions League? | Jonathan Wilson",
-      "summary": "Theories range from obvious mismatches to Premier League clubs not being able to defend from open playThere were 68 goals in the last 16 of the Champions League, which is not only a lot but goes against the trend of the previous four seasons. What’s going on? Has football suddenly become more attack",
-      "url": "https://www.theguardian.com/football/2026/mar/19/champions-league-goals-premier-league-arsenal-chelsea-liverpool-newcastle-tottenham-manchester-city",
-      "image_url": null,
-      "published": "2026-03-19T19:30:00",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-20T05:44:13.833012",
-      "priority_score": 38,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-20T05:47:14.641824",
-      "title_tr": "Bu bir nakavt: Şampiyonlar Ligi'nde neden bu kadar çok gol var? | Jonathan Wilson",
-      "summary_tr": "Teoriler bariz uyumsuzluklardan Premier Lig kulüplerinin açık oyunda savunma yapamamasına kadar uzanıyor. Şampiyonlar Ligi'nin son 16 maçında 68 gol atıldı. Bu sadece çok fazla değil, aynı zamanda önceki dört sezondaki trende de aykırı. Neler oluyor? Futbol birdenbire daha fazla hücuma mı dönüştü?"
+      "processed_at": "2026-03-20T06:45:21.640607",
+      "title_tr": "18 numaraya elveda, altı numaraya merhaba - Man Utd'un orta saha oyuncusu avında",
+      "summary_tr": "Kıdemli futbol muhabiri Sami Mokbel, Manchester United'ın giden Casemiro'nun yerine yeni bir orta saha oyuncusu arayışını ayrıntılarıyla anlatıyor."
     }
   ]
 }
