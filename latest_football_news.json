@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-03-21T22:19:13.558925",
+  "timestamp": "2026-03-21T23:20:10.287003",
   "total_items": 30,
   "news": [
+    {
+      "title": "European football: Bayern Munich hammer Union Berlin to close on records",
+      "summary": "Bayern within four of best goals tally of 101 after 4-0 winKane up to 31 goals, 10 short of Lewandowski’s markBayern Munich scored three times in seven minutes to cruise past Union Berlin 4-0 in the Bundesliga on Saturday to stay clear at the top while edging closer to an all-time club scoring recor",
+      "url": "https://www.theguardian.com/football/2026/mar/21/bayern-munich-borussia-dortmund-milan-juventus-psg",
+      "image_url": null,
+      "published": "2026-03-21T22:32:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:16:06.490043",
+      "priority_score": 93,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-21T23:19:01.118242",
+      "title_tr": "Avrupa futbolu: Bayern Münih Union Berlin'i rekorlara kapattı",
+      "summary_tr": "Bayern, 4-0'lık galibiyetten sonra en iyi dört gol arasında 101'lik skorla Kane 31 gol attı, Lewandowski'nin hedefinden 10 gol azBayern Münih, cumartesi günü Bundesliga'da Union Berlin'i 4-0 yenerek yedi dakikada üç gol atarak zirvede yer aldı ve tüm zamanların kulüp rekoruna yaklaştı."
+    },
     {
       "title": "Bundesliga Matchday 27 video highlights",
       "summary": "Bayern Munich brushed aside Union Berlin, and RB Leipzig thrashed UEFA Champions League rivals TSG Hoffenheim as a host of goals were scored across the weekend's matches.",
@@ -12,36 +32,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-21T22:15:02.387493",
+      "fetched_at": "2026-03-21T23:16:29.961088",
       "priority_score": 86,
       "categories": [
         "match_results",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-21T22:17:35.906494",
+      "processed_at": "2026-03-21T23:19:01.170028",
       "title_tr": "Bundesliga 27. Maçın öne çıkan videoları",
       "summary_tr": "Bayern Münih, Union Berlin'i kenara itti ve RB Leipzig, hafta sonu maçlarında atılan gollerle UEFA Şampiyonlar Ligi'ndeki rakipleri TSG Hoffenheim'ı mağlup etti."
-    },
-    {
-      "title": "European football: Bayern Munich hammer Union Berlin to close on records",
-      "summary": "Bayern within four of best goals tally of 101 after 4-0 winKane up to 31 goals, 10 short of Lewandowski’s markBayern Munich scored three times in seven minutes to cruise past Union Berlin 4-0 in the Bundesliga on Saturday to stay clear at the top while edging closer to an all-time club scoring recor",
-      "url": "https://www.theguardian.com/football/2026/mar/21/bayern-munich-borussia-dortmund-milan-juventus-psg",
-      "image_url": null,
-      "published": "2026-03-21T20:45:09",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:14:39.836308",
-      "priority_score": 83,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-21T22:17:35.846867",
-      "title_tr": "Avrupa futbolu: Bayern Münih, Union Berlin'i rekorlara kapattı",
-      "summary_tr": "Bayern, 4-0'lık galibiyetten sonra en iyi dört gol arasında 101'lik skorla Kane 31 gol attı, Lewandowski'nin hedefinden 10 gol azBayern Münih, cumartesi günü Bundesliga'da Union Berlin'i 4-0 yenerek yedi dakikada üç gol atarak zirvede yer aldı ve tüm zamanların kulüp rekoruna yaklaştı."
     },
     {
       "title": "Kerr wins Worlds Indoor gold for GB as Hodgkinson books spot in final",
@@ -53,14 +53,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:18.306400",
+      "fetched_at": "2026-03-21T23:15:43.773503",
       "priority_score": 81,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-03-21T22:17:35.733756",
-      "title_tr": "Hodgkinson finalde yer alırken Kerr, Büyük Britanya için Worlds Indoor'da altın madalya kazandı",
+      "processed_at": "2026-03-21T23:19:01.003078",
+      "title_tr": "Hodgkinson finalde yer alırken Kerr, Büyük Britanya için World Indoors altın madalyasını kazandı",
       "summary_tr": "Josh Kerr, Polonya'da düzenlenen Dünya Salon Atletizm Şampiyonası'nda Büyük Britanya adına altın madalya kazanarak, iki yıl önce Glasgow'da kazandığı erkekler 3000 metre şampiyonluğunu geri aldı."
     },
     {
@@ -73,13 +73,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.136929",
+      "fetched_at": "2026-03-21T23:15:26.777044",
       "priority_score": 80,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-03-21T22:17:35.678955",
+      "processed_at": "2026-03-21T23:19:00.937242",
       "title_tr": "Pulisic, Milan'ın Inter ile aradaki farkı kapatmasıyla kuraklığa son verdi",
       "summary_tr": "Christian Pulisic, 2026'daki ilk gol katkısını AC Milan'ın ikinci yarıda vites değiştirerek Cumartesi günü Torino'yu 3-2 yenmesiyle kaydetti."
     },
@@ -93,35 +93,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:16:24.272816",
+      "fetched_at": "2026-03-21T23:17:55.150680",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-03-21T22:17:36.446131",
+      "processed_at": "2026-03-21T23:19:01.720764",
       "title_tr": "Bonservisi Galatasaray'daydı! Udinese'den Nicolo Zaniolo kararı...",
       "summary_tr": "Galatasaray'ın İtalyan yıldızı Nicolo Zaniolo, Udinese'deki başarılı performansıyla kalıcı transfer yolunda ilerliyor. Sarı-kırmızılılardan sezon başında kiralık olarak giden 26 yaşındaki oyuncu, İtalyan ekibinin satın alma opsiyonunu devreye sokacağı iddialarıyla gündeme oturdu."
-    },
-    {
-      "title": "Transfer rumors, news: Arsenal, Man City, Man United all after Tonali",
-      "summary": "Newcastle midfielder Sandro Tonali is a target for Premier League giants Arsenal, Manchester City and Manchester United. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48266578/transfer-rumors-news-arsenal-manchester-city-manchester-united-newcastle-sandro-tonali",
-      "image_url": null,
-      "published": "2026-03-21T21:28:14",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.138196",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-21T22:17:35.684844",
-      "title_tr": "Transfer söylentileri, haberler: Tonali'den sonra Arsenal, Manchester City ve Manchester United",
-      "summary_tr": "Newcastle'ın orta saha oyuncusu Sandro Tonali, Premier Lig devleri Arsenal, Manchester City ve Manchester United'ın hedefi. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "Shaw hat-trick helps Man City to convincing win against Spurs",
@@ -133,13 +113,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.893705",
+      "fetched_at": "2026-03-21T23:15:31.894221",
       "priority_score": 70,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-03-21T22:17:35.701658",
+      "processed_at": "2026-03-21T23:19:00.979594",
       "title_tr": "Shaw hat-trick'i Manchester City'nin Spurs karşısında ikna edici bir galibiyet almasına yardımcı oldu",
       "summary_tr": "Manchester City, Tottenham Hotspur'u 5-2 yenerken, Bunny Shaw 21 dakikada hat-trick yaparak rekor kırdı."
     },
@@ -153,35 +133,75 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-21T22:15:02.395238",
+      "fetched_at": "2026-03-21T23:16:29.968969",
       "priority_score": 66,
       "categories": [
         "transfers",
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-03-21T22:17:35.990401",
+      "processed_at": "2026-03-21T23:19:01.257405",
       "title_tr": "Emre Can, Borussia Dortmund'la sözleşmesini bir yıl daha uzattı",
       "summary_tr": "Geçtiğimiz ay Der Klassiker'de uzun süreli sakatlık yaşamasına rağmen Emre Can'ın Borussia Dortmund ile olan sözleşmesi Haziran 2027'ye kadar bir yıl daha uzatıldı."
     },
     {
-      "title": "Liverpool struggling because of lack of players - Slot",
-      "summary": "Liverpool boss Arne Slot says injuries and lack of options in his squad is one of the reasons they are \"struggling\" following their 2-1 defeat by Brighton & Hove Albion, with injury to Hugo Ekitike adding to the absences of Mohamed Salah and Alexander Isak.",
-      "url": "https://www.bbc.com/sport/football/videos/cd6lypjvd7go?at_medium=RSS&at_campaign=rss",
+      "title": "Jiménez in tears after 1st goal since father's death",
+      "summary": "Mexico striker Raúl Jiménez was reduced to tears on Saturday after scoring his first goal since the death of his father last week.",
+      "url": "https://www.espn.com/soccer/story/_/id/48269693/mexico-fulham-raul-jimenez-tears-goal-father-death",
       "image_url": null,
-      "published": "2026-03-21T15:33:57",
-      "source": "BBC Sport Football",
+      "published": "2026-03-21T22:44:07",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.894394",
-      "priority_score": 60,
+      "fetched_at": "2026-03-21T23:15:26.777221",
+      "priority_score": 65,
       "categories": [
-        "injuries"
+        "breaking_news"
       ],
-      "processed_at": "2026-03-21T22:17:35.710385",
-      "title_tr": "Liverpool oyuncu eksikliği yüzünden zor durumda - Slot",
-      "summary_tr": "Liverpool patronu Arne Slot, Brighton & Hove Albion'a 2-1 mağlup olmalarının ardından \"zorlanmalarının\" nedenlerinden birinin sakatlıklar ve kadrosundaki seçenek eksikliği olduğunu, Hugo Ekiike'nin sakatlığının da Mohamed Salah ve Alexander Isak'ın yokluğuna eklendiğini söyledi."
+      "processed_at": "2026-03-21T23:19:00.937751",
+      "title_tr": "Jiménez, babasının ölümünden bu yana attığı ilk golün ardından gözyaşlarına boğuldu",
+      "summary_tr": "Meksikalı forvet Raúl Jiménez, geçen hafta babasının ölümünden bu yana ilk golünü attıktan sonra Cumartesi günü gözyaşlarına boğuldu."
+    },
+    {
+      "title": "‘It’s not good enough’: Slot feels the pressure after Liverpool’s loss at Brighton",
+      "summary": "Manager defends club’s spending record in dig at critics‘We need to make sure we qualify for Champions League’Arne Slot has defended Liverpool’s spending record but admitted the pressure was now on to qualify for the Champions League.Their chances of making the top five – likely enough to qualify – ",
+      "url": "https://www.theguardian.com/football/2026/mar/21/arne-slot-brighton-liverpool-premier-league",
+      "image_url": null,
+      "published": "2026-03-21T17:40:58",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:16:06.487340",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-21T23:19:01.071875",
+      "title_tr": "'Yeterince iyi değil': Slot, Liverpool'un Brighton'daki yenilgisinin ardından baskıyı hissediyor",
+      "summary_tr": "Yönetici, eleştirmenlere karşı kulübün harcama rekorunu savunuyor: \"Şampiyonlar Ligi'ne katılmaya hak kazandığımızdan emin olmalıyız\" Arne Slot, Liverpool'un harcama rekorunu savundu ancak Şampiyonlar Ligi'ne katılmaya hak kazanma konusunda baskının artık devam ettiğini itiraf etti. İlk beşe girme şansları - büyük ihtimalle turnuvaya katılmaya yetecek kadar -"
+    },
+    {
+      "title": "PSG, 2. yarıda farka koştu!",
+      "summary": "Fransa Ligue 1'in 27. haftasında PSG, deplasmanda Nice'i 4-0 mağlup etti. 42'de Nuno Mendes'in penaltıdan attığı golle ilk yarıyı 1-0 önde tamamlayan PSG, 2. yarıda Desire Doue, Dro Fernandez ve Warren Zeire Emery'nin golleriyle farklı kazandı. Bu sonuçla beraber lider PSG puanını 60'a çıkarırken, 6",
+      "url": "https://www.haberturk.com/nice-0-psg-4-mac-sonucu-3871413-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/22/ver1774130920/3871413/jpg/1280x1280",
+      "published": "2026-03-21T22:09:15",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:17:23.612087",
+      "priority_score": 73,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-21T23:19:01.307234",
+      "title_tr": "PSG, 2. yarıda farka koştu!",
+      "summary_tr": "Fransa Ligue 1'in 27. haftasında PSG, deplasmanda Nice'i 4-0 mağlup etti. 42'de Nuno Mendes'in penaltıdan attığı golle ilk yarıyı 1-0 önde tamamlayan PSG, 2. yarıda Desire Doue, Dro Fernandez ve Warren Zeire Emery'nin golleriyle farklı kazandı. Bu sonuçla beraber lider PSG puanını 60'a çıkarırken, 6"
     },
     {
       "title": "Gol düellosunda kazanan Milan!",
@@ -193,15 +213,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:15:49.667645",
+      "fetched_at": "2026-03-21T23:17:23.612544",
       "priority_score": 73,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-03-21T22:17:36.067549",
+      "processed_at": "2026-03-21T23:19:01.342752",
       "title_tr": "Gol düellosunda kazanan Milan!",
       "summary_tr": "İtalya Serie A'nın 30. haftasında Milan sahasında Torino'yu ağırladı. 5 gol çıkan mücadeleyi ev sahibi ekip 3-2 kazandı ve zirve takibini sürdürdü."
+    },
+    {
+      "title": "Arsenal winning Carabao Cup could mark end of Man City golden era",
+      "summary": "Sunday's Carabao Cup final could help tell us whether Arsenal can win the Premier League or if this might be the end for Pep Guardiola at Man City.",
+      "url": "https://www.espn.com/soccer/story/_/id/48259278/arsenal-winning-carabao-cup-mark-end-pep-guardiola-manchester-city-golden-era",
+      "image_url": null,
+      "published": "2026-03-21T23:34:05",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:15:26.776095",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-21T23:19:00.935669",
+      "title_tr": "Arsenal'in Carabao Kupası'nı kazanması Manchester City'nin altın çağının sonu olabilir",
+      "summary_tr": "Pazar günkü Carabao Kupası finali, Arsenal'in Premier Lig'i kazanıp kazanamayacağını veya bunun Manchester City'de Pep Guardiola'nın sonu olup olmayacağını anlamamıza yardımcı olabilir."
     },
     {
       "title": "Wrexham hail 'one of their best wins' in 5 years",
@@ -213,14 +253,73 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.136741",
+      "fetched_at": "2026-03-21T23:15:26.776850",
       "priority_score": 70,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-21T22:17:35.678390",
+      "processed_at": "2026-03-21T23:19:00.936727",
       "title_tr": "Wrexham, 5 yıldaki 'en iyi galibiyetlerinden birini' selamladı",
       "summary_tr": "Wrexham'ın teknik direktör yardımcısı Steve Parkin, Sheffield United karşısında aldıkları 2-1 geriden gelme galibiyetini Phil Parkinson'un saltanatının en büyük sonuçlarından biri olarak nitelendirdi."
+    },
+    {
+      "title": "Watch: Match of the Day",
+      "summary": "Highlights from five Premier League games, including Everton v Chelsea.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-22T09:00:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:15:31.892140",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-21T23:19:00.949725",
+      "title_tr": "İzle: Günün Maçı",
+      "summary_tr": "Everton-Chelsea maçı da dahil olmak üzere beş Premier Lig maçından önemli anlar."
+    },
+    {
+      "title": "Welbeck scores twice as Brighton beat Liverpool",
+      "summary": "Danny Welbeck scores his 11th and 12th Premier League goals of the season, as Brighton & Hove Albion inflict more misery on Liverpool.",
+      "url": "https://www.bbc.com/sport/football/videos/clyjgjkppgno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-21T22:31:28",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:15:31.892690",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-21T23:19:00.955411",
+      "title_tr": "Brighton, Liverpool'u yenerken Welbeck iki gol attı",
+      "summary_tr": "Brighton & Hove Albion, Liverpool'u daha da perişan ederken, Danny Welbeck bu sezon Premier Lig'deki 11. ve 12. gollerini attı."
+    },
+    {
+      "title": "'Not just goals, he's a great connecter' - should Welbeck be in England squad?",
+      "summary": "Danny Welbeck scores two goals against Liverpool on Saturday to take his tally for the season to 12 - one day after he was left out of Thomas Tuchel's England squad.",
+      "url": "https://www.bbc.com/sport/football/articles/c2k3dqjz55do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-21T22:54:34",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:15:31.893716",
+      "priority_score": 70,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-21T23:19:00.970551",
+      "title_tr": "'Sadece gol atmak değil, aynı zamanda harika bir bağlantı da sağlıyor' - Welbeck İngiltere kadrosunda olmalı mı?",
+      "summary_tr": "Danny Welbeck, Thomas Tuchel'in İngiltere kadrosundan çıkarılmasından bir gün sonra Cumartesi günü Liverpool'a karşı iki gol atarak sezondaki puanını 12'ye çıkardı."
     },
     {
       "title": "Kane & Olise score as Bayern beat Union Berlin",
@@ -232,35 +331,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.894049",
+      "fetched_at": "2026-03-21T23:15:31.894555",
       "priority_score": 70,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-03-21T22:17:35.705840",
+      "processed_at": "2026-03-21T23:19:00.985600",
       "title_tr": "Kane ve Olise, Bayern'in Union Berlin'i yendiği maçta gol attı",
       "summary_tr": "Bayern Münih, Union Berlin'i dört golle geçti; Harry Kane'in Bundesliga tek sezonluk gol rekorunun 10'una giren golü de dahil."
-    },
-    {
-      "title": "Kenan'ın golü Juventus'a yetmedi!",
-      "summary": "İtalya Serie A'nın 30. haftasında Juventus sahasında Sassuolo'yla mücadele etti. Mücadele iki takımın karşılıklı golleriyle 1-1 eşitlikle sona erdi.",
-      "url": "https://www.haberturk.com/juventus-1-sassuolo-1-mac-sonucu-kenan-yildiz-in-golu-juve-ye-yetmedi-3871410-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/22/ver1774128786/3871410/jpg/1280x1280",
-      "published": "2026-03-21T21:42:10",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:15:49.667241",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-21T22:17:36.038693",
-      "title_tr": "Kenan'ın golü Juventus'a yetmedi!",
-      "summary_tr": "İtalya Serie A'nın 30. haftasında Juventus sahasında Sassuolo'yla mücadele etti. Mücadele iki takımın karşılıklı golleriyle 1-1 eşitlikle sona erdi."
     },
     {
       "title": "Welbeck, Liverpool'u yıktı!",
@@ -272,12 +351,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:15:49.668211",
+      "fetched_at": "2026-03-21T23:17:23.613125",
       "priority_score": 68,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-21T22:17:36.117566",
+      "processed_at": "2026-03-21T23:19:01.394466",
       "title_tr": "Welbeck, Liverpool'u yıktı!",
       "summary_tr": "İngiltere Premier Lig'in 31. haftasında Brighton sahasında Liverpool'u ağırladı. 3 gol çıkan mücadeleyi ev sahibi ekip 2-1 kazandı ve 3 puanı hanesine yazdırdı."
     },
@@ -291,114 +370,36 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:16:53.017880",
+      "fetched_at": "2026-03-21T23:18:24.982373",
       "priority_score": 67,
       "categories": [
         "match_results",
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-03-21T22:17:36.960891",
+      "processed_at": "2026-03-21T23:19:02.254791",
       "title_tr": "Victor Osimhen'den sakatlık itirafı: Liverpool maçında yaşadıklarını anlattı",
       "summary_tr": "Galatasaray’ın yıldız golcüsü Victor Osimhen, UEFA Şampiyonlar Ligi son 16 turu rövanşında Liverpool ile oynanan kritik..."
     },
     {
-      "title": "Serge Gnabry brace helps Bayern Munich ease past Union Berlin",
-      "summary": "Bayern Munich continued their march toward another Bundesliga title with a commanding 4-0 win over Union Berlin on Matchday 27, with goals from Michael Olise, Harry Kane, and Serge Gnabry (2) doing the damage.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-union-berlin-match-report-highlights-matchday-27-36558",
+      "title": "Transfer rumors, news: Arsenal, Man City, Man United all after Tonali",
+      "summary": "Newcastle midfielder Sandro Tonali is a target for Premier League giants Arsenal, Manchester City and Manchester United. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48266578/transfer-rumors-news-arsenal-manchester-city-manchester-united-newcastle-sandro-tonali",
       "image_url": null,
-      "published": "2026-03-21T16:25:52",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:15:02.393980",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-21T22:17:35.977162",
-      "title_tr": "Serge Gnabry desteği, Bayern Münih'in Union Berlin'i geçmesine yardımcı oldu",
-      "summary_tr": "Bayern Münih, 27. Maç gününde Union Berlin'i 4-0 yenerek Bundesliga şampiyonluğuna doğru ilerlemeye devam etti ve Michael Olise, Harry Kane ve Serge Gnabry'nin (2) golleri hasara yol açtı."
-    },
-    {
-      "title": "Kenan Yıldız tarihe geçti, Juventus evinde galibiyeti kaçırdı!",
-      "summary": "Milli futbolcumuz Kenan Yıldız'ın lig tarihine geçtiği maçta Juventus ile Sassuolo, İtalya Serie A'nın 30. haftasında 1-1 berabere kaldı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/kenan-yildiz-tarihe-gecti-juventus-evinde-galibiyeti-kacirdi-43133793",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69bf137f5b06fcb7fa32385f.jpg",
-      "published": "2026-03-21T21:53:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:16:04.926273",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-21T22:17:36.135906",
-      "title_tr": "Kenan Yıldız tarihe geçti, Juventus evinde galibiyeti kaçırdı!",
-      "summary_tr": "Milli futbolcumuz Kenan Yıldız'ın lig tarihine geçtiği maçta Juventus ile Sassuolo, İtalya Serie A'nın 30. haftasında 1-1 berabere kaldı."
-    },
-    {
-      "title": "Jiménez in tears after 1st goal since father's death",
-      "summary": "Mexico striker Raúl Jiménez was reduced to tears on Saturday after scoring his first goal since the death of his father last week.",
-      "url": "https://www.espn.com/soccer/story/_/id/48269693/mexico-fulham-raul-jimenez-tears-goal-father-death",
-      "image_url": null,
-      "published": "2026-03-21T22:44:07",
+      "published": "2026-03-21T21:28:14",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.137105",
+      "fetched_at": "2026-03-21T23:15:26.778486",
       "priority_score": 65,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-21T22:17:35.679493",
-      "title_tr": "Jiménez, babasının ölümünden bu yana attığı ilk golün ardından gözyaşlarına boğuldu",
-      "summary_tr": "Meksikalı forvet Raúl Jiménez, geçen hafta babasının ölümünden bu yana ilk golünü attıktan sonra Cumartesi günü gözyaşlarına boğuldu."
-    },
-    {
-      "title": "Who's your first signing? Most annoying coach? Best city? ESPN's player survey﻿",
-      "summary": "LaLiga players answered ESPN's questions on everything from which one star they would sign for their team to those all-important EA FC player ratings.",
-      "url": "https://www.espn.com/soccer/story/_/id/48182439/laliga-confidential-spains-soccer-stars-take-espn-player-survey",
-      "image_url": null,
-      "published": "2026-03-21T21:26:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.138371",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-21T22:17:35.686718",
-      "title_tr": "İlk imzan kimle? En sinir bozucu antrenör? En iyi şehir? ESPN'in oyuncu anketi",
-      "summary_tr": "LaLiga oyuncuları, takımlarına hangi yıldızla imza atacaklarından, EA FC oyuncu reytinglerine kadar her konuda ESPN'in sorularını yanıtladı."
-    },
-    {
-      "title": "‘It’s not good enough’: Slot feels the pressure after Liverpool’s loss at Brighton",
-      "summary": "Manager defends club’s spending record in dig at critics‘We need to make sure we qualify for Champions League’Arne Slot has defended Liverpool’s spending record but admitted the pressure was now on to qualify for the Champions League.Their chances of making the top five – likely enough to qualify – ",
-      "url": "https://www.theguardian.com/football/2026/mar/21/arne-slot-brighton-liverpool-premier-league",
-      "image_url": null,
-      "published": "2026-03-21T17:40:58",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:14:39.834058",
-      "priority_score": 63,
       "categories": [
         "transfers",
-        "champions_league"
+        "premier_league"
       ],
-      "processed_at": "2026-03-21T22:17:35.810692",
-      "title_tr": "'Yeterince iyi değil': Slot, Liverpool'un Brighton'daki yenilgisinin ardından baskıyı hissediyor",
-      "summary_tr": "Yönetici, eleştirmenlere karşı kulübün harcama rekorunu savunuyor: \"Şampiyonlar Ligi'ne katılmaya hak kazandığımızdan emin olmalıyız\" Arne Slot, Liverpool'un harcama rekorunu savundu ancak Şampiyonlar Ligi'ne katılmaya hak kazanma konusunda baskının artık devam ettiğini itiraf etti. İlk beşe girme şansları - büyük ihtimalle turnuvaya katılmaya yetecek kadar -"
+      "processed_at": "2026-03-21T23:19:00.944716",
+      "title_tr": "Transfer söylentileri, haberler: Tonali'den sonra Arsenal, Manchester City ve Manchester United",
+      "summary_tr": "Newcastle'ın orta saha oyuncusu Sandro Tonali, Premier Lig devleri Arsenal, Manchester City ve Manchester United'ın hedefi. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "WSL roundup: Shaw’s 13-minute treble edges City closer to title as Chelsea falter",
@@ -410,7 +411,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:39.834804",
+      "fetched_at": "2026-03-21T23:16:06.488107",
       "priority_score": 63,
       "categories": [
         "match_results",
@@ -418,7 +419,7 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-03-21T22:17:35.825071",
+      "processed_at": "2026-03-21T23:19:01.086770",
       "title_tr": "WSL özeti: Chelsea'nin bocalaması nedeniyle Shaw'ın 13 dakikalık tiz performansı City'yi şampiyonluğa yaklaştırdı",
       "summary_tr": "Manchester City'nin forveti WSL'de en hızlı hat-trick'i yaptı Manchester United, sakatlık zamanı galibi Khadija Shaw'un ardından ikinci sırada yer alırken, lider Manchester City, Joie Stadı'nda Tottenham'ı 5-2 yenerken Kadınlar Süper Lig tarihindeki en hızlı hat-trick'i yaptı. Jamaikalı milli oyuncu bu başarıyı tamamladı"
     },
@@ -432,13 +433,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:39.838531",
+      "fetched_at": "2026-03-21T23:16:06.491932",
       "priority_score": 63,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-03-21T22:17:35.891612",
+      "processed_at": "2026-03-21T23:19:01.154393",
       "title_tr": "Japonya'nın sersemleticisi üçüncü Kadınlar Asya Kupası şampiyonluğunu kazanırken Matildas kalp kırıklığı yaşıyor",
       "summary_tr": "Japonya 1-0 Avustralya (Hamano 17) Sidney'de finalde Ev sahibi takım, çok sayıda gol girişimine rağmen başarısız oldu Son iki finalinde Japonya, Avustralya'yı 1-0 yenerek Cumartesi gecesi Sidney'de rekor bir seyirci önünde üçüncü Kadınlar Asya Kupası şampiyonluğunu kazandı. İlk yarıda muhteşem bir gol"
     },
@@ -452,34 +453,34 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-21T22:17:31.833336",
+      "fetched_at": "2026-03-21T23:18:58.834182",
       "priority_score": 62,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-21T22:17:37.203969",
-      "title_tr": "Pepi'nin Fulham'a milyonlarca dolarlık transferi iptal edildi",
+      "processed_at": "2026-03-21T23:19:02.546453",
+      "title_tr": "Pepi'nin Fulham'a milyon dolarlık transferi iptal oldu",
       "summary_tr": "Ricardo Pepi'nin Fulham'a transferi şimdilik iptal edildi. Bu haftanın başında Amerikalı forvetin yazın Craven Cottage'a transferi tamamlanmış gibi görünüyordu ancak anlaşma bozuldu. Fulham, şu anda forvetin sorumluluğunu üstlenmek için riskin çok büyük olduğunu düşünüyor"
     },
     {
-      "title": "Borussia Dortmund, sözleşmesi sona erecek olan Emre Can'la nikah tazeledi",
-      "summary": "Borussia Dortmund, kaptanı Emre Can'ın sözleşmesini uzattı. Sarı-siyahlı kulüp, 32 yaşındaki Alman milli oyuncunun mevcut anlaşmasını bir yıl daha uzatarak 30 Haziran 2027'ye kadar bağladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/borussia-dortmund-sozlesmesi-sona-erecek-olan-emre-canla-nikah-tazeledi-2408746",
+      "title": "Serge Gnabry brace helps Bayern Munich ease past Union Berlin",
+      "summary": "Bayern Munich continued their march toward another Bundesliga title with a commanding 4-0 win over Union Berlin on Matchday 27, with goals from Michael Olise, Harry Kane, and Serge Gnabry (2) doing the damage.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-union-berlin-match-report-highlights-matchday-27-36558",
       "image_url": null,
-      "published": "2026-03-21T16:33:34",
-      "source": "CNN Türk Spor",
+      "published": "2026-03-21T16:25:52",
+      "source": "Bundesliga Official",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-21T22:16:24.272252",
+      "fetched_at": "2026-03-21T23:16:29.967659",
       "priority_score": 61,
       "categories": [
-        "transfers",
+        "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-03-21T22:17:36.411470",
-      "title_tr": "Borussia Dortmund, sözleşmesi sona erecek olan Emre Can'la nikah tazeledi",
-      "summary_tr": "Borussia Dortmund, kaptanı Emre Can'ın sözleşmesini uzattı. Sarı-siyahlı kulüp, 32 yaşındaki Alman milli oyuncunun mevcut anlaşmasını bir yıl daha uzatarak 30 Haziran 2027'ye kadar bağladı."
+      "processed_at": "2026-03-21T23:19:01.243837",
+      "title_tr": "Serge Gnabry desteği, Bayern Münih'in Union Berlin'i geçmesine yardımcı oldu",
+      "summary_tr": "Bayern Münih, 27. Maç gününde Union Berlin'i 4-0 yenerek Bundesliga şampiyonluğuna doğru ilerlemeye devam etti ve Michael Olise, Harry Kane ve Serge Gnabry'nin (2) golleri hasara yol açtı."
     },
     {
       "title": "U.S. striker Pepi's Fulham move now off, PSV say",
@@ -491,12 +492,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:02.136287",
+      "fetched_at": "2026-03-21T23:15:26.776397",
       "priority_score": 60,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-21T22:17:35.677695",
+      "processed_at": "2026-03-21T23:19:00.936028",
       "title_tr": "PSV, ABD'li forvet Pepi'nin Fulham hamlesinin artık iptal olduğunu söyledi",
       "summary_tr": "PSV Eindhoven Cumartesi günü yaptığı açıklamada, ABD'li forvet Ricardo Pepi'nin bu yaz Fulham'a transfer edilmesinin, kulübün sürecin ilerleyen safhalarında önemli bir konu üzerinde anlaşamaması nedeniyle ertelendiğini söyledi."
     },
@@ -510,54 +511,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.893881",
+      "fetched_at": "2026-03-21T23:15:31.894394",
       "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-21T22:17:35.703729",
+      "processed_at": "2026-03-21T23:19:00.982578",
       "title_tr": "'Yeterince iyi değil' - Rosenior, Chelsea'nin hatalarına üzülüyor",
       "summary_tr": "Chelsea menajeri Liam Rosenior, rakibine \"hediye goller\" verdikten sonra takımının Everton'a karşı gösterdiği performanstan hayal kırıklığına uğradığını söyledi."
     },
     {
-      "title": "Kelly scores twice as Arsenal thrash West Ham",
-      "summary": "Watch highlights as Chloe Kelly scores twice as Arsenal beat West Ham 5-0 in the Women's Super League at Emirates Stadium.",
-      "url": "https://www.bbc.com/sport/football/videos/cp86lvqr54mo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-21T19:14:31",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Galatasaray'da Mauro Icardi için flaş iddia! \"Transferi çok yakın\"",
+      "summary": "Galatasaray'da adı ayrılık ile anılan Mauro Icardi için sürpriz bir iddia öne sürüldü. Dış basında servis edilen o habere göre Arjantinli yıldız, o takım ile görüşme halinde. Transferin gerçekleşmesinin...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/21/galatasarayda-mauro-icardi-icin-flas-iddia-transferi-cok-yakin",
+      "image_url": "https://iaftm.tmgrup.com.tr/114c4c/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/03/22/galatasarayda-mauro-icardi-icin-flas-iddia-transferi-cok-yakin-1774132180138.jpeg",
+      "published": "2026-03-21T22:30:48",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.894213",
-      "priority_score": 60,
+      "fetched_at": "2026-03-21T23:18:06.914959",
+      "priority_score": 59,
       "categories": [
-        "match_results",
-        "premier_league"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-03-21T22:17:35.707995",
-      "title_tr": "Arsenal, West Ham'ı mağlup ederken Kelly iki gol attı",
-      "summary_tr": "Kadınlar Süper Ligi'nde Emirates Stadyumu'nda Arsenal'in West Ham'ı 5-0 yenmesinin ardından Chloe Kelly'nin iki gol atmasının önemli anlarını izleyin."
-    },
-    {
-      "title": "'Not just goals, he's a great connecter' - should Welbeck be in England squad?",
-      "summary": "Danny Welbeck scores two goals against Liverpool on Saturday to take his tally for the season to 12 - one day after he was left out of Thomas Tuchel's England squad.",
-      "url": "https://www.bbc.com/sport/football/articles/c2k3dqjz55do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-21T17:34:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-21T22:14:07.894561",
-      "priority_score": 60,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-21T22:17:35.714105",
-      "title_tr": "'Sadece gol atmak değil, aynı zamanda harika bir bağlantı da sağlıyor' - Welbeck İngiltere kadrosunda olmalı mı?",
-      "summary_tr": "Danny Welbeck, Thomas Tuchel'in İngiltere kadrosundan çıkarılmasından bir gün sonra Cumartesi günü Liverpool'a karşı iki gol atarak sezondaki puanını 12'ye çıkardı."
+      "processed_at": "2026-03-21T23:19:01.869455",
+      "title_tr": "Galatasaray'da Mauro Icardi için flaş iddia! \"Transferi çok yakın\"",
+      "summary_tr": "Galatasaray'da adı ayrılık ile anılan Mauro Icardi için sürpriz bir iddia öne sürüldü. Dış basında servis edilen o habere göre Arjantinli yıldız, o takım ile görüşme halinde. Transferin gerçekleşmesinin...Devamı için tıklayınız"
     },
     {
       "title": "Chelsea’s pathetic fine for Abramovich-era payments puts Tierney row in shade | Barney Ronay",
@@ -569,15 +551,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-21T22:14:39.837331",
+      "fetched_at": "2026-03-21T23:16:06.490732",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-21T22:17:35.873738",
+      "processed_at": "2026-03-21T23:19:01.136050",
       "title_tr": "Chelsea'nin Abramovich dönemi ödemeleri nedeniyle verdiği içler acısı para cezası Tierney'i gölgede bırakıyor | Barney Ronay",
       "summary_tr": "Oyuncuların tuhaf toplanması ve Rosenior'un tuhaf tepkileri, dikkati Premier Lig'i zayıflatacak hafif bir cezadan uzaklaştırmamalı. Chelsea'nin toplanması hakkında zaten yeterince şey söylendiğini hissedebilirsiniz. Elbette yanılıyorsun. Chelsea toplantısı hakkında yeterince şey söylemek imkansız"
+    },
+    {
+      "title": "Kenan'ın golü Juventus'a yetmedi!",
+      "summary": "İtalya Serie A'nın 30. haftasında Juventus sahasında Sassuolo'yla mücadele etti. Mücadele iki takımın karşılıklı golleriyle 1-1 eşitlikle sona erdi.",
+      "url": "https://www.haberturk.com/juventus-1-sassuolo-1-mac-sonucu-kenan-yildiz-in-golu-juve-ye-yetmedi-3871410-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/22/ver1774128786/3871410/jpg/1280x1280",
+      "published": "2026-03-21T21:42:10",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-21T23:17:23.612176",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-21T23:19:01.312990",
+      "title_tr": "Kenan'ın golü Juventus'a yetmedi!",
+      "summary_tr": "İtalya Serie A'nın 30. haftasında Juventus sahasında Sassuolo'yla mücadele etti. Mücadele iki takımın karşılıklı golleriyle 1-1 eşitlikle sona erdi."
     },
     {
       "title": "Chelsea'ye Everton çelmesi!",
@@ -589,13 +591,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-21T22:15:49.667403",
+      "fetched_at": "2026-03-21T23:17:23.612329",
       "priority_score": 58,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-21T22:17:36.051069",
+      "processed_at": "2026-03-21T23:19:01.325722",
       "title_tr": "Chelsea'ye Everton çelmesi!",
       "summary_tr": "İngiltere Premier Ligi'nin 31. haftasında Chelsea, deplasmanda Everton'a 3-0 mağlup oldu. Beto (2) ve Iliman Ndiaye'nin gollerine engel olamayarak ağır bir mağlubiyet alan Chelsea, 48 puanda kaldı. Everton ise puanını 46'ya çıkardı."
     }
