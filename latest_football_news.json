@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T20:36:38.215830",
+  "timestamp": "2026-03-24T21:34:18.064181",
   "total_items": 30,
   "news": [
     {
@@ -7,19 +7,19 @@
       "summary": "Orlando City announced on Tuesday the signing of French World Cup-winning forward Antoine Griezmann to a Designated Player contract.",
       "url": "https://www.espn.com/soccer/story/_/id/48287915/antoine-griezmann-completes-summer-transfer-atletico-madrid-orlando-city",
       "image_url": null,
-      "published": "2026-03-24T20:30:46",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.298246",
+      "fetched_at": "2026-03-24T21:28:44.882656",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-03-24T20:35:08.096995",
+      "processed_at": "2026-03-24T21:32:41.721303",
       "title_tr": "Yetkili: Orlando, Griezmann'la 2 yıllık sözleşme imzaladı",
       "summary_tr": "Orlando City, Salı günü Fransa Dünya Kupası'nı kazanan forvet Antoine Griezmann'ın Atanmış Oyuncu sözleşmesi imzaladığını duyurdu."
     },
@@ -33,35 +33,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:31.889361",
-      "priority_score": 95,
+      "fetched_at": "2026-03-24T21:28:51.201214",
+      "priority_score": 85,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-24T20:35:08.123464",
+      "processed_at": "2026-03-24T21:32:41.753695",
       "title_tr": "Salah'ın Liverpool'daki en iyi golleri",
       "summary_tr": "Mohamed Salah'ın Liverpool adına attığı dikkat çekici gollerden bazılarını izleyin. Mısırlı forvet sezon sonunda kulüpten ayrılacağını açıkladı."
-    },
-    {
-      "title": "Fenerbahçe, Openda transferi için resmen temas kurdu! 4 rakip daha",
-      "summary": "Fenerbahçe, gelecek sezon forvet hattını güçlendirmek için çalışmalarına başladı. Sarı lacivertliler, bu bağlamda Juventuslu Openda için resmi görüşme gerçekleştirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-openda-transferi-icin-resmen-temas-kurdu-4-rakip-daha-43135660",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c2effd134f9baf6afaca65.jpg",
-      "published": "2026-03-24T20:12:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:33:33.131004",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-24T20:35:08.412991",
-      "title_tr": "Fenerbahçe, Openda transferi için resmen temas kurdu! 4 rakip daha",
-      "summary_tr": "Fenerbahçe, gelecek sezon forvet hattını güçlendirmek için çalışmalarına başladı. Sarı lacivertliler, bu bağlamda Juventuslu Openda için resmi görüşme gerçekleştirdi."
     },
     {
       "title": "Bundesliga Matchday 27 video highlights",
@@ -73,37 +52,79 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-24T20:32:31.221395",
+      "fetched_at": "2026-03-24T21:29:53.576467",
       "priority_score": 81,
       "categories": [
         "match_results",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.291202",
+      "processed_at": "2026-03-24T21:32:41.908122",
       "title_tr": "Bundesliga 27. Maçın öne çıkan videoları",
       "summary_tr": "Hafta sonu oynanan maçlarda çok sayıda gol atılırken, Bayern Münih Union Berlin'i geride bırakırken RB Leipzig, UEFA Şampiyonlar Ligi'ndeki rakipleri Hoffenheim'ı mağlup etti."
+    },
+    {
+      "title": "Fenerbahçe, Openda transferi için resmen temas kurdu! 4 rakip daha",
+      "summary": "Fenerbahçe, gelecek sezon forvet hattını güçlendirmek için çalışmalarına başladı. Sarı lacivertliler, bu bağlamda Juventuslu Openda için resmi görüşme gerçekleştirdi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-openda-transferi-icin-resmen-temas-kurdu-4-rakip-daha-43135660",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c2effd134f9baf6afaca65.jpg",
+      "published": "2026-03-24T20:12:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:31:06.722602",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-24T21:32:42.035943",
+      "title_tr": "Fenerbahçe, Openda transferi için resmen temas kurdu! 4 rakip daha",
+      "summary_tr": "Fenerbahçe, gelecek sezon forvet hattını güçlendirmek için çalışmalarına başladı. Sarı lacivertliler, bu bağlamda Juventuslu Openda için resmi görüşme gerçekleştirdi."
+    },
+    {
+      "title": "'What a stunner!' - Kelly doubles Arsenal's lead against Chelsea",
+      "summary": "Chloe Kelly's curling long-range strike puts Arsenal 2-0 up in the first leg of their Women's Champions League quarter-final against Chelsea.",
+      "url": "https://www.bbc.com/sport/football/videos/ckge909g5g8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T20:48:33",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:51.200869",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-24T21:32:41.747986",
+      "title_tr": "'Ne muhteşem bir şey!' - Kelly, Arsenal'in Chelsea'ye karşı liderliğini ikiye katladı",
+      "summary_tr": "Chloe Kelly'nin uzun mesafeli vuruşu, Kadınlar Şampiyonlar Ligi çeyrek final ilk ayağında Chelsea'ye karşı Arsenal'i 2-0 öne geçirdi."
     },
     {
       "title": "Arsenal v Chelsea: Women’s Champions League quarter-final, first leg – live",
       "summary": "⚽️ WCL updates from the 8pm GMT kick-off in London⚽️ Live scores | The latest Moving the Goalposts | Mail LukeHere we go, then. The teams are out, the pre-match pleasantries are taking place, and kick-off is seconds away.I should mention that Ellie Carpenter is indeed on the bench for Arsenal post-A",
       "url": "https://www.theguardian.com/football/live/2026/mar/24/arsenal-v-chelsea-womens-champions-league-quarter-final-first-leg-live",
       "image_url": null,
-      "published": "2026-03-24T20:25:20",
+      "published": "2026-03-24T21:09:44",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T20:32:06.197767",
+      "fetched_at": "2026-03-24T21:29:26.527717",
       "priority_score": 78,
       "categories": [
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.207953",
+      "processed_at": "2026-03-24T21:32:41.829283",
       "title_tr": "Arsenal - Chelsea: Kadınlar Şampiyonlar Ligi çeyrek final ilk maçı canlı",
-      "summary_tr": "⚽️ Londra'daki saat 20:00 GMT'nin başlama vuruşundan WCL güncellemeleri⚽️ Canlı skorlar | En son Kale Direklerini Hareket Ettirme | Luke'a mail at, işte başlıyoruz o zaman. Takımlar çıktı, maç öncesi hoş sohbetler yapılıyor ve başlama vuruşuna saniyeler kaldı. Ellie Carpenter'ın gerçekten de Arsenal post-A yedek kulübesinde olduğunu belirtmeliyim."
+      "summary_tr": "⚽️ Londra'daki saat 20:00 GMT'nin başlama vuruşundan WCL güncellemeleri⚽️ Canlı skorlar | En son Kale Direklerini Hareket Ettirme | Luke'a mail at, işte başlıyoruz o zaman. Takımlar çıktı, maç öncesi hoş sohbetler yapılıyor ve başlama vuruşuna saniyeler kaldı. Ellie Carpenter'ın Arsenal'in A sonrası yedek kulübesinde olduğunu belirtmeliyim."
     },
     {
       "title": "Griezmann resmen Orlando City'de!",
@@ -115,14 +136,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T20:33:20.775501",
+      "fetched_at": "2026-03-24T21:30:52.621306",
       "priority_score": 78,
       "categories": [
         "transfers",
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-03-24T20:35:08.346523",
+      "processed_at": "2026-03-24T21:32:41.964414",
       "title_tr": "Griezmann resmen Orlando City'de!",
       "summary_tr": "İspanyol devi Atletico Madrid'de forma giyen Fransız yıldız Antoine Griezmann'ın yeni adresi MLS ekibi Orlando City oldu. 2+1 yıllık sözleşme imzalayan golcü futbolcu, sezon sonunda Orlando City takımına katılım sağlayacak."
     },
@@ -136,7 +157,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T20:32:06.199336",
+      "fetched_at": "2026-03-24T21:29:26.529290",
       "priority_score": 68,
       "categories": [
         "breaking_news",
@@ -144,7 +165,7 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.229951",
+      "processed_at": "2026-03-24T21:32:41.850241",
       "title_tr": "Manchester United Kadınlar tarihlerinin en büyük haftasında ana sahneye çıkıyor",
       "summary_tr": "Bayern Münih ile Şampiyonlar Ligi çeyrek finali ve WSL derbisi United'ın sezonunun geri kalanını şekillendirecek Önümüzdeki yedi günü, Avrupa'daki ilk çeyrek finallerine çıkacak olan Manchester United kadın takımının tarihindeki en önemli fikstür haftası olarak tanımlamak abartı olmaz."
     },
@@ -153,117 +174,59 @@
       "summary": "Mohamed Salah will leave Liverpool at the end of the season, the Premier League club announced Tuesday.",
       "url": "https://www.espn.com/soccer/story/_/id/48297617/mohamed-salah-leave-liverpool-end-season",
       "image_url": null,
-      "published": "2026-03-24T20:49:50",
+      "published": "2026-03-24T21:43:15",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.296991",
+      "fetched_at": "2026-03-24T21:28:44.881180",
       "priority_score": 65,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.094438",
+      "processed_at": "2026-03-24T21:32:41.718006",
       "title_tr": "Salah sezon sonunda Liverpool'dan ayrılacak",
       "summary_tr": "Premier Lig kulübü Salı günü yaptığı açıklamada, Mohamed Salah'ın sezon sonunda Liverpool'dan ayrılacağını duyurdu."
     },
     {
-      "title": "Arsenal's Eze could be out for month with injury",
-      "summary": "Arsenal attacking midfielder Eberechi Eze could miss between four to six weeks because of a calf injury.",
-      "url": "https://www.bbc.com/sport/football/articles/c62j75q0805o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T15:38:47",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:31:31.888821",
-      "priority_score": 65,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-24T20:35:08.116809",
-      "title_tr": "Arsenal'de Eze sakatlığı nedeniyle bir ay sahalardan uzak kalabilir",
-      "summary_tr": "Arsenal'in hücum oyuncusu Eberechi Eze, baldırındaki sakatlık nedeniyle dört ila altı hafta sahalardan uzak kalabilir."
-    },
-    {
-      "title": "Mohamed Salah, Liverpool'dan ayrılıyor!",
-      "summary": "Muhammed Salah, sezon sonunda Liverpool'dan ayrılacağını açıkladı. Salah'ın açıklamasının ardından İngiliz devi de Mısırlı yıldızın sezon sonunda takımdan ayrılacağını duyurdu.",
-      "url": "https://www.haberturk.com/bir-devrin-sonu-mohamed-salah-liverpool-dan-ayriliyor-3872080-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/24/ver1774380774/3872080/jpg/1280x1280",
-      "published": "2026-03-24T19:35:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Kenan Yıldız'a İtalya'da büyük onur",
+      "summary": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/kenan-yildiza-italyada-buyuk-onur-43135593",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c2beca134f9baf6afac9ef.jpg",
+      "published": "2026-03-24T16:43:25",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T20:33:20.775116",
-      "priority_score": 63,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-24T20:35:08.320057",
-      "title_tr": "Mohamed Salah, Liverpool'dan ayrılıyor!",
-      "summary_tr": "Muhammed Salah, sezon sonunda Liverpool'dan ayrılacağını açıkladı. Salah'ın açıklamasının ardından İngiliz devi de Mısırlı yıldızın sezon sonunda takımdan ayrılacağını duyurdu."
-    },
-    {
-      "title": "'I will never walk alone' | Salah shares heartfelt message to Liverpool fans",
-      "summary": "Mohamed Salah shares an emotional goodbye message to Liverpool fans across his social media accounts after the news the Egyptian forward will leave Anfield at the end of the season. Instagram credit: @mosalah.",
-      "url": "https://www.skysports.com/watch/video/13524017/mohamed-salah-to-leave-liverpool-salah-shares-emotional-farewell-message-to-reds-fans",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-salah-liverpool_7202180.jpg?20260324194449",
-      "published": "2026-03-24T19:43:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:31:43.497129",
-      "priority_score": 61,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-24T20:35:08.145481",
-      "title_tr": "'Asla yalnız yürümeyeceğim' | Salah, Liverpool taraftarlarına yürekten mesaj verdi",
-      "summary_tr": "Mohamed Salah, Mısırlı forvetin sezon sonunda Anfield'dan ayrılacağı haberinin ardından sosyal medya hesaplarından Liverpool taraftarlarına duygusal bir veda mesajı paylaştı. Instagram kredisi: @mosalah."
-    },
-    {
-      "title": "Liverpool'da Salah devri sona eriyor: Sezon sonu veda edecek",
-      "summary": "Muhammed Salah, sezon sonunda Liverpool’dan ayrılacağını açıkladı. Mısırlı yıldızın kararı, futbol dünyasında büyük yan...",
-      "url": "https://www.yenisafak.com/spor/liverpoolda-salah-devri-sona-eriyor-sezon-sonu-veda-edecek-4808762",
-      "image_url": null,
-      "published": "2026-03-24T22:00:24",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:34:25.111077",
-      "priority_score": 57,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-24T20:35:08.820513",
-      "title_tr": "Liverpool'da Salah devri sona eriyor: Sezon sonu veda edecek",
-      "summary_tr": "Muhammed Salah, sezon sonunda Liverpool’dan ayrılacağını açıkladı. Mısırlı yıldızın kararı, futbol dünyasında büyük yan..."
-    },
-    {
-      "title": "Duckett withdraws from IPL to focus on keeping England spot",
-      "summary": "Ben Duckett has pulled out of the Indian Premier League in a bid to keep hold of his England place following a dire winter.",
-      "url": "https://www.skysports.com/cricket/news/12040/13523869/ben-duckett-withdraws-from-ipl-to-focus-attention-on-finding-form-for-england-after-winter-to-forget",
-      "image_url": "https://e0.365dm.com/26/01/1920x1080/skysports-ben-duckett-cricket_7142660.jpg?20260122142120",
-      "published": "2026-03-24T14:48:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:31:43.497275",
+      "fetched_at": "2026-03-24T21:31:06.722900",
       "priority_score": 56,
       "categories": [
         "match_results",
-        "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-03-24T20:35:08.152241",
-      "title_tr": "Duckett, İngiltere'yi yerinde tutmaya odaklanmak için IPL'den çekildi",
-      "summary_tr": "Ben Duckett, zorlu bir kışın ardından İngiltere'deki yerini korumak amacıyla Hindistan Premier Ligi'nden çekildi."
+      "processed_at": "2026-03-24T21:32:42.070305",
+      "title_tr": "Kenan Yıldız'a İtalya'da büyük onur",
+      "summary_tr": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı."
+    },
+    {
+      "title": "'Saoedi-Arabië of MLS mogelijke bestemming transfervrije Salah'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/dortmund-houdt-schlotterbeck-uit-handen-real-barcelona-wil-door-met-cancelo",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-24T20:39:55",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:32:37.231290",
+      "priority_score": 77,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-24T21:32:42.834986",
+      "title_tr": "'Transfersiz Salah'ın olası hedefi Suudi Arabistan veya MLS'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Tiger to make comeback TONIGHT after his TGL team lose Finals opener",
@@ -275,13 +238,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:43.497799",
+      "fetched_at": "2026-03-24T21:29:03.863755",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-24T20:35:08.174822",
+      "processed_at": "2026-03-24T21:32:41.802076",
       "title_tr": "Tiger, TGL takımının final açılışını kaybetmesinin ardından BU GECE geri dönecek",
       "summary_tr": "Tiger Woods, Salı günü Sky Sports'ta canlı olarak TGL sezonunun son gecesi için sahalara döneceğini doğruladı."
     },
@@ -295,13 +258,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:43.497897",
+      "fetched_at": "2026-03-24T21:29:03.863865",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-24T20:35:08.184436",
+      "processed_at": "2026-03-24T21:32:41.811857",
       "title_tr": "Şampiyona, L1 ve L2 play-off takvimi onaylandı",
       "summary_tr": "EFL, 2025/26 Sky Bet Şampiyonası, League One ve League Two play-off'larının tarihlerini doğruladı."
     },
@@ -310,19 +273,98 @@
       "summary": "Brentford forward Igor Thiago claims his rivalry with Manchester City's Erling Haaland in the race to finish as top scorer in the Premier League has given him an extra motivation to represent Brazil.",
       "url": "https://www.espn.com/soccer/story/_/id/48294634/brazil-igor-thiago-relishing-premier-league-golden-boot-battle-erling-haaland",
       "image_url": null,
-      "published": "2026-03-24T20:30:46",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.298070",
+      "fetched_at": "2026-03-24T21:28:44.882464",
       "priority_score": 65,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.096419",
+      "processed_at": "2026-03-24T21:32:41.720629",
       "title_tr": "Thiago: Haaland savaşı Brezilya'nın şansına yardımcı olabilir",
       "summary_tr": "Brentford forveti Igor Thiago, Premier Lig'i gol kralı olarak bitirme yarışında Manchester City'den Erling Haaland ile yaşadığı rekabetin kendisine Brezilya'yı temsil etme konusunda ekstra bir motivasyon sağladığını iddia ediyor."
+    },
+    {
+      "title": "Who's your first signing? Most annoying coach? Best city? ESPN's player survey﻿",
+      "summary": "LaLiga players answered ESPN's questions on everything from who they would sign to player ratings.",
+      "url": "https://www.espn.com/soccer/story/_/id/48182439/laliga-confidential-spains-soccer-stars-take-espn-player-survey",
+      "image_url": null,
+      "published": "2026-03-24T22:22:58",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:44.883932",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-24T21:32:41.731910",
+      "title_tr": "İlk imzan kimle? En sinir bozucu antrenör? En iyi şehir? ESPN'in oyuncu anketi",
+      "summary_tr": "LaLiga oyuncuları, kiminle sözleşme imzalayacaklarından oyuncu reytinglerine kadar ESPN'in sorularını yanıtladı."
+    },
+    {
+      "title": "Premier League great Salah will leave lifetime of memories",
+      "summary": "Mohamed Salah will leave Liverpool as an all-time great and iconic Premier League figure, says chief football writer Phil McNulty.",
+      "url": "https://www.bbc.com/sport/football/articles/c0r929g5p5eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T20:33:09",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:51.199552",
+      "priority_score": 65,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-24T21:32:41.733782",
+      "title_tr": "Premier Lig'in büyük yıldızı Salah ömür boyu anılar bırakacak",
+      "summary_tr": "Futbol baş yazarı Phil McNulty, Mohamed Salah'ın Liverpool'dan tüm zamanların en iyi ve ikonik Premier Lig figürü olarak ayrılacağını söylüyor."
+    },
+    {
+      "title": "Arsenal's Eze could be out for month with injury",
+      "summary": "Arsenal attacking midfielder Eberechi Eze could miss between four to six weeks because of a calf injury.",
+      "url": "https://www.bbc.com/sport/football/articles/c62j75q0805o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T15:38:47",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:51.200676",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-24T21:32:41.745138",
+      "title_tr": "Arsenal'de Eze sakatlığı nedeniyle bir ay sahalardan uzak kalabilir",
+      "summary_tr": "Arsenal'in hücum oyuncusu Eberechi Eze, baldırındaki sakatlık nedeniyle dört ila altı hafta sahalardan uzak kalabilir."
+    },
+    {
+      "title": "Fenerbahçe için kaçan balık büyük oldu! Performansıyla göz dolduruyor",
+      "summary": "Fenerbahçe'nin transferi için kendisi ve Atalanta ile anlaştığı, ancak İtalyan ekibi teminat mektubu isteyince transfer gerçekleşmeyen Ademola Lookman, Atletico Madrid'e transfer olmuştu. Nijeryalı yıldızın...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/24/fenerbahce-icin-kacan-balik-buyuk-oldu-performansiyla-goz-dolduruyor",
+      "image_url": "https://iaftm.tmgrup.com.tr/4616b2/1200/675/0/11/800/460?u=https://iftm.tmgrup.com.tr/2026/03/23/kacan-balik-buyuk-oldu-1774287291457.jpeg",
+      "published": "2026-03-24T03:51:47",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:31:40.312010",
+      "priority_score": 64,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-24T21:32:42.530241",
+      "title_tr": "Fenerbahçe için kaçan balık büyük oldu! Performansıyla göz dolduruyor",
+      "summary_tr": "Fenerbahçe'nin transferi için kendisi ve Atalanta ile anlaştığı, ancak İtalyan ekibi teminat mektubu isteyince transfer gerçekleşmeyen Ademola Lookman, Atletico Madrid'e transfer olmuştu. Nijeryalı yıldızın...Devamı için tıklayınız"
     },
     {
       "title": "Antoine Griezmann to leave Atlético Madrid and join MLS’s Orlando City",
@@ -334,34 +376,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T20:32:06.199755",
+      "fetched_at": "2026-03-24T21:29:26.529710",
       "priority_score": 63,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-03-24T20:35:08.236572",
+      "processed_at": "2026-03-24T21:32:41.856801",
       "title_tr": "Antoine Griezmann, Atletico Madrid'den ayrılıp MLS'in Orlando City takımına katılacak",
       "summary_tr": "Fransız süperstar Atlético'da 10 yıl forma giydiForward, 2029'a kadar bir anlaşmayla Temmuz ayında Orlando'ya katılacakAtlético, Nisan ayında Copa del Rey finalinde Barcelona'yla oynayacak Orlando City SC, Atlético Madrid'in süperstarı Antoine Griezmann'ın uzun zamandır beklenen transferini Salı günü tamamladı.35 yaşındaki Fransız hücum oyuncusu"
-    },
-    {
-      "title": "De Rooij verruilt PEC Zwolle transfervrij voor Real Valladolid",
-      "summary": "Kaj de Rooij (25) vertrekt in de zomer naar Real Valladolid. De buitenspeler van PEC Zwolle tekende er onlangs een vierjarig contract. Dat bevestigen ingewijden.",
-      "url": "https://www.vi.nl/nieuws/de-rooij-verruilt-pec-zwolle-transfervrij-voor-real-valladolid",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/24/b730754a7dc95f5809c25b47f261864485fd2709.jpg?width=1200",
-      "published": "2026-03-24T16:40:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:35:04.255625",
-      "priority_score": 62,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-24T20:35:09.248920",
-      "title_tr": "De Rooij, bedelsiz olarak PEC Zwolle'u Real Valladolid'le takas etti",
-      "summary_tr": "Kaj de Rooij (25) yaz aylarında Real Valladolid'e transfer olacak. PEC Zwolle kanat oyuncusu geçtiğimiz günlerde dört yıllık bir sözleşme imzaladı. İçeridekiler bunu doğruluyor."
     },
     {
       "title": "I miss English football - Pochettino on 'ideal place' to manage",
@@ -373,13 +396,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:31.889173",
+      "fetched_at": "2026-03-24T21:28:51.201891",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.121858",
+      "processed_at": "2026-03-24T21:32:41.765414",
       "title_tr": "İngiliz futbolunu özlüyorum - Pochettino yönetmek için 'ideal yer' diyor",
       "summary_tr": "Tottenham ve Chelsea'nin eski teknik direktörü Mauricio Pochettino, \"İngiltere'deki futbol dünyasını\" özlediğini söyledi."
     },
@@ -393,56 +416,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T20:32:06.198970",
+      "fetched_at": "2026-03-24T21:29:26.528944",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.222537",
+      "processed_at": "2026-03-24T21:32:41.843010",
       "title_tr": "76 yaşındaki Manchester United taraftarı, VIP'lere aile koltuğu verildiği için kendini 'çaresiz' hissediyor",
       "summary_tr": "Eski United oyuncusunun damadı, nakit artırma planları kapsamında birinci sınıf koltuklardan vazgeçmek zorunda kalan 1.100 taraftar arasında yer alıyorBir Manchester United taraftarı, ailesinin İkinci Dünya Savaşı'ndan bu yana kişi başı 300 £ değerindeki VIP'lere yer açmak için tuttuğu koltuktan tahliye edilmesinin ardından kendisini \"çaresiz ve umutsuz\" hissettiğini söyledi."
-    },
-    {
-      "title": "Dortmund lijkt Schlotterbeck uit handen Real te houden, nieuwe trainer Sevilla",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/dortmund-houdt-schlotterbeck-uit-handen-real-barcelona-wil-door-met-cancelo",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-03-24T17:25:33",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:35:04.255497",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-24T20:35:09.215264",
-      "title_tr": "Sevilla'nın yeni teknik direktörü Dortmund, Schlotterbeck'i Real'in elinden uzak tutuyor gibi görünüyor",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Kenan Yıldız'a İtalya'da büyük onur",
-      "summary": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/kenan-yildiza-italyada-buyuk-onur-43135593",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c2beca134f9baf6afac9ef.jpg",
-      "published": "2026-03-24T16:43:25",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:33:33.131298",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-24T20:35:08.447775",
-      "title_tr": "Kenan Yıldız'a İtalya'da büyük onur",
-      "summary_tr": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı."
     },
     {
       "title": "TRANSFER | Antoine Griezmann’ın yeni adresi belli oldu",
@@ -454,12 +436,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T20:33:53.772427",
+      "fetched_at": "2026-03-24T21:31:28.211787",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-24T20:35:08.648392",
+      "processed_at": "2026-03-24T21:32:42.278373",
       "title_tr": "TRANSFER | Antoine Griezmann’ın yeni adresi belli oldu",
       "summary_tr": "Antoine Griezmann, MLS ekiplerinden Orlando City’e transfer oldu."
     },
@@ -468,36 +450,36 @@
       "summary": "Barcelona are considering an attacking shake-up this summer which would include listening to offers for Ferran Torres and the arrival of up to two new forwards, various sources have told ESPN.",
       "url": "https://www.espn.com/soccer/story/_/id/48296409/barcelona-listen-offers-ferran-torres-search-two-strikers-sources",
       "image_url": null,
-      "published": "2026-03-24T20:30:47",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.297252",
+      "fetched_at": "2026-03-24T21:28:44.881449",
       "priority_score": 55,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-24T20:35:08.094756",
+      "processed_at": "2026-03-24T21:32:41.718285",
       "title_tr": "Kaynaklar: Barça, Torres için teklifleri dinleyecek",
-      "summary_tr": "Çeşitli kaynakların ESPN'e söylediğine göre, Barselona bu yaz Ferran Torres için gelen teklifleri dinlemeyi ve iki yeni forvetin gelişini de içeren hücumda bir değişiklik yapmayı düşünüyor."
+      "summary_tr": "ESPN'e göre çeşitli kaynaklar, Barselona'nın bu yaz Ferran Torres için gelen teklifleri dinlemeyi ve iki yeni forvetin gelişini de içerecek şekilde hücumda bir değişiklik yapmayı düşündüğünü söyledi."
     },
     {
       "title": "Gattuso calls 'more than my mother,' Calafiori says",
       "summary": "Arsenal defender Riccardo Calafiori said Italy coach Gennaro Gattuso called him more often than his mother did over the last four months.",
       "url": "https://www.espn.com/soccer/story/_/id/48297418/italy-coach-gattuso-calls-more-my-mother-calafiori-says",
       "image_url": null,
-      "published": "2026-03-24T20:30:49",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.297476",
+      "fetched_at": "2026-03-24T21:28:44.881661",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.095060",
+      "processed_at": "2026-03-24T21:32:41.718652",
       "title_tr": "Calafiori, Gattuso'nun 'annemden daha fazlası' olduğunu söylüyor",
       "summary_tr": "Arsenal defans oyuncusu Riccardo Calafiori, İtalya teknik direktörü Gennaro Gattuso'nun kendisini son dört ayda annesinden daha sık aradığını söyledi."
     },
@@ -506,17 +488,17 @@
       "summary": "Manchester United are hopeful of having their proposed new stadium open within the next six years, the stadium development CEO has said.",
       "url": "https://www.espn.com/soccer/story/_/id/48297343/man-united-new-stadium-open-6-years-2032",
       "image_url": null,
-      "published": "2026-03-24T20:30:47",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.297701",
+      "fetched_at": "2026-03-24T21:28:44.882104",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.095416",
+      "processed_at": "2026-03-24T21:32:41.719487",
       "title_tr": "Man Utd yeni stadyumun 6 yıl içinde açılmasını bekliyor",
       "summary_tr": "Stadyum geliştirme CEO'su, Manchester United'ın önerilen yeni stadyumunun önümüzdeki altı yıl içinde açılmasından umutlu olduğunu söyledi."
     },
@@ -525,55 +507,36 @@
       "summary": "Spain's refereeing committee has backed the decision to hand Real Madrid midfielder Federico Valverde a red card in the club's 3-2 derby win over Atlético Madrid on Sunday.",
       "url": "https://www.espn.com/soccer/story/_/id/48297607/spain-refs-back-federico-valverde-red",
       "image_url": null,
-      "published": "2026-03-24T20:30:47",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.297896",
+      "fetched_at": "2026-03-24T21:28:44.882291",
       "priority_score": 55,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-24T20:35:08.095862",
+      "processed_at": "2026-03-24T21:32:41.720027",
       "title_tr": "İspanya, Valverde'nin kırmızısını 'ciddi faullü oyun' olarak değerlendirdi",
       "summary_tr": "İspanya'nın hakem komitesi, Real Madrid'in orta saha oyuncusu Federico Valverde'ye, kulübün Pazar günü Atletico Madrid'i 3-2 mağlup ettiği derbide kırmızı kart verilmesi kararını destekledi."
-    },
-    {
-      "title": "Lukaku to miss Belgium games with U.S., Mexico",
-      "summary": "Napoli striker Romelu Lukaku has withdrawn from Belgium's friendlies against the United States and Mexico to get fitter.",
-      "url": "https://www.espn.com/soccer/story/_/id/48297517/romelu-lukaku-miss-belgium-friendlies-usa-mexico",
-      "image_url": null,
-      "published": "2026-03-24T20:30:46",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.298621",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-24T20:35:08.098592",
-      "title_tr": "Lukaku, Belçika'nın ABD ve Meksika ile oynayacağı maçları kaçıracak",
-      "summary_tr": "Napoli'nin golcüsü Romelu Lukaku, daha formda olmak için Belçika'nın ABD ve Meksika ile oynadığı hazırlık maçlarından çekildi."
     },
     {
       "title": "👀 Soccer star Jorginho upset with Chappell Roan",
       "summary": "Pop singer Chappell Roan has said she \"does not hate children\" in response to former Chelsea and Arsenal player Jorginho's criticism.",
       "url": "https://www.espn.com/soccer/story/_/id/48278760/jorginho-slams-singer-chappell-roan-upsetting-situation",
       "image_url": null,
-      "published": "2026-03-24T20:30:46",
+      "published": "2026-03-24T21:41:54",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.298799",
+      "fetched_at": "2026-03-24T21:28:44.883032",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.099433",
+      "processed_at": "2026-03-24T21:32:41.723057",
       "title_tr": "👀 Futbol yıldızı Jorginho, Chappell Roan'a kızdı",
       "summary_tr": "Pop şarkıcısı Chappell Roan, eski Chelsea ve Arsenal oyuncusu Jorginho'nun eleştirilerine yanıt olarak \"çocuklardan nefret etmediğini\" söyledi."
     },
@@ -587,16 +550,56 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T20:31:25.299340",
+      "fetched_at": "2026-03-24T21:28:44.883384",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T20:35:08.104091",
+      "processed_at": "2026-03-24T21:32:41.726053",
       "title_tr": "Man United'ın UWCL'de çeyrek finale çıkması herkesi şaşırttı ama bu bir ilerleme mi?",
       "summary_tr": "Manchester United, Kadınlar Şampiyonlar Ligi'ndeki ilk sezonunda bazı kaotik aksilikler yaşadı. Sırada Bayern Münih ve özel bir şeyler yapma şansı var."
+    },
+    {
+      "title": "UWCL quarterfinal picks: Will Real Madrid upset Barcelona? Arsenal to beat Chelsea?",
+      "summary": "The stakes are high, but how will the four playoff winners fare against the automatic qualifiers?",
+      "url": "https://www.espn.com/soccer/story/_/id/48203614/uwcl-quarterfinal-predictions-real-madrid-vs-barcelona-arsenal-vs-chelsea",
+      "image_url": null,
+      "published": "2026-03-24T21:14:20",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:44.883549",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-24T21:32:41.727871",
+      "title_tr": "UWCL çeyrek final tahminleri: Real Madrid, Barcelona'yı üzecek mi? Arsenal Chelsea'yi yenecek mi?",
+      "summary_tr": "Bahisler yüksek, ancak play-off'u kazanan dört takım otomatik elemelere karşı nasıl bir performans sergileyecek?"
+    },
+    {
+      "title": "Man Utd retain new stadium dream for 2035 Women's World Cup",
+      "summary": "Manchester United are still aiming to have their new stadium built and ready to host the 2035 Women's World Cup final.",
+      "url": "https://www.bbc.com/sport/football/articles/cx24yyyypxko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T20:43:52",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T21:28:51.200285",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "world_cup"
+      ],
+      "processed_at": "2026-03-24T21:32:41.740772",
+      "title_tr": "Man Utd, 2035 Kadınlar Dünya Kupası için yeni stadyum hayalini sürdürüyor",
+      "summary_tr": "Manchester United hâlâ yeni stadyumunu inşa ederek 2035 Kadınlar Dünya Kupası finaline ev sahipliği yapmaya hazır hale getirmeyi hedefliyor."
     }
   ]
 }
