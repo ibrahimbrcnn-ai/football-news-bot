@@ -1,27 +1,28 @@
 {
-  "timestamp": "2026-03-24T22:26:03.602215",
+  "timestamp": "2026-03-24T23:27:01.606323",
   "total_items": 30,
   "news": [
     {
-      "title": "Official: Orlando signs Griezmann to 2-year deal",
-      "summary": "Orlando City announced on Tuesday the signing of French World Cup-winning forward Antoine Griezmann to a Designated Player contract.",
-      "url": "https://www.espn.com/soccer/story/_/id/48287915/antoine-griezmann-completes-summer-transfer-atletico-madrid-orlando-city",
+      "title": "Russo strike gives Arsenal clear edge over Chelsea",
+      "summary": "Goals from Stina Blackstenius, Chloe Kelly and Alessia Russo gave Arsenal a 3-1 victory in the first leg of the all-London Women's Champions League quarterfinal against Chelsea.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401842598",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:46",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.016249",
-      "priority_score": 100,
+      "fetched_at": "2026-03-24T23:22:14.166586",
+      "priority_score": 95,
       "categories": [
-        "transfers",
+        "match_results",
         "breaking_news",
-        "world_cup"
+        "premier_league",
+        "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.609216",
-      "title_tr": "Yetkili: Orlando, Griezmann'la 2 yıllık sözleşme imzaladı",
-      "summary_tr": "Orlando City, Salı günü Fransa Dünya Kupası'nı kazanan forvet Antoine Griezmann'ın Atanmış Oyuncu sözleşmesi imzaladığını duyurdu."
+      "processed_at": "2026-03-24T23:25:49.622767",
+      "title_tr": "Russo'nun golü Arsenal'e Chelsea karşısında net bir üstünlük sağladı",
+      "summary_tr": "Londra Kadınlar Şampiyonlar Ligi çeyrek finalinin ilk ayağında Chelsea'ye karşı Stina Blackstenius, Chloe Kelly ve Alessia Russo'nun golleri Arsenal'e 3-1 galibiyet kazandırdı."
     },
     {
       "title": "‘I will never walk alone’: Mohamed Salah to leave Liverpool on free transfer at end of season",
@@ -33,55 +34,37 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:53.211771",
-      "priority_score": 100,
+      "fetched_at": "2026-03-24T23:22:58.706727",
+      "priority_score": 93,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-24T22:24:45.724900",
+      "processed_at": "2026-03-24T23:25:49.747998",
       "title_tr": "'Asla yalnız yürümeyeceğim': Mohamed Salah sezon sonunda Liverpool'dan bedelsiz ayrılacak",
       "summary_tr": "Efsanevi forvet sözleşmesini 12 ay erken bitirecek'Mohamed'in gelecek sezon nerede oynayacağını bilmiyoruz'Mohamed Salah, sezon sonunda Liverpool'dan ayrılacağını duyurdu ve kulübün tarihindeki en büyük kariyerlerden birine son verdi."
     },
     {
-      "title": "Russo strike gives Arsenal clear edge over Chelsea",
-      "summary": "Goals from Stina Blackstenius, Chloe Kelly and Alessia Russo gave Arsenal a 3-1 victory in the first leg of the all-London Women's Champions League quarterfinal against Chelsea.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401842598",
+      "title": "Russo settles thrilling Champions League first-leg for Arsenal",
+      "summary": "Arsenal beat Chelsea in a thrilling Women's Champions League quarter-final first-leg featuring brilliant goals from England internationals Chloe Kelly, Lauren James and Alessia Russo.",
+      "url": "https://www.bbc.com/sport/football/videos/c5ywdenzn12o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.015522",
-      "priority_score": 95,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-24T22:24:45.606607",
-      "title_tr": "Russo'nun golü Arsenal'e Chelsea karşısında net bir üstünlük sağladı",
-      "summary_tr": "Londra Kadınlar Şampiyonlar Ligi çeyrek finalinin ilk ayağında Chelsea'ye karşı Stina Blackstenius, Chloe Kelly ve Alessia Russo'nun golleri Arsenal'e 3-1 galibiyet kazandırdı."
-    },
-    {
-      "title": "Salah's best goals for Liverpool",
-      "summary": "Watch some of the standout goals scored by Mohamed Salah for Liverpool. The Egyptian forward has revealed he will leave the club at the end of the season.",
-      "url": "https://www.bbc.com/sport/football/videos/ce8leeg8q53o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T19:48:08",
+      "published": "2026-03-24T22:23:07",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.993696",
+      "fetched_at": "2026-03-24T23:22:20.490648",
       "priority_score": 85,
       "categories": [
-        "match_results"
+        "match_results",
+        "breaking_news",
+        "premier_league",
+        "serie_a",
+        "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.643405",
-      "title_tr": "Salah'ın Liverpool'daki en iyi golleri",
-      "summary_tr": "Mohamed Salah'ın Liverpool adına attığı dikkat çekici gollerden bazılarını izleyin. Mısırlı forvet sezon sonunda kulüpten ayrılacağını açıkladı."
+      "processed_at": "2026-03-24T23:25:49.654875",
+      "title_tr": "Russo, Arsenal ile heyecan verici Şampiyonlar Ligi ilk maçını kazandı",
+      "summary_tr": "Arsenal, Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında İngiltere'nin uluslararası oyuncuları Chloe Kelly, Lauren James ve Alessia Russo'nun muhteşem golleriyle Chelsea'yi mağlup etti."
     },
     {
       "title": "Bundesliga Matchday 27 video highlights",
@@ -93,14 +76,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-24T22:22:15.363413",
+      "fetched_at": "2026-03-24T23:23:22.458302",
       "priority_score": 81,
       "categories": [
         "match_results",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.813934",
+      "processed_at": "2026-03-24T23:25:49.840480",
       "title_tr": "Bundesliga 27. Maçın öne çıkan videoları",
       "summary_tr": "Hafta sonu oynanan maçlarda çok sayıda gol atılırken, Bayern Münih Union Berlin'i geride bırakırken RB Leipzig, UEFA Şampiyonlar Ligi'ndeki rakipleri Hoffenheim'ı mağlup etti."
     },
@@ -114,81 +97,37 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T22:23:15.579853",
+      "fetched_at": "2026-03-24T23:24:21.803925",
       "priority_score": 81,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-03-24T22:24:45.957374",
+      "processed_at": "2026-03-24T23:25:49.995125",
       "title_tr": "Fenerbahçe, Openda transferi için resmen temas kurdu! 4 rakip daha",
       "summary_tr": "Fenerbahçe, gelecek sezon forvet hattını güçlendirmek için çalışmalarına başladı. Sarı lacivertliler, bu bağlamda Juventuslu Openda için resmi görüşme gerçekleştirdi."
     },
     {
-      "title": "'What a stunner!' - Kelly doubles Arsenal's lead against Chelsea",
-      "summary": "Chloe Kelly's curling long-range strike puts Arsenal 2-0 up in the first leg of their Women's Champions League quarter-final against Chelsea.",
-      "url": "https://www.bbc.com/sport/football/videos/ckge909g5g8o?at_medium=RSS&at_campaign=rss",
+      "title": "The tie is nowhere near done - Russo",
+      "summary": "Alessia Russo reflects on her superb goal and talks about her preferred playing role following Arsenal's 3–1 victory over Chelsea in the first leg of the Women's Champions League quarter‑final.",
+      "url": "https://www.bbc.com/sport/football/videos/cvg46enngrno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-24T20:48:33",
+      "published": "2026-03-24T22:46:49",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.993321",
-      "priority_score": 70,
+      "fetched_at": "2026-03-24T23:22:20.490906",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.637467",
-      "title_tr": "'Ne muhteşem bir şey!' - Kelly, Arsenal'in Chelsea'ye karşı liderliğini ikiye katladı",
-      "summary_tr": "Chloe Kelly'nin uzun mesafeli vuruşu, Kadınlar Şampiyonlar Ligi çeyrek final ilk ayağında Chelsea'ye karşı Arsenal'i 2-0 öne geçirdi."
-    },
-    {
-      "title": "Manchester United Women take to main stage for biggest week in their history",
-      "summary": "Champions League quarter-final against Bayern Munich and WSL derby will shape the rest of United’s seasonIt is no exaggeration to describe the next seven days as the most significant week of fixtures in the history of the Manchester United women’s team, as they contest their first European quarter-f",
-      "url": "https://www.theguardian.com/football/2026/mar/24/europe-derby-manchester-united-women-champions-league-bayern-munich",
-      "image_url": null,
-      "published": "2026-03-24T17:35:00",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:21:53.213780",
-      "priority_score": 68,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-24T22:24:45.759753",
-      "title_tr": "Manchester United Kadınlar tarihlerinin en büyük haftasında ana sahneye çıkıyor",
-      "summary_tr": "Bayern Münih ile Şampiyonlar Ligi çeyrek finali ve WSL derbisi United'ın sezonunun geri kalanını şekillendirecek Önümüzdeki yedi günü, Avrupa'daki ilk çeyrek finallerine çıkacak olan Manchester United kadın takımının tarihindeki en önemli fikstür haftası olarak tanımlamak abartı olmaz."
-    },
-    {
-      "title": "Russo puts Arsenal in charge against Chelsea in Women’s Champions League",
-      "summary": "Holders Arsenal take a two-goal lead into the second leg of their Champions League quarter-final against Chelsea next week after a 3-1 win at the Emirates Stadium, with the quality of the goals, two disallowed Chelsea goals and the Blues’ injury woes the talking points.A Stina Blackstenius header an",
-      "url": "https://www.theguardian.com/football/2026/mar/24/arsenal-chelsea-womens-champions-league-match-report",
-      "image_url": null,
-      "published": "2026-03-24T22:14:04",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:21:53.212113",
-      "priority_score": 78,
-      "categories": [
-        "match_results",
-        "injuries",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-24T22:24:45.731285",
-      "title_tr": "Russo, Kadınlar Şampiyonlar Ligi'nde Chelsea'ye karşı Arsenal'i görevlendirdi",
-      "summary_tr": "Şampiyonlar Ligi çeyrek finalinin ikinci ayağında, Emirates Stadı'nda alınan 3-1'lik galibiyetin ardından Arsenal, önümüzdeki hafta Chelsea'ye karşı iki gol öne geçecek; gollerin kalitesi, Chelsea'nin izin verilmeyen iki golü ve Blues'un sakatlığı tartışma konularını olumsuz etkiliyor. Stina Blackstenius'un kafa vuruşu"
+      "processed_at": "2026-03-24T23:25:49.659882",
+      "title_tr": "Beraberlik tamamlanmaya yakın değil - Russo",
+      "summary_tr": "Alessia Russo, Kadınlar Şampiyonlar Ligi çeyrek finalinin ilk ayağında Arsenal'in Chelsea'ye karşı kazandığı 3-1 galibiyetin ardından attığı muhteşem golü anlatıyor ve tercih ettiği oyun rolünü anlatıyor."
     },
     {
       "title": "Griezmann resmen Orlando City'de!",
@@ -200,37 +139,139 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T22:23:02.756532",
+      "fetched_at": "2026-03-24T23:24:09.484416",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-03-24T22:24:45.879836",
+      "processed_at": "2026-03-24T23:25:49.908206",
       "title_tr": "Griezmann resmen Orlando City'de!",
       "summary_tr": "İspanyol devi Atletico Madrid'de forma giyen Fransız yıldız Antoine Griezmann'ın yeni adresi MLS ekibi Orlando City oldu. 2+1 yıllık sözleşme imzalayan golcü futbolcu, sezon sonunda Orlando City takımına katılım sağlayacak."
     },
     {
-      "title": "'One of best goals I've seen' - James strikes for Chelsea",
-      "summary": "Lauren James finds the top corner with a spectacular curling effort for Chelsea against Arsenal in their Women's Champions League quarter-final.",
-      "url": "https://www.bbc.com/sport/football/videos/cgk0xjpk52no?at_medium=RSS&at_campaign=rss",
+      "title": "Manchester United Women take to main stage for biggest week in their history",
+      "summary": "Champions League quarter-final against Bayern Munich and WSL derby will shape the rest of United’s seasonIt is no exaggeration to describe the next seven days as the most significant week of fixtures in the history of the Manchester United women’s team, as they contest their first European quarter-f",
+      "url": "https://www.theguardian.com/football/2026/mar/24/europe-derby-manchester-united-women-champions-league-bayern-munich",
       "image_url": null,
-      "published": "2026-03-24T21:53:32",
+      "published": "2026-03-24T17:35:00",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:22:58.709138",
+      "priority_score": 68,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-24T23:25:49.801269",
+      "title_tr": "Manchester United Kadınlar tarihlerinin en büyük haftasında ana sahneye çıkıyor",
+      "summary_tr": "Bayern Münih ile Şampiyonlar Ligi çeyrek finali ve WSL derbisi United'ın sezonunun geri kalanını şekillendirecek Önümüzdeki yedi günü, Avrupa'daki ilk çeyrek finallerine çıkacak olan Manchester United kadın takımının tarihindeki en önemli fikstür haftası olarak tanımlamak abartı olmaz."
+    },
+    {
+      "title": "Mohamed Salah will get the Liverpool farewell he deserves -- but he'll also leave a huge void",
+      "summary": "It's hard to imagine Liverpool without Mohamed Salah, but all good things must come to an end. Could his farewell include an FA Cup or Champions League trophy?",
+      "url": "https://www.espn.com/soccer/story/_/id/48298128/mohamed-salah-leaving-liverpool-reaction-analysis-transfers-beth-lindop",
+      "image_url": null,
+      "published": "2026-03-25T00:13:34",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:22:14.165604",
+      "priority_score": 65,
+      "categories": [
+        "champions_league"
+      ],
+      "processed_at": "2026-03-24T23:25:49.620661",
+      "title_tr": "Mohamed Salah, Liverpool'a hak ettiği vedayı alacak - ama aynı zamanda büyük bir boşluk da bırakacak",
+      "summary_tr": "Liverpool'u Mohamed Salah'sız hayal etmek zor ama her güzel şeyin bir sonu olmalı. Onun vedası FA Kupası veya Şampiyonlar Ligi kupasını da içerebilir mi?"
+    },
+    {
+      "title": "Celtic's Schmeichel says shoulder surgery 'went well'",
+      "summary": "Celtic goalkeeper Kasper Schmeichel undergoes the first of two planned shoulder surgeries as the veteran looks to salvage his playing career.",
+      "url": "https://www.bbc.com/sport/football/articles/cm2renx0egro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T23:14:45",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.993149",
+      "fetched_at": "2026-03-24T23:22:20.491267",
+      "priority_score": 75,
+      "categories": [
+        "breaking_news",
+        "injuries"
+      ],
+      "processed_at": "2026-03-24T23:25:49.669498",
+      "title_tr": "Celtic'ten Schmeichel omuz ameliyatının 'iyi gittiğini' söyledi",
+      "summary_tr": "Celtic kalecisi Kasper Schmeichel, oyunculuk kariyerini kurtarmaya çalışırken planlanan iki omuz ameliyatından ilkini geçiriyor."
+    },
+    {
+      "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
+      "summary": "Less than a year ago, Mohamed Salah was sitting on a throne inside Anfield after renewing his contract - so why is he leaving?",
+      "url": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T22:33:11",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:22:20.489252",
       "priority_score": 70,
       "categories": [
-        "match_results",
+        "transfers"
+      ],
+      "processed_at": "2026-03-24T23:25:49.637365",
+      "title_tr": "'Böyle bitmesi planlanmamıştı' - Salah'ın ayrılması zor ama kaçınılmaz",
+      "summary_tr": "Mohamed Salah, bir yıldan kısa bir süre önce sözleşmesini yeniledikten sonra Anfield'da tahtta oturuyordu. Peki neden ayrılıyor?"
+    },
+    {
+      "title": "'What a stunner!' - Kelly doubles Arsenal's lead against Chelsea",
+      "summary": "Chloe Kelly's curling long-range strike puts Arsenal 2-0 up in the first leg of their Women's Champions League quarter-final against Chelsea.",
+      "url": "https://www.bbc.com/sport/football/videos/ckge909g5g8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-03-24T20:48:33",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:22:20.491023",
+      "priority_score": 70,
+      "categories": [
+        "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.634499",
-      "title_tr": "'Gördüğüm en iyi gollerden biri' - James Chelsea adına gol attı",
-      "summary_tr": "Lauren James, Kadınlar Şampiyonlar Ligi çeyrek finalinde Chelsea'nin Arsenal'e karşı muhteşem bir curling hareketiyle üst köşeyi buluyor."
+      "processed_at": "2026-03-24T23:25:49.663192",
+      "title_tr": "'Ne muhteşem bir şey!' - Kelly, Arsenal'in Chelsea'ye karşı liderliğini ikiye katladı",
+      "summary_tr": "Chloe Kelly'nin uzun mesafeli vuruşu, Kadınlar Şampiyonlar Ligi çeyrek final ilk ayağında Chelsea'ye karşı Arsenal'i 2-0 öne geçirdi."
+    },
+    {
+      "title": "Russo puts Arsenal in charge against Chelsea in Women’s Champions League",
+      "summary": "Holders Arsenal take a two-goal lead into the second leg of their Champions League quarter-final against Chelsea next week after a 3-1 win at the Emirates Stadium, with the quality of the goals, two disallowed Chelsea goals and the Blues’ injury woes the talking points.A Stina Blackstenius header an",
+      "url": "https://www.theguardian.com/football/2026/mar/24/arsenal-chelsea-womens-champions-league-match-report",
+      "image_url": null,
+      "published": "2026-03-24T22:14:04",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:22:58.707016",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "injuries",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-24T23:25:49.754498",
+      "title_tr": "Russo, Kadınlar Şampiyonlar Ligi'nde Chelsea'ye karşı Arsenal'i görevlendirdi",
+      "summary_tr": "Şampiyonlar Ligi çeyrek finalinin ikinci ayağında, Emirates Stadı'nda alınan 3-1'lik galibiyetin ardından Arsenal, önümüzdeki hafta Chelsea'ye karşı iki gol öne geçecek; gollerin kalitesi, Chelsea'nin izin verilmeyen iki golü ve Blues'un sakatlığı tartışmaları olumsuz etkiliyor. Stina Blackstenius'un kafa vuruşu"
     },
     {
       "title": "'Saoedi-Arabië of MLS mogelijke bestemming transfervrije Salah'",
@@ -242,18 +283,18 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-24T22:24:43.505605",
+      "fetched_at": "2026-03-24T23:25:47.261963",
       "priority_score": 67,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-03-24T22:24:46.688888",
+      "processed_at": "2026-03-24T23:25:51.056813",
       "title_tr": "'Transfersiz Salah'ın olası hedefi Suudi Arabistan veya MLS'",
       "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
-      "title": "Tiger to make comeback TONIGHT after his TGL team lose Finals opener",
+      "title": "Tiger makes comeback after his TGL team lose Finals opener",
       "summary": "Tiger Woods has confirmed he will return to action for the final night of the TGL season on Tuesday, live on Sky Sports.",
       "url": "https://www.skysports.com/golf/news/12040/13523714/tgl-golf-league-tiger-woods-confirms-comeback-for-jupiter-links-gc-after-los-angeles-gc-win-finals-opener",
       "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-tiger-woods-golf_7201577.jpg?20260324061158",
@@ -262,14 +303,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:28.282807",
+      "fetched_at": "2026-03-24T23:22:34.146846",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-24T22:24:45.690112",
-      "title_tr": "Tiger, TGL takımının final açılışını kaybetmesinin ardından BU GECE geri dönecek",
+      "processed_at": "2026-03-24T23:25:49.711184",
+      "title_tr": "Tiger, TGL takımının Final açılışını kaybetmesinin ardından geri dönüş yaptı",
       "summary_tr": "Tiger Woods, Salı günü Sky Sports'ta canlı olarak TGL sezonunun son gecesi için sahalara döneceğini doğruladı."
     },
     {
@@ -282,32 +323,53 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:28.282982",
+      "fetched_at": "2026-03-24T23:22:34.146925",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-24T22:24:45.699690",
+      "processed_at": "2026-03-24T23:25:49.721390",
       "title_tr": "Şampiyona, L1 ve L2 play-off takvimi onaylandı",
       "summary_tr": "EFL, 2025/26 Sky Bet Şampiyonası, League One ve League Two play-off'larının tarihlerini doğruladı."
+    },
+    {
+      "title": "Barcelona 78-71 Anadolu Efes maç sonucu (EuroLeague)",
+      "summary": "EuroLeague'deki temsilcilerimizden Anadolu Efes, deplasmanda Barcelona'ya mağlup oldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/barcelona-78-71-anadolu-efes-mac-sonucu-euroleague-43135729",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c31860134f9baf6afacafa.jpg",
+      "published": "2026-03-24T23:04:10",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-24T23:24:21.803658",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-03-24T23:25:49.954043",
+      "title_tr": "Barcelona 78-71 Anadolu Efes maç sonucu (EuroLeague)",
+      "summary_tr": "EuroLeague'deki temsilcilerimizden Anadolu Efes, deplasmanda Barcelona'ya mağlup oldu."
     },
     {
       "title": "Salah to leave Liverpool at end of the season",
       "summary": "Mohamed Salah will leave Liverpool at the end of the season, the Premier League club announced Tuesday.",
       "url": "https://www.espn.com/soccer/story/_/id/48297617/mohamed-salah-leave-liverpool-end-season",
       "image_url": null,
-      "published": "2026-03-24T21:43:15",
+      "published": "2026-03-24T23:43:47",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.014589",
+      "fetched_at": "2026-03-24T23:22:14.165856",
       "priority_score": 65,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.605060",
+      "processed_at": "2026-03-24T23:25:49.620983",
       "title_tr": "Salah sezon sonunda Liverpool'dan ayrılacak",
       "summary_tr": "Premier Lig kulübü Salı günü yaptığı açıklamada, Mohamed Salah'ın sezon sonunda Liverpool'dan ayrılacağını duyurdu."
     },
@@ -316,17 +378,17 @@
       "summary": "Brentford forward Igor Thiago claims his rivalry with Manchester City's Erling Haaland in the race to finish as top scorer in the Premier League has given him an extra motivation to represent Brazil.",
       "url": "https://www.espn.com/soccer/story/_/id/48294634/brazil-igor-thiago-relishing-premier-league-golden-boot-battle-erling-haaland",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:46",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.016076",
+      "fetched_at": "2026-03-24T23:22:14.167013",
       "priority_score": 65,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.608452",
+      "processed_at": "2026-03-24T23:25:49.625013",
       "title_tr": "Thiago: Haaland savaşı Brezilya'nın şansına yardımcı olabilir",
       "summary_tr": "Brentford forveti Igor Thiago, Premier Lig'i gol kralı olarak bitirme yarışında Manchester City'den Erling Haaland ile yaşadığı rekabetin kendisine Brezilya'yı temsil etme konusunda ekstra bir motivasyon sağladığını iddia ediyor."
     },
@@ -335,58 +397,59 @@
       "summary": "LaLiga players answered ESPN's questions on everything from who they would sign to player ratings.",
       "url": "https://www.espn.com/soccer/story/_/id/48182439/laliga-confidential-spains-soccer-stars-take-espn-player-survey",
       "image_url": null,
-      "published": "2026-03-24T22:22:58",
+      "published": "2026-03-25T00:14:03",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.017310",
+      "fetched_at": "2026-03-24T23:22:14.167679",
       "priority_score": 65,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-03-24T22:24:45.618865",
+      "processed_at": "2026-03-24T23:25:49.632812",
       "title_tr": "İlk imzan kimle? En sinir bozucu antrenör? En iyi şehir? ESPN'in oyuncu anketi",
       "summary_tr": "LaLiga oyuncuları, kiminle sözleşme imzalayacaklarından oyuncu reytinglerine kadar ESPN'in sorularını yanıtladı."
     },
     {
-      "title": "Liverpool must find someone to hit Salah numbers - Warnock",
-      "summary": "Former Liverpool defender and Match of the Day pundit Stephen Warnock reacts to Mohamed Salah's announcement that he will leave Liverpool at the end of this season.",
-      "url": "https://www.bbc.com/sport/football/videos/cge097vwg0qo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T22:15:25",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Fenerbahçe için kaçan balık büyük oldu! Performansıyla göz dolduruyor",
+      "summary": "Fenerbahçe'nin transferi için kendisi ve Atalanta ile anlaştığı, ancak İtalyan ekibi teminat mektubu isteyince transfer gerçekleşmeyen Ademola Lookman, Atletico Madrid'e transfer olmuştu. Nijeryalı yıldızın...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/24/fenerbahce-icin-kacan-balik-buyuk-oldu-performansiyla-goz-dolduruyor",
+      "image_url": "https://iaftm.tmgrup.com.tr/4616b2/1200/675/0/11/800/460?u=https://iftm.tmgrup.com.tr/2026/03/23/kacan-balik-buyuk-oldu-1774287291457.jpeg",
+      "published": "2026-03-24T03:51:47",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.993867",
-      "priority_score": 65,
+      "fetched_at": "2026-03-24T23:24:54.071034",
+      "priority_score": 64,
       "categories": [
-        "general"
+        "transfers",
+        "la_liga",
+        "super_lig"
       ],
-      "processed_at": "2026-03-24T22:24:45.646498",
-      "title_tr": "Liverpool, Salah rakamlarını tutturacak birini bulmalı - Warnock",
-      "summary_tr": "Eski Liverpool savunma oyuncusu ve Günün Maçı yorumcusu Stephen Warnock, Mohamed Salah'ın bu sezon sonunda Liverpool'dan ayrılacağını duyurmasına tepki gösterdi."
+      "processed_at": "2026-03-24T23:25:50.503776",
+      "title_tr": "Fenerbahçe için kaçan balık büyük oldu! Performansıyla göz dolduruyor",
+      "summary_tr": "Fenerbahçe'nin transferi için kendisi ve Atalanta ile anlaştığı, ancak İtalyan ekibi teminat mektubu isteyince transfer gerçekleşmeyen Ademola Lookman, Atletico Madrid'e transfer olmuştu. Nijeryalı yıldızın...Devamı için tıklayınız"
     },
     {
-      "title": "Antoine Griezmann to leave Atlético Madrid and join MLS’s Orlando City",
-      "summary": "French superstar played 10 years for AtléticoForward will join Orlando in July on a deal through 2029Atlético plays Barcelona in Copa del Rey final in AprilOrlando City SC completed the long-anticipated signing of Atlético Madrid superstar Antoine Griezmann on Tuesday.The 35-year-old French attacker",
-      "url": "https://www.theguardian.com/football/2026/mar/24/antoine-griezmann-mls-orlando-city-atletico-madrid",
+      "title": "James Garner pleased with defining year at Everton after receiving first England call-up",
+      "summary": "Midfielder could make debut against Uruguay or JapanGarner: ‘I knew I had to show everybody what I’m about’James Garner always planned this to be a defining year in his career and is reaping the rewards after receiving a first England call-up, the Everton midfielder has said. The 25-year-old could m",
+      "url": "https://www.theguardian.com/football/2026/mar/24/james-garner-england-everton-uruguay-japan-world-cup-squad",
       "image_url": null,
-      "published": "2026-03-24T17:33:07",
+      "published": "2026-03-24T22:30:50",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:53.214192",
+      "fetched_at": "2026-03-24T23:22:58.707395",
       "priority_score": 63,
       "categories": [
-        "transfers",
-        "la_liga"
+        "breaking_news"
       ],
-      "processed_at": "2026-03-24T22:24:45.766899",
-      "title_tr": "Antoine Griezmann, Atletico Madrid'den ayrılıp MLS'in Orlando City takımına katılacak",
-      "summary_tr": "Fransız süperstar Atlético'da 10 yıl forma giydiForward, 2029'a kadar bir anlaşmayla Temmuz ayında Orlando'ya katılacakAtlético, Nisan ayında Copa del Rey finalinde Barcelona'yla oynayacak Orlando City SC, Atlético Madrid'in süperstarı Antoine Griezmann'ın uzun zamandır beklenen transferini Salı günü tamamladı.35 yaşındaki Fransız hücum oyuncusu"
+      "processed_at": "2026-03-24T23:25:49.762207",
+      "title_tr": "James Garner, İngiltere'den ilk kez çağrıldıktan sonra Everton'da geçirdiği yıldan memnun",
+      "summary_tr": "Orta saha oyuncusu Uruguay veya Japonya'ya karşı ilk maçına çıkabilir Garner: 'Herkese neyle ilgili olduğumu göstermem gerektiğini biliyordum' James Garner bunu her zaman kariyerinde belirleyici bir yıl olarak planladı ve Everton orta saha oyuncusu, İngiltere'ye ilk çağrıldıktan sonra bunun meyvelerini aldığını söyledi. 25 yaşındaki m"
     },
     {
       "title": "Arsenal's Eze could be out for month with injury",
@@ -398,35 +461,36 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.992972",
+      "fetched_at": "2026-03-24T23:22:20.490514",
       "priority_score": 60,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.632006",
+      "processed_at": "2026-03-24T23:25:49.651931",
       "title_tr": "Arsenal'de Eze sakatlığı nedeniyle bir ay sahalardan uzak kalabilir",
       "summary_tr": "Arsenal'in hücum oyuncusu Eberechi Eze, baldırındaki sakatlık nedeniyle dört ila altı hafta sahalardan uzak kalabilir."
     },
     {
-      "title": "I miss English football - Pochettino on 'ideal place' to manage",
-      "summary": "Former Tottenham and Chelsea manager Mauricio Pochettino says he misses \"the world of football in England\".",
-      "url": "https://www.bbc.com/sport/football/articles/c0mjzmyx80ro?at_medium=RSS&at_campaign=rss",
+      "title": "'One of best goals I've seen' - James strikes for Chelsea",
+      "summary": "Lauren James finds the top corner with a spectacular curling effort for Chelsea against Arsenal in their Women's Champions League quarter-final.",
+      "url": "https://www.bbc.com/sport/football/videos/cgk0xjpk52no?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-24T14:25:18",
+      "published": "2026-03-24T21:53:32",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.994205",
+      "fetched_at": "2026-03-24T23:22:20.490769",
       "priority_score": 60,
       "categories": [
-        "transfers",
-        "premier_league"
+        "match_results",
+        "premier_league",
+        "champions_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.652606",
-      "title_tr": "İngiliz futbolunu özlüyorum - Pochettino yönetmek için 'ideal yer' diyor",
-      "summary_tr": "Tottenham ve Chelsea'nin eski teknik direktörü Mauricio Pochettino, \"İngiltere'deki futbol dünyasını\" özlediğini söyledi."
+      "processed_at": "2026-03-24T23:25:49.657814",
+      "title_tr": "'Gördüğüm en iyi gollerden biri' - James Chelsea adına gol attı",
+      "summary_tr": "Lauren James, Kadınlar Şampiyonlar Ligi çeyrek finalinde Chelsea'nin Arsenal'e karşı muhteşem bir curling hareketiyle üst köşeyi buluyor."
     },
     {
       "title": "Manchester United fan, 76, feeling ‘helpless’ as family seat is given to VIPs",
@@ -438,90 +502,51 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:53.212898",
+      "fetched_at": "2026-03-24T23:22:58.707989",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.745159",
+      "processed_at": "2026-03-24T23:25:49.777058",
       "title_tr": "76 yaşındaki Manchester United taraftarı, VIP'lere aile koltuğu verildiği için kendini 'çaresiz' hissediyor",
-      "summary_tr": "Eski United oyuncusunun damadı, nakit artırma planları kapsamında birinci sınıf koltuklardan vazgeçmek zorunda kalan 1.100 taraftar arasında yer alıyorBir Manchester United taraftarı, ailesinin İkinci Dünya Savaşı'ndan bu yana kişi başı 300 £ değerindeki VIP'lere yer açmak için tuttuğu koltuktan tahliye edilmesinin ardından kendisini \"çaresiz ve umutsuz\" hissettiğini söyledi."
-    },
-    {
-      "title": "Dybala sürprizi! Türk kulübünün transfer teklifini duyurdular",
-      "summary": "İtalyan La Gazzetta dello Sport, Roma forması giyen Arjantinli yıldız Dybala'nın Türkiye'den resmi transfer teklifi aldığını duyurdu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/dybala-surprizi-turk-kulubunun-transfer-teklifini-duyurdular-43135693",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c300f0134f9baf6afacaaa.jpg",
-      "published": "2026-03-24T21:26:51",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:23:15.579574",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-24T22:24:45.925947",
-      "title_tr": "Dybala sürprizi! Türk kulübünün transfer teklifini duyurdular",
-      "summary_tr": "İtalyan La Gazzetta dello Sport, Roma forması giyen Arjantinli yıldız Dybala'nın Türkiye'den resmi transfer teklifi aldığını duyurdu."
-    },
-    {
-      "title": "Kenan Yıldız'a İtalya'da büyük onur",
-      "summary": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/kenan-yildiza-italyada-buyuk-onur-43135593",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c2beca134f9baf6afac9ef.jpg",
-      "published": "2026-03-24T16:43:25",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:23:15.580133",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-24T22:24:45.993315",
-      "title_tr": "Kenan Yıldız'a İtalya'da büyük onur",
-      "summary_tr": "A Milli Futbol Takımı'mızın ve Juventus'un golcüsü Kenan Yıldız, İtalya Serie A'da haftanın 11'inde yer aldı."
+      "summary_tr": "Eski United oyuncusunun damadı, nakit artırma planları kapsamında birinci sınıf koltuklardan vazgeçmek zorunda kalan 1.100 taraftar arasında yer alıyor Bir Manchester United taraftarı, ailesinin İkinci Dünya Savaşı'ndan bu yana kişi başı 300 £ değerindeki VIP'lere yer açmak için tuttuğu koltuktan tahliye edilmesinin ardından kendisini \"çaresiz ve umutsuz\" hissettiğini söyledi."
     },
     {
       "title": "Sources: Barça to listen to offers for Torres",
       "summary": "Barcelona are considering an attacking shake-up this summer which would include listening to offers for Ferran Torres and the arrival of up to two new forwards, various sources have told ESPN.",
       "url": "https://www.espn.com/soccer/story/_/id/48296409/barcelona-listen-offers-ferran-torres-search-two-strikers-sources",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:46",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.014860",
+      "fetched_at": "2026-03-24T23:22:14.166033",
       "priority_score": 55,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-24T22:24:45.605406",
+      "processed_at": "2026-03-24T23:25:49.621266",
       "title_tr": "Kaynaklar: Barça, Torres için teklifleri dinleyecek",
-      "summary_tr": "ESPN'e göre çeşitli kaynaklar, Barselona'nın bu yaz Ferran Torres için gelen teklifleri dinlemeyi ve iki yeni forvetin gelişini de içerecek şekilde hücumda bir değişiklik yapmayı düşündüğünü söyledi."
+      "summary_tr": "Çeşitli kaynakların ESPN'e söylediğine göre, Barselona bu yaz Ferran Torres için gelen teklifleri dinlemeyi ve iki yeni forvetin gelişini de içeren hücumda bir değişiklik yapmayı düşünüyor."
     },
     {
       "title": "Gattuso calls 'more than my mother,' Calafiori says",
       "summary": "Arsenal defender Riccardo Calafiori said Italy coach Gennaro Gattuso called him more often than his mother did over the last four months.",
       "url": "https://www.espn.com/soccer/story/_/id/48297418/italy-coach-gattuso-calls-more-my-mother-calafiori-says",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:46",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.015072",
+      "fetched_at": "2026-03-24T23:22:14.166233",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.605694",
+      "processed_at": "2026-03-24T23:25:49.621670",
       "title_tr": "Calafiori, Gattuso'nun 'annemden daha fazlası' olduğunu söylüyor",
       "summary_tr": "Arsenal defans oyuncusu Riccardo Calafiori, İtalya teknik direktörü Gennaro Gattuso'nun kendisini son dört ayda annesinden daha sık aradığını söyledi."
     },
@@ -530,17 +555,17 @@
       "summary": "Manchester United are hopeful of having their proposed new stadium open within the next six years, the stadium development CEO has said.",
       "url": "https://www.espn.com/soccer/story/_/id/48297343/man-united-new-stadium-open-6-years-2032",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:47",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.015700",
+      "fetched_at": "2026-03-24T23:22:14.166720",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.607108",
+      "processed_at": "2026-03-24T23:25:49.623384",
       "title_tr": "Man Utd yeni stadyumun 6 yıl içinde açılmasını bekliyor",
       "summary_tr": "Stadyum geliştirme CEO'su, Manchester United'ın önerilen yeni stadyumunun önümüzdeki altı yıl içinde açılmasından umutlu olduğunu söyledi."
     },
@@ -549,17 +574,17 @@
       "summary": "Spain's refereeing committee has backed the decision to hand Real Madrid midfielder Federico Valverde a red card in the club's 3-2 derby win over Atlético Madrid on Sunday.",
       "url": "https://www.espn.com/soccer/story/_/id/48297607/spain-refs-back-federico-valverde-red",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:47",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.015878",
+      "fetched_at": "2026-03-24T23:22:14.166872",
       "priority_score": 55,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-03-24T22:24:45.607744",
+      "processed_at": "2026-03-24T23:25:49.624157",
       "title_tr": "İspanya, Valverde'nin kırmızısını 'ciddi faullü oyun' olarak değerlendirdi",
       "summary_tr": "İspanya'nın hakem komitesi, Real Madrid'in orta saha oyuncusu Federico Valverde'ye, kulübün Pazar günü Atletico Madrid'i 3-2 mağlup ettiği derbide kırmızı kart verilmesi kararını destekledi."
     },
@@ -568,38 +593,19 @@
       "summary": "Pop singer Chappell Roan has said she \"does not hate children\" in response to former Chelsea and Arsenal player Jorginho's criticism.",
       "url": "https://www.espn.com/soccer/story/_/id/48278760/jorginho-slams-singer-chappell-roan-upsetting-situation",
       "image_url": null,
-      "published": "2026-03-24T23:11:52",
+      "published": "2026-03-24T23:43:46",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-24T22:21:12.016449",
+      "fetched_at": "2026-03-24T23:22:14.167148",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-24T22:24:45.610041",
+      "processed_at": "2026-03-24T23:25:49.625897",
       "title_tr": "👀 Futbol yıldızı Jorginho, Chappell Roan'a kızdı",
       "summary_tr": "Pop şarkıcısı Chappell Roan, eski Chelsea ve Arsenal oyuncusu Jorginho'nun eleştirilerine yanıt olarak \"çocuklardan nefret etmediğini\" söyledi."
-    },
-    {
-      "title": "Premier League great Salah will leave lifetime of memories",
-      "summary": "Mohamed Salah will leave Liverpool as an all-time great and iconic Premier League figure, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.com/sport/football/articles/c0r929g5p5eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T20:33:09",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-24T22:21:17.991804",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-24T22:24:45.620656",
-      "title_tr": "Premier Lig'in büyük yıldızı Salah ömür boyu anılar bırakacak",
-      "summary_tr": "Futbol baş yazarı Phil McNulty, Mohamed Salah'ın Liverpool'dan tüm zamanların en iyi ve ikonik Premier Lig figürü olarak ayrılacağını söylüyor."
     }
   ]
 }
