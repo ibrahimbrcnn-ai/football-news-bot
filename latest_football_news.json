@@ -1,7 +1,29 @@
 {
-  "timestamp": "2026-03-25T08:43:20.117092",
+  "timestamp": "2026-03-25T09:47:33.808327",
   "total_items": 30,
   "news": [
+    {
+      "title": "Chelsea boss slams ref after Arsenal win 1st leg",
+      "summary": "Chelsea manager Sonia Bompastor lamented the refereeing decision that ruled out a goal for her side in their 3-1 loss to Arsenal in the first leg of the Champions League quarterfinals.",
+      "url": "https://www.espn.com/soccer/story/_/id/48299271/chelsea-sonia-bompastor-arsenal-goals-womens-champions-league",
+      "image_url": null,
+      "published": "2026-03-25T10:01:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.625486",
+      "priority_score": 90,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.512523",
+      "title_tr": "Chelsea patronu, Arsenal'in ilk maçı kazanmasının ardından hakemi eleştirdi",
+      "summary_tr": "Chelsea teknik direktörü Sonia Bompastor, Şampiyonlar Ligi çeyrek final ilk maçında Arsenal'e 3-1 yenilen maçta hakemin, kendi takımının golünü geçersiz kılan kararından yakındı."
+    },
     {
       "title": "Russo settles thrilling Champions League first leg for Arsenal",
       "summary": "Arsenal beat Chelsea in a thrilling Women's Champions League quarter-final first leg that featured brilliant goals from England internationals Chloe Kelly, Lauren James and Alessia Russo.",
@@ -12,7 +34,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.033551",
+      "fetched_at": "2026-03-25T09:42:47.026952",
       "priority_score": 80,
       "categories": [
         "match_results",
@@ -21,7 +43,7 @@
         "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.560244",
+      "processed_at": "2026-03-25T09:46:23.541196",
       "title_tr": "Russo, Arsenal ile heyecan verici Şampiyonlar Ligi ilk maçını kazandı",
       "summary_tr": "Arsenal, Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında İngiltere'nin uluslararası oyuncuları Chloe Kelly, Lauren James ve Alessia Russo'nun muhteşem golleriyle Chelsea'yi yendi."
     },
@@ -35,14 +57,77 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.034140",
+      "fetched_at": "2026-03-25T09:42:47.027675",
       "priority_score": 80,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-25T08:42:05.567375",
+      "processed_at": "2026-03-25T09:46:23.551005",
       "title_tr": "Salah'ın Liverpool'daki en iyi golleri",
       "summary_tr": "Mohamed Salah'ın Liverpool adına attığı dikkat çekici gollerden bazılarını izleyin. Mısırlı forvet sezon sonunda kulüpten ayrılacağını açıkladı."
+    },
+    {
+      "title": "'Saoedi-Arabië of MLS mogelijke bestemming transfervrije Salah'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/dortmund-houdt-schlotterbeck-uit-handen-real-barcelona-wil-door-met-cancelo",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-25T08:51:34",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:46:19.260839",
+      "priority_score": 77,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-25T09:46:24.776158",
+      "title_tr": "'Transfersiz Salah'ın olası hedefi Suudi Arabistan veya MLS'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Transfer rumors, news: Four clubs chase Spurs defender Gray",
+      "summary": "Manchester United, Dortmund, Chelsea and Aston Villa hold an interest in versatile Tottenham defender Archie Gray. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48302179/transfer-rumors-news-manchester-united-dortmund-chelsea-aston-villa-chase-spurs-defender-gray",
+      "image_url": null,
+      "published": "2026-03-25T09:57:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.627105",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-25T09:46:23.523449",
+      "title_tr": "Transfer söylentileri, haberler: Dört kulüp Spurs'un defans oyuncusu Gray'in peşinde",
+      "summary_tr": "Manchester United, Dortmund, Chelsea ve Aston Villa, Tottenham'ın çok yönlü defans oyuncusu Archie Gray ile ilgileniyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Fenerbahçe transferde 'Joker' çekiyor! Bedava dünya yıldızı",
+      "summary": "Fenerbahçe, Dortmund'la yollarını ayırmaya hazırlanan Alman on numara Julian Brandt için devreye girdi. Sarı-lacivertlileri bu transferde dişli rakipler bekliyor. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-transferde-joker-cekiyor-bedava-dunya-yildizi-43135969",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c3a93c134f9baf6afaccbb.jpg",
+      "published": "2026-03-25T09:22:15",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:44:48.785751",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "bundesliga",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-25T09:46:23.825127",
+      "title_tr": "Fenerbahçe transferde 'Joker' çekiyor! Bedava dünya yıldızı",
+      "summary_tr": "Fenerbahçe, Dortmund'la yollarını ayırmaya hazırlanan Alman on numara Julian Brandt için devreye girdi. Sarı-lacivertlileri bu transferde dişli rakipler bekliyor. İşte detaylar..."
     },
     {
       "title": "Who was the first footballer to announce their international retirement? | The Knowledge",
@@ -54,141 +139,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:58.226423",
-      "priority_score": 78,
+      "fetched_at": "2026-03-25T09:43:23.052398",
+      "priority_score": 68,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-03-25T08:42:05.682232",
+      "processed_at": "2026-03-25T09:46:23.662529",
       "title_tr": "Uluslararası emekliliğini açıklayan ilk futbolcu kimdi? | Bilgi",
       "summary_tr": "Artı: piramitte hızlı yükselişler, Steve Palmer'ın başına buyruk formaları ve kötü şöhretli 2004 Olimpiyat cezası Sorularınız ve cevaplarınızla bize e-posta gönderin \"Geçenlerde barda oldukça hararetli bir tartışma sırasında, futbolcuların 'uluslararası futboldan emekli olması' konusu gündeme geldi\" diyor Edd Crick. \"Biz"
     },
     {
-      "title": "Chelsea boss slams ref after Arsenal win 1st leg",
-      "summary": "Chelsea manager Sonia Bompastor lamented the refereeing decision that ruled out a goal for her side in their 3-1 loss to Arsenal in the first leg of the Champions League quarterfinals.",
-      "url": "https://www.espn.com/soccer/story/_/id/48299271/chelsea-sonia-bompastor-arsenal-goals-womens-champions-league",
-      "image_url": null,
-      "published": "2026-03-25T00:25:57",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Osimhen ile ilgili flaş gelişme! Sahalara dönüş süresi...",
+      "summary": "Son dakika Galatasaray haberleri: Galatasaray'ın Şampiyonlar Ligi son 16 turunda Liverpool ile oynadığı rövanş maçında kolu kırılan Victor Osimhen, ameliyat edildi. En az 1 ay sahalardan uzak kalacağı...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/25/osimhen-ile-ilgili-flas-gelisme-sahalara-donus-suresi",
+      "image_url": "https://iaftm.tmgrup.com.tr/413f21/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/03/25/osimhen-ile-ilgili-flas-gelisme-sahalara-donus-suresi-1774429889348.jpeg",
+      "published": "2026-03-25T09:12:10",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:15.510119",
-      "priority_score": 75,
+      "fetched_at": "2026-03-25T09:45:27.188556",
+      "priority_score": 64,
       "categories": [
         "breaking_news",
         "injuries",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-25T08:42:05.531886",
-      "title_tr": "Chelsea patronu, Arsenal'in ilk maçı kazanmasının ardından hakemi eleştirdi",
-      "summary_tr": "Chelsea teknik direktörü Sonia Bompastor, Şampiyonlar Ligi çeyrek final ilk maçında Arsenal'e 3-1 yenilen maçta hakemin, kendi takımının golünü geçersiz kılan kararından yakındı."
-    },
-    {
-      "title": "Transfer rumors, news: Chelsea's Fernández wants dream move to Madrid",
-      "summary": "Could Real Madrid sign the World Cup-winning midfielder Enzo Fernández in the summer? Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48294346/transfer-rumors-news-manchester-united-ready-move-bayern-munich-canada-defender-alphonso-davies",
-      "image_url": null,
-      "published": "2026-03-25T09:07:47",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:38:15.511747",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-25T08:42:05.542780",
-      "title_tr": "Transfer söylentileri, haberler: Chelsea'li Fernández, Madrid'e rüya gibi bir transfer istiyor",
-      "summary_tr": "Real Madrid yaz aylarında Dünya Kupası'nı kazanan orta saha oyuncusu Enzo Fernández'i transfer edebilir mi? Transfer Talk'ta en son gelişmeler var."
-    },
-    {
-      "title": "Fenerbahçe'ye Amrabat piyangosu! Dudak uçuklatan rakam",
-      "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe, sezon başında Real Betis'e kiraladığı Sofyan Amrabat'ı sezon sonunda bonservisiyle göndermeye hazırlanıyor. İspanyol basını, sarı-lacivertlilerin Faslı...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/25/fenerbahceye-amrabat-piyangosu-dudak-ucuklatan-rakam",
-      "image_url": "https://iaftm.tmgrup.com.tr/fa68ee/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/03/25/fenerbahceye-amrabat-piyangosu-dudak-ucuklatan-rakam-1774427117907.jpeg",
-      "published": "2026-03-25T08:25:56",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:41:07.229056",
-      "priority_score": 69,
-      "categories": [
-        "transfers",
-        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-03-25T08:42:06.264930",
-      "title_tr": "Fenerbahçe'ye Amrabat piyangosu! Dudak uçuklatan rakam",
-      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe, sezon başında Real Betis'e kiraladığı Sofyan Amrabat'ı sezon sonunda bonservisiyle göndermeye hazırlanıyor. İspanyol basını, sarı-lacivertlilerin Faslı...Devamı için tıklayınız"
-    },
-    {
-      "title": "Osimhen'e Drogba modeli!",
-      "summary": "Sağ kolunun önünden ameliyat olan Osimhen’in sahalardan 4-6 hafta uzak kalması beklense de erken dönüş ihtimali doğdu. Daha önce Drogba, benzer bir sakatlık sonrası özel prosedürle 10 günde sahalara dönmüştü.",
-      "url": "https://www.haberturk.com/osimhen-e-drogba-modeli-3872158-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774425820/3872158/jpg/1280x1280",
-      "published": "2026-03-25T08:04:00",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:40:13.305529",
-      "priority_score": 68,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-03-25T08:42:05.765688",
-      "title_tr": "Osimhen'e Drogba modelleri!",
-      "summary_tr": "Sağ kolunun önünden ameliyat olan Osimhen’in sahalardan 4-6 hafta uzak kalması beklense de erken dönüş ihtimali doğdu. Daha önce Drogba, benzer bir sakatlık sonrası özel prosedürle 10 günde sahalara dönmüştü."
-    },
-    {
-      "title": "Galatasaray'da ilk ayrılık belli oldu! Büyük umutlarla gelmişti ama...",
-      "summary": "Son dakika Galatasaray transfer haberleri: Yaz transfer dönemi için çalışmalarına şimdiden başlayan Galatasaray ile ilgili flaş bir iddia ortaya atıldı. Sezon sonunda kadroda düşünülmeyen oyuncularla vedalaşmak...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/25/galatasarayda-ilk-ayrilik-belli-oldu-buyuk-umutlarla-gelmisti-ama",
-      "image_url": "https://iaftm.tmgrup.com.tr/ad156e/1200/675/0/0/1068/600?u=https://iftm.tmgrup.com.tr/2026/03/25/galatasarayda-ilk-ayrilik-belli-oldu-buyuk-umutlarla-gelmisti-ama-1774424662413.jpg",
-      "published": "2026-03-25T07:45:01",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:41:07.228888",
-      "priority_score": 64,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-25T08:42:06.253351",
-      "title_tr": "Galatasaray'da ilk ayrılık belli oldu! Büyük umutlarla gelmişti ama...",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Yaz transfer dönemi için çalışmalarına şimdiden başlayan Galatasaray ile ilgili flaş bir iddia ortaya atıldı. Sezon sonunda kadroda düşünülmeyen oyuncularla vedalaşmak...Devamı için tıklayınız"
-    },
-    {
-      "title": "Bompastor calls for more ‘respect’ as Russo puts Arsenal in control of WCL tie",
-      "summary": "Sonia Bompastor, the Chelsea head coach, said the women’s game needs to be shown “more respect” after the decision to rule out Veerle Buurman’s goal in the first half of the first leg of the Champions League quarter-final was not overturned by the video assistant referee.Buurman leapt and nodded in ",
-      "url": "https://www.theguardian.com/football/2026/mar/24/arsenal-chelsea-womens-champions-league-match-report",
-      "image_url": null,
-      "published": "2026-03-24T22:14:04",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:38:58.226733",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-25T08:42:05.690053",
-      "title_tr": "Bompastor, Russo'nun Arsenal'i WCL beraberliğinin kontrolüne vermesiyle daha fazla 'saygı' çağrısında bulundu",
-      "summary_tr": "Chelsea baş antrenörü Sonia Bompastor, Veerle Buurman'ın Şampiyonlar Ligi çeyrek finalinin ilk ayağının ilk yarısında attığı golün video yardımcı hakem tarafından iptal edilmemesi kararının ardından kadınlar maçına \"daha fazla saygı\" gösterilmesi gerektiğini söyledi. Buurman atladı ve başını salladı."
+      "processed_at": "2026-03-25T09:46:24.274346",
+      "title_tr": "Osimhen ile ilgili flaş gelişme! Sahalara dönüş süresi...",
+      "summary_tr": "Son dakika Galatasaray haberleri: Galatasaray'ın Şampiyonlar Ligi son 16 turunda Liverpool ile oynadığı rövanş maçında kolu kırılan Victor Osimhen, ameliyat edildi. En az 1 ay sahalardan uzak kalacağı...Devamı için tıklayınız"
     },
     {
       "title": "Osimhen'den Okan Buruk ve Dursun Özbek'e şampiyonluk sözü! Hastane ziyaretinde duygusal anlar",
@@ -200,111 +180,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-25T08:40:25.668742",
+      "fetched_at": "2026-03-25T09:44:48.786314",
       "priority_score": 61,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-03-25T08:42:05.901451",
+      "processed_at": "2026-03-25T09:46:23.894749",
       "title_tr": "Osimhen'den Okan Buruk ve Dursun Özbek'e şampiyonluk sözü! Hastane ziyaretinde duygusal anlar",
       "summary_tr": "Liverpool maçında kolu kırıldığı için ameliyat olan ve 1 aydan uzun süre sahalardan uzak kalacak olması nedeniyle camiada moralleri bozan Victor Osimhen, sarı-kırmızılı yönetime şampiyonluk sözü verdi."
     },
     {
-      "title": "'Vertrek van Liverpool-grootheid Salah komt op het juiste moment'",
-      "summary": "In de nieuwe aflevering van VI ZSM bespreken Tim Tempelaars het aangekondigde vertrek van Mohamed Salah bij Liverpool. De 33-jarige Egyptenaar vertrekt na dit seizoen bij de club van trainer Arne Slot, zo heeft hij zelf bekend gemaakt via zijn sociale media.",
-      "url": "https://www.vi.nl/video/vertrek-van-liverpool-grootheid-salah-komt-op-het-juiste-moment",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-03-25t090710--vertrek-van-liverpool-grootheid-salah-komt-op-het-juiste-moment.jpg?width=1200",
-      "published": "2026-03-25T08:15:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:42:01.281628",
-      "priority_score": 57,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-25T08:42:06.704562",
-      "title_tr": "'Büyük Salah'ın Liverpool'dan ayrılışı doğru zamanda geldi'",
-      "summary_tr": "VI ZSM'nin yeni bölümünde Tim Tempelaars, Mohamed Salah'ın Liverpool'dan duyurulan ayrılışını tartışıyor. 33 yaşındaki Mısırlı futbolcu, sosyal medya hesabından yaptığı açıklamada, bu sezonun ardından teknik direktör Arne Slot'un kulübünden ayrılacağını duyurdu."
-    },
-    {
-      "title": "Diepe buiging van Engelse media voor Salah: 'Maar zo had het niet moeten eindigen'",
-      "summary": "Het naderende vertrek van Mohamed Salah bij Liverpool is in Engeland het gesprek van de dag. De media zijn diep onder de indruk van de legacy van de sterspeler van The Reds. 'Als je puur kijkt naar prestaties en de impact in de Premier League, dan gaat Salah Ronaldo voorbij.'",
-      "url": "https://www.vi.nl/nieuws/diepe-buiging-van-engelse-media-voor-salah-maar-zo-had-het-niet-moeten-eindigen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/25/4cf262ce36e3b8b3794e47c945410f435c7f2d79.jpg?width=1200",
-      "published": "2026-03-25T08:24:54",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:42:01.281875",
-      "priority_score": 57,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-03-25T08:42:06.768914",
-      "title_tr": "İngiliz medyası Salah'a derinden eğildi: 'Ama böyle bitmemeliydi'",
-      "summary_tr": "İngiltere'de Mohamed Salah'ın Liverpool'dan ayrılmasının yaklaştığı konuşuluyor. Medya, Kırmızılar'ın yıldız oyuncusunun mirasından derinden etkilendi. 'Sadece Premier Lig'deki performansa ve etkiye bakarsanız Salah, Ronaldo'yu geçiyor.'"
-    },
-    {
-      "title": "Galatasaray'a tarihi gelir: 346 milyon euro!",
-      "summary": "Süper Lig'de son 3 yılın şampiyonu Galatasaray üst üste dördüncü zaferine doğru ilerlerken, kasasını da doldurdu. Rakamlar alt alta toplandığında 346,8 milyon euro'luk dev kazanç kulüp tarihinde rekor rakama ulaştı.",
-      "url": "https://www.haberturk.com/galatasaray-a-tarihi-gelir-346-milyon-euro-3872174-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774425908/3872174/jpg/1280x1280",
-      "published": "2026-03-25T08:06:04",
+      "title": "Osimhen'e Drogba modeli!",
+      "summary": "Sağ kolunun önünden ameliyat olan Osimhen’in sahalardan 4-6 hafta uzak kalması beklense de erken dönüş ihtimali doğdu. Daha önce Drogba, benzer bir sakatlık sonrası özel prosedürle 10 günde sahalara dönmüştü.",
+      "url": "https://www.haberturk.com/osimhen-e-drogba-modeli-3872158-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774425820/3872158/jpg/1280x1280",
+      "published": "2026-03-25T08:04:00",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-25T08:40:13.305447",
-      "priority_score": 53,
+      "fetched_at": "2026-03-25T09:44:37.899257",
+      "priority_score": 58,
       "categories": [
-        "super_lig"
+        "injuries"
       ],
-      "processed_at": "2026-03-25T08:42:05.761964",
-      "title_tr": "Galatasaray'a tarihi gelir: 346 milyon euro!",
-      "summary_tr": "Süper Lig'de son 3 yılın şampiyonu Galatasaray üst üste dördüncü zaferine doğru ilerlerken, kasasını da doldurdu. Rakamlar alt alta toplandığında 346,8 milyon euro'luk dev kazanç kulüp tarihinde rekor rakama ulaştı."
+      "processed_at": "2026-03-25T09:46:23.775725",
+      "title_tr": "Osimhen'e Drogba modelleri!",
+      "summary_tr": "Sağ kolunun önünden ameliyat olan Osimhen’in sahalardan 4-6 hafta uzak kalması beklense de erken dönüş ihtimali doğdu. Daha önce Drogba, benzer bir sakatlık sonrası özel prosedürle 10 günde sahalara dönmüştü."
     },
     {
-      "title": "Duckett withdraws from IPL to focus on keeping England spot",
-      "summary": "Ben Duckett has pulled out of the Indian Premier League in a bid to keep hold of his England place following a dire winter.",
-      "url": "https://www.skysports.com/cricket/news/12040/13523869/ben-duckett-withdraws-from-ipl-to-focus-attention-on-finding-form-for-england-after-winter-to-forget",
-      "image_url": "https://e0.365dm.com/26/01/1920x1080/skysports-ben-duckett-cricket_7142660.jpg?20260122142120",
-      "published": "2026-03-24T14:48:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "'Dat kan nog weleens een zware vlucht worden'",
+      "summary": "Jort van der Sande heeft een kort nachtje achter de rug. De aanvaller van Cambuur vierde het promotiefeest volop mee, maar moest enkele uren later afreizen naar naar Schiphol voor zijn vlucht naar Bonaire. Thomas Bresser sprak met internatioal Van der Sande, die is opgegroeid op het eiland.",
+      "url": "https://www.vi.nl/video/dat-kan-nog-weleens-een-zware-vlucht-worden",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-03-25t094331--dat-kan-nog-weleens-een-zware-vlucht-worden.jpg?width=1200",
+      "published": "2026-03-25T09:15:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:32.290187",
-      "priority_score": 51,
+      "fetched_at": "2026-03-25T09:46:19.260691",
+      "priority_score": 67,
       "categories": [
-        "match_results",
-        "premier_league",
+        "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-03-25T08:42:05.632102",
-      "title_tr": "Duckett, İngiltere'yi yerinde tutmaya odaklanmak için IPL'den çekildi",
-      "summary_tr": "Ben Duckett, zorlu bir kışın ardından İngiltere'deki yerini korumak amacıyla Hindistan Premier Ligi'nden çekildi."
-    },
-    {
-      "title": "Kadınlar Şampiyonlar Ligi'nde çeyrek final heyecanı! Real Madrid - Barcelona maçı canlı sohbet ile Misli'de",
-      "summary": "UEFA Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid, Barcelona'yı ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-      "url": "https://www.hurriyet.com.tr/sporarena/kadinlar-sampiyonlar-liginde-ceyrek-final-heyecani-real-madrid-barcelona-maci-mislide-43135891",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c394e0134f9baf6afacc27.jpg",
-      "published": "2026-03-25T07:56:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:40:25.668596",
-      "priority_score": 51,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-03-25T08:42:05.878141",
-      "title_tr": "Kadınlar Şampiyonlar Ligi'nde çeyrek final heyecanı! Real Madrid - Barcelona maçı canlı sohbet ile Misli'de",
-      "summary_tr": "UEFA Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid, Barcelona'yı ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak."
+      "processed_at": "2026-03-25T09:46:24.740001",
+      "title_tr": "'Zor bir uçuş olabilir'",
+      "summary_tr": "Jort van der Sande kısa bir gece geçirdi. Cambuur saldırganı terfi partisini tamamen kutladı ancak birkaç saat sonra Bonaire'e uçmak için Schiphol'a gitmek zorunda kaldı. Thomas Bresser, adada büyüyen uluslararası Van der Sande ile konuştu."
     },
     {
       "title": "Salah's exit felt inevitable and then inconceivable: Examining Liverpool's huge loss",
@@ -316,14 +238,52 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:15.508988",
+      "fetched_at": "2026-03-25T09:42:42.624338",
       "priority_score": 65,
       "categories": [
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.529766",
+      "processed_at": "2026-03-25T09:46:23.510327",
       "title_tr": "Salah'ın ayrılışı kaçınılmaz ve bir o kadar da düşünülemez gibi geldi: Liverpool'un büyük kaybının incelenmesi",
       "summary_tr": "Liverpool'u Mohamed Salah'sız hayal etmek zor ama her güzel şeyin bir sonu olmalı. Onun vedası FA Kupası veya Şampiyonlar Ligi kupasını da içerebilir mi?"
+    },
+    {
+      "title": "Salah to leave Liverpool at end of the season",
+      "summary": "Mohamed Salah will leave Liverpool at the end of the season, the Premier League club announced Tuesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48297617/mohamed-salah-leave-liverpool-end-season",
+      "image_url": null,
+      "published": "2026-03-25T10:01:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.624610",
+      "priority_score": 65,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.510692",
+      "title_tr": "Salah sezon sonunda Liverpool'dan ayrılacak",
+      "summary_tr": "Premier Lig kulübü Salı günü yaptığı açıklamada, Mohamed Salah'ın sezon sonunda Liverpool'dan ayrılacağını duyurdu."
+    },
+    {
+      "title": "Carragher: Salah PL legacy eclipses Ronaldo's",
+      "summary": "Former Liverpool defender Jamie Carragher believes that Mohamed Salah's Premier League legacy eclipses that of Cristiano Ronaldo with only Arsenal great Thierry Henry above him.",
+      "url": "https://www.espn.com/soccer/story/_/id/48302113/mohamed-salah-premier-league-legacy-greater-cristiano-ronaldo-jamie-carragher",
+      "image_url": null,
+      "published": "2026-03-25T10:01:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.624825",
+      "priority_score": 65,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.511046",
+      "title_tr": "Carragher: Salah PL'nin mirası Ronaldo'nunkini gölgede bırakıyor",
+      "summary_tr": "Eski Liverpool defans oyuncusu Jamie Carragher, Mohamed Salah'ın Premier Lig mirasının Cristiano Ronaldo'nun mirasını gölgede bıraktığına ve onun üzerinde sadece Arsenal'in muhteşem oyuncusu Thierry Henry'nin olduğuna inanıyor."
     },
     {
       "title": "Women's game needs more respect with officiating - Bompastor",
@@ -335,14 +295,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.032666",
+      "fetched_at": "2026-03-25T09:42:47.026063",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.548621",
+      "processed_at": "2026-03-25T09:46:23.529372",
       "title_tr": "Kadın futbolunun hakemlik açısından daha fazla saygıya ihtiyacı var - Bompastor",
       "summary_tr": "Chelsea menajeri Sonia Bompastor, Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında Arsenal'e karşı tartışmalı bir şekilde izin verilmeyen bir golün ardından, kadınlar oyununun \"daha fazla saygıya\" ihtiyacı olduğunu söyledi."
     },
@@ -356,37 +316,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.034684",
+      "fetched_at": "2026-03-25T09:42:47.028210",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.575377",
+      "processed_at": "2026-03-25T09:46:23.559590",
       "title_tr": "Beraberlik tamamlanmaya yakın değil - Russo",
       "summary_tr": "Alessia Russo, Kadınlar Şampiyonlar Ligi çeyrek finalinin ilk ayağında Arsenal'in Chelsea'ye karşı kazandığı 3-1 galibiyetin ardından attığı muhteşem golü anlatıyor ve tercih ettiği oyun rolünü anlatıyor."
-    },
-    {
-      "title": "'What a stunner!' - Kelly doubles Arsenal's lead against Chelsea",
-      "summary": "Chloe Kelly's curling long-range strike puts Arsenal 2-0 up in the first leg of their Women's Champions League quarter-final against Chelsea.",
-      "url": "https://www.bbc.com/sport/football/videos/ckge909g5g8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T20:48:33",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.034852",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-25T08:42:05.579060",
-      "title_tr": "'Ne muhteşem bir şey!' - Kelly, Arsenal'in Chelsea'ye karşı liderliğini ikiye katladı",
-      "summary_tr": "Chloe Kelly'nin uzun mesafeli vuruşu, Kadınlar Şampiyonlar Ligi çeyrek final ilk ayağında Chelsea'ye karşı Arsenal'i 2-0 öne geçirdi."
     },
     {
       "title": "Galatasaray'ın yeni transferi Noa Lang'dan! Cimbom'a dünya yıldızı geliyor",
@@ -398,16 +337,37 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-25T08:41:07.229215",
+      "fetched_at": "2026-03-25T09:45:27.188402",
       "priority_score": 64,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-25T08:42:06.280144",
+      "processed_at": "2026-03-25T09:46:24.261586",
       "title_tr": "Galatasaray'ın yeni transferi Noa Lang'dan! Cimbom'a dünya yıldızı geliyor",
       "summary_tr": "Lider Galatasaray'da gelecek sezonun transfer çalışmaları hız kazandı. Yaz transfer dönemi için yine iddialı isimlere yönelen Cimbom, çok konuşulacak bir yıldızı gündemine aldı. Sarı kırmızılıların, Noa...Devamı için tıklayınız"
+    },
+    {
+      "title": "Bompastor calls for more ‘respect’ as Russo puts Arsenal in control of WCL tie",
+      "summary": "Sonia Bompastor, the Chelsea head coach, said the women’s game needs to be shown “more respect” after the decision to rule out Veerle Buurman’s goal in the first half of the first leg of the Champions League quarter-final was not overturned by the video assistant referee.Buurman leapt and nodded in ",
+      "url": "https://www.theguardian.com/football/2026/mar/24/arsenal-chelsea-womens-champions-league-match-report",
+      "image_url": null,
+      "published": "2026-03-24T22:14:04",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:43:23.052684",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.670208",
+      "title_tr": "Bompastor, Russo'nun Arsenal'i WCL beraberliğinin kontrolüne vermesiyle daha fazla 'saygı' çağrısında bulundu",
+      "summary_tr": "Chelsea baş antrenörü Sonia Bompastor, Veerle Buurman'ın Şampiyonlar Ligi çeyrek finalinin ilk ayağının ilk yarısında attığı golün video yardımcı hakem tarafından iptal edilmemesi kararının ardından kadınlar maçına \"daha fazla saygı\" gösterilmesi gerektiğini söyledi. Buurman atladı ve başını salladı."
     },
     {
       "title": "Manchester United Women take to main stage for biggest week in their history",
@@ -419,7 +379,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:58.227069",
+      "fetched_at": "2026-03-25T09:43:23.053014",
       "priority_score": 63,
       "categories": [
         "breaking_news",
@@ -427,7 +387,7 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.697792",
+      "processed_at": "2026-03-25T09:46:23.678281",
       "title_tr": "Manchester United Kadınlar tarihlerinin en büyük haftasında ana sahneye çıkıyor",
       "summary_tr": "Bayern Münih ile Şampiyonlar Ligi çeyrek finali ve WSL derbisi United'ın sezonunun geri kalanını şekillendirecek Önümüzdeki yedi günü, Avrupa'daki ilk çeyrek finallerine çıkacak olan Manchester United kadın takımının tarihindeki en önemli fikstür haftası olarak tanımlamak abartı olmaz."
     },
@@ -441,16 +401,37 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.034504",
+      "fetched_at": "2026-03-25T09:42:47.028006",
       "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.573070",
+      "processed_at": "2026-03-25T09:46:23.557103",
       "title_tr": "Jess Park bu sezonki en iyi gollerini açıkladı",
       "summary_tr": "Manchester United'ın kanat oyuncusu Jess Park, bu sezon Şampiyonlar Ligi ve Kadınlar Süper Ligi'ndeki en iyi gollerini attı."
+    },
+    {
+      "title": "Fenerbahçe'ye Amrabat piyangosu! Dudak uçuklatan rakam",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe, sezon başında Real Betis'e kiraladığı Sofyan Amrabat'ı sezon sonunda bonservisiyle göndermeye hazırlanıyor. İspanyol basını, sarı-lacivertlilerin Faslı...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/25/fenerbahceye-amrabat-piyangosu-dudak-ucuklatan-rakam",
+      "image_url": "https://iaftm.tmgrup.com.tr/fa68ee/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/03/25/fenerbahceye-amrabat-piyangosu-dudak-ucuklatan-rakam-1774427117907.jpeg",
+      "published": "2026-03-25T08:25:56",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:45:27.188244",
+      "priority_score": 59,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-25T09:46:24.246062",
+      "title_tr": "Fenerbahçe'ye Amrabat piyangosu! Dudak uçuklatan rakam",
+      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe, sezon başında Real Betis'e kiraladığı Sofyan Amrabat'ı sezon sonunda bonservisiyle göndermeye hazırlanıyor. İspanyol basını, sarı-lacivertlilerin Faslı...Devamı için tıklayınız"
     },
     {
       "title": "Manchester United fan, 76, feeling ‘helpless’ as family seat is given to VIPs",
@@ -462,34 +443,131 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:58.228394",
+      "fetched_at": "2026-03-25T09:43:23.054390",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.723007",
+      "processed_at": "2026-03-25T09:46:23.703417",
       "title_tr": "76 yaşındaki Manchester United taraftarı, VIP'lere aile koltuğu verildiği için kendini 'çaresiz' hissediyor",
       "summary_tr": "Eski United oyuncusunun damadı, nakit artırma planları kapsamında birinci sınıf koltuklardan vazgeçmek zorunda kalan 1.100 taraftar arasında yer alıyor Bir Manchester United taraftarı, ailesinin İkinci Dünya Savaşı'ndan bu yana kişi başı 300 £ değerindeki VIP'lere yer açmak için tuttuğu koltuktan tahliye edilmesinin ardından kendisini \"çaresiz ve umutsuz\" hissettiğini söyledi."
     },
     {
-      "title": "Colin Kazım, İngiltere 2. Lig ekibiyle anlaştı!",
-      "summary": "İngiltere 2. Lig ekibi Crawley Town, teknik direktörlük görevine eski Türk milli futbolcu Colin Kazım-Richards'ı getirdi.",
-      "url": "https://www.haberturk.com/colin-kazim-richards-in-yeni-adresi-crawley-town-3872180-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774426094/3872180/jpg/1280x1280",
-      "published": "2026-03-25T08:08:25",
+      "title": "Taylan Bulut yol ayrımında!",
+      "summary": "Yeni sezonun kadro planlamalarına başlayan Beşiktaş'ta Taylan Bulut ile yolların ayrılması planlanıyor. Yaz transfer döneminin açılmasıyla Beşiktaş gelen tekliflere göre ayrılık için kararını netleştirecek.",
+      "url": "https://www.haberturk.com/besiktas-ta-taylan-bulut-yol-ayriminda-3872210-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774430720/3872210/jpg/1280x1280",
+      "published": "2026-03-25T09:25:37",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-25T08:40:13.305351",
+      "fetched_at": "2026-03-25T09:44:37.898700",
       "priority_score": 58,
       "categories": [
-        "transfers"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-03-25T08:42:05.756363",
-      "title_tr": "Colin Kazım, İngiltere 2. Lig ekibiyle anlaştı!",
-      "summary_tr": "İngiltere 2. Lig ekibi Crawley Town, teknik direktörlük görevine eski Türk milli futbolcu Colin Kazım-Richards'ı getirdi."
+      "processed_at": "2026-03-25T09:46:23.736450",
+      "title_tr": "Taylan Bulut yol ayrımında!",
+      "summary_tr": "Yeni sezonun kadro planlamalarına başlayan Beşiktaş'ta Taylan Bulut ile yolların ayrılması planlanıyor. Yaz transfer döneminin açılmasıyla Beşiktaş gelen tekliflere göre ayrılık için kararını netleştirecek."
+    },
+    {
+      "title": "Beşiktaş ve Orkun'dan transfer kararı!",
+      "summary": "Sezon başında Avrupa’nın önde gelen kulüplerinden gelen tekliflere rağmen tercihini Beşiktaş’tan yana kullanan Orkun Kökçü, son haftalardaki form grafiğiyle yeniden dev kulüplerin radarına girdi.",
+      "url": "https://www.haberturk.com/besiktas-ve-orkun-kokcu-den-transfer-karari-3872197-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/25/ver1774428329/3872197/jpg/1280x1280",
+      "published": "2026-03-25T08:47:25",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:44:37.898862",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-25T09:46:23.747493",
+      "title_tr": "Beşiktaş ve Orkun'dan transfer kararı!",
+      "summary_tr": "Sezon başında Avrupa’nın önde gelen kulüplerinden gelen tekliflere rağmen tercihini Beşiktaş’tan yana kullanan Orkun Kökçü, son haftalardaki form grafiğiyle yeniden dev kulüplerin radarına girdi."
+    },
+    {
+      "title": "Sources: Barça to listen to offers for Torres",
+      "summary": "Barcelona are considering an attacking shake-up this summer which would include listening to offers for Ferran Torres and the arrival of up to two new forwards, various sources have told ESPN.",
+      "url": "https://www.espn.com/soccer/story/_/id/48296409/barcelona-listen-offers-ferran-torres-search-two-strikers-sources",
+      "image_url": null,
+      "published": "2026-03-25T10:01:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.625062",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-03-25T09:46:23.511512",
+      "title_tr": "Kaynaklar: Barça, Torres için teklifleri dinleyecek",
+      "summary_tr": "Çeşitli kaynakların ESPN'e söylediğine göre, Barselona bu yaz Ferran Torres için gelen teklifleri dinlemeyi ve iki yeni forvetin gelişini de içeren hücumda bir değişiklik yapmayı düşünüyor."
+    },
+    {
+      "title": "Man Utd expect new stadium open within 6 years",
+      "summary": "Manchester United are hopeful of having their proposed new stadium open within the next six years, the stadium development CEO has said.",
+      "url": "https://www.espn.com/soccer/story/_/id/48297343/man-united-new-stadium-open-6-years-2032",
+      "image_url": null,
+      "published": "2026-03-25T10:01:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.625659",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.513228",
+      "title_tr": "Man Utd yeni stadyumun 6 yıl içinde açılmasını bekliyor",
+      "summary_tr": "Stadyum geliştirme CEO'su, Manchester United'ın önerilen yeni stadyumunun önümüzdeki altı yıl içinde açılmasından umutlu olduğunu söyledi."
+    },
+    {
+      "title": "Gattuso calls 'more than my mother,' Calafiori says",
+      "summary": "Arsenal defender Riccardo Calafiori said Italy coach Gennaro Gattuso called him more often than his mother did over the last four months.",
+      "url": "https://www.espn.com/soccer/story/_/id/48297418/italy-coach-gattuso-calls-more-my-mother-calafiori-says",
+      "image_url": null,
+      "published": "2026-03-25T10:01:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.625851",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-03-25T09:46:23.514040",
+      "title_tr": "Calafiori, Gattuso'nun 'annemden daha fazlası' olduğunu söylüyor",
+      "summary_tr": "Arsenal defans oyuncusu Riccardo Calafiori, İtalya teknik direktörü Gennaro Gattuso'nun kendisini son dört ayda annesinden daha sık aradığını söyledi."
+    },
+    {
+      "title": "Spain refs back Valverde red as 'serious foul play'",
+      "summary": "Spain's refereeing committee has backed the decision to hand Real Madrid midfielder Federico Valverde a red card in the club's 3-2 derby win over Atlético Madrid on Sunday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48297607/spain-refs-back-federico-valverde-red",
+      "image_url": null,
+      "published": "2026-03-25T10:01:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-25T09:42:42.626028",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-03-25T09:46:23.514896",
+      "title_tr": "İspanya, Valverde'nin kırmızısını 'ciddi faullü oyun' olarak değerlendirdi",
+      "summary_tr": "İspanya'nın hakem komitesi, Real Madrid'in orta saha oyuncusu Federico Valverde'ye, kulübün Pazar günü Atletico Madrid'i 3-2 mağlup ettiği derbide kırmızı kart verilmesi kararını destekledi."
     },
     {
       "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
@@ -501,12 +579,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.032269",
+      "fetched_at": "2026-03-25T09:42:47.025696",
       "priority_score": 55,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-25T08:42:05.544702",
+      "processed_at": "2026-03-25T09:46:23.525397",
       "title_tr": "'Böyle bitmesi planlanmamıştı' - Salah'ın ayrılması zor ama kaçınılmaz",
       "summary_tr": "Mohamed Salah, bir yıldan kısa bir süre önce sözleşmesini yeniledikten sonra Anfield'da tahtta oturuyordu. Peki neden ayrılıyor?"
     },
@@ -520,95 +598,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.032842",
+      "fetched_at": "2026-03-25T09:42:47.026263",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-03-25T08:42:05.550825",
+      "processed_at": "2026-03-25T09:46:23.531624",
       "title_tr": "Salah, Premier Lig'in en iyi forvetleri arasında nerede yer alıyor?",
       "summary_tr": "Mohamed Salah bu yaz Liverpool'dan ayrılacağını açıklarken BBC Sport sizden Premier Lig tarihinin en iyi forvetlerini sıralamanızı istiyor."
-    },
-    {
-      "title": "'One of best goals I've seen' - James strikes for Chelsea",
-      "summary": "Lauren James finds the top corner with a spectacular curling effort for Chelsea against Arsenal in their Women's Champions League quarter-final.",
-      "url": "https://www.bbc.com/sport/football/videos/cgk0xjpk52no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-24T21:53:32",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:38:21.034314",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-03-25T08:42:05.570349",
-      "title_tr": "'Gördüğüm en iyi gollerden biri' - James Chelsea adına gol attı",
-      "summary_tr": "Lauren James, Kadınlar Şampiyonlar Ligi çeyrek finalinde Chelsea'nin Arsenal'e karşı muhteşem bir curling hareketiyle üst köşeyi buluyor."
-    },
-    {
-      "title": "Fenerbahçe'nin yaz bombası ortaya çıktı! Borussia Dortmund'un yıldızı...",
-      "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer dönemi için kolları sıvayan Fenerbahçe için flaş bir transfer iddiası ortaya atıldı. İtalyan gazeteci Nicolo Schira, sarı-lacivertlilerin Borussia...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/25/fenerbahcenin-yaz-bombasi-ortaya-cikti-borussia-dortmundun-yildizi",
-      "image_url": "https://iaftm.tmgrup.com.tr/c45e69/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/03/25/fenerbahcenin-yaz-bombasi-ortaya-cikti-borussia-dortmundun-yildizi-1774420838323.jpeg",
-      "published": "2026-03-25T06:41:13",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:41:07.229992",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-25T08:42:06.352975",
-      "title_tr": "Fenerbahçe'nin yaz bombası ortaya çıktı! Borussia Dortmund'un yıldızı...",
-      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer dönemi için kolları sıvayan Fenerbahçe için flaş bir transfer iddiası ortaya atıldı. İtalyan gazeteci Nicolo Schira, sarı-lacivertlilerin Borussia...Devamı için tıklayınız"
-    },
-    {
-      "title": "'You have got to be kidding' | Gauff defeats Bencic in Miami epic",
-      "summary": "Highlights of the clash between Belinda Bencic and Coco Gauff in the quarter-finals of the Miami Open.",
-      "url": "https://www.skysports.com/watch/video/13524099/belinda-bencic-vs-coco-gauff-miami-open-highlights",
-      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-guaff-bencic-tennis_7202334.jpg?20260325020148",
-      "published": "2026-03-25T01:58:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:38:32.290321",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-03-25T08:42:05.643897",
-      "title_tr": "'Şaka yapıyor olmalısın' | Gauff, Miami destanında Bencic'i yendi",
-      "summary_tr": "Miami Açık çeyrek finalinde Belinda Bencic ile Coco Gauff arasındaki karşılaşmanın öne çıkan anları."
-    },
-    {
-      "title": "Musaba driplingde ve ceza sahasında zirvede",
-      "summary": "Fenerbahçeli futbolcu, 79 başarılı dripling ile bu istatistikte zirveye çıkarken, ceza sahasında topla buluşma istatistiğinde ise (97) Galatasaraylı Victor Osimhen’in (121) ardından 2. sırada kendine yer buldu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/musaba-driplingde-ve-ceza-sahasinda-zirvede-43135719",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c367325b06fcb7fa3248db.jpg",
-      "published": "2026-03-25T04:00:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-25T08:40:25.669092",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-25T08:42:05.939545",
-      "title_tr": "Musaba driplingde ve ceza sahasında zirvede",
-      "summary_tr": "Fenerbahçeli futbolcu, 79 başarılı dripling ile bu istatistikte zirveye çıkarken, ceza sahasında topla buluşma istatistiğinde ise (97) Galatasaraylı Victor Osimhen’in (121) ardından 2. sırada kendine yer buldu."
     }
   ]
 }
