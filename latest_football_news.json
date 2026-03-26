@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T14:25:35.319183",
+  "timestamp": "2026-03-26T16:07:57.109964",
   "total_items": 30,
   "news": [
     {
@@ -12,37 +12,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:22:30.561519",
+      "fetched_at": "2026-03-26T16:04:54.064341",
       "priority_score": 100,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-03-26T14:24:03.408788",
+      "processed_at": "2026-03-26T16:06:30.571286",
       "title_tr": "Galatasaray, Hakan Çalhanoğlu transferi için teklif hazırlığında! İşte bonservisi",
       "summary_tr": "Galatasaray, uzun süredir peşinde olduğu Hakan Çalhanoğlu konusunda transfer için yeniden adım atıyor. Sarı kırmızılıların Hakan Çalhanoğlu için Inter'e yapacağı teklif belli oldu."
-    },
-    {
-      "title": "Beşiktaş, Cengiz Ünder transferinde ikilemde kaldı",
-      "summary": "Fenerbahçe’den 6 milyon euroluk satın alma opsiyonuyla kiralanan Cengiz Ünder’in son 8 maçta gol ve asist katkısı yapamaması Beşiktaş’ta soru işaretleri yarattı.",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktas-cengiz-under-transferinde-ikilemde-kaldi-2410437",
-      "image_url": null,
-      "published": "2026-03-26T15:04:58",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:52.159244",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-26T14:24:03.660750",
-      "title_tr": "Beşiktaş, Cengiz Ünder transferinde ikilemde kaldı",
-      "summary_tr": "Fenerbahçe’den 6 milyon euroluk satın alma opsiyonuyla kiralanan Cengiz Ünder’in son 8 maçta gol ve asist katkısı yapamaması Beşiktaş’ta soru işaretleri yarattı."
     },
     {
       "title": "PSG Ligue 1 fixture moved to help preparation for Liverpool CL tie",
@@ -54,16 +33,57 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:45.661141",
+      "fetched_at": "2026-03-26T16:03:04.743822",
       "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news",
         "champions_league"
       ],
-      "processed_at": "2026-03-26T14:24:03.137278",
+      "processed_at": "2026-03-26T16:06:30.319249",
       "title_tr": "PSG Ligue 1 fikstürü, Liverpool CL beraberliği hazırlıklarına yardımcı olmak için taşındı",
       "summary_tr": "Ligue 1, Paris Saint-Germain ile RC Lens arasında yapılması planlanan maçın Fransız şampiyonların isteği üzerine, Şampiyonlar Ligi'nde Liverpool ile oynayacakları karşılaşma öncesinde fikstür sıkışıklığını hafifletmek amacıyla ertelendiğini doğruladı."
+    },
+    {
+      "title": "Beşiktaş, Cengiz Ünder transferinde ikilemde kaldı",
+      "summary": "Fenerbahçe’den 6 milyon euroluk satın alma opsiyonuyla kiralanan Cengiz Ünder’in son 8 maçta gol ve asist katkısı yapamaması Beşiktaş’ta soru işaretleri yarattı.",
+      "url": "https://www.cnnturk.com/spor/futbol/besiktas-cengiz-under-transferinde-ikilemde-kaldi-2410437",
+      "image_url": null,
+      "published": "2026-03-26T15:04:58",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:05:13.914029",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.830505",
+      "title_tr": "Beşiktaş, Cengiz Ünder transferinde ikilemde kaldı",
+      "summary_tr": "Fenerbahçe’den 6 milyon euroluk satın alma opsiyonuyla kiralanan Cengiz Ünder’in son 8 maçta gol ve asist katkısı yapamaması Beşiktaş’ta soru işaretleri yarattı."
+    },
+    {
+      "title": "Germany's first woman coach at men's pro level is chasing her dreams",
+      "summary": "Sabrina Wittmann, coach of FC Ingolstadt, broke new ground by being herself -- and she hasn't reached her managerial ceiling yet.",
+      "url": "https://www.espn.com/soccer/story/_/id/48306172/germany-first-woman-coach-men-pro-level-chasing-dreams-sabrina-wittmann-ingolstadt",
+      "image_url": null,
+      "published": "2026-03-26T16:02:09",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:02:46.320282",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-03-26T16:06:30.237184",
+      "title_tr": "Almanya'nın profesyonel erkekler düzeyindeki ilk kadın antrenörü hayallerinin peşinde",
+      "summary_tr": "FC Ingolstadt'ın teknik direktörü Sabrina Wittmann, kendisi olarak bir ilke imza attı ve henüz menajerlik tavanına ulaşmadı."
     },
     {
       "title": "Man Utd come from behind twice but lose first leg to Bayern",
@@ -75,7 +95,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:33.374969",
+      "fetched_at": "2026-03-26T16:02:52.313140",
       "priority_score": 80,
       "categories": [
         "match_results",
@@ -84,29 +104,9 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-03-26T14:24:03.073850",
+      "processed_at": "2026-03-26T16:06:30.259170",
       "title_tr": "Man Utd iki kez geriden geldi ancak ilk maçı Bayern'e kaptırdı",
       "summary_tr": "Manchester United taraftarı Pernille Harder, çocukluk kulübü Old Trafford'a karşı iki gol atarken, Bayern Münih, Şampiyonlar Ligi çeyrek final beraberliğinde değerli bir ilk maç avantajı elde etti."
-    },
-    {
-      "title": "Mbappe'de 'yanlış diz' skandalı!",
-      "summary": "Kylian Mbappe'nin sakatlık sürecinde Real Madrid sağlık ekibinin büyük bir teşhis hatası yaptığı iddia edildi. Fransız yıldızın sakat olmayan dizine tedavi programı uygulandığı öne sürüldü.",
-      "url": "https://www.haberturk.com/mbappe-skandali-real-madrid-yanlis-dizini-mi-muayene-etti-3872469-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774517408/3872469/jpg/1280x1280",
-      "published": "2026-03-26T09:29:56",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:19.977210",
-      "priority_score": 73,
-      "categories": [
-        "injuries",
-        "la_liga"
-      ],
-      "processed_at": "2026-03-26T14:24:03.276621",
-      "title_tr": "Mbappe'de 'yanlış diz' skandalı!",
-      "summary_tr": "Kylian Mbappe'nin sakatlık sürecinde Real Madrid sağlık ekibinin büyük bir teşhis hatası yaptığı iddia edildi. Fransız yıldızın sakat olmayan dizine tedavi programı uygulandığı öne sürüldü."
     },
     {
       "title": "İlk yarıda ve ikinci yarıda karşılıklı golleri bildi, Misli’yle kazandı! Tam 2341.72 oranla 200.724 TL…",
@@ -118,7 +118,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:22:30.561082",
+      "fetched_at": "2026-03-26T16:04:54.063953",
       "priority_score": 71,
       "categories": [
         "match_results",
@@ -126,28 +126,29 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-03-26T14:24:03.327173",
+      "processed_at": "2026-03-26T16:06:30.497662",
       "title_tr": "İlk yarıda ve ikinci yarıda karşılıklı golleri bildi, Misli’yle kazandı! Tam 2341.72 oranla 200.724 TL…",
       "summary_tr": "Bir Misli üyesi, dün yaptığı sistem kuponunda Kadınlar Şampiyonlar Ligi’ndeki Real Madrid (K)-Barcelona (K) ile Manchester United (K)-Bayern Münih (K) ve İngiltere Ulusal Lig’deki Morecambe-Hartlepool ile İngiltere Ulusal Lig Güney’deki Farnborough-Chelmsford maçlarına ilk yarıda ve ikinci yarıda ka"
     },
     {
-      "title": "🏆When Salah won an award with '7th-best' goal",
-      "summary": "Mohamed Salah's debut season at Liverpool was capped off by winning the Puskas Award, but teammate James Milner claimed it wasn't even in his top five.",
-      "url": "https://www.espn.com/soccer/story/_/id/48302565/that-liverpool-mohamed-salah-won-puskas-award-7th-best-goal-year",
-      "image_url": null,
-      "published": "2026-03-26T14:18:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Mbappe'de 'yanlış diz' skandalı!",
+      "summary": "Kylian Mbappe'nin sakatlık sürecinde Real Madrid sağlık ekibinin büyük bir teşhis hatası yaptığı iddia edildi. Fransız yıldızın sakat olmayan dizine tedavi programı uygulandığı öne sürüldü.",
+      "url": "https://www.haberturk.com/mbappe-skandali-real-madrid-yanlis-dizini-mi-muayene-etti-3872469-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774517408/3872469/jpg/1280x1280",
+      "published": "2026-03-26T09:29:56",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.361579",
-      "priority_score": 65,
+      "fetched_at": "2026-03-26T16:04:41.738899",
+      "priority_score": 68,
       "categories": [
-        "general"
+        "injuries",
+        "la_liga"
       ],
-      "processed_at": "2026-03-26T14:24:03.045429",
-      "title_tr": "🏆Salah '7. en iyi' golüyle ödül aldığında",
-      "summary_tr": "Mohamed Salah'ın Liverpool'daki ilk sezonu Puskas Ödülü'nü kazanarak sona erdi, ancak takım arkadaşı James Milner bunun ilk beşte bile olmadığını iddia etti."
+      "processed_at": "2026-03-26T16:06:30.454557",
+      "title_tr": "Mbappe'de 'yanlış diz' skandalı!",
+      "summary_tr": "Kylian Mbappe'nin sakatlık sürecinde Real Madrid sağlık ekibinin büyük bir teşhis hatası yaptığı iddia edildi. Fransız yıldızın sakat olmayan dizine tedavi programı uygulandığı öne sürüldü."
     },
     {
       "title": "Barcelona put six past Madrid in quarter-final first leg",
@@ -159,55 +160,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:33.375303",
+      "fetched_at": "2026-03-26T16:02:52.313579",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-26T14:24:03.079690",
+      "processed_at": "2026-03-26T16:06:30.265351",
       "title_tr": "Barcelona çeyrek final ilk maçında Madrid'i altı sayı geride bıraktı",
       "summary_tr": "Barcelona, ​​Kadınlar Şampiyonlar Ligi çeyrek finalinde İspanyol rakipleri Real Madrid'e karşı ilk maçta etkileyici ve baskın bir galibiyet alarak kontrolü ele geçirdi."
-    },
-    {
-      "title": "Okan Buruk'a 3 talip birden!",
-      "summary": "Galatasaray'da dördüncü sezonunu geçiren ve kazandığı kupalarla adından söz ettiren teknik direktör Okan Buruk'un 3 kulübün radarına girdiği iddia edildi",
-      "url": "https://www.haberturk.com/okan-buruk-a-3-talip-birden-son-dakika-galatasaray-haberi-3872465-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774516892/3872465/jpg/1280x1280",
-      "published": "2026-03-26T09:21:21",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:19.977279",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-26T14:24:03.280921",
-      "title_tr": "Okan Buruk'a 3 talip birden!",
-      "summary_tr": "Galatasaray'da dördüncü sezonunu geçiren ve kazandığı kupalarla adından söz ettiren teknik direktör Okan Buruk'un 3 kulübün radarına girdiği iddia edildi"
-    },
-    {
-      "title": "Carragher verwacht andere route voor Salah dan Saoedi-miljoenen",
-      "summary": "Mohamed Salah gaat Liverpool verlaten , liet hij eerder deze week weten. Toch is een stap naar Saoedi-Arabië volgens Jamie Carragher allerminst zeker. De oud-verdediger stelt in The Overlap dat de Egyptenaar eerder voor een Europese topclub kiest om zijn carrière op het hoogste niveau voort te zette",
-      "url": "https://www.vi.nl/nieuws/carragher-verwacht-andere-route-voor-salah-dan-saudi-miljoenen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/26/814bc1ffb38978931d506a92efae15a96a9d29e6.jpg?width=1200",
-      "published": "2026-03-26T13:52:09",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:24:00.610372",
-      "priority_score": 57,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-26T14:24:03.940516",
-      "title_tr": "Carragher, Salah için Suudi milyonlardan farklı bir rota bekliyor",
-      "summary_tr": "Mohamed Salah bu hafta başında Liverpool'dan ayrılacağını duyurdu. Ancak Jamie Carragher'a göre Suudi Arabistan'a geçiş kesin olmaktan uzak. Eski savunma oyuncusu, The Overlap'ta Mısırlı futbolcunun kariyerine en üst düzeyde devam etmek için Avrupa'nın en iyi takımlarından birini seçmeyi tercih edeceğini belirtti."
     },
     {
       "title": "2026 World Cup playoff preview, predictions: Who will book the final six spots?",
@@ -219,15 +181,95 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.359568",
+      "fetched_at": "2026-03-26T16:02:46.318444",
       "priority_score": 55,
       "categories": [
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-03-26T14:24:03.039407",
-      "title_tr": "2026 Dünya Kupası play-off önizlemesi, tahminler: Son altı yeri kim ayırtacak?",
+      "processed_at": "2026-03-26T16:06:30.230333",
+      "title_tr": "2026 Dünya Kupası playoff önizlemesi, tahminler: Son altı yeri kim ayırtacak?",
       "summary_tr": "Bu hafta, 2026 Dünya Kupası'nda son altı sıra (dördü Avrupa'dan, ikisi kıtalararası play-off'tan) kesinleşecek. İşte dikkat etmeniz gerekenler."
+    },
+    {
+      "title": "Galatasaray, Trabzonspor maçına hazırlanıyor!",
+      "summary": "Galatasaray, Trendyol Süper Lig'in 28. haftasında 4 Nisan Cumartesi günü deplasmanda Trabzonspor ile yapacağı maçın hazırlıklarına devam etti.",
+      "url": "https://www.haberturk.com/galatasaray-trabzonspor-macinin-hazirlaniyor-3872564-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774537989/3872564/jpg/1280x1280",
+      "published": "2026-03-26T15:13:20",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:41.738262",
+      "priority_score": 53,
+      "categories": [
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.416405",
+      "title_tr": "Galatasaray, Trabzonspor maçına hazırlanıyor!",
+      "summary_tr": "Galatasaray, Trendyol Süper Lig'in 28. haftasında 4 Nisan Cumartesi günü deplasmanda Trabzonspor ile yapacağı maçın hazırlıklarına devam etti."
+    },
+    {
+      "title": "Galatasaray'a Osimhen müjdesi! Sahalara dönüşü için formül bulundu",
+      "summary": "Son dakika Galatasaray haberleri: Galatasaray'ın Şampiyonlar Ligi son 16 turunda Liverpool ile oynanan maçta kolu kırılan Victor Osimhen ameliyat edildi. Sarı-kırmızılılar, 4-6 hafta sahalardan uzak kalması...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/26/galatasaraya-osimhen-mujdesi-sahalara-donusu-icin-formul-bulundu",
+      "image_url": "https://iaftm.tmgrup.com.tr/e1120a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/03/26/galatasaraya-osimhen-mujdesi-sahalara-donusu-icin-formul-bulundu-1774515749803.jpeg",
+      "published": "2026-03-26T09:02:59",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:05:28.389182",
+      "priority_score": 49,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:31.000705",
+      "title_tr": "Galatasaray'a Osimhen müjdesi! Sahalara dönüşü için formül bulundu",
+      "summary_tr": "Son dakika Galatasaray haberleri: Galatasaray'ın Şampiyonlar Ligi son 16 turunda Liverpool ile oynanan maçta kolu kırılan Victor Osimhen ameliyat edildi. Sarı-kırmızılılar, 4-6 hafta sahalardan uzak kalması...Devamı için tıklayınız"
+    },
+    {
+      "title": "Brobbey vertelt over zijn sterkste tegenstanders in de Premier League",
+      "summary": "Brian Brobbey bewijst dit seizoen ook in de Premier League fysiek te kunnen domineren. In dit interview op VI PRO vertelt de spits over zijn ervaringen in Engeland, en de pittige duels die hij daar uitvecht met zijn directe tegenstanders.",
+      "url": "https://www.vi.nl/nieuws/brobbey-vertelt-over-zijn-sterkste-tegenstanders-in-de-premier-league",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/26/d60919ad8b117ceab09e67191049352338fc08a0.jpg?width=1200",
+      "published": "2026-03-26T15:31:59",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:06:27.360292",
+      "priority_score": 47,
+      "categories": [
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-26T16:06:31.231206",
+      "title_tr": "Brobbey, Premier Lig'deki en güçlü rakiplerini anlatıyor",
+      "summary_tr": "Brian Brobbey bu sezon Premier Lig'de fiziksel olarak üstünlük kurabileceğini de kanıtladı. VI PRO'daki bu röportajda forvet, İngiltere'deki deneyimlerini ve orada doğrudan rakipleriyle verdiği zorlu düelloları anlatıyor."
+    },
+    {
+      "title": "Carragher verwacht andere route voor Salah dan Saoedi-miljoenen",
+      "summary": "Mohamed Salah gaat Liverpool verlaten , liet hij eerder deze week weten. Toch is een stap naar Saoedi-Arabië volgens Jamie Carragher allerminst zeker. De oud-verdediger stelt in The Overlap dat de Egyptenaar eerder voor een Europese topclub kiest om zijn carrière op het hoogste niveau voort te zette",
+      "url": "https://www.vi.nl/nieuws/carragher-verwacht-andere-route-voor-salah-dan-saudi-miljoenen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/26/814bc1ffb38978931d506a92efae15a96a9d29e6.jpg?width=1200",
+      "published": "2026-03-26T13:52:09",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:06:27.360996",
+      "priority_score": 47,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-26T16:06:31.414055",
+      "title_tr": "Carragher, Salah için Suudi milyonlardan farklı bir rota bekliyor",
+      "summary_tr": "Mohamed Salah bu hafta başında Liverpool'dan ayrılacağını duyurdu. Ancak Jamie Carragher'a göre Suudi Arabistan'a geçiş kesin olmaktan uzak. Eski savunma oyuncusu, The Overlap'ta Mısırlı futbolcunun kariyerine en üst seviyede devam etmek için Avrupa'nın en iyi takımlarından birini seçmeyi tercih edeceğini belirtti."
     },
     {
       "title": "Sources: Al Ittihad resume pursuit of Salah deal",
@@ -239,14 +281,54 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.361049",
-      "priority_score": 85,
+      "fetched_at": "2026-03-26T16:02:46.319684",
+      "priority_score": 75,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-03-26T14:24:03.042675",
+      "processed_at": "2026-03-26T16:06:30.233251",
       "title_tr": "Kaynaklar: Al Ittihad, Salah anlaşmasının takibini sürdürüyor",
       "summary_tr": "Suudi Pro League ekibi Al Ittihad, Liverpoollu forvetin Salı günü sezon sonunda kulüpten ayrılacağını açıklamasının ardından Mohamed Salah için anlaşma üzerinde çalışmaya devam etti."
+    },
+    {
+      "title": "Transfer rumors, news: Arsenal in for PSG star Kvaratskhelia",
+      "summary": "Arsenal are exploring an approach for Paris Saint-Germain winger Khvicha Kvaratskhelia. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48310128/transfer-rumors-news-arsenal-psg-star-kvaratskhelia",
+      "image_url": null,
+      "published": "2026-03-26T16:06:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:02:46.320718",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-26T16:06:30.241747",
+      "title_tr": "Transfer söylentileri, haberler: Arsenal, PSG yıldızı Kvaratskhelia'yı kadrosuna kattı",
+      "summary_tr": "Arsenal, Paris Saint-Germain'in kanat oyuncusu Khvicha Kvaratskhelia için bir yaklaşım araştırıyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Arsenal latest: PSG and Kvaratskhelia's stance on transfer exit",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "image_url": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "published": "2026-03-26T15:25:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:03:04.743482",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-26T16:06:30.298536",
+      "title_tr": "Arsenal'in son durumu: PSG ve Kvaratskhelia'nın transferden çıkış konusundaki tutumu",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Madrid's Caicedo scores 'wonder strike' against Barcelona",
@@ -258,156 +340,37 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:33.375629",
+      "fetched_at": "2026-03-26T16:02:52.313878",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-03-26T14:24:03.086147",
-      "title_tr": "Madridli Caicedo, Barcelona'ya karşı 'harika vuruş' yaptı",
-      "summary_tr": "Kadınlar Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid'li Linda Caicedo, takımının Barcelona'yı 6-2 mağlup ettiği maçta müthiş bir gol attı."
+      "processed_at": "2026-03-26T16:06:30.271544",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe'de hedef Brandt",
-      "summary": "Fenerbahçe, Alman milli futbolcu Julian Brandt'ı transfer listesine aldı. Sezon sonu Borussia Dortmund’dan ayrılacak olan 29 yaşındaki 10 numaraya Aston Villa ve Roma’nın da talip olduğu öğrenildi",
-      "url": "https://www.haberturk.com/fenerbahce-de-hedef-julian-brandt-son-dakika-fb-transfer-haberi-3872458-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774516082/3872458/jpg/1280x1280",
-      "published": "2026-03-26T09:07:54",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Sergio Ramos'tan Fenerbahçeli yıldıza kanca!",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Kulüp satın almaya hazırlanan Sergio Ramos, yeni takımı için ilk transferini belirledi. Ramos'un sarı-lacivertli takımda forma giyen yıldız futbolcuyu transfer...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/03/26/sergio-ramostan-fenerbahceli-yildiza-kanca",
+      "image_url": "https://iaftm.tmgrup.com.tr/35294f/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/03/26/sergio-ramostan-fenerbahceli-yildiza-kanca-1774530207847.jpeg",
+      "published": "2026-03-26T13:04:10",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:22:19.977419",
-      "priority_score": 63,
+      "fetched_at": "2026-03-26T16:05:28.388085",
+      "priority_score": 59,
       "categories": [
         "transfers",
-        "bundesliga",
+        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-03-26T14:24:03.288513",
-      "title_tr": "Fenerbahçe'de hedef Brandt",
-      "summary_tr": "Fenerbahçe, Alman milli futbolcu Julian Brandt'ı transfer listesine aldı. Sezon sonu Borussia Dortmund’dan ayrılacak olan 29 yaşındaki 10 numaraya Aston Villa ve Roma’nın da talip olduğu öğrenildi"
-    },
-    {
-      "title": "Bernardo Silva harekatı!",
-      "summary": "Süper Lig'de liderlik koltuğunda oturan Galatasaray, yaz transfer dönemi için Manchester City'nin dünyaca ünlü futbolcusu Bernardo Silva'yı gündemine aldı. Sarı-kırmızılı yönetim, sezon sonu boşa çıkacak olan 32 yaşındaki Portekizli yıldızı 'Sane Formülü' ile renklerine bağlamayı hedefliyor.",
-      "url": "https://www.haberturk.com/galatasaray-dan-bernardo-silva-harekati-son-dakika-gs-haberi-3872474-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774514843/3872474/jpg/1280x1280",
-      "published": "2026-03-26T08:47:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:19.977490",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-26T14:24:03.292480",
-      "title_tr": "Bernardo Silva harekatı!",
-      "summary_tr": "Süper Lig'de liderlik koltuğunda oturan Galatasaray, yaz transfer dönemi için Manchester City'nin dünyaca ünlü futbolcusu Bernardo Silva'yı gündemine aldı. Sarı-kırmızılı yönetim, sezon sonu boşa çıkacak olan 32 yaşındaki Portekizli yıldızı 'Sane Formülü' ile renklerine bağlamayı hedefliyor."
-    },
-    {
-      "title": "Go Ahead verlengt contract Boakye (18), De Graafschap langer door met vijftal",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/de-graafschap-langer-door-met-vijf-spelers-drie-opties-niet-gelicht",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-03-26T11:59:39",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:24:00.610589",
-      "priority_score": 62,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-26T14:24:03.994727",
-      "title_tr": "Go Ahead, Boakye (18) ve De Graafschap'ın beş oyuncuyla sözleşmesini uzattı",
-      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
-    },
-    {
-      "title": "Premier Lig devinden Kvaratskhelia'ya kanca!",
-      "summary": "Premier Lig ekiplerinden Arsenal, PSG'nin Gürcü forveti Khvicha Kvaratskhelia'yi transfer etmek için girişimlere başladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/premier-lig-devinden-kvaratskheliaya-kanca-43136772",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c503c5805928e81ca91841.jpg",
-      "published": "2026-03-26T10:04:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:30.561586",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-26T14:24:03.415898",
-      "title_tr": "Premier Lig devinden kvaratskheliya'nın arkadaşı!",
-      "summary_tr": "Premier Lig ekiplerinden Arsenal, PSG'nin Gürcü forveti Khvicha Kvaratskhelia'yi transfer etmek için girişimlere başladı."
-    },
-    {
-      "title": "Gabriel Sara'dan Galatasaray itirafı! Transfer olma sebebini açıkladı",
-      "summary": "Brezilya'nın Fransa ve Hırvatistan ile oynayacağı maçların aday kadrosuna çağrılan Gabriel Sara, milli takım kampında açıklamalarda bulundu. Başarılı oyuncu, açıklamalarında Galatasaray'a transfer olma nedenini de söyledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/gabriel-saradan-galatasaray-itirafi-transfer-olma-sebebini-acikladi-43136698",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c4f391805928e81ca917b1.jpg",
-      "published": "2026-03-26T08:51:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:22:30.561784",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-26T14:24:03.439534",
-      "title_tr": "Gabriel Sara'dan Galatasaray itirafı! Transfer olma sebebini açıkladı",
-      "summary_tr": "Brezilya'nın Fransa ve Hırvatistan ile oynayacağı maçların aday kadrosuna çağrılan Gabriel Sara, milli takım kampında açıklamalarda bulundu. Başarılı oyuncu, açıklamalarında Galatasaray'a transfer olma nedenini de söyledi."
-    },
-    {
-      "title": "Donovan to make return to field at TST in 2026",
-      "summary": "USMNT great Landon Donovan will return to the field for this summer's $1 million winner-take-all The Soccer Tournament (TST), it was announced Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48304852/landon-donovan-tst-2026-usmnt-soccer-tournament",
-      "image_url": null,
-      "published": "2026-03-26T14:18:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.360662",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-26T14:24:03.041288",
-      "title_tr": "Donovan 2026'da TST'de sahaya dönecek",
-      "summary_tr": "USMNT'nin büyük yıldızı Landon Donovan'ın bu yazın 1 milyon dolarlık kazananın hepsini aldığı Futbol Turnuvası (TST) için sahalara döneceği Çarşamba günü açıklandı."
-    },
-    {
-      "title": "Maguire terug bij Engeland na ommekeer bij United: 'Het werkte gewoon niet'",
-      "summary": "Harry Maguire heeft in gesprek met Sky Sports teruggeblikt op de moeizame periode onder Ruben Amorim, terwijl hij tegelijkertijd dicht bij een nieuw contract bij Manchester United is. 'Hij heeft geweldige ideeën, maar die werkten gewoon niet bij Manchester United', zegt de verdediger.",
-      "url": "https://www.vi.nl/nieuws/maguire-terug-bij-engeland-na-ommekeer-bij-united-het-werkte-gewoon-niet",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/26/0c674e5e92e07ed805666956f066fc8ab85061ea.jpg?width=1200",
-      "published": "2026-03-26T10:48:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:24:00.610999",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-26T14:24:04.076440",
-      "title_tr": "Maguire United'ın dönüşünden sonra İngiltere'ye döndü: 'İşe yaramadı'",
-      "summary_tr": "Sky Sports ile yaptığı görüşmede Harry Maguire, Ruben Amorim yönetimindeki zor dönemi anlatırken aynı zamanda Manchester United ile yeni bir sözleşme imzalamaya da çok yakın. Savunma oyuncusu, \"Harika fikirleri var ama bunlar Manchester United'da işe yaramadı\" dedi."
+      "processed_at": "2026-03-26T16:06:30.898012",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "New Borussia Dortmund sporting director Ole Book to look for young gems in new transfer approach",
@@ -419,15 +382,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-26T14:21:30.308696",
+      "fetched_at": "2026-03-26T16:03:47.396589",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-03-26T14:24:03.228671",
-      "title_tr": "Borussia Dortmund'un yeni sportif direktörü Ole Book, yeni transfer yaklaşımında genç cevherleri arayacak",
-      "summary_tr": "Bundesliga 2'de Elversberg'de Nick Woltemade gibi isimleri keşfetmesiyle tanınan Ole Book, Borussia Dortmund'un sportif direktörü olarak yeni görevine başlama konusundaki hedeflerini açıkladı."
+      "processed_at": "2026-03-26T16:06:30.403324",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Hakan Çalhanoğlu’nun skor katkısı sürüyor, Dzeko golleriyle Bosna’yı sırtlamaya devam ediyor! İşte Misli’den günün oyuncu bahisleri",
@@ -439,14 +402,54 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:22:30.561162",
+      "fetched_at": "2026-03-26T16:04:54.064023",
       "priority_score": 56,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-03-26T14:24:03.344004",
-      "title_tr": "Hakan Çalhanoğlu’nun skor katkısı sürüyor, Dzeko golleriyle Bosna’yı sırtlamaya devam ediyor! İşte Misli’den günün oyuncu bahisleri",
-      "summary_tr": "Bültende futbolseverleri birbirinden heyecanlı maçlar beklerken oyuncu bahisleriyle maçların keyfi daha da artıyor. İlk günden bu yana büyük bir ilgi gören oyuncu bahisleriyle Misli üyeleri de kazançlarına kazanç katıyor. Oyuncu bahisleriyle İddaacılar, farklı bir oyun deneyimi yaşamaya devam ediyor"
+      "processed_at": "2026-03-26T16:06:30.513418",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Premier Lig devinden Kvaratskhelia'ya kanca!",
+      "summary": "Premier Lig ekiplerinden Arsenal, PSG'nin Gürcü forveti Khvicha Kvaratskhelia'yi transfer etmek için girişimlere başladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/premier-lig-devinden-kvaratskheliaya-kanca-43136772",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c503c5805928e81ca91841.jpg",
+      "published": "2026-03-26T10:04:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:54.064401",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-26T16:06:30.577721",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Gabriel Sara'dan Galatasaray itirafı! Transfer olma sebebini açıkladı",
+      "summary": "Brezilya'nın Fransa ve Hırvatistan ile oynayacağı maçların aday kadrosuna çağrılan Gabriel Sara, milli takım kampında açıklamalarda bulundu. Başarılı oyuncu, açıklamalarında Galatasaray'a transfer olma nedenini de söyledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/gabriel-saradan-galatasaray-itirafi-transfer-olma-sebebini-acikladi-43136698",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c4f391805928e81ca917b1.jpg",
+      "published": "2026-03-26T08:51:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:54.064581",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.599543",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "2026 World Cup European playoffs: Live updates, highlights, reaction",
@@ -458,93 +461,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.359829",
+      "fetched_at": "2026-03-26T16:02:46.318672",
       "priority_score": 55,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-03-26T14:24:03.039873",
-      "title_tr": "2026 Dünya Kupası Avrupa playoffları: Canlı güncellemeler, öne çıkanlar, tepkiler",
-      "summary_tr": "On altı Avrupa takımı bu yaz yapılacak 2026 FIFA Dünya Kupası'nda dört yer için yarışıyor. Buradan canlı takip edin!"
+      "processed_at": "2026-03-26T16:06:30.230650",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Maguire: Amorim deserves 'credit' for Utd's form",
-      "summary": "Harry Maguire has praised former Manchester United manager Ruben Amorim, saying that the Portuguese boss had some \"great ideas.\"",
-      "url": "https://www.espn.com/soccer/story/_/id/48310202/harry-maguire-ruben-amorim-credit-man-united-direction-england-squad-thomas-tuchel",
+      "title": "🏆When Salah won an award with '7th-best' goal",
+      "summary": "Mohamed Salah's debut season at Liverpool was capped off by winning the Puskas Award, but teammate James Milner claimed it wasn't even in his top five.",
+      "url": "https://www.espn.com/soccer/story/_/id/48302565/that-liverpool-mohamed-salah-won-puskas-award-7th-best-goal-year",
       "image_url": null,
       "published": "2026-03-26T14:18:17",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.360062",
+      "fetched_at": "2026-03-26T16:02:46.320138",
       "priority_score": 55,
       "categories": [
-        "premier_league"
+        "general"
       ],
-      "processed_at": "2026-03-26T14:24:03.040196",
-      "title_tr": "Maguire: Amorim, Utd'un performansıyla 'krediyi' hak ediyor",
-      "summary_tr": "Harry Maguire, eski Manchester United menajeri Ruben Amorim'i övdü ve Portekizli patronun bazı \"harika fikirleri\" olduğunu söyledi."
-    },
-    {
-      "title": "City's Rodri refuses to rule out Madrid move",
-      "summary": "Manchester City midfielder Rodri has refused to rule out a future move to Real Madrid, despite his past as an Atletico Madrid player.",
-      "url": "https://www.espn.com/soccer/story/_/id/48310870/man-city-rodri-real-madrid-move-laliga-atletico-madrid",
-      "image_url": null,
-      "published": "2026-03-26T14:18:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.360485",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-03-26T14:24:03.040874",
-      "title_tr": "City'li Rodri, Madrid'in transferini göz ardı etmeyi reddetti",
-      "summary_tr": "Manchester City'nin orta saha oyuncusu Rodri, Atletico Madrid oyuncusu olarak geçmişine rağmen gelecekte Real Madrid'e transfer olma ihtimalini göz ardı etmeyi reddetti."
-    },
-    {
-      "title": "Lens match moved to give PSG rest vs. Liverpool",
-      "summary": "Ligue 1 has postponed the title clash between Lens and Paris Saint-Germain on Thursday to allow PSG better preparation for their Champions League quarterfinal against Liverpool next month.",
-      "url": "https://www.espn.com/soccer/story/_/id/48311366/lens-match-moved-give-psg-rest-liverpool-champions-league",
-      "image_url": null,
-      "published": "2026-03-26T14:18:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.360834",
-      "priority_score": 55,
-      "categories": [
-        "champions_league"
-      ],
-      "processed_at": "2026-03-26T14:24:03.041930",
-      "title_tr": "Lens maçı, PSG'nin Liverpool karşısında dinlenmesini sağlamak için taşındı",
-      "summary_tr": "Ligue 1, PSG'nin gelecek ay Liverpool'a karşı oynayacağı Şampiyonlar Ligi çeyrek finaline daha iyi hazırlanmasını sağlamak amacıyla Perşembe günü Lens ile Paris Saint-Germain arasındaki şampiyonluk karşılaşmasını erteledi."
-    },
-    {
-      "title": "Sources: Miami, Galaxy, Al Ittihad eye Casemiro",
-      "summary": "MLS clubs Inter Miami and LA Galaxy along with Saudi Pro League side Al Ittihad are interested in signing Manchester United midfielder Casemiro, sources told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/48303494/al-ittihad-eye-man-united-casemiro-arrival-depends-fabinho-sources",
-      "image_url": null,
-      "published": "2026-03-26T14:18:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.361225",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-26T14:24:03.043482",
-      "title_tr": "Kaynaklar: Miami, Galaxy, Al Ittihad Eye Casemiro",
-      "summary_tr": "Kaynakların ESPN'e verdiği bilgiye göre, MLS kulüpleri Inter Miami ve LA Galaxy ile Suudi Pro League ekibi Al Ittihad, Manchester United'ın orta saha oyuncusu Casemiro'yu transfer etmekle ilgileniyor."
+      "processed_at": "2026-03-26T16:06:30.235811",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Saudi Pro League, MLS or elsewhere: Where could Salah go next?",
@@ -556,53 +500,114 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.361743",
+      "fetched_at": "2026-03-26T16:02:46.320427",
       "priority_score": 55,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-03-26T14:24:03.047938",
-      "title_tr": "Suudi Pro Ligi, MLS veya başka bir yer: Salah bundan sonra nereye gidebilir?",
-      "summary_tr": "Mohamed Salah bir efsane olarak Liverpool'dan ayrılıyor ama bundan sonra nereye gidebilir? İşte onun seçenekleri."
+      "processed_at": "2026-03-26T16:06:30.238679",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "UWCL talking points: How can VAR, refs improve? Can Madrid keep Caicedo?",
-      "summary": "Emily Keogh, Alex Kirkland and Tom Hamilton answer some of our burning questions after the first leg of the UEFA Women's Champions League quarterfinals.",
-      "url": "https://www.espn.com/soccer/story/_/id/48308009/uwcl-talking-points-how-var-refs-improve-madrid-keep-caicedo",
+      "title": "Okan Buruk'a 3 talip birden!",
+      "summary": "Galatasaray'da dördüncü sezonunu geçiren ve kazandığı kupalarla adından söz ettiren teknik direktör Okan Buruk'un 3 kulübün radarına girdiği iddia edildi",
+      "url": "https://www.haberturk.com/okan-buruk-a-3-talip-birden-son-dakika-galatasaray-haberi-3872465-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774516892/3872465/jpg/1280x1280",
+      "published": "2026-03-26T09:21:21",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:41.738959",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.458539",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Szymon Marciniak: 'Liverpool - Galatasaray maçında bu yüzden yoktum!'",
+      "summary": "Liverpool ile Galatasaray arasında oynanan UEFA Şampiyonlar Ligi son 16 turu rövanş maçının hakemi Szymon Marciniak, mücadele öncesinde yaşadığı sakatlık sebebiyle 4. hakem olarak görev almıştı. Marciniak, sakatlığıyla ilgili açıklamalarda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/szymon-marciniak-liverpool-galatasaray-macinda-bu-yuzden-yoktum-43136905",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69c52788805928e81ca9190a.jpg",
+      "published": "2026-03-26T12:38:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:54.064218",
+      "priority_score": 51,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.554150",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Donovan to make return to field at TST in 2026",
+      "summary": "USMNT great Landon Donovan will return to the field for this summer's $1 million winner-take-all The Soccer Tournament (TST), it was announced Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48304852/landon-donovan-tst-2026-usmnt-soccer-tournament",
       "image_url": null,
-      "published": "2026-03-26T10:13:28",
+      "published": "2026-03-26T14:18:17",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:26.362281",
-      "priority_score": 55,
+      "fetched_at": "2026-03-26T16:02:46.319378",
+      "priority_score": 50,
       "categories": [
-        "breaking_news",
-        "champions_league"
+        "transfers"
       ],
-      "processed_at": "2026-03-26T14:24:03.054630",
-      "title_tr": "UWCL'in konuşma konuları: VAR ve hakemler nasıl gelişebilir? Madrid Caicedo'yu tutabilecek mi?",
-      "summary_tr": "Emily Keogh, Alex Kirkland ve Tom Hamilton, UEFA Kadınlar Şampiyonlar Ligi çeyrek finallerinin ilk ayağının ardından bazı yakıcı sorularımızı yanıtlıyor."
+      "processed_at": "2026-03-26T16:06:30.231961",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "PSG's league game between legs of Liverpool Champions League tie postponed",
-      "summary": "Paris St-Germain's Ligue One match against Lens, which was set to take place between the two legs of their Champions League quarter-final against Liverpool, has been postponed.",
-      "url": "https://www.bbc.com/sport/football/articles/clyxe2znkp4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-26T13:51:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Sara'dan transfer itirafı! Galatasaray'a neden geldiğini açıkladı",
+      "summary": "Son dakika Galatasaray haberleri: Brezilya'nın Fransa ve Hırvatistan ile oynayacağı maçların aday kadrosuna çağrılan Gabriel Sara, milli takım kampında açıklamalarda bulundu. 26 yaşındaki orta saha oyuncusu,...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/03/26/saradan-transfer-itirafi-galatasaraya-neden-geldigini-acikladi",
+      "image_url": "https://iaftm.tmgrup.com.tr/59977c/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/03/26/saradan-transfer-itirafi-galatasaraya-neden-geldigini-acikladi-1774505964227.jpeg",
+      "published": "2026-03-26T06:20:03",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-26T14:20:33.373714",
-      "priority_score": 55,
+      "fetched_at": "2026-03-26T16:05:28.389710",
+      "priority_score": 49,
       "categories": [
-        "champions_league"
+        "transfers",
+        "breaking_news",
+        "super_lig"
       ],
-      "processed_at": "2026-03-26T14:24:03.059193",
-      "title_tr": "PSG'nin Liverpool Şampiyonlar Ligi maçları arasında oynanacak maçı ertelendi",
-      "summary_tr": "Paris St-Germain'in, Şampiyonlar Ligi çeyrek finalinin iki ayağı arasında Liverpool'a karşı oynanması planlanan Lens ile Ligue 1 maçı ertelendi."
+      "processed_at": "2026-03-26T16:06:31.051884",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Osimhen'e Barça kancası!",
+      "summary": "Galatasaray forması giyen Nijeryalı dünya yıldızı Victor Osimhen'in, Avrupa'nın dev takımlarından Barcelona'nın gündeminde yer aldığı iddia edildi",
+      "url": "https://www.haberturk.com/ispanyollar-duyurdu-barcelona-dan-osimhen-hamlesi-3872455-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/26/ver1774516438/3872455/jpg/1280x1280",
+      "published": "2026-03-26T09:13:40",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-26T16:04:41.739018",
+      "priority_score": 48,
+      "categories": [
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-26T16:06:30.462068",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
