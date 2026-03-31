@@ -1,24 +1,46 @@
 {
-  "timestamp": "2026-03-31T08:06:30.519037",
+  "timestamp": "2026-03-31T09:59:42.388597",
   "total_items": 30,
   "news": [
+    {
+      "title": "Australia v Curaçao: Fifa Series men’s international football friendly – live",
+      "summary": "Updates from the Socceroos’ home farewell at AAMI ParkKick-off in Melbourne is 8.10pm local/5.10am ASTAny thoughts? Email Jo KhanIt’s happening. They are breaking out the new away kit. The pinky-orange faded into turquoise kit. Thoughts? Please, please, let me know how you feel about the strip.Sligh",
+      "url": "https://www.theguardian.com/football/live/2026/mar/31/australia-v-curacao-fifa-series-mens-international-football-friendly-live",
+      "image_url": null,
+      "published": "2026-03-31T09:40:36",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:55:28.233527",
+      "priority_score": 98,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-03-31T09:58:20.293565",
+      "title_tr": "Avustralya v Curaçao: Fifa Serisi erkekler uluslararası futbol hazırlık maçı – canlı",
+      "summary_tr": "Socceroos'un AAMI Park'taki evine vedasıyla ilgili güncellemeler Melbourne'deki başlama vuruşu yerel saat 20.10/05.10 ASTA Herhangi bir fikrin var mı? E-posta Jo KhanOluyor. Yeni deplasman formasını çıkarıyorlar. Pembemsi-turuncu renk, turkuaz kitine dönüştü. Düşünceler mi? Lütfen, lütfen bana şerit hakkında ne hissettiğini söyle."
+    },
     {
       "title": "Argentina to start Messi for Zambia friendly",
       "summary": "Argentina national team manager Lionel Scaloni confirmed that Lionel Messi will start the friendly against Zambia on Tuesday night at La Bombonera.",
       "url": "https://www.espn.com/soccer/story/_/id/48348573/argentina-start-lionel-messi-zambia-friendly-la-bombonera",
       "image_url": null,
-      "published": "2026-03-31T08:22:27",
+      "published": "2026-03-31T10:04:03",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-31T08:01:28.033937",
+      "fetched_at": "2026-03-31T09:54:41.511968",
       "priority_score": 95,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-03-31T08:05:05.550527",
+      "processed_at": "2026-03-31T09:58:20.131623",
       "title_tr": "Arjantin, Zambiya hazırlık maçına Messi'yle başlayacak",
       "summary_tr": "Arjantin milli takım yöneticisi Lionel Scaloni, Lionel Messi'nin Salı gecesi La Bombonera'da Zambiya ile hazırlık maçına başlayacağını doğruladı."
     },
@@ -27,18 +49,18 @@
       "summary": "Manchester United are closing in on an agreement with Harry Maguire over a new contract, sources have told ESPN.",
       "url": "https://www.espn.com/soccer/story/_/id/48347810/harry-maguire-set-sign-new-deal-manchester-united-sources",
       "image_url": null,
-      "published": "2026-03-31T08:22:27",
+      "published": "2026-03-31T10:04:04",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-31T08:01:28.034111",
+      "fetched_at": "2026-03-31T09:54:41.512133",
       "priority_score": 95,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-03-31T08:05:05.551150",
+      "processed_at": "2026-03-31T09:58:20.132336",
       "title_tr": "Kaynaklar: Maguire, Man United'la yeni anlaşmaya yaklaştı",
       "summary_tr": "Kaynakların ESPN'e söylediğine göre Manchester United, Harry Maguire ile yeni bir sözleşme için anlaşmaya yaklaşıyor."
     },
@@ -52,36 +74,73 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:29.147533",
+      "fetched_at": "2026-03-31T09:55:51.759884",
       "priority_score": 81,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-03-31T08:05:05.751889",
+      "processed_at": "2026-03-31T09:58:20.360079",
       "title_tr": "Bayern Münih, Harry Kane ve Michael Olise olağanüstü sezonda daha da fazla rekorun peşinde",
       "summary_tr": "Bayern Münih bu sezon Bundesliga'da çıktığı 27 maçın 21'inde üç veya daha fazla gol attı. Sekiz maç günü kala, son şampiyonlar Harry Kane ve Michael Olise yıldızları hedeflerken hâlâ çok sayıda rekor kırılabilir…"
     },
     {
-      "title": "Raphaël Guerreiro to leave Bayern Munich at the end of the season",
-      "summary": "Bayern Munich and Raphaël Guerreiro have mutually agreed not to extend the Portugal international's contract, which is up at the end of this season, bringing his three-year stay at the club to an end.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/raphael-guerreiro-to-leave-bayern-munich-at-the-end-of-the-season-36676",
+      "title": "Kevin Stöger wins Bundesliga Goal of the Month for March!",
+      "summary": "There were once again some absolutely brilliant goals scored in the Bundesliga in March 2026, but you decided that Kevin Stöger's free-kick was the best of the lot!",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/2025-26-goal-of-the-month-season-vote-33934",
       "image_url": null,
       "published": "2026-03-30T15:00:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:29.148051",
-      "priority_score": 76,
+      "fetched_at": "2026-03-31T09:55:51.761365",
+      "priority_score": 66,
       "categories": [
-        "transfers",
-        "serie_a",
+        "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-03-31T08:05:05.759948",
-      "title_tr": "Raphaël Guerreiro sezon sonunda Bayern Münih'ten ayrılacak",
-      "summary_tr": "Bayern Münih ve Raphaël Guerreiro, Portekizli milli futbolcunun bu sezon sonunda sona eren sözleşmesini uzatmama konusunda karşılıklı olarak anlaşarak kulüpteki üç yıllık kariyerini sona erdirdi."
+      "processed_at": "2026-03-31T09:58:20.376072",
+      "title_tr": "Kevin Stöger, Bundesliga'da Mart Ayının Golü'nü kazandı!",
+      "summary_tr": "Mart 2026'da Bundesliga'da yine muhteşem goller atıldı ama siz Kevin Stöger'in serbest vuruşunun en iyisi olduğuna karar verdiniz!"
+    },
+    {
+      "title": "Trabzonspor'un Faslı yıldızı Bouchouari'den, Messi sözleri: Örnek alıyorum",
+      "summary": "Trabzonspor’un Faslı oyuncusu Benjamin Bouchouari, küçük yaşlardan itibaren birçok oyuncudan etkilendiğini belirtirken, örnek olarak Lionel Messi’yi gösterdi.",
+      "url": "https://www.cnnturk.com/spor/futbol/trabzonsporun-fasli-yildizi-bouchouariden-messi-sozleri-ornek-aliyorum-2411932",
+      "image_url": null,
+      "published": "2026-03-31T11:06:53",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:57:12.607246",
+      "priority_score": 61,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-31T09:58:20.907816",
+      "title_tr": "Trabzonspor'un Faslı yıldızı Bouchouari'den, Messi sözleri: Örnek alıyorum",
+      "summary_tr": "Trabzonspor’un Faslı oyuncusu Benjamin Bouchouari, küçük yaşlardan itibaren birçok oyuncudan etkilendiğini belirtirken, örnek olarak Lionel Messi’yi gösterdi."
+    },
+    {
+      "title": "Alexander şov yaptı, Thunder uzatmada kazandı!",
+      "summary": "Amerikan Basketbol Ligi'nde (NBA) Oklahoma City Thunder, sahasında Detroit Pistons'ı uzatmada 114-110 mağlup etti. Oklahoma City Thunder'da forma giyen Shai Gilgeous-Alexander, 47 sayı, 5 ribaunt ve 3 asistle karşılaşmanın en skorer oyuncusu oldu.",
+      "url": "https://www.haberturk.com/alexander-sov-yapti-thunder-uzatmada-kazandi-3873657-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/31/ver1774944095/3873657/jpg/1280x1280",
+      "published": "2026-03-31T08:01:45",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:56:37.453988",
+      "priority_score": 58,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-03-31T09:58:20.498643",
+      "title_tr": "Alexander şov yaptı, Thunder uzatmada kazandı!",
+      "summary_tr": "Amerikan Basketbol Ligi'nde (NBA) Oklahoma City Thunder, sahasında Detroit Pistons'ı uzatmada 114-110 mağlup etti. Oklahoma City Thunder'da forma giyen Shai Gilgeous-Alexander, 47 sayı, 5 ribaunt ve 3 asistle karşılaşmanın en skorer oyuncusu oldu."
     },
     {
       "title": "Arsenal's 11 international withdrawals - injury crisis or crafty caution?",
@@ -93,38 +152,310 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-31T08:01:36.081919",
-      "priority_score": 65,
+      "fetched_at": "2026-03-31T09:54:47.992057",
+      "priority_score": 55,
       "categories": [
         "injuries",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-03-31T08:05:05.564065",
+      "processed_at": "2026-03-31T09:58:20.145208",
       "title_tr": "Arsenal'in 11 uluslararası maçından çekilmesi; sakatlık krizi mi yoksa kurnazca tedbir mi?",
       "summary_tr": "11 Arsenal oyuncusunun uluslararası görevden çekilmesiyle birlikte Arsenal bir sakatlık kriziyle mi karşı karşıya, yoksa sadece temkinli mi davranıyorlar?"
     },
     {
-      "title": "Mohamed Salah could make Liverpool return at Manchester City in FA Cup",
-      "summary": "Forward sustained muscle problem against GalatasarayAlisson still a major doubt for game on SaturdayLiverpool are hopeful that Mohamed Salah will return from injury in the FA Cup quarter-final against Manchester City on Saturday as the Egypt international prepares for his emotional farewell tour.Sal",
-      "url": "https://www.theguardian.com/football/2026/mar/30/mohamed-salah-liverpool-hope-return-injury-fa-cup-quarter-final-manchester-city",
+      "title": "Ayr appoint Rankin as interim boss for season end",
+      "summary": "John Rankin is appointed Ayr United interim manager for the rest of the season, following Scott Brown's Monday departure.",
+      "url": "https://www.bbc.com/sport/football/articles/cedeydj28eno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-30T16:00:13",
+      "published": "2026-03-31T09:34:58",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:54:47.994331",
+      "priority_score": 55,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-31T09:58:20.180120",
+      "title_tr": "Ayr, Rankin'i sezon sonu için geçici patron olarak atadı",
+      "summary_tr": "John Rankin, Scott Brown'ın Pazartesi günü ayrılmasının ardından sezonun geri kalanında Ayr United'ın geçici teknik direktörü olarak atandı."
+    },
+    {
+      "title": "‘We believe in each other’: Kosovo’s hard road from war to World Cup hope",
+      "summary": "The Balkan nation only became Fifa members in 2016, but win over Turkey would secure first World Cup finals place“We didn’t even know each other.” Samir Ujkani is thinking back to March 2014 when a makeshift Kosovo squad, largely thrown together from unglamorous corners of central Europe and Scandin",
+      "url": "https://www.theguardian.com/football/2026/mar/31/kosovo-world-cup-playoff-finals-turkey-samir-ujkani",
+      "image_url": null,
+      "published": "2026-03-31T07:00:34",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:10.040951",
-      "priority_score": 58,
+      "fetched_at": "2026-03-31T09:55:28.230818",
+      "priority_score": 53,
       "categories": [
-        "injuries",
-        "premier_league",
-        "serie_a",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-03-31T09:58:20.252600",
+      "title_tr": "'Birbirimize inanıyoruz': Kosova'nın savaştan Dünya Kupası umuduna giden zorlu yolu",
+      "summary_tr": "Balkan ülkesi ancak 2016 yılında FIFA'ya üye oldu, ancak Türkiye'yi yenmek Dünya Kupası finallerinde ilk sırayı garantileyecekti. \"Birbirimizi tanımıyorduk bile.\" Samir Ujkani, büyük ölçüde Orta Avrupa ve İskandinavya'nın gösterişsiz köşelerinden bir araya getirilen derme çatma bir Kosova takımının kurulduğu Mart 2014'ü düşünüyor."
+    },
+    {
+      "title": "\"Trabzonspor'un önemli bir parçası olmak istiyorum\"",
+      "summary": "Trabzonspor’un Faslı oyuncusu Benjamin Bouchouari, bordo-mavili takımın önemli bir parçası olmak istediğini belirterek, teknik direktör Fatih Tekke’ye güven duyduğunu söyledi.",
+      "url": "https://www.haberturk.com/benjamin-bouchouari-trabzonspor-un-onemli-bir-parcasi-olmak-istiyorum-3873676-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/31/ver1774947394/3873676/jpg/1280x1280",
+      "published": "2026-03-31T08:58:24",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:56:37.453454",
+      "priority_score": 53,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-03-31T09:58:20.450833",
+      "title_tr": "\"Trabzonspor'un önemli bir parçası olmak istiyorum\"",
+      "summary_tr": "Trabzonspor’un Faslı oyuncusu Benjamin Bouchouari, bordo-mavili takımın önemli bir parçası olmak istediğini belirterek, teknik direktör Fatih Tekke’ye güven duyduğunu söyledi."
+    },
+    {
+      "title": "Bouchouari: 'Trabzonspor’da kendimi göstermek istiyorum'",
+      "summary": "Trabzonspor'un orta saha oyuncusu Benjamin Bouchouari, kariyeri boyunca ilk kez sakatlık yaşadığını ve bunun kendisi için yeni ve zor bir deneyim olduğunu ifade etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/bouchouari-trabzonsporda-kendimi-gostermek-istiyorum-43140176",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cb84a8e675cdf0dafa04e1.jpg",
+      "published": "2026-03-31T08:25:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:56:50.657910",
+      "priority_score": 51,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-03-31T09:58:20.573899",
+      "title_tr": "Bouchouari: 'Trabzonspor’da kendimi göstermek istiyorum'",
+      "summary_tr": "Trabzonspor'un orta saha oyuncusu Benjamin Bouchouari, kariyeri boyunca ilk kez sakatlık yaşadığını ve bunun kendisi için yeni ve zor bir deneyim olduğunu ifade etti."
+    },
+    {
+      "title": "Hollanda'dan Noa Lang için sevindirici haber",
+      "summary": "Galatasaray’ın Hollandalı yıldızı Noa Lang, Liverpool maçında yaşadığı parmak sakatlığının ardından Hollanda Milli Takımı kampına çağrılmıştı. Teknik Direktör Ronald Koeman, Lang’ın durumu hakkında önemli açıklamalarda bulundu.",
+      "url": "https://www.cnnturk.com/spor/futbol/hollandadan-noa-lang-icin-sevindirici-haber-2411915",
+      "image_url": null,
+      "published": "2026-03-31T10:14:22",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:57:12.607648",
+      "priority_score": 51,
+      "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-03-31T08:05:05.704820",
-      "title_tr": "Mohamed Salah, Liverpool'un FA Cup'ta Manchester City'ye dönmesini sağlayabilir",
-      "summary_tr": "Galatasaray'a karşı ilerideki kas sorunu Alisson'un Cumartesi günkü maçıyla ilgili büyük şüpheleri varLiverpool, Mısır milli takımı oyuncusu duygusal veda turuna hazırlanırken, Cumartesi günü Manchester City'ye karşı oynanacak FA Cup çeyrek final maçında sakatlıktan dönen Mohamed Salah'ın geri döneceğinden umutlu."
+      "processed_at": "2026-03-31T09:58:20.941940",
+      "title_tr": "Hollanda'dan Noa Lang için sevindirici haber",
+      "summary_tr": "Galatasaray’ın Hollandalı yıldızı Noa Lang, Liverpool maçında yaşadığı parmak sakatlığının ardından Hollanda Milli Takımı kampına çağrılmıştı. Teknik Direktör Ronald Koeman, Lang’ın durumu hakkında önemli açıklamalarda bulundu."
+    },
+    {
+      "title": "Op deze zender kijk je dinsdag naar oefeninterland Nederland tegen Ecuador",
+      "summary": "Het Nederlands elftal oefent dinsdag tegen Ecuador. De ploeg van Ronald Koeman staat voor een krachtmeting met een andere WK-deelnemer. Voetbal International zet uiteen waar dat duel wordt uitgezonden op televisie.",
+      "url": "https://www.vi.nl/nieuws/op-deze-zender-kijk-je-dinsdag-naar-oefeninterland-nederland-tegen-ecuador",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/29/fa87e8e2083acd966a0323033ef2b491d94aa891.jpg?width=1200",
+      "published": "2026-03-31T09:34:59",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:58:17.669907",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-03-31T09:58:21.277098",
+      "title_tr": "Bu kanalda Salı günü Hollanda ile Ekvador arasındaki antrenman maçını izleyebilirsiniz.",
+      "summary_tr": "Hollanda milli takımı Salı günü Ekvador ile antrenman yapacak. Ronald Koeman'ın takımı, başka bir Dünya Kupası katılımcısıyla güç sınavıyla karşı karşıya. Voetbal International, maçın televizyonda nerede yayınlanacağını açıklıyor."
+    },
+    {
+      "title": "'Postive signs' as Newcastle release financial results",
+      "summary": "Newcastle announce their latest financial figures with some positive signs and an increase in turnover - so what does it mean for their transfer plans?",
+      "url": "https://www.skysports.com/watch/video/13526378/newcastle-financial-results-show-positive-signs",
+      "image_url": "https://e0.365dm.com/26/03/1920x1080/skysports-newcastle-keith-downie_7207557.jpg?20260331101226",
+      "published": "2026-03-31T09:51:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:55:00.514577",
+      "priority_score": 91,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-03-31T09:58:20.224017",
+      "title_tr": "Newcastle mali sonuçlarını açıklarken 'olumlu işaretler'",
+      "summary_tr": "Newcastle son mali rakamlarını bazı olumlu işaretler ve ciro artışıyla açıkladı; peki bu, transfer planları açısından ne anlama geliyor?"
+    },
+    {
+      "title": "Raphaël Guerreiro to leave Bayern Munich at the end of the season",
+      "summary": "Bayern Munich and Raphaël Guerreiro have mutually agreed not to extend the Portugal international's contract, which is up at the end of this season, bringing his three-year stay at the club to an end.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/raphael-guerreiro-to-leave-bayern-munich-at-the-end-of-the-season-36676",
+      "image_url": null,
+      "published": "2026-03-30T15:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:55:51.760374",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-31T09:58:20.368934",
+      "title_tr": "Raphaël Guerreiro sezon sonunda Bayern Münih'ten ayrılacak",
+      "summary_tr": "Bayern Münih ve Raphaël Guerreiro, Portekizli milli futbolcunun bu sezon sonunda sona eren sözleşmesini uzatmama konusunda karşılıklı olarak anlaşarak kulüpteki üç yıllık kariyerini sona erdirdi."
+    },
+    {
+      "title": "Transfer rumors, news: Real Madrid eye Fernandez if Rodri pursuit fails",
+      "summary": "Enzo Fernández is on Real Madrid's shortlist, plus RB Leipzig could yet tempt Liverpool-linked winger Yan Diomande to stay. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48354087/transfer-rumors-news-real-madrid-eye-fernandez-rodri-pursuit-fails",
+      "image_url": null,
+      "published": "2026-03-31T09:23:28",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:54:41.512972",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-03-31T09:58:20.139061",
+      "title_tr": "Transfer söylentileri, haberler: Rodri'nin takibi başarısız olursa Real Madrid gözünü Fernandez'e dikti",
+      "summary_tr": "Enzo Fernández, Real Madrid'in kısa listesinde yer alıyor ve RB Leipzig, Liverpool bağlantılı kanat oyuncusu Yan Diomande'yi kalmaya ikna edebilir. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Sezon sonu yıldızlar bedava!",
+      "summary": "Dünya futbolunda heyecan tüm hızıyla devam ederken, 2025-2026 sezonunun sonunda birçok yıldız oyuncunun sözleşmesi sona erecek. İşte Türk takımlarının da transfer listesinde bulunan o futbolcular...",
+      "url": "https://www.haberturk.com/iste-sozlesmesi-bitecek-futbolcular-3873502-spor",
+      "image_url": "https://im.haberturk.com/l/2026/03/30/ver1774891864/3873502/jpg/1280x1280",
+      "published": "2026-03-30T17:31:39",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:56:37.454402",
+      "priority_score": 63,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-03-31T09:58:20.535138",
+      "title_tr": "Sezon sonu yıldızlar bedava!",
+      "summary_tr": "Dünya futbolunda heyecan tüm hızıyla devam ederken, 2025-2026 sezonunun sonunda birçok yıldız oyuncunun sözleşmesi sona erecek. İşte Türk takımlarının da transfer listesinde bulunan o futbolcular..."
+    },
+    {
+      "title": "Vitesse zegt vijf contracten formeel op, waaronder dat van Büttner",
+      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
+      "url": "https://www.vi.nl/nieuws/vitesse-zegt-vijf-contracten-formeel-op-waaronder-dat-van-b-ttner",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
+      "published": "2026-03-31T07:10:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:58:17.671085",
+      "priority_score": 62,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-03-31T09:58:21.509197",
+      "title_tr": "Vitesse, Büttner'inki de dahil olmak üzere beş sözleşmeyi resmen feshetti",
+      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
+    },
+    {
+      "title": "Galatasaray'dan savunmaya iki hamle: Bir yerli, bir dünya yıldızı!",
+      "summary": "Süper Lig'de üst üste dördüncü şampiyonluğuna koşan Galatasaray, yeni sezon kadrosunda savunma rotasyonunu yapacağı iki transfer ile genişletmek istiyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-savunmaya-iki-hamle-bir-yerli-bir-dunya-yildizi-43139975",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cb4ec3e675cdf0dafa029f.jpg",
+      "published": "2026-03-31T04:34:24",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:56:50.658542",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-03-31T09:58:20.683741",
+      "title_tr": "Galatasaray'dan savunmaya iki hamle: Bir yerli, bir dünya yıldızı!",
+      "summary_tr": "Süper Lig'de üst üste dördüncü şampiyonluğuna koşan Galatasaray, yeni sezon kadrosunda savunma rotasyonunu yapacağı iki transfer ile genişletmek istiyor."
+    },
+    {
+      "title": "Martinez: Ronaldo key for Portugal despite injury",
+      "summary": "Portugal coach Roberto Martinez says Cristiano Ronaldo continues to play a vital role for the national team at 41 years of age.",
+      "url": "https://www.espn.com/soccer/story/_/id/48354420/cristiano-ronaldo-key-portugal-injury-absence-roberto-martinez",
+      "image_url": null,
+      "published": "2026-03-31T10:04:03",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:54:41.510971",
+      "priority_score": 60,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-03-31T09:58:20.128820",
+      "title_tr": "Martinez: Ronaldo sakatlığa rağmen Portekiz'in anahtarı",
+      "summary_tr": "Portekiz teknik direktörü Roberto Martinez, 41 yaşındaki Cristiano Ronaldo'nun milli takım için hayati bir rol oynamaya devam ettiğini söyledi."
+    },
+    {
+      "title": "Tottenham close to appointing Roberto De Zerbi as new manager after talks",
+      "summary": "De Zerbi is only candidate currently talking to SpursTottenham intend to give Italian a long-term contractRoberto De Zerbi has moved closer to becoming Tottenham’s new manager after further negotiations on Monday. The club have made him their prime target to replace Igor Tudor and save them from wha",
+      "url": "https://www.theguardian.com/football/2026/mar/30/roberto-de-zerbi-igor-tudor-tottenham-new-manager",
+      "image_url": null,
+      "published": "2026-03-30T19:08:58",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:55:28.231594",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-03-31T09:58:20.267003",
+      "title_tr": "Tottenham, görüşmelerin ardından Roberto De Zerbi'yi yeni teknik direktör olarak atamaya yaklaştı",
+      "summary_tr": "De Zerbi şu anda Spurs ile konuşan tek adayTottenham, İtalya'ya uzun vadeli bir sözleşme vermek niyetinde. Roberto De Zerbi, Pazartesi günü yapılan görüşmelerin ardından Tottenham'ın yeni menajeri olmaya yaklaştı. Kulüp, Igor Tudor'un yerini alması ve onları bu durumdan kurtarması için onu ana hedef haline getirdi."
+    },
+    {
+      "title": "Algemeen directeur Newcastle: 'Ik heb geen mening over toekomst Howe'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/cucurella-staat-open-voor-barcelona-twijfel-over-rashford",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-03-31T08:32:22",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-03-31T09:58:17.670283",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-03-31T09:58:21.366586",
+      "title_tr": "Newcastle genel menajeri: 'Howe'un geleceği hakkında hiçbir fikrim yok'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "'He doesn't score simple goals!' 🚀 10 players who only scored BANGERS!",
@@ -136,13 +467,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-03-31T08:01:46.348768",
+      "fetched_at": "2026-03-31T09:55:00.514720",
       "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-31T08:05:05.632553",
+      "processed_at": "2026-03-31T09:58:20.234742",
       "title_tr": "'Basit gol atmıyor!' 🚀 Yalnızca BANGERS'a gol atan 10 oyuncu!",
       "summary_tr": "Premier Lig'de sadece gol atan on oyuncu. Gol atanlar arasında Tugay, Laurent Robert, Steve Staunton, Tom Huddlestone, Xabi Alonso, Matt Taylor, Thomas Hitzlsperger, Matt Le Tissier, Jonjo Shelvey ve Dietmar Hamann yer alıyor."
     },
@@ -156,328 +487,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-31T08:03:30.658140",
+      "fetched_at": "2026-03-31T09:56:50.658376",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-03-31T08:05:05.944473",
+      "processed_at": "2026-03-31T09:58:20.657124",
       "title_tr": "Almanya'da Leroy Sane krizi! Oyuna girerken yuhalandı, Nagelsmann taraftara tepki gösterdi",
       "summary_tr": "Almanya'nın Gana ile oynadığı hazırlık maçında oyuna sonradan dahil olan Galatasaray'ın yıldız futbolcusu Leroy Sane, kendi taraftarının ıslıklı ve yuhalamalı protestosuna maruz kaldı. Galibiyeti getiren golün asistini yapan Sane'ye maçtan sonra Almanya teknik direktörü Julian Nagelsmann destek çıkt"
     },
     {
-      "title": "‘We believe in each other’: Kosovo’s hard road from war to World Cup hope",
-      "summary": "The Balkan nation only became Fifa members in 2016, but win over Turkey would secure first World Cup finals place“We didn’t even know each other.” Samir Ujkani is thinking back to March 2014 when a makeshift Kosovo squad, largely thrown together from unglamorous corners of central Europe and Scandin",
-      "url": "https://www.theguardian.com/football/2026/mar/31/kosovo-world-cup-playoff-finals-turkey-samir-ujkani",
+      "title": "Don Garber hits back at Egypt executive who warned Salah against MLS move",
+      "summary": "Ibrahim Hassan claimed league is ‘out of the spotlight’MLS commissioner says Hassan ‘should watch Messi’In an interview with the Guardian, MLS commissioner Don Garber suggested that the Egyptian soccer executive who urged Mohamed Salah to avoid the league should watch Lionel Messi starring for Inter",
+      "url": "https://www.theguardian.com/football/2026/mar/31/don-garber-egypt-ibrahim-hassan-mo-salah-mls",
       "image_url": null,
-      "published": "2026-03-31T07:00:34",
+      "published": "2026-03-31T08:00:35",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:10.039033",
+      "fetched_at": "2026-03-31T09:55:28.233938",
       "priority_score": 53,
       "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-31T08:05:05.681072",
-      "title_tr": "'Birbirimize inanıyoruz': Kosova'nın savaştan Dünya Kupası umuduna giden zorlu yolu",
-      "summary_tr": "Balkan ülkesi ancak 2016 yılında FIFA'ya üye oldu, ancak Türkiye'yi yenmek Dünya Kupası finallerinde ilk sırayı garantileyecekti. \"Birbirimizi tanımıyorduk bile.\" Samir Ujkani, büyük ölçüde Orta Avrupa ve İskandinavya'nın gösterişsiz köşelerinden bir araya getirilen derme çatma bir Kosova takımının kurulduğu Mart 2014'ü düşünüyor."
-    },
-    {
-      "title": "Hollanda'dan Noa Lang için sevindirici haber",
-      "summary": "Galatasaray’ın Hollandalı yıldızı Noa Lang, Liverpool maçında yaşadığı parmak sakatlığının ardından Hollanda Milli Takımı kampına çağrılmıştı. Teknik Direktör Ronald Koeman, Lang’ın durumu hakkında önemli açıklamalarda bulundu.",
-      "url": "https://www.cnnturk.com/spor/futbol/hollandadan-noa-lang-icin-sevindirici-haber-2411915",
-      "image_url": null,
-      "published": "2026-03-31T10:14:22",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:03:54.114884",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-03-31T08:05:06.182554",
-      "title_tr": "Hollanda'dan Noa Lang için sevindirici haber",
-      "summary_tr": "Galatasaray’ın Hollandalı yıldızı Noa Lang, Liverpool maçında yaşadığı parmak sakatlığının ardından Hollanda Milli Takımı kampına çağrılmıştı. Teknik Direktör Ronald Koeman, Lang’ın durumu hakkında önemli açıklamalarda bulundu."
-    },
-    {
-      "title": "'This is bigger than football' - DR Congo bid to end 52-year World Cup wait",
-      "summary": "DR Congo face Jamaica in a World Cup play-off, hoping to reach the tournament for the first time since 1974, a campaign memorable for the wrong reasons.",
-      "url": "https://www.bbc.com/sport/football/articles/cwyd1zpy81mo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-30T15:42:03",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:36.084009",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-03-31T08:05:05.591795",
-      "title_tr": "'Bu futboldan daha büyük' ​​- DR Kongo'nun 52 yıllık Dünya Kupası bekleyişine son verme teklifi",
-      "summary_tr": "DR Kongo, Dünya Kupası play-off'unda Jamaika ile karşılaşıyor ve 1974'ten bu yana ilk kez turnuvaya katılmayı umuyor; bu, yanlış sebeplerden dolayı unutulmaz bir mücadele."
-    },
-    {
-      "title": "43-voudig international Kuijs op 94-jarige leeftijd overleden",
-      "summary": "Kees Kuijs is op 94-jarige leeftijd overleden. Dit heeft zijn familie bevestigd tegenover het ANP . De voormalige verdediger van HFC Haarlem en NAC Breda was sinds het overlijden van Kees Rijvers in 2024 de oudste nog levende Oranje-international.",
-      "url": "https://www.vi.nl/nieuws/43-voudig-international-kuijs-op-94-jarige-leeftijd-overleden",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/31/7434cdb831c29debfcfbf2b7ffac04aca4a02ae8.jpg?width=1200",
-      "published": "2026-03-31T07:52:58",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:05:01.569334",
-      "priority_score": 47,
-      "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-03-31T08:05:06.621145",
-      "title_tr": "43 kez uluslararası Kuij'ler 94 yaşında hayatını kaybetti",
-      "summary_tr": "Kees Kuijs 94 yaşında vefat etti. Ailesi bunu ANP'ye doğruladı. HFC Haarlem ve NAC Breda'nın eski savunucusu, Kees Rijvers'ın 2024'teki ölümünden bu yana yaşayan en yaşlı Hollandalı milli oyuncu oldu."
-    },
-    {
-      "title": "Rondje Oranje: de wijzigingen tegen Ecuador",
-      "summary": "Het Nederlands elftal sluit dinsdagavond tegen Ecuador de interlandperiode van maart af, we gaan uitgebreid voorbeschouwen op de wedstrijd in Rondje Oranje.",
-      "url": "https://www.vi.nl/nieuws/rondje-oranje-de-wijzigingen-tegen-ecuador",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/31/7797cc612cde1ec6ba9faba6f6383b71552cdfa3.jpg?width=1200",
-      "published": "2026-03-31T07:20:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:05:01.569474",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-31T08:05:06.645083",
-      "title_tr": "Rondje Oranje: Ekvador'a karşı değişiklikler",
-      "summary_tr": "Hollanda milli takımı, Mart ayında Ekvador'a karşı oynayacağı uluslararası maçı Salı akşamı kapatacak ve biz de Rondje Oranje'deki maçın kapsamlı bir ön izlemesini sunacağız."
-    },
-    {
-      "title": "Wolff says 'broken glass' could prevent F1 return for Horner",
-      "summary": "Mercedes chief Toto Wolff has denied attempting to block Christian Horner from returning to Formula 1 but says his former rival could be facing \"repercussions\" for breaking \"quite a lot of glass\" during his time as Red Bull boss.",
-      "url": "https://www.skysports.com/f1/news/12040/13526130/toto-wolff-denies-wanting-to-block-christian-horner-from-returning-to-f1-but-warns-former-rival-over-repercussions-for-past-actions",
-      "image_url": "https://e1.365dm.com/24/04/1920x1080/skysports-toto-wolff-christian-horner_6528809.jpg?20240421150127",
-      "published": "2026-03-30T15:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:46.348692",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-03-31T08:05:05.627171",
-      "title_tr": "Wolff, 'kırık camın' Horner'ın F1'e dönüşünü engelleyebileceğini söyledi",
-      "summary_tr": "Mercedes şefi Toto Wolff, Christian Horner'ın Formula 1'e dönmesini engelleme girişimini reddetti ancak eski rakibinin, Red Bull patronu olduğu dönemde \"oldukça fazla camı\" kırdığı için \"yankılarla\" karşı karşıya kalabileceğini söyledi."
-    },
-    {
-      "title": "Vitesse zegt vijf contracten formeel op, waaronder dat van Büttner",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/vitesse-zegt-vijf-contracten-formeel-op-waaronder-dat-van-b-ttner",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-03-31T07:10:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:05:01.569656",
-      "priority_score": 72,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-31T08:05:06.676434",
-      "title_tr": "Vitesse, Büttner'inki de dahil olmak üzere beş sözleşmeyi resmen feshetti",
-      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
-    },
-    {
-      "title": "Kevin Stöger wins Bundesliga Goal of the Month for March!",
-      "summary": "There were once again some absolutely brilliant goals scored in the Bundesliga in March 2026, but you decided that Kevin Stöger's free-kick was the best of the lot!",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/2025-26-goal-of-the-month-season-vote-33934",
-      "image_url": null,
-      "published": "2026-03-30T15:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:02:29.148946",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-03-31T08:05:05.766488",
-      "title_tr": "Kevin Stöger, Bundesliga'da Mart Ayının Golü'nü kazandı!",
-      "summary_tr": "Mart 2026'da Bundesliga'da yine muhteşem goller atıldı ama siz Kevin Stöger'in serbest vuruşunun en iyisi olduğuna karar verdiniz!"
-    },
-    {
-      "title": "Ancelotti praises Modric ahead of Croatia match",
-      "summary": "Brazil coach Carlo Ancelotti has heaped praise on his former Real Madrid midfielder Luka Modric ahead of Tuesday's international friendly against Croatia.",
-      "url": "https://www.espn.com/soccer/story/_/id/48348096/brazil-ancelotti-praises-luka-modric-ahead-croatia-friendly",
-      "image_url": null,
-      "published": "2026-03-31T08:22:27",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:28.034284",
-      "priority_score": 65,
-      "categories": [
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-31T08:05:05.551930",
-      "title_tr": "Ancelotti, Hırvatistan maçı öncesinde Modric'i övdü",
-      "summary_tr": "Brezilya teknik direktörü Carlo Ancelotti, Salı günü Hırvatistan ile oynanacak hazırlık maçı öncesinde eski Real Madrid orta saha oyuncusu Luka Modric'e övgüler yağdırdı."
-    },
-    {
-      "title": "Sezon sonu yıldızlar bedava!",
-      "summary": "Dünya futbolunda heyecan tüm hızıyla devam ederken, 2025-2026 sezonunun sonunda birçok yıldız oyuncunun sözleşmesi sona erecek. İşte Türk takımlarının da transfer listesinde bulunan o futbolcular...",
-      "url": "https://www.haberturk.com/iste-sozlesmesi-bitecek-futbolcular-3873502-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/30/ver1774891864/3873502/jpg/1280x1280",
-      "published": "2026-03-30T17:31:39",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:03:18.527059",
-      "priority_score": 63,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-31T08:05:05.867075",
-      "title_tr": "Sezon sonu yıldızlar bedava!",
-      "summary_tr": "Dünya futbolunda heyecan tüm hızıyla devam ederken, 2025-2026 sezonunun sonunda birçok yıldız oyuncunun sözleşmesi sona erecek. İşte Türk takımlarının da transfer listesinde bulunan o futbolcular..."
-    },
-    {
-      "title": "Galatasaray'dan savunmaya iki hamle: Bir yerli, bir dünya yıldızı!",
-      "summary": "Süper Lig'de üst üste dördüncü şampiyonluğuna koşan Galatasaray, yeni sezon kadrosunda savunma rotasyonunu yapacağı iki transfer ile genişletmek istiyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-savunmaya-iki-hamle-bir-yerli-bir-dunya-yildizi-43139975",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cb4ec3e675cdf0dafa029f.jpg",
-      "published": "2026-03-31T04:34:24",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:03:30.658305",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-31T08:05:05.966900",
-      "title_tr": "Galatasaray'dan savunmaya iki hamle: Bir yerli, bir dünya yıldızı!",
-      "summary_tr": "Süper Lig'de üst üste dördüncü şampiyonluğuna koşan Galatasaray, yeni sezon kadrosunda savunma rotasyonunu yapacağı iki transfer ile genişletmek istiyor."
-    },
-    {
-      "title": "Transfer rumors, news: De Zerbi open to Spurs managerial job",
-      "summary": "Roberto De Zerbi could reportedly be the next Tottenham coach. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48345178/transfer-rumors-news-atletico-madrid-want-arsenal-gabriel-jesus-gabriel-martinelli",
-      "image_url": null,
-      "published": "2026-03-30T13:20:10",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:28.035176",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-03-31T08:05:05.558277",
-      "title_tr": "Transfer söylentileri, haberler: De Zerbi, Spurs'ün teknik direktörlüğüne açık",
-      "summary_tr": "Roberto De Zerbi'nin bir sonraki Tottenham koçu olabileceği bildiriliyor. Transfer Talk'ta en son gelişmeler var."
-    },
-    {
-      "title": "Tottenham close to appointing Roberto De Zerbi as new manager after talks",
-      "summary": "De Zerbi is only candidate currently talking to SpursTottenham intend to give Italian a long-term contractRoberto De Zerbi has moved closer to becoming Tottenham’s new manager after further negotiations on Monday. The club have made him their prime target to replace Igor Tudor and save them from wha",
-      "url": "https://www.theguardian.com/football/2026/mar/30/roberto-de-zerbi-igor-tudor-tottenham-new-manager",
-      "image_url": null,
-      "published": "2026-03-30T19:08:58",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:02:10.037966",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-03-31T08:05:05.659380",
-      "title_tr": "Tottenham, görüşmelerin ardından Roberto De Zerbi'yi yeni teknik direktör olarak atamaya yaklaştı",
-      "summary_tr": "De Zerbi şu anda Spurs ile konuşan tek adayTottenham, İtalya'ya uzun vadeli bir sözleşme vermek niyetinde. Roberto De Zerbi, Pazartesi günü yapılan görüşmelerin ardından Tottenham'ın yeni menajeri olmaya yaklaştı. Kulüp, Igor Tudor'un yerini alması ve onları bu durumdan kurtarması için onu ana hedef haline getirdi."
-    },
-    {
-      "title": "Cucurella staat open voor Barcelona, twijfel over Rashford",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/cucurella-staat-open-voor-barcelona-twijfel-over-rashford",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-03-31T05:56:22",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:05:01.570145",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-03-31T08:05:06.802242",
-      "title_tr": "Cucurella Barselona'ya açık, Rashford hakkında şüpheler var",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Göztepe'de transfer gündemi rafa kaldırıldı",
-      "summary": "Süper Lig'de milli aranın ardından 8 günde Gençlerbirliği (D), Galatasaray ve Kasımpaşa ile Avrupa yolunda çok kritik maçlara çıkacak Göztepe'de yönetim transfer gündemini tamamen rafa kaldırdı.",
-      "url": "https://www.cnnturk.com/spor/futbol/goztepede-transfer-gundemi-rafa-kaldirildi-2411696",
-      "image_url": null,
-      "published": "2026-03-30T14:05:05",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:03:54.116686",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-31T08:05:06.334585",
-      "title_tr": "Göztepe'de transfer gündemi rafa kaldırıldı",
-      "summary_tr": "Süper Lig'de milli aranın ardından 8 günde Gençlerbirliği (D), Galatasaray ve Kasımpaşa ile Avrupa yolunda çok kritik maçlara çıkacak Göztepe'de yönetim transfer gündemini tamamen rafa kaldırdı."
-    },
-    {
-      "title": "Tudor's disastrous six-week stint has left Spurs even closer to relegation. What happened?",
-      "summary": "Igor Tudor will be remembered at Tottenham Hotspur as the firefighter who used gasoline instead of water. That's if he's remembered at all.",
-      "url": "https://www.espn.com/soccer/story/_/id/48346073/igor-tudor-disastrous-stint-tottenham-hotspur-manager-leaves-club-even-closer-relegation",
-      "image_url": null,
-      "published": "2026-03-31T08:20:40",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:28.034851",
-      "priority_score": 55,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-03-31T08:05:05.555758",
-      "title_tr": "Tudor'un altı haftalık felaket dönemi Spurs'u küme düşmeye daha da yaklaştırdı. Ne oldu?",
-      "summary_tr": "Igor Tudor, Tottenham Hotspur'da su yerine benzin kullanan itfaiyeci olarak hatırlanacak. Tabii eğer hatırlanırsa."
+      "processed_at": "2026-03-31T09:58:20.301057",
+      "title_tr": "Don Garber, Salah'ı MLS hamlesine karşı uyaran Mısırlı yöneticiye sert yanıt verdi",
+      "summary_tr": "İbrahim Hassan, ligin \"gözden uzak\" olduğunu iddia etti MLS komiseri Hassan'ın \"Messi'yi izlemesi gerektiğini\" söyledi Guardian'a verdiği röportajda MLS komiseri Don Garber, Mohamed Salah'ı ligden uzak durmaya çağıran Mısırlı futbol yöneticisinin Inter'de oynadığı Lionel Messi'yi izlemesi gerektiğini öne sürdü"
     },
     {
       "title": "WSL talking points: goals galore as Arsenal, Manchester City and Liverpool find derby delight",
@@ -489,13 +526,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:10.041950",
+      "fetched_at": "2026-03-31T09:55:28.234675",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-03-31T08:05:05.723519",
+      "processed_at": "2026-03-31T09:58:20.320618",
       "title_tr": "WSL'de konuşulan konular: Arsenal, Manchester City ve Liverpool derbi keyfi yaşarken çok sayıda gol atılıyor",
       "summary_tr": "Marc Skinner, Vivianne Miedema'nın parlaması ve Brighton'ın Kiko Seike'yi tekrar karşılamasının ardından City'nin avantajından yakınıyor. Arsenal'in Tottenham'ı 5-2 yendiği maçta hat-trick yapan Alessia Russo, bu sezon 31 maçta 25 gole katkıda bulundu. Bu sadece en iyi dönemindeki bir oyuncudan dikkate değer bir geri dönüş değil, aynı zamanda"
     },
@@ -509,92 +546,54 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:29.146714",
+      "fetched_at": "2026-03-31T09:55:51.757588",
       "priority_score": 51,
       "categories": [
         "bundesliga"
       ],
-      "processed_at": "2026-03-31T08:05:05.741761",
+      "processed_at": "2026-03-31T09:58:20.329598",
       "title_tr": "VfB Stuttgart ve Borussia Dortmund 28. Maç günü karşılaşması öncesinde nasıl bir performans sergiliyor?",
       "summary_tr": "Bu sezonun başlarında bu taraflar arasındaki ilgili maça bakılacak olursa, dünya çapındaki Bundesliga taraftarları VfB Stuttgart'ın 28. Maç günü Borussia Dortmund'u MHP Arena'da karşılamasıyla büyük bir sürprizle karşılaşacak."
     },
     {
-      "title": "De ongelooflijke impact van Messi op Inter Miami: 'Wereldmerk geworden'",
-      "summary": "Inter Miami leeft toe naar de opening van het nieuwe stadion, komend weekeinde tegen Austin FC. In dat onderkomen, Nu Stadium geheten, is een tribune vernoemd naar Lionel Messi . 'Hij heeft al onze verwachtingen overtroffen. We zijn nu een wereldmerk.'",
-      "url": "https://www.vi.nl/video/de-ongelooflijke-impact-van-messi-op-inter-miami-wereldmerk-geworden",
-      "image_url": "https://images.performgroup.com/transcoded/20260331/300326_INTER_MIAMI_EN_SPN_MLS_NEW_STADIUM_RV_V2_1774937533026-1_2847_1.jpeg",
-      "published": "2026-03-31T06:28:43",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Dünya Kupası Yolunda Son Viraj! İşte Misli’den Günün Tüyoları",
+      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-yolunda-son-viraj-iste-misliden-gunun-tuyolari-43140270",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cb95e5e675cdf0dafa05cc.jpg",
+      "published": "2026-03-31T09:38:11",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-03-31T08:05:01.569940",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-03-31T08:05:06.750224",
-      "title_tr": "Messi'nin Inter Miami'ye inanılmaz etkisi: 'Dünya markası olun'",
-      "summary_tr": "Inter Miami, önümüzdeki hafta sonu Austin FC'ye karşı yeni stadın açılışını sabırsızlıkla bekliyor. Nu Stadyumu adı verilen tesiste Lionel Messi'nin adını taşıyan bir tribün bulunuyor. 'Bütün beklentilerimizi aştı. Artık küresel bir markayız.'"
-    },
-    {
-      "title": "Ghana sack manager Addo, 72 days before World Cup",
-      "summary": "Ghana dismiss manager Otto Addo, 72 days before the start of the 2026 World Cup, following a run of defeats.",
-      "url": "https://www.bbc.com/sport/football/articles/crr1zyyr8xvo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-03-31T06:39:12",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:01:36.082272",
-      "priority_score": 45,
+      "fetched_at": "2026-03-31T09:56:50.657752",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-03-31T08:05:05.567898",
-      "title_tr": "Gana, Dünya Kupası'na 72 gün kala teknik direktör Addo'yu kovdu",
-      "summary_tr": "Gana, bir dizi yenilginin ardından 2026 Dünya Kupası'nın başlamasına 72 gün kala teknik direktör Otto Addo'yu görevden aldı."
+      "processed_at": "2026-03-31T09:58:20.545230",
+      "title_tr": "Dünya Kupası Yolunda Son Viraj! İşte Misli’den Günün Tüyoları",
+      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor."
     },
     {
-      "title": "Steve Clarke plays down discord as Scotland aim to kickstart World Cup preparations",
-      "summary": "Manager says fans booing after defeat by Japan is ‘not a big issue’ as he prepares to face Côte d’Ivoire in LiverpoolManagers making critical comment towards supporters is rarely a movie that ends well, no matter the validity of the complaint. As soon as Steve Clarke admitted to being surprised and ",
-      "url": "https://www.theguardian.com/football/2026/mar/31/steve-clarke-scotland-japan-cote-divoire-world-cup-2026",
+      "title": "'This is bigger than football' - DR Congo bid to end 52-year World Cup wait",
+      "summary": "DR Congo face Jamaica in a World Cup play-off, hoping to reach the tournament for the first time since 1974, a campaign memorable for the wrong reasons.",
+      "url": "https://www.bbc.com/sport/football/articles/cwyd1zpy81mo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-03-31T07:00:34",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-03-30T15:42:03",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-03-31T08:02:10.038712",
-      "priority_score": 43,
+      "fetched_at": "2026-03-31T09:54:47.994154",
+      "priority_score": 50,
       "categories": [
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-03-31T08:05:05.674297",
-      "title_tr": "İskoçya Dünya Kupası hazırlıklarına başlamayı hedeflerken Steve Clarke anlaşmazlığı önemsemiyor",
-      "summary_tr": "Yönetici, Liverpool'da Fildişi Sahili ile karşılaşmaya hazırlanırken Japonya'ya yenildikten sonra taraftarların yuhalamalarının \"büyük bir sorun olmadığını\" söylüyor. Menajerlerin, şikayetin geçerliliği ne olursa olsun, taraftarlara yönelik eleştirel yorumlarda bulunmasının nadiren iyi biten bir film olduğunu söylüyor. Steve Clarke şaşırdığını itiraf eder etmez"
-    },
-    {
-      "title": "Fenerbahçe'de Ngapeth'in sözleşmesi feshedildi!",
-      "summary": "Fenerbahçe Medica maç öncesi skandal görüntülere konu olan Earvin Ngapeth'in sözleşmesi feshedildi.",
-      "url": "https://www.haberturk.com/fenerbahce-de-ngapeth-in-sozlesmesi-feshedildi-3873485-spor",
-      "image_url": "https://im.haberturk.com/l/2026/03/30/ver1774878350/3873485/jpg/1280x1280",
-      "published": "2026-03-30T13:46:06",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-03-31T08:03:18.527611",
-      "priority_score": 43,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-03-31T08:05:05.903965",
-      "title_tr": "Fenerbahçe'de Ngapeth'in sözleşmesi feshedildi!",
-      "summary_tr": "Fenerbahçe Medica maç öncesi skandal görüntülere konu olan Earvin Ngapeth'in sözleşmesi feshedildi."
+      "processed_at": "2026-03-31T09:58:20.176892",
+      "title_tr": "'Bu futboldan daha büyük' ​​- DR Kongo'nun 52 yıllık Dünya Kupası bekleyişine son verme teklifi",
+      "summary_tr": "DR Kongo, Dünya Kupası play-off'unda Jamaika ile karşılaşıyor ve 1974'ten bu yana ilk kez turnuvaya katılmayı umuyor; bu, yanlış sebeplerden dolayı unutulmaz bir mücadele."
     }
   ]
 }
