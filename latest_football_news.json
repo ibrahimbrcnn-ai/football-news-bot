@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T01:25:07.735817",
+  "timestamp": "2026-04-03T04:25:41.511474",
   "total_items": 30,
   "news": [
     {
@@ -12,37 +12,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:14.802522",
+      "fetched_at": "2026-04-03T04:23:03.697332",
       "priority_score": 96,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.198609",
+      "processed_at": "2026-04-03T04:24:38.972022",
       "title_tr": "Ertuğrul Doğan'dan Galatasaray ve Uğurcan Çakır için zehir zemberek sözler: 'Uyarmamıza rağmen anlaştığımız oyuncuyu, daha fazla para vererek aldılar!'",
       "summary_tr": "Trabzonspor Başkanı Ertuğrul Doğan, Uğurcan Çakır'ın Galatasaray'a transferini, \"Oynamayı istemeyen bir oyuncunun arkasında takımımı çıkaramam. Bize karakteri ile bu şehri temsil edebilecek oyuncular lazım.\" sözleriyle değerlendirirken, sarı-kırmızılıların devre arasında gerçekleştirdiği Renato Nhag"
-    },
-    {
-      "title": "Barça's Laporta rages at FIFA over Raphinha injury",
-      "summary": "Barcelona president Joan Laporta raged at FIFA for failing to keep the game's biggest clubs in mind after Raphinha was ruled out for five weeks during the international break.",
-      "url": "https://www.espn.com/soccer/story/_/id/48375727/barcelona-president-joan-laporta-rages-fifa-raphinha-injury",
-      "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.936111",
-      "priority_score": 85,
-      "categories": [
-        "injuries",
-        "la_liga",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-03T01:23:59.883346",
-      "title_tr": "Barçalı Laporta, Raphinha'nın sakatlığı nedeniyle FIFA'ya öfkeli",
-      "summary_tr": "Barcelona Başkanı Joan Laporta, Raphinha'nın milli ara sırasında beş hafta sahalardan uzak tutulmasının ardından, futbolun en büyük kulüplerini akılda tutamadığı için FIFA'ya öfkelendi."
     },
     {
       "title": "Officials correct not to give Amad penalty - panel",
@@ -54,14 +32,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:11.196639",
+      "fetched_at": "2026-04-03T04:21:07.099285",
       "priority_score": 85,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-03T01:23:59.907910",
+      "processed_at": "2026-04-03T04:24:38.625299",
       "title_tr": "Yetkililer Amad'a ceza vermemeyi doğruladı - panel",
       "summary_tr": "Premier Lig'in KMI Paneli, hem hakemin hem de VAR'ın Bournemouth'ta Manchester United'lı Amad Diallo'ya penaltı vermeme konusunda haklı olduğunu söyledi."
     },
@@ -75,7 +53,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:50.082085",
+      "fetched_at": "2026-04-03T04:21:41.435580",
       "priority_score": 78,
       "categories": [
         "breaking_news",
@@ -83,9 +61,31 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-03T01:24:00.008124",
+      "processed_at": "2026-04-03T04:24:38.730431",
       "title_tr": "FA Cup çeyrek finalleri: Bu hafta sonu dikkat edilmesi gerekenler",
       "summary_tr": "Chelsea kaybetmeye cesaret edemiyor, West Ham ve Leeds bir hayatta kalma kostümlü provası yaparken, Phil Foden'ın acilen etki yaratması gerekiyor Thomas Tuchel, Manchester City'nin ofansif orta saha oyuncusunun Wor'da nasıl kullanılabileceğini deneyimlerken Phil Foden, uluslararası devre arasında İngiltere adına iki başlangıç ​​yaptı."
+    },
+    {
+      "title": "Barça's Laporta rages at FIFA over Raphinha injury",
+      "summary": "Barcelona president Joan Laporta raged at FIFA for failing to keep the game's biggest clubs in mind after Raphinha was ruled out for five weeks during the international break.",
+      "url": "https://www.espn.com/soccer/story/_/id/48375727/barcelona-president-joan-laporta-rages-fifa-raphinha-injury",
+      "image_url": null,
+      "published": "2026-04-03T00:46:13",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-03T04:21:01.358688",
+      "priority_score": 75,
+      "categories": [
+        "injuries",
+        "la_liga",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-03T04:24:38.599391",
+      "title_tr": "Barçalı Laporta, Raphinha'nın sakatlığı nedeniyle FIFA'ya öfkeli",
+      "summary_tr": "Barcelona Başkanı Joan Laporta, Raphinha'nın milli ara sırasında beş hafta sahalardan uzak tutulmasının ardından, futbolun en büyük kulüplerini akılda tutamadığı için FIFA'ya öfkelendi."
     },
     {
       "title": "Deniz Undav named Bundesliga Player of the Month for March",
@@ -97,16 +97,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-03T01:21:13.038381",
+      "fetched_at": "2026-04-03T04:22:05.602007",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-03T01:24:00.047886",
+      "processed_at": "2026-04-03T04:24:38.772262",
       "title_tr": "Deniz Undav, Bundesliga'da Mart Ayının Oyuncusu seçildi",
       "summary_tr": "Bundesliga, 2025/26 sezonu için bir kez daha resmi Ayın Oyuncusu ödülünü sunuyor. Oylama, DFL Deutsche Fußball Liga tarafından 2018/19'dan bu yana resmi lisans ortağı EA SPORTS ile işbirliği içinde gerçekleştiriliyor. Deniz Undav Mart 2026 ödülünü Paul'ün önünde kazandı"
+    },
+    {
+      "title": "İlk golü atan ya Fırtına estiriyor ya Aslan kesiliyor!",
+      "summary": "Milli aranın bitmesinin ardından futbolda gözler hafta sonu oynanacak maçlara çevrildi; İlk büyük sınav Trabzon ile Galatasaray arasında.",
+      "url": "https://www.hurriyet.com.tr/sporarena/ilk-golu-atan-ya-firtina-estiriyor-ya-aslan-kesiliyor-43142491",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cef09e9c4308ceb261d08a.jpg",
+      "published": "2026-04-03T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-03T04:23:03.696668",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-03T04:24:38.883400",
+      "title_tr": "İlk golü atan ya Fırtına estiriyor ya Aslan kesiliyor!",
+      "summary_tr": "Milli aranın bitmesinin ardından futbolda gözler hafta sonu oynanacak maçlara çevrildi; İlk büyük sınav Trabzon ile Galatasaray arasında."
     },
     {
       "title": "SON DAKİKA | Galatasaray’da sakatlık şoku! Gabriel Sara…",
@@ -118,34 +138,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:39.883826",
+      "fetched_at": "2026-04-03T04:23:26.624276",
       "priority_score": 66,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.373999",
+      "processed_at": "2026-04-03T04:24:39.087722",
       "title_tr": "SON DAKİKA | Galatasaray’da sakatlık şoku! Gabriel Sara…",
       "summary_tr": "Galatasaray, Gabriel Sara’nın sakatlığını açıkladı. Rahatsızlığı bulunan Uğurcan Çakır ve kolundan ameliyat olan Victor Osimhen’in son durumu da belli oldu."
     },
     {
-      "title": "Gerrard reveals Salah advice, backs Liverpool exit",
-      "summary": "Steven Gerrard has revealed he advised Mohamed Salah not to leave Liverpool \"under a cloud\" following the Egyptian's public fallout with manager Arne Slot and insists it's in \"everyone's best interests\" to leave.",
-      "url": "https://www.espn.com/soccer/story/_/id/48375028/steven-gerrard-backs-mohamed-salah-liverpool-exit-best-interests",
-      "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Galatasaray'dan sakatlık açıklaması! Osimhen, Sara ve Uğurcan Çakır...",
+      "summary": "Son dakika Galatasaray haberleri: Galatasaray, Osimhen, Sara ve Uğurcan Çakır'ın sağlık durumlarına ilişkin bir açıklama yaptı.Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/02/galatasaraydan-sakatlik-aciklamasi-osimhen-sara-ve-ugurcan-cakir",
+      "image_url": "https://iaftm.tmgrup.com.tr/11f588/1200/675/0/439/736/852?u=https://iftm.tmgrup.com.tr/2026/04/02/galatasaraydan-sakatlik-aciklamasi-osimhen-sara-ve-ugurcan-cakir-1775140392218.jpeg",
+      "published": "2026-04-03T03:51:17",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.935456",
-      "priority_score": 65,
+      "fetched_at": "2026-04-03T04:23:38.584380",
+      "priority_score": 64,
       "categories": [
-        "serie_a"
+        "breaking_news",
+        "injuries",
+        "super_lig"
       ],
-      "processed_at": "2026-04-03T01:23:59.880619",
-      "title_tr": "Gerrard, Salah'ın tavsiyesini açıkladı, Liverpool'un ayrılmasına destek verdi",
-      "summary_tr": "Steven Gerrard, Mısırlı futbolcunun teknik direktör Arne Slot ile yaşadığı gerginlik sonrasında Mohamed Salah'a Liverpool'dan ayrılmamasını tavsiye ettiğini açıkladı ve ayrılmanın \"herkesin çıkarına\" olduğu konusunda ısrar etti."
+      "processed_at": "2026-04-03T04:24:39.304336",
+      "title_tr": "Galatasaray'dan sakatlık açıklaması! Osimhen, Sara ve Uğurcan Çakır...",
+      "summary_tr": "Son dakika Galatasaray haberleri: Galatasaray, Osimhen, Sara ve Uğurcan Çakır'ın sağlık durumlarına ilişkin bir açıklama yaptı.Devamı için tıklayınız"
     },
     {
       "title": "Son dakika... Trabzonspor-Galatasaray ve Fenerbahçe-Beşiktaş maçlarının hakemleri belli oldu!",
@@ -157,13 +179,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:39.884276",
+      "fetched_at": "2026-04-03T04:23:26.624785",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.405162",
+      "processed_at": "2026-04-03T04:24:39.120281",
       "title_tr": "Son dakika... Trabzonspor-Galatasaray ve Fenerbahçe-Beşiktaş maçlarının hakemleri belli oldu!",
       "summary_tr": "Son dakika haberine göre Süper Lig'de oynanacak Trabzonspor-Galatasaray maçının hakemi Cihan Aydın oldu. Fenerbahçe-Beşiktaş derbisini Yasin Kol yönetecek."
     },
@@ -177,15 +199,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-03T01:21:13.039869",
+      "fetched_at": "2026-04-03T04:22:05.603845",
       "priority_score": 56,
       "categories": [
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-04-03T01:24:00.056871",
+      "processed_at": "2026-04-03T04:24:38.781770",
       "title_tr": "Bundesliga'da 28 muhtemel takım",
       "summary_tr": "Ayak bileğindeki sakatlık Harry Kane'i Bayern Münih'in Freiburg yolculuğunun dışında tutabilir."
+    },
+    {
+      "title": "Gerrard reveals Salah advice, backs Liverpool exit",
+      "summary": "Steven Gerrard has revealed he advised Mohamed Salah not to leave Liverpool \"under a cloud\" following the Egyptian's public fallout with manager Arne Slot and insists it's in \"everyone's best interests\" to leave.",
+      "url": "https://www.espn.com/soccer/story/_/id/48375028/steven-gerrard-backs-mohamed-salah-liverpool-exit-best-interests",
+      "image_url": null,
+      "published": "2026-04-03T00:46:13",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-03T04:21:01.357950",
+      "priority_score": 55,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-04-03T04:24:38.596478",
+      "title_tr": "Gerrard, Salah'ın tavsiyesini açıkladı, Liverpool'un ayrılmasına destek verdi",
+      "summary_tr": "Steven Gerrard, Mısırlı futbolcunun teknik direktör Arne Slot ile yaşadığı gerginlik sonrasında Mohamed Salah'a Liverpool'dan ayrılmamasını tavsiye ettiğini açıkladı ve ayrılmanın \"herkesin çıkarına\" olduğu konusunda ısrar etti."
     },
     {
       "title": "21 games later: Iraq back at the World Cup after epic qualifying campaign",
@@ -197,60 +238,60 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:50.083515",
+      "fetched_at": "2026-04-03T04:21:41.437240",
       "priority_score": 53,
       "categories": [
         "match_results",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-03T01:24:00.035232",
+      "processed_at": "2026-04-03T04:24:38.758753",
       "title_tr": "21 maç sonra: Irak, destansı eleme kampanyasının ardından Dünya Kupası'na geri döndü",
       "summary_tr": "Mezopotamya Aslanları Dünya Kupası'na dönmek için 40 yıl beklediler ve bunu zor yoldan yapmak zorunda kaldılar. Irak'ın Dünya Kupası'na dönüşünü kutlama şansını hak eden biri varsa o da Aymen Hüseyin'dir ve sadece forvetin kıtalararası son play-off'ta galibiyet golünü attığı için değil."
     },
     {
-      "title": "Fenerbahçe, dünyaca ünlü golcü için harekete geçti!",
-      "summary": "İtalyan basını, Fenerbahçe'nin Napoli'de sıkıntılı bir süreçten geçen Romelu Lukaku'ya olan ilgisini duyurdu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-dunyaca-unlu-golcu-icin-harekete-gecti-43142349",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69ce9c879c4308ceb261cfe6.jpg",
-      "published": "2026-04-02T16:43:50",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Trabzonspor'da Fatih Tekke'nin Galatasaray derbisi planı belli oldu! Onuachu ve Zubkov...",
+      "summary": "Süper Lig’in en skorer oyuncusu Paul Onuachu ve en çok gol pası veren ikinci ismi Oleksandr Zubkov, Galatasaray maçında Fatih Tekke’nin en önemli kozları olacak.Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/trabzonspor/2026/04/03/trabzonsporda-fatih-tekkenin-galatasaray-derbisi-plani-belli-oldu-onuachu-ve-zubkov",
+      "image_url": "https://iaftm.tmgrup.com.tr/8d073b/1200/675/0/102/598/438?u=https://iftm.tmgrup.com.tr/2026/04/03/trabzonsporda-fatih-tekkenin-galatasaray-derbisi-plani-belli-oldu-onuachu-zubkov-1775166492452.jpeg",
+      "published": "2026-04-03T03:51:17",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:14.802324",
-      "priority_score": 51,
+      "fetched_at": "2026-04-03T04:23:38.584528",
+      "priority_score": 49,
       "categories": [
         "match_results",
-        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.165071",
-      "title_tr": "Fenerbahçe, dünyaca ünlü golcü için harekete geçti!",
-      "summary_tr": "İtalyan basını, Fenerbahçe'nin Napoli'de sıkıntılı bir süreçten geçen Romelu Lukaku'ya olan ilgisini duyurdu."
+      "processed_at": "2026-04-03T04:24:39.322937",
+      "title_tr": "Trabzonspor'da Fatih Tekke'nin Galatasaray derbisi planı belli oldu! Onuachu ve Zubkov...",
+      "summary_tr": "Süper Lig’in en skorer oyuncusu Paul Onuachu ve en çok gol pası veren ikinci ismi Oleksandr Zubkov, Galatasaray maçında Fatih Tekke’nin en önemli kozları olacak.Devamı için tıklayınız"
     },
     {
-      "title": "The $11k World Cup final ticket - what we learned from first open sale",
-      "summary": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
-      "url": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-02T13:10:43",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Fenerbahçe'den Dybala hamlesi! İşte yapılan teklif",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde hücum hattını güçlendirmek için kolları sıvayan Fenerbahçe, Roma forması giyen Paulo Dybala'ya gözünü dikti. Sarı-lacivertliler, Galatasaray'ın...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/04/03/fenerbahceden-dybala-hamlesi-iste-yapilan-teklif",
+      "image_url": "https://iaftm.tmgrup.com.tr/6fb6ca/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/04/02/fenerbahceden-dybala-hamlesi-iste-yapilan-teklif-1775152427975.jpeg",
+      "published": "2026-04-03T03:51:17",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:11.195567",
-      "priority_score": 50,
+      "fetched_at": "2026-04-03T04:23:38.582782",
+      "priority_score": 64,
       "categories": [
+        "transfers",
         "breaking_news",
-        "world_cup"
+        "super_lig"
       ],
-      "processed_at": "2026-04-03T01:23:59.893501",
-      "title_tr": "11 bin dolarlık Dünya Kupası final bileti - ilk açık satıştan öğrendiklerimiz",
-      "summary_tr": "FIFA, bir futbol maçı için en pahalı olduğu düşünülen genel giriş ücretini talep ediyor."
+      "processed_at": "2026-04-03T04:24:39.183134",
+      "title_tr": "Fenerbahçe'den Dybala hamlesi! İşte yapılan teklif",
+      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde hücum hattını güçlendirmek için kolları sıvayan Fenerbahçe, Roma forması giyen Paulo Dybala'ya gözünü dikti. Sarı-lacivertliler, Galatasaray'ın...Devamı için tıklayınız"
     },
     {
-      "title": "Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
+      "title": "Sam Kerr edges toward Chelsea exit after reportedly signing with US club Denver Summit",
       "summary": "Striker expected to return to NWSL and join ambitious new club Australian pours doubt on transfer with cryptic social media postMatildas captain Sam Kerr will reportedly leave Chelsea at the end of the Women’s Super League season to return to the United States and join expansion club Denver Summit.K",
       "url": "https://www.theguardian.com/football/2026/apr/03/matildas-captain-sam-kerr-chelsea-exit-denver-summit",
       "image_url": null,
@@ -259,14 +300,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:50.080833",
+      "fetched_at": "2026-04-03T04:21:41.434068",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-03T01:23:59.989946",
-      "title_tr": "Sam Kerr, ABD kulübü Denver Summit ile sözleşme imzaladıktan sonra Chelsea'den ayrılmaya hazırlanıyor",
+      "processed_at": "2026-04-03T04:24:38.711164",
+      "title_tr": "Sam Kerr, ABD kulübü Denver Summit ile sözleşme imzaladıktan sonra Chelsea'den ayrılmaya doğru ilerliyor",
       "summary_tr": "Forvetin NWSL'ye dönmesi ve Avustralya'nın iddialı yeni kulübüne katılması beklenen, şifreli sosyal medya gönderisiyle transfer konusunda şüphe uyandırdıMatildas kaptanı Sam Kerr'in, Kadınlar Süper Ligi sezonunun sonunda Chelsea'den ayrılarak Amerika Birleşik Devletleri'ne döneceği ve genişleme kulübü Denver Summit'e katılacağı bildirildi.K"
     },
     {
@@ -279,13 +320,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:50.082547",
+      "fetched_at": "2026-04-03T04:21:41.436132",
       "priority_score": 63,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-04-03T01:24:00.015943",
+      "processed_at": "2026-04-03T04:24:38.738593",
       "title_tr": "FIFA'nın ABD vergi anlaşmasını kabul etmemesi nedeniyle Dünya Kupası ülkelerinin yarısından fazlası ekstra maliyetlerle karşı karşıya",
       "summary_tr": "FIFA, ABD hükümetiyle vergi muafiyeti konusunda anlaşmaya varmadı Yük, orantısız bir şekilde küçük ülkelerin omuzlarına binecek Dünya Kupası'na katılmaya hak kazanan ülkelerin yarısından fazlası, FIFA'nın ABD ile genel bir vergi muafiyeti konusunda anlaşamaması nedeniyle ek maliyetlerle ve potansiyel kayıplarla karşı karşıya kalacak"
     },
@@ -299,74 +340,74 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:03.816287",
+      "fetched_at": "2026-04-03T04:22:49.587514",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.101084",
+      "processed_at": "2026-04-03T04:24:38.828905",
       "title_tr": "Selçuk İnan 2 yıl daha Kocaelispor'da",
       "summary_tr": "Süper Lig ekiplerinden Kocaelispor, teknik direktör Selçuk İnan'la 2 yıllık yeni sözleşme imzaladı."
     },
     {
-      "title": "Spurs boss De Zerbi sorry for Greenwood remarks",
-      "summary": "Roberto De Zerbi has apologised to Tottenham Hotspur fans who were offended by his past comments about Mason Greenwood during his time as Marseille head coach.",
-      "url": "https://www.espn.com/soccer/story/_/id/48378332/roberto-de-zerbi-sorry-tottenham-hotspur-mason-greenwood-comments",
-      "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Trabzonspor, Uğurcan satışıyla dünyada ilk 100'e girdi!",
+      "summary": "Son 5 yılında altyapıdan yetiştirdiği oyuncuların satışından en çok para kazanan 100 kulüp açıklandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ugurcan-satisiyla-dunyada-ilk-100e-girdi-43142496",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cef2539c4308ceb261d09f.jpg",
+      "published": "2026-04-03T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.934943",
-      "priority_score": 55,
+      "fetched_at": "2026-04-03T04:23:03.696457",
+      "priority_score": 51,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-04-03T01:23:59.879291",
-      "title_tr": "Spurs patronu De Zerbi Greenwood'un sözleri için özür diledi",
-      "summary_tr": "Roberto De Zerbi, Marsilya'nın başantrenörü olduğu dönemde Mason Greenwood hakkındaki geçmiş yorumlarından rahatsız olan Tottenham Hotspur taraftarlarından özür diledi."
+      "processed_at": "2026-04-03T04:24:38.863021",
+      "title_tr": "Trabzonspor, Uğurcan satışıyla dünyada ilk 100'e girdi!",
+      "summary_tr": "Son 5 yılında altyapıdan yetiştirdiği oyuncuların satışından en çok para kazanan 100 kulüp açıklandı."
     },
     {
-      "title": "Miami boss tells team to ignore new stadium party",
-      "summary": "Inter Miami head coach Javier Mascherano insists his players must avoid being distracted by the festivities surrounding the opening of Nu Stadium on Saturday night.",
-      "url": "https://www.espn.com/soccer/story/_/id/48379149/inter-miami-javier-mascherano-new-stadium-nu-lionel-messi-austin",
-      "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Trabzon-Galatasaray'a yine Cihan Aydın!",
+      "summary": "TFF Merkez Hakem Kurulu, 28. haftanın hakemlerini açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzon-galatasaraya-yine-cihan-aydin-43142492",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69cef1379c4308ceb261d094.jpg",
+      "published": "2026-04-03T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.935138",
-      "priority_score": 55,
+      "fetched_at": "2026-04-03T04:23:03.696596",
+      "priority_score": 51,
       "categories": [
-        "serie_a"
+        "super_lig"
       ],
-      "processed_at": "2026-04-03T01:23:59.879721",
-      "title_tr": "Miami patronu takıma yeni stadyum partisini görmezden gelmelerini söyledi",
-      "summary_tr": "Inter Miami baş antrenörü Javier Mascherano, oyuncularının cumartesi gecesi Nu Stadyumu'nun açılışını çevreleyen şenliklerden dikkatlerinin dağılmasından kaçınmaları konusunda ısrar ediyor."
+      "processed_at": "2026-04-03T04:24:38.874022",
+      "title_tr": "Trabzon-Galatasaray'a yine Cihan Aydın!",
+      "summary_tr": "TFF Merkez Hakem Kurulu, 28. haftanın hakemlerini açıkladı."
     },
     {
-      "title": "Putellas hails Barcelona fans on 'magical' night",
-      "summary": "Barcelona's Alexia Putellas was grateful for more record fan support on a \"magical\" night as the Spanish champions thumped Real Madrid 6-0 at Spotify Camp Nou to set up a UEFA Women's Champions League semifinal with Bayern Munich.",
-      "url": "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
-      "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Fenerbahçe, dünyaca ünlü golcü için harekete geçti!",
+      "summary": "İtalyan basını, Fenerbahçe'nin Napoli'de sıkıntılı bir süreçten geçen Romelu Lukaku'ya olan ilgisini duyurdu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-dunyaca-unlu-golcu-icin-harekete-gecti-43142349",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69ce9c879c4308ceb261cfe6.jpg",
+      "published": "2026-04-02T16:43:50",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.935956",
-      "priority_score": 55,
+      "fetched_at": "2026-04-03T04:23:03.697107",
+      "priority_score": 51,
       "categories": [
-        "la_liga",
-        "bundesliga",
-        "champions_league"
+        "match_results",
+        "serie_a",
+        "super_lig"
       ],
-      "processed_at": "2026-04-03T01:23:59.882557",
-      "title_tr": "Putellas, Barselona taraftarlarını 'büyülü' gecede selamlıyor",
-      "summary_tr": "Barcelona'dan Alexia Putellas, İspanya şampiyonunun Spotify Camp Nou'da Real Madrid'i 6-0 yenerek Bayern Münih ile UEFA Kadınlar Şampiyonlar Ligi yarı finaline çıktığı \"büyülü\" gecede daha fazla rekor taraftar desteği aldığı için minnettardı."
+      "processed_at": "2026-04-03T04:24:38.934204",
+      "title_tr": "Fenerbahçe, dünyaca ünlü golcü için harekete geçti!",
+      "summary_tr": "İtalyan basını, Fenerbahçe'nin Napoli'de sıkıntılı bir süreçten geçen Romelu Lukaku'ya olan ilgisini duyurdu."
     },
     {
       "title": "World Cup 2026 kit ranking: Every jersey we'll see this summer that has been released so far",
@@ -378,55 +419,76 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.936406",
-      "priority_score": 55,
+      "fetched_at": "2026-04-03T04:21:01.359022",
+      "priority_score": 50,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-04-03T01:23:59.885989",
+      "processed_at": "2026-04-03T04:24:38.602191",
       "title_tr": "Dünya Kupası 2026 forma sıralaması: Bu yaz şu ana kadar piyasaya sürülen her formayı göreceğiz",
       "summary_tr": "2026 Dünya Kupası 48 takımın katılacağı ilk turnuva olacak. Bu, sergide 96 kit olacağı anlamına geliyor! İşte şimdiye kadar yayımlananların tümü, en kötüsünden ilkine."
     },
     {
-      "title": "✨ Messi, Ronaldo among LEGO's WC stars",
-      "summary": "LEGO has released a range of mini-figures styled on some of the star players set to appear at this summer's FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
+      "title": "The $11k World Cup final ticket - what we learned from first open sale",
+      "summary": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
+      "url": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-03T00:46:13",
-      "source": "ESPN FC",
+      "published": "2026-04-02T13:10:43",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.936258",
+      "fetched_at": "2026-04-03T04:21:07.097994",
       "priority_score": 50,
       "categories": [
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-04-03T01:23:59.884177",
-      "title_tr": "✨ Messi ve Ronaldo LEGO'nun WC yıldızları arasında",
-      "summary_tr": "LEGO, bu yaz FIFA Dünya Kupası'nda yer alacak bazı yıldız oyunculara göre tasarlanmış bir dizi mini figür yayınladı."
+      "processed_at": "2026-04-03T04:24:38.610106",
+      "title_tr": "11 bin dolarlık Dünya Kupası final bileti - ilk açık satıştan öğrendiklerimiz",
+      "summary_tr": "FIFA, bir futbol maçı için en pahalı olduğu düşünülen genel giriş ücretini talep ediyor."
     },
     {
-      "title": "Galatasaray'dan sakatlık açıklaması! Osimhen, Sara ve Uğurcan Çakır...",
-      "summary": "Son dakika Galatasaray haberleri: Galatasaray, Osimhen, Sara ve Uğurcan Çakır'ın sağlık durumlarına ilişkin bir açıklama yaptı.Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/02/galatasaraydan-sakatlik-aciklamasi-osimhen-sara-ve-ugurcan-cakir",
-      "image_url": "https://iaftm.tmgrup.com.tr/11f588/1200/675/0/439/736/852?u=https://iftm.tmgrup.com.tr/2026/04/02/galatasaraydan-sakatlik-aciklamasi-osimhen-sara-ve-ugurcan-cakir-1775140392218.jpeg",
-      "published": "2026-04-02T14:24:14",
+      "title": "İtalyanlardan flaş Livakovic iddiası! O takıma gitmek istiyor",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Hırvat ekibi Dinamo Zagreb'te kiralık olarak forma giyen Dominik Livakovic ile ilgili flaş bir iddia ortaya atıldı. İtalyan basını, 31 yaşındaki file bekçisinin...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/04/02/italyanlardan-flas-livakovic-iddiasi-o-takima-gitmek-istiyor",
+      "image_url": "https://iaftm.tmgrup.com.tr/63bcb3/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/04/02/italyanlardan-flas-livakovic-iddiasi-o-takima-gitmek-istiyor-1775147952356.jpeg",
+      "published": "2026-04-03T03:51:17",
       "source": "Fotomac",
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:56.034686",
+      "fetched_at": "2026-04-03T04:23:38.584228",
       "priority_score": 49,
       "categories": [
+        "transfers",
         "breaking_news",
-        "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.545447",
-      "title_tr": "Galatasaray'dan sakatlık açıklaması! Osimhen, Sara ve Uğurcan Çakır...",
-      "summary_tr": "Son dakika Galatasaray haberleri: Galatasaray, Osimhen, Sara ve Uğurcan Çakır'ın sağlık durumlarına ilişkin bir açıklama yaptı.Devamı için tıklayınız"
+      "processed_at": "2026-04-03T04:24:39.290238",
+      "title_tr": "İtalyanlardan flaş Livakovic iddiası! O takıma gitmek istiyor",
+      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Hırvat ekibi Dinamo Zagreb'te kiralık olarak forma giyen Dominik Livakovic ile ilgili flaş bir iddia ortaya atıldı. İtalyan basını, 31 yaşındaki file bekçisinin...Devamı için tıklayınız"
+    },
+    {
+      "title": "Galatasaray'a Mohamed Salah uyarısı: Onun zihniyeti bu!",
+      "summary": "Ayrılık kararı almasının ardından Galatasaray'a transfer olabileceği konuşulan Mohamed Salah ile ilgili dikkat çeken bir açıklama geldi. Liverpool'un efsane isimlerinden Steven Gerrard, Mısırlı yıldızın...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/02/galatasaraya-mohamed-salah-uyarisi-onun-zihniyeti-bu",
+      "image_url": "https://iaftm.tmgrup.com.tr/7e92dc/1200/675/0/0/1307/735?u=https://iftm.tmgrup.com.tr/2026/04/02/galatasaraya-mohamed-salah-uyarisi-onun-zihniyeti-bu-1775136015381.jpg",
+      "published": "2026-04-03T03:51:17",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-03T04:23:38.584969",
+      "priority_score": 49,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-03T04:24:39.370357",
+      "title_tr": "Galatasaray'a Mohamed Salah uyarısı: Onun zihniyeti bu!",
+      "summary_tr": "Ayrılık kararı almasının ardından Galatasaray'a transfer olabileceği konuşulan Mohamed Salah ile ilgili dikkat çeken bir açıklama geldi. Liverpool'un efsane isimlerinden Steven Gerrard, Mısırlı yıldızın...Devamı için tıklayınız"
     },
     {
       "title": "Will Arsenal’s international injury crisis spill over into the club season?",
@@ -438,14 +500,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:50.082911",
+      "fetched_at": "2026-04-03T04:21:41.436517",
       "priority_score": 48,
       "categories": [
         "injuries",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-03T01:24:00.022476",
+      "processed_at": "2026-04-03T04:24:38.745468",
       "title_tr": "Arsenal'in uluslararası sakatlık krizi kulüp sezonuna da yansıyacak mı?",
       "summary_tr": "Rakip taraftarlar, Mikel Arteta'nın 11 oyuncusunun sezon finali öncesinde kendi ülkelerindeki maçlardan çekilmesinin ardından öfkelendi. Geriye dönüp baktığımızda Mikel Arteta'nın, Arsenal'in geçen ay Everton'a karşı kazandığı zaferden önce yaklaşan milli aranın nasıl olabileceğine ilişkin bir soruya verdiği yanıt,"
     },
@@ -459,13 +521,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:03.816048",
+      "fetched_at": "2026-04-03T04:22:49.587242",
       "priority_score": 48,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.084151",
+      "processed_at": "2026-04-03T04:24:38.810745",
       "title_tr": "G.Saray'a Uğurcan ve transfer tepkisi!",
       "summary_tr": "Trabzonspor Kulübü Başkanı Ertuğrul Doğan, sezon başında Galatasaray'ın yolunu tutan Uğurcan Çakır'ın transfer süreciyle ilgili Sarı Kırmızılı kulübün yönetimine tepki gösterdi. Doğan, \"Galatasaray Kulübü, izleme ekibimizin yazılı olarak oyuncuyla anlaştığını bilmemize ve kendilerini de uyarmamıza r"
     },
@@ -479,14 +541,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:03.816169",
+      "fetched_at": "2026-04-03T04:22:49.587383",
       "priority_score": 48,
       "categories": [
         "injuries",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.091777",
+      "processed_at": "2026-04-03T04:24:38.818906",
       "title_tr": "G.Saray'da Sara şoku!",
       "summary_tr": "Trendyol Süper Lig'in 28. haftasında Trabzonspor deplasmanında sahne alacak Galatasaray'dan, dev maç öncesi sakatlık açıklaması geldi."
     },
@@ -500,12 +562,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:22.954818",
+      "fetched_at": "2026-04-03T04:21:19.424192",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-03T01:23:59.929459",
+      "processed_at": "2026-04-03T04:24:38.647757",
       "title_tr": "Zar atma zamanı! Alcaraz, Sinner ve Norrie Monte-Carlo Masters'ın başında",
       "summary_tr": "Tenis, toprak kort sezonunun üç ATP Masters 1000 etkinliğinin ilki için toprağa geri dönüyor; dünyanın 1 No'lu Carlos Alcaraz, ateşli Jannik Sinner ve Britanya'nın 1 No'lu Cameron Norrie'si Rolex Monte-Carlo Masters'da Sky Sports Tennis'te canlı olarak sahneleniyor."
     },
@@ -519,12 +581,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-03T01:20:22.955099",
+      "fetched_at": "2026-04-03T04:21:19.424516",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-03T01:23:59.948096",
+      "processed_at": "2026-04-03T04:24:38.666949",
       "title_tr": "Haggerty, Bradford-Leeds derbisinin duygularına hazır: 'Bir gösteri sergilemek istiyoruz!'",
       "summary_tr": "Bradford Bulls başantrenörü Kurt Haggerty, takımının 12 yıl sonra ilk kez Süper Lig'de Leeds Rhinos ile karşılaşmaya hazırlandığı bu haftanın biraz farklı geçtiğini biliyor."
     },
@@ -538,75 +600,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-03T01:22:14.802584",
+      "fetched_at": "2026-04-03T04:23:03.697398",
       "priority_score": 46,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-04-03T01:24:00.206653",
+      "processed_at": "2026-04-03T04:24:38.981026",
       "title_tr": "Galatasaray'dan Gabriel Sara için sakatlık açıklaması!",
       "summary_tr": "Galatasaray, Gabriel Sara'nın sol ayak bilek iç-ön yan bağlarında hasar ve kemikte ödem tespit edildiğini açıkladı."
-    },
-    {
-      "title": "USMNT 2026 World Cup big board 6.0: Have March losses cemented Pochettino's squad?",
-      "summary": "The March international window was the last time for players to impress U.S. coach Mauricio Pochettino, so who cemented their place on his team?",
-      "url": "https://www.espn.com/soccer/story/_/id/48359122/usmnt-2026-world-cup-big-board-6-march-international-losses-belgium-portugal-cemented-mauricio-pochettino-squad",
-      "image_url": null,
-      "published": "2026-04-02T20:36:23",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.934516",
-      "priority_score": 45,
-      "categories": [
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-03T01:23:59.878578",
-      "title_tr": "USMNT 2026 Dünya Kupası büyük tahtası 6.0: Mart ayı mağlubiyetleri Pochettino'nun kadrosunu güçlendirdi mi?",
-      "summary_tr": "Mart ayı uluslararası pencere, oyuncuların ABD'li teknik direktör Mauricio Pochettino'yu etkilediği son dönemdi, peki kim onun takımındaki yerini sağlamlaştırdı?"
-    },
-    {
-      "title": "Putellas and Barcelona complete Madrid's week of humiliation",
-      "summary": "Barcelona have now won three El Clásico matches in a row, with Alexia Putellas being crucial in the latest one to advance to the UEFA Women's Champions League semifinals.",
-      "url": "https://www.espn.com/soccer/story/_/id/48379941/alexia-putellas-barcelona-complete-real-madrid-week-humilation",
-      "image_url": null,
-      "published": "2026-04-02T21:46:57",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-03T01:20:05.936857",
-      "priority_score": 45,
-      "categories": [
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-03T01:23:59.889981",
-      "title_tr": "Putellas ve Barcelona Madrid'in aşağılanma haftasını tamamladı",
-      "summary_tr": "Barcelona art arda üç El Clásico maçını kazandı; son maçta Alexia Putellas, UEFA Kadınlar Şampiyonlar Ligi yarı finallerine yükselmek için çok önemliydi."
-    },
-    {
-      "title": "Italian FA head and Buffon quit over World Cup failure",
-      "summary": "Gabriele Gravina resigns as head of Italy's football federation after they fail to qualify for a third World Cup in a row, while ex-goalkeeper Gianluigi Buffon quits his role with the national team.",
-      "url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-02T15:44:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-03T01:20:11.196183",
-      "priority_score": 45,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-03T01:23:59.901007",
-      "title_tr": "İtalyan FA başkanı ve Buffon, Dünya Kupası başarısızlığı nedeniyle istifa etti",
-      "summary_tr": "Gabriele Gravina, üst üste üçüncü kez Dünya Kupası'na katılamayınca İtalya futbol federasyonu başkanlığından istifa ederken, eski kaleci Gianluigi Buffon da milli takımdaki görevinden ayrıldı."
     }
   ]
 }
