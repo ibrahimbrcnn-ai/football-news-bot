@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T01:28:45.928734",
+  "timestamp": "2026-04-05T04:33:52.997948",
   "total_items": 30,
   "news": [
     {
@@ -12,16 +12,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:32.690212",
+      "fetched_at": "2026-04-05T04:29:09.844383",
       "priority_score": 85,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-05T01:27:10.271278",
+      "processed_at": "2026-04-05T04:32:40.248366",
       "title_tr": "Yıpranmış Arsenal'den sezon kaçıyor mu?",
-      "summary_tr": "Arsenal, bu sezon ilk kez üst üste alınan yenilgilerle iki haftada dörtlü sayı elde etme umutlarının suya düşmesinin ardından yeniden toparlanmalı."
+      "summary_tr": "Arsenal, bu sezon ilk kez üst üste alınan yenilgilerle iki hafta içinde dörtlü sayı elde etme umutlarının suya düşmesinin ardından yeniden toparlanmalı."
     },
     {
       "title": "Former Brazil midfielder Oscar retires aged 34 with cardiac problems",
@@ -33,7 +33,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-05T01:24:07.547445",
+      "fetched_at": "2026-04-05T04:29:47.636585",
       "priority_score": 83,
       "categories": [
         "transfers",
@@ -41,9 +41,29 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-05T01:27:10.405896",
+      "processed_at": "2026-04-05T04:32:40.389606",
       "title_tr": "Brezilya'nın eski orta saha oyuncusu Oscar, kalp sorunları nedeniyle 34 yaşında emekli oldu",
       "summary_tr": "São Paulolu oyuncu bayıldıktan sonra beş gün hastanede kaldıOscar, Chelsea'de beş yılda iki lig şampiyonluğu kazandıSão Paulo Cumartesi günü yaptığı açıklamada, eski Brezilya milli takımı Oscar'ının 34 yaşında kalp sorunları nedeniyle emekliye ayrılmak zorunda kaldığını doğruladı.Hücum yapan orta saha oyuncusu beş gün hastanede kaldı"
+    },
+    {
+      "title": "Messi scores as Miami opens long-awaited stadium",
+      "summary": "Lionel Messi needed just 10 minutes to score Inter Miami's first goal in their long-awaited new stadium as his team played to an entertaining 2-2 draw with visiting Austin FC on Saturday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48399244/lionel-messi-goal-inter-miami-new-stadium-austin-fc",
+      "image_url": null,
+      "published": "2026-04-05T03:18:08",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:05.173671",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-05T04:32:40.239104",
+      "title_tr": "Miami uzun zamandır beklenen stadyumun açılışını yaparken Messi gol attı",
+      "summary_tr": "Lionel Messi, Inter Miami'nin uzun zamandır beklenen yeni stadyumunda ilk golünü atmak için sadece 10 dakikaya ihtiyaç duydu ve takımı Cumartesi günü konuk Austin FC ile 2-2'lik eğlenceli bir beraberlikle karşılaştı."
     },
     {
       "title": "Haaland hits long-awaited Man City hat trick as pressure piles on Slot",
@@ -55,34 +75,151 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.759659",
-      "priority_score": 80,
+      "fetched_at": "2026-04-05T04:29:05.173162",
+      "priority_score": 75,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-05T01:27:10.259793",
-      "title_tr": "Haaland, Slot üzerinde baskı artarken Man City'de uzun zamandır beklenen hat-trick'i yaptı",
+      "processed_at": "2026-04-05T04:32:40.238369",
+      "title_tr": "Slot üzerinde baskı artarken Haaland uzun zamandır beklenen Man City hat-trickini yaptı",
       "summary_tr": "Erling Haaland'ın Ağustos 2024'ten bu yana Manchester City'deki ilk hat-trick'i, Liverpool'u 4-0 mağlup ederek takımının FA Cup yarı finaline yükselmesine yardımcı oldu."
+    },
+    {
+      "title": "\"Galatasaray'ın verdiği görüntü hiç pozitif değildi!\"",
+      "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geldi. Papara Park'ta oynanan mücadeleyi ev sahibi Trabzonspor, 2-1'lik skorla kazandı. HT Spor yorumcusu Mustafa Denizli karşılaşma sonrası iki takımın performansını yorumladı",
+      "url": "https://www.haberturk.com/mustafa-denizli-galatasaray-in-verdigi-goruntu-hic-pozitif-degildi-3874886-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775333615/3874886/jpg/1280x1280",
+      "published": "2026-04-04T20:13:57",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:30:59.874996",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:40.576488",
+      "title_tr": "\"Galatasaray'ın verdiği görüntü hiç pozitif değildi!\"",
+      "summary_tr": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geldi. Papara Park'ta oynanan mücadeleyi ev sahibi Trabzonspor, 2-1'lik skorla kazandı. HT Spor yorumcusu Mustafa Denizli karşılaşma sonrası iki takımın performansını yorumladı"
+    },
+    {
+      "title": "Rashford and Lewandowski on target as Barcelona beat Atletico",
+      "summary": "Highlights of the LaLiga match between Atletico Madrid and Barcelona.",
+      "url": "https://www.skysports.com/watch/video/13528078/atletico-madrid-1-2-barcelona-laliga-highlights",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-barcelona-rashford_7211256.jpg?20260404230034",
+      "published": "2026-04-04T22:52:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:23.648012",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-05T04:32:40.335847",
+      "title_tr": "Barcelona Atletico'yu yenerken Rashford ve Lewandowski hedefte",
+      "summary_tr": "Atletico Madrid ile Barcelona arasındaki La Liga maçından öne çıkanlar."
+    },
+    {
+      "title": "Arsenal in the blood: how Max Dowman is related to Gunners legend George Male",
+      "summary": "A distant relative found a family link to the football prodigy, as they are both related to George Male, the first player to win six English top-flight titlesDave Male could have had no idea that his decision to attend a match while he was on holiday in Spain two years ago would uncover a remarkable",
+      "url": "https://www.theguardian.com/football/2026/apr/04/arsenal-max-dowman-related-to-gunners-legend-george-male",
+      "image_url": null,
+      "published": "2026-04-04T07:00:15",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:47.638183",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-05T04:32:40.420164",
+      "title_tr": "Arsenal kanda: Max Dowman'ın Arsenal efsanesi George Male ile ilişkisi",
+      "summary_tr": "Uzak bir akraba, futbol dahisiyle bir aile bağı buldu; çünkü her ikisi de, İngiltere'de altı üst düzey şampiyonluk kazanan ilk oyuncu olan George Male ile akrabaydı. Dave Male, iki yıl önce İspanya'da tatildeyken bir maça katılma kararının dikkate değer bir gerçeği ortaya çıkaracağından habersiz olamazdı."
+    },
+    {
+      "title": "Mauro Icardi, Trabzon'da kayboldu!",
+      "summary": "Osimhen'in yerine oynayan Arjantinli yıldız Mauro Icardi, Trabzonspor maçında çok etkisiz kaldı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/mauro-icardi-trabzonda-kayboldu-43143941",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d18efe3b4c953f1007b442.jpg",
+      "published": "2026-04-05T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:31:11.655835",
+      "priority_score": 61,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-04-05T04:32:40.635510",
+      "title_tr": "Mauro Icardi, Trabzon'da kayboldu!",
+      "summary_tr": "Osimhen'in yerine oynayan Arjantinli yıldız Mauro Icardi, Trabzonspor maçında çok etkisiz kaldı."
+    },
+    {
+      "title": "Serge Gnabry and Bayern Munich’s Leon Goretzka-themed celebrations",
+      "summary": "Bayern Munich’s dramatic late win in Freiburg on Saturday was an occasion to remember for a number of reasons – not least for the team’s unusual post-match celebrations.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/serge-gnabry-bayern-munich-celebrations-leon-goretzka-late-goal-36754",
+      "image_url": null,
+      "published": "2026-04-05T04:10:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:30:09.308002",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-05T04:32:40.427454",
+      "title_tr": "Serge Gnabry ve Bayern Münih'ten Leon Goretzka temalı kutlamalar",
+      "summary_tr": "Bayern Münih'in Cumartesi günü Freiburg'da kazandığı son dramatik galibiyet, birçok nedenden dolayı hatırlanması gereken bir fırsattı; özellikle de takımın maç sonrası alışılmadık kutlamaları nedeniyle."
+    },
+    {
+      "title": "Trabzonspor'dan Galatasaray'a ilginç göndermeler!",
+      "summary": "Trabzonspor Kulübü, Galatasaray galibiyetinin ardından ilginç göndermeler yaptı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-galatasaraya-ilginc-gondermeler-43143944",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d18fa63b4c953f1007b44a.jpg",
+      "published": "2026-04-05T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:31:11.655753",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:40.629375",
+      "title_tr": "Trabzonspor'dan Galatasaray'a ilginç göndermeler!",
+      "summary_tr": "Trabzonspor Kulübü, Galatasaray galibiyetinin ardından ilginç göndermeler yaptı."
     },
     {
       "title": "Arsenal in 'difficult period' with shock FA Cup loss",
       "summary": "Arsenal manager Mikel Arteta acknowledged his team is going through its first tough period of the season after being stunned by second-tier Southampton in the FA Cup.",
       "url": "https://www.espn.com/soccer/story/_/id/48398183/mikel-arteta-arsenal-southampton-fa-cup-difficult-period",
       "image_url": null,
-      "published": "2026-04-05T00:47:28",
+      "published": "2026-04-05T03:18:08",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760132",
-      "priority_score": 80,
+      "fetched_at": "2026-04-05T04:29:05.173913",
+      "priority_score": 70,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-05T01:27:10.260449",
-      "title_tr": "Arsenal, FA Cup'taki şok mağlubiyetle 'zor bir dönemde'",
+      "processed_at": "2026-04-05T04:32:40.239510",
+      "title_tr": "Arsenal, FA Kupası'ndaki şok mağlubiyetle 'zor bir dönemde'",
       "summary_tr": "Arsenal yöneticisi Mikel Arteta, FA Cup'ta ikinci sıradaki Southampton karşısında şaşkına dönen takımının sezonun ilk zorlu dönemini yaşadığını kabul etti."
     },
     {
@@ -95,155 +232,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-05T01:24:32.008377",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.465329",
-      "title_tr": "Heidenheimlı Marnon Busch, uzun süredir devam eden gol hasretine son verdi",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "\"Galatasaray'ın verdiği görüntü hiç pozitif değildi!\"",
-      "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor ile Galatasaray karşı karşıya geldi. Papara Park'ta oynanan mücadeleyi ev sahibi Trabzonspor, 2-1'lik skorla kazandı. HT Spor yorumcusu Mustafa Denizli karşılaşma sonrası iki takımın performansını yorumladı",
-      "url": "https://www.haberturk.com/mustafa-denizli-galatasaray-in-verdigi-goruntu-hic-pozitif-degildi-3874886-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775333615/3874886/jpg/1280x1280",
-      "published": "2026-04-04T20:13:57",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:25:25.878957",
-      "priority_score": 73,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-05T01:27:10.584034",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arsenal in the blood: how Max Dowman is related to Gunners legend George Male",
-      "summary": "A distant relative found a family link to the football prodigy, as they are both related to George Male, the first player to win six English top-flight titlesDave Male could have had no idea that his decision to attend a match while he was on holiday in Spain two years ago would uncover a remarkable",
-      "url": "https://www.theguardian.com/football/2026/apr/04/arsenal-max-dowman-related-to-gunners-legend-george-male",
-      "image_url": null,
-      "published": "2026-04-04T07:00:15",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:24:07.548824",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-05T01:27:10.435316",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Serge Gnabry and Bayern Munich’s Leon Goretzka-themed celebrations",
-      "summary": "Bayern Munich’s dramatic late win in Freiburg on Saturday was an occasion to remember for a number of reasons – not least for the team’s unusual post-match celebrations.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/serge-gnabry-bayern-munich-celebrations-leon-goretzka-late-goal-36754",
-      "image_url": null,
-      "published": "2026-04-05T04:10:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:24:32.006410",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.442262",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fatih Tekke: Bu galibiyet kesinlikle oyuncularımındır",
-      "summary": "Fatih Tekke, takımı Trabzonspor’un Galatasaray karşısında aldığı galibiyeti değerlendirdi.",
-      "url": "https://www.cnnturk.com/spor/futbol/fatih-tekke-bu-galibiyet-kesinlikle-oyuncularimindir-2413527",
-      "image_url": null,
-      "published": "2026-04-05T00:35:32",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:26:03.077532",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-05T01:27:10.905371",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bayern Munich claim last-gasp win at Freiburg",
-      "summary": "Bayern Munich's Tom Bischof scored a stoppage-time equaliser to rescue a 2-2 draw at Freiburg on Saturday.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/746966",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.761284",
-      "priority_score": 70,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.264836",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Lider Barça, Lewandowski'yle farkı açtı!",
-      "summary": "İspanya LaLiga'nın 30. haftasında Barcelona, deplasmanda Atletico Madrid'i 2-1 mağlup ederek şampiyonluk yolunda önemli bir adım attı. En yakın rakibi Real Madrid'in Mallorca'ya 2-1 yenildiği ve 69 puanda kaldığı haftada fırsatı değerlendiren lider Barcelona, puanını 76'ya çıkardı. Katalan ekibi, 42",
-      "url": "https://www.haberturk.com/atletico-madrid-1-barcelona-2-mac-sonucu-3874894-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/05/ver1775338015/3874894/jpg/1280x1280",
-      "published": "2026-04-04T21:27:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:25:25.878689",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.558225",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Rashford and Lewandowski on target as Barcelona beat Atletico",
-      "summary": "Highlights of the LaLiga match between Atletico Madrid and Barcelona.",
-      "url": "https://www.skysports.com/watch/video/13528078/atletico-madrid-1-2-barcelona-laliga-highlights",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-barcelona-rashford_7211256.jpg?20260404230034",
-      "published": "2026-04-04T22:52:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:44.004330",
+      "fetched_at": "2026-04-05T04:30:09.310182",
       "priority_score": 66,
       "categories": [
         "match_results",
-        "la_liga"
+        "breaking_news",
+        "bundesliga"
       ],
-      "processed_at": "2026-04-05T01:27:10.354655",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.451467",
+      "title_tr": "Heidenheimlı Marnon Busch, uzun süredir devam eden gol hasretine son verdi",
+      "summary_tr": "Heidenheim defans oyuncusu Marnon Busch, 11 yılı aşkın süredir ilk Bundesliga golünü 28. Maç gününde atarak ligin tarihteki en uzun kişisel kuraklıklarından birine son verdi."
+    },
+    {
+      "title": "Trabzonspor, 22. duran top golünü Galatasaray'a attı!",
+      "summary": "Trabzonspor'un Nijeryalı yıldızı bu sezon 3. kez gol sevinci yaşadı. Nwaiwu, kafayla Galatasaray filelerini havalandırdı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-22-duran-top-golunu-galatasaraya-atti-43143909",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d17c2d9c4308ceb261da65.jpg",
+      "published": "2026-04-05T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:31:11.655908",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:40.644209",
+      "title_tr": "Trabzonspor, 22. duran top golünü Galatasaray'a attı!",
+      "summary_tr": "Trabzonspor'un Nijeryalı yıldızı bu sezon 3. kez gol sevinci yaşadı. Nwaiwu, kafayla Galatasaray filelerini havalandırdı."
     },
     {
       "title": "Haaland's 'old-school' lesson for Liverpool as FA Cup record falls",
@@ -255,15 +273,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:32.690682",
+      "fetched_at": "2026-04-05T04:29:09.844964",
       "priority_score": 65,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-04-05T01:27:10.276701",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.253821",
+      "title_tr": "FA Cup rekoru düşerken Haaland'ın Liverpool'a 'eski tarz' dersi",
+      "summary_tr": "Manchester City, son iki maçında Arsenal'i yendi ve Liverpool'u mağlup etti ve Erling Haaland'ın gol atma formuna dönüşü, karşılaşmanın zorluğunu ortaya koydu."
     },
     {
       "title": "Scottish Premiership: Miovski raises Rangers to summit after two-year wait",
@@ -275,15 +293,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-05T01:24:07.546981",
+      "fetched_at": "2026-04-05T04:29:47.636062",
       "priority_score": 63,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-04-05T01:27:10.399553",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.382970",
+      "title_tr": "İskoçya Premiership: Miovski, iki yıllık bekleyişin ardından Rangers'ı zirveye yükseltti",
+      "summary_tr": "Danny Rohl'un gol farkında Hearts'ı aşan yan hamlesi Hibernian ve Falkirk ilk altı sırayı sağlamlaştırdı Danny Rohl, Dundee United'ı 4-2 yenerek Gers'in iki yıldan fazla bir süre sonra ilk kez zirveye çıkmasının ardından Rangers oyuncularına Premiership karşılaşmasında \"ön ayak\" olmalarını söyledi. Ryan Na'nın golleri"
+    },
+    {
+      "title": "Lider Barça, Lewandowski'yle farkı açtı!",
+      "summary": "İspanya LaLiga'nın 30. haftasında Barcelona, deplasmanda Atletico Madrid'i 2-1 mağlup ederek şampiyonluk yolunda önemli bir adım attı. En yakın rakibi Real Madrid'in Mallorca'ya 2-1 yenildiği ve 69 puanda kaldığı haftada fırsatı değerlendiren lider Barcelona, puanını 76'ya çıkardı. Katalan ekibi, 42",
+      "url": "https://www.haberturk.com/atletico-madrid-1-barcelona-2-mac-sonucu-3874894-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/05/ver1775338015/3874894/jpg/1280x1280",
+      "published": "2026-04-04T21:27:50",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:30:59.874700",
+      "priority_score": 63,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-05T04:32:40.549343",
+      "title_tr": "Lider Barça, Lewandowski'yle farkı açtı!",
+      "summary_tr": "İspanya LaLiga'nın 30. haftasında Barcelona, deplasmanda Atletico Madrid'i 2-1 mağlup ederek şampiyonluk yolunda önemli bir adım attı. En yakın rakibi Real Madrid'in Mallorca'ya 2-1 yenildiği ve 69 puanda kaldığı haftada fırsatı değerlendiren lider Barcelona, puanını 76'ya çıkardı. Katalan ekibi, 42"
     },
     {
       "title": "Transfer rumors, news: Man United, Man City pushing for Anderson",
@@ -295,55 +334,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.761720",
+      "fetched_at": "2026-04-05T04:29:05.175525",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-05T01:27:10.267906",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "G.Saray'dan küfür tepkisi! \"Yazıklar olsun\"",
-      "summary": "Galatasaray Başkan Vekili Metin Öztürk, Trabzonspor'a 2-1 yenildikleri maçın ardından kendilerine edilen küfürler nedeniyle bordo-mavili yönetime sert sözlerle tepki gösterdi.",
-      "url": "https://www.haberturk.com/galatasaray-da-metin-ozturk-ten-trabzonspor-a-kufur-tepkisi-yaziklar-olsun-3874887-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775334818/3874887/jpg/1280x1280",
-      "published": "2026-04-04T20:36:32",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:25:25.878817",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-05T01:27:10.570903",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Zirvede \"Fırtına\" çıktı!",
-      "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor sahasında Galatasaray'ı 2-1 mağlup etti. Trabzonspor'a galibiyeti getiren golleri 4. dakikada Paul Onuachu ve 62. dakikada Chibuike Nwaiwu kaydederken Galatasaray'ın tek golü ise 48. dakikada Wilfried Singo'dan geldi. Bordo-Mavililer kritik galibiyet ",
-      "url": "https://www.haberturk.com/trabzonspor-2-galatasaray-1-mac-sonucu-3874761-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775330889/3874761/jpg/1280x1280",
-      "published": "2026-04-04T19:28:53",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:25:25.879153",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-05T01:27:10.597459",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.247120",
+      "title_tr": "Transfer söylentileri, haberler: Manchester United ve Manchester City, Anderson'ı istiyor",
+      "summary_tr": "Manchester United ve Manchester City, Nottingham Forest'tan Elliot Anderson'ı kadrosuna katmak için hızla harekete geçiyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "Lennart Karl completes remarkable Bayern Munich comeback in Freiburg",
@@ -355,169 +354,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-05T01:24:32.009412",
+      "fetched_at": "2026-04-05T04:30:09.311380",
       "priority_score": 56,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-05T01:27:10.472804",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.459338",
+      "title_tr": "Lennart Karl, Freiburg'da Bayern Münih'e olağanüstü geri dönüşünü tamamladı",
+      "summary_tr": "Bundesliga'nın lideri Bayern Münih, Freiburg'da 2-0 geriye düştüğü mücadeleyi 3-2 kazanırken, Lennart Karl uzatma süresinin dokuzuncu dakikasında gol attı."
     },
     {
-      "title": "Trabzonspor 2-1 Galatasaray maç sonucu | Zirvede 'Fırtına' koptu",
-      "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'la kozlarını paylaştı. Heyecanlı anlara sahne olan karşılaşmada bordo-mavililer, rakibini 2-1 mağlup etti. Trabzonspor maç fazlasıyla rakibiyle puan farkını 1'e indirdi.",
-      "url": "https://www.cnnturk.com/spor/trabzonspor-galatasaray-maci-bein-sports-1-sifresiz-izle-trabzonspor-galatasaray-maci-canli-izle-super-ligde-derbi-mucadelesi-2413445",
-      "image_url": null,
-      "published": "2026-04-04T22:04:31",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "title": "G.Saray'dan küfür tepkisi! \"Yazıklar olsun\"",
+      "summary": "Galatasaray Başkan Vekili Metin Öztürk, Trabzonspor'a 2-1 yenildikleri maçın ardından kendilerine edilen küfürler nedeniyle bordo-mavili yönetime sert sözlerle tepki gösterdi.",
+      "url": "https://www.haberturk.com/galatasaray-da-metin-ozturk-ten-trabzonspor-a-kufur-tepkisi-yaziklar-olsun-3874887-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775334818/3874887/jpg/1280x1280",
+      "published": "2026-04-04T20:36:32",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-05T01:26:03.078214",
-      "priority_score": 56,
+      "fetched_at": "2026-04-05T04:30:59.874849",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-05T01:27:10.954077",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.562814",
+      "title_tr": "G.Saray'dan küfür tepkisi! \"Yazıklar olsun\"",
+      "summary_tr": "Galatasaray Başkan Vekili Metin Öztürk, Trabzonspor'a 2-1 yenildikleri maçın ardından kendilerine edilen küfürler nedeniyle bordo-mavili yönetime sert sözlerle tepki gösterdi."
     },
     {
-      "title": "Atlético rue VAR 'mistake' to overturn Barça red",
-      "summary": "Diego Simeone criticised the controversial decision to overturn Gerard Martín's red card during Atlético Madrid's 2-1 defeat to Barcelona on Saturday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48398074/atletico-madrid-var-overturning-barcelona-red-card-gerard-martin",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Zirvede \"Fırtına\" çıktı!",
+      "summary": "Trendyol Süper Lig'in 28. haftasında Trabzonspor sahasında Galatasaray'ı 2-1 mağlup etti. Trabzonspor'a galibiyeti getiren golleri 4. dakikada Paul Onuachu ve 62. dakikada Chibuike Nwaiwu kaydederken Galatasaray'ın tek golü ise 48. dakikada Wilfried Singo'dan geldi. Bordo-Mavililer kritik galibiyet ",
+      "url": "https://www.haberturk.com/trabzonspor-2-galatasaray-1-mac-sonucu-3874761-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/04/ver1775330889/3874761/jpg/1280x1280",
+      "published": "2026-04-04T19:28:53",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760340",
-      "priority_score": 55,
+      "fetched_at": "2026-04-05T04:30:59.875216",
+      "priority_score": 53,
       "categories": [
-        "la_liga"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-04-05T01:27:10.260878",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Flick: 'Angry' Yamal will soon be in 'better mood'",
-      "summary": "Lamine Yamal 's anger at the end of Barcelona's vital 2-1 win over Atlético Madrid in LaLiga on Saturday was down to the emotion of the game, according to coach Hansi Flick.",
-      "url": "https://www.espn.com/soccer/story/_/id/48398757/barcelona-hansi-flick-lamine-yamal-angry-atletico-madrid",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760509",
-      "priority_score": 55,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.261358",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arbeloa: Blame for Real Madrid loss 'all mine'",
-      "summary": "Coach Álvaro Arbeloa said responsibility for Real Madrid's dramatic 2-1 defeat at Mallorca was \"absolutely, all mine.\"",
-      "url": "https://www.espn.com/soccer/story/_/id/48396225/blame-real-madrid-defeat-absolutely-all-alvaro-arbeloa",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760665",
-      "priority_score": 55,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-04-05T01:27:10.261864",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Szoboszlai slams L'pool 'fighting spirit' in City rout",
-      "summary": "Dominik Szoboszlai has said Liverpool lacked \"fighting spirit\" in their 4-0 defeat to Manchester City in the FA Cup and said it is \"hard to find the words\" to sum up his team's poor performance.",
-      "url": "https://www.espn.com/soccer/story/_/id/48394631/dominik-szoboszlai-liverpool-lacked-fighting-spirit-man-city-loss-fa-cup",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760815",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-05T01:27:10.262508",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Chelsea boss on Enzo: It's not what people think",
-      "summary": "Liam Rosenior has refused to be drawn on Enzo Fernández's agent's criticism of Chelsea but insisted \"things aren't what people maybe think they are\" regarding the player's future.",
-      "url": "https://www.espn.com/soccer/story/_/id/48397079/chelsea-liam-rosenior-enzo-fernandez-things-not-people-think",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.760982",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-05T01:27:10.263200",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ex-Chelsea star Oscar retires after heart issue",
-      "summary": "Former Chelsea and Brazil midfielder Oscar has retired from soccer five months after being admitted to the hospital with a heart issue, Brazilian club São Paulo said on Saturday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48395663/oscar-ex-chelsea-midfielder-retires-fainting-diagnosis",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.761133",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-05T01:27:10.264000",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "⚽ Newcomers who could shape the World Cup",
-      "summary": "Here are the newcomers to the international scene that could have a big say on who lifts the World Cup trophy in July.",
-      "url": "https://www.espn.com/soccer/story/_/id/48377586/international-rookies-shape-2026-world-cup",
-      "image_url": null,
-      "published": "2026-04-05T00:47:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:25.761428",
-      "priority_score": 55,
-      "categories": [
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-05T01:27:10.265651",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.590987",
+      "title_tr": "Zirvede \"Fırtına\" çıktı!",
+      "summary_tr": "Trendyol Süper Lig'in 28. haftasında Trabzonspor sahasında Galatasaray'ı 2-1 mağlup etti. Trabzonspor'a galibiyeti getiren golleri 4. dakikada Paul Onuachu ve 62. dakikada Chibuike Nwaiwu kaydederken Galatasaray'ın tek golü ise 48. dakikada Wilfried Singo'dan geldi. Bordo-Mavililer kritik galibiyet"
     },
     {
       "title": "R.Madrid'i Muriqi yıktı!",
@@ -529,34 +414,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-05T01:25:25.879340",
+      "fetched_at": "2026-04-05T04:30:59.875429",
       "priority_score": 53,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-04-05T01:27:10.611998",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Joshua makes first public appearance since friends' deaths to support Chisora",
-      "summary": "Anthony Joshua made his first public appearance since the deaths of close friends Sina Ghami and Latif 'Latz' Ayodele as he arrived at O2 Arena to support Derek Chisora.",
-      "url": "https://www.skysports.com/boxing/news/12040/13528072/anthony-joshua-makes-first-public-appearance-since-close-friends-deaths-as-he-attends-derek-chisora-vs-deontay-wilder",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-anthony-joshua-eddie-hearn_7211229.jpg?20260404222402",
-      "published": "2026-04-04T22:13:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-05T01:23:44.003630",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-05T01:27:10.310539",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.606540",
+      "title_tr": "R.Madrid'i Muriqi yıktı!",
+      "summary_tr": "İspanya LaLiga'da şampiyonluk mücadelesi veren Real Madrid, 30. haftada konuk olduğu düşme hattındaki Real Mallorca'ya 2-1 yenilerek zirve yarışında ağır yara aldı. Mallorca'yı güçlü rakibi karşısında zafere taşıyan golleri 41'de Morlanes ve 90+1'de Vedat Muriqi kaydetti. Eflatun-beyazlıların tek go"
     },
     {
       "title": "Borussia Dortmund stun VfB Stuttgart with late double",
@@ -568,15 +434,35 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-05T01:24:32.010984",
+      "fetched_at": "2026-04-05T04:30:09.313194",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-05T01:27:10.491041",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.478360",
+      "title_tr": "Borussia Dortmund, VfB Stuttgart'ı geç çiftle şaşkına çevirdi",
+      "summary_tr": "Borussia Dortmund, duraklama süresinde iki gol atarak ilk dört aday VfB Stuttgart'ı yenerek ikinci sıradaki yerini sağlamlaştırdı."
+    },
+    {
+      "title": "Fenerbahçe-Beşiktaş derbisinin kader adamları!",
+      "summary": "Fenerbahçe-Beşiktaş maçı öncesi iki takımın zayıf ve güçlü yönleri; Sarı-lacivertlilerde Milan Skriniar'ın varlığı tüm maçın seyrini değiştirecek kadar önemli, siyah-beyazlılarda oyun lideri Orkun Kökçü mükemmel oynuyor ama kart görmeye çok yatkın bir stili var.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-besiktas-derbisinin-kader-adamlari-43143903",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d17b539c4308ceb261da5d.jpg",
+      "published": "2026-04-05T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:31:11.655984",
+      "priority_score": 51,
+      "categories": [
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:40.652069",
+      "title_tr": "Fenerbahçe-Beşiktaş derbisinin kader adamları!",
+      "summary_tr": "Fenerbahçe-Beşiktaş maçı öncesi iki takımın zayıf ve güçlü yönleri; Sarı-lacivertlilerde Milan Skriniar'ın varlığı tüm maçın seyrini değiştirecek kadar önemli, siyah-beyazlılarda oyun lideri Orkun Kökçü mükemmel oynuyor ama kart görmeye çok yatkın bir stili var."
     },
     {
       "title": "Onuachu, Galatasaray'ı da boş geçmedi: Uğurcan Çakır'a bir ilki yaşattı!",
@@ -588,15 +474,132 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-05T01:25:39.236434",
+      "fetched_at": "2026-04-05T04:31:11.656798",
       "priority_score": 51,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-05T01:27:10.745092",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-05T04:32:40.783254",
+      "title_tr": "Onuachu, Galatasaray'ı da boş geçmedi: Uğurcan Çakır'a bir ilki yaşattı!",
+      "summary_tr": "Trabzonspor, Trendyol Süper Lig'in 28. haftasında evinde ağırladığı Galatasaray'ı 2-1 mağlup etti. Bu sezonki 9. kafa golünü kaydeden Paul Onuachu, attığı bu golle sarı-kırmızılı ekibe bir ilki yaşattı."
+    },
+    {
+      "title": "Trabzonspor 2-1 Galatasaray maç sonucu | Zirvede 'Fırtına' koptu",
+      "summary": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'la kozlarını paylaştı. Heyecanlı anlara sahne olan karşılaşmada bordo-mavililer, rakibini 2-1 mağlup etti. Trabzonspor maç fazlasıyla rakibiyle puan farkını 1'e indirdi.",
+      "url": "https://www.cnnturk.com/spor/trabzonspor-galatasaray-maci-bein-sports-1-sifresiz-izle-trabzonspor-galatasaray-maci-canli-izle-super-ligde-derbi-mucadelesi-2413445",
+      "image_url": null,
+      "published": "2026-04-04T22:04:31",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:31:34.467075",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:40.964256",
+      "title_tr": "Trabzonspor 2-1 Galatasaray maç sonucu | Zirvede 'Fırtına' koptu",
+      "summary_tr": "Trabzonspor, Süper Lig'in 28. haftasında Galatasaray'la kozlarını paylaştı. Heyecanlı anlara sahne olan karşılaşmada bordo-mavililer, rakibini 2-1 mağlup etti. Trabzonspor maç fazlasıyla rakibiyle puan farkını 1'e indirdi."
+    },
+    {
+      "title": "Rohl won't watch title rivals as Rangers enjoy top spot",
+      "summary": "As Rangers move to the top of the Scottish Premiership for the first time this season, head coach Danny Rohl is \"convinced\" they can finish the job.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2e959dqpwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-04T19:19:36",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:09.845143",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-05T04:32:40.255813",
+      "title_tr": "Rangers zirvede yer alırken Rohl şampiyonluk rakiplerini izlemeyecek",
+      "summary_tr": "Rangers bu sezon ilk kez İskoçya Premier Ligi'nde zirveye çıkarken, başantrenör Danny Rohl işi bitirebileceklerine \"ikna oldu\"."
+    },
+    {
+      "title": "Could Aberdeen really be relegated for first time?",
+      "summary": "Following Saturday's defeat at fellow strugglers St Mirren, Aberdeen are in serious danger of finishing in the relegation play-off spot. Do they have what it takes to stay up?",
+      "url": "https://www.bbc.com/sport/football/articles/czxrwq4e25do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-04T18:47:32",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:09.846052",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-05T04:32:40.264952",
+      "title_tr": "Aberdeen gerçekten ilk kez küme düşebilir mi?",
+      "summary_tr": "Cumartesi günkü mücadele arkadaşları St Mirren'e karşı alınan yenilginin ardından Aberdeen, küme düşme play-off'unda bitirme tehlikesiyle karşı karşıya. Ayakta kalmak için gerekenlere sahipler mi?"
+    },
+    {
+      "title": "European football: Barcelona stretch lead after shock defeat for Real Madrid",
+      "summary": "Robert Lewandowski’s late winner sinks AtléticoReal downed by Mallorca’s stoppage-time winnerBarcelona’s Robert Lewandowski came off the bench to score a late winner in a 2-1 victory away to 10-man Atlético Madrid on Saturday that moved the defending champions seven points clear of Real Madrid – who",
+      "url": "https://www.theguardian.com/football/2026/apr/04/european-football-bayern-munich-real-madrid-atletico-barcelona",
+      "image_url": null,
+      "published": "2026-04-04T18:49:20",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:47.634717",
+      "priority_score": 48,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-04-05T04:32:40.360248",
+      "title_tr": "Avrupa futbolu: Barcelona, ​​Real Madrid'in şok yenilgisinin ardından liderliğini sürdürdü",
+      "summary_tr": "Robert Lewandowski'nin geç kazananı AtléticoReal'i Mallorca'nın uzatma süresi galibi tarafından mağlup etti Barcelonalı Robert Lewandowski yedek kulübesinden çıkarak 10 kişilik Atlético Madrid'e Cumartesi günü 2-1 yendikleri maçta geç bir galibiyet golü atarak savunma şampiyonu Real Madrid'in yedi puan önüne geçti."
+    },
+    {
+      "title": "Survival or silverware? Farke faces dilemma as Leeds’ season nears end",
+      "summary": "A first FA Cup semi-final since 1987 is within reach but manager says Premier League is ‘our bread and butter’As Leeds travel to West Ham for an FA Cup quarter-final both teams could arguably do without, one thing is not in doubt: Daniel Farke knows how to read a balance sheet. As the holder of an M",
+      "url": "https://www.theguardian.com/football/2026/apr/04/survival-or-glory-daniel-farke-leeds-fa-cup-premier-league",
+      "image_url": null,
+      "published": "2026-04-04T09:00:17",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:29:47.636941",
+      "priority_score": 48,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-05T04:32:40.396471",
+      "title_tr": "Hayatta kalma mı yoksa gümüş eşyalar mı? Leeds'in sezonu sona yaklaşırken Farke ikilemle karşı karşıya",
+      "summary_tr": "1987'den bu yana ilk FA Cup yarı finali çok yakında ancak menajer Premier Lig'in \"ekmek ve tereyağımız\" olduğunu söylüyor Leeds, FA Cup çeyrek finali için West Ham'a giderken, her iki takımın da muhtemelen onsuz yapabileceği bir şey var; şüphe yok ki: Daniel Farke bilanço okumayı biliyor. M sahibi olarak"
+    },
+    {
+      "title": "Trabzonspor - Galatasaray Canlı Skor - Canlı Anlatım - İlk 11'ler",
+      "summary": "Trabzonspor, Süper Lig'in 28. haftasında evinde Galatasaray'ı ağırlıyor. Trabzonspor - Galatasaray maçının ilk 11'leri,...",
+      "url": "https://www.yenisafak.com/spor/trabzonspor--galatasaray-canli-izle--canli-skor--ilk-11ler-4812124",
+      "image_url": null,
+      "published": "2026-04-04T18:55:46",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-05T04:32:02.782326",
+      "priority_score": 47,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-05T04:32:41.522885",
+      "title_tr": "Trabzonspor - Galatasaray Canlı Skor - Canlı Anlatım - İlk 11'ler",
+      "summary_tr": "Trabzonspor, Süper Lig'in 28. haftasında evinde Galatasaray'ı ağırlıyor. Trabzonspor - Galatasaray maçının ilk 11'leri,..."
     }
   ]
 }
