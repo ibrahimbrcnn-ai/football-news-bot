@@ -1,28 +1,68 @@
 {
-  "timestamp": "2026-04-07T06:18:13.519736",
+  "timestamp": "2026-04-07T08:10:28.207773",
   "total_items": 30,
   "news": [
     {
-      "title": "‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
-      "summary": "Team will not panic in wake of City and Southampton defeatsRaya set to return in goal for Tuesday’s first leg at SportingMikel Arteta has insisted that Arsenal will not panic after losing successive games for the first time this season but admitted that they must rediscover their identity to get the",
-      "url": "https://www.theguardian.com/football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
+      "title": "Kane available for Bayern in first leg with Madrid",
+      "summary": "Bayern Munich striker Harry Kane practiced on Monday and is expected to be available against Real Madrid in their Champions League quarterfinal on Tuesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48413679/harry-kane-available-bayern-first-leg-real-madrid",
       "image_url": null,
-      "published": "2026-04-06T19:55:18",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-04-07T08:57:53",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:51.938922",
-      "priority_score": 98,
+      "fetched_at": "2026-04-07T08:05:22.943615",
+      "priority_score": 90,
       "categories": [
-        "transfers",
+        "breaking_news",
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-07T08:09:11.785128",
+      "title_tr": "Kane, Madrid ile ilk maçta Bayern'e hazır",
+      "summary_tr": "Bayern Münih'in forvet oyuncusu Harry Kane Pazartesi günü antrenmana çıktı ve Salı günü Şampiyonlar Ligi çeyrek finalinde Real Madrid'e karşı hazır olması bekleniyor."
+    },
+    {
+      "title": "Bruno Fernandes is 31 and Man United's MVP, but they shouldn't extend his contract",
+      "summary": "Bruno Fernandes' brilliant season means that Man United's decision to extend his contract should be an obvious one, right? Except, looking at how things played out with Liverpool and Mo Salah, it's not so simple.",
+      "url": "https://www.espn.com/soccer/story/_/id/48410931/bruno-fernandes-man-united-contract-extension-mohamed-salah-liverpool-transfers-ryan-ohanlon",
+      "image_url": null,
+      "published": "2026-04-07T08:56:13",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.944141",
+      "priority_score": 85,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-07T08:09:11.788371",
+      "title_tr": "Bruno Fernandes 31 yaşında ve Manchester United'ın MVP'si ama sözleşmesini uzatmamalılar",
+      "summary_tr": "Bruno Fernandes'in muhteşem sezonu, Manchester United'ın sözleşmesini uzatma kararının açık bir karar olması gerektiği anlamına geliyor, değil mi? Liverpool ve Mo Salah'la işlerin nasıl gittiğine baktığımızda her şeyin o kadar da basit olmadığını görüyoruz."
+    },
+    {
+      "title": "Fenerbahçe-Beşiktaş derbisi sonrası penaltı itirafı! Tedesco, Kerem’e açıkladı",
+      "summary": "Fenerbahçe’nin Beşiktaş’ı son dakikalarda attığı penaltı ile mağlup etmesi sonrası, golün mimarı Kerem Aktürkoğlu’na teknik direktör Domenico Tedesco’dan itiraf geldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-besiktas-derbisi-sonrasi-penalti-itirafi-tedesco-kereme-acikladi-43145363",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d4af7fee4afb2ce83f7bf5.jpg",
+      "published": "2026-04-07T07:17:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:07:33.266163",
+      "priority_score": 76,
+      "categories": [
         "match_results",
         "breaking_news",
-        "premier_league"
+        "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.236481",
-      "title_tr": "'Bu yakıtı kullanın': Mikel Arteta ve David Raya, Arsenal'i kupa kayıplarını telafi etmeye çağırıyor",
-      "summary_tr": "Takım, City ve Southampton yenilgilerinin ardından paniğe kapılmayacak Raya, Salı günü Sporting'deki ilk maçta kaleye geri dönecek Mikel Arteta, Arsenal'in bu sezon ilk kez üst üste maç kaybettikten sonra paniğe kapılmayacağı konusunda ısrar etti ancak şampiyonluğu kazanmak için kimliklerini yeniden keşfetmeleri gerektiğini kabul etti."
+      "processed_at": "2026-04-07T08:09:12.095699",
+      "title_tr": "Fenerbahçe-Beşiktaş derbisi sonrası penaltı itirafı! Tedesco, Kerem’e açıkladı",
+      "summary_tr": "Fenerbahçe’nin Beşiktaş’ı son dakikalarda attığı penaltı ile mağlup etmesi sonrası, golün mimarı Kerem Aktürkoğlu’na teknik direktör Domenico Tedesco’dan itiraf geldi."
     },
     {
       "title": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
@@ -34,37 +74,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:11.450785",
-      "priority_score": 80,
+      "fetched_at": "2026-04-07T08:05:29.399692",
+      "priority_score": 70,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-04-07T06:16:53.152342",
+      "processed_at": "2026-04-07T08:09:11.799229",
       "title_tr": "Real Madrid beraberliği neden Kane'in Ballon d'Or umutlarını gerçekleştirebilir veya bozabilir?",
       "summary_tr": "Harry Kane Avrupa'nın en golcü oyuncusu ama bu prestijli ödülü kazanma şansına sahip olması için büyük bir kupa kazanması mı gerekiyor?"
-    },
-    {
-      "title": "Kane available for Bayern in first leg with Madrid",
-      "summary": "Bayern Munich striker Harry Kane practiced on Monday and is expected to be available against Real Madrid in their Champions League quarterfinal on Tuesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48413679/harry-kane-available-bayern-first-leg-real-madrid",
-      "image_url": null,
-      "published": "2026-04-07T00:06:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.698357",
-      "priority_score": 75,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-07T06:16:53.138142",
-      "title_tr": "Kane, Madrid ile ilk maçta Bayern'e hazır",
-      "summary_tr": "Bayern Münih'in forvet oyuncusu Harry Kane Pazartesi günü antrenmana çıktı ve Salı günü Şampiyonlar Ligi çeyrek finalinde Real Madrid'e karşı hazır olması bekleniyor."
     },
     {
       "title": "Şampiyonluk ihtimalleri açıklandı!",
@@ -76,76 +94,37 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:15:03.628944",
+      "fetched_at": "2026-04-07T08:07:21.629013",
       "priority_score": 68,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.406226",
+      "processed_at": "2026-04-07T08:09:12.031754",
       "title_tr": "Şampiyonluk ihtimalleri açıklandı!",
       "summary_tr": "Trendyol Süper Lig'de 28. hafta geride kalırken, lider Galatasaray deplasmanda Trabzonspor'a 2-1 mağlup oldu. Zirve yarışını sürdüren Fenerbahçe ise sahasında Beşiktaş ile oynadığı derbi mücadelesini 1-0'lık skorla kazandı. Futbol veri sitesi Euro Club Index, şampiyonluk tahmininde bulundu ve takıml"
     },
     {
-      "title": "Bundesliga Matchday 28 video highlights",
-      "summary": "Bayern Munich maintained their nine-point advantage at the top of the Bundesliga table, as Leverkusen hit Wolfsburg for six at the BayArena.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-video-highlights-bayern-munich-borussia-dortmund-leverkusen-leipzig-937",
-      "image_url": null,
-      "published": "2026-04-07T05:59:00",
-      "source": "Bundesliga Official",
+      "title": "Yok artık Kante! 3 Beşiktaşlıya bedel oldu",
+      "summary": "Fenerbahçe'nin ara transfer sezonunda kadrosuna kattığı N'Golo Kante, Beşiktaş derbisinde adeta şov yaptı. Dünyaca ünlü Fransız yıldızın rakamlarının, 3 Beşiktaşlı futbolcunun toplamına eşit olduğu görüldü. İşte ayrıntılar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/yok-artik-kante-3-besiktasliya-bedel-oldu-43145334",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d4a6caee4afb2ce83f7bcc.jpg",
+      "published": "2026-04-07T06:40:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:14:15.995925",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-07T06:16:53.314820",
-      "title_tr": "Bundesliga 28. Maçın öne çıkan videoları",
-      "summary_tr": "BayArena'da Leverkusen Wolfsburg'u altı sayıya mağlup ederken, Bayern Münih Bundesliga zirvesindeki dokuz puanlık avantajını korudu."
-    },
-    {
-      "title": "Red Roses 'super mums' participate in Six Nations camp while pregnant",
-      "summary": "The Red Roses inspired a generation when they won their first Women's Rugby World Cup in 11 years home soil - and they are now continuing to set an example off the pitch.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13527742/womens-six-nations-red-roses-super-mums-set-example-by-taking-part-in-training-camp-while-pregnant-say-team-mates",
-      "image_url": "https://e0.365dm.com/25/04/1920x1080/skysports-zoe-aldcroft-england_6891009.jpg?20260405165515",
-      "published": "2026-04-07T07:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:23.639880",
+      "fetched_at": "2026-04-07T08:07:33.266310",
       "priority_score": 61,
       "categories": [
-        "breaking_news",
-        "world_cup"
+        "transfers",
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.176994",
-      "title_tr": "Kırmızı Güllerin 'süper anneleri' hamileyken Six Nations kampına katıldı",
-      "summary_tr": "Kırmızı Güller, 11 yıldır kendi topraklarında ilk Kadınlar Ragbi Dünya Kupası'nı kazanarak bir nesle ilham kaynağı oldu ve şimdi saha dışında da örnek olmaya devam ediyorlar."
-    },
-    {
-      "title": "USMNT's Agyemang stretchered off, set for scan",
-      "summary": "United States striker Patrick Agyemang was stretchered off in the first half of a 2-0 win for Derby County on Monday with a non-contact injury that will require a scan.",
-      "url": "https://www.espn.com/soccer/story/_/id/48413159/usmnt-patrick-agyemang-stretchered-set-scans",
-      "image_url": null,
-      "published": "2026-04-07T00:06:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.697197",
-      "priority_score": 60,
-      "categories": [
-        "breaking_news",
-        "injuries"
-      ],
-      "processed_at": "2026-04-07T06:16:53.134852",
-      "title_tr": "USMNT'den Agyemang tarama için sedyeyle yola çıktı",
-      "summary_tr": "ABD'li forvet Patrick Agyemang, Pazartesi günü Derby County'nin 2-0'lık galibiyetinin ilk yarısında, tarama gerektirecek temassız bir sakatlık nedeniyle gerildi."
+      "processed_at": "2026-04-07T08:09:12.113234",
+      "title_tr": "Yok artık Kante! 3 Beşiktaşlıya bedel oldu",
+      "summary_tr": "Fenerbahçe'nin ara transfer sezonunda kadrosuna kattığı N'Golo Kante, Beşiktaş derbisinde adeta şov yaptı. Dünyaca ünlü Fransız yıldızın rakamlarının, 3 Beşiktaşlı futbolcunun toplamına eşit olduğu görüldü. İşte ayrıntılar..."
     },
     {
       "title": "Bayern face waiting game on 'very special' Kane",
@@ -157,7 +136,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:11.451847",
+      "fetched_at": "2026-04-07T08:05:29.401106",
       "priority_score": 60,
       "categories": [
         "injuries",
@@ -165,7 +144,7 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T06:16:53.165424",
+      "processed_at": "2026-04-07T08:09:11.817596",
       "title_tr": "Bayern 'çok özel' Kane'i bekleyen bir maçla karşı karşıya",
       "summary_tr": "Bayern Münih, Şampiyonlar Ligi çeyrek finalinde Real Madrid'i yenme mücadelesine liderlik edip edemeyeceğini görmek için \"çok özel\" Harry Kane'in kondisyonunu bekliyor."
     },
@@ -179,75 +158,157 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:51.939437",
+      "fetched_at": "2026-04-07T08:06:04.181819",
       "priority_score": 58,
       "categories": [
         "transfers",
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-04-07T06:16:53.243007",
+      "processed_at": "2026-04-07T08:09:11.883550",
       "title_tr": "Şampiyona özeti: Coventry, Hull'daki çıkmaza rağmen zirvede 12 puan farkla liderliğini sürdürüyor",
       "summary_tr": "Başka yerlerdeki sonuçlar Frank Lampard'ın lehine Norwich anlaşması Millwall'un yükselme hamlesine darbe indirdi Coventry, Hull'daki golsüz beraberlikte renksiz bir görüntü sergilemesine rağmen Premier Lig'e yükselmeye yaklaştı. Terfi rakipleri Millwall ve Middlesbrough'un yaşadığı aksilikler, Coventry'nin galibiyetinin daha fazla avantaj sağlayacağı anlamına geliyordu."
     },
     {
-      "title": "Galatasaray'da orta saha harekâtı!",
-      "summary": "Trendyol Süper Lig'in lideri Galatasaray, gelecek sezon için transfer çalışmalarına başladı. Sarı Kırmızılılar, İngiliz ekibi Manchester United'ta forma giyen Manuel Ugarte'yi kadrosuna katmak istiyor. Kırmızı Şeytanlar'ın Uruguaylı futbolcu için 40 milyon Euro istediği öğrenildi.",
-      "url": "https://www.haberturk.com/galatasaray-manuel-ugarte-yle-ilgileniyor-3875214-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/06/ver1775480876/3875214/jpg/1280x1280",
-      "published": "2026-04-06T13:11:01",
+      "title": "Galatasaray, Avrupa'da Dörtlü Final yolunda!",
+      "summary": "Galatasaray MCT Technic, FIBA Erkekler Şampiyonlar Ligi çeyrek final ikinci maçında yarın sahasında La Laguna Tenerife ekibiyle karşılaşacak. Sarı-kırmızılılar yarın da kazanması durumunda iki galibiyete ulaşarak Dörtlü Final'e kalacak.",
+      "url": "https://www.haberturk.com/galatasaray-mct-technic-avrupa-da-dortlu-final-yolunda-3875366-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/07/ver1775545923/3875366/jpg/1280x1280",
+      "published": "2026-04-07T07:12:20",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:15:03.628803",
-      "priority_score": 58,
+      "fetched_at": "2026-04-07T08:07:21.628101",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-04-07T08:09:11.981102",
+      "title_tr": "Galatasaray, Avrupa'da Dörtlü Final yolunda!",
+      "summary_tr": "Galatasaray MCT Technic, FIBA Erkekler Şampiyonlar Ligi çeyrek final ikinci maçında yarın sahasında La Laguna Tenerife ekibiyle karşılaşacak. Sarı-kırmızılılar yarın da kazanması durumunda iki galibiyete ulaşarak Dörtlü Final'e kalacak."
+    },
+    {
+      "title": "USMNT's Agyemang stretchered off, set for scan",
+      "summary": "United States striker Patrick Agyemang was stretchered off in the first half of a 2-0 win for Derby County on Monday with a non-contact injury that will require a scan.",
+      "url": "https://www.espn.com/soccer/story/_/id/48413159/usmnt-patrick-agyemang-stretchered-set-scans",
+      "image_url": null,
+      "published": "2026-04-07T08:57:53",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.942406",
+      "priority_score": 75,
+      "categories": [
+        "breaking_news",
+        "injuries"
+      ],
+      "processed_at": "2026-04-07T08:09:11.781949",
+      "title_tr": "USMNT'den Agyemang tarama için sedyeyle yola çıktı",
+      "summary_tr": "ABD'li forvet Patrick Agyemang, Pazartesi günü Derby County'nin 2-0'lık galibiyetinin ilk yarısında, tarama gerektirecek temassız bir sakatlık nedeniyle gerildi."
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Liverpool fight for Monaco forward",
+      "summary": "Manchester United and Liverpool are stepping up interest in AS Monaco star Maghnes Akliouche. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48418004/transfer-rumors-news-manchester-united-liverpool-fight-monaco-forward-maghnes-akliouche",
+      "image_url": null,
+      "published": "2026-04-07T08:39:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.944508",
+      "priority_score": 75,
       "categories": [
         "transfers",
         "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-07T06:16:53.395216",
-      "title_tr": "Galatasaray'da orta saha harekâtı!",
-      "summary_tr": "Trendyol Süper Lig'in lideri Galatasaray, gelecek sezon için transfer çalışmalarına başladı. Sarı Kırmızılılar, İngiliz ekibi Manchester United'ta forma giyen Manuel Ugarte'yi kadrosuna katmak istiyor. Kırmızı Şeytanlar'ın Uruguaylı futbolcu için 40 milyon Euro istediği öğrenildi."
-    },
-    {
-      "title": "From Melbourne to Milan to Miami - Robson's 'brutal' London Marathon training",
-      "summary": "Sky Sports Tennis' Laura Robson has trained from Melbourne, Milan Cortina to Miami but the former British No 1 is tapering down for the London Marathon in April.",
-      "url": "https://www.skysports.com/tennis/news/12040/13526978/london-marathon-training-is-brutal-laura-robsons-advice-lots-of-carbs-electrolytes-and-dont-panic-ahead-of-race-on-april-26",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-tennis-laura-robson_7209975.jpg?20260403081917",
-      "published": "2026-04-07T07:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:23.639709",
-      "priority_score": 51,
-      "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-04-07T06:16:53.170847",
-      "title_tr": "Melbourne'dan Milano'ya ve Miami'ye - Robson'un 'acımasız' Londra Maratonu eğitimi",
-      "summary_tr": "Sky Sports Tennis'den Laura Robson, Melbourne, Milan Cortina'dan Miami'ye kadar antrenman yaptı ancak eski İngiliz 1 numarası, Nisan ayındaki Londra Maratonu için gücünü azaltıyor."
+      "processed_at": "2026-04-07T08:09:11.791397",
+      "title_tr": "Transfer söylentileri, haberler: Man United ve Liverpool, Monaco forveti için mücadele ediyor",
+      "summary_tr": "Manchester United ve Liverpool, AS Monaco'nun yıldızı Maghnes Akliouche'a olan ilgisini artırıyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
-      "title": "GÖZTEPE GALATASARAY MAÇI HANGİ GÜN? Süper Lig Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda?",
-      "summary": "Türkiye’nin futbol gündemi, Göztepe ile Galatasaray arasında oynanacak erteleme karşılaşmasına kilitlendi. Göztepe, bu kritik maçtan galibiyetle ayrılması halinde puanını 49’a yükselterek tam 55 yıl sonra Avrupa kupalarına katılma hedefi doğrultusunda dördüncü sıradaki Beşiktaş ile arasındaki farkı ",
-      "url": "https://www.cnnturk.com/spor/futbol/goztepe-galatasaray-erteleme-maci-ne-zaman-super-lig-goztepe-galatasaray-maci-saat-kacta-hangi-kanalda-2414019",
+      "title": "Valverde's hunger, sacrifice and goals should have Madrid confident -- and Bayern fearful",
+      "summary": "This has been something of a lost season for Real Madrid, but the tenacity and form of Federico Valverde may yet bring trophies to the Spanish capital.",
+      "url": "https://www.espn.com/soccer/story/_/id/48405118/fede-valverde-real-madrid-confident-bayern-munich-fearful-ucl-clash",
       "image_url": null,
-      "published": "2026-04-07T09:08:14",
-      "source": "CNN Türk Spor",
+      "published": "2026-04-07T08:08:12",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.942114",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-07T08:09:11.781488",
+      "title_tr": "Valverde'nin açlığı, fedakarlığı ve golleri Madrid'e güvenmeli, Bayern ise korkmalı",
+      "summary_tr": "Bu Real Madrid için kayıp bir sezon oldu ancak Federico Valverde'nin azmi ve formu İspanya'nın başkentine kupalar getirebilir."
+    },
+    {
+      "title": "McKennie equals career best with goal in Juve win",
+      "summary": "United States midfielder Weston McKennie scored for Juventus in a 2-0 win over Genoa Monday and was named man of the match.",
+      "url": "https://www.espn.com/soccer/story/_/id/48414537/weston-mckennie-equals-career-best-goal-juve-win",
+      "image_url": null,
+      "published": "2026-04-07T08:57:53",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.943231",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-07T08:09:11.783773",
+      "title_tr": "McKennie, Juve galibiyetinde attığı golle kariyerinin en iyisine eşit oldu",
+      "summary_tr": "ABD'li orta saha oyuncusu Weston McKennie, Pazartesi günü Cenova'yı 2-0 yenen Juventus adına gol atarak maçın adamı seçildi."
+    },
+    {
+      "title": "Real Madrid - Bayern Münih maçları gollü geçiyor… İşte Misli’den Günün Tüyoları",
+      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/real-madrid-bayern-munih-maclari-gollu-geciyor-iste-misliden-gunun-tuyolari-43145399",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d4b244ee4afb2ce83f7c35.jpg",
+      "published": "2026-04-07T07:29:46",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:15:38.102784",
-      "priority_score": 51,
+      "fetched_at": "2026-04-07T08:07:33.266091",
+      "priority_score": 66,
       "categories": [
-        "super_lig"
+        "match_results",
+        "la_liga",
+        "bundesliga"
       ],
-      "processed_at": "2026-04-07T06:16:53.655281",
-      "title_tr": "GÖZTEPE GALATASARAY MAÇI HANGİ GÜN? Süper Lig Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda?",
-      "summary_tr": "Türkiye’nin futbol gündemi, Göztepe ile Galatasaray arasında oynanacak erteleme karşılaşmasına kilitlendi. Göztepe, bu kritik maçtan galibiyetle ayrılması halinde puanını 49’a yükselterek tam 55 yıl sonra Avrupa kupalarına katılma hedefi doğrultusunda dördüncü sıradaki Beşiktaş ile arasındaki farkı"
+      "processed_at": "2026-04-07T08:09:12.079529",
+      "title_tr": "Real Madrid - Bayern Münih maçları gollü geçiyor… İşte Misli’den Günün Tüyoları",
+      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor."
+    },
+    {
+      "title": "Lincoln City back in Championship after 65 years",
+      "summary": "Lincoln clinched promotion to the Sky Bet Championship for the first time since 1961 thanks to a hard-earned 2-1 victory at League One play-off chasers Reading.",
+      "url": "https://www.espn.com/soccer/story/_/id/48413024/lincoln-city-promoted-championship-65-year-absence",
+      "image_url": null,
+      "published": "2026-04-07T08:57:53",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.943431",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-07T08:09:11.784406",
+      "title_tr": "Lincoln City 65 yıl sonra şampiyonluğa geri döndü",
+      "summary_tr": "Lincoln, League One play-off'larını kovalayan Reading'te zorlukla kazanılan 2-1'lik zafer sayesinde 1961'den bu yana ilk kez Sky Bet Şampiyonası'na yükselmeyi garantiledi."
     },
     {
       "title": "Penaltı kararına Portekizli hakem hocalarından destek!",
@@ -259,16 +320,36 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:15:03.629236",
+      "fetched_at": "2026-04-07T08:07:21.629086",
       "priority_score": 63,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.431000",
+      "processed_at": "2026-04-07T08:09:12.038890",
       "title_tr": "Penaltı kararına Portekizli hakem hocalarından destek!",
       "summary_tr": "Fenerbahçe, Beşiktaş’ı son dakikada gelen penaltı golüyle 1-0 mağlup etti. Tartışılan penaltı pozisyonunda Yasin Kol’un kararı, Joao Capela ve Vitor Melo Pereira tarafından IFAB kurallarına uygun bulunarak desteklendi."
+    },
+    {
+      "title": "Boulter suffers first-round exit to Ruse in Austria",
+      "summary": "Highlights of Katie Boulter against Elena-Gabriela Ruse from the Upper Austria Ladies Linz Open.",
+      "url": "https://www.skysports.com/watch/video/13528738/katie-boulter-vs-elena-gabriela-ruse-linz-open-highlights",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-katie-boulter-tennis_7212737.png?20260406221821",
+      "published": "2026-04-06T22:06:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:42.303523",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-07T08:09:11.832482",
+      "title_tr": "Boulter, Avusturya'da Rusçuk'a ilk turda elendi",
+      "summary_tr": "Yukarı Avusturya Bayanlar Linz Açık'ta Katie Boulter'ın Elena-Gabriela Ruse'a karşı öne çıkan maçları."
     },
     {
       "title": "Penaltı pozisyonu çok tartışılmıştı! Portekizli hakem hocalarından Yasin Kol'a onay...",
@@ -280,38 +361,77 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:15:38.103736",
+      "fetched_at": "2026-04-07T08:07:57.256578",
       "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.720834",
+      "processed_at": "2026-04-07T08:09:12.394438",
       "title_tr": "Penaltı pozisyonu çok tartışılmıştı! Portekizli hakem hocalarından Yasin Kol'a onay...",
       "summary_tr": "Fenerbahçe, Süper Lig’in 28. haftasında ezeli rakibi Beşiktaş’ı Kadıköy’de son dakika penaltı golüyle 1-0 mağlup etti. Tartışmalara yol açan penaltı kararı, Portekizli hakem hocaları tarafından da onaylandı."
     },
     {
-      "title": "Transfer rumors, news: Barcelona, Juve lead race for Bernardo Silva",
-      "summary": "Manchester City midfielder Bernardo Silva is set to leave this summer and has Barcelona and Juventus on his trail. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48410071/barcelona-juventus-lead-race-man-city-bernardo-silva",
+      "title": "Viktor who? Sporting’s new Gyökeres has sights trained on Arsenal",
+      "summary": "The Sweden striker’s goals had inspired Sporting for two years but in Colombian Luis Suárez they have found an equally prolific target manIn Portugal, two of the most familiar sayings claim that “green is the colour of hope” and that “hope is the last thing to die”. For Sporting, a club draped in gr",
+      "url": "https://www.theguardian.com/football/2026/apr/07/viktor-gyokeres-sporting-arsenal-champions-league-quarter-final-luis-suarez",
       "image_url": null,
-      "published": "2026-04-06T16:30:25",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-07T07:00:42",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.699427",
-      "priority_score": 60,
+      "fetched_at": "2026-04-07T08:06:04.180898",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-07T08:09:11.871469",
+      "title_tr": "Viktor kim? Sporting'in yeni Gyökeres'i Arsenal'e yönelik nişangahlara sahip",
+      "summary_tr": "İsveçli forvetin golleri Sporting'e iki yıl boyunca ilham kaynağı oldu ancak Kolombiyalı Luis Suárez de aynı derecede üretken bir hedef adam buldu. Portekiz'de en tanıdık iki söz \"yeşil umudun rengidir\" ve \"umut ölen son şeydir\" iddiasını öne sürüyor. Sporting için gr ile kaplanmış bir kulüp"
+    },
+    {
+      "title": "Icardi'de aşkın sonu!",
+      "summary": "Galatasaray’da attığı gollerle taraftarın sevgilisi haline gelen ve kulübün yakın dönem tarihine adını altın harflerle yazdıran Mauro Icardi, kariyerinin en sancılı döneminden geçiyor. Bir dönem stadyumları inleten Tangocu için artık çanlar yedek kulübesi için çalıyor.",
+      "url": "https://www.haberturk.com/mauro-icardi-de-askin-sonu-3875346-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/07/ver1775544921/3875346/jpg/1280x1280",
+      "published": "2026-04-07T06:55:55",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:07:21.628506",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-07T08:09:11.999719",
+      "title_tr": "Icardi'de aşkın sonu!",
+      "summary_tr": "Galatasaray’da attığı gollerle taraftarın sevgilisi haline gelen ve kulübün yakın dönem tarihine adını altın harflerle yazdıran Mauro Icardi, kariyerinin en sancılı döneminden geçiyor. Bir dönem stadyumları inleten Tangocu için artık çanlar yedek kulübesi için çalıyor."
+    },
+    {
+      "title": "Galatasaray'da orta saha harekâtı!",
+      "summary": "Trendyol Süper Lig'in lideri Galatasaray, gelecek sezon için transfer çalışmalarına başladı. Sarı Kırmızılılar, İngiliz ekibi Manchester United'ta forma giyen Manuel Ugarte'yi kadrosuna katmak istiyor. Kırmızı Şeytanlar'ın Uruguaylı futbolcu için 40 milyon Euro istediği öğrenildi.",
+      "url": "https://www.haberturk.com/galatasaray-manuel-ugarte-yle-ilgileniyor-3875214-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/06/ver1775480876/3875214/jpg/1280x1280",
+      "published": "2026-04-06T13:11:01",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:07:21.628941",
+      "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league",
-        "la_liga",
-        "serie_a"
+        "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:53.146140",
-      "title_tr": "Transfer söylentileri, haberler: Barcelona ve Juve, Bernardo Silva'nın yarışına liderlik ediyor",
-      "summary_tr": "Manchester City'nin orta saha oyuncusu Bernardo Silva bu yaz ayrılacak ve peşinde Barcelona ve Juventus var. Transfer Talk'ta en son gelişmeler var."
+      "processed_at": "2026-04-07T08:09:12.027219",
+      "title_tr": "Galatasaray'da orta saha harekâtı!",
+      "summary_tr": "Trendyol Süper Lig'in lideri Galatasaray, gelecek sezon için transfer çalışmalarına başladı. Sarı Kırmızılılar, İngiliz ekibi Manchester United'ta forma giyen Manuel Ugarte'yi kadrosuna katmak istiyor. Kırmızı Şeytanlar'ın Uruguaylı futbolcu için 40 milyon Euro istediği öğrenildi."
     },
     {
       "title": "Beşiktaşlı yıldız saatler sonra paylaştı: Penaltı için 'İğrenç' yorumu",
@@ -323,7 +443,7 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T06:16:08.606810",
+      "fetched_at": "2026-04-07T08:08:32.321681",
       "priority_score": 57,
       "categories": [
         "match_results",
@@ -331,29 +451,144 @@
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T06:16:54.097834",
+      "processed_at": "2026-04-07T08:09:12.489948",
       "title_tr": "Beşiktaşlı yıldız saatler sonra paylaştı: Penaltı için 'İğrenç' yorumu",
       "summary_tr": "Trendyol Süper Lig 28. haftasında Beşiktaş deplasmanda Fenerbahçe'ye son dakika yediği golle 1-0 mağlup oldu.Son dakika..."
     },
     {
-      "title": "McKennie equals career best with goal in Juve win",
-      "summary": "United States midfielder Weston McKennie scored for Juventus in a 2-0 win over Genoa Monday and was named man of the match.",
-      "url": "https://www.espn.com/soccer/story/_/id/48414537/weston-mckennie-equals-career-best-goal-juve-win",
+      "title": "Liverpool gelinkt aan Camavinga",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/liverpool-gelinkt-aan-camavinga",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-04-07T06:44:17",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:09:08.476820",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-07T08:09:12.665847",
+      "title_tr": "Liverpool Camavinga'yla anlaştı",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Bundesliga Matchday 28 video highlights",
+      "summary": "Bayern Munich maintained their nine-point advantage at the top of the Bundesliga table, as Leverkusen hit Wolfsburg for six at the BayArena.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-video-highlights-bayern-munich-borussia-dortmund-leverkusen-leipzig-937",
       "image_url": null,
-      "published": "2026-04-07T00:06:13",
+      "published": "2026-04-07T05:59:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:06:27.426023",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-07T08:09:11.944466",
+      "title_tr": "Bundesliga 28. Maçın öne çıkan videoları",
+      "summary_tr": "BayArena'da Leverkusen Wolfsburg'u altı sayıya kadar mağlup ederken, Bayern Münih Bundesliga zirvesindeki dokuz puanlık avantajını korudu."
+    },
+    {
+      "title": "Arteta preaches calm ahead of Sporting quarterfinal",
+      "summary": "Mikel Arteta has urged Arsenal's players not to panic as they aim to get their season back on track against Sporting Lisbon.",
+      "url": "https://www.espn.com/soccer/story/_/id/48413837/arsenal-mikel-arteta-preaches-calm-ahead-sporting-quarterfinal",
+      "image_url": null,
+      "published": "2026-04-07T08:57:52",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.697978",
+      "fetched_at": "2026-04-07T08:05:22.942856",
       "priority_score": 55,
       "categories": [
-        "match_results",
-        "serie_a"
+        "premier_league"
       ],
-      "processed_at": "2026-04-07T06:16:53.136749",
-      "title_tr": "McKennie, Juve galibiyetinde kariyerinin en iyi golüyle eşitlendi",
-      "summary_tr": "ABD'li orta saha oyuncusu Weston McKennie, Pazartesi günü Cenova'yı 2-0 yenen Juventus adına gol atarak maçın adamı seçildi."
+      "processed_at": "2026-04-07T08:09:11.782709",
+      "title_tr": "Arteta, Sporting çeyrek finali öncesinde sakinliği vaaz ediyor",
+      "summary_tr": "Mikel Arteta, Sporting Lizbon karşısında sezonlarını normale döndürmeyi hedefleyen Arsenal oyuncularına paniğe kapılmamaları çağrısında bulundu."
+    },
+    {
+      "title": "Vinícius: 'Important' Yamal speaks out on abuse",
+      "summary": "Real Madrid forward Vinícius Júnior praised Barcelona star Lamine Yamal for publicly condemning anti-Muslim chants in a recent match, saying players need to stick together in the fight against discrimination.",
+      "url": "https://www.espn.com/soccer/story/_/id/48411112/vinicius-junior-real-madrid-contract-renewal-right",
+      "image_url": null,
+      "published": "2026-04-07T08:57:52",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.943056",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-04-07T08:09:11.783230",
+      "title_tr": "Vinícius: 'Önemli' Yamal taciz konusunda konuşuyor",
+      "summary_tr": "Real Madrid'in forveti Vinícius Júnior, Barcelona'nın yıldızı Lamine Yamal'ı son maçtaki Müslüman karşıtı tezahüratları açıkça kınadığı için övdü ve oyuncuların ayrımcılığa karşı mücadelede birlikte hareket etmesi gerektiğini söyledi."
+    },
+    {
+      "title": "Martínez, Patrick Dorgu set for Man Utd return",
+      "summary": "Manchester United head coach Michael Carrick has been handed a boost with Lisandro Martínez and Patrick Dorgu both named in the travelling squad for a training camp in Ireland this week.",
+      "url": "https://www.espn.com/soccer/story/_/id/48412453/man-united-lisandro-martinez-patrick-dorgu-set-injury-return",
+      "image_url": null,
+      "published": "2026-04-07T08:57:53",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.943790",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-07T08:09:11.786027",
+      "title_tr": "Martínez ve Patrick Dorgu Man Utd'a dönüyor",
+      "summary_tr": "Manchester United baş antrenörü Michael Carrick'e, bu hafta İrlanda'da yapılacak bir antrenman kampı için gezici kadroda yer alan Lisandro Martínez ve Patrick Dorgu'nun desteği verildi."
+    },
+    {
+      "title": "Another heavy defeat for Liverpool could spell the end for Slot as manager",
+      "summary": "Wednesday's Champions League clash with PSG already felt significant. Now, after a heavy loss in the FA Cup, it could decide Arne Slot's future at Liverpool.",
+      "url": "https://www.espn.com/soccer/story/_/id/48412722/liverpool-arne-slot-manager-future-firing-fa-cup-champions-league-paris-saint-germain",
+      "image_url": null,
+      "published": "2026-04-07T08:52:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.944307",
+      "priority_score": 55,
+      "categories": [
+        "champions_league"
+      ],
+      "processed_at": "2026-04-07T08:09:11.789897",
+      "title_tr": "Liverpool'un bir başka ağır yenilgisi Slot'un teknik direktörlüğünün sonu anlamına gelebilir",
+      "summary_tr": "Çarşamba günkü Şampiyonlar Ligi'nde PSG ile yaşanan karşılaşma şimdiden önemli hissettirdi. FA Cup'taki ağır yenilginin ardından artık Arne Slot'un Liverpool'daki geleceği belirlenebilir."
+    },
+    {
+      "title": "Arsenal need Mikel Arteta to step up now to avoid disaster again",
+      "summary": "The fear of failure has become unavoidable, especially after three successive runners-up finishes in the Premier League, but Mikel Arteta holds Arsenal's fate in his hands.",
+      "url": "https://www.espn.com/soccer/story/_/id/48410592/arsenal-need-mikel-arteta-step-now-avoid-disaster-premier-league-champions-league",
+      "image_url": null,
+      "published": "2026-04-07T08:53:31",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T08:05:22.944677",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-07T08:09:11.793138",
+      "title_tr": "Arsenal'in yeniden felaketi önlemek için Mikel Arteta'nın harekete geçmesi gerekiyor",
+      "summary_tr": "Başarısızlık korkusu, özellikle de Premier Lig'de art arda üç kez ikinci olduktan sonra kaçınılmaz hale geldi; ancak Mikel Arteta, Arsenal'in kaderini elinde tutuyor."
     },
     {
       "title": "Arteta calls for perspective as Arsenal look to avoid slump",
@@ -365,256 +600,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T06:13:11.450405",
+      "fetched_at": "2026-04-07T08:05:29.400418",
       "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T06:16:53.147961",
+      "processed_at": "2026-04-07T08:09:11.808249",
       "title_tr": "Arsenal çöküşten kaçınmaya çalışırken Arteta perspektif istiyor",
-      "summary_tr": "Arsenal patronu Mikel Arteta, Şampiyonlar Ligi çeyrek finalinde Sporting'le karşılaşacakları maçta arka arkaya alınan yenilgilerin acısını kendi takımına aktarmak istiyor."
-    },
-    {
-      "title": "Galatasaray'ın listesindeki isim için dev takas formülü! Yıldız isimler takımdan ayrılabilir",
-      "summary": "Son dakika Galatasaray transfer haberleri: Galatasaray'ın gelecek sezon kadrosuna katmak istediği isim için dikkat çeken transfer gelişmeleri gündeme gelmeye devam ediyor. Yıldız orta saha oyuncusu için...Devamı için tıklayınız",
-      "url": "https://www.aspor.com.tr/galatasaray/2026/04/06/galatasarayin-listesindeki-isim-icin-dev-takas-formulu-yildiz-isimler-takimdan-ayrilabilir",
-      "image_url": "https://iaftm.tmgrup.com.tr/364d12/1200/675/0/73/2048/1225?u=https://iftm.tmgrup.com.tr/2026/04/06/galatasarayin-listesindeki-isim-icin-dev-takas-formulu-yildiz-isimler-takimdan-ayrilabilir-1775459273713.jpg",
-      "published": "2026-04-07T03:50:47",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:50.466434",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-07T06:16:53.876788",
-      "title_tr": "Galatasaray'ın listesindeki isim için dev takas formülü! Yıldız isimler takımdan ayrılabilir",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Galatasaray'ın gelecek sezon kadrosuna katmak istediği isim için dikkat çeken transfer gelişmeleri gündeme gelmeye devam ediyor. Yıldız orta saha oyuncusu için...Devamı için tıklayınız"
-    },
-    {
-      "title": "Sacha Boey yerine İngiltere'den oyuncu geliyor! Yıldız isim takımdan ayrılıyor",
-      "summary": "Son dakika Galatasaray haberleri: Geçtiğimiz ara transfer döneminde Bayern Münih'ten Galatasaray'a kiralanan Sacha Boey hakkında sıcak gelişmeler yaşanıyor. Bayern yönetimi, Boey yerine Chelsea forması...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/06/sacha-boey-yerine-ingiltereden-oyuncu-geliyor-yildiz-isim-takimdan-ayriliyor",
-      "image_url": "https://iaftm.tmgrup.com.tr/520fdc/1200/675/0/40/2048/1192?u=https://iftm.tmgrup.com.tr/2026/04/06/sacha-boey-yerine-transfer-geliyor-yildiz-isimle-yollar-ayriliyor-1775473950244.jpg",
-      "published": "2026-04-07T03:50:47",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:50.467031",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-07T06:16:53.925772",
-      "title_tr": "Sacha Boey yerine İngiltere'den oyuncu geliyor! Yıldız isim takımdan ayrılıyor",
-      "summary_tr": "Son dakika Galatasaray haberleri: Geçtiğimiz ara transfer döneminde Bayern Münih'ten Galatasaray'a kiralanan Sacha Boey hakkında sıcak gelişmeler yaşanıyor. Bayern yönetimi, Boey yerine Chelsea forması...Devamı için tıklayınız"
-    },
-    {
-      "title": "Selçuk İnan'dan G.Saray maçı sözleri!",
-      "summary": "Trendyol Süper Lig'in 28. haftasında RAMS Başakşehir ile 0-0 berabere kalan Kocaelispor'da teknik direktör Selçuk İnan, aldıkları bir puanın önemli olduğunu söyledi. 41 yaşındaki çalıştırıcı, önümüzdeki hafta oynanacak Galatasaray maçıyla ilgili de konuştu.",
-      "url": "https://www.haberturk.com/selcuk-inan-dan-galatasaray-maci-sozleri-3875294-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/07/ver1775509561/3875294/jpg/1280x1280",
-      "published": "2026-04-06T21:06:59",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:03.628225",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-07T06:16:53.356107",
-      "title_tr": "Selçuk İnan'dan G.Saray maçı sözleri!",
-      "summary_tr": "Trendyol Süper Lig'in 28. haftasında RAMS Başakşehir ile 0-0 berabere kalan Kocaelispor'da teknik direktör Selçuk İnan, aldıkları bir puanın önemli olduğunu söyledi. 41 yaşındaki çalıştırıcı, önümüzdeki hafta oynanacak Galatasaray maçıyla ilgili de konuştu."
-    },
-    {
-      "title": "Juventus ilk yarıda fişi çekti!",
-      "summary": "İtalya Serie A'nın 31. haftasında Juventus sahasında Genoa'yı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve 3 puanı hanesine yazdırdı.",
-      "url": "https://www.haberturk.com/juventus-2-genoa-0-mac-sonucu-3875269-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/06/ver1775499035/3875269/jpg/1280x1280",
-      "published": "2026-04-06T18:11:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:03.628384",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-07T06:16:53.365391",
-      "title_tr": "Juventus ilk yarıda fişi çekti!",
-      "summary_tr": "İtalya Serie A'nın 31. haftasında Juventus sahasında Genoa'yı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve 3 puanı hanesine yazdırdı."
-    },
-    {
-      "title": "VI Live: PSV-fans huldigen vandaag de kampioenen",
-      "summary": "PSV is landskampioen. De vroegste ooit in Nederland. Door de averij van Feyenoord op bezoek bij FC Volendam kan PSV dit Eredivisie-seizoen niet meer ingehaald worden. In deze VI Live volgen we de laatste ontwikkelingen rond het Brabantse kampioensfeest.",
-      "url": "https://www.vi.nl/nieuws/vi-live-psv-is-de-vroegste-kampioen-ooit-in-nederland",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/03/22/4555b8bf1a0a317d1c616be00745168d722832e7.png?width=1200",
-      "published": "2026-04-07T06:15:40",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:16:48.843931",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-07T06:16:54.181718",
-      "title_tr": "VI Live: PSV taraftarları bugün şampiyonları onurlandırdı",
-      "summary_tr": "PSV ulusal şampiyon. Hollanda'da şimdiye kadarki en erken. Feyenoord'un FC Volendam'a verdiği hasar nedeniyle PSV artık bu Eredivisie sezonunu yakalayamayacak. Bu VI Live'da Brabant şampiyonluk kutlamalarıyla ilgili en son gelişmeleri takip ediyoruz."
-    },
-    {
-      "title": "Braziliaanse media weten wel wie de nieuwe coach van Memphis wordt",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/braziliaanse-media-weten-wel-wie-de-nieuwe-coach-van-memphis-wordt",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-04-06T20:53:23",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:16:48.844974",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-07T06:16:54.419797",
-      "title_tr": "Brezilya medyası Memphis'in yeni teknik direktörünün kim olacağını biliyor",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "McIlroy's Masters dinner: What is on the menu, who attends and who pays?!",
-      "summary": "Rory McIlroy previously called adding to his major tally the \"final piece of the puzzle\", with that win now allowing him to sit at the head of a special golfing dinner table ahead of his Masters title defence.",
-      "url": "https://www.skysports.com/golf/news/12040/13528211/the-masters-8211-champions-dinner-explained-rory-mcilroys-menu-who-sits-where-who-is-invited-and-who-pays",
-      "image_url": "https://e0.365dm.com/25/04/1920x1080/skysports-rory-mcilroy-the-masters_6886000.jpg?20250414023613",
-      "published": "2026-04-07T06:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:23.640163",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-07T06:16:53.184339",
-      "title_tr": "McIlroy'un Masters yemeği: Menüde ne var, kim katılıyor ve kim ödüyor?!",
-      "summary_tr": "Rory McIlroy daha önce büyük çetelesine \"bulmacanın son parçasını\" ekleme çağrısında bulunmuştu ve bu galibiyet artık ona Masters şampiyonluk savunmasının önünde özel bir golf yemeği masasının başına oturma olanağı tanımıştı."
-    },
-    {
-      "title": "Türkiye'yi ikiye bölen penaltı!",
-      "summary": "Fenerbahçe-Beşiktaş maçı geride kaldı ancak son dakikadaki hakem kararının tartışması sürüyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/turkiyeyi-ikiye-bolen-penalti-43145161",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d48959ee4afb2ce83f7acc.jpg",
-      "published": "2026-04-07T04:00:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:16.755935",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-07T06:16:53.458077",
-      "title_tr": "Türkiye'yi ikiye bölen penaltı!",
-      "summary_tr": "Fenerbahçe-Beşiktaş maçı geride kaldı ancak son dakikadaki hakem kararının tartışması sürüyor."
-    },
-    {
-      "title": "Juventus, Genoa engelini 2 golle aştı! Kenan Yıldız...",
-      "summary": "Juventus, Serie A'nın 31. haftasında Genoa'yı 2-0 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/juventus-genoa-engelini-2-golle-asti-kenan-yildiz-43145213",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d40ea3fd0cf081c7fd1c7a.jpg",
-      "published": "2026-04-06T19:51:06",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:15:16.756385",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-07T06:16:53.503572",
-      "title_tr": "Juventus, Genoa engelini 2 golle aştı! Kenan Yıldız...",
-      "summary_tr": "Juventus, Serie A'nın 31. haftasında Genoa'yı 2-0 mağlup etti."
-    },
-    {
-      "title": "With Messi goal, Inter Miami finally find home",
-      "summary": "For months, Inter Miami advertised Nu Stadium with one message: \"We're coming home.'\" And they made good.",
-      "url": "https://www.espn.com/soccer/story/_/id/48402571/lionel-messi-goal-inter-miami-david-beckham-opens-new-stadium-dream-moment",
-      "image_url": null,
-      "published": "2026-04-06T21:38:53",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.696963",
-      "priority_score": 50,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-04-07T06:16:53.134560",
-      "title_tr": "Inter Miami, Messi'nin golüyle nihayet evine kavuştu",
-      "summary_tr": "Inter Miami aylarca Nu Stadyumu'nun reklamını tek bir mesajla yaptı: \"Eve dönüyoruz.\" Ve başarılı oldular."
-    },
-    {
-      "title": "Lincoln City back in Championship after 65 years",
-      "summary": "Lincoln clinched promotion to the Sky Bet Championship for the first time since 1961 thanks to a hard-earned 2-1 victory at League One play-off chasers Reading.",
-      "url": "https://www.espn.com/soccer/story/_/id/48413024/lincoln-city-promoted-championship-65-year-absence",
-      "image_url": null,
-      "published": "2026-04-07T00:06:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.698181",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-07T06:16:53.137428",
-      "title_tr": "Lincoln City 65 yıl sonra şampiyonluğa geri döndü",
-      "summary_tr": "Lincoln, League One play-off'larını kovalayan Reading'de zorlukla kazanılan 2-1'lik zafer sayesinde 1961'den bu yana ilk kez Sky Bet Şampiyonası'na yükselmeyi garantiledi."
-    },
-    {
-      "title": "Barcelona close in on LaLiga with win vs. Atlético, Man City thrash Liverpool, more",
-      "summary": "Barcelona took a huge step toward winning LaLiga with a victory over Atlético, while Man City caused Liverpool more pain with an FA Cup rout for the ages. Gab Marcotti recaps the weekend.",
-      "url": "https://www.espn.com/soccer/story/_/id/48410510/barcelona-atletico-madrid-laliga-liverpool-manchester-city-fa-cup-analysis-reaction-gab-marcotti",
-      "image_url": null,
-      "published": "2026-04-06T20:31:13",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T06:13:04.699058",
-      "priority_score": 50,
-      "categories": [
-        "injuries",
-        "la_liga"
-      ],
-      "processed_at": "2026-04-07T06:16:53.142917",
-      "title_tr": "Barcelona LaLiga'ya Atlético karşısında galibiyetle yaklaştı, Man City Liverpool'u mağlup etti ve daha fazlası",
-      "summary_tr": "Barcelona, ​​Atlético'yu yenerek LaLiga'yı kazanma yolunda büyük bir adım atarken, Manchester City ise FA Cup'ta uzun süredir yaşadığı yenilgiyle Liverpool'a daha fazla acı yaşattı. Gab Marcotti hafta sonunu özetliyor."
+      "summary_tr": "Arsenal patronu Mikel Arteta, Şampiyonlar Ligi çeyrek finalinde Sporting'le karşılaşacakları maçta arka arkaya alınan yenilgilerin acısını kendi takımının kanalize etmesini istiyor."
     }
   ]
 }
