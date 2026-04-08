@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T22:34:08.640648",
+  "timestamp": "2026-04-07T23:34:09.783630",
   "total_items": 30,
   "news": [
     {
@@ -12,18 +12,18 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:42.547036",
+      "fetched_at": "2026-04-07T23:29:15.770371",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.792394",
+      "processed_at": "2026-04-07T23:32:49.903925",
       "title_tr": "Maguire'ın yeni anlaşması Carrick yönetimindeki canlanmanın altını çiziyor",
       "summary_tr": "Eski kaptan Harry Maguire, Manchester United ile bir yıllık yeni sözleşme imzaladı."
     },
     {
-      "title": "Bayern Munich take control of UEFA Champions Leaue tie with impressive victory at Real Madrid",
+      "title": "Bayern Munich take control of UEFA Champions League tie with impressive victory at Real Madrid",
       "summary": "Bayern Munich claimed a crucial 2-1 victory against Real Madrid at Santiago Bernabeu in their UEFA Champions League quarter-final first leg, with goals from Luis Díaz and Harry Kane giving the defending Bundesliga champions a deserved advantage in the tie.",
       "url": "https://www.bundesliga.com/en/bundesliga/news/real-madrid-1-2-bayern-munich-champions-league-match-report-kane-diaz-36792",
       "image_url": null,
@@ -32,7 +32,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-07T22:29:43.717580",
+      "fetched_at": "2026-04-07T23:30:13.025530",
       "priority_score": 100,
       "categories": [
         "match_results",
@@ -41,21 +41,21 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.962413",
-      "title_tr": "Bayern Münih, Real Madrid'e karşı etkileyici bir galibiyetle UEFA Şampiyonlar Ligi'ndeki beraberliğin kontrolünü ele geçirdi",
+      "processed_at": "2026-04-07T23:32:50.071790",
+      "title_tr": "Bayern Münih, Real Madrid karşısında etkileyici bir galibiyetle UEFA Şampiyonlar Ligi beraberliğinin kontrolünü ele geçirdi",
       "summary_tr": "Bayern Münih, UEFA Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid'e karşı Santiago Bernabeu'da 2-1'lik önemli bir galibiyet alırken, Luis Díaz ve Harry Kane'in golleri Bundesliga şampiyonuna beraberlikte hak ettiği avantajı sağladı."
     },
     {
-      "title": "Havertz rescues Arsenal in 1st-leg win vs. Sporting",
-      "summary": "Kai Havertz scored a stoppage-time winner to fire Arsenal to a crucial 1-0 victory against Sporting in the first leg of their Champions League quarterfinal in Lisbon.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401862888",
+      "title": "Havertz says Arsenal are ready to 'win big titles'",
+      "summary": "Kai Havertz scored in stoppage time to give Arsenal a 1-0 win in the first leg of its Champions League quarterfinal against Sporting Lisbon on Tuesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48423396/kai-havertz-arsenal-ready-win-big-titles",
       "image_url": null,
-      "published": "2026-04-07T23:20:49",
+      "published": "2026-04-08T00:13:38",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.280351",
+      "fetched_at": "2026-04-07T23:29:08.329017",
       "priority_score": 95,
       "categories": [
         "match_results",
@@ -63,9 +63,29 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.753172",
-      "title_tr": "Havertz, Sporting'e karşı ilk maçın galibiyetinde Arsenal'i kurtardı",
-      "summary_tr": "Kai Havertz, uzatma dakikalarında attığı golle Arsenal'i Lizbon'da oynanan Şampiyonlar Ligi çeyrek finalinin ilk ayağında Sporting'e karşı 1-0'lık önemli bir galibiyete taşıdı."
+      "processed_at": "2026-04-07T23:32:49.857638",
+      "title_tr": "Havertz, Arsenal'in 'büyük şampiyonluklar kazanmaya' hazır olduğunu söyledi",
+      "summary_tr": "Kai Havertz, Salı günü Sporting Lizbon'a karşı Şampiyonlar Ligi çeyrek final ilk ayağında Arsenal'e uzatma dakikasında attığı golle 1-0 galibiyet verdi."
+    },
+    {
+      "title": "Alexander-Arnold fails to ease Tuchel concerns as Kane stars",
+      "summary": "Thomas Tuchel's doubts about Trent Alexander-Arnold and reliance on Harry Kane are confirmed on the England manager's Madrid mission.",
+      "url": "https://www.bbc.com/sport/football/articles/cp38dlkl7eko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-07T23:04:06",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:15.768795",
+      "priority_score": 95,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-07T23:32:49.874043",
+      "title_tr": "Alexander-Arnold, Kane'in yıldız olmasıyla Tuchel'in endişelerini gideremedi",
+      "summary_tr": "Thomas Tuchel'in Trent Alexander-Arnold hakkındaki şüpheleri ve Harry Kane'e olan güveni İngiltere menajerinin Madrid misyonuyla doğrulandı."
     },
     {
       "title": "Havertz's late goal clinches Arsenal win over Sporting",
@@ -77,62 +97,39 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:56.216031",
-      "priority_score": 91,
+      "fetched_at": "2026-04-07T23:29:27.642136",
+      "priority_score": 81,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.807510",
+      "processed_at": "2026-04-07T23:32:49.916988",
       "title_tr": "Havertz'in son golü Arsenal'in Sporting karşısında galibiyetini perçinledi",
       "summary_tr": "Arsenal, Lizbon'da oynanan Şampiyonlar Ligi çeyrek final ilk ayağında Sporting'i 1-0 yenerken, Kai Havertz yedek kulübesinden çıktı ve 91. dakikada galibiyet golünü attı."
     },
     {
-      "title": "Kane earns Bayern Munich victory over Real Madrid in thrilling first leg",
-      "summary": "Harry Kane earned Bayern Munich a priceless 2-1 victory over Real Madrid in the first leg of their Champions League quarter-final at the Santiago Bernabeu Stadium.",
-      "url": "https://www.skysports.com/football/real-madrid-vs-bayern-munich/report/554939",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-harry-kane-bayern-munich_7213586.jpg?20260407211137",
-      "published": "2026-04-07T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:28:56.216100",
-      "priority_score": 86,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-07T22:32:22.811929",
-      "title_tr": "Kane, heyecanlı ilk maçta Bayern Münih'i Real Madrid'e karşı kazandı",
-      "summary_tr": "Harry Kane, Bayern Münih'e, Santiago Bernabeu Stadı'nda oynanan Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid'i 2-1 yenerek paha biçilemez bir galibiyet kazandırdı."
-    },
-    {
-      "title": "Champions League recap: Bayern defeat Madrid, Havertz late winner for Arsenal",
-      "summary": "Bayern Munich took a 2-1 lead against Real Madrid, while Sporting CP and Arsenal failed to score on the first day of UEFA Champions League quarterfinals action.",
-      "url": "https://www.espn.com/soccer/story/_/id/48413142/uefa-champions-league-live-updates-real-madrid-bayern-munich-sporting-cp-arsenal",
+      "title": "Real Madrid say they can beat Bayern Munich after poor Champions League first leg. Are they right?",
+      "summary": "Lacking Bernabéu magic, Real Madrid can tee up a more spectacular comeback in Munich in the Champions League -- they've done it before.",
+      "url": "https://www.espn.com/soccer/story/_/id/48423353/real-madrid-say-overcome-bayern-munich-poor-first-leg-right",
       "image_url": null,
-      "published": "2026-04-07T23:20:26",
+      "published": "2026-04-07T23:27:47",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.279612",
+      "fetched_at": "2026-04-07T23:29:08.328574",
       "priority_score": 80,
       "categories": [
         "breaking_news",
-        "premier_league",
         "la_liga",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.752315",
-      "title_tr": "Şampiyonlar Ligi özeti: Bayern Madrid'i yendi, Havertz Arsenal'in geç galibi",
-      "summary_tr": "Bayern Münih, Real Madrid'i 2-1 öne geçirirken, Sporting CP ve Arsenal, UEFA Şampiyonlar Ligi çeyrek final karşılaşmasının ilk gününde gol atamadı."
+      "processed_at": "2026-04-07T23:32:49.856989",
+      "title_tr": "Real Madrid, Şampiyonlar Ligi'ndeki kötü ilk maçın ardından Bayern Münih'i yenebileceklerini söyledi. Haklılar mı?",
+      "summary_tr": "Bernabéu'nun büyüsüne sahip olmayan Real Madrid, Münih'te Şampiyonlar Ligi'nde daha muhteşem bir geri dönüş yapabilir; bunu daha önce de yaptılar."
     },
     {
       "title": "Arne Slot backs his Liverpool side to go ‘toe-to-toe’ with PSG in Champions League",
@@ -144,7 +141,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.720867",
+      "fetched_at": "2026-04-07T23:29:48.325050",
       "priority_score": 78,
       "categories": [
         "breaking_news",
@@ -152,9 +149,30 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.904026",
+      "processed_at": "2026-04-07T23:32:50.013391",
       "title_tr": "Arne Slot, Şampiyonlar Ligi'nde PSG ile başa baş mücadele etmek için Liverpool ekibini destekliyor",
       "summary_tr": "Wirtz, Liverpool'un Manchester City mağlubiyetinden 'vazgeçtiğini' yalanladıIsak, sakatlıktan dört ay sonra yedek kulübesinden dönebilirArne Slot, Liverpool'un Çarşamba akşamı Şampiyonlar Ligi çeyrek final ilk maçında Paris Saint-Germain'e karşı oyundan çıkması halinde bir başka belirgin yenilgiye uğrayacağı konusunda uyardı"
+    },
+    {
+      "title": "Is 'underestimated' Raya the best goalkeeper in the world?",
+      "summary": "Kai Havertz declared David Raya the best goalkeeper in the world after his saves helped Arsenal secure a 1-0 win over Sporting in their Champions League quarter-final first leg in Lisbon.",
+      "url": "https://www.skysports.com/football/news/12040/13529110/david-raya-is-the-best-goalkeeper-in-the-world-says-arsenal-team-mate-kai-havertz-after-sporting-heroics",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-david-raya-arsenal_7213705.jpg?20260407233556",
+      "published": "2026-04-07T22:55:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:27.642019",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-07T23:32:49.913411",
+      "title_tr": "'Hafif görülen' Raya dünyadaki en iyi kaleci mi?",
+      "summary_tr": "Kai Havertz, Arsenal'in Lizbon'da oynanan Şampiyonlar Ligi çeyrek final ilk maçında Sporting'i 1-0 yenmesini sağlayan kurtarışlarının ardından David Raya'yı dünyanın en iyi kalecisi ilan etti."
     },
     {
       "title": "Manchester United, Harry Maguire'la yeni sözleşme imzaladı",
@@ -166,57 +184,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:31:07.408465",
+      "fetched_at": "2026-04-07T23:31:35.636935",
       "priority_score": 76,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-07T22:32:23.510765",
+      "processed_at": "2026-04-07T23:32:50.617397",
       "title_tr": "Manchester United, Harry Maguire'la yeni sözleşme imzaladı",
       "summary_tr": "İngiltere ekibi Manchester United, savunma oyuncusu Harry Maguire'ın sözleşmesini bir yıllığına uzattı."
-    },
-    {
-      "title": "Thousands of England & Scotland World Cup tickets on resale at inflated prices",
-      "summary": "England and Scotland fans hoping to get to ticket to this summer's World Cup finals face paying vastly inflated prices through Fifa's official resale platform.",
-      "url": "https://www.bbc.com/sport/football/articles/c20d5pq6zplo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-07T18:04:15",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:28:42.545627",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-07T22:32:22.772999",
-      "title_tr": "Binlerce İngiltere ve İskoçya Dünya Kupası bileti şişirilmiş fiyatlarla yeniden satışta",
-      "summary_tr": "Bu yaz Dünya Kupası finallerine bilet almayı umut eden İngiltere ve İskoçya taraftarları, Fifa'nın resmi yeniden satış platformu aracılığıyla çok yüksek fiyatlar ödemekle karşı karşıya kalıyor."
-    },
-    {
-      "title": "Kai Havertz snatches late victory for Arsenal to take control against Sporting",
-      "summary": "How Mikel Arteta treasured this win. All the tension that had built up in the Arsenal manager after devastating defeats in the Carabao Cup and FA Cup was suddenly released in the moment that Kai Havertz calmly slotted home from fellow substitute Gabriel Martinelli’s cross in the first minute of inju",
-      "url": "https://www.theguardian.com/football/2026/apr/07/sporting-arsenal-champions-league-quarter-final-first-leg-match-report",
-      "image_url": null,
-      "published": "2026-04-07T21:06:43",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.719183",
-      "priority_score": 83,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-07T22:32:22.876189",
-      "title_tr": "Kai Havertz, Arsenal'in Sporting'e karşı kontrolü ele geçirmesi için geç zaferi yakaladı",
-      "summary_tr": "Mikel Arteta bu galibiyete ne kadar değer verdi? Carabao Kupası ve FA Kupası'ndaki yıkıcı yenilgilerin ardından Arsenal yöneticisinde biriken tüm gerginlik, Kai Havertz'in sakatlığın ilk dakikasında yedek oyuncu Gabriel Martinelli'nin çaprazından sakin bir şekilde topu almasıyla birdenbire ortadan kalktı."
     },
     {
       "title": "Şampiyonlar Ligi'nde 'avantaj' gecesi: Bayern Münih, Real Madrid'i yıktı, ; Arda Güler göz doldurdu! Arsenal son nefeste...",
@@ -228,7 +204,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:30:45.682315",
+      "fetched_at": "2026-04-07T23:31:13.746678",
       "priority_score": 81,
       "categories": [
         "match_results",
@@ -237,21 +213,21 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-07T22:32:23.091233",
+      "processed_at": "2026-04-07T23:32:50.198771",
       "title_tr": "Şampiyonlar Ligi'nde 'avantaj' gecesi: Bayern Münih, Real Madrid'i yıktı, ; Arda Güler göz doldurdu! Arsenal son nefeste...",
       "summary_tr": "UEFA Şampiyonlar Ligi çeyrek finalleri iki dev maçla başladı. Arsenal, Portekiz'de son dakika golüyle avantajı kaparken; Bayern Münih, İspanya'da Real Madrid'i devirmeyi bildi."
     },
     {
-      "title": "Mbappé goal has Madrid 'still alive' against Bayern",
+      "title": "Madrid grateful as Mbappé keeps Bayern tie 'alive'",
       "summary": "Coach Álvaro Arbeloa said Real Madrid's chances of progressing in the Champions League are \"still alive\" after Kylian Mbappé's second-half goal saw Madrid beaten 2-1 by Bayern Munich in their quarterfinal first leg.",
       "url": "https://www.espn.com/soccer/story/_/id/48423458/kylian-mbappe-goal-real-madrid-bayern-munich-champions-league",
       "image_url": null,
-      "published": "2026-04-07T23:20:49",
+      "published": "2026-04-08T00:13:37",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.279915",
+      "fetched_at": "2026-04-07T23:29:08.329236",
       "priority_score": 80,
       "categories": [
         "breaking_news",
@@ -259,8 +235,8 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.752588",
-      "title_tr": "Mbappé'nin golü Madrid'in Bayern karşısında 'hala hayatta' olmasını sağladı",
+      "processed_at": "2026-04-07T23:32:49.858027",
+      "title_tr": "Madrid, Mbappé'nin Bayern Münih'i 'canlı' tutmasına minnettar",
       "summary_tr": "Antrenör Álvaro Arbeloa, Real Madrid'in Şampiyonlar Ligi'nde ilerleme şansının, Kylian Mbappé'nin ikinci yarıda attığı golün ardından Madrid'in çeyrek final ilk maçında Bayern Münih'e 2-1 yenildiğini söyledi."
     },
     {
@@ -273,37 +249,59 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.723190",
+      "fetched_at": "2026-04-07T23:29:48.326981",
       "priority_score": 78,
       "categories": [
         "match_results",
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-04-07T22:32:22.942882",
+      "processed_at": "2026-04-07T23:32:50.054639",
       "title_tr": "Barselona'dan Vicky López: 'Bence bol miktarda neşe, gençlik ve oyunculuk getirdiğimi düşünüyorum'",
       "summary_tr": "Winger, 16 yaşındaki utangaç Barça imzasından rekor kıran bir kahramana (19 yıl, sekiz ay ve 12 günlük) hızlı yükselişini anlatıyor. Vicky López bir tarih yapıcı, rekor kıran ve Barselona kahramanıdır. İspanyol oyuncu, hayallerindeki kulüpte 120'den fazla maça çıktı ve kariyeri boyunca 32 gol attı."
     },
     {
-      "title": "Kane gives Bayern 1st-leg edge at Real Madrid",
-      "summary": "Harry Kane delivered for Bayern Munich on his return from injury, scoring a goal and helping set up another in his team's 2-1 win at Real Madrid.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401862886",
+      "title": "Kane earns Bayern Munich victory over Real Madrid in thrilling first leg",
+      "summary": "Harry Kane earned Bayern Munich a priceless 2-1 victory over Real Madrid in the first leg of their Champions League quarter-final at the Santiago Bernabeu Stadium.",
+      "url": "https://www.skysports.com/football/real-madrid-vs-bayern-munich/report/554939",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-harry-kane-bayern-munich_7213586.jpg?20260407211137",
+      "published": "2026-04-07T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:27.642222",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-07T23:32:49.921469",
+      "title_tr": "Kane, heyecanlı ilk maçta Bayern Münih'i Real Madrid'e karşı kazandı",
+      "summary_tr": "Harry Kane, Bayern Münih'e, Santiago Bernabeu Stadı'nda oynanan Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid'i 2-1 yenerek paha biçilemez bir galibiyet kazandırdı."
+    },
+    {
+      "title": "Thousands of England & Scotland World Cup tickets on resale at inflated prices",
+      "summary": "England and Scotland fans hoping to get to ticket to this summer's World Cup finals face paying vastly inflated prices through Fifa's official resale platform.",
+      "url": "https://www.bbc.com/sport/football/articles/c20d5pq6zplo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-07T23:20:49",
-      "source": "ESPN FC",
+      "published": "2026-04-07T18:04:15",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.280129",
+      "fetched_at": "2026-04-07T23:29:15.769883",
       "priority_score": 75,
       "categories": [
-        "injuries",
-        "la_liga",
-        "bundesliga"
+        "transfers",
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-04-07T22:32:22.752851",
-      "title_tr": "Kane, Bayern'e Real Madrid'de 1. maç avantajı sağlıyor",
-      "summary_tr": "Harry Kane, sakatlıktan döndükten sonra Bayern Münih adına gol attı, takımının Real Madrid'i 2-1 yendiği maçta bir gol attı ve bir gol daha atılmasına yardımcı oldu."
+      "processed_at": "2026-04-07T23:32:49.893961",
+      "title_tr": "Binlerce İngiltere ve İskoçya Dünya Kupası bileti şişirilmiş fiyatlarla yeniden satışta",
+      "summary_tr": "Bu yaz Dünya Kupası finallerine bilet almayı umut eden İngiltere ve İskoçya taraftarları, Fifa'nın resmi yeniden satış platformu aracılığıyla çok yüksek fiyatlar ödemekle karşı karşıya kalıyor."
     },
     {
       "title": "Mircea Lucescu, former Romania football captain and coach, dies aged 80",
@@ -315,13 +313,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.719968",
+      "fetched_at": "2026-04-07T23:29:48.324682",
       "priority_score": 73,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-04-07T22:32:22.889197",
+      "processed_at": "2026-04-07T23:32:50.005726",
       "title_tr": "Romanya'nın eski futbol kaptanı ve teknik direktörü Mircea Lucescu, 80 yaşında hayatını kaybetti",
       "summary_tr": "Bükreş hastanesi, kalp krizinden sonra öldüğünü doğruladı Teknik direktör, takımı Euro 84'e taşıdı ve birden fazla kulüp şampiyonluğu kazandı Oyuncu ve teknik direktör olarak seri kupa kazanan Rumen futbol yıldızı Mircea Lucescu, 80 yaşında hayatını kaybetti. Lucescu'nun ölümü Bükreş üniversitesi acil hastanesi tarafından doğrulandı"
     },
@@ -335,18 +333,38 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.281992",
+      "fetched_at": "2026-04-07T23:29:08.330466",
       "priority_score": 70,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-07T22:32:22.761582",
+      "processed_at": "2026-04-07T23:32:49.866667",
       "title_tr": "Bruno Fernandes 31 yaşında ve Manchester United'ın MVP'si ama sözleşmesini uzatmamalılar",
       "summary_tr": "Bruno Fernandes'in muhteşem sezonu, Manchester United'ın sözleşmesini uzatma kararının açık bir karar olması gerektiği anlamına geliyor, değil mi? Liverpool ve Mo Salah'la işlerin nasıl gittiğine baktığımızda her şeyin o kadar da basit olmadığını görüyoruz."
     },
     {
+      "title": "Arteta admits Arsenal had point to prove after ‘big moment in season’ with win at Sporting",
+      "summary": "Havertz goal offers response after back-to-back defeatsArteta praises ‘extraordinary’ Raya for crucial savesMikel Arteta acknowledged that Arsenal had a point to prove against Sporting after losing their last two matches and believes that Kai Havertz’s late winner could prove to be a “big moment” in",
+      "url": "https://www.theguardian.com/football/2026/apr/07/mikel-arteta-arsenal-sporting-champions-league",
+      "image_url": null,
+      "published": "2026-04-07T22:43:45",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:48.323447",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-07T23:32:49.978646",
+      "title_tr": "Arteta, Arsenal'in Sporting'deki galibiyetle \"sezonun büyük anı\"ndan sonra kanıtlaması gereken bir nokta olduğunu itiraf etti",
+      "summary_tr": "Havertz'in golü, arka arkaya alınan yenilgilerin ardından tepki veriyor Arteta, kritik kurtarışlar için 'olağanüstü' Raya'yı övdü Mikel Arteta, Arsenal'in son iki maçını kaybettikten sonra Sporting'e karşı kanıtlaması gereken bir nokta olduğunu kabul etti ve Kai Havertz'in geç galibinin bu sezonda \"büyük bir an\" olabileceğine inanıyor."
+    },
+    {
       "title": "Harry Kane gives Bayern Munich edge despite Real Madrid fightback in thriller",
-      "summary": "“This is why you guys come to these games,” Vincent Kompany had said, and here especially. For the quality, the chaos, and the goals, the noise, the drama and the history that invades every moment, even when it seems to be finally left behind. Another wild night at the Santiago Bernabéu seemed to ha",
+      "summary": "“This is why you guys come to these games,” Vincent Kompany had said, and especially here. For the quality, the chaos and the goals, the edge, the drama and the history that invades every moment. Another wild Champions League night had this place believing in another crazy comeback, the noise level ",
       "url": "https://www.theguardian.com/football/2026/apr/07/real-madrid-bayern-munich-champions-league-quarter-final-first-leg-match-report",
       "image_url": null,
       "published": "2026-04-07T21:12:18",
@@ -354,36 +372,17 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.719541",
+      "fetched_at": "2026-04-07T23:29:48.323745",
       "priority_score": 68,
       "categories": [
         "match_results",
         "la_liga",
-        "bundesliga"
+        "bundesliga",
+        "champions_league"
       ],
-      "processed_at": "2026-04-07T22:32:22.882907",
+      "processed_at": "2026-04-07T23:32:49.985477",
       "title_tr": "Harry Kane, gerilimde Real Madrid'in mücadelesine rağmen Bayern Münih'e üstünlük sağlıyor",
-      "summary_tr": "Vincent Kompany, \"Sizlerin bu oyunlara gelmenizin nedeni budur\" demişti, özellikle de burada. Nitelik, kaos ve hedefler, gürültü, drama ve her anı istila eden tarih, hatta sonunda geride bırakılmış gibi görünse bile. Santiago Bernabéu'da yine çılgın bir gece daha yaşanacak gibi görünüyordu."
-    },
-    {
-      "title": "Southampton leapfrog Wrexham after thrashing to climb into playoff spots",
-      "summary": "Southampton continued their Championship charge as they thrashed Wrexham 5-1 to replace the Welsh side in the playoff places.Fuelled by their stunning weekend FA Cup quarter-final triumph over Arsenal, Tonda Eckert’s in-form side flew out of the traps at Stōk Cae Ras with early goals from Kuryu Mats",
-      "url": "https://www.theguardian.com/football/2026/apr/07/southampton-thrash-wrexham-to-leapfrog-opponents-and-climb-into-playoff-spots",
-      "image_url": null,
-      "published": "2026-04-07T21:44:33",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:29:20.721211",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-07T22:32:22.911013",
-      "title_tr": "Southampton'ın bir sıçraması olan Wrexham, play-off noktalarına tırmanmak için çabaladıktan sonra",
-      "summary_tr": "Southampton, Wrexham'ı 5-1 mağlup ederek şampiyonluk mücadelesini sürdürdü ve play-off'larda Galler takımının yerine geçti. Hafta sonu FA Cup çeyrek finalinde Arsenal'e karşı aldıkları muhteşem zaferin verdiği güçle Tonda Eckert'in formda takımı, Kuryu Mats'ın erken golleriyle Stōk Cae Ras'taki tuzaklardan kurtuldu."
+      "summary_tr": "Vincent Kompany, \"Sizlerin bu oyunlara gelmenizin nedeni budur\" demişti, özellikle de burada. Kalite, kaos ve hedefler, üstünlük, drama ve her anı istila eden tarih için. Bir başka çılgın Şampiyonlar Ligi gecesi burayı başka bir çılgın geri dönüşe inandırdı, gürültü seviyesi"
     },
     {
       "title": "B.Münih, Madrid'de avantajı kaptı!",
@@ -395,7 +394,7 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:30:31.430122",
+      "fetched_at": "2026-04-07T23:31:00.589949",
       "priority_score": 68,
       "categories": [
         "match_results",
@@ -403,7 +402,7 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-07T22:32:23.010691",
+      "processed_at": "2026-04-07T23:32:50.119345",
       "title_tr": "B.Münih, Madrid'de avantajı kaptı!",
       "summary_tr": "UEFA Şampiyonlar Ligi çeyrek finalindeki dev eşleşmenin ilk maçında Bayern Münih, deplasmanda Real Madrid'i 2-1 yenerek rövanş öncesi avantaj yakaladı. Alman ekibine galibiyeti getiren golleri Luis Diaz ve Harry Kane atarken, İspanyol devinin tek golü Kylian Mbappe'den geldi."
     },
@@ -417,7 +416,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:30:45.683100",
+      "fetched_at": "2026-04-07T23:31:13.747310",
       "priority_score": 66,
       "categories": [
         "transfers",
@@ -425,7 +424,7 @@
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T22:32:23.174223",
+      "processed_at": "2026-04-07T23:32:50.281409",
       "title_tr": "Beşiktaş, Fenerbahçe ve Galatasaray istiyordu: Napoli'den Anguissa için transfer kararı!",
       "summary_tr": "Napoli'nin geçtiğimiz sezon yaşadığı şampiyonlukta önemli katkıları bulunan ancak bu sezon sakatlıklar dolayısıyla uzun süre forma giyemeyen Frank Anguissa için İtalyan kulübünden yeni bir karar çıktı."
     },
@@ -439,13 +438,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:31:07.406448",
+      "fetched_at": "2026-04-07T23:31:35.635352",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T22:32:23.336398",
+      "processed_at": "2026-04-07T23:32:50.443833",
       "title_tr": "SON DAKİKA | Türk futboluna damga vurmuştu! Mircea Lucescu hayatını kaybetti",
       "summary_tr": "Son dakika haberi... A Milli Futbol Takımı, Galatasaray ve Beşiktaş'ın teknik direktörlük görevlerini üstlenen Mircea Lucescu 80 yaşında hayatını kaybetti."
     },
@@ -454,42 +453,21 @@
       "summary": "United States international Patrick Agyemang will miss his home World Cup after suffering a serious Achilles tendon injury.",
       "url": "https://www.espn.com/soccer/story/_/id/48419832/usa-patrick-agyemang-world-cup-achilles-tendon-injury",
       "image_url": null,
-      "published": "2026-04-07T23:20:49",
+      "published": "2026-04-08T00:13:37",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.280916",
+      "fetched_at": "2026-04-07T23:29:08.329808",
       "priority_score": 65,
       "categories": [
         "injuries",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-07T22:32:22.754686",
+      "processed_at": "2026-04-07T23:32:49.860288",
       "title_tr": "USMNT'den Agyemang (Aşil tendonu) WC'den çıktı",
       "summary_tr": "ABD'li milli takım oyuncusu Patrick Agyemang, ciddi bir Aşil tendonu sakatlığı geçirdikten sonra evindeki Dünya Kupası'nı kaçıracak."
-    },
-    {
-      "title": "Transfer rumors, news: Inter's Bastoni wants Barcelona move",
-      "summary": "Inter defender Alessandro Bastoni is reportedly eyeing a move to Barcelona. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48418004/transfer-rumors-news-manchester-united-liverpool-fight-monaco-forward-maghnes-akliouche",
-      "image_url": null,
-      "published": "2026-04-07T17:24:39",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.282154",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-07T22:32:22.763237",
-      "title_tr": "Transfer söylentileri, haberler: Inter'den Bastoni, Barcelona'nın transferini istiyor",
-      "summary_tr": "Inter'in defans oyuncusu Alessandro Bastoni'nin Barcelona'ya transfer olduğu bildiriliyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "MİRCEA LUCESCU ÖLDÜ MÜ, NEDEN ÖLDÜ? Mircea Lucescu kimdir, kaç yaşındaydı?",
@@ -501,15 +479,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:31:07.406255",
+      "fetched_at": "2026-04-07T23:31:35.635126",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "injuries"
       ],
-      "processed_at": "2026-04-07T22:32:23.322174",
+      "processed_at": "2026-04-07T23:32:50.429998",
       "title_tr": "MİRCEA LUCESCU ÖLDÜ MÜ, NEDEN ÖLDÜ? Mircea Lucescu kimdir, kaç yaşındaydı?",
       "summary_tr": "Rumen teknik direktör Mircea Lucescu bir süre önce kalp krizi geçirmiş ve hastaneye kaldırılmıştı. 80 yaşındaki futbol adamı Mircea Lucescu bir süredir tedavi görüyordu. Ancak son dakika bilgisine göre Mircea Lucescu'nun hayatını kaybettiği açıklandı. Futbol camiasını üzüntüye boğan haberin ardından"
+    },
+    {
+      "title": "Transfer rumors, news: Inter's Bastoni wants Barcelona move",
+      "summary": "Inter defender Alessandro Bastoni is reportedly eyeing a move to Barcelona. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48418004/transfer-rumors-news-manchester-united-liverpool-fight-monaco-forward-maghnes-akliouche",
+      "image_url": null,
+      "published": "2026-04-07T17:24:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:08.330585",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-07T23:32:49.868343",
+      "title_tr": "Transfer söylentileri, haberler: Inter'den Bastoni, Barcelona'nın transferini istiyor",
+      "summary_tr": "Inter'in defans oyuncusu Alessandro Bastoni'nin Barcelona'ya transfer olduğu bildiriliyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "Barry gets first England call-up as Godfrey injured",
@@ -521,16 +520,36 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-07T22:28:42.547205",
+      "fetched_at": "2026-04-07T23:29:15.770495",
       "priority_score": 60,
       "categories": [
         "breaking_news",
         "injuries",
         "world_cup"
       ],
-      "processed_at": "2026-04-07T22:32:22.795164",
+      "processed_at": "2026-04-07T23:32:49.906852",
       "title_tr": "Godfrey sakatlanınca Barry İngiltere'ye ilk çağrıldı",
       "summary_tr": "Bay FC forveti Keira Barry, İspanya ve İzlanda'ya karşı oynanacak Kadınlar Dünya Kupası elemeleri için İngiltere kadrosuna ilk çağrısını aldı."
+    },
+    {
+      "title": "Southampton leapfrog Wrexham after thrashing to climb into playoff spots",
+      "summary": "Southampton continued their Championship charge as they thrashed Wrexham 5-1 to replace the Welsh side in the playoff places.Fuelled by their stunning weekend FA Cup quarter-final triumph over Arsenal, Tonda Eckert’s in-form side flew out of the traps at Stōk Cae Ras with early goals from Kuryu Mats",
+      "url": "https://www.theguardian.com/football/2026/apr/07/southampton-thrash-wrexham-to-leapfrog-opponents-and-climb-into-playoff-spots",
+      "image_url": null,
+      "published": "2026-04-07T21:44:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:48.324379",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-07T23:32:49.998977",
+      "title_tr": "Southampton'ın bir sıçraması olan Wrexham, play-off noktalarına tırmanmak için çabaladıktan sonra",
+      "summary_tr": "Southampton, Wrexham'ı 5-1 mağlup ederek şampiyonluk mücadelesini sürdürdü ve play-off'larda Galler takımının yerine geçti. Hafta sonu FA Cup çeyrek finalinde Arsenal'e karşı aldıkları muhteşem zaferin verdiği güçle Tonda Eckert'in formda takımı, Kuryu Mats'ın erken golleriyle Stōk Cae Ras'taki tuzaklardan kurtuldu."
     },
     {
       "title": "Mircea Lucescu hayatını kaybetti!",
@@ -542,15 +561,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:30:31.430270",
+      "fetched_at": "2026-04-07T23:31:00.590084",
       "priority_score": 58,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T22:32:23.020327",
+      "processed_at": "2026-04-07T23:32:50.128794",
       "title_tr": "Mircea Lucescu hayatını kaybetti!",
       "summary_tr": "Galatasaray'a 3. yıldızı kazandıran, Beşiktaş'la 100. yılında şampiyonluğa imza atan, Shakhtar Donetsk ile Kadıköy'de Avrupa Ligi kupasını kaldıran ve bir dönem A Milli Takımımız'ı da çalıştıran Rumen teknik direktör Mircea Lucescu, 80 yaşında hayatını kaybetti."
+    },
+    {
+      "title": "Papers: Man City believe they have won race to sign Man Utd target Anderson",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13529120/elliot-anderson-man-city-believe-they-have-won-race-to-sign-england-midfielder-paper-talk-and-football-transfer-gossip",
+      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published": "2026-04-07T23:41:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-07T23:29:27.642479",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-07T23:32:49.949127",
+      "title_tr": "Makaleler: Manchester City, Anderson'ı hedef alan Man Utd ile sözleşme imzalama yarışını kazandıklarına inanıyor",
+      "summary_tr": "Çarşamba günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
       "title": "Galatasaraylı Singo'ya talip var! Transfer listesine girdi",
@@ -562,13 +600,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:30:45.683725",
+      "fetched_at": "2026-04-07T23:31:13.747895",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T22:32:23.213477",
+      "processed_at": "2026-04-07T23:32:50.321526",
       "title_tr": "Galatasaraylı Singo'ya talip var! Transfer listesine girdi",
       "summary_tr": "Galatasaray'ın başarılı savunma oyuncusu Wilfried Singo, İtalyan devinin transfer hedefleri arasına girdi."
     },
@@ -582,54 +620,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-07T22:31:07.407966",
+      "fetched_at": "2026-04-07T23:31:35.636554",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-04-07T22:32:23.474328",
+      "processed_at": "2026-04-07T23:32:50.581321",
       "title_tr": "Galatasaray'a geri dönen Sacha Boey için sürpriz iddia",
       "summary_tr": "Galatasaray’ın ara transfer döneminde Bayern Münih’ten kiraladığı Sacha Boey’in geleceğiyle ilgili dikkat çekici bir gelişme yaşanıyor."
-    },
-    {
-      "title": "Wirtz says VVD wrong about Liverpool giving up",
-      "summary": "Florian Wirtz has rejected claims by Liverpool captain Virgil van Dijk that the team gave up during Saturday's 4-0 FA Cup defeat against Manchester City.",
-      "url": "https://www.espn.com/soccer/story/_/id/48422065/wirtz-says-vvd-wrong-liverpool-giving-city",
-      "image_url": null,
-      "published": "2026-04-07T23:20:49",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.280721",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-07T22:32:22.754144",
-      "title_tr": "Wirtz, Liverpool'un vazgeçmesi konusunda VVD'nin yanıldığını söyledi",
-      "summary_tr": "Florian Wirtz, Liverpool kaptanı Virgil van Dijk'in, takımın Cumartesi günü Manchester City'ye karşı 4-0 FA Cup yenilgisi sırasında vazgeçtiği yönündeki iddialarını reddetti."
-    },
-    {
-      "title": "Refs' body: VAR wrong to overturn Barça red card",
-      "summary": "The refereeing committee in Spain (CTA) has ruled that Barcelona defender Gerard Martín should have been sent off in Saturday's 2-1 LaLiga win over Atlético Madrid.",
-      "url": "https://www.espn.com/soccer/story/_/id/48421704/var-mistake-made-barcelona-gerard-martin-yellow-spain-officials",
-      "image_url": null,
-      "published": "2026-04-07T23:20:49",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-07T22:28:35.281269",
-      "priority_score": 55,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-04-07T22:32:22.756194",
-      "title_tr": "Hakemlerin gövdesi: VAR, Barça'nın kırmızı kartını bozma konusunda hatalı",
-      "summary_tr": "İspanya'daki hakem komitesi (CTA), LaLiga'nın Cumartesi günü Atlético Madrid'i 2-1 yendiği maçta Barcelona defans oyuncusu Gerard Martín'in kırmızı kartla cezalandırılması gerektiğine karar verdi."
     }
   ]
 }
