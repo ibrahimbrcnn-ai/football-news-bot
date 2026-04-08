@@ -1,47 +1,68 @@
 {
-  "timestamp": "2026-04-08T20:38:31.164589",
+  "timestamp": "2026-04-08T21:39:23.675225",
   "total_items": 30,
   "news": [
     {
-      "title": "Dortmund 'analyzing' move for Man Utd's Sancho",
-      "summary": "Borussia Dortmund have confirmed they are interested in re-signing Manchester United's Jadon Sancho for a third spell.",
-      "url": "https://www.espn.com/soccer/story/_/id/48428623/borussia-dortmund-analysing-jadon-sancho-amid-man-united-uncertaintyborussia-dortmund-analysing-jadon-sancho-amid-man-united-uncertainty",
+      "title": "Kane scores as Bayern beat Real Madrid in quarter-final first leg",
+      "summary": "Goals from Luis Diaz and Harry Kane help Bayern Munich beat Real Madrid 2-1 at the Bernabeu in the first leg of their Champions League quarter-final.",
+      "url": "https://www.bbc.com/sport/football/videos/c8r405yg5yno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-08T20:59:08",
+      "published": "2026-04-08T21:00:45",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:33:58.341730",
+      "priority_score": 100,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-08T21:37:59.010494",
+      "title_tr": "Çeyrek final ilk maçında Bayern'in Real Madrid'i yendiği maçta Kane'in golü",
+      "summary_tr": "Luis Diaz ve Harry Kane'in golleri, Bayern Münih'in Şampiyonlar Ligi çeyrek final ilk ayağında Bernabeu'da Real Madrid'i 2-1 yenmesine yardımcı oldu."
+    },
+    {
+      "title": "Champions League recap: Atléti go past 10-man Barça, PSG defeat Liverpool",
+      "summary": "Both Atlético Madrid and Paris Saint-Germain get 2-0 first-leg wins on a day of quarterfinals action in the UEFA Champions League.",
+      "url": "https://www.espn.com/soccer/story/_/id/48413337/uefa-champions-league-live-updates-barcelona-atletico-madrid-paris-saint-germain-liverpool",
+      "image_url": null,
+      "published": "2026-04-08T22:28:31",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.651392",
-      "priority_score": 100,
+      "fetched_at": "2026-04-08T21:33:52.968902",
+      "priority_score": 95,
       "categories": [
-        "transfers",
+        "match_results",
         "breaking_news",
-        "premier_league",
-        "serie_a",
-        "bundesliga"
+        "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.732500",
-      "title_tr": "Dortmund, Man Utd'lu Sancho'nun hamlesini 'analiz ediyor'",
-      "summary_tr": "Borussia Dortmund, Manchester United'dan Jadon Sancho ile üçüncü kez sözleşme imzalamakla ilgilendiklerini doğruladı."
+      "processed_at": "2026-04-08T21:37:58.990242",
+      "title_tr": "Şampiyonlar Ligi özeti: Atléti 10 kişilik Barça'yı geçti, PSG Liverpool'u mağlup etti",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nde çeyrek final mücadelesinde hem Atletico Madrid hem de Paris Saint-Germain ilk maçta 2-0'lık galibiyet elde etti."
     },
     {
       "title": "Salah benched for Liverpool quarterfinal with PSG",
       "summary": "Mohamed Salah has been dropped by Arne Slot for Liverpool's Champions League quarterfinal first leg against Paris Saint-Germain.",
       "url": "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league",
       "image_url": null,
-      "published": "2026-04-08T20:59:08",
+      "published": "2026-04-08T22:13:27",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.650412",
+      "fetched_at": "2026-04-08T21:33:52.969751",
       "priority_score": 90,
       "categories": [
         "breaking_news",
         "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.729553",
+      "processed_at": "2026-04-08T21:37:58.991651",
       "title_tr": "Salah, PSG ile Liverpool'da çeyrek finale yükseldi",
       "summary_tr": "Mohamed Salah, Liverpool'un Şampiyonlar Ligi çeyrek final ilk maçında Paris Saint-Germain'e karşı Arne Slot'a yenildi."
     },
@@ -55,7 +76,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-08T20:34:19.926234",
+      "fetched_at": "2026-04-08T21:34:57.791656",
       "priority_score": 86,
       "categories": [
         "match_results",
@@ -64,73 +85,254 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.979752",
+      "processed_at": "2026-04-08T21:37:59.217263",
       "title_tr": "Bayern Münih, Real Madrid karşısında etkileyici bir galibiyetle UEFA Şampiyonlar Ligi beraberliğinin kontrolünü ele geçirdi",
       "summary_tr": "Bayern Münih, Bernabéu'da oynanan UEFA Şampiyonlar Ligi çeyrek final ilk maçında Real Madrid'e karşı 2-1'lik önemli bir galibiyet alırken, Luis Díaz ve Harry Kane'in golleri Bundesliga şampiyonuna beraberlikte hak ettiği avantajı sağladı."
     },
     {
-      "title": "Alexander-Arnold fails to ease Tuchel concerns as Kane stars",
-      "summary": "Thomas Tuchel's doubts about Trent Alexander-Arnold and reliance on Harry Kane are confirmed on the England manager's Madrid mission.",
-      "url": "https://www.bbc.com/sport/football/articles/cp38dlkl7eko?at_medium=RSS&at_campaign=rss",
+      "title": "Slots tactische vluchtroute loopt dood in Parijs",
+      "summary": "Paris Saint-Germain is veel te sterk gebleken voor Liverpool: 2-0. Analyse van een wedstrijd waarin Arne Slot zijn idealen overboord gooit, zonder daar een tastbaar resultaat voor terug te krijgen.",
+      "url": "https://www.vi.nl/pro/tactische-analyse-paris-saint-germain-liverpool-arne-slot-met-vijf-verdedigers",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/08/8aebd2b1940b5da3146d7576ed11d9b8a8002be7.jpg?width=1200",
+      "published": "2026-04-08T20:52:38",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:37:56.593355",
+      "priority_score": 82,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-04-08T21:38:00.349229",
+      "title_tr": "Slot'un taktiksel kaçış rotası Paris'te çıkmaza giriyor",
+      "summary_tr": "Paris Saint-Germain Liverpool için çok güçlü olduğunu kanıtladı: 2-0. Arne Slot'un, karşılığında somut bir sonuç alamadan ideallerini bir kenara attığı bir maçın analizi."
+    },
+    {
+      "title": "Late Havertz goal gives Arsenal first-leg win over Sporting",
+      "summary": "Arsenal's Kai Havertz scores in stoppage-time to secure a 1-0 victory for the Gunners against Sporting CP, in their Champions League quarter-final first-leg.",
+      "url": "https://www.bbc.com/sport/football/videos/cx2vdyp5qero?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-07T23:04:06",
+      "published": "2026-04-08T21:00:55",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:18.409655",
+      "fetched_at": "2026-04-08T21:33:58.341587",
       "priority_score": 80,
       "categories": [
-        "transfers",
-        "breaking_news"
+        "breaking_news",
+        "premier_league",
+        "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.765675",
-      "title_tr": "Alexander-Arnold, Kane'in yıldız olmasıyla Tuchel'in endişelerini gideremedi",
-      "summary_tr": "Thomas Tuchel'in Trent Alexander-Arnold hakkındaki şüpheleri ve Harry Kane'e olan güveni İngiltere menajerinin Madrid misyonuyla doğrulandı."
+      "processed_at": "2026-04-08T21:37:59.008260",
+      "title_tr": "Geç Havertz golü, Arsenal'in Sporting karşısında ilk maçta galibiyetini sağladı",
+      "summary_tr": "Arsenal'den Kai Havertz, Arsenal'in Şampiyonlar Ligi çeyrek final ilk maçında Sporting CP'ye karşı uzatma dakikalarında attığı golle Arsenal'i 1-0 mağlup etti."
     },
     {
-      "title": "Paris Saint-Germain v Liverpool: Champions League quarter-final, first leg – live",
-      "summary": "⚽ Champions League updates from the 8pm BST kick-off⚽ Barcelona v Atlético Madrid – live | Latest scores“I am beset by dread,” writes Joe Pearson, “and not in the ‘I am the law’ kind of way. Although admittedly PSG are giving off ‘You’re next, punk!’ vibes. IYKYK.”While Arsenal were busy Arsenaling ",
-      "url": "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
+      "title": "Ten-man Barcelona on the brink after Alvarez stunner sparks Atlético victory",
+      "summary": "When the final whistle went, the man in black quietly disappeared out of sight and set off running up the tunnel. For the first time since he took over at Atlético Madrid fifteen long years ago, Diego Simeone had led his team to a victory at the Camp Nou, keeping alive his dream of taking them back ",
+      "url": "https://www.theguardian.com/football/2026/apr/08/barcelona-atletico-madrid-champions-league-quarter-final-first-leg",
       "image_url": null,
-      "published": "2026-04-08T20:24:28",
+      "published": "2026-04-08T21:22:05",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:53.014585",
+      "fetched_at": "2026-04-08T21:34:34.149331",
       "priority_score": 78,
       "categories": [
         "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-08T21:37:59.104076",
+      "title_tr": "On kişilik Barcelona, ​​Alvarez'in sersemletici oyuncusunun Atletico zaferini tetiklemesinin ardından uçurumun eşiğinde",
+      "summary_tr": "Son düdük çaldığında siyahlı adam sessizce gözden kayboldu ve tünelden yukarı doğru koşmaya başladı. Diego Simeone, on beş yıl önce Atletico Madrid'in başına geçtiğinden bu yana ilk kez takımını Camp Nou'da zafere taşımış ve onları geri alma hayalini canlı tutmuştu."
+    },
+    {
+      "title": "Okan Buruk, Osimhen'in döneceği tarihi açıkladı!",
+      "summary": "Trendyol Süper Lig'de erteleme maçında Galatasaray deplasmanda Göztepe'yi 3-1 yendi. Teknik direktör Okan Buruk galibiyeti ve şampiyonluk yarışını değerlendirdi.",
+      "url": "https://www.haberturk.com/okan-buruk-osimhen-in-donecegi-tarihi-acikladi-3875865-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/08/ver1775681533/3875865/jpg/1280x1280",
+      "published": "2026-04-08T20:52:51",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:36:17.718178",
+      "priority_score": 63,
+      "categories": [
         "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-08T21:37:59.259316",
+      "title_tr": "Okan Buruk, Osimhen'in döneceği tarihi açıkladı!",
+      "summary_tr": "Trendyol Süper Lig'de erteleme maçında Galatasaray deplasmanda Göztepe'yi 3-1 yendi. Teknik direktör Okan Buruk galibiyeti ve şampiyonluk yarışını değerlendirdi."
+    },
+    {
+      "title": "Okan Buruk'tan Osimhen müjdesi! Fenerbahçe maçından önce dönüşü açıkladı",
+      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Victor Osimhen'in sahalara dönüşüne ilişkin sürpriz bir açıklamada bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-osimhen-mujdesi-fenerbahce-macindan-once-donusu-acikladi-43146786",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d6be20ee4afb2ce83f85fd.jpg",
+      "published": "2026-04-08T20:45:08",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:36:29.823111",
+      "priority_score": 61,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-04-08T21:37:59.372880",
+      "title_tr": "Okan Buruk'tan Osimhen müjdesi! Fenerbahçe maçından önce dönüşü açıkladı",
+      "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, Victor Osimhen'in sahalara dönüşüne ilişkin sürpriz bir açıklamada bulundu."
+    },
+    {
+      "title": "Einde in zicht voor gepasseerde Mohamed Salah? 'Hij weet het zelf ook wel'",
+      "summary": "Mohamed Salah zat tijdens de pittige nederlaag van Liverpool bij Paris Saint-Germain met een verbeten gevoel op de bank, zo vermoeden de analisten van Ziggo Sport. Wim Kieft en Guus Hiddink denken dat de smaakmaker van weleers zijn beste tijd gehad heeft.",
+      "url": "https://www.vi.nl/nieuws/einde-in-zicht-voor-gepasseerde-mohamed-salah-hij-weet-het-zelf-ook-wel",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/08/64f41f3781430e8d5ccd86f77de9a1fde37c9cac.jpg?width=1200",
+      "published": "2026-04-08T21:24:36",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:37:56.593107",
+      "priority_score": 57,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-04-08T21:38:00.270426",
+      "title_tr": "Mohamed Salah'ın sonu görünürde mi? 'O da biliyor'",
+      "summary_tr": "Ziggo Sport analistlerinin şüphelendiği üzere Mohamed Salah, Liverpool'un Paris Saint-Germain'e karşı aldığı zorlu yenilgi sırasında yedek kulübesinde oturuyordu. Wim Kieft ve Guus Hiddink, geçmişin trend belirleyicilerinin en iyi günlerini yaşadığını düşünüyor."
+    },
+    {
+      "title": "PSG dominate shot-shy Liverpool in Paris 1st leg",
+      "summary": "Paris Saint-Germain dominated Liverpool to emerge with a 2-0 victory that could have been far greater in the first leg of their Champions League quarterfinal.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862885",
+      "image_url": null,
+      "published": "2026-04-08T22:13:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:33:52.969375",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-08T21:37:58.990825",
+      "title_tr": "PSG, Paris 1. maçında çekingen Liverpool'u mağlup etti",
+      "summary_tr": "Paris Saint-Germain, Liverpool'u 2-0 mağlup ederek Şampiyonlar Ligi çeyrek finalinin ilk ayağında çok daha büyük bir galibiyet elde etti."
+    },
+    {
+      "title": "Álvarez leads Atleti to 1st-leg edge over Barça",
+      "summary": "Julián Álvarez and Alexander Sørloth struck as Atlético Madrid upset 10-man Barcelona to win the first leg of their Champions League quarterfinal 2-0.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862887",
+      "image_url": null,
+      "published": "2026-04-08T22:13:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:33:52.969595",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.853177",
-      "title_tr": "Paris Saint-Germain - Liverpool: Şampiyonlar Ligi çeyrek final ilk maçı – canlı",
-      "summary_tr": "⚽ Şampiyonlar Ligi'nin TSİ 20.00'deki başlama vuruşuyla ilgili güncellemeleri⚽ Barselona - Atletico Madrid – canlı | Son skorlar Joe Pearson şöyle yazıyor: \"Korkudan kuşatılmış durumdayım ve 'kanun benim' tarzı bir şekilde değil. Her ne kadar PSG'nin 'Sıradaki sensin serseri!' havası yaymasına rağmen. IYKYK.\"Arsenal Arsenal'le meşgulken"
+      "processed_at": "2026-04-08T21:37:58.991219",
+      "title_tr": "Álvarez, Atleti'yi Barça karşısında 1. maç avantajına taşıyor",
+      "summary_tr": "Julián Álvarez ve Alexander Sørloth, Atlético Madrid'in 10 kişilik Barcelona'yı mağlup ederek Şampiyonlar Ligi çeyrek finalinin ilk ayağını 2-0 kazanmasını sağladı."
     },
     {
-      "title": "Football Daily | Madrid and Bayern burn rubber in fast and furious show at Bernabéu",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!While Arsenal were busy Arsenaling their way to a worthy but dull Bigger Cup quarter-final first leg win at Sporting on Tuesday, the players of Real Madrid and Bayern Munich released the collective handbrake and performed many high-speed donuts, whe",
-      "url": "https://www.theguardian.com/football/2026/apr/08/real-madrid-bayern-munich-football-daily-newsletter",
+      "title": "Real Madrid say they can beat Bayern Munich after poor Champions League first leg. Are they right?",
+      "summary": "Lacking Bernabéu magic, Real Madrid can tee up a more spectacular comeback in Munich in the Champions League. They've done it before.",
+      "url": "https://www.espn.com/soccer/story/_/id/48423353/real-madrid-say-overcome-bayern-munich-poor-first-leg-right",
       "image_url": null,
-      "published": "2026-04-08T14:52:02",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-04-08T22:22:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:53.015719",
-      "priority_score": 68,
+      "fetched_at": "2026-04-08T21:33:52.971149",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
-        "premier_league",
         "la_liga",
-        "bundesliga"
+        "bundesliga",
+        "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.866702",
-      "title_tr": "Futbol Günlük | Madrid ve Bayern, Bernabéu'daki hızlı ve öfkeli gösteride lastik yaktı",
-      "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Hemen kaydolun! Arsenal Salı günü Sporting'de değerli ama sıkıcı Bigger Cup çeyrek final ilk maçında Arsenal'e doğru yol almakla meşgulken, Real Madrid ve Bayern Münih oyuncuları kolektif el frenini indirdiler ve birçok yüksek hızda donut yaptılar."
+      "processed_at": "2026-04-08T21:37:59.001412",
+      "title_tr": "Real Madrid, Şampiyonlar Ligi'ndeki kötü ilk maçın ardından Bayern Münih'i yenebileceklerini söyledi. Haklılar mı?",
+      "summary_tr": "Bernabéu'nun büyüsünden yoksun olan Real Madrid, Münih'te Şampiyonlar Ligi'nde daha muhteşem bir geri dönüş yapabilir. Bunu daha önce de yaptılar."
+    },
+    {
+      "title": "Arsenal 'had a point to prove' after 'difficult period' - Arteta",
+      "summary": "Arsenal manager Mikel Arteta says his side \"had a point to prove\" following back-to-back defeats and praises his side's reaction, as Kai Havertz's stoppage-time winner secures a first-leg advantage in their Champions League quarter-final against Sporting.",
+      "url": "https://www.bbc.com/sport/football/videos/cvg0w4y9x3do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-07T22:45:49",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:33:58.342560",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-08T21:37:59.026099",
+      "title_tr": "Arsenal'in 'zorlu bir dönemden' sonra 'kanıtlaması gereken bir nokta vardı' - Arteta",
+      "summary_tr": "Arsenal menajeri Mikel Arteta, arka arkaya aldığı yenilgilerin ardından takımının \"kanıtlaması gereken bir nokta olduğunu\" söylüyor ve Kai Havertz'in duraklama süresi galibi Sporting'e karşı Şampiyonlar Ligi çeyrek finalinde ilk maç avantajını elde ederken takımının tepkisini övüyor."
+    },
+    {
+      "title": "Brilliant Alvarez inspires Atletico to big Champions League win at Barcelona",
+      "summary": "Julian Alvarez’s brilliance inspired Atletico Madrid to a huge 2-0 first-leg win at 10-man Barcelona to take control of their Champions League quarter-final.",
+      "url": "https://www.skysports.com/football/barcelona-vs-atletico-madrid/report/554940",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-atletico-madrid-champions_7214636.jpg?20260408215129",
+      "published": "2026-04-08T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:34:10.623013",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-08T21:37:59.036127",
+      "title_tr": "Parlak Alvarez, Atletico'ya Barselona'da büyük Şampiyonlar Ligi zaferi kazandırdı",
+      "summary_tr": "Julian Alvarez'in dehası, Atletico Madrid'e, 10 kişilik Barcelona'yı ilk maçta 2-0 yenerek Şampiyonlar Ligi çeyrek finalinin kontrolünü ele geçirme konusunda ilham verdi."
+    },
+    {
+      "title": "Liverpool outclassed as PSG seize control of quarter-final",
+      "summary": "Liverpool face a huge task to reach the Champions League last four after a humbling 2-0 defeat to holders Paris Saint-Germain in their quarter-final first leg at the Parc des Princes.",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-liverpool/report/554938",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-psg-desire-doue-liverpool_7214562.jpg?20260408201816",
+      "published": "2026-04-08T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:34:10.623083",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-08T21:37:59.039311",
+      "title_tr": "Liverpool, PSG'nin çeyrek finalde kontrolü ele geçirmesiyle üstünlük sağladı",
+      "summary_tr": "Liverpool, Parc des Princes'teki çeyrek final ilk maçında Paris Saint-Germain'e 2-0 mağlup olduktan sonra Şampiyonlar Ligi'nde son dörde kalma yolunda büyük bir görevle karşı karşıya."
     },
     {
       "title": "Vincent Kompany brings up 100 Bayern Munich games as head coach in style with Real Madrid win",
@@ -142,137 +344,57 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-08T20:34:19.923265",
+      "fetched_at": "2026-04-08T21:34:57.788773",
       "priority_score": 66,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-08T20:36:51.943112",
+      "processed_at": "2026-04-08T21:37:59.183067",
       "title_tr": "Vincent Kompany, Real Madrid galibiyetiyle 100 Bayern Münih maçını başantrenör olarak anlattı",
       "summary_tr": "Bayern Münih'in Salı günü Real Madrid'e karşı kazandığı 2-1'lik galibiyet, Vincent Kompany'nin kulübün başantrenörü olarak 100. maçına damgasını vurdu ve sonuç, Kompany'nin 2024 yazında göreve başlamasından bu yana Bayern'de inşa ettiği her şeyi mükemmel bir şekilde özetledi."
+    },
+    {
+      "title": "Stanimir Stoilov: 'Kesinlikle mutlu değilim!'",
+      "summary": "Göztepe Teknik Direktörü Stanimir Stoilov, Galatasaray maçının ardından, \"Bu tarz maçlarda bu fırsatları gole çevirmemiz gerekiyor. Bunun dışında takımın duran toptan gol yemesinden ötürü kesinlikle mutlu değilim\" dedi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-kesinlikle-mutlu-degilim-43146795",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d6c2fd595eaed10ce283df.jpg",
+      "published": "2026-04-08T21:05:03",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-08T21:36:29.822962",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-08T21:37:59.351576",
+      "title_tr": "Stanimir Stoilov: 'Kesinlikle mutlu değilim!'",
+      "summary_tr": "Göztepe Teknik Direktörü Stanimir Stoilov, Galatasaray maçının ardından, \"Bu tarz maçlarda bu fırsatları gole çevirmemiz gerekiyor. Bunun dışında takımın duran toptan gol yemesinden ötürü kesinlikle mutlu değilim\" dedi."
     },
     {
       "title": "Göztepe 1-3 Galatasaray Maç Özeti | Lider, İzmir deplasmanında kazandı",
       "summary": "Lider Galatasaray, Trendyol Süper Lig'in 27. hafta erteleme maçında Göztepe ile deplasmanda karşılaştı. Bu müsabakanın canlı anlatımı burada.",
       "url": "https://www.cnnturk.com/spor/futbol/live-goztepe-1-3-galatasaray-mac-ozeti-lider-izmir-deplasmaninda-kazandi-2414688",
       "image_url": null,
-      "published": "2026-04-08T21:56:56",
+      "published": "2026-04-09T00:28:02",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-08T20:35:39.569474",
+      "fetched_at": "2026-04-08T21:36:53.648450",
       "priority_score": 66,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-08T20:36:52.435984",
+      "processed_at": "2026-04-08T21:37:59.618732",
       "title_tr": "Göztepe 1-3 Galatasaray Maç Özeti | Lider, İzmir deplasmanında kazandı",
       "summary_tr": "Lider Galatasaray, Trendyol Süper Lig'in 27. hafta erteleme maçında Göztepe ile deplasmanda karşılaştı. Bu müsabakanın canlı anlatımı burada."
-    },
-    {
-      "title": "Trabzonspor'a sakatlanan oyunculardan müjde!",
-      "summary": "Trabzonspor'da sakatlıklarını atlatan Arseniy Batagov ve Edin Visca'nın Alanyaspor maçı öncesi antrenmanda yer aldı. Ayrıca Ernest Muci'nin tedavisi sürerken Barış Alper'in darbesiyle sakatlanan Pina ise takıma geri döndü.",
-      "url": "https://www.haberturk.com/trabzonspor-a-sakatlanan-oyunculardan-mujde-3875806-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/08/ver1775664032/3875806/jpg/1280x1280",
-      "published": "2026-04-08T16:00:52",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812707",
-      "priority_score": 63,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-04-08T20:36:52.095047",
-      "title_tr": "Trabzonspor'a sakatlanan oyunculardan müjde!",
-      "summary_tr": "Trabzonspor'da sakatlıklarını atlatan Arseniy Batagov ve Edin Visca'nın Alanyaspor maçı öncesi antrenmanda yer aldı. Ayrıca Ernest Muci'nin tedavisi sürerken Barış Alper'in darbesiyle sakatlanan Pina ise takıma geri döndü."
-    },
-    {
-      "title": "Dortmund weigh up third Sancho move - Thursday's gossip",
-      "summary": "Borussia Dortmund weighing up third move Jadon Sancho, Tottenham pushing to sign goalkeeper James Trafford, Arsenal targeting defenders Victor Valdepena and Jacobo Ramon, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/c20qeyevzd1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-08T20:14:14",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:18.409405",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-08T20:36:51.759804",
-      "title_tr": "Dortmund, Sancho'nun üçüncü hamlesini değerlendiriyor - Perşembe günkü dedikodular",
-      "summary_tr": "Borussia Dortmund üçüncü hamleyi değerlendiriyor Jadon Sancho, Tottenham kaleci James Trafford'u imzalamak için baskı yapıyor, Arsenal savunma oyuncuları Victor Valdepena ve Jacobo Ramon'u hedef alıyor ve daha fazlası."
-    },
-    {
-      "title": "\"G.Saray'da kaptan olmak gurur verici bir şey\"",
-      "summary": "Galatasaray'ın başarılı oyuncusu Barış Alper Yılmaz, Süper Lig'in 27. hafta erteleme maçında konuk oldukları Göztepe'yi 3-1 yendikleri maçın ardından açıklamalarda bulundu. Sarı Kırmızılılar'da kaptan olarak sahaya çıkmasının ardından duygularını belirten Barış Alper Yılmaz, \"Galatasaray'a kaptan ol",
-      "url": "https://www.haberturk.com/baris-alper-yilmaz-galatasaray-da-kaptan-olmak-gurur-verici-bir-sey-3875851-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/08/ver1775678700/3875851/jpg/1280x1280",
-      "published": "2026-04-08T20:07:51",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812032",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-08T20:36:52.023364",
-      "title_tr": "\"G.Saray'da kaptan olmak gurur verici bir şey\"",
-      "summary_tr": "Galatasaray'ın başarılı oyuncusu Barış Alper Yılmaz, Süper Lig'in 27. hafta erteleme maçında konuk oldukları Göztepe'yi 3-1 yendikleri maçın ardından açıklamalarda bulundu. Sarı Kırmızılılar'da kaptan olarak sahaya çıkmasının ardından duygularını belirten Barış Alper Yılmaz, \"Galatasaray'a kaptan ol"
-    },
-    {
-      "title": "GÖZTEPE GALATASARAY MAÇINDA İLK 11'LER: Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda? Maç Canlı Yayın Bilgileri",
-      "summary": "Göztepe Galatasaray maçı için geri sayım başladı. Galatasaray'ın Şampiyonlar Ligi fikstürü nedeniyle ertelenen Göztepe maçı bu akşam oynanacak. Süper Lig’de geride kalan 28 haftalık periyotta savunma performanslarıyla öne çıkan ve kalelerinde yalnızca 20’şer gol gören iki takım 8 Nisan Çarşamba akşa",
-      "url": "https://www.cnnturk.com/spor/futbol/goztepe-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-super-lig-goztepe-galatasaray-erteleme-maci-canli-yayin-bilgileri-2414647",
-      "image_url": null,
-      "published": "2026-04-08T19:56:34",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:35:39.570088",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-08T20:36:52.532429",
-      "title_tr": "GÖZTEPE GALATASARAY MAÇINDA İLK 11'LER: Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda? Maç Canlı Yayın Bilgileri",
-      "summary_tr": "Göztepe Galatasaray maçı için geri sayım başladı. Galatasaray'ın Şampiyonlar Ligi fikstürü nedeniyle ertelenen Göztepe maçı bu akşam oynanacak. Süper Lig’de geride kalan 28 haftalık periyotta savunma performanslarıyla öne çıkan ve kalelerinde yalnızca 20’şer gol gören iki takım 8 Nisan Çarşamba akşa"
-    },
-    {
-      "title": "Real Madrid say they can beat Bayern Munich after poor Champions League first leg. Are they right?",
-      "summary": "Lacking Bernabéu magic, Real Madrid can tee up a more spectacular comeback in Munich in the Champions League. They've done it before.",
-      "url": "https://www.espn.com/soccer/story/_/id/48423353/real-madrid-say-overcome-bayern-munich-poor-first-leg-right",
-      "image_url": null,
-      "published": "2026-04-08T09:22:26",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.652073",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-08T20:36:51.739227",
-      "title_tr": "Real Madrid, Şampiyonlar Ligi'ndeki kötü ilk maçın ardından Bayern Münih'i yenebileceklerini söyledi. Haklılar mı?",
-      "summary_tr": "Bernabéu'nun büyüsünden yoksun olan Real Madrid, Münih'te Şampiyonlar Ligi'nde daha muhteşem bir geri dönüş yapabilir. Bunu daha önce de yaptılar."
     },
     {
       "title": "Dropping Fernandez - a sign of Rosenior's authority or a big risk?",
@@ -284,36 +406,38 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:18.408970",
+      "fetched_at": "2026-04-08T21:33:58.342174",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-08T20:36:51.752183",
+      "processed_at": "2026-04-08T21:37:59.017304",
       "title_tr": "Fernandez'in düşürülmesi Rosenior'un otoritesinin bir işareti mi, yoksa büyük bir risk mi?",
       "summary_tr": "Enzo Fernandez, Chelsea patronu Liam Rosenior'a Stamford Bridge'deki kısa görev süresi boyunca ilk büyük iç disiplin sorununu yaşattı - BBC Sport durumu analiz ediyor."
     },
     {
-      "title": "How WSL aims to bridge academy gap - and why it needs to",
-      "summary": "Chelsea manager Sonia Bompastor raised concerns over the gap between academy football and the first team - so is it an issue in the game and how could it be solved?",
-      "url": "https://www.bbc.com/sport/football/articles/clyg0d2v5gyo?at_medium=RSS&at_campaign=rss",
+      "title": "Football Daily | Madrid and Bayern burn rubber in fast and furious show at Bernabéu",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!While Arsenal were busy Arsenaling their way to a worthy but dull Bigger Cup quarter-final first leg win at Sporting on Tuesday, the players of Real Madrid and Bayern Munich released the collective handbrake and performed many high-speed donuts, whe",
+      "url": "https://www.theguardian.com/football/2026/apr/08/real-madrid-bayern-munich-football-daily-newsletter",
       "image_url": null,
-      "published": "2026-04-08T09:34:57",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-08T14:52:02",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:18.409530",
-      "priority_score": 65,
+      "fetched_at": "2026-04-08T21:34:34.150564",
+      "priority_score": 63,
       "categories": [
         "breaking_news",
-        "premier_league"
+        "premier_league",
+        "la_liga",
+        "bundesliga"
       ],
-      "processed_at": "2026-04-08T20:36:51.762706",
-      "title_tr": "WSL akademi açığını nasıl kapatmayı hedefliyor ve neden buna ihtiyaç duyuyor?",
-      "summary_tr": "Chelsea menajeri Sonia Bompastor, akademi futbolu ile A takım arasındaki uçurumla ilgili endişelerini dile getirdi; peki bu oyundaki bir sorun mu ve nasıl çözülebilir?"
+      "processed_at": "2026-04-08T21:37:59.117818",
+      "title_tr": "Futbol Günlük | Madrid ve Bayern, Bernabéu'daki hızlı ve öfkeli gösteride lastik yaktı",
+      "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Hemen kaydolun! Arsenal Salı günü Sporting'de değerli ama sıkıcı Bigger Cup çeyrek final ilk maçında Arsenal'e doğru yol almakla meşgulken, Real Madrid ve Bayern Münih oyuncuları kolektif el frenini indirdiler ve birçok yüksek hızda donut yaptılar."
     },
     {
       "title": "İlkay Gündoğan'dan gol sonrası kaleci Lis'e gündem olan hareket",
@@ -325,37 +449,16 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-08T20:36:12.325971",
+      "fetched_at": "2026-04-08T21:37:23.579831",
       "priority_score": 62,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-08T20:36:52.721807",
+      "processed_at": "2026-04-08T21:38:00.069882",
       "title_tr": "İlkay Gündoğan'dan gol sonrası kaleci Lis'e gündem olan hareket",
       "summary_tr": "Galatasaray, Süper Lig 27. hafta erteleme maçında deplasmanda Göztepe ile karşı karşıya geldi. Sarı-kırmızılı ekip, etk..."
-    },
-    {
-      "title": "Transfer rumors, news: Liverpool, Barcelona eye Italy defender",
-      "summary": "Liverpool and Barcelona are lining up a move to sign Atalanta and Italy international right back Marco Palestra. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48427040/transfer-rumors-news-liverpool-barcelona-eye-atalanta-italy-defender-marco-palestra",
-      "image_url": null,
-      "published": "2026-04-08T08:43:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.652312",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-08T20:36:51.742729",
-      "title_tr": "Transfer söylentileri, haberler: Liverpool ve Barcelona, ​​İtalya'nın defans oyuncusuna göz dikti",
-      "summary_tr": "Liverpool ve Barcelona, ​​Atalanta ve İtalya'nın uluslararası sağ beki Marco Palestra'yı transfer etmek için harekete geçiyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "Calafiori channels pain of Italy World Cup misery to fuel Arsenal trophy push",
@@ -367,14 +470,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:53.016180",
+      "fetched_at": "2026-04-08T21:34:34.149879",
       "priority_score": 58,
       "categories": [
         "match_results",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-04-08T20:36:51.873725",
+      "processed_at": "2026-04-08T21:37:59.110484",
       "title_tr": "Calafiori, İtalya Dünya Kupası sefaletinin acısını Arsenal kupa çabasını körüklemek için kanalize ediyor",
       "summary_tr": "Sporting karşısında galibiyet, arka arkaya kupa yenilgilerinin ardından gelir 'Zor oldu ama futbolun güzelliği de bu' Riccardo Calafiori'nin son birkaç haftada yaşadığı onca şeyden sonra, Salı gecesi tam da ihtiyacı olan şeydi. İtalyan defans oyuncusu Kai Havertz'in geç galibiyetinin heyecanını hâlâ sürdürüyordu"
     },
@@ -388,12 +491,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:53.019089",
+      "fetched_at": "2026-04-08T21:34:34.153562",
       "priority_score": 58,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-08T20:36:51.921627",
+      "processed_at": "2026-04-08T21:37:59.163256",
       "title_tr": "Satış Noktaları: Kane'in Ballon d'Or şansı, Balogun'un ABD'deki rolü ve De Zerbi, Spurs'u düzeltebilir mi?",
       "summary_tr": "Futbol dünyası soru sıkıntısı çekmiyor. Bugün Graham Ruthven bunlardan üçüne cevap vermeye çalışıyor. Bir zamanlar dünyanın en iyi erkek futbolcusunu belirlemenin kolay olduğu bir dönemdi. 2008 ile 2023 yılları arasında ise yanıt neredeyse yalnızca Lionel Messi veya Cristiano Ronaldo'ydu. Luka Modrić"
     },
@@ -407,13 +510,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812298",
+      "fetched_at": "2026-04-08T21:36:17.718511",
       "priority_score": 58,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-08T20:36:52.048798",
+      "processed_at": "2026-04-08T21:37:59.289040",
       "title_tr": "Kadınlar CEV Kupası'nda şampiyon Galatasaray Daikin!",
       "summary_tr": "Galatasaray Daikin Kadın Voleybol Takımı, CEV Kupası finalinde 3-2 kazandığı maçın rövanşında İtalya'nın Reale Mutua Fenera ekibini 3-1 yenerek şampiyon oldu."
     },
@@ -427,54 +530,54 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812381",
+      "fetched_at": "2026-04-08T21:36:17.718575",
       "priority_score": 58,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-08T20:36:52.053833",
+      "processed_at": "2026-04-08T21:37:59.293904",
       "title_tr": "Aslan, İzmir'de hata yapmadı!",
       "summary_tr": "Trendyol Süper Lig'in 27. hafta erteleme maçında lider Galatasaray deplasmanda Göztepe'yi 3-1 mağlup etti. Galatasaray'ın golleri 5. dakikada Barış Alper Yılmaz, 19. dakikada Allan'dan (kk) ve 75. dakika Lemina'dan gelirken Göztepe'nin golünü ise 50. dakikada Juan kaydetti. Bu sonuçla birlikte Galat"
     },
     {
-      "title": "Champions League live updates: Alvarez gives Atleti lead vs. 10-man Barça, PSG lead Liverpool",
-      "summary": "Enjoy all the updates from Wednesday's UEFA Champions League matches, which include Barcelona-Atlético Madrid and PSG-Liverpool.",
-      "url": "https://www.espn.com/soccer/story/_/id/48413337/uefa-champions-league-live-updates-barcelona-atletico-madrid-paris-saint-germain-liverpool",
+      "title": "GÖZTEPE GALATASARAY MAÇINDA İLK 11'LER: Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda? Maç Canlı Yayın Bilgileri",
+      "summary": "Göztepe Galatasaray maçı için geri sayım başladı. Galatasaray'ın Şampiyonlar Ligi fikstürü nedeniyle ertelenen Göztepe maçı bu akşam oynanacak. Süper Lig’de geride kalan 28 haftalık periyotta savunma performanslarıyla öne çıkan ve kalelerinde yalnızca 20’şer gol gören iki takım 8 Nisan Çarşamba akşa",
+      "url": "https://www.cnnturk.com/spor/futbol/goztepe-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-super-lig-goztepe-galatasaray-erteleme-maci-canli-yayin-bilgileri-2414647",
       "image_url": null,
-      "published": "2026-04-08T21:21:04",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-08T19:56:34",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.650139",
-      "priority_score": 55,
+      "fetched_at": "2026-04-08T21:36:53.649121",
+      "priority_score": 56,
       "categories": [
-        "la_liga",
-        "champions_league"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-04-08T20:36:51.729253",
-      "title_tr": "Şampiyonlar Ligi canlı güncellemeleri: Alvarez, 10 kişilik Barça karşısında Atleti'ye liderlik ediyor, PSG Liverpool'a liderlik ediyor",
-      "summary_tr": "Çarşamba günkü Barselona-Atletico Madrid ve PSG-Liverpool dahil UEFA Şampiyonlar Ligi maçlarına ilişkin tüm güncellemelerin keyfini çıkarın."
+      "processed_at": "2026-04-08T21:37:59.707085",
+      "title_tr": "GÖZTEPE GALATASARAY MAÇINDA İLK 11'LER: Göztepe Galatasaray Maçı Saat Kaçta, Hangi Kanalda? Maç Canlı Yayın Bilgileri",
+      "summary_tr": "Göztepe Galatasaray maçı için geri sayım başladı. Galatasaray'ın Şampiyonlar Ligi fikstürü nedeniyle ertelenen Göztepe maçı bu akşam oynanacak. Süper Lig’de geride kalan 28 haftalık periyotta savunma performanslarıyla öne çıkan ve kalelerinde yalnızca 20’şer gol gören iki takım 8 Nisan Çarşamba akşa"
     },
     {
       "title": "Survey: Travel concerns could 'undermine' WCup",
       "summary": "Concerns about personal safety, visas, ticket prices and U.S. government policies are topmost on international fans' minds as they weigh whether to travel to the United States for the World Cup in June, according to a newly released survey.",
       "url": "https://www.espn.com/soccer/story/_/id/48431461/world-cup-travel-concerns-undermine-international-visits",
       "image_url": null,
-      "published": "2026-04-08T20:59:09",
+      "published": "2026-04-08T22:13:27",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.650604",
+      "fetched_at": "2026-04-08T21:33:52.969962",
       "priority_score": 55,
       "categories": [
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-08T20:36:51.729834",
+      "processed_at": "2026-04-08T21:37:58.992104",
       "title_tr": "Anket: Seyahat endişeleri WCup'ı 'zayıflayabilir'",
       "summary_tr": "Yeni yayımlanan bir ankete göre, Haziran ayında yapılacak Dünya Kupası için ABD'ye gidip gitmeyeceklerini tartan uluslararası taraftarların akıllarında en çok kişisel güvenlik, vizeler, bilet fiyatları ve ABD hükümetinin politikalarıyla ilgili endişeler yer alıyor."
     },
@@ -483,18 +586,18 @@
       "summary": "Luis Suárez said he is open to a return to the Uruguay national team despite retiring from international duty in 2024, insisting he would never turn his back on his country.",
       "url": "https://www.espn.com/soccer/story/_/id/48431580/luis-suarez-uruguay-inter-miami-2026-world-cup-retire",
       "image_url": null,
-      "published": "2026-04-08T20:59:08",
+      "published": "2026-04-08T22:13:27",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.650800",
+      "fetched_at": "2026-04-08T21:33:52.970107",
       "priority_score": 55,
       "categories": [
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-08T20:36:51.730240",
+      "processed_at": "2026-04-08T21:37:58.992719",
       "title_tr": "39 yaşındaki Suárez, Uruguay'ın Dünya Kupası'na dönmesine açık",
       "summary_tr": "Luis Suárez, 2024'te uluslararası görevden emekli olmasına rağmen Uruguay milli takımına geri dönmeye açık olduğunu belirterek, ülkesine asla sırtını dönmeyeceği konusunda ısrar etti."
     },
@@ -503,116 +606,20 @@
       "summary": "Manchester United assistant manager Steve Holland has insisted the club have their eyes on more than just Champions League qualification going into the final few weeks of the season.",
       "url": "https://www.espn.com/soccer/story/_/id/48427512/man-united-eyeing-more-just-champions-league-spot-season-man-united-eyeing-more-just-champions-league-spot-season",
       "image_url": null,
-      "published": "2026-04-08T20:59:08",
+      "published": "2026-04-08T22:13:27",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.651084",
+      "fetched_at": "2026-04-08T21:33:52.970406",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-08T20:36:51.731255",
+      "processed_at": "2026-04-08T21:37:58.994239",
       "title_tr": "Man United, UCL noktasından daha fazlasını arıyor",
       "summary_tr": "Manchester United'ın teknik direktör yardımcısı Steve Holland, kulübün sezonun son birkaç haftasındaki Şampiyonlar Ligi elemelerinden daha fazlasını göz önünde bulundurduğu konusunda ısrar etti."
-    },
-    {
-      "title": "Díaz: Liverpool-Bayern switch was 'right choice'",
-      "summary": "Luis Díaz believes he made the right decision to join Bayern Munich from Liverpool last summer.",
-      "url": "https://www.espn.com/soccer/story/_/id/48427326/luis-diaz-made-right-choice-swapping-liverpool-bayern-munichluis-daz-made-right-choice-swapping-liverpool-bayern-munich",
-      "image_url": null,
-      "published": "2026-04-08T20:59:08",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:10.651210",
-      "priority_score": 55,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-08T20:36:51.731786",
-      "title_tr": "Díaz: Liverpool-Bayern değişimi 'doğru seçim'di",
-      "summary_tr": "Luis Díaz, geçen yaz Liverpool'dan Bayern Münih'e transfer olarak doğru kararı verdiğine inanıyor."
-    },
-    {
-      "title": "Southampton leapfrog Wrexham after thrashing to climb into playoff spots",
-      "summary": "Southampton continued their Championship charge as they thrashed Wrexham 5-1 to replace the Welsh side in the playoff places.Fuelled by their stunning weekend FA Cup quarter-final triumph over Arsenal, Tonda Eckert’s in-form side flew out of the traps at Stōk Cae Ras with early goals from Kuryu Mats",
-      "url": "https://www.theguardian.com/football/2026/apr/07/southampton-thrash-wrexham-to-leapfrog-opponents-and-climb-into-playoff-spots",
-      "image_url": null,
-      "published": "2026-04-07T21:44:33",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:53.018872",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-08T20:36:51.912110",
-      "title_tr": "Southampton'ın bir sıçraması olan Wrexham, play-off noktalarına tırmanmak için çabaladıktan sonra",
-      "summary_tr": "Southampton, Wrexham'ı 5-1 mağlup ederek şampiyonluk mücadelesini sürdürdü ve play-off'larda Galler takımının yerine geçti. Hafta sonu FA Cup çeyrek finalinde Arsenal'e karşı aldıkları muhteşem zaferin verdiği güçle Tonda Eckert'in formda takımı, Kuryu Mats'ın erken golleriyle Stōk Cae Ras'taki tuzaklardan kurtuldu."
-    },
-    {
-      "title": "\"Galatasaray rakiplerinin umudunun yeşermesini kırdı!\"",
-      "summary": "Galatasaray, erteleme maçında Göztepe’yi 3-1 mağlup ederek zirvede farkı yeniden açtı. HT Spor yorumcusu Mustafa Denizli karşılaşmayı değerlendirdi",
-      "url": "https://www.haberturk.com/mustafa-denizli-galatasaray-rakiplerinin-umudunun-yesermesini-kirdi-3875850-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/08/ver1775678357/3875850/jpg/1280x1280",
-      "published": "2026-04-08T19:59:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812109",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-08T20:36:52.030548",
-      "title_tr": "\"Galatasaray rakiplerinin umudunun yeşermesini kırdı!\"",
-      "summary_tr": "Galatasaray, erteleme maçında Göztepe’yi 3-1 mağlup ederek zirvede farkı yeniden açtı. HT Spor yorumcusu Mustafa Denizli karşılaşmayı değerlendirdi"
-    },
-    {
-      "title": "Galatasaray Dörtlü Final umudunu korudu!",
-      "summary": "Galatasaray MCT Technic, Basketbol Şampiyonlar Ligi çeyrek final serisi ikinci maçında İspanya temsilcisi La Laguna Tenerife’yi 64-62 mağlup etti. Sarı Kırmızılılar seride durumu 1-1'e getirdi ve Dörtlü Final umudunu korudu.",
-      "url": "https://www.haberturk.com/galatasaray-mct-technic-64-la-laguna-tenerife-62-mac-sonucu-3875844-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/08/ver1775677090/3875844/jpg/1280x1280",
-      "published": "2026-04-08T19:40:19",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:35:04.812241",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-08T20:36:52.041795",
-      "title_tr": "Galatasaray Dörtlü Final umudunu korudu!",
-      "summary_tr": "Galatasaray MCT Technic, Basketbol Şampiyonlar Ligi çeyrek final serisi ikinci maçında İspanya temsilcisi La Laguna Tenerife’yi 64-62 mağlup etti. Sarı Kırmızılılar seride durumu 1-1'e getirdi ve Dörtlü Final umudunu korudu."
-    },
-    {
-      "title": "'Money, baby!' | Thomas gets first hole-in-one of The Masters Par 3 Contest!",
-      "summary": "Justin Thomas makes the first hole-in-one of The Masters 2026 Par 3 Contest.",
-      "url": "https://www.skysports.com/watch/video/13529386/the-masters-justin-thomas-gets-first-hole-in-one-of-par-3-contest",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-justin-thomas_7214333.jpg?20260408171606",
-      "published": "2026-04-08T17:11:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-08T20:33:30.490846",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-08T20:36:51.797254",
-      "title_tr": "'Para bebeğim!' | Thomas, Masters Par 3 Yarışması'nda ilk deliği bir arada kazanıyor!",
-      "summary_tr": "Justin Thomas, The Masters 2026 Par 3 Yarışması'nın ilk deliğini bir arada yapıyor."
     }
   ]
 }
