@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-04-09T16:17:57.159514",
+  "timestamp": "2026-04-09T17:58:28.252685",
   "total_items": 30,
   "news": [
+    {
+      "title": "'Legend' Robertson to leave Liverpool in summer",
+      "summary": "Andy Robertson will leave Liverpool at the end of the current season after nine years at Anfield, the Premier League club confirmed Thursday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
+      "image_url": null,
+      "published": "2026-04-09T18:41:10",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:14.019661",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-09T17:57:02.470650",
+      "title_tr": "'Efsane' Robertson yazın Liverpool'dan ayrılacak",
+      "summary_tr": "Premier Lig kulübü Perşembe günü, Andy Robertson'ın Anfield'da dokuz yıl geçirdikten sonra bu sezon sonunda Liverpool'dan ayrılacağını doğruladı."
+    },
     {
       "title": "Beşiktaş, Patrik Schick'te ısrarcı: Kulüp tarihine geçecek bonservis",
       "summary": "Beşiktaş, Patrik Schick transferi için tüm şartları zorluyor. Siyah-beyazlıların, Bayer Leverkusen'in golcüsü için 30 milyon euroya kadar çıkmayı planladığı belirtilirken, teknik ekibin bu hamlede ısrarcı olduğu belirtiliyor.",
@@ -12,19 +33,40 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:15:23.634195",
-      "priority_score": 100,
+      "fetched_at": "2026-04-09T17:55:51.616035",
+      "priority_score": 96,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-09T16:16:42.562309",
+      "processed_at": "2026-04-09T17:57:03.138761",
       "title_tr": "Beşiktaş, Patrik Schick'te ısrarcı: Kulüp tarihine geçecek bonservis",
       "summary_tr": "Beşiktaş, Patrik Schick transferi için tüm şartları zorluyor. Siyah-beyazlıların, Bayer Leverkusen'in golcüsü için 30 milyon euroya kadar çıkmayı planladığı belirtilirken, teknik ekibin bu hamlede ısrarcı olduğu belirtiliyor."
     },
     {
-      "title": "Arsenal's big summer: Arteta contract and Nwaneri and Lewis-Skelly futures",
+      "title": "PSG rue Dembélé misses after dominating L'pool",
+      "summary": "Paris Saint-Germain coach Luis Enrique said his side should have scored more after a dominant 2-0 win over Liverpool in the first leg of their Champions League quarterfinal.",
+      "url": "https://www.espn.com/soccer/story/_/id/48432904/psg-ousmane-dembele-misses-liverpool-champions-league-luis-enrique",
+      "image_url": null,
+      "published": "2026-04-09T18:41:10",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:14.020462",
+      "priority_score": 95,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-09T17:57:02.472638",
+      "title_tr": "PSG rue Dembélé, L'pool'u domine ettikten sonra ıskaladı",
+      "summary_tr": "Paris Saint-Germain teknik direktörü Luis Enrique, Şampiyonlar Ligi çeyrek finalinin ilk ayağında Liverpool'u 2-0 mağlup ettikten sonra takımının daha fazla gol atması gerektiğini söyledi."
+    },
+    {
+      "title": "Arsenal's big summer - Arteta contract, £100m for Nwaneri and Lewis-Skelly",
       "summary": "Whatever happens this season, Arsenal are facing some big decisions in the summer over Mikel Arteta's contract and their transfer moves.",
       "url": "https://www.bbc.com/sport/football/articles/cn78kdymmvpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
@@ -33,214 +75,38 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.549874",
-      "priority_score": 95,
+      "fetched_at": "2026-04-09T17:53:20.096988",
+      "priority_score": 85,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.921239",
-      "title_tr": "Arsenal'in büyük yaz dönemi: Arteta sözleşmesi ve Nwaneri ile Lewis-Skelly vadeli işlemleri",
+      "processed_at": "2026-04-09T17:57:02.486575",
+      "title_tr": "Arsenal'in büyük yaz dönemi: Arteta sözleşmesi, Nwaneri ve Lewis-Skelly için 100 milyon £",
       "summary_tr": "Bu sezon ne olursa olsun, Arsenal yaz aylarında Mikel Arteta'nın sözleşmesi ve transfer hamleleri konusunda büyük kararlarla karşı karşıya kalacak."
     },
     {
-      "title": "Transfers Ajax: Amour tekent zijn eerste profcontract",
-      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-ajax-m-chel-weigert-zich-uit-te-spreken-over-geruchten",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
-      "published": "2026-04-09T15:55:30",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:16:39.581600",
-      "priority_score": 87,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-09T16:16:42.839282",
-      "title_tr": "Transferler Ajax: Amour ilk profesyonel sözleşmesini imzaladı",
-      "summary_tr": "VI, kış transfer döneminin kapalı olmasına rağmen Ajax'taki transfer haberlerini yakından takip ediyor. Amsterdamlıların hedefleri, kulüp gözlemcilerinin yorumu veya yabancı medyadaki ilgi. Her şeyi burada topluyoruz."
-    },
-    {
-      "title": "PSG rue Dembélé misses after dominating L'pool",
-      "summary": "Paris Saint-Germain coach Luis Enrique said his side should have scored more after a dominant 2-0 win over Liverpool in the first leg of their Champions League quarterfinal.",
-      "url": "https://www.espn.com/soccer/story/_/id/48432904/psg-ousmane-dembele-misses-liverpool-champions-league-luis-enrique",
+      "title": "'I would be taking him to the World Cup' - Warnock on Alexander-Arnold",
+      "summary": "Match of the Day pundits Rory Smith and Stephen Warnock look at the impact Harry Kane and Trent Alexander-Arnold had on the Champions League quarter-final first leg between Real Madrid and Bayern Munich.",
+      "url": "https://www.bbc.com/sport/football/videos/cp86zn1lze5o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-09T12:53:17",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.225629",
-      "priority_score": 85,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-09T16:16:41.909374",
-      "title_tr": "PSG rue Dembélé, L'pool'u domine ettikten sonra ıskaladı",
-      "summary_tr": "Paris Saint-Germain teknik direktörü Luis Enrique, Şampiyonlar Ligi çeyrek finalinin ilk ayağında Liverpool'u 2-0 mağlup ettikten sonra takımının daha fazla gol atması gerektiğini söyledi."
-    },
-    {
-      "title": "Stick or sack? Slot's Liverpool future dominates UCL talking points",
-      "summary": "Was Wednesday's 2-0 loss Liverpool's worst performance under Arne Slot? Our writers weigh in on that and all the other moments that mattered from the UCL quarterfinal first legs.",
-      "url": "https://www.espn.com/soccer/story/_/id/48431246/stick-sack-slots-liverpool-future-dominates-ucl-talking-points",
-      "image_url": null,
-      "published": "2026-04-09T15:37:28",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.226429",
-      "priority_score": 80,
-      "categories": [
-        "breaking_news",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-09T16:16:41.914160",
-      "title_tr": "Sopa mı yoksa çuval mı? Slot'un Liverpool'un geleceği UCL'nin konuşma konularına hakim oluyor",
-      "summary_tr": "Çarşamba günkü 2-0'lık mağlubiyet Liverpool'un Arne Slot yönetimindeki en kötü performansı mıydı? Yazarlarımız bu konuyu ve UCL çeyrek final ilk maçlarındaki önemli anları değerlendiriyor."
-    },
-    {
-      "title": "Dominant PSG beat Liverpool in quarter-final first leg",
-      "summary": "Goals from Desire Doue and Khvicha Kvaratskhelia give PSG a 2-0 victory over Liverpool in the first-leg of their Champions League quarter-final.",
-      "url": "https://www.bbc.com/sport/football/videos/c78l1jdep92o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-08T21:35:06",
+      "published": "2026-04-08T23:42:45",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.551377",
-      "priority_score": 80,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-09T16:16:41.944852",
-      "title_tr": "Baskın PSG, çeyrek final ilk maçında Liverpool'u yendi",
-      "summary_tr": "Şampiyonlar Ligi çeyrek final ilk maçında PSG, Desire Doue ve Khvicha Kvaratskhelia'nın golleriyle Liverpool'u 2-0 mağlup etti."
-    },
-    {
-      "title": "Chris Wood recovery boosts Nottingham Forest for Pereira’s return to Porto",
-      "summary": "The New Zealand striker provides a welcome boost as Forest face crunch games in the league and in EuropeNobody has scored more goals in the Europa League this season than Igor Jesus and yet the overwhelming source of interest surrounding Nottingham Forest on arrival in northern Portugal on Wednesday",
-      "url": "https://www.theguardian.com/football/2026/apr/09/chris-wood-nottingham-forest-vitor-pereira-porto-europa-league",
-      "image_url": null,
-      "published": "2026-04-09T07:00:25",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:13:20.547091",
-      "priority_score": 78,
-      "categories": [
-        "match_results",
-        "injuries",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-09T16:16:42.029051",
-      "title_tr": "Chris Wood'un iyileşmesi, Pereira'nın Porto'ya dönüşü için Nottingham Ormanı'nı güçlendiriyor",
-      "summary_tr": "Yeni Zelandalı forvet, Forest'ın ligde ve Avrupa'da zorlu maçlarla karşı karşıya kalması nedeniyle hoş bir destek sağlıyor. Bu sezon Avrupa Ligi'nde kimse Igor Jesus'tan daha fazla gol atmadı, ancak yine de Çarşamba günü Kuzey Portekiz'e vardığında Nottingham Ormanı etrafındaki büyük ilgi odağı oldu."
-    },
-    {
-      "title": "Ertuğrul Doğan’dan Devlet Bahçeli’ye ziyaret!",
-      "summary": "Trabzonspor Başkanı Ertuğrul Doğan, MHP Genel Başkanı Devlet Bahçeli’yi makamında ziyaret etti. Ziyarette Devlet Bahçeli’ye bordo-mavili kulübün simge değerleri arasında yer alan retro forma ve özel işlemeli kılıç hediye edildi.",
-      "url": "https://www.haberturk.com/ertugrul-dogandan-devlet-bahceliye-ziyaret-3876106-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/09/ver1775748284/3876106/jpg/1280x1280",
-      "published": "2026-04-09T15:25:02",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:14:50.649824",
-      "priority_score": 53,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-04-09T16:16:42.136269",
-      "title_tr": "Ertuğrul Doğan’dan Devlet Bahçeli’ye ziyaret!",
-      "summary_tr": "Trabzonspor Başkanı Ertuğrul Doğan, MHP Genel Başkanı Devlet Bahçeli’yi makamında ziyaret etti. Ziyarette Devlet Bahçeli’ye bordo-mavili kulübün simge değerleri arasında yer alan retro forma ve özel işlemeli kılıç hediye edildi."
-    },
-    {
-      "title": "World Snooker Championship schedule: O'Sullivan targets magical eighth title",
-      "summary": "Defending champion Zhao Xintong returns to the Crucible while Ronnie O’Sullivan will make a bid for a record-breaking eighth world title at the World Snooker Championship.",
-      "url": "https://www.skysports.com/snooker/news/12040/13529588/world-snooker-championship-2026-fixtures-schedule-and-results-with-ronnie-osullivan-judd-trump-zhao-xintong-in-action",
-      "image_url": "https://e0.365dm.com/22/05/1920x1080/skysports-ronnie-osullivan_5758699.jpg?20220502213051",
-      "published": "2026-04-09T12:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:53.289018",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-09T16:16:41.983603",
-      "title_tr": "Dünya Snooker Şampiyonası programı: O'Sullivan büyülü sekizinci şampiyonluğu hedefliyor",
-      "summary_tr": "Son şampiyon Zhao Xintong, Crucible'a geri dönerken Ronnie O'Sullivan, Dünya Snooker Şampiyonası'nda rekor kıran sekizinci dünya şampiyonluğu için teklifte bulunacak."
-    },
-    {
-      "title": "Kocaelispor’da iç transferde iki imza birden",
-      "summary": "Kocaelispor, Samet Yalçın ve Muharrem Cinan ile sözleşme yeniledi.",
-      "url": "https://www.cnnturk.com/spor/futbol/kocaelisporda-ic-transferde-iki-imza-birden-2415201",
-      "image_url": null,
-      "published": "2026-04-09T17:08:58",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:15:23.633084",
-      "priority_score": 76,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-09T16:16:42.470392",
-      "title_tr": "Kocaelispor’da iç transferde iki imza birden",
-      "summary_tr": "Kocaelispor, Samet Yalçın ve Muharrem Cinan ile sözleşme yeniledi."
-    },
-    {
-      "title": "Maguire's remarkable Man United turnaround: 'It's made me stronger'",
-      "summary": "Fresh from signing a new deal at Manchester United, Harry Maguire opens up on some of the tougher times of his career at Old Trafford.",
-      "url": "https://www.espn.com/soccer/story/_/id/48435153/from-man-united-lows-england-boos-new-deal-why-harry-maguire-feels-back",
-      "image_url": null,
-      "published": "2026-04-09T15:37:47",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.226681",
+      "fetched_at": "2026-04-09T17:53:20.098539",
       "priority_score": 75,
       "categories": [
-        "transfers",
-        "premier_league"
+        "breaking_news",
+        "la_liga",
+        "bundesliga",
+        "champions_league",
+        "world_cup"
       ],
-      "processed_at": "2026-04-09T16:16:41.917742",
-      "title_tr": "Maguire'ın Manchester United'daki dikkat çekici dönüşümü: 'Bu beni daha güçlü yaptı'",
-      "summary_tr": "Manchester United'da yeni bir anlaşma imzalayan Harry Maguire, Old Trafford'daki kariyerinin en zor zamanlarından bazılarına başlıyor."
-    },
-    {
-      "title": "Kasımpaşa Haris Hajradinovic'le yeni sözleşme imzaladı",
-      "summary": "Lacivert-beyazlı kulüpten yapılan açıklamada, \"Sözleşmesi sezon sonunda sona erecek takım kaptanımız ve başarılı oyuncu...",
-      "url": "https://www.yenisafak.com/spor/kasimpasa-haris-hajradinovicle-yeni-sozlesme-imzaladi-4813693",
-      "image_url": null,
-      "published": "2026-04-09T17:10:27",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:15:56.337456",
-      "priority_score": 72,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-09T16:16:42.613005",
-      "title_tr": "Kasımpaşa Haris Hajradinovic'le yeni sözleşme imzaladı",
-      "summary_tr": "Lacivert-beyazlı kulüpten yapılan açıklamada, \"Sözleşmesi sezon sonunda sona erecek takım kaptanımız ve başarılı oyuncu..."
+      "processed_at": "2026-04-09T17:57:02.506531",
+      "title_tr": "'Onu Dünya Kupası'na götürürdüm' - Alexander-Arnold'a Warnock",
+      "summary_tr": "Günün Maçı uzmanları Rory Smith ve Stephen Warnock, Harry Kane ve Trent Alexander-Arnold'un Real Madrid ile Bayern Münih arasındaki Şampiyonlar Ligi çeyrek final ilk maçında yarattığı etkiye bakıyor."
     },
     {
       "title": "3 maçla 19.34 oran yakaladı! 322.816 TL kazandı…",
@@ -252,116 +118,232 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:15:00.770864",
+      "fetched_at": "2026-04-09T17:55:31.687110",
       "priority_score": 71,
       "categories": [
         "match_results",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-04-09T16:16:42.288075",
+      "processed_at": "2026-04-09T17:57:02.870330",
       "title_tr": "3 maçla 19.34 oran yakaladı! 322.816 TL kazandı…",
       "summary_tr": "Bir Misli üyesi, Çarşamba bülteninde yer alan üç karşılaşmaya Maç Sonucu ve İlk Yarı/ Maç Sonucu tercihleri içeren bir kupon yaptı. Kuponunda yer verdiği maçlardan Göztepe- Galatasaray karşılaşması Süper Lig, Barcelona – Atletico Madrid ve Paris Saint Germain- Liverpool mücadeleleri ise Şampiyonlar"
+    },
+    {
+      "title": "Bologna v Aston Villa: Europa League quarter-final, first leg – live",
+      "summary": "⚽ Europa League news from the first leg; kick-off 8pm BST⚽ Porto v Nottm Forest – live | Join us on Bluesky | Mail TahaIf you don’t want to hang out here, Will Unwin’s covering Porto against Nottingham Forest.Quite the line.The Renato Dall’Ara stadium is a classic example of fascist architecture, ma",
+      "url": "https://www.theguardian.com/football/live/2026/apr/09/bologna-v-aston-villa-europa-league-quarter-final-first-leg-live",
+      "image_url": null,
+      "published": "2026-04-09T17:49:21",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:55.326406",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-09T17:57:02.584697",
+      "title_tr": "Bologna - Aston Villa: Avrupa Ligi çeyrek final ilk maçı canlı",
+      "summary_tr": "⚽ Avrupa Ligi ilk maçından haberler; başlama vuruşu 20:00 BST⚽ Porto - Nottm Forest – canlı | Bluesky'de bize katılın | Mail TahaBurada takılmak istemiyorsan, Will Unwin'in Porto'yu Nottingham Ormanı'na karşı savunması. Tam bir çizgi.Renato Dall'Ara stadyumu faşist mimarinin klasik bir örneğidir, ma"
+    },
+    {
+      "title": "Barcelona dient klacht in bij UEFA: 'Duidelijk onrecht ontstaan'",
+      "summary": "Bij Barcelona leggen ze zich niet zomaar neer bij de nederlaag die werd geleden in de Champions League tegen Atlético Madrid. De Catalanen waren woest op de arbitrage woensdagavond en dat resulteert in een klacht bij de UEFA.",
+      "url": "https://www.vi.nl/nieuws/barcelona-dient-offici-le-klacht-arbitrale-actie-in-strijd-met-de-regelgeving",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/09/bc46a1533038d9a0699c75c94545758b5e64ec91.jpg?width=1200",
+      "published": "2026-04-09T17:49:33",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:56:58.534480",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-09T17:57:03.655615",
+      "title_tr": "Barcelona, ​​UEFA'ya şikayette bulundu: 'Açık adaletsizlik ortaya çıktı'",
+      "summary_tr": "Barselona'da Şampiyonlar Ligi'nde Atletico Madrid'e karşı alınan yenilgiyi kabullenmiyorlar. Katalanlar Çarşamba akşamı yapılan tahkime çok kızdılar ve bu durum UEFA'ya şikayette bulunulmasına yol açtı."
+    },
+    {
+      "title": "Mateta handed first Palace start since January vs Fiorentina LIVE!",
+      "summary": "",
+      "url": "https://www.skysports.com/football/crystal-palace-vs-fiorentina/live/555156",
+      "image_url": "https://e1.365dm.com/26/02/1920x1080/skysports-maxence-lacroix-crystal-palace_7176114.jpg?20260226204905",
+      "published": "2026-04-09T18:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:30.460405",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-09T17:57:02.562662",
+      "title_tr": "Mateta, Fiorentina'ya karşı Ocak ayından bu yana ilk Palace startını CANLI olarak verdi!",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Simeone gets 'difficult' first-ever win at Camp Nou",
       "summary": "Diego Simeone called his Atlético Madrid team \"extremely clinical\" after a 2-0 Champions League quarterfinal first leg win at Barcelona, which was the club's first victory at Camp Nou in 20 years.",
       "url": "https://www.espn.com/soccer/story/_/id/48432902/atletico-simeone-first-win-barcelona-camp-nou",
       "image_url": null,
-      "published": "2026-04-09T12:53:17",
+      "published": "2026-04-09T18:41:10",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.225913",
-      "priority_score": 70,
+      "fetched_at": "2026-04-09T17:53:14.020839",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.911049",
-      "title_tr": "Simeone Camp Nou'daki ilk galibiyetini 'zor' aldı",
-      "summary_tr": "Diego Simeone, kulübün 20 yıldır Camp Nou'da kazandığı ilk galibiyet olan, Şampiyonlar Ligi çeyrek final ilk maçında Barcelona'yı 2-0 yendikten sonra Atlético Madrid takımını \"son derece klinik\" olarak nitelendirdi."
+      "processed_at": "2026-04-09T17:57:02.474323",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Verstappen's engineer Lambiase confirmed to join McLaren in shock move",
-      "summary": "Max Verstappen's engineer Gianpiero Lambiase is to join McLaren in 2028 in a shock move from Red Bull.",
-      "url": "https://www.skysports.com/f1/news/12040/13529532/max-verstappens-red-bull-engineer-gianpiero-lambiase-set-to-join-mclaren-in-2028-in-shock-move-having-turned-down-aston-martin",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-f1-max-verstappen_7214745.jpg?20260409072013",
-      "published": "2026-04-09T09:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Transfers Ajax: Cruijff reageert op contractnieuws van Mokio",
+      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
+      "url": "https://www.vi.nl/nieuws/transfers-ajax-m-chel-weigert-zich-uit-te-spreken-over-geruchten",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
+      "published": "2026-04-09T16:53:49",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:53.289189",
-      "priority_score": 66,
+      "fetched_at": "2026-04-09T17:56:58.534632",
+      "priority_score": 77,
       "categories": [
         "transfers",
-        "breaking_news"
+        "serie_a"
       ],
-      "processed_at": "2026-04-09T16:16:41.998328",
-      "title_tr": "Verstappen'in mühendisi Lambiase'nin şok hamlede McLaren'a katılacağı doğrulandı",
-      "summary_tr": "Max Verstappen'in mühendisi Gianpiero Lambiase, Red Bull'un sürpriz hamlesiyle 2028'de McLaren'a katılacak."
+      "processed_at": "2026-04-09T17:57:03.686625",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Sivasspor, Bolu'da 2 golle kazandı!",
-      "summary": "Sivasspor, Trendyol 1. Lig'in 34. haftasında Boluspor'u deplasmanda 2-1 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/sivasspor-boluda-2-golle-kazandi-43147490",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d7ccf20338862f0b35ea18.jpg",
-      "published": "2026-04-09T15:59:58",
-      "source": "Hürriyet Spor",
+      "title": "Kocaelispor’da iç transferde iki imza birden",
+      "summary": "Kocaelispor, Samet Yalçın ve Muharrem Cinan ile sözleşme yeniledi.",
+      "url": "https://www.cnnturk.com/spor/futbol/kocaelisporda-ic-transferde-iki-imza-birden-2415201",
+      "image_url": null,
+      "published": "2026-04-09T17:08:58",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:15:00.770338",
-      "priority_score": 66,
+      "fetched_at": "2026-04-09T17:55:51.614604",
+      "priority_score": 76,
       "categories": [
-        "match_results",
-        "premier_league"
+        "transfers"
       ],
-      "processed_at": "2026-04-09T16:16:42.214242",
-      "title_tr": "Sivasspor, Bolu'da 2 golle kazandı!",
-      "summary_tr": "Sivasspor, Trendyol 1. Lig'in 34. haftasında Boluspor'u deplasmanda 2-1 mağlup etti."
+      "processed_at": "2026-04-09T17:57:03.043940",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Why Man United shouldn't extend Bruno Fernandes",
-      "summary": "Fernandes is United's MVP. But looking at how things played out with Liverpool and Salah, it's not so simple.",
-      "url": "https://www.espn.com/soccer/story/_/id/48410931/bruno-fernandes-man-united-contract-extension-mohamed-salah-liverpool-transfers-ryan-ohanlon",
+      "title": "Robertson to leave Liverpool at the end of the season",
+      "summary": "Andy Robertson will leave Liverpool at the end of the season when his contract expires in the summer, the club has announced.",
+      "url": "https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-09T17:48:53",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:20.096793",
+      "priority_score": 75,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-09T17:57:02.484217",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Kasımpaşa Haris Hajradinovic'le yeni sözleşme imzaladı",
+      "summary": "Lacivert-beyazlı kulüpten yapılan açıklamada, \"Sözleşmesi sezon sonunda sona erecek takım kaptanımız ve başarılı oyuncu...",
+      "url": "https://www.yenisafak.com/spor/kasimpasa-haris-hajradinovicle-yeni-sozlesme-imzaladi-4813693",
+      "image_url": null,
+      "published": "2026-04-09T17:10:27",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:56:25.361628",
+      "priority_score": 72,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-09T17:57:03.394324",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Stick or sack? Slot's Liverpool future dominates UCL talking points",
+      "summary": "Was Wednesday's 2-0 loss Liverpool's worst performance under Arne Slot? Our writers weigh in on that and all the other moments that mattered from the UCL quarterfinal first legs.",
+      "url": "https://www.espn.com/soccer/story/_/id/48431246/stick-sack-slots-liverpool-future-dominates-ucl-talking-points",
+      "image_url": null,
+      "published": "2026-04-09T15:37:28",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:14.021479",
+      "priority_score": 70,
+      "categories": [
+        "breaking_news",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-09T17:57:02.477585",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Robertson laat Liverpool na dit seizoen achter zich",
+      "summary": "Andy Robertson is bezig aan zijn laatste maanden als speler van Liverpool. De club bevestigde donderdagavond dat de 32-jarige Schot aan het einde van dit seizoen transfervrij vertrekt.",
+      "url": "https://www.vi.nl/nieuws/robertson-laat-liverpool-na-dit-seizoen-achter-zich",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/09/aa085bb73e72ac888ab8156a8dde28385000d1fc.jpg?width=1200",
+      "published": "2026-04-09T17:42:25",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:56:58.534559",
+      "priority_score": 67,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-09T17:57:03.670416",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Maguire's remarkable Man United turnaround: 'It's made me stronger'",
+      "summary": "Fresh from signing a new deal at Manchester United, Harry Maguire opens up on some of the tougher times of his career at Old Trafford.",
+      "url": "https://www.espn.com/soccer/story/_/id/48435153/from-man-united-lows-england-boos-new-deal-why-harry-maguire-feels-back",
       "image_url": null,
       "published": "2026-04-09T15:37:47",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.226802",
-      "priority_score": 65,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-04-09T16:16:41.919033",
-      "title_tr": "Manchester United neden Bruno Fernandes'in sözleşmesini uzatmamalı?",
-      "summary_tr": "Fernandes United'ın MVP'si. Ancak Liverpool ve Salah'la işlerin nasıl gittiğine baktığımızda, her şeyin o kadar da basit olmadığını görüyoruz."
-    },
-    {
-      "title": "Maguire on his major lows and belief he is still one of world's best",
-      "summary": "Manchester United defender Harry Maguire on how his mum defended him in his lowest moments, his return to form, new contract and bright future",
-      "url": "https://www.bbc.com/sport/football/articles/cg4036peyq7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-09T11:00:26",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.550188",
+      "fetched_at": "2026-04-09T17:53:14.021818",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.925701",
-      "title_tr": "Maguire'ın en kötü günleri ve hâlâ dünyanın en iyilerinden biri olduğuna inanması",
-      "summary_tr": "Manchester United defans oyuncusu Harry Maguire, en kötü anlarında annesinin onu nasıl savunduğunu, forma dönüşünü, yeni kontratını ve parlak geleceğini anlatıyor"
+      "processed_at": "2026-04-09T17:57:02.481237",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "How fluid PSG exposed Slot's back-five tweak",
@@ -373,36 +355,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.550976",
+      "fetched_at": "2026-04-09T17:53:20.098341",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "champions_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.936757",
-      "title_tr": "PSG, Slot'un arka beş ayarını ne kadar akıcı bir şekilde ortaya çıkardı?",
-      "summary_tr": "Arne Slot, Şampiyonlar Ligi çeyrek final ilk maçında Liverpool'un şeklini değiştirdi, ancak taktikleri yine de Avrupa şampiyonu Paris St-Germain'e üstün geldi. Umir İrfan nasıl olduğunu açıklıyor."
-    },
-    {
-      "title": "Alvarez scores superb free-kick as Atletico beat 10-man Barca",
-      "summary": "Julian Alvarez and Alexander Sorloth give Atletico Madrid a 2-0 victory over 10-man Barcelona in their Champions League quarter-final first leg at the Nou Camp.",
-      "url": "https://www.bbc.com/sport/football/videos/c5ywlr30w1go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-08T21:46:58",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.551505",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-09T16:16:41.947900",
-      "title_tr": "Atletico, 10 kişilik Barça'yı yenerken Alvarez muhteşem bir serbest vuruş golü attı",
-      "summary_tr": "Julian Alvarez ve Alexander Sörloth, Nou Camp'ta oynanan Şampiyonlar Ligi çeyrek final ilk maçında Atletico Madrid'i 10 kişilik Barcelona'ya 2-0 mağlup etti."
+      "processed_at": "2026-04-09T17:57:02.503380",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Harry Maguire believes Manchester United experiences left former teammates ‘broken’",
@@ -414,15 +375,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-09T16:13:20.548245",
+      "fetched_at": "2026-04-09T17:53:55.328586",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-09T16:16:42.052141",
-      "title_tr": "Harry Maguire, Manchester United deneyimlerinin eski takım arkadaşlarını 'kırık' bıraktığına inanıyor",
-      "summary_tr": "'Çok sayıda oyuncunun geldiğini görüyorum ve bu onlar için çok büyük'Maguire kendisinin 'her iki alanda da en iyi savunmacılardan biri olduğunu düşünüyor'Harry Maguire, Manchester United'da yaşadığı zor zamanların birçok oyuncuyu kırdığına inanıyor ve takım arkadaşlarının Old Trafford'un spot ışığını çok büyük bulduğunu söylüyor"
+      "processed_at": "2026-04-09T17:57:02.620451",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Kocaelispor genç kaleci Talha Polat ile sözleşme imzaladı",
@@ -434,33 +395,74 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:15:56.342126",
+      "fetched_at": "2026-04-09T17:56:25.364321",
       "priority_score": 62,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-09T16:16:42.659503",
-      "title_tr": "Kocaelispor genç kaleci Talha Polat ile sözleşme imzaladı",
-      "summary_tr": "Kulübün ABD merkezli X şirketinin sosyal medya platformundaki hesabından yapılan açıklamada, \"Altyapımızdan yetişen gen..."
+      "processed_at": "2026-04-09T17:57:03.449675",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "\"Maçlarımızı kazanıp yolumuza bakmalıyız!\"",
-      "summary": "Trabzonspor’un golcü oyuncusu Paul Onuachu, şampiyonluk yarışına ilişkin yaptığı açıklamada, maçlarını kazanarak yollarına devam etmeleri gerektiğini söyledi. Bordo-mavili oyuncunun Akyazı’da düzenlenen imza gününde taraftarlar mağaza önüne akın ederken, zaman zaman izdiham yaşandı.",
-      "url": "https://www.haberturk.com/onuachu-maclarimizi-kazanip-yolumuza-bakmaliyiz-3876028-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/09/ver1775732261/3876028/jpg/1280x1280",
-      "published": "2026-04-09T10:58:01",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Maguire on his major lows and belief he is still one of world's best",
+      "summary": "Manchester United defender Harry Maguire on how his mum defended him in his lowest moments, his return to form, new contract and bright future",
+      "url": "https://www.bbc.com/sport/football/articles/cg4036peyq7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-09T11:00:26",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:53:20.097365",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-09T17:57:02.491313",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Felipe Melo: 'Kadıköy'deki şampiyonluk her yıl kutlanmalı'",
+      "summary": "Galatasaray'ın eski Brezilyalı yıldızı Felipe Melo, 2012 yılında kazandıkları şampiyonluğun her sene kutlanması gerektiğini söyledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/felipe-melo-kadikoydeki-sampiyonluk-her-yil-kutlanmali-43147507",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d7d3f10338862f0b35ea69.jpg",
+      "published": "2026-04-09T16:29:39",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:14:50.650568",
-      "priority_score": 58,
+      "fetched_at": "2026-04-09T17:55:31.686354",
+      "priority_score": 56,
       "categories": [
-        "match_results"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-04-09T16:16:42.185995",
-      "title_tr": "\"Maçlarımızı kazanıp yolumuza bakmalıyız!\"",
-      "summary_tr": "Trabzonspor’un golcü oyuncusu Paul Onuachu, şampiyonluk yarışına ilişkin yaptığı açıklamada, maçlarını kazanarak yollarına devam etmeleri gerektiğini söyledi. Bordo-mavili oyuncunun Akyazı’da düzenlenen imza gününde taraftarlar mağaza önüne akın ederken, zaman zaman izdiham yaşandı."
+      "processed_at": "2026-04-09T17:57:02.785567",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Sivasspor, Bolu'da 2 golle kazandı!",
+      "summary": "Sivasspor, Trendyol 1. Lig'in 34. haftasında Boluspor'u deplasmanda 2-1 mağlup etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/sivasspor-boluda-2-golle-kazandi-43147490",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d7ccf20338862f0b35ea18.jpg",
+      "published": "2026-04-09T15:59:58",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-09T17:55:31.686524",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-09T17:57:02.796959",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Onuachu'dan şampiyonluk ve gol krallığı açıklaması",
@@ -472,129 +474,131 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-09T16:15:00.771030",
+      "fetched_at": "2026-04-09T17:55:31.687339",
       "priority_score": 56,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-09T16:16:42.334005",
-      "title_tr": "Onuachu'dan şampiyonluk ve gol krallığı açıklaması",
-      "summary_tr": "Trabzonspor'un golcü yıldızı Onuachu, taraftar buluşmasında konuştu."
+      "processed_at": "2026-04-09T17:57:02.916748",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "VAR review: Cubarsi's sending off changed Barça-Atléti, Pubill penalty claim?",
-      "summary": "In the span of two minutes, Barcelona-Atlético went from scoreless and 11 vs. 11 to the Catalans trailing and down a man. Did the ref make the right call?",
-      "url": "https://www.espn.com/soccer/story/_/id/48432344/var-review-pau-cubarsi-red-card-changed-barcelona-atletico-madrid-champions-league-tie-was-deserved",
+      "title": "Slot relieved despite Liverpool being 'ripped apart'",
+      "summary": "Arne Slot said Liverpool still have hope of a Champions League fightback against Paris Saint-Germain, despite admitting his team were \"ripped apart.\"",
+      "url": "https://www.espn.com/soccer/story/_/id/48432863/arne-slot-liverpool-psg-champions-league-2026-quarterfinal",
       "image_url": null,
-      "published": "2026-04-09T15:37:18",
+      "published": "2026-04-09T18:41:10",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.224532",
+      "fetched_at": "2026-04-09T17:53:14.019888",
       "priority_score": 55,
       "categories": [
-        "la_liga"
+        "champions_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.906699",
-      "title_tr": "VAR incelemesi: Cubarsi'nin ihraç edilmesi Barça-Atléti'yi değiştirdi, Pubill'in penaltı iddiası mı?",
-      "summary_tr": "İki dakika içinde, Barcelona-Atlético skorsuz ve 11'e 11'den Katalanlara bir adam geriden gelerek geçti. Hakem doğru kararı mı verdi?"
+      "processed_at": "2026-04-09T17:57:02.471044",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "PSG's wastefulness leaves door open, but this isn't Klopp's Liverpool any more",
-      "summary": "Liverpool escaped with a 2-0 loss vs. PSG. But a second-leg comeback looks improbable.",
-      "url": "https://www.espn.com/soccer/story/_/id/48432474/wasteful-psg-leave-door-open-liverpool-champions-league",
+      "title": "Flick furious over bizarre 'clear red' in Barça loss",
+      "summary": "Hansi Flick raged that Barcelona should have been given a penalty and Marc Pubill sent off after his team crashed to a 2-0 defeat to Atlético Madrid at Spotify Camp Nou in the Champions League on Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48432893/barcelona-flick-furious-bizarre-missed-red",
       "image_url": null,
-      "published": "2026-04-09T15:37:28",
+      "published": "2026-04-09T18:41:10",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:35.226555",
+      "fetched_at": "2026-04-09T17:53:14.020079",
       "priority_score": 55,
       "categories": [
-        "general"
+        "la_liga",
+        "champions_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.915919",
-      "title_tr": "PSG'nin savurganlığı kapıyı açık bırakıyor ama burası artık Klopp'un Liverpool'u değil",
-      "summary_tr": "Liverpool, PSG karşısında 2-0 mağlup oldu. Ancak ikinci maçta geri dönüş pek olası görünmüyor."
+      "processed_at": "2026-04-09T17:57:02.471536",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Sutton's predictions v boxing promoter & Arsenal fan Frank Warren",
-      "summary": "Chris Sutton takes on boxing promoter Frank Warren plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "url": "https://www.bbc.com/sport/football/articles/cwyj5w47zlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Maguire: 'Big summer' for Man Utd recruitment",
+      "summary": "Harry Maguire says it's vital Manchester United get their summer recruitment right while warning that he's seen players arrive during his time at Old Trafford that could not handle the pressure that comes with representing the club.",
+      "url": "https://www.espn.com/soccer/story/_/id/48435942/harry-maguire-urges-man-united-bosses-get-summer-recruitment-right",
       "image_url": null,
-      "published": "2026-04-09T15:48:26",
-      "source": "BBC Sport Football",
+      "published": "2026-04-09T18:41:10",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:39.550350",
+      "fetched_at": "2026-04-09T17:53:14.020265",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-04-09T16:16:41.928000",
-      "title_tr": "Sutton'ın tahminleri boks organizatörü ve Arsenal hayranı Frank Warren'a karşı",
-      "summary_tr": "Chris Sutton, bu hafta sonu Premier Lig fikstürüne ilişkin tahminleriyle boks organizatörü Frank Warren'ın yanı sıra BBC okuyucuları ve yapay zekayla konuşuyor."
+      "processed_at": "2026-04-09T17:57:02.472000",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Hekimoğlu derman olamadı",
-      "summary": "Beşiktaş’ın genç forveti Mustafa Erhan Hekimoğlu ikinci forvet konumunda olsa da skor katkısı üretmekte zorlandı. Bu sezon sadece 1 gol atabilen 18 yaşındaki futbolcu, A takımdaki 3 sezonda ise toplam 4 gol kaydetti.",
-      "url": "https://www.haberturk.com/besiktas-a-mustafa-hekimoglu-derman-olamadi-3875998-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/09/ver1775724991/3875998/jpg/1280x1280",
-      "published": "2026-04-09T08:56:31",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Survey: Travel concerns could 'undermine' WCup",
+      "summary": "Concerns about personal safety, visas, ticket prices and U.S. government policies are topmost on international fans' minds as they weigh whether to travel to the United States for the World Cup in June, according to a newly released survey.",
+      "url": "https://www.espn.com/soccer/story/_/id/48431461/world-cup-travel-concerns-undermine-international-visits",
+      "image_url": null,
+      "published": "2026-04-09T18:41:10",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:14:50.650735",
-      "priority_score": 53,
+      "fetched_at": "2026-04-09T17:53:14.020665",
+      "priority_score": 55,
       "categories": [
-        "match_results",
-        "super_lig"
+        "serie_a",
+        "world_cup"
       ],
-      "processed_at": "2026-04-09T16:16:42.197804",
-      "title_tr": "Hekimoğlu derman olamadı",
-      "summary_tr": "Beşiktaş’ın genç forveti Mustafa Erhan Hekimoğlu ikinci forvet konumunda olsa da skor katkısı üretmekte zorlandı. Bu sezon sadece 1 gol atabilen 18 yaşındaki futbolcu, A takımdaki 3 sezonda ise toplam 4 gol kaydetti."
+      "processed_at": "2026-04-09T17:57:02.473401",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Transfers PSV: zestienjarig talent verruilt Helmond Sport weer voor De Herdgang",
-      "summary": "VI volgt het transfernieuws bij PSV op de voet. De doelwitten van de Eindhovenaren, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-psv-zestienjarig-talent-verruilt-helmond-sport-weer-voor-de-herdgang",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2025/08/02/ca11a6e4-7865-41dd-b98b-a3e0b8e278bb.jpg?width=1200",
-      "published": "2026-04-09T16:08:37",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Suárez, 39, open to Uruguay return for World Cup",
+      "summary": "Luis Suárez said he is open to a return to the Uruguay national team despite retiring from international duty in 2024, insisting he would never turn his back on his country.",
+      "url": "https://www.espn.com/soccer/story/_/id/48431580/luis-suarez-uruguay-inter-miami-2026-world-cup-retire",
+      "image_url": null,
+      "published": "2026-04-09T18:41:10",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:16:39.581536",
-      "priority_score": 52,
+      "fetched_at": "2026-04-09T17:53:14.021105",
+      "priority_score": 55,
       "categories": [
-        "transfers"
+        "serie_a",
+        "world_cup"
       ],
-      "processed_at": "2026-04-09T16:16:42.825578",
-      "title_tr": "PSV Transferleri: On altı yaşındaki yetenek Helmond Sport'u yeniden De Herdgang'la takas etti",
-      "summary_tr": "VI, PSV'deki transfer haberlerini yakından takip ediyor. Eindhoven halkının hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgisi. Her şeyi burada topluyoruz."
+      "processed_at": "2026-04-09T17:57:02.475229",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Watson hits out at PGA Tour for welcoming back LIV Golf stars",
-      "summary": "Former major champion Tom Watson has criticised the PGA Tour for allowing players who left the tour for the rival LIV Golf League the chance to return.",
-      "url": "https://www.skysports.com/golf/news/12040/13529691/tom-watson-hits-out-at-pga-tour-and-calls-for-tougher-punishments-for-liv-golf-league-players-being-allowed-to-return",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-brooks-koepka-golf_7215217.jpg?20260409160519",
-      "published": "2026-04-09T16:05:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Why Man United shouldn't extend Bruno Fernandes",
+      "summary": "Fernandes is United's MVP. But looking at how things played out with Liverpool and Salah, it's not so simple.",
+      "url": "https://www.espn.com/soccer/story/_/id/48410931/bruno-fernandes-man-united-contract-extension-mohamed-salah-liverpool-transfers-ryan-ohanlon",
+      "image_url": null,
+      "published": "2026-04-09T15:37:47",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-09T16:12:53.289310",
-      "priority_score": 51,
+      "fetched_at": "2026-04-09T17:53:14.021979",
+      "priority_score": 55,
       "categories": [
-        "match_results"
+        "general"
       ],
-      "processed_at": "2026-04-09T16:16:42.008779",
-      "title_tr": "Watson, LIV Golf yıldızlarını tekrar ağırlamak için PGA Tour'a çıktı",
-      "summary_tr": "Eski büyük şampiyon Tom Watson, PGA Tour'u rakip LIV Golf Ligi için turdan ayrılan oyunculara geri dönme şansı verdiği için eleştirdi."
+      "processed_at": "2026-04-09T17:57:02.482537",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
