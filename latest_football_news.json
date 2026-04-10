@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-04-10T10:05:33.483456",
+  "timestamp": "2026-04-10T11:45:07.120726",
   "total_items": 30,
   "news": [
+    {
+      "title": "'Legend' Robertson to leave Liverpool in summer",
+      "summary": "Andy Robertson will leave Liverpool at the end of the current season after nine years at Anfield, the Premier League club confirmed Thursday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
+      "image_url": null,
+      "published": "2026-04-10T12:11:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:40.448202",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-10T11:43:27.418777",
+      "title_tr": "'Efsane' Robertson yazın Liverpool'dan ayrılacak",
+      "summary_tr": "Premier Lig kulübü Perşembe günü yaptığı açıklamada, Andy Robertson'ın Anfield'da dokuz yıl geçirdikten sonra bu sezon sonunda Liverpool'dan ayrılacağını doğruladı."
+    },
     {
       "title": "Liverpool announce Andy Robertson will leave at the end of the season",
       "summary": "Left-back who joined in 2017 is out of contract in summerNapoli, Juventus, Atlético and Spurs keen on RobertsonAndy Robertson is to bring his illustrious Liverpool career to a close at the end of the season, the club have confirmed.The 32-year-old is out of contract this summer and will follow anoth",
@@ -12,57 +33,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.840181",
+      "fetched_at": "2026-04-10T11:40:25.824147",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-04-10T10:04:15.792844",
-      "title_tr": "Liverpool, Andy Robertson'ın sezon sonunda ayrılacağını duyurdu",
-      "summary_tr": "2017'de takıma katılan sol bekin sözleşmesi yazın bitiyorNapoli, Juventus, Atlético ve Spurs, Robertson'a meraklı Andy Robertson, kulüp tarafından yapılan açıklamaya göre, Andy Robertson'ın muhteşem Liverpool kariyerine sezon sonunda son vereceği belirtildi. 32 yaşındaki oyuncunun bu yaz sözleşmesi bitiyor ve bir yenisini takip edecek."
+      "processed_at": "2026-04-10T11:43:27.596877",
+      "title_tr": "Liverpool, Andy Robertson'un sezon sonunda ayrılacağını duyurdu",
+      "summary_tr": "2017'de takıma katılan sol bekin sözleşmesi yazın bitiyorNapoli, Juventus, Atletico ve Spurs, Robertson'a meraklı Andy Robertson, kulüp tarafından yapılan açıklamaya göre, Andy Robertson'ın muhteşem Liverpool kariyerine sezon sonunda son vereceğini doğruladı. 32 yaşındaki oyuncunun bu yaz sözleşmesi sona eriyor ve bir yenisini takip edecek."
     },
     {
-      "title": "'Legend' Robertson to leave Liverpool in summer",
-      "summary": "Andy Robertson will leave Liverpool at the end of the current season after nine years at Anfield, the Premier League club confirmed Thursday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
+      "title": "Slot feels 'complete support' of Liverpool bosses",
+      "summary": "Arne Slot insists he feels the \"complete support\" of the Liverpool hierarchy as he comes under growing pressure following three consecutive defeats.",
+      "url": "https://www.espn.com/soccer/story/_/id/48445580/arne-slot-feel-complete-support-liverpool-bosses-amid-dismal-run",
       "image_url": null,
-      "published": "2026-04-10T08:52:30",
+      "published": "2026-04-10T12:11:01",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.382913",
+      "fetched_at": "2026-04-10T11:39:40.447657",
       "priority_score": 90,
       "categories": [
         "transfers",
-        "breaking_news",
-        "premier_league"
+        "match_results"
       ],
-      "processed_at": "2026-04-10T10:04:15.619447",
-      "title_tr": "'Efsane' Robertson yazın Liverpool'dan ayrılacak",
-      "summary_tr": "Premier Lig kulübü Perşembe günü, Andy Robertson'ın Anfield'da dokuz yıl geçirdikten sonra bu sezon sonunda Liverpool'dan ayrılacağını doğruladı."
-    },
-    {
-      "title": "'Liverpool stevent af op nieuw contract voor bijna transfervrije Konaté'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/neymar-gelinkt-aan-vertrek-naar-verenigde-staten",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-04-10T09:23:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:04:13.157880",
-      "priority_score": 87,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-10T10:04:16.836812",
-      "title_tr": "'Liverpool neredeyse transfersiz Konaté için yeni bir sözleşmeye doğru gidiyor'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-04-10T11:43:27.417132",
+      "title_tr": "Slot, Liverpool patronlarının 'tam desteğini' hissediyor",
+      "summary_tr": "Arne Slot, üst üste üç yenilginin ardından giderek artan baskı altına girerken Liverpool hiyerarşisinin \"tam desteğini\" hissettiğinde ısrar ediyor."
     },
     {
       "title": "What De Zerbi’s comments about Mason Greenwood tell us about male violence | Chris Paouros",
@@ -74,15 +74,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.837405",
-      "priority_score": 78,
+      "fetched_at": "2026-04-10T11:40:25.820707",
+      "priority_score": 68,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-04-10T10:04:15.734402",
+      "processed_at": "2026-04-10T11:43:27.535942",
       "title_tr": "De Zerbi'nin Mason Greenwood hakkındaki yorumları bize erkek şiddeti hakkında neler söylüyor | Chris Pauros",
-      "summary_tr": "Spurs başantrenörünün eski oyuncusuyla ilgili geçmiş yorumları nedeniyle özür dilemesi önemli ama yetersizdi. Futbolda bazı şeylerin değişmesini istiyorsak, biraz sorumluluğa ihtiyacımız var Roberto De Zerbi, Tottenham'ın başantrenörü olarak verdiği ilk röportajda Mason Greenwood hakkında geçmişte yaptığı yorumlar nedeniyle özür diledi."
+      "summary_tr": "Spurs başantrenörünün eski oyuncusu hakkında geçmişteki yorumları nedeniyle özür dilemesi önemli ama yetersizdi. Futbolda bazı şeylerin değişmesini istiyorsak, biraz sorumluluğa ihtiyacımız var Roberto De Zerbi, Tottenham'ın başantrenörü olarak verdiği ilk röportajda Mason Greenwood hakkında geçmişte yaptığı yorumlar nedeniyle özür diledi."
     },
     {
       "title": "Matthias Ginter in FIFA World Cup conversation after 'perfect game' against Celta Vigo",
@@ -94,16 +94,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:43.573267",
+      "fetched_at": "2026-04-10T11:40:50.718325",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-10T10:04:15.827473",
+      "processed_at": "2026-04-10T11:43:27.639603",
       "title_tr": "Matthias Ginter, Celta Vigo'ya karşı 'mükemmel maç' sonrası FIFA Dünya Kupası sohbetinde",
       "summary_tr": "Freiburg, UEFA Avrupa Ligi çeyrek final ilk maçında Celta Vigo'yu 3-0 yenerken Matthias Ginter gayet iyi durumdaydı. Bu nedenle bu yaz düzenlenecek FIFA Dünya Kupası'na katılma potansiyeli yine tartışma konusu..."
+    },
+    {
+      "title": "Karl weken aan de kant, Bayern voorzichtig met Kane richting topduels",
+      "summary": "Bayern München moet het de komende weken stellen zonder Lennart Karl. Het talent staat volgens Duitse media ongeveer drie weken aan de kant met een hamstringblessure en mist daarmee onder meer het duel met Real Madrid, de bekerwedstrijd tegen Bayer Leverkusen en mogelijk ook de eerste halve finale i",
+      "url": "https://www.vi.nl/nieuws/karl-weken-aan-de-kant-bayern-voorzichtig-met-kane-richting-topduels",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/10/8688ca565c1f68979edcec578fc8bdfe871554d8.jpg?width=1200",
+      "published": "2026-04-10T11:18:12",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:43:23.308522",
+      "priority_score": 57,
+      "categories": [
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-10T11:43:28.720881",
+      "title_tr": "Karl haftalardır kenarda, Bayern ise Kane'in üst düzey maçlara çıkması konusunda temkinli davranıyor",
+      "summary_tr": "Bayern Münih önümüzdeki haftalarda Lennart Karl'sız idare etmek zorunda kalacak. Alman medyasına göre yetenek, diz arkası sakatlığı nedeniyle yaklaşık üç hafta sahalardan uzak kalacak ve bu nedenle Real Madrid maçını, Bayer Leverkusen kupa maçını ve muhtemelen ilk yarı final maçını kaçıracak."
     },
     {
       "title": "Beşiktaş’tan dikkat çeken istatistik! West Ham’ın iç saha maçları berabere bitiyor… İşte Misli’den Günün Tüyoları",
@@ -115,193 +135,173 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:02:44.327857",
+      "fetched_at": "2026-04-10T11:41:51.451929",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-10T10:04:16.104162",
+      "processed_at": "2026-04-10T11:43:27.969075",
       "title_tr": "Beşiktaş’tan dikkat çeken istatistik! West Ham’ın iç saha maçları berabere bitiyor… İşte Misli’den Günün Tüyoları",
       "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor."
     },
     {
-      "title": "Weekend predictions: Arsenal to regain form vs. Bournemouth, Barcelona to win derby",
-      "summary": "Arsenal need a win to stay in control of the league as Man City keep chasing. Another wild weekend of action awaits as we pick out the best games to watch in Europe.",
-      "url": "https://www.espn.com/soccer/story/_/id/48440785/weekend-predictions-arsenal-bournemouth-manchester-city-barcelona-laliga-premier-league",
-      "image_url": null,
-      "published": "2026-04-10T10:02:32",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.382295",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-04-10T10:04:15.618532",
-      "title_tr": "Hafta sonu tahminleri: Arsenal Bournemouth karşısında formunu yeniden kazanacak, derbiyi Barcelona kazanacak",
-      "summary_tr": "Man City kovalamaya devam ederken Arsenal'in ligde kontrolü elinde tutabilmesi için galibiyete ihtiyacı var. Avrupa'da izlenecek en iyi oyunları seçerken aksiyon dolu bir hafta sonu daha bizi bekliyor."
-    },
-    {
-      "title": "Inside Sant Andreu: Barcelona's anti-fascist cult club set for promotion",
-      "summary": "“Sant Andreu is a way of life,” says Roger Graells Font, director of communications at the club. A visit to this Catalonian outfit playing in Spain’s fourth tier is proof of that. Sant Andreu have become a cult club. They are unique and they are on the rise.",
-      "url": "https://www.skysports.com/football/news/12040/13512982/inside-sant-andreu-barcelonas-anti-fascist-cult-club-capturing-the-imagination-and-set-for-promotion-to-spains-third-tier",
-      "image_url": "https://e2.365dm.com/26/02/1920x1080/skysports-ue-sant-andreu-barcelona_7166579.jpg?20260216141818",
-      "published": "2026-04-10T10:00:00",
+      "title": "Clarke plots Huni upset: I'll change everybody's opinion",
+      "summary": "Frazer Clarke believes he can swing public opinion by upsetting Justis Huni at Tottenham on Saturday night.",
+      "url": "https://www.skysports.com/boxing/news/12040/13529656/frazer-clarke-vows-to-upset-justis-huni-and-change-public-opinion-following-defeats-to-fabio-wardley-and-jeamie-tkv",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-frazer-clarke-boxing_7215193.jpg?20260409152148",
+      "published": "2026-04-10T12:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-10T10:00:56.367190",
+      "fetched_at": "2026-04-10T11:39:58.393644",
+      "priority_score": 51,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-04-10T11:43:27.498220",
+      "title_tr": "Clarke, Huni'ye komplo kuruyor: Herkesin fikrini değiştireceğim",
+      "summary_tr": "Frazer Clarke, Cumartesi gecesi Tottenham'da Justis Huni'yi üzerek kamuoyunu etkileyebileceğine inanıyor."
+    },
+    {
+      "title": "Live on Sky: Liverpool vs Fulham preview: Isak return 'vital' for Reds",
+      "summary": "",
+      "url": "https://www.skysports.com/football/liverpool-vs-fulham/live/531444",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-liverpool-fulham_7213011.jpg?20260407100117",
+      "published": "2026-04-10T11:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:58.393735",
+      "priority_score": 51,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-04-10T11:43:27.507816",
+      "title_tr": "Sky'da canlı yayın: Liverpool vs Fulham önizlemesi: Isak, Reds için 'hayati' geri dönüyor",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+    },
+    {
+      "title": "Bayern Munich’s Lennart Karl faces spell on sidelines",
+      "summary": "Bayern Munich will be without Lennart Karl for the foreseeable future after the attacking midfielder suffered a muscle fibre tear in the back of his right thigh.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-lennart-karl-injury-36833",
+      "image_url": null,
+      "published": "2026-04-10T10:53:19",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:40:50.716343",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-10T11:43:27.622815",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Alvaro Arbeloa: 'Burası Real Madrid beklentiler en üst seviyede!'",
+      "summary": "Real Madrid Teknik Direktörü Alvaro Arbeloa, Girona maçı öncesinde düzenlenen basın toplantısında açıklamalarda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/alvaro-arbeloa-burasi-real-madrid-beklentiler-en-ust-seviyede-43148047",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d8d402131f7a6651405bf1.jpg",
+      "published": "2026-04-10T10:50:10",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:41:51.450993",
       "priority_score": 51,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-04-10T10:04:15.726842",
-      "title_tr": "Sant Andreu'nun İçinde: Barselona'nın anti-faşist kült kulübü tanıtıma hazırlanıyor",
-      "summary_tr": "Kulübün iletişim direktörü Roger Graells Font, \"Sant Andreu bir yaşam tarzıdır\" diyor. İspanya'nın dördüncü liginde oynayan Katalonya takımına yapılan ziyaret bunun kanıtıdır. Sant Andreu kült bir kulüp haline geldi. Benzersizler ve yükselişteler."
+      "processed_at": "2026-04-10T11:43:27.803631",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "NBA'de milli basketbolcular karşı karşıya geldi",
-      "summary": "NBA'de Houston Rockets evinde Philadelphia 76ers'ı 113-102'lik skorla mağlup ederken, milli basketbolculardan Alperen Şengün 8 sayı, 12 ribaund, 4 asist ve 1 top çalma, Adem Bona da 2 sayı, 2 ribaund ile oynadı.",
-      "url": "https://www.cnnturk.com/spor/nba/nbade-milli-basketbolcular-karsi-karsiya-geldi-2415387",
-      "image_url": null,
-      "published": "2026-04-10T10:06:53",
-      "source": "CNN Türk Spor",
+      "title": "Beşiktaş ve Fenerbahçe, dev golcü için yarışa giriyor! Osimhen gibi gelecek",
+      "summary": "Beşiktaş ve Fenerbahçe, Avrupa'nın sayılı golcülerinden biri için transfer operasyonuna başlamaya hazırlanıyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-ve-fenerbahce-dev-golcu-icin-yarisa-giriyor-osimhen-gibi-gelecek-43147991",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d8dd287370607e7db36596.jpg",
+      "published": "2026-04-10T11:18:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:03:05.905181",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-10T10:04:16.285731",
-      "title_tr": "NBA'de milli basketbolcular karşı karşıya geldi",
-      "summary_tr": "NBA'de Houston Rockets evinde Philadelphia 76ers'ı 113-102'lik skorla mağlup ederken, milli basketbolculardan Alperen Şengün 8 sayı, 12 ribaund, 4 asist ve 1 top çalma, Adem Bona da 2 sayı, 2 ribaund ile oynadı."
-    },
-    {
-      "title": "Arsenal's big summer - Arteta contract, £100m for Nwaneri and Lewis-Skelly",
-      "summary": "Whatever happens this season, Arsenal are facing some big decisions in the summer over Mikel Arteta's contract and their transfer moves.",
-      "url": "https://www.bbc.com/sport/football/articles/cn78kdymmvpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-09T15:36:40",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:45.134483",
-      "priority_score": 80,
+      "fetched_at": "2026-04-10T11:41:51.450911",
+      "priority_score": 81,
       "categories": [
         "transfers",
-        "premier_league"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-04-10T10:04:15.671803",
-      "title_tr": "Arsenal'in büyük yaz dönemi: Arteta sözleşmesi, Nwaneri ve Lewis-Skelly için 100 milyon £",
-      "summary_tr": "Bu sezon ne olursa olsun, Arsenal yaz aylarında Mikel Arteta'nın sözleşmesi ve transfer hamleleri konusunda büyük kararlarla karşı karşıya kalacak."
-    },
-    {
-      "title": "Palace enjoy 'special' night with rout of Fiorentina",
-      "summary": "Oliver Glasner said he could feel \"something special\" at Selhurst Park as Crystal Palace secured a 3-0 victory over Fiorentina in the first leg of their Conference League quarterfinal.",
-      "url": "https://www.espn.com/soccer/story/_/id/48442650/crystal-palace-fiorentina-uefa-conference-league-oliver-glasner",
-      "image_url": null,
-      "published": "2026-04-10T08:52:30",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.383507",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-10T10:04:15.621985",
-      "title_tr": "Saray, Fiorentina yenilgisiyle 'özel' gecenin tadını çıkardı",
-      "summary_tr": "Oliver Glasner, Crystal Palace'ın Konferans Ligi çeyrek finalinin ilk ayağında Fiorentina'yı 3-0 yenerken Selhurst Park'ta \"özel bir şeyler\" hissettiğini söyledi."
-    },
-    {
-      "title": "Transfer rumors, news: Arsenal look to raise £100m from double exit",
-      "summary": "Myles Lewis-Skelly and Ethan Nwaneri are among five players who could be allowed to leave Arsenal. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
-      "image_url": null,
-      "published": "2026-04-10T09:10:12",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.384402",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-10T10:04:15.629650",
-      "title_tr": "Transfer söylentileri, haberler: Arsenal çift çıkıştan 100 milyon £ toplamak istiyor",
-      "summary_tr": "Myles Lewis-Skelly ve Ethan Nwaneri, Arsenal'den ayrılmasına izin verilebilecek beş oyuncu arasında yer alıyor. Transfer Talk'ta en son gelişmeler var."
-    },
-    {
-      "title": "I feel complete support from owners and fans - Slot",
-      "summary": "Liverpool manager Arne Slot insists he feels \"complete support\" from the club's hierarchy and fans despite a run of poor on-field performances and growing discontent about his future as manager",
-      "url": "https://www.bbc.com/sport/football/articles/ckgx9633e81o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-10T09:20:16",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:45.132499",
-      "priority_score": 75,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-10T10:04:15.633292",
-      "title_tr": "Sahiplerin ve hayranların tam desteğini hissediyorum - Slot",
-      "summary_tr": "Liverpool menajeri Arne Slot, sahadaki kötü performanslarına ve teknik direktör olarak geleceğine dair artan hoşnutsuzluğa rağmen kulübün hiyerarşisi ve taraftarlarından \"tam destek\" hissettiğinde ısrar ediyor"
+      "processed_at": "2026-04-10T11:43:27.792982",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Slot ‘feels support’ of fans and owners; Howe denies Newcastle ‘fallings out’: football news – live",
       "summary": "⚽️ News and buildup before a big weekend of football⚽️ Read the latest Football Daily | And you can mail BarryAston Villa: Despite the looming World Cup and this season still being very much up in the air for both sides, Bayern Munich have just announced they will be playing Aston Villa in a pre-sea",
       "url": "https://www.theguardian.com/football/live/2026/apr/10/premier-league-weekend-football-countdown-live",
       "image_url": null,
-      "published": "2026-04-10T09:42:24",
+      "published": "2026-04-10T11:29:27",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.837861",
+      "fetched_at": "2026-04-10T11:40:25.821251",
       "priority_score": 73,
       "categories": [
         "transfers",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-04-10T10:04:15.743139",
-      "title_tr": "Slot, hayranların ve sahiplerin 'desteğini hissediyor'; Howe, Newcastle'daki 'düşüşleri' yalanladı: futbol haberleri - canlı",
-      "summary_tr": "⚽️ Futbolun büyük hafta sonundan önce haberler ve gelişmeler⚽️ En son Football Daily'yi okuyun | Ve BarryAston Villa'ya e-posta gönderebilirsiniz: Yaklaşan Dünya Kupası'na ve bu sezon her iki taraf için de havanın hala çok iyi olmasına rağmen, Bayern Münih, hazırlık maçında Aston Villa ile oynayacağını az önce duyurdu."
+      "processed_at": "2026-04-10T11:43:27.544713",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Flemming: 'De topdrie in Nederland is op dit moment geen stap omhoog meer'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/flemming-de-topdrie-in-nederland-is-op-dit-moment-geen-stap-omhoog-meer",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-04-10T10:50:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:43:23.308807",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-10T11:43:28.792751",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Gasperini wijst Malen aan als voorbeeld voor transferbeleid Roma",
       "summary": "Gian Piero Gasperini ziet Donyell Malen als voorbeeld voor AS Roma. De trainer van de Romeinen meent dat de keuze voor de Oranje-international navolging moet krijgen en hoopt dat de club het transferbeleid op de schop gooit.",
       "url": "https://www.vi.nl/nieuws/gasperini-wijst-malen-aan-als-voorbeeld-voor-transferbeleid-roma",
       "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/10/8a76b796942e72160e8e1e54994f3a94d94b59b4.jpg?width=1200",
-      "published": "2026-04-10T09:41:41",
+      "published": "2026-04-10T11:25:30",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-10T10:04:13.157812",
+      "fetched_at": "2026-04-10T11:43:23.309147",
       "priority_score": 67,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-10T10:04:16.817284",
-      "title_tr": "Gasperini, Roma'nın transfer politikasına örnek olarak Malen'i gösteriyor",
-      "summary_tr": "Gian Piero Gasperini, Donyell Malen'i AS Roma'ya örnek olarak görüyor. Romalıların teknik direktörü, Hollandalı milli futbolcunun seçiminin takip edilmesi gerektiğine inanıyor ve kulübün transfer politikasını elden geçireceğini umuyor."
+      "processed_at": "2026-04-10T11:43:28.880712",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "FIFA selects four German referees for World Cup 2026 duty",
@@ -313,56 +313,113 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:43.577588",
+      "fetched_at": "2026-04-10T11:40:50.724121",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-04-10T10:04:15.877778",
-      "title_tr": "FIFA, 2026 Dünya Kupası'nda görev alacak dört Alman hakemi seçti",
-      "summary_tr": "Felix Zwayer, Robert Kempter, Christian Dietz ve Bastian Dankert, turnuvanın maç görevlileri listesinde yer aldıktan sonra FIFA 2026 Dünya Kupası'nda yer alacak."
+      "processed_at": "2026-04-10T11:43:27.701344",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe, 3 transferi belirledi! Sadettin Saran'dan Avrupa'da şov",
-      "summary": "Fenerbahçe Başkanı Sadettin Saran ve yönetimi, gelecek sezon için takımı kurmaya başladı. Sarı lacivertlilerin başkanının hedefinde Avrupa'dan üst düzey yıldızlar var.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-3-transferi-belirledi-sadettin-sarandan-avrupada-sov-43147719",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d89114595eaed10ce28b38.jpg",
-      "published": "2026-04-10T05:58:38",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:02:44.327912",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-10T10:04:16.115982",
-      "title_tr": "Fenerbahçe, 3 transferi belirledi! Sadettin Saran'dan Avrupa'da şov",
-      "summary_tr": "Fenerbahçe Başkanı Sadettin Saran ve yönetimi, gelecek sezon için takımı kurmaya başladı. Sarı lacivertlilerin başkanının hedefinde Avrupa'dan üst düzey yıldızlar var."
-    },
-    {
-      "title": "Mateta puts Crystal Palace on path to semis in rousing win over Fiorentina",
-      "summary": "Spring is in the air and it’s all beaming smiles again at Crystal Palace. A sensational performance blew away Fiorentina as Jean-Philippe Mateta scored on his first start since the end of January, Tyrick Mitchell added a second before Ismaïla Sarr’s late header left Oliver Glasner’s side with one fo",
-      "url": "https://www.theguardian.com/football/2026/apr/09/crystal-palace-fiorentina-conference-league-quarter-final-first-leg-match-report",
+      "title": "Bayern's Kompany: Kane played past pain limit",
+      "summary": "Harry Kane played with pain \"beyond the threshold\" in Bayern Munich's victory against Real Madrid, head coach Vincent Kompany has revealed.",
+      "url": "https://www.espn.com/soccer/story/_/id/48445962/harry-kane-played-pain-threshold-real-madrid-vincent-kompany",
       "image_url": null,
-      "published": "2026-04-09T21:05:33",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-04-10T12:11:00",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.839461",
-      "priority_score": 63,
+      "fetched_at": "2026-04-10T11:39:40.447836",
+      "priority_score": 65,
       "categories": [
-        "match_results",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-10T11:43:27.417597",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Porto's 25-yard OG gifts Forest hope in UEL",
+      "summary": "Nottingham Forest's Europa League hopes remain intact after a comical own goal helped them get out of their quarterfinal first leg at FC Porto with a 1-1 draw.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862901",
+      "image_url": null,
+      "published": "2026-04-10T12:11:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:40.448011",
+      "priority_score": 65,
+      "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-10T10:04:15.776969",
-      "title_tr": "Mateta, Fiorentina'yı yenerek Crystal Palace'ı yarı finale taşıdı",
-      "summary_tr": "Havada bahar var ve Crystal Palace'ta yeniden gülücükler saçıyor. Jean-Philippe Mateta Ocak ayının sonundan bu yana ilk başlangıcında gol atarken, sansasyonel bir performans Fiorentina'yı havaya uçurdu; Tyrick Mitchell, Ismaïla Sarr'ın son kafa vuruşu Oliver Glasner'ın yanından bir golle ayrılmadan önce bir saniye ekledi."
+      "processed_at": "2026-04-10T11:43:27.418130",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Source: Cincinnati looking into move for Neymar",
+      "summary": "Neymar has emerged as the latest global soccer icon to draw interest from MLS, as FC Cincinnati has begun exploring options to bring the Santos star to the United States, a source told ESPN's Nathalia Ferrão.",
+      "url": "https://www.espn.com/soccer/story/_/id/48442034/cincinnati-exploring-move-bring-neymar-mls",
+      "image_url": null,
+      "published": "2026-04-10T12:11:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:40.448834",
+      "priority_score": 65,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-04-10T11:43:27.421119",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Transfer rumors, news: Arsenal look to raise £100m from double exit",
+      "summary": "Myles Lewis-Skelly and Ethan Nwaneri are among five players who could be allowed to leave Arsenal. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
+      "image_url": null,
+      "published": "2026-04-10T09:10:12",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:40.449580",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-10T11:43:27.427211",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "I feel complete backing from owners and fans - Slot",
+      "summary": "Liverpool manager Arne Slot insists he feels \"complete support\" from the club's hierarchy and fans despite a run of poor on-field performances and growing discontent about his future as manager",
+      "url": "https://www.bbc.com/sport/football/articles/ckgx9633e81o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-10T09:20:16",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:47.275950",
+      "priority_score": 65,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-10T11:43:27.430850",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Rogers centre of transfer tug of war - Friday's gossip",
@@ -374,34 +431,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-10T10:00:45.133585",
+      "fetched_at": "2026-04-10T11:39:47.278123",
       "priority_score": 60,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-10T10:04:15.647884",
-      "title_tr": "Rogers transfer çekişmesinin merkezi - Cuma günkü dedikodu",
-      "summary_tr": "Morgan Rogers muhtemelen bu yaz transfer çekişmesinin merkezinde yer alacak, Juventus Alisson Becker'ı transfer etme umudunu kazanıyor, Liverpool sahipleri Arne Slot'un gelecek sezon hala baş antrenör olacağına inanıyor ve daha fazlası."
-    },
-    {
-      "title": "Robertson to leave Liverpool at end of the season",
-      "summary": "Andy Robertson will leave Liverpool at the end of the season when his contract expires in the summer, the club has announced.",
-      "url": "https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-09T19:53:28",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:45.133963",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-10T10:04:15.656383",
-      "title_tr": "Robertson sezon sonunda Liverpool'dan ayrılacak",
-      "summary_tr": "Kulüp, Andy Robertson'ın sözleşmesinin yaz aylarında sona ermesinin ardından sezon sonunda Liverpool'dan ayrılacağını duyurdu."
+      "processed_at": "2026-04-10T11:43:27.458265",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Up the Minstermen? York close on promotion in epic National League battle",
@@ -413,14 +451,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.838695",
+      "fetched_at": "2026-04-10T11:40:25.823051",
       "priority_score": 58,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-10T10:04:15.754555",
-      "title_tr": "Bakanlar yukarı mı? York, destansı Ulusal Lig mücadelesinde yükselmeye yaklaştı",
-      "summary_tr": "Geçen sezonun neredeyse ıskalamasının ardından liderler, son gün çatışması olabilecek bir maçta oynadıkları Rochdale'den iki puan uzakta. York, Roma tipi yüzbaşılarla ünlü bir şehir ama artık futbol kulübü de yüzbaşı. Sahada 101 sayı ve attığı 109 golle Bakanlar,"
+      "processed_at": "2026-04-10T11:43:27.573664",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Kasımpaşa Haris Hajradinovic'le yeni sözleşme imzaladı",
@@ -432,14 +470,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:03:37.234254",
+      "fetched_at": "2026-04-10T11:42:41.679701",
       "priority_score": 57,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-10T10:04:16.634291",
-      "title_tr": "Kasımpaşa Haris Hajradinovic'le yeni sözleşme imzaladı",
-      "summary_tr": "Lacivert-beyazlı kulüpten yapılan açıklamada, \"Sözleşmesi sezon sonunda sona erecek takım kaptanımız ve başarılı oyuncu..."
+      "processed_at": "2026-04-10T11:43:28.525146",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Kocaelispor genç kaleci Talha Polat ile sözleşme imzaladı",
@@ -451,92 +489,71 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:03:37.236545",
+      "fetched_at": "2026-04-10T11:42:41.682465",
       "priority_score": 57,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-10T10:04:16.692063",
-      "title_tr": "Kocaelispor genç kaleci Talha Polat ile sözleşme imzaladı",
-      "summary_tr": "Kulübün ABD merkezli X şirketinin sosyal medya platformundaki hesabından yapılan açıklamada, \"Altyapımızdan yetişen gen..."
+      "processed_at": "2026-04-10T11:43:28.586310",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçeli Fred'i istiyorlar! Transfer planı satışa bağlı",
-      "summary": "Fenerbahçeli Fred, ülkesinin takımlarından Atletico Mineiro'nun radarına girdi. Fred'i isteyen kulüp, stratejisini belirledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-fredi-istiyorlar-transfer-plani-satisa-bagli-43147919",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d8c14d7370607e7db364f1.jpg",
-      "published": "2026-04-10T09:23:24",
-      "source": "Hürriyet Spor",
+      "title": "Maguire: 'Big summer' for Man Utd recruitment",
+      "summary": "Harry Maguire says it's vital Manchester United get their summer recruitment right while warning that he's seen players arrive during his time at Old Trafford that could not handle the pressure that comes with representing the club.",
+      "url": "https://www.espn.com/soccer/story/_/id/48435942/harry-maguire-urges-man-united-bosses-get-summer-recruitment-right",
+      "image_url": null,
+      "published": "2026-04-10T12:11:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-10T11:39:40.448571",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-10T11:43:27.420198",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man Utd, Arsenal, Chelsea and PSG considering Rogers move",
+      "summary": "Manchester United, Arsenal, Chelsea, and Paris Saint-Germain are all considering a summer move for Aston Villa forward Morgan Rogers.",
+      "url": "https://www.skysports.com/football/news/12040/13530014/morgan-rogers-transfer-news-man-utd-arsenal-chelsea-and-psg-considering-move-for-aston-villa-forward",
+      "image_url": "https://e2.365dm.com/25/12/1920x1080/skysports-morgan-rogers-aston-villa_7116954.jpg?20251221175932",
+      "published": "2026-04-10T11:25:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-10T10:02:44.327144",
-      "priority_score": 56,
+      "fetched_at": "2026-04-10T11:39:58.393902",
+      "priority_score": 51,
       "categories": [
-        "transfers",
-        "la_liga",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-04-10T10:04:15.962123",
-      "title_tr": "Fenerbahçeli Fred'i istiyorlar! Transfer planı satışa bağlı",
-      "summary_tr": "Fenerbahçeli Fred, ülkesinin takımlarından Atletico Mineiro'nun radarına girdi. Fred'i isteyen kulüp, stratejisini belirledi."
+      "processed_at": "2026-04-10T11:43:27.518558",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Source: Cincinnati looking into move for Neymar",
-      "summary": "Neymar has emerged as the latest global soccer icon to draw interest from MLS, as FC Cincinnati has begun exploring options to bring the Santos star to the United States, a source told ESPN's Nathalia Ferrão.",
-      "url": "https://www.espn.com/soccer/story/_/id/48442034/cincinnati-exploring-move-bring-neymar-mls",
+      "title": "Toney hints Saudi refs want Ronaldo to win title",
+      "summary": "Ivan Toney has questioned the integrity of officiating in the Saudi Pro League amid a title race with Cristiano Ronaldo's Al Nassr.",
+      "url": "https://www.espn.com/soccer/story/_/id/48445567/ivan-toney-rages-referees-amid-title-race-cristiano-ronaldo-al-nassr",
       "image_url": null,
-      "published": "2026-04-10T08:52:29",
+      "published": "2026-04-10T12:11:01",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.383089",
-      "priority_score": 55,
+      "fetched_at": "2026-04-10T11:39:40.447431",
+      "priority_score": 50,
       "categories": [
-        "serie_a"
+        "general"
       ],
-      "processed_at": "2026-04-10T10:04:15.619906",
-      "title_tr": "Kaynak: Cincinnati, Neymar'ı transfer etmeyi düşünüyor",
-      "summary_tr": "ESPN'den Nathalia Ferrão'ya konuşan bir kaynak, FC Cincinnati'nin Santos yıldızını ABD'ye getirmek için seçenekleri araştırmaya başlamasıyla Neymar'ın MLS'nin ilgisini çeken son küresel futbol ikonu haline geldiğini söyledi."
-    },
-    {
-      "title": "Watkins delivers halftime wakeup call in Villa win",
-      "summary": "Ollie Watkins said he had to give his Aston Villa teammates a halftime wakeup call en route to their 3-1 first-leg Europa League quarter-final victory over Bologna.",
-      "url": "https://www.espn.com/soccer/story/_/id/48442476/ollie-watkins-aston-villa-bologna-europa-league",
-      "image_url": null,
-      "published": "2026-04-10T08:52:30",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.383366",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-10T10:04:15.621141",
-      "title_tr": "Watkins, Villa galibiyetinde devre arası uyandırma çağrısı yapıyor",
-      "summary_tr": "Ollie Watkins, Avrupa Ligi çeyrek final ilk maçında Bologna'yı 3-1 yenerken, Aston Villa takım arkadaşlarına ilk yarıda uyandırma çağrısı yapması gerektiğini söyledi."
-    },
-    {
-      "title": "Porto's 25-yard OG gifts Forest hope in UEL",
-      "summary": "Nottingham Forest's Europa League hopes remain intact after a comical own goal helped them get out of their quarterfinal first leg at FC Porto with a 1-1 draw.",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401862901",
-      "image_url": null,
-      "published": "2026-04-10T08:53:12",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:00:38.383880",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-10T10:04:15.623619",
-      "title_tr": "Porto'nun 25 yarda OG hediyeleri UEL'de orman umudu",
-      "summary_tr": "Nottingham Forest'ın Avrupa Ligi umutları, FC Porto ile oynanan çeyrek final ilk maçından 1-1 berabere çıkmalarına yardımcı olan komik bir kendi kalesine atılan golün ardından değişmedi."
+      "processed_at": "2026-04-10T11:43:27.416809",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Fenerbahçe ve Galatasaray'ın transfer gündeminde olan isimden ayrılık açıklaması!",
@@ -548,16 +565,16 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:03:18.217778",
+      "fetched_at": "2026-04-10T11:42:27.040548",
       "priority_score": 49,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-10T10:04:16.423867",
-      "title_tr": "Fenerbahçe ve Galatasaray'ın transfer gündeminde olan isimden ayrılık açıklaması!",
-      "summary_tr": "Son dakika Fenerbahçe-Galatasaray haberleri: Gelecek sezon için kadro planlamalarına şimdiden başlayan Fenerbahçe ve Galatasaray'ın hedefindeki oyuncu, ayrılık iddialarıyla alakalı açıklamalarda bulundu....Devamı için tıklayınız"
+      "processed_at": "2026-04-10T11:43:28.280549",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Fenerbahçe'ye transferde kelebek etkisi! Lois Openda...",
@@ -569,36 +586,16 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-10T10:03:18.218436",
+      "fetched_at": "2026-04-10T11:42:27.041785",
       "priority_score": 49,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-04-10T10:04:16.487755",
-      "title_tr": "Fenerbahçe'ye transferde kelebek etkisi! Lois Openda...",
-      "summary_tr": "Yaz transfer döneminde önceliği 9 numara takviyesi olan Fenerbahçe'de gündeme gelen isimlerden biri Lois Openda'ydı. Juventus'ta yaşanan bir gelişme, sarı-lacivertlilerin transferi bitirmeye bir adım daha...Devamı için tıklayınız"
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend",
-      "summary": "There are protests planned at Anfield as Roberto De Zerbi starts his Tottenham tenure and Everton eye EuropeNuno Espírito Santo has rolled back the years in an attempt to save West Ham. He has gone old-school, switching to a gung-ho 4-4-2 system to give his side more threat in the final third. Pablo",
-      "url": "https://www.theguardian.com/football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
-      "image_url": null,
-      "published": "2026-04-09T23:01:02",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-10T10:01:20.838400",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-10T10:04:15.748108",
-      "title_tr": "Premier Lig: Bu hafta sonu dikkat edilmesi gereken 10 şey",
-      "summary_tr": "Roberto De Zerbi'nin Tottenham'daki görevine başlaması ve Everton'un gözünü Avrupa'ya dikmesi, Nuno Espírito Santo'nun West Ham'ı kurtarmak için yılları geriye alması nedeniyle Anfield'da protestolar planlanıyor. Eski usule gitti ve son üçte birlik kısımda kendi tarafına daha fazla tehdit oluşturmak için güncel 4-4-2 sistemine geçti. Pablo"
+      "processed_at": "2026-04-10T11:43:28.394345",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
