@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T12:39:48.136321",
+  "timestamp": "2026-04-11T13:53:25.886942",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.642866",
+      "fetched_at": "2026-04-11T13:47:58.037110",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,7 +20,7 @@
         "injuries",
         "serie_a"
       ],
-      "processed_at": "2026-04-11T12:38:23.582591",
+      "processed_at": "2026-04-11T13:52:02.973569",
       "title_tr": "Martínez'in sakatlığı nüksettiği için Inter darbe aldı",
       "summary_tr": "Inter Milan, yıldız forvet Lautaro Martínez'in, yedi haftalık kenardan döndükten birkaç gün sonra tekrarlayan bir kas yaralanması yaşadığını doğruladı."
     },
@@ -34,15 +34,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.643020",
-      "priority_score": 100,
+      "fetched_at": "2026-04-11T13:47:58.037251",
+      "priority_score": 90,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-04-11T12:38:23.583164",
+      "processed_at": "2026-04-11T13:52:02.974159",
       "title_tr": "Chelsea'li Rosenior: Enzo üzgün ama City karşısında hâlâ yok",
       "summary_tr": "Chelsea patronu Liam Rosenior, Enzo Fernández'in Real Madrid'e transferiyle ilgili yorumları nedeniyle özür dilediğini doğruladı."
     },
@@ -56,14 +56,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:48.222948",
+      "fetched_at": "2026-04-11T13:49:06.423657",
       "priority_score": 81,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-11T12:38:23.820557",
+      "processed_at": "2026-04-11T13:52:03.231105",
       "title_tr": "Borussia Dortmund'un Nico Schlotterbeck'i Almanya'nın en iyi stoperi mi?",
       "summary_tr": "Borussia Dortmund'un 2026 yazında A takımdan birkaç müdaviminin takımdan ayrılacağını açıklamasıyla birlikte, Nico Schlotterbeck'in kulüpte uzun vadeli bir sözleşme uzatması imzalamış olması, daha da fazla ses getiriyor."
     },
@@ -77,15 +77,34 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:59.884891",
+      "fetched_at": "2026-04-11T13:48:16.369358",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-04-11T12:38:23.633245",
+      "processed_at": "2026-04-11T13:52:03.035598",
       "title_tr": "Draper, Barselona'da sezonun ilk toprak kort maçında Etcheverry ile karşılaşacak",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+    },
+    {
+      "title": "Başakşehir, Gençlerbirliği’nden 3 puanı 3 golle aldı",
+      "summary": "Başakşehir, sahasında ağırladığı Gençlerbirliği’ni 3-0’lık net skorla geçti.",
+      "url": "https://www.cnnturk.com/spor/futbol/basaksehir-genclerbirliginden-3-puani-3-golle-aldi-2415820",
+      "image_url": null,
+      "published": "2026-04-11T16:35:56",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:50:45.167099",
+      "priority_score": 66,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-11T13:52:03.576336",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Roberto De Zerbi targets ‘Ange-ball’ revival to save Spurs from relegation",
@@ -97,52 +116,52 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:23.326755",
+      "fetched_at": "2026-04-11T13:48:40.664721",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.686044",
+      "processed_at": "2026-04-11T13:52:03.082286",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Debuut in Oranje lonkt: 'Het zou mooi zijn als ik een liedje moet zingen'",
-      "summary": "De blessuregolf bij de Oranje-vrouwen biedt kansen aan jonge speelsters. Liefst zes vooraanstaande internationals meldden zich geblesseerd af bij bondscoach Arjan Veurink voor de dubbele confrontatie met Frankrijk. Noodgedwongen ruimte voor nieuwelingen dus bij de Leeuwinnen.",
-      "url": "https://www.vi.nl/pro/debuut-in-oranje-lonkt-het-zou-mooi-zijn-als-ik-een-liedje-moet-zingen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/11/42918a53f48978b0a2f3459359bb4370ad43a275.jpg?width=1200",
-      "published": "2026-04-11T12:00:00",
+      "title": "Pijnlijke nederlaag Arsenal geeft City weer hoop in Engelse titelstrijd",
+      "summary": "Arsenal heeft zaterdagmiddag een gevoelige tik gekregen in de strijd om de Premier League-titel. In eigen huis was het in goede vorm verkerende Bournemouth te sterk. Bij grote concurrent Manchester City zullen ze in de handen gewreven hebben bij het zien van dit resultaat.",
+      "url": "https://www.vi.nl/nieuws/pijnlijke-nederlaag-arsenal-geeft-city-weer-hoop-in-engelse-titelstrijd",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/11/b932b882797afefa59e011e6d2fb189e39fe3245.jpg?width=1200",
+      "published": "2026-04-11T13:32:27",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-11T12:38:20.665317",
+      "fetched_at": "2026-04-11T13:52:00.717714",
       "priority_score": 62,
       "categories": [
         "match_results",
-        "serie_a"
+        "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:24.820009",
+      "processed_at": "2026-04-11T13:52:04.246417",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Could monster Makhmudov 'retire' Fury? 'He's the best in history'",
-      "summary": "No build-up to a Tyson Fury or Anthony Joshua fight comes without the other's name featuring with stern persistence. But as the world waits on their historic clash, Fury must first slay a 'monster' gunning for his retirement.",
-      "url": "https://www.skysports.com/boxing/news/12040/13529995/tyson-fury-labelled-best-heavyweight-in-history-by-arslanbek-makhmudov-as-russian-monster-threatens-to-retire-gypsy-king",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-makhmudov_7215988.jpg?20260410130136",
-      "published": "2026-04-11T12:00:00",
+      "title": "Ipswich win at Norwich for first time in 20 years to retake second",
+      "summary": "Ipswich gave their hopes of automatic promotion from the Championship a massive boost by recording a hard-fought 2-0 win over Norwich at Carrow Road.",
+      "url": "https://www.skysports.com/football/norwich-city-vs-ipswich-town/report/534816",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-ipswich-norwich_7216870.jpg?20260411124547",
+      "published": "2026-04-11T14:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:59.885364",
+      "fetched_at": "2026-04-11T13:48:16.369279",
       "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-11T12:38:23.665404",
+      "processed_at": "2026-04-11T13:52:03.027176",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -156,92 +175,32 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-11T12:36:46.895380",
+      "fetched_at": "2026-04-11T13:50:16.779298",
       "priority_score": 56,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-04-11T12:38:24.015661",
+      "processed_at": "2026-04-11T13:52:03.464130",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Trabzonspor ilk golü atıyor! Liverpool ilk yarıları boş geçmiyor… İşte Misli’den Günün Tüyoları",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ilk-golu-atiyor-liverpool-ilk-yarilari-bos-gecmiyor-iste-misliden-gunun-tuyolari-43148625",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69d9ef4f7370607e7db3675d.jpg",
-      "published": "2026-04-11T06:51:53",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:36:46.895560",
-      "priority_score": 56,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-11T12:38:24.053405",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Coventry chase promotion, Norwich v Ipswich, and more: football news – live",
-      "summary": "⚽️ Updates from around the grounds on a busy day of action⚽️ Live scores | Latest table | Follow on Bluesky | Mail AndyThe leaders are behind at the Emirates. Arsenal’s defence was caught asleep and failed to play Truffert offside as he surged down the left, his cross pinged off Saliba’s boot and sa",
+      "title": "Coventry must wait for promotion, Norwich 0-2 Ipswich, and more: football news – live",
+      "summary": "⚽️ Updates from around the grounds on a busy day of action⚽️ Live scores | Latest table | Follow on Bluesky | Mail TomThe leaders are behind at the Emirates. Arsenal’s defence was caught asleep and failed to play Truffert offside as he surged down the left, his cross pinged off Saliba’s boot and sat",
       "url": "https://www.theguardian.com/football/live/2026/apr/11/football-clockwatch-live-coventry-ipswich-norwich-brentford-everton-burnley-brighton",
       "image_url": null,
-      "published": "2026-04-11T12:20:00",
+      "published": "2026-04-11T13:40:33",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:23.326407",
+      "fetched_at": "2026-04-11T13:48:40.664370",
       "priority_score": 53,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.680041",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "28 gün sonra evine dönüyor!",
-      "summary": "Süper Lig'de lider Galatasaray, 29. hafta maçında yarın akşam sahasında Kocaelispor'u ağırlayacak. Sarı-kırmızılılar, kritik maçtan galibiyetle ayrılarak şampiyonluk yolunda önemli bir adım daha atmak istiyor. Galatasaray'da kolundan operasyon geçiren Victor Osimhen karşılaşmada forma giyemeyecek.",
-      "url": "https://www.haberturk.com/galatasaray-in-konugu-kocaelispor-3876515-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/11/ver1775892402/3876515/jpg/1280x1280",
-      "published": "2026-04-11T07:26:54",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:36:34.151528",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-11T12:38:23.878364",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "11 NİSAN GÜNÜN MAÇLARI: Bugün Kimin Maçı Var? Kayserispor Fenerbahçe, Alanyaspor Trabzonspor Maçları Saat Kaçta, Hangi Kanalda? İşte 11 Nisan Günün Maçları Listesi...",
-      "summary": "11 Nisan Cumartesi günün maçları araştırılıyor. Bugün oynanacak olan maçlar için heyecan oldukça yüksek. 11 Nisan Cumartesi günü Süper Lig Alanyaspor Trabzonspor maçı, Kayserispor Fenerbahçe maçı, Avrupa maçları, NBA, Basketbol EuroLeague Lig maçları, La Liga, Bundesliga, Serie A ve İngiltere Premie",
-      "url": "https://www.cnnturk.com/spor/11-nisan-gunun-maclari-bugun-kimin-maci-var-kayserispor-fenerbahce-alanyaspor-trabzonspor-maclari-saat-kacta-hangi-kanalda-iste-11-2415784",
-      "image_url": null,
-      "published": "2026-04-11T14:00:53",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:37:09.601620",
-      "priority_score": 51,
-      "categories": [
-        "la_liga",
-        "serie_a",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-11T12:38:24.206417",
+      "processed_at": "2026-04-11T13:52:03.076115",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -255,13 +214,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-11T12:38:20.665876",
+      "fetched_at": "2026-04-11T13:52:00.718376",
       "priority_score": 77,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-11T12:38:24.965786",
+      "processed_at": "2026-04-11T13:52:04.459299",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -275,33 +234,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:48.222286",
+      "fetched_at": "2026-04-11T13:49:06.422888",
       "priority_score": 76,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-04-11T12:38:23.813018",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Balogun equals Neymar goal streak; Pogba returns",
-      "summary": "Folarin Balogun scored for a seventh successive Ligue 1 game and Paul Pogba returned from injury but AS Monaco was blown out 4-1 by Paris FC on Friday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48450416/folarin-balogun-neymar-goal-monaco-paul-pogba-return-paris-fc",
-      "image_url": null,
-      "published": "2026-04-11T12:19:59",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.642683",
-      "priority_score": 75,
-      "categories": [
-        "match_results",
-        "injuries"
-      ],
-      "processed_at": "2026-04-11T12:38:23.582103",
+      "processed_at": "2026-04-11T13:52:03.223200",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -310,38 +249,58 @@
       "summary": "Arsenal are considering a summer move for Newcastle United's Anthony Gordon. Transfer Talk has the latest.",
       "url": "https://www.espn.com/soccer/story/_/id/48454582/transfer-rumors-news-arsenal-eyeing-newcastle-united-winger-anthony-gordon",
       "image_url": null,
-      "published": "2026-04-11T12:22:38",
+      "published": "2026-04-11T13:36:17",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.644017",
+      "fetched_at": "2026-04-11T13:47:58.037929",
       "priority_score": 75,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.588654",
+      "processed_at": "2026-04-11T13:52:02.978411",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Arsenal v Bournemouth: Premier League – live",
-      "summary": "⚽️ Premier League news from the 12.30pm BST kick-off⚽️ Live scores | Latest table | Follow on Bluesky | Mail BarryManagerial contract news: In short, there is no managerial contract news. Andoni Iraola and Mikel Arteta were both asked if either had been in talks with their respective employers durin",
-      "url": "https://www.theguardian.com/football/live/2026/apr/11/arsenal-v-bournemouth-premier-league-live",
+      "title": "A big summer awaits Manchester United, where transfers take priority",
+      "summary": "Manchester United are making the final push to end the season on a high note, before an important summer of recruitment for players and coach alike.",
+      "url": "https://www.espn.com/soccer/story/_/id/48450525/a-big-summer-awaits-man-united-where-transfers-take-priority",
       "image_url": null,
-      "published": "2026-04-11T12:18:14",
+      "published": "2026-04-11T13:57:10",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:47:58.038058",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-11T13:52:02.979741",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Alex Scott and Bournemouth deal blow to nervy Arsenal’s title hopes",
+      "summary": "For Arsenal’s longsuffering supporters, the emotional strain is reaching unbearable levels. They could only watch in stunned disbelief as Alex Scott’s goal 16 minutes from time condemned the Premier League leaders to a defeat they must fear will prove to be extremely significant.While Arsenal still ",
+      "url": "https://www.theguardian.com/football/2026/apr/11/arsenal-bournemouth-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-04-11T13:43:42",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:23.325900",
+      "fetched_at": "2026-04-11T13:48:40.663817",
       "priority_score": 73,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.674155",
+      "processed_at": "2026-04-11T13:52:03.069124",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -355,34 +314,76 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-11T12:37:41.872890",
+      "fetched_at": "2026-04-11T13:51:19.607256",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-11T12:38:24.638117",
+      "processed_at": "2026-04-11T13:52:04.078851",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "A big summer awaits Manchester United, where transfers take priority",
-      "summary": "Manchester United are making the final push to end the season on a high note, before an important summer of recruitment for players and coach alike.",
-      "url": "https://www.espn.com/soccer/story/_/id/48450525/a-big-summer-awaits-man-united-where-transfers-take-priority",
+      "title": "Bayern are special and a force to be reckoned with in Germany, Europe",
+      "summary": "There may be no one better prepared to win the Champions League than Bayern Munich, and they're scoring goals at a rate the Bundesliga has never seen.",
+      "url": "https://www.espn.com/soccer/story/_/id/48430373/this-bayern-special-force-reckoned-germany-europe",
       "image_url": null,
-      "published": "2026-04-11T10:25:59",
+      "published": "2026-04-11T13:57:21",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.644167",
+      "fetched_at": "2026-04-11T13:47:58.038409",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-11T13:52:02.983167",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Balogun equals Neymar goal streak; Pogba returns",
+      "summary": "Folarin Balogun scored for a seventh successive Ligue 1 game and Paul Pogba returned from injury but AS Monaco was blown out 4-1 by Paris FC on Friday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48450416/folarin-balogun-neymar-goal-monaco-paul-pogba-return-paris-fc",
+      "image_url": null,
+      "published": "2026-04-11T12:19:59",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:47:58.036953",
       "priority_score": 65,
       "categories": [
-        "transfers",
-        "premier_league"
+        "match_results",
+        "injuries"
       ],
-      "processed_at": "2026-04-11T12:38:23.590049",
+      "processed_at": "2026-04-11T13:52:02.973099",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Spalletti unutamadı! 'En etkileyen şey Galatasaray maçı'",
+      "summary": "Juventus'un sözleşmesini 2028'e kadar uzattığı Spalletti, basına yaptığı açıklamada Galatasaray'a karşı Şampiyonlar Ligi'nden elendikleri maçı unutamadığını itiraf etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/spalletti-unutamadi-en-etkileyen-sey-galatasaray-maci-43148822",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69da433a7370607e7db36931.jpg",
+      "published": "2026-04-11T12:49:32",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:50:16.778576",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-11T13:52:03.333779",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -396,12 +397,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-11T12:35:23.328510",
+      "fetched_at": "2026-04-11T13:48:40.666220",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-11T12:38:23.720666",
+      "processed_at": "2026-04-11T13:52:03.118098",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -415,89 +416,51 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-11T12:38:20.665733",
+      "fetched_at": "2026-04-11T13:52:00.718266",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-11T12:38:24.924204",
+      "processed_at": "2026-04-11T13:52:04.416015",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Big-fight predictions: Fury vs Makhmudov - who wins?",
-      "summary": "Lennox Lewis, David Haye, Dillian Whyte and more provide an expert breakdown of Tyson Fury's comeback bout against Arslanbek Makhmudov at the Tottenham Hotspur Stadium on Saturday...",
-      "url": "https://www.skysports.com/boxing/news/12040/13530275/tyson-fury-vs-arslanbek-makhmudov-big-fight-predictions-who-wins-heavyweight-clash-at-the-tottenham-hotspur-stadium",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-arslanbek-makhmudov_7216475.jpg?20260410213210",
-      "published": "2026-04-11T07:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:34:59.885233",
-      "priority_score": 56,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-11T12:38:23.655750",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Follow live: Arsenal seek to go 12 points clear atop Premier League",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/match/_/gameId/740908/afc-bournemouth-arsenal",
+      "title": "Arsenal title hopes hit by shock loss to Bournemouth",
+      "summary": "Alex Scott's 74th-minute winner sealed the visitors' win at the Emirates Stadium. Arsenal's Premier League leads remains nine points ahead of Man City, who have two games in hand.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740908",
       "image_url": null,
-      "published": "2026-04-11T12:20:07",
+      "published": "2026-04-11T14:32:24",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.642066",
+      "fetched_at": "2026-04-11T13:47:58.036318",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.581098",
+      "processed_at": "2026-04-11T13:52:02.972167",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Madrid slam Mbappé penalty denial in costly draw",
-      "summary": "Álvaro Arbeloa said Real Madrid should have been awarded what might have been a decisive penalty in their 1-1 draw with Girona",
-      "url": "https://www.espn.com/soccer/story/_/id/48451376/real-madrid-kylian-mbappe-penalty-girona-laliga",
+      "title": "Weekend predictions: Can Man City keep title race alive vs. Chelsea?",
+      "summary": "Can Manchester City stay in touch with leaders Arsenal ahead of their huge title showdown next weekend? We pick out the best games to watch in Europe.",
+      "url": "https://www.espn.com/soccer/story/_/id/48440785/weekend-predictions-arsenal-bournemouth-manchester-city-barcelona-laliga-premier-league",
       "image_url": null,
-      "published": "2026-04-11T12:19:59",
+      "published": "2026-04-11T14:01:03",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.642309",
+      "fetched_at": "2026-04-11T13:47:58.038531",
       "priority_score": 55,
       "categories": [
-        "la_liga"
+        "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.581420",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Miami coach hits back at 'noise' over team's start",
-      "summary": "Inter Miami head coach Javier Mascherano has defended his team's start to the 2026 season, despite the \"noise\" surrounding last season's MLS Cup winners.",
-      "url": "https://www.espn.com/soccer/story/_/id/48448662/inter-miami-javier-mascherano-start-season-2026",
-      "image_url": null,
-      "published": "2026-04-11T12:19:59",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-11T12:34:43.643483",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-04-11T12:38:23.585208",
+      "processed_at": "2026-04-11T13:52:02.984855",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -511,12 +474,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:47.711666",
+      "fetched_at": "2026-04-11T13:48:05.765744",
       "priority_score": 55,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-11T12:38:23.605756",
+      "processed_at": "2026-04-11T13:52:02.997477",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -530,14 +493,34 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-11T12:37:22.298622",
+      "fetched_at": "2026-04-11T13:50:58.960206",
       "priority_score": 54,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-11T12:38:24.395489",
+      "processed_at": "2026-04-11T13:52:03.860182",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Başakşehir galibiyeti hatırladı!",
+      "summary": "Süper Lig'in 29. haftasında Gençlerbirliği'ni konuk eden Başakşehir, rakibini ilk yarıda bulduğu gollerle 3-0 yenerek 3 maçlık galibiyet hasretine son verdi. İstanbul ekibine üç puanı getiren golleri Shomurodov (2) ve Bertuğ Yıldırım kaydetti. Gençlerbirliği üst üste 4. mağlubiyetini aldı.",
+      "url": "https://www.haberturk.com/basaksehir-genclerbirligi-3-0-mac-sonucu-3876586-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/11/ver1775913109/3876586/jpg/1280x1280",
+      "published": "2026-04-11T13:22:27",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:50:04.890418",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-11T13:52:03.246959",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -551,14 +534,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-11T12:36:34.151714",
+      "fetched_at": "2026-04-11T13:50:04.891278",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-04-11T12:38:23.892885",
+      "processed_at": "2026-04-11T13:52:03.318130",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -572,32 +555,52 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-11T12:37:41.878231",
+      "fetched_at": "2026-04-11T13:51:19.612482",
       "priority_score": 52,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-11T12:38:24.725657",
+      "processed_at": "2026-04-11T13:52:04.170285",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Garnacho opens up on Man Utd exit: I did some bad things",
-      "summary": "Alejandro Garnacho has opened up on the way he left Manchester United, admitting he did some \"bad things\" during his final six months at the club.",
-      "url": "https://www.skysports.com/football/news/12040/13530397/alejandro-garnacho-opens-up-on-manchester-united-exit-saying-he-regrets-the-way-he-left-club",
-      "image_url": "https://e1.365dm.com/25/01/1920x1080/skysports-alejandro-garnacho_6802262.jpg?20250117145644",
+      "title": "Debuut in Oranje lonkt: 'Het zou mooi zijn als ik een liedje moet zingen'",
+      "summary": "De blessuregolf bij de Oranje-vrouwen biedt kansen aan jonge speelsters. Liefst zes vooraanstaande internationals meldden zich geblesseerd af bij bondscoach Arjan Veurink voor de dubbele confrontatie met Frankrijk. Noodgedwongen ruimte voor nieuwelingen dus bij de Leeuwinnen.",
+      "url": "https://www.vi.nl/pro/debuut-in-oranje-lonkt-het-zou-mooi-zijn-als-ik-een-liedje-moet-zingen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/11/42918a53f48978b0a2f3459359bb4370ad43a275.jpg?width=1200",
       "published": "2026-04-11T12:00:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-11T13:52:00.717901",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-11T13:52:04.305504",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bournemouth blow title race wide open with victory at nervous Arsenal",
+      "summary": "Bournemouth blew the Premier League title race wide open as they beat a nervous Arsenal 2-1 at the Emirates Stadium.",
+      "url": "https://www.skysports.com/football/arsenal-vs-bournemouth/report/531439",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-declan-rice-arsenal_7216985.jpg?20260411143337",
+      "published": "2026-04-11T14:15:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-11T12:34:59.884869",
+      "fetched_at": "2026-04-11T13:48:16.369178",
       "priority_score": 51,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-04-11T12:38:23.628992",
+      "processed_at": "2026-04-11T13:52:03.018303",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
