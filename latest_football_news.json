@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T15:12:40.278520",
+  "timestamp": "2026-04-13T16:59:04.273390",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:53.068190",
+      "fetched_at": "2026-04-13T16:56:16.154564",
       "priority_score": 100,
       "categories": [
         "match_results",
@@ -20,9 +20,29 @@
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:09.762281",
+      "processed_at": "2026-04-13T16:57:36.120286",
       "title_tr": "Victor Osimhen Ne Zaman Oynayacak? Osimhen Galatasaray Gençlerbirliği Maçında Oynayabilecek Mi?",
       "summary_tr": "Victor Osimhen’in sahalara dönüş tarihi futbolseverlerin en çok merak ettiği konular arasında yer alıyor. UEFA Şampiyonlar Ligi’nde Liverpool ile oynanan son karşılaşmada kolunda kırık meydana gelen yıldız golcü, yaşadığı ciddi sakatlık sonrası acil olarak ameliyata alınmış ve bir süredir takımdan a"
+    },
+    {
+      "title": "Galatasaray ve Fenerbahçe'nin transfer derbisi: Benjamin Pavard",
+      "summary": "Galatasaray ile Fenerbahçe'nin, Benjamin Pavard transferinde karşı karşıya oldukları iddia edildi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-ve-fenerbahcenin-transfer-derbisi-benjamin-pavard-43150311",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69dd164d0c50728add7ee77a.jpg",
+      "published": "2026-04-13T16:14:14",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:55:49.375526",
+      "priority_score": 91,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-13T16:57:35.673346",
+      "title_tr": "Galatasaray ve Fenerbahçe'nin transfer derbisi: Benjamin Pavard",
+      "summary_tr": "Galatasaray ile Fenerbahçe'nin, Benjamin Pavard transferinde karşı karşıya oldukları iddia edildi."
     },
     {
       "title": "Not over, but done: Lamine Yamal all smiles as he guides Barcelona to verge of title",
@@ -34,14 +54,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:54.028170",
-      "priority_score": 98,
+      "fetched_at": "2026-04-13T16:54:15.772272",
+      "priority_score": 88,
       "categories": [
         "transfers",
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-04-13T15:11:09.025331",
+      "processed_at": "2026-04-13T16:57:35.384884",
       "title_tr": "Bitmedi ama bitti: Lamine Yamal, Barselona'yı şampiyonluğun eşiğine getirirken gülümsüyor",
       "summary_tr": "Gencin çığır açan gecesi, haftalardır net olan bir şeyi doğrulayan bir derbi zaferi sağlıyor: Bu şampiyonluk yarışı, matematikçiler Lamine Yamal'ın henüz çizgiyi aşmadığını kabul etmesinden çok önce ruhen sona erdi ama o şimdiden kutluyordu, diğer herkes onu takip ediyordu. Resmi olarak bitmedi ama"
     },
@@ -55,7 +75,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:29.470119",
+      "fetched_at": "2026-04-13T16:53:49.739672",
       "priority_score": 86,
       "categories": [
         "transfers",
@@ -63,29 +83,9 @@
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-04-13T15:11:08.979121",
+      "processed_at": "2026-04-13T16:57:35.358489",
       "title_tr": "Kadınlar T20 Dünya Kupası için rekor toplam ödül fonu onaylandı",
       "summary_tr": "Uluslararası Kriket Konseyi, bu yaz İngiltere ve Galler'de düzenlenecek olan 2026 Kadınlar T20 Dünya Kupası'nın toplam ödül fonunda 2024'e göre yüzde 10'luk bir artış olduğunu duyurdu."
-    },
-    {
-      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "summary": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say.",
-      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-13T14:19:02",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:18.051358",
-      "priority_score": 85,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-13T15:11:08.953010",
-      "title_tr": "Ganalı futbolcu silahlı saldırganların takım otobüsüne ateş açması sonucu hayatını kaybetti",
-      "summary_tr": "Yetkililer, takımın maçtan dönerken \"silahlı maskeli adamların\" saldırısına uğradığını söyledi."
     },
     {
       "title": "Sunderland sink Spurs in De Zerbi's opening game in charge",
@@ -97,57 +97,93 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:18.050923",
+      "fetched_at": "2026-04-13T16:53:38.177713",
       "priority_score": 80,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-13T15:11:08.942260",
+      "processed_at": "2026-04-13T16:57:35.296289",
       "title_tr": "Sunderland, De Zerbi'nin başında olduğu açılış maçında Spurs'u mağlup etti",
       "summary_tr": "Sunderland'den Nordi Mukiele, Black Cats'in evinde Tottenham'a karşı 1-0 kazandığı galibiyetteki tek golü atarak, Tottenham menajeri olarak görev yaptığı ilk maçta Roberto De Zerbi'ye mağlup oldu. Sonuç olarak Spurs Premier Lig'de düşme bölgesinde kaldı."
     },
     {
-      "title": "‘Sunderland made us suffer’: De Zerbi desperate to boost Spurs’ confidence",
-      "summary": "1-0 defeat at Sunderland leaves Tottenham in bottom three‘Win a game, everything will be different,’ De Zerbi saysRoberto De Zerbi diagnosed a lack of confidence as the root cause of Tottenham’s ills after his first match as manager ended in a 1-0 defeat at Sunderland. The result leaves Spurs in the",
-      "url": "https://www.theguardian.com/football/2026/apr/12/roberto-de-zerbi-tottenham-sunderland",
-      "image_url": null,
-      "published": "2026-04-12T17:36:01",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:54.030879",
-      "priority_score": 78,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-13T15:11:09.077489",
-      "title_tr": "'Sunderland bize acı çektirdi': De Zerbi, Spurs'un güvenini artırmak konusunda çaresizdi",
-      "summary_tr": "Sunderland'de alınan 1-0'lık yenilgi, Tottenham'ı son üçte bırakıyor. \"Bir maç kazan, her şey farklı olacak\" diyor De Zerbi, Roberto De Zerbi, teknik direktör olarak çıktığı ilk maçın Sunderland'de 1-0 mağlup olmasının ardından Tottenham'ın sorunlarının temel nedeninin güven eksikliği olduğunu teşhis etti. Sonuç Spurs'u geride bırakıyor"
-    },
-    {
-      "title": "Draper retires injured in Barcelona Open first round",
-      "summary": "Jack Draper's start to the clay-court season began in disappointing fashion as he retired injured late in the deciding third set of his first-round match against Argentine Tomas Martin Etcheverry at the Barcelona Open.",
-      "url": "https://www.skysports.com/tennis/news/12040/13531292/barcelona-open-jack-draper-out-of-tournament-after-retiring-with-injury-against-tomas-martin-etcheverry-in-first-round",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-jack-draper-tennis_7218948.jpg?20260413132537",
-      "published": "2026-04-13T14:00:00",
+      "title": "Successful major defences: McIlroy joins exclusive club",
+      "summary": "Rory McIlroy created more golfing history on Sunday as he recorded a stunning second consecutive Masters victory to join an exclusive list of successful major defences.",
+      "url": "https://www.skysports.com/golf/news/12040/13531393/rory-mcilroy-joins-tiger-woods-nick-faldo-and-brooks-koepka-in-list-of-successful-major-defences",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-rory-mcilroy-masters_7218526.jpg?20260413004602",
+      "published": "2026-04-13T16:45:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:29.469715",
+      "fetched_at": "2026-04-13T16:53:49.738914",
       "priority_score": 76,
       "categories": [
-        "breaking_news",
-        "injuries",
-        "la_liga"
+        "match_results",
+        "breaking_news"
       ],
-      "processed_at": "2026-04-13T15:11:08.962769",
-      "title_tr": "Draper, Barselona Açık'ta ilk turda sakatlanarak emekli oldu",
-      "summary_tr": "Jack Draper'ın toprak kort sezonuna başlangıcı hayal kırıklığı yaratan bir şekilde başladı ve Barselona Açık'ta Arjantinli Tomas Martin Etcheverry'ye karşı oynadığı ilk tur maçının son setinde sakatlanarak emekli oldu."
+      "processed_at": "2026-04-13T16:57:35.325117",
+      "title_tr": "Başarılı ana savunmalar: McIlroy ayrıcalıklı kulübe katıldı",
+      "summary_tr": "Rory McIlroy, başarılı ana savunmalardan oluşan özel bir listeye katılmak için üst üste ikinci çarpıcı Masters zaferini kaydederek Pazar günü daha fazla golf tarihi yarattı."
+    },
+    {
+      "title": "Sources: Spurs' Romero out for rest of season",
+      "summary": "Tottenham defender Cristian Romero will be out for the remainder of the season after suffering a knee injury in the 1-0 defeat to Sunderland, ESPN Argentina reports.",
+      "url": "https://www.espn.com/soccer/story/_/id/48474970/tottenham-defender-cristian-romero-remainder-season-sources",
+      "image_url": null,
+      "published": "2026-04-13T16:03:18",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:53:33.037572",
+      "priority_score": 75,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-04-13T16:57:35.251202",
+      "title_tr": "Kaynaklar: Spurs'lu Romero sezonun geri kalanında yok",
+      "summary_tr": "ESPN Arjantin'in haberine göre, Tottenham'ın defans oyuncusu Cristian Romero, Sunderland'e 1-0 mağlup oldukları maçta dizinden sakatlandıktan sonra sezonun geri kalanında forma giyemeyecek."
+    },
+    {
+      "title": "MLS Power Rankings: LAFC's first loss of 2026 knocks them off the top",
+      "summary": "LAFC had been practically perfect in 2026, but the Angelenos first loss of the year cleared room for a new No. 1 in this edition of MLS Power Rankings.",
+      "url": "https://www.espn.com/soccer/story/_/id/48474550/mls-power-rankings-lafc-first-loss-2026-knocks-top",
+      "image_url": null,
+      "published": "2026-04-13T16:12:03",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:53:33.039830",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-13T16:57:35.265122",
+      "title_tr": "MLS Güç Sıralaması: LAFC'nin 2026'daki ilk mağlubiyeti onları zirveye taşıdı",
+      "summary_tr": "LAFC 2026'da neredeyse mükemmeldi ancak Angelenos'un yılın ilk mağlubiyeti, MLS Güç Sıralamasında yeni bir 1 numaraya yer açtı."
+    },
+    {
+      "title": "Spurs captain Romero out for rest of season with injury",
+      "summary": "Tottenham captain Cristian Romero is set to miss the rest of the season with the knee injury he sustained in their 1-0 defeat at Sunderland.",
+      "url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-13T15:51:49",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:53:38.175548",
+      "priority_score": 65,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-04-13T16:57:35.266864",
+      "title_tr": "Spurs kaptanı Romero sakatlık nedeniyle sezonun geri kalanında sahalardan uzak kalacak",
+      "summary_tr": "Tottenham kaptanı Cristian Romero, Sunderland'e 1-0 mağlup oldukları maçta dizinden sakatlandığı için sezonun geri kalanını kaçıracak."
     },
     {
       "title": "Marie-Louise Eta: Who is Union Berlin's history-making coach?",
@@ -159,54 +195,56 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-13T15:08:21.616336",
+      "fetched_at": "2026-04-13T16:54:41.550298",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-04-13T15:11:09.114729",
+      "processed_at": "2026-04-13T16:57:35.483045",
       "title_tr": "Marie-Louise Eta: Union Berlin'in tarih yazan koçu kimdir?",
       "summary_tr": "Marie-Louise Eta, Steffen Baumgart'ın görevden alınmasının ardından Union Berlin'in geçici baş antrenörlüğünü devralarak, Avrupa'nın en iyi beş liginde bir erkek takımının başına geçen ilk kadın oldu."
     },
     {
-      "title": "Argentina's Romero limps off Spurs' loss in tears",
-      "summary": "Tottenham defender Cristian Romero left the field in tears following an injury in his team's 1-0 loss to Sunderland in the Premier League on Sunday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48467778/argentina-defender-cristian-romero-injured-tottenham-loss",
-      "image_url": null,
-      "published": "2026-04-13T10:41:47",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Cartwright 'betrayed and disrespected' by Hull FC after exit confirmed",
+      "summary": "John Cartwright says he has been left \"betrayed and disrespected\" after his Hull FC exit was confirmed before the club had given him an explanation.",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13531418/john-cartwright-left-betrayed-and-disrespected-by-hull-fc-after-departure-announcement",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-john-cartwright-hull-fc_7219165.jpg?20260413171055",
+      "published": "2026-04-13T17:02:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:11.089762",
-      "priority_score": 55,
+      "fetched_at": "2026-04-13T16:53:49.738700",
+      "priority_score": 81,
       "categories": [
-        "injuries",
-        "premier_league"
+        "transfers",
+        "breaking_news"
       ],
-      "processed_at": "2026-04-13T15:11:08.905271",
-      "title_tr": "Arjantinli Romero, Spurs'un yenilgisini gözyaşlarıyla atlattı",
-      "summary_tr": "Tottenham'ın savunma oyuncusu Cristian Romero, Pazar günü Premier Lig'de takımının Sunderland'e 1-0 yenildiği maçta sakatlanarak sahayı gözyaşlarıyla terk etti."
+      "processed_at": "2026-04-13T16:57:35.312637",
+      "title_tr": "Çıkış onaylandıktan sonra Cartwright Hull FC tarafından 'ihanete uğradı ve saygısızlık edildi'",
+      "summary_tr": "John Cartwright, kulüp kendisine bir açıklama yapmadan önce Hull FC'den ayrılışının onaylanmasının ardından \"ihanete uğradığını ve saygısızlığa uğradığını\" söyledi."
     },
     {
-      "title": "Ruthless Man City have Arsenal sweating ahead of title decider",
-      "summary": "Man City proved against Chelsea they will stop at nothing to win the Premier League. Can Arsenal match their intensity? The two teams meet on April 19.",
-      "url": "https://www.espn.com/soccer/story/_/id/48467760/man-city-win-chelsea-arsenal-sweating-premier-league-title-decider",
-      "image_url": null,
-      "published": "2026-04-13T16:00:21",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Draper retires injured in Barcelona Open first round",
+      "summary": "Jack Draper's start to the clay-court season began in disappointing fashion as he retired injured late in the deciding third set of his first-round match against Argentine Tomas Martin Etcheverry at the Barcelona Open.",
+      "url": "https://www.skysports.com/tennis/news/12040/13531292/barcelona-open-jack-draper-out-of-tournament-after-retiring-with-injury-against-tomas-martin-etcheverry-in-first-round",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-jack-draper-tennis_7218948.jpg?20260413132537",
+      "published": "2026-04-13T14:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:11.090905",
-      "priority_score": 55,
+      "fetched_at": "2026-04-13T16:53:49.739228",
+      "priority_score": 76,
       "categories": [
-        "premier_league"
+        "breaking_news",
+        "injuries",
+        "la_liga"
       ],
-      "processed_at": "2026-04-13T15:11:08.914073",
-      "title_tr": "Acımasız Man City, Arsenal'i şampiyonluk kararı öncesinde terletiyor",
-      "summary_tr": "Man City, Chelsea'ye karşı Premier Lig'i kazanmak için hiçbir şeyden vazgeçmeyeceklerini kanıtladı. Arsenal onların yoğunluğuna ayak uydurabilecek mi? İki takım 19 Nisan'da karşılaşacak."
+      "processed_at": "2026-04-13T16:57:35.338910",
+      "title_tr": "Draper, Barselona Açık'ta ilk turda sakatlanarak emekli oldu",
+      "summary_tr": "Jack Draper'ın toprak kort sezonuna başlangıcı hayal kırıklığı yaratan bir şekilde başladı ve Barselona Açık'ta Arjantinli Tomas Martin Etcheverry'ye karşı oynadığı ilk tur maçının son setinde sakatlanarak emekli oldu."
     },
     {
       "title": "Galatasaray'ın transferini İtalyanlar duyurdu: 'Okan Buruk defalarca kez görüştü!'",
@@ -218,54 +256,57 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:28.433658",
-      "priority_score": 81,
+      "fetched_at": "2026-04-13T16:55:49.376577",
+      "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:09.409904",
+      "processed_at": "2026-04-13T16:57:35.822654",
       "title_tr": "Galatasaray'ın transferini İtalyanlar duyurdu: 'Okan Buruk defalarca kez görüştü!'",
       "summary_tr": "Galatasaray'ın uzun süredir peşinde olduğu Hakan Çalhanoğlu transferi konusunda yen gelişmeler meydana geldi. İtalyan basını, konuya ilişkin okuyucularına kritik görüşmeleri aktardı."
     },
     {
-      "title": "Kobbie Mainoo close to signing new Manchester United contract, says Michael Carrick",
-      "summary": "Midfielder expected to earn £120,000 a weekNew deal marks turnaround for Mainoo under CarrickMichael Carrick has indicated Kobbie Mainoo is moving closer to signing a new contract with Manchester United, saying negotiations are “in a good place”. The 20-year-old, whose deal expires in the summer of ",
-      "url": "https://www.theguardian.com/football/2026/apr/12/kobbie-mainoo-close-to-signing-new-manchester-united-contract-says-michael-carrick",
+      "title": "Carrick: United in 'good place' on new Mainoo deal",
+      "summary": "Michael Carrick said a deal to tie down Kobbie Mainoo's long-term future is \"getting closer\" -- but admits securing Champions League football will help persuade players to commit to Manchester United.",
+      "url": "https://www.espn.com/soccer/story/_/id/48469275/manchester-united-good-place-kobbie-mainoo-deal",
       "image_url": null,
-      "published": "2026-04-12T21:30:28",
+      "published": "2026-04-13T16:03:18",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:53:33.038176",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-13T16:57:35.252896",
+      "title_tr": "Carrick: United yeni Mainoo anlaşmasında 'iyi bir yerde'",
+      "summary_tr": "Michael Carrick, Kobbie Mainoo'nun uzun vadeli geleceğini bağlayacak bir anlaşmanın \"yaklaştığını\" söyledi ancak Şampiyonlar Ligi futbolunu güvence altına almanın oyuncuları Manchester United'a bağlanmaya ikna etmeye yardımcı olacağını kabul etti."
+    },
+    {
+      "title": "The wait is over: Eta’s arrival as head coach breaks barriers for women in football",
+      "summary": "Marie-Louise Eta has been tasked with saving Union Berlin from Bundesliga relegation in a groundbreaking appointmentFor Marie-Louise Eta, it may feel like another day at the office. The wider significance will be greater, though, when she oversees Union Berlin in their crunch Bundesliga match agains",
+      "url": "https://www.theguardian.com/football/2026/apr/13/marie-louise-eta-arrival-union-berlin-breaks-barriers-women-in-football",
+      "image_url": null,
+      "published": "2026-04-13T15:45:57",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:54.030478",
-      "priority_score": 78,
+      "fetched_at": "2026-04-13T16:54:15.771658",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "premier_league"
+        "breaking_news",
+        "bundesliga"
       ],
-      "processed_at": "2026-04-13T15:11:09.070040",
-      "title_tr": "Michael Carrick, Kobbie Mainoo'nun Manchester United ile yeni sözleşme imzalamaya yakın olduğunu söyledi",
-      "summary_tr": "Orta saha oyuncusunun haftada 120.000 £ kazanması bekleniyor Carrick yönetiminde Mainoo için yeni anlaşma geri dönüşe işaret ediyorMichael Carrick, Kobbie Mainoo'nun Manchester United ile yeni bir sözleşme imzalamaya yaklaştığını belirterek müzakerelerin \"iyi bir yerde\" olduğunu söyledi. 20 yaşındaki futbolcunun sözleşmesi yaz aylarında sona erecek."
-    },
-    {
-      "title": "Are Tottenham destined for relegation?",
-      "summary": "Many of Tottenham's biggest issues were self-diagnosed by Roberto De Zerbi during his first game in charge. Spurs had fallen into the bottom three before travelling to Sunderland and their performance in defeat did nothing to strengthen belief they can climb out of it.",
-      "url": "https://www.skysports.com/football/news/12040/13531336/tottenham-in-relegation-trouble-what-was-learned-from-roberto-de-zerbis-first-game-in-charge-of-spurs",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-pedro-porro-tottenham_7218986.jpg?20260413141224",
-      "published": "2026-04-13T15:20:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:29.470289",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-13T15:11:08.996963",
-      "title_tr": "Tottenham küme düşmeye mahkum mu?",
-      "summary_tr": "Tottenham'ın en büyük sorunlarının çoğu, Roberto De Zerbi'nin sorumlu olduğu ilk maçta kendi kendine teşhis edildi. Spurs, Sunderland'e gitmeden önce son üçe düşmüştü ve yenilgideki performansları, bu durumdan çıkabilecekleri inancını güçlendirecek hiçbir şey yapmadı."
+      "processed_at": "2026-04-13T16:57:35.376926",
+      "title_tr": "Bekleyiş sona erdi: Eta'nın baş antrenör olarak gelişi futbolda kadınların önündeki engelleri yıkıyor",
+      "summary_tr": "Marie-Louise Eta, çığır açan bir randevuyla Union Berlin'i Bundesliga'da küme düşmekten kurtarmakla görevlendirildi Marie-Louise Eta için bu, ofiste başka bir gün gibi gelebilir. Bununla birlikte, zorlu Bundesliga maçında Union Berlin'i yönettiğinde, daha büyük önem daha da artacak."
     },
     {
       "title": "Trabzonspor'da son haftaların gözdesi Ozan Tufan",
@@ -277,37 +318,77 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:28.433535",
+      "fetched_at": "2026-04-13T16:55:49.376436",
       "priority_score": 71,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:09.382447",
+      "processed_at": "2026-04-13T16:57:35.793769",
       "title_tr": "Trabzonspor'da son haftaların gözdesi Ozan Tufan",
       "summary_tr": "Süper Lig'in 29. haftasında Alanyaspor ile deplasmanda 1-1 berabere kalan Trabzonspor'un golünü kaydeden Ozan Tufan, son haftalarda ilk 11'in değişmez isimlerinden oldu."
     },
     {
-      "title": "Carrick: United in 'good place' on new Mainoo deal",
-      "summary": "Michael Carrick said a deal to tie down Kobbie Mainoo's long-term future is \"getting closer\" -- but admits securing Champions League football will help persuade players to commit to Manchester United.",
-      "url": "https://www.espn.com/soccer/story/_/id/48469275/manchester-united-good-place-kobbie-mainoo-deal",
+      "title": "Inter close on Serie A title as Como lose UCL place",
+      "summary": "Inter Milan came back from two goals down for a 4-3 victory at Como on Sunday and extended its Serie A lead to nine points with six rounds remaining.",
+      "url": "https://www.espn.com/soccer/story/_/id/48469523/inter-milan-rally-beat-como-move-closer-serie-title",
       "image_url": null,
-      "published": "2026-04-13T10:41:47",
+      "published": "2026-04-13T16:03:18",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:11.089447",
-      "priority_score": 65,
+      "fetched_at": "2026-04-13T16:53:33.038888",
+      "priority_score": 70,
       "categories": [
-        "transfers",
-        "premier_league",
+        "match_results",
+        "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-04-13T15:11:08.904050",
-      "title_tr": "Carrick: United yeni Mainoo anlaşmasında 'iyi bir yerde'",
-      "summary_tr": "Michael Carrick, Kobbie Mainoo'nun uzun vadeli geleceğini bağlayacak bir anlaşmanın \"yaklaştığını\" söyledi ancak Şampiyonlar Ligi futbolunu güvence altına almanın oyuncuları Manchester United'a bağlanmaya ikna etmeye yardımcı olacağını kabul etti."
+      "processed_at": "2026-04-13T16:57:35.256381",
+      "title_tr": "Inter, Como'nun UCL'deki yerini kaybetmesiyle Serie A şampiyonluğuna yaklaştı",
+      "summary_tr": "Inter Milan, Pazar günü Como'da iki gol geriden gelerek 4-3'lük galibiyet elde etti ve Serie A'daki liderliğini altı turun bitimine dokuz puana yükseltti."
+    },
+    {
+      "title": "'Bayern München gaat voor grote naam als concurrent voor Díaz'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/wijnaldum-gelinkt-aan-terugkeer-in-engeland-mislintat-grijpt-in-bij-d-sseldorf",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-04-13T16:11:28",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:57:31.615698",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-13T16:57:36.452666",
+      "title_tr": "'Bayern Münih, Díaz'a rakip olarak büyük bir isim peşinde'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "McIlroy's next major mountain? New possible targets after Masters glory",
+      "summary": "Rory McIlroy reassessed his major goals after completing the career Grand Slam at The Masters, with his successful title defence now providing opportunities to create even more golfing history.",
+      "url": "https://www.skysports.com/golf/news/12040/13531178/the-masters-rory-mcilroys-next-major-mountain-how-masters-title-defence-at-augusta-national-could-bring-more-history",
+      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-rory-mcilroy-masters_7218524.jpg?20260413003951",
+      "published": "2026-04-13T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:53:49.738773",
+      "priority_score": 66,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-13T16:57:35.317406",
+      "title_tr": "McIlroy'un bir sonraki büyük dağı mı? Masters zaferinden sonra yeni olası hedefler",
+      "summary_tr": "Rory McIlroy, kariyerindeki Grand Slam'i The Masters'ta tamamladıktan sonra ana hedeflerini yeniden değerlendirdi ve başarılı şampiyonluk savunması artık daha da fazla golf tarihi yaratmak için fırsatlar sunuyor."
     },
     {
       "title": "Tottenham in advanced talks to sign Robertson",
@@ -319,75 +400,33 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:18.049183",
+      "fetched_at": "2026-04-13T16:53:38.175730",
       "priority_score": 65,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-13T15:11:08.917264",
+      "processed_at": "2026-04-13T16:57:35.268508",
       "title_tr": "Tottenham, Robertson'la sözleşme imzalamak için ileri görüşmelerde bulunuyor",
       "summary_tr": "Tottenham, bu yaz Liverpool'un defans oyuncusu Andy Robertson'a bedelsiz transfer konusunda ileri görüşmelerde bulunuyor."
     },
     {
-      "title": "Galatasaray, Osimhen'siz yine puan kaybetti!",
-      "summary": "Okan Buruk yönetimindeki Galatasaray, Victor Osimhen'in sakatlığı nedeniyle oynayamadığı maçta sahasında Kocaelispor ile 1-1 berabere kaldı ve zirve yarışında puan farkı 2'ye düştü. Sarı kırmızılılar, Osimhen'siz çıktığı son 5 maçta da kayıp yaşadı.",
-      "url": "https://www.haberturk.com/osimhen-siz-galatasaray-yine-kayip-5-maglubiyet-3876894-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/13/ver1776065290/3876894/jpg/1280x1280",
-      "published": "2026-04-13T07:28:29",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Dubbel feest voor AZ-talent Van Duijl",
+      "summary": "AZ heeft zijn vertrouwen uitgesproken in verdediger Billy van Duijl, die zijn contract heeft opengebroken en met twee jaar verlengd. Hij ligt nu tot medio 2031 vast in Alkmaar.",
+      "url": "https://www.vi.nl/nieuws/dubbel-feest-voor-az-talent-van-duijl",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/13/456a105fe45e455b15b2b938da86ad1ec0f4d7d7.jpg?width=1200",
+      "published": "2026-04-13T15:42:56",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:13.894894",
-      "priority_score": 63,
+      "fetched_at": "2026-04-13T16:57:31.615842",
+      "priority_score": 62,
       "categories": [
-        "match_results",
-        "super_lig"
+        "transfers"
       ],
-      "processed_at": "2026-04-13T15:11:09.289732",
-      "title_tr": "Galatasaray, Osimhen'siz yine puan kaybetti!",
-      "summary_tr": "Okan Buruk yönetimindeki Galatasaray, Victor Osimhen'in sakatlığı nedeniyle oynayamadığı maçta sahasında Kocaelispor ile 1-1 berabere kaldı ve zirve yarışında puan farkı 2'ye düştü. Sarı kırmızılılar, Osimhen'siz çıktığı son 5 maçta da kayıp yaşadı."
-    },
-    {
-      "title": "McIlroy wins Masters thriller to make more major history",
-      "summary": "Rory McIlroy became the first back-to-back winner of The Masters since Tiger Woods after coming through a roller-coaster Sunday to claim a one-shot victory at Augusta National.",
-      "url": "https://www.skysports.com/golf/news/12040/13531129/the-masters-rory-mcilroy-defends-title-and-makes-more-major-history-after-thrilling-one-shot-win-at-augusta-national",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-rory-mcilroy-masters_7218624.jpg?20260413071043",
-      "published": "2026-04-12T23:55:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:29.470520",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-13T15:11:09.017939",
-      "title_tr": "McIlroy, daha büyük bir tarih yazmak için Masters gerilim filmini kazandı",
-      "summary_tr": "Rory McIlroy, Pazar günü Augusta National'da tek atışlık zafer kazanmak için inişli çıkışlı bir süreçten geçerek Tiger Woods'tan bu yana The Masters'ın ilk arka arkaya kazananı oldu."
-    },
-    {
-      "title": "Inter close on Serie A title as Como lose UCL place",
-      "summary": "Inter Milan came back from two goals down for a 4-3 victory at Como on Sunday and extended its Serie A lead to nine points with six rounds remaining.",
-      "url": "https://www.espn.com/soccer/story/_/id/48469523/inter-milan-rally-beat-como-move-closer-serie-title",
-      "image_url": null,
-      "published": "2026-04-13T10:41:47",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:11.090217",
-      "priority_score": 60,
-      "categories": [
-        "match_results",
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-13T15:11:08.907844",
-      "title_tr": "Inter, Como'nun UCL'deki yerini kaybetmesiyle Serie A şampiyonluğuna yaklaştı",
-      "summary_tr": "Inter Milan, Pazar günü Como'da iki gol geriden gelerek 4-3'lük galibiyet elde etti ve Serie A'daki liderliğini altı turun bitimine dokuz puana yükseltti."
+      "processed_at": "2026-04-13T16:57:36.486418",
+      "title_tr": "A'dan Z'ye yetenek Van Duijl için çifte kutlama",
+      "summary_tr": "AZ, sözleşmesini bozan ve sözleşmesini iki yıl uzatan savunma oyuncusu Billy van Duijl'e olan güvenini dile getirdi. Artık 2031'in ortalarına kadar Alkmaar'da mahsur kalacak."
     },
     {
       "title": "Napoli’s title defence looks done – without McTominay it would have ended sooner | Nicky Bandini",
@@ -399,95 +438,97 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:54.028475",
+      "fetched_at": "2026-04-13T16:54:15.772629",
       "priority_score": 58,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-04-13T15:11:09.032960",
+      "processed_at": "2026-04-13T16:57:35.393246",
       "title_tr": "Napoli'nin şampiyonluk savunması bitmiş görünüyor; McTominay olmasaydı daha erken biterdi | Nicky Bandini",
       "summary_tr": "Orta saha oyuncusu yine Napoli'nin yıldızı oldu ancak yaşlanan kadro kulübü geriye götürdü ve Conte'nin geleceği belirsiz Bu Serie A şampiyonluk yarışının sonu muydu? Peşinde olan son iki takımın da hata yaptığı bir hafta sonunda, Inter bir kez daha açık bir zafer elde ederek, geride kalan iki golün ardından toparlanmayı başardı."
     },
     {
-      "title": "Anlaşma sağlandı! Milli futbolcu Ozan Kabak yeni sözleşmeye imza atıyor",
-      "summary": "Bundesliga’da sergilediği performansla dikkat çeken Ozan Kabak, transfer döneminin en çok konuşulan isimlerinden biri o...",
-      "url": "https://www.yenisafak.com/spor/anlasma-saglandi-milli-futbolcu-ozan-kabak-yeni-sozlesmeye-imza-atiyor-4814559",
+      "title": "Football Daily | Arsenal take a ‘punch in the face’ but will it really be a knockout blow?",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!They say that if you’re expecting a kick in the swingers but only receive a punch in the face, you can probably consider it a good result. Because he probably wasn’t expecting his Arsenal players to ship a hoof to the collective crown jewels from Bo",
+      "url": "https://www.theguardian.com/football/2026/apr/13/arsenal-manchester-city-premier-league-title-race-football-daily",
       "image_url": null,
-      "published": "2026-04-12T16:31:08",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
+      "published": "2026-04-13T15:13:53",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:54:15.773415",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-13T16:57:35.402055",
+      "title_tr": "Futbol Günlük | Arsenal 'yüzüne yumruk' atıyor ama bu gerçekten nakavt bir darbe mi olacak?",
+      "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Şimdi kaydolun!Diyorlar ki, eğer swingers'a tekme atılmasını bekliyorsanız ve sadece suratınıza bir yumruk alıyorsanız, bunu muhtemelen iyi bir sonuç olarak değerlendirebilirsiniz. Çünkü muhtemelen Arsenal oyuncularının Bo'nun kolektif mücevherlerine bir toynak göndermesini beklemiyordu."
+    },
+    {
+      "title": "Şampiyonluk ihtimalleri açıklandı!",
+      "summary": "Trendyol Süper Lig'de 29. hafta geride kalırken, lider Galatasaray sahasında Kocaelispor'la 1-1 berabere kaldı. Zirve yarışındaki Fenerbahçe ise deplasmanda Kayserispor'u 4-0 mağlup etti. Trabzonspor da deplasmanda Alanyaspor'la 1-1 berabere kalarak yara aldı. Futbol veri sitesi Euro Club Index, şam",
+      "url": "https://www.haberturk.com/super-lig-de-sampiyonluk-ihtimalleri-aciklandi-29-hafta-3877061-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/13/ver1776094393/3877061/jpg/1280x1280",
+      "published": "2026-04-13T15:34:04",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:10:24.032444",
-      "priority_score": 57,
+      "fetched_at": "2026-04-13T16:55:33.791700",
+      "priority_score": 58,
       "categories": [
-        "transfers",
-        "bundesliga"
+        "match_results",
+        "premier_league",
+        "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:10.261483",
-      "title_tr": "Anlaşma sağlandı! Milli futbolcu Ozan Kabak yeni sözleşmeye imza atıyor",
-      "summary_tr": "Bundesliga’da sergilediği performansla dikkat çeken Ozan Kabak, transfer döneminin en çok konuşulan isimlerinden biri o..."
+      "processed_at": "2026-04-13T16:57:35.581228",
+      "title_tr": "Şampiyonluk ihtimalleri açıklandı!",
+      "summary_tr": "Trendyol Süper Lig'de 29. hafta geride kalırken, lider Galatasaray sahasında Kocaelispor'la 1-1 berabere kaldı. Zirve yarışındaki Fenerbahçe ise deplasmanda Kayserispor'u 4-0 mağlup etti. Trabzonspor da deplasmanda Alanyaspor'la 1-1 berabere kalarak yara aldı. Futbol veri sitesi Euro Club Index, şam"
     },
     {
-      "title": "Transfers Ajax: Godts laat zich uit over toekomst en grapt om prijskaartje",
-      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-ajax-godts-laat-zich-uit-over-toekomst-en-grapt-om-prijskaartje",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
-      "published": "2026-04-13T12:34:00",
+      "title": "İstanbulspor 7 maç sonra kazandı!",
+      "summary": "Trendyol 1. Lig'in 35. haftasında Özbelsan Sivasspor sahasında İstanbulspor'u ağırladı. 4 gol çıkan mücadeleyi konuk takım 3-1 kazandı ve kritik bir 3 puanı hanesine yazdırdı.",
+      "url": "https://www.haberturk.com/sivasspor-1-istanbulspor-3-mac-sonucu-3877058-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/13/ver1776093075/3877058/jpg/1280x1280",
+      "published": "2026-04-13T15:12:02",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-13T16:55:33.791773",
+      "priority_score": 58,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-13T16:57:35.586890",
+      "title_tr": "İstanbulspor 7 maç sonra kazandı!",
+      "summary_tr": "Trendyol 1. Lig'in 35. haftasında Özbelsan Sivasspor sahasında İstanbulspor'u ağırladı. 4 gol çıkan mücadeleyi konuk takım 3-1 kazandı ve kritik bir 3 puanı hanesine yazdırdı."
+    },
+    {
+      "title": "Chelsea en Barça azen op Nijstad: 'Twente heeft goud in handen'",
+      "summary": "Ruud Nijstad heeft een goede indruk achter gelaten bij Geert-Jan Jakobs en Martijn Krabbendam. Eerstgenoemde weet dat er interesse is van Barcelona en Chelsea. De verdediger ligt in Enschede nog vast tot 2027 en FC Twente wil zijn contract graag verlengen. Waar ligt de toekomst van de Almeloër?",
+      "url": "https://www.vi.nl/video/chelsea-en-bar-a-azen-op-nijstad-twente-heeft-goud-in-handen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-04-13t133618-chelsea-en-barca-azen-op-nijstad-van-fc-twente-hij-doet-het-goed.jpg?width=1200",
+      "published": "2026-04-13T14:47:53",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-13T15:11:04.552773",
+      "fetched_at": "2026-04-13T16:57:31.616444",
       "priority_score": 57,
       "categories": [
         "transfers",
+        "premier_league",
+        "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-04-13T15:11:10.468631",
-      "title_tr": "Transfer Ajax: Godts gelecek hakkında konuşuyor ve fiyat etiketi hakkında şaka yapıyor",
-      "summary_tr": "VI, kış transfer döneminin kapalı olmasına rağmen Ajax'taki transfer haberlerini yakından takip ediyor. Amsterdamlıların hedefleri, kulüp gözlemcilerinin yorumu veya yabancı medyadaki ilgi. Her şeyi burada topluyoruz."
-    },
-    {
-      "title": "'Juventus opgezadeld met Openda-probleem van 44 miljoen'",
-      "summary": "Toen Juventus aanvaller Loïs Openda binnenhaalde via een huurdeal met RB Leipzig , maakte de club de financiële details van de transactie bekend. Het lijkt er sterk op dat de Italiaanse club nu moet aftikken voor een speler die niet bijster veel gebracht heeft.",
-      "url": "https://www.vi.nl/nieuws/juventus-opgezadeld-met-openda-probleem-van-44-miljoen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/13/a1222daa801f3b79363c95f9aee6d098fe5e07d3.jpg?width=1200",
-      "published": "2026-04-13T12:01:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:11:04.552959",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-13T15:11:10.532143",
-      "title_tr": "'Juventus'un 44 milyonluk Openda sorunu var'",
-      "summary_tr": "Juventus, Loïs Openda'yı RB Leipzig'den kiralık olarak kiraladığında kulüp, anlaşmanın mali ayrıntılarını açıkladı. Görünen o ki İtalyan kulübü, masaya fazla bir şey getiremeyen oyuncuya artık para ödemek zorunda kalacak."
-    },
-    {
-      "title": "England suffer double Women's Six Nations injury blow",
-      "summary": "England have suffered a double injury blow with Morwenna Talling and Natasha Hunt being ruled out of the remainder of the Women's Six Nations.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13531373/england-suffer-double-womens-six-nations-injury-blow-with-morwenna-talling-natasha-hunt-ruled-out-of-rest-of-tournament",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-morwenna-talling_7219070.jpg?20260413152854",
-      "published": "2026-04-13T15:11:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:07:29.469546",
-      "priority_score": 56,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-04-13T15:11:08.956172",
-      "title_tr": "İngiltere, Kadınlar Altı Uluslular'da çifte sakatlık darbesi aldı",
-      "summary_tr": "İngiltere, Morwenna Talling ve Natasha Hunt'ın Kadınlar Altı Ulus'un geri kalanına katılamamasıyla çifte sakatlık yaşadı."
+      "processed_at": "2026-04-13T16:57:36.640242",
+      "title_tr": "Chelsea ve Barça Nijstad'ın peşinde: 'Twente'nin elinde altın var'",
+      "summary_tr": "Ruud Nijstad, Geert-Jan Jakobs ve Martijn Krabbendam üzerinde iyi bir izlenim bıraktı. İlki, Barselona ve Chelsea'den ilgi olduğunu biliyor. Savunma oyuncusu 2027 yılına kadar Enschede'de kalacak ve FC Twente sözleşmesini uzatmak istiyor. Almeloer'in geleceği nerede yatıyor?"
     },
     {
       "title": "Galatasaray'ın yara aldığı gece Asprilla'dan tepki çeken paylaşım",
@@ -499,13 +540,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:53.068334",
+      "fetched_at": "2026-04-13T16:56:16.154728",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:09.777039",
+      "processed_at": "2026-04-13T16:57:36.135644",
       "title_tr": "Galatasaray'ın yara aldığı gece Asprilla'dan tepki çeken paylaşım",
       "summary_tr": "Süper Lig’in 29. haftasında evinde Kocaelispor ile 1-1 berabere kalan Galatasaray, şampiyonluk yarışında beklenmedik bir puan kaybı yaşadı."
     },
@@ -519,94 +560,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:53.068728",
+      "fetched_at": "2026-04-13T16:56:16.155185",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-13T15:11:09.801732",
+      "processed_at": "2026-04-13T16:57:36.161949",
       "title_tr": "Göztepe, İzmir'de galibiyete hasret kaldı",
       "summary_tr": "Süper Lig'de evinde 3-1 geriye düştüğü Kasımpaşa maçında taraftarın protestosuyla karşılaşan ve son bölümde bulduğu gollerle müsabakayı 3-3 berabere tamamlayan Göztepe, Avrupa yolunda kritik 2 puan bırakırken, Isonem Gürsel Aksel Stadı'nda galibiyete hasret kaldı."
     },
     {
-      "title": "Man City make statement in dominant win over Chelsea",
-      "summary": "Manchester City put three goals past Chelsea in a 17-minute spell at Stamford Bridge, to close the gap on leaders Arsenal to six points with a game in hand in the Premier League.",
-      "url": "https://www.bbc.com/sport/football/videos/c239z8r9yl2o?at_medium=RSS&at_campaign=rss",
+      "title": "Pep: City's crunch PL clash vs. Arsenal is a 'final'",
+      "summary": "Pep Guardiola said Manchester City's Premier League clash with Arsenal next week has become a \"final\" after a 3-0 win against Chelsea at Stamford Bridge moved his side to within six points, with a game in hand, of Mikel Arteta's league leaders.",
+      "url": "https://www.espn.com/soccer/story/_/id/48468050/man-city-vs-arsenal-final-title-race-hots-pep-guardiola",
       "image_url": null,
-      "published": "2026-04-12T19:00:23",
-      "source": "BBC Sport Football",
+      "published": "2026-04-13T16:03:18",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-13T15:07:18.050772",
+      "fetched_at": "2026-04-13T16:53:33.037796",
       "priority_score": 55,
       "categories": [
-        "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-04-13T15:11:08.939421",
-      "title_tr": "Man City, Chelsea karşısında galibiyette açıklama yaptı",
-      "summary_tr": "Manchester City, Stamford Bridge'de 17 dakikalık sürede Chelsea'yi üç golle geçerek, Premier Lig'de lider Arsenal ile arasındaki farkı altı puana indirdi."
+      "processed_at": "2026-04-13T16:57:35.251710",
+      "title_tr": "Pep: City'nin Arsenal ile zorlu PL karşılaşması bir 'final'",
+      "summary_tr": "Pep Guardiola, Manchester City'nin Arsenal'le gelecek haftaki Premier Lig karşılaşmasının, Stamford Bridge'de Chelsea'ye karşı alınan 3-0'lık galibiyetin ardından Mikel Arteta'nın lig liderlerinin altı puan yakınına gelmesinin ardından \"final\" haline geldiğini söyledi."
     },
     {
-      "title": "Onuachu'suz Trabzon zirvede yara aldı",
-      "summary": "Trendyol Süper Lig'de zirve mücadelesi veren Trabzonspor, Nijeryalı santrfor Paul Onuachu'nun yokluğunda Corendon Alanyaspor ile berabere kalarak yara aldı.",
-      "url": "https://www.haberturk.com/onuachu-suz-trabzonspor-zirvede-yara-aldi-3876946-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/13/ver1776070033/3876946/jpg/1280x1280",
-      "published": "2026-04-13T08:47:43",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Arteta: Tiredness not an excuse for Arsenal woes",
+      "summary": "Mikel Arteta said Arsenal must not use fatigue as an excuse following their defeat against Bournemouth as he challenged his players to rediscover their \"enjoyment\" of the game.",
+      "url": "https://www.espn.com/soccer/story/_/id/48465315/mikel-arteta-tiredness-not-excuse-arsenal-amid-recent-slump",
+      "image_url": null,
+      "published": "2026-04-13T16:03:18",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-13T15:09:13.894630",
-      "priority_score": 53,
+      "fetched_at": "2026-04-13T16:53:33.038355",
+      "priority_score": 55,
       "categories": [
-        "match_results",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-04-13T15:11:09.267391",
-      "title_tr": "Onuachu'suz Trabzon zirvede yara aldı",
-      "summary_tr": "Trendyol Süper Lig'de zirve mücadelesi veren Trabzonspor, Nijeryalı santrfor Paul Onuachu'nun yokluğunda Corendon Alanyaspor ile berabere kalarak yara aldı."
-    },
-    {
-      "title": "'Çilingir Sane' yetmedi!",
-      "summary": "Galatasaray'da son olarak Kocaelispor maçında perdeyi açan golü kaydeden Leroy Sane, bu kez takımına yetmedi. Bu sezon attığı 7 golün 5'inde Galatasaray'ı öne geçiren Alman yıldız, Kocaeli karşısında da bu istatistiğini sürdürdü.",
-      "url": "https://www.haberturk.com/cilingir-sane-galatasaray-a-yetmedi-3876917-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/13/ver1776067078/3876917/jpg/1280x1280",
-      "published": "2026-04-13T07:58:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:09:13.894829",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-13T15:11:09.282432",
-      "title_tr": "'Çilingir Sane' yetmedi!",
-      "summary_tr": "Galatasaray'da son olarak Kocaelispor maçında perdeyi açan golü kaydeden Leroy Sane, bu kez takımına yetmedi. Bu sezon attığı 7 golün 5'inde Galatasaray'ı öne geçiren Alman yıldız, Kocaeli karşısında da bu istatistiğini sürdürdü."
-    },
-    {
-      "title": "Transfers PSV: toekomst van talentvolle keeper ligt in Eindhoven",
-      "summary": "VI volgt het transfernieuws bij PSV op de voet. De doelwitten van de Eindhovenaren, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-psv-uneken-staat-open-voor-binnen-en-buitenlandse-clubs",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2025/08/02/ca11a6e4-7865-41dd-b98b-a3e0b8e278bb.jpg?width=1200",
-      "published": "2026-04-13T14:12:12",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-13T15:11:04.552386",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-13T15:11:10.350598",
-      "title_tr": "Transferler PSV: Yetenekli kalecinin geleceği Eindhoven'da yatıyor",
-      "summary_tr": "VI, PSV'deki transfer haberlerini yakından takip ediyor. Eindhoven halkının hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgisi. Her şeyi burada topluyoruz."
+      "processed_at": "2026-04-13T16:57:35.253643",
+      "title_tr": "Arteta: Yorgunluk Arsenal'deki sıkıntıların bahanesi değil",
+      "summary_tr": "Mikel Arteta, oyuncularına oyundan aldıkları \"zevki\" yeniden keşfetmeleri için meydan okurken, Arsenal'in Bournemouth'a karşı aldıkları yenilginin ardından yorgunluğu bir bahane olarak kullanmaması gerektiğini söyledi."
     }
   ]
 }
