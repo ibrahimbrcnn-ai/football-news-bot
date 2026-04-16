@@ -1,7 +1,50 @@
 {
-  "timestamp": "2026-04-16T11:57:13.319452",
+  "timestamp": "2026-04-16T13:10:04.678257",
   "total_items": 30,
   "news": [
+    {
+      "title": "Kane hails 'special night' as Bayern oust Madrid",
+      "summary": "Harry Kane hailed a \"special night\" as late goals powered Bayern Munich to a 4-3 victory, eliminating Real Madrid for the first time since 2012 and securing a ticket to the Champions League semifinals.",
+      "url": "https://www.espn.com/soccer/story/_/id/48498251/kane-celebrates-special-night-bayern-gets-old-rivals-real-madrid",
+      "image_url": null,
+      "published": "2026-04-16T13:23:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:41.344918",
+      "priority_score": 100,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-16T13:08:38.544526",
+      "title_tr": "Kane, Bayern'in Madrid'i devirmesiyle 'özel geceyi' selamladı",
+      "summary_tr": "Harry Kane, son gollerin Bayern Münih'i 4-3 galibiyete taşıması, Real Madrid'i 2012'den bu yana ilk kez elemesi ve Şampiyonlar Ligi yarı finaline bileti garantilemesi nedeniyle \"özel bir gece\"yi selamladı."
+    },
+    {
+      "title": "Neymar plays down talk about a move to MLS",
+      "summary": "Neymar intends to see out his Santos contract despite transfer interest from the MLS.",
+      "url": "https://www.espn.com/soccer/story/_/id/48501120/neymar-plays-talk-move-mls",
+      "image_url": null,
+      "published": "2026-04-16T13:23:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:41.345304",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-16T13:08:38.545934",
+      "title_tr": "Neymar, MLS'e transfer olacağı yönündeki söylentileri küçümsedi",
+      "summary_tr": "Neymar, MLS'nin transfer ilgisine rağmen Santos sözleşmesini uzatmayı planlıyor."
+    },
     {
       "title": "Southern derby sweepstake: Win exclusive prizes on the official Bundesliga app around Bayern Munich vs. VfB Stuttgart!",
       "summary": "Ahead of Bayern Munich's possible title-clincher against VfB Stuttgart, we're offering Bundesliga app users the chance to win exclusive Southern derby-themed prizes.",
@@ -12,14 +55,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-16T11:53:25.827735",
+      "fetched_at": "2026-04-16T13:05:54.874758",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.684392",
+      "processed_at": "2026-04-16T13:08:38.799090",
       "title_tr": "Güney derbi çekilişi: Resmi Bundesliga uygulamasında Bayern Münih ile VfB Stuttgart arasındaki özel ödüller kazanın!",
       "summary_tr": "Bayern Münih'in VfB Stuttgart'a karşı muhtemel şampiyonluğu öncesinde, Bundesliga uygulaması kullanıcılarına Güney derbisi temalı özel ödüller kazanma şansı sunuyoruz."
     },
@@ -33,60 +76,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:28.334543",
+      "fetched_at": "2026-04-16T13:06:58.954859",
       "priority_score": 100,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-16T11:56:02.896938",
+      "processed_at": "2026-04-16T13:08:39.048462",
       "title_tr": "Juventus, Osimhen'e teklif yapamadı! Transfer iptal",
       "summary_tr": "Juventus Teknik Direktörü Luciano Spalletti, kulübü ile sözleşmesini yenilemesinin ardından Osimhen'in transferini istedi ancak bu operasyon gerçekleşmedi."
-    },
-    {
-      "title": "Beşiktaş'tan Lukaku için ilk adım",
-      "summary": "Beşiktaş, golcü transferinde çıtayı yükseltti. Siyah-beyazlılar, Romelu Lukaku için sağlık ve maliyet raporlarını mercek altına aldı. Olumsuz bir durum çıkmaması halinde Belçikalı yıldız için resmi adımlar atılacak. Napoli de ayrılığa sıcak bakıyor.",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktastan-lukaku-icin-ilk-adim-2417446",
-      "image_url": null,
-      "published": "2026-04-16T11:18:47",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:54:54.072426",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "match_results",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-16T11:56:03.116446",
-      "title_tr": "Beşiktaş'tan Lukaku için ilk adım",
-      "summary_tr": "Beşiktaş, golcü transferinde çıtayı yükseltti. Siyah-beyazlılar, Romelu Lukaku için sağlık ve maliyet raporlarını mercek altına aldı. Olumsuz bir durum çıkmaması halinde Belçikalı yıldız için resmi adımlar atılacak. Napoli de ayrılığa sıcak bakıyor."
-    },
-    {
-      "title": "Kane hails 'special night' as Bayern oust Madrid",
-      "summary": "Harry Kane hailed a \"special night\" as late goals powered Bayern Munich to a 4-3 victory, eliminating Real Madrid for the first time since 2012 and securing a ticket to the Champions League semifinals.",
-      "url": "https://www.espn.com/soccer/story/_/id/48498251/kane-celebrates-special-night-bayern-gets-old-rivals-real-madrid",
-      "image_url": null,
-      "published": "2026-04-16T09:44:05",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.273206",
-      "priority_score": 95,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-16T11:56:02.444729",
-      "title_tr": "Kane, Bayern'in Madrid'i devirmesiyle 'özel geceyi' selamladı",
-      "summary_tr": "Harry Kane, son gollerin Bayern Münih'i 4-3 galibiyete taşıması, Real Madrid'i 2012'den bu yana ilk kez elemesi ve Şampiyonlar Ligi yarı finaline bileti garantilemesi nedeniyle \"özel bir gece\"yi selamladı."
     },
     {
       "title": "Liverpool’s Hugo Ekitiké ruled out for rest of season and World Cup with France",
@@ -98,16 +96,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T11:53:01.390571",
+      "fetched_at": "2026-04-16T13:05:26.594109",
       "priority_score": 83,
       "categories": [
         "match_results",
         "injuries",
         "world_cup"
       ],
-      "processed_at": "2026-04-16T11:56:02.636220",
-      "title_tr": "Liverpoollu Hugo Ekitiké sezonun geri kalanında ve Fransa ile Dünya Kupası'nda yer almayacak",
-      "summary_tr": "Forvet, aşil tendonu kopması şüphesiyle 2027'ye kadar sahalardan uzak kalabilirEkitiké, 17 golle bu sezon kulübün en golcü futbolcusuLiverpool'un golcüsü Hugo Ekitiké, Salı günü Paris Saint-Germain karşısında yaşadığı sakatlık nedeniyle sezonun geri kalanını ve Dünya Kupası'nı kaçıracak."
+      "processed_at": "2026-04-16T13:08:38.748127",
+      "title_tr": "Liverpoollu Hugo Ekitiké sezonun geri kalanında ve Fransa ile Dünya Kupası'nda oynayamayacak",
+      "summary_tr": "Forvet, aşil tendonu kopması şüphesiyle 2027'ye kadar sahalardan uzak kalabilirEkitiké, 17 golle bu sezon kulübün en golcü futbolcusuLiverpool'un golcüsü Hugo Ekitiké, Salı günü Paris Saint-Germain karşısında yaşadığı sakatlık nedeniyle sezonun geri kalanını ve Dünya Kupası'nı kaçıracak, Didier Descha"
     },
     {
       "title": "Shevchenko17, Misli’de kazandırmaya devam ediyor! Arda Güler’in harika golüyle tam 229.387 TL…",
@@ -119,116 +117,100 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:28.333975",
-      "priority_score": 81,
+      "fetched_at": "2026-04-16T13:06:58.954215",
+      "priority_score": 71,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.811472",
+      "processed_at": "2026-04-16T13:08:38.957501",
       "title_tr": "Shevchenko17, Misli’de kazandırmaya devam ediyor! Arda Güler’in harika golüyle tam 229.387 TL…",
       "summary_tr": "Misli’nin fenomen üyelerinden Shevchenko17, dün akşam oynanan Bayern Münih-Real Madrid maçında milli yıldızımız Arda Güler’in ceza sahası dışından gol atacağını bildi. 4-3 Bayern Münih galibiyetiyle biten UEFA Şampiyonlar Ligi çeyrek final rövanş maçında oyuncu bahisleri arasından ‘Arda Güler ceza s"
     },
     {
-      "title": "Osimhen'den Gençlerbirliği maçı için özel hazırlık",
-      "summary": "Şampiyonlar Ligi'nde Liverpool ile oynanan son 16 turu rövanş maçında kolu kırılan Osimhen, Gençlerbirliği deplasmanında ilk 11 başlamak için sınırları zorluyor. Yüz maskesine ek olarak hazırlanan özel kol bandajını idmanlarda deneyecek olan Nijeryalı yıldız, performansında sorun çıkmazsa sahaya sav",
-      "url": "https://www.cnnturk.com/spor/futbol/osimhenden-genclerbirligi-maci-icin-ozel-hazirlik-2417428",
+      "title": "Bellingham says Camavinga red 'a joke' as Real fury grows",
+      "summary": "Real Madrid's Jude Bellingham says the decision to send off team-mate Eduardo Camavinga during their 4-3 Champions League loss to Bayern Munich was \"a joke\".",
+      "url": "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-16T11:32:56",
+      "published": "2026-04-16T12:14:49",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:49.031529",
+      "priority_score": 65,
+      "categories": [
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-16T13:08:38.558032",
+      "title_tr": "Bellingham, Real'in öfkesi büyürken Camavinga'nın 'şaka' yaptığını söyledi",
+      "summary_tr": "Real Madridli Jude Bellingham, Şampiyonlar Ligi'nde Bayern Münih'e 4-3 yenilen takım arkadaşı Eduardo Camavinga'nın oyundan atılması kararının \"şaka\" olduğunu söyledi."
+    },
+    {
+      "title": "Ekitike to miss rest of season and World Cup with ruptured Achilles",
+      "summary": "France striker Hugo Ekitike will miss the World Cup after suffering a rupture of the Achilles tendon during Liverpool's Champions League defeat by Paris St-Germain on Tuesday.",
+      "url": "https://www.bbc.com/sport/football/articles/c4g443g0l76o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-16T12:48:25",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:49.032453",
+      "priority_score": 55,
+      "categories": [
+        "champions_league",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-16T13:08:38.568804",
+      "title_tr": "Ekitike, aşil tendonunun kopması nedeniyle sezonun geri kalanını ve Dünya Kupası'nı kaçıracak",
+      "summary_tr": "Fransa'nın forvet oyuncusu Hugo Ekitike, Liverpool'un Salı günü Paris St-Germain'e karşı Şampiyonlar Ligi'ndeki yenilgisi sırasında aşil tendonunun kopması nedeniyle Dünya Kupası'nı kaçıracak."
+    },
+    {
+      "title": "Beşiktaş'tan Lukaku için ilk adım",
+      "summary": "Beşiktaş, golcü transferinde çıtayı yükseltti. Siyah-beyazlılar, Romelu Lukaku için sağlık ve maliyet raporlarını mercek altına aldı. Olumsuz bir durum çıkmaması halinde Belçikalı yıldız için resmi adımlar atılacak. Napoli de ayrılığa sıcak bakıyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/besiktastan-lukaku-icin-ilk-adim-2417446",
+      "image_url": null,
+      "published": "2026-04-16T11:18:47",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:54.072569",
-      "priority_score": 61,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-16T11:56:03.126733",
-      "title_tr": "Osimhen'den Gençlerbirliği maçı için özel hazırlık",
-      "summary_tr": "Şampiyonlar Ligi'nde Liverpool ile oynanan son 16 turu rövanş maçında kolu kırılan Osimhen, Gençlerbirliği deplasmanında ilk 11 başlamak için sınırları zorluyor. Yüz maskesine ek olarak hazırlanan özel kol bandajını idmanlarda deneyecek olan Nijeryalı yıldız, performansında sorun çıkmazsa sahaya sav"
-    },
-    {
-      "title": "'Joke': Madrid fume at costly red card in UCL exit",
-      "summary": "Coach Álvaro Arbeloa said it was \"obvious\" that Eduardo Camavinga's red card was crucial in Real Madrid's Champions League quarterfinal elimination by Bayern Munich on Wednesday, while midfielder Jude Bellingham called the decision \"a joke.\"",
-      "url": "https://www.espn.com/soccer/story/_/id/48497483/real-madrid-eduardo-camavinga-red-card-bayern-munich-champions-league",
-      "image_url": null,
-      "published": "2026-04-16T09:44:05",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.273029",
-      "priority_score": 55,
-      "categories": [
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-16T11:56:02.444480",
-      "title_tr": "'Şaka': Madrid, UCL çıkışındaki pahalı kırmızı karttan öfkelendi",
-      "summary_tr": "Antrenör Álvaro Arbeloa, Real Madrid'in Çarşamba günü Bayern Münih'e karşı Şampiyonlar Ligi çeyrek finalinde elenmesinde Eduardo Camavinga'nın kırmızı kartının çok önemli olduğunun \"açık\" olduğunu söylerken, orta saha oyuncusu Jude Bellingham ise kararı \"şaka\" olarak nitelendirdi."
-    },
-    {
-      "title": "\"Şampiyon olacağımıza yüzde 100 inanıyorum!",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, “Puan kayıplarını birine yükleyeceksek o tabii ki teknik direktördür. Benim hatalarım, her şeyin sorumlusu benim. Bu zamana kadar böyle oldu. Oyuncularıma güveniyorum. Onlarla birlikte 4 sene üst üste şampiyon olacağımıza yüzde 100 inanıyorum. Bundan hiçbir ş",
-      "url": "https://www.haberturk.com/okan-buruk-4-sene-ust-uste-sampiyon-olacagimiza-yuzde-100-inaniyorum-3877836-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/16/ver1776337804/3877836/jpg/1280x1280",
-      "published": "2026-04-16T11:10:25",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:54:16.489917",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-16T11:56:02.728066",
-      "title_tr": "\"Şampiyon olacağımıza yüzde 100 inanıyorum!",
-      "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, “Puan kayıplarını birine yükleyeceksek o tabii ki teknik direktördür. Benim hatalarım, her şeyin sorumlusu benim. Bu zamana kadar böyle oldu. Oyuncularıma güveniyorum. Onlarla birlikte 4 sene üst üste şampiyon olacağımıza yüzde 100 inanıyorum. Bundan hiçbir ş"
-    },
-    {
-      "title": "Real Madrid’s Champions League exit will bring big change at the Bernabeu",
-      "summary": "Real Madrid's Champions League elimination by Bayern Munich will surely provoke another period of upheaval at the Spanish side, starting with Alvaro Arbeloa's position as head coach.",
-      "url": "https://www.skysports.com/football/news/12040/13532472/real-madrid-champions-league-exit-to-bayern-munich-will-bring-big-change-at-the-bernabeu",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-jude-bellingham-real_7221506.jpg?20260416121522",
-      "published": "2026-04-16T12:04:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:36.660179",
-      "priority_score": 51,
-      "categories": [
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-16T11:56:02.517040",
-      "title_tr": "Real Madrid'in Şampiyonlar Ligi'nden ayrılması Bernabeu'da büyük değişim getirecek",
-      "summary_tr": "Real Madrid'in Şampiyonlar Ligi'nde Bayern Münih'e elenmesi, Alvaro Arbeloa'nın başantrenörlük pozisyonundan başlayarak İspanyol tarafında kesinlikle başka bir çalkantıya yol açacak."
-    },
-    {
-      "title": "Neymar plays down talk about a move to MLS",
-      "summary": "Neymar intends to see out his Santos contract despite transfer interest from the MLS.",
-      "url": "https://www.espn.com/soccer/story/_/id/48501120/neymar-plays-talk-move-mls",
-      "image_url": null,
-      "published": "2026-04-16T09:44:05",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.273826",
-      "priority_score": 95,
+      "fetched_at": "2026-04-16T13:07:25.647730",
+      "priority_score": 96,
       "categories": [
         "transfers",
-        "serie_a"
+        "match_results",
+        "serie_a",
+        "super_lig"
       ],
-      "processed_at": "2026-04-16T11:56:02.446759",
-      "title_tr": "Neymar, MLS'e transfer olacağı yönündeki söylentileri küçümsedi",
-      "summary_tr": "Neymar, MLS'nin transfer ilgisine rağmen Santos sözleşmesini uzatmayı planlıyor."
+      "processed_at": "2026-04-16T13:08:39.257177",
+      "title_tr": "Beşiktaş'tan Lukaku için ilk adım",
+      "summary_tr": "Beşiktaş, golcü transferinde çıtayı yükseltti. Siyah-beyazlılar, Romelu Lukaku için sağlık ve maliyet raporlarını mercek altına aldı. Olumsuz bir durum çıkmaması halinde Belçikalı yıldız için resmi adımlar atılacak. Napoli de ayrılığa sıcak bakıyor."
+    },
+    {
+      "title": "Galatasaray, Bernardo Silva transferinin anahtarını buldu! Kilit isim devreye girdi",
+      "summary": "Galatasaray, gelecek sezonun transfer planlaması doğrultusunda Haziran ayında Manchester City ile yollarını ayıracak Bernardo Silva'yı kadrosuna katmak istiyor. Sarı kırmızılılar bu bağlamda, önemli rol üstlenecek ismi buldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-bernardo-silva-transferinin-anahtarini-buldu-kilit-isim-devreye-girdi-43152495",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e0cd654812f38ad161e4e8.jpg",
+      "published": "2026-04-16T11:53:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:06:58.954123",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-16T13:08:38.943347",
+      "title_tr": "Galatasaray, Bernardo Silva transferinin anahtarını buldu! Kilit isim devreye girdi",
+      "summary_tr": "Galatasaray, gelecek sezonun transfer planlaması doğrultusunda Haziran ayında Manchester City ile yollarını ayıracak Bernardo Silva'yı kadrosuna katmak istiyor. Sarı kırmızılılar bu bağlamda, önemli rol üstlenecek ismi buldu."
     },
     {
       "title": "Galatasaray’ın golcüsü Victor Osimhen için özel istek! Barcelona’ya transfer…",
@@ -240,7 +222,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:54.073115",
+      "fetched_at": "2026-04-16T13:07:25.648621",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -248,30 +230,29 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T11:56:03.178622",
+      "processed_at": "2026-04-16T13:08:39.321416",
       "title_tr": "Galatasaray’ın golcüsü Victor Osimhen için özel istek! Barcelona’ya transfer…",
       "summary_tr": "Barcelona’da Lamine Yamal’ın Victor Osimhen ile ilgili isteği gündem oldu. Galatasaray’ın cevabı ne olacak?"
     },
     {
-      "title": "\"Ronaldo bile başaramamıştı\"",
-      "summary": "Real Madrid forması giyen Arda Güler'in Bayern Münih'e attığı 2 gol, dünya basınında da geniş yer buldu. BBC, \"Neuer'in kabusu, Arda'nın zaferi oldu\" ifadesini kullanırken, Marca gazetesi, \"Real Madrid, Arda'nın ustalığı ve becerisi sayesinde goller buldu\" yazdı. Goal ise, \"Bunu Cristiano Ronaldo bi",
-      "url": "https://www.haberturk.com/arda-guler-in-golleri-avrupa-da-gundem-oldu-3877838-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/16/ver1776338078/3877838/jpg/1280x1280",
-      "published": "2026-04-16T11:14:49",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Captain Silva to leave Man City at end of season",
+      "summary": "Manchester City captain Bernardo Silva will leave the club when his contract expires at the end of this season.",
+      "url": "https://www.bbc.com/sport/football/articles/c624x7wvlv4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-16T12:14:56",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:16.489817",
-      "priority_score": 78,
+      "fetched_at": "2026-04-16T13:04:49.031894",
+      "priority_score": 75,
       "categories": [
-        "match_results",
-        "la_liga",
-        "bundesliga"
+        "transfers",
+        "premier_league"
       ],
-      "processed_at": "2026-04-16T11:56:02.722638",
-      "title_tr": "\"Ronaldo bile başaramamıştı\"",
-      "summary_tr": "Real Madrid forması giyen Arda Güler'in Bayern Münih'e attığı 2 gol, dünya basınında da geniş yer buldu. BBC, \"Neuer'in kabusu, Arda'nın zaferi oldu\" ifadesini kullanırken, Marca gazetesi, \"Real Madrid, Arda'nın ustalığı ve becerisi sayesinde goller buldu\" yazdı. Goal ise, \"Bunu Cristiano Ronaldo bi"
+      "processed_at": "2026-04-16T13:08:38.561489",
+      "title_tr": "Kaptan Silva sezon sonunda Manchester City'den ayrılacak",
+      "summary_tr": "Manchester City kaptanı Bernardo Silva, bu sezon sonunda sözleşmesi sona erdiğinde kulüpten ayrılacak."
     },
     {
       "title": "İtalyan devinin hocası Osimhen'i istedi! Çizme basınından flaş transfer iddiası",
@@ -283,56 +264,98 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:55:06.221028",
+      "fetched_at": "2026-04-16T13:07:40.292389",
       "priority_score": 74,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T11:56:03.300071",
+      "processed_at": "2026-04-16T13:08:39.496653",
       "title_tr": "İtalyan devinin hocası Osimhen'i istedi! Çizme basınından flaş transfer iddiası",
       "summary_tr": "Galatasaray'ın yıldızı Victor Osimhen, Avrupa devlerinin radarındaki yerini korurken İtalyan devinin hocasının da transfer listesine girdi. Ancak Nijeryalı golcü için yapılan hamle, sözleşmedeki \"İtalya'ya...Devamı için tıklayınız"
     },
     {
-      "title": "Golf leaderboards: Latest scores from RBC Heritage and more",
-      "summary": "All the latest golf scores and results from around the world, including the RBC Heritage on the PGA Tour and the LET's Joburg Ladies Open.",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-scottie-scheffler_7216187.jpg?20260410160529",
-      "published": "2026-04-16T11:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:36.659760",
-      "priority_score": 66,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-16T11:56:02.501809",
-      "title_tr": "Golf liderlik tabloları: RBC Heritage'dan en son puanlar ve daha fazlası",
-      "summary_tr": "PGA Tour'daki RBC Heritage ve LET's Joburg Bayanlar Açık dahil olmak üzere dünyanın dört bir yanından en son golf skorları ve sonuçları."
-    },
-    {
-      "title": "Arda Güler'in tarihi performansı Avrupa basınında: 'Neuer'in kâbusu oldu!'",
-      "summary": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler'in UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı 2 gol, Avrupa basının gündemine oturdu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/arda-gulerin-tarihi-performansi-avrupa-basininda-neuerin-kabusu-oldu-43152443",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e0c3a00c50728add7efa7f.jpg",
-      "published": "2026-04-16T11:10:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "\"Ronaldo bile başaramamıştı\"",
+      "summary": "Real Madrid forması giyen Arda Güler'in Bayern Münih'e attığı 2 gol, dünya basınında da geniş yer buldu. BBC, \"Neuer'in kabusu, Arda'nın zaferi oldu\" ifadesini kullanırken, Marca gazetesi, \"Real Madrid, Arda'nın ustalığı ve becerisi sayesinde goller buldu\" yazdı. Goal ise, \"Bunu Cristiano Ronaldo bi",
+      "url": "https://www.haberturk.com/arda-guler-in-golleri-avrupa-da-gundem-oldu-3877838-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/16/ver1776338078/3877838/jpg/1280x1280",
+      "published": "2026-04-16T11:14:49",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:28.334059",
-      "priority_score": 66,
+      "fetched_at": "2026-04-16T13:06:45.018451",
+      "priority_score": 68,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.822494",
-      "title_tr": "Arda Güler'in tarihi performansı Avrupa basınında: 'Neuer'in kâbusu oldu!'",
-      "summary_tr": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler'in UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı 2 gol, Avrupa basının gündemine oturdu."
+      "processed_at": "2026-04-16T13:08:38.850811",
+      "title_tr": "\"Ronaldo bile başaramamıştı\"",
+      "summary_tr": "Real Madrid forması giyen Arda Güler'in Bayern Münih'e attığı 2 gol, dünya basınında da geniş yer buldu. BBC, \"Neuer'in kabusu, Arda'nın zaferi oldu\" ifadesini kullanırken, Marca gazetesi, \"Real Madrid, Arda'nın ustalığı ve becerisi sayesinde goller buldu\" yazdı. Goal ise, \"Bunu Cristiano Ronaldo bi"
+    },
+    {
+      "title": "Guardiola ziet opnieuw trouwe steunpilaar vertrekken bij Man City",
+      "summary": "Bernardo Silva vertrekt na dit seizoen zoals verwacht bij Manchester City. De Portugese middenvelder heeft donderdag bevestigd dat hij zijn aflopende contract niet verlengt.",
+      "url": "https://www.vi.nl/nieuws/bernardo-silva-vertrekt-na-negen-jaar-en-negentien-prijzen-bij-city",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/16/18270abf552bc537b5272238232b04870e29e0ec.jpg?width=1200",
+      "published": "2026-04-16T12:47:01",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:08:36.318967",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-16T13:08:39.860654",
+      "title_tr": "Guardiola bir sadık dayanak noktasının daha Man City'den ayrıldığını görüyor",
+      "summary_tr": "Bernardo Silva beklendiği gibi bu sezonun ardından Manchester City'den ayrılacak. Portekizli orta saha oyuncusu Perşembe günü, süresi dolan sözleşmesini uzatmayacağını doğruladı."
+    },
+    {
+      "title": "'Uittocht bij Liverpool op komst, aanbieding voor transfervrije De Vrij'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/slot-hoeft-zelfs-bij-mislopen-champions-league-niet-te-vrezen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-04-16T12:15:49",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:08:36.319239",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-16T13:08:39.921312",
+      "title_tr": "'Liverpool'dan çıkış yolda, transfersiz De Vrij teklifi'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "'Joke': Madrid fume at costly red card in UCL exit",
+      "summary": "Coach Álvaro Arbeloa said it was \"obvious\" that Eduardo Camavinga's red card was crucial in Real Madrid's Champions League quarterfinal elimination by Bayern Munich on Wednesday, while midfielder Jude Bellingham called the decision \"a joke.\"",
+      "url": "https://www.espn.com/soccer/story/_/id/48497483/real-madrid-eduardo-camavinga-red-card-bayern-munich-champions-league",
+      "image_url": null,
+      "published": "2026-04-16T13:23:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:41.344372",
+      "priority_score": 65,
+      "categories": [
+        "la_liga",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-16T13:08:38.542916",
+      "title_tr": "'Şaka': Madrid, UCL çıkışındaki pahalı kırmızı karttan öfkelendi",
+      "summary_tr": "Antrenör Álvaro Arbeloa, Real Madrid'in Çarşamba günü Bayern Münih'e karşı Şampiyonlar Ligi çeyrek finalinde elenmesinde Eduardo Camavinga'nın kırmızı kartının önemli olduğunun \"açık\" olduğunu söylerken, orta saha oyuncusu Jude Bellingham ise kararı \"şaka\" olarak nitelendirdi."
     },
     {
       "title": "Arsenal fans around the world on the title race: ‘I feel panic, anxiety, everything’",
@@ -344,13 +367,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T11:53:01.390792",
+      "fetched_at": "2026-04-16T13:05:26.594389",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-16T11:56:02.645753",
+      "processed_at": "2026-04-16T13:08:38.758166",
       "title_tr": "Dünyanın dört bir yanındaki Arsenal taraftarları şampiyonluk yarışında: 'Panik, kaygı, her şeyi hissediyorum'",
       "summary_tr": "Dünyanın her yerindeki taraftarlar, Pazar günü Manchester City'ye karşı oynanacak büyük maçı, sinirleri birleşmiş halde izleyecek. Babam bir Liverpool taraftarıdır. O bir maç izlerken Premier Lig yayınının reklamını gördüm ve Thierry Henry'nin gol attığını gördüm, hepsi bu. Okumaya devam edin..."
     },
@@ -364,56 +387,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:28.334126",
+      "fetched_at": "2026-04-16T13:06:58.954364",
       "priority_score": 61,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T11:56:02.831340",
+      "processed_at": "2026-04-16T13:08:38.978714",
       "title_tr": "Uğurcan Çakır'a dev talip! Galatasaray kararını verdi",
       "summary_tr": "İtalyan devi Inter, Galatasaray'ın milli kalecisi Uğurcan Çakır'a talip oldu. Sarı-kırmızılılar transfer için kararını verdi."
     },
     {
-      "title": "Ticket to ride? Fifa premium makes this the World Cup that actively hates you | Jonathan Liew",
-      "summary": "The $95 bus trip to Foxborough highlights a tournament unique in modern times – one that ultimately makes no secret of its disdain for the paying publicLike any journalist with an unerring nose for an offbeat feature, my interest was sharply piqued by this week’s announcement of the $95 bus ride. Wh",
-      "url": "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you",
+      "title": "N.J. governor: FIFA should pay for WC train fare",
+      "summary": "New Jersey Governor Mikie Sherrill on Wednesday joined U.S. Senator Chuck Schumer in calling on FIFA to contribute toward World Cup transit security costs.",
+      "url": "https://www.espn.com/soccer/story/_/id/48502223/nj-governor-fifa-pay-extra-train-costs-metlife-world-cup",
       "image_url": null,
-      "published": "2026-04-16T07:00:52",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-04-16T13:23:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T11:53:01.388298",
-      "priority_score": 58,
+      "fetched_at": "2026-04-16T13:04:41.344143",
+      "priority_score": 60,
       "categories": [
-        "match_results",
-        "serie_a",
+        "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-04-16T11:56:02.577266",
-      "title_tr": "Binmek için bilet mi? Fifa premium, bu Dünya Kupası'nın sizden aktif olarak nefret ettiği bir dünya kupası haline getiriyor | Jonathan Liew",
-      "summary_tr": "Foxborough'a yapılan 95 dolarlık otobüs yolculuğu, modern zamanlarda benzersiz bir turnuvanın altını çiziyor; bu turnuva, sonuçta ödeme yapan kamuoyuna yönelik küçümsemesini gizlemiyor Sıradışı bir habere karşı şaşmaz bir burnu olan her gazeteci gibi, benim de bu haftaki 95 dolarlık otobüs yolculuğu duyurusu ilgimi keskin bir şekilde artırdı. ne"
-    },
-    {
-      "title": "Piteå IF feel the pinch as Swedish football’s outlier: ‘It’s an impossible puzzle’",
-      "summary": "Thirteen of the Damallsvenskan’s 14 teams are based in the south. For Piteå IF, rising costs are now the priorityPiteå IF are entering their 17th season as a top-division side in Sweden’s Damallsvenskan, but the challenge for them is getting tougher and tougher every year.And it is not a small budge",
-      "url": "https://www.theguardian.com/football/2026/apr/16/pitea-womens-swedish-football-moving-the-goalposts",
-      "image_url": null,
-      "published": "2026-04-16T10:58:29",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:53:01.388829",
-      "priority_score": 58,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-16T11:56:02.592884",
-      "title_tr": "Piteå IF, İsveç futbolunun aykırı oyuncusu olarak sıkıntıyı hissediyor: 'Bu imkansız bir bulmaca'",
-      "summary_tr": "Damallsvenskan'ın 14 takımının 13'ü güneyde bulunuyor. Piteå IF için artan maliyetler artık öncelikli konuPiteå IF, İsveç'in Damallsvenskan takımının en iyi takımı olarak 17. sezonuna giriyor, ancak onlar için zorluk her geçen yıl daha da zorlaşıyor. Ve bu hiç de küçük bir hareket değil."
+      "processed_at": "2026-04-16T13:08:38.542488",
+      "title_tr": "NJ Valisi: FIFA, WC tren ücretini ödemeli",
+      "summary_tr": "New Jersey Valisi Mikie Sherrill Çarşamba günü ABD Senatörü Chuck Schumer'e katılarak FIFA'yı Dünya Kupası transit güvenlik masraflarına katkıda bulunmaya çağırdı."
     },
     {
       "title": "Arda Güler'den 5 rekor birden!",
@@ -425,14 +428,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:16.489989",
+      "fetched_at": "2026-04-16T13:06:45.018600",
       "priority_score": 58,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.732834",
+      "processed_at": "2026-04-16T13:08:38.861865",
       "title_tr": "Arda Güler'den 5 rekor birden!",
       "summary_tr": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler, UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı gollerle 5 rekor birden kırdı."
     },
@@ -446,34 +449,54 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:16.490397",
+      "fetched_at": "2026-04-16T13:06:45.019125",
       "priority_score": 58,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-16T11:56:02.769249",
+      "processed_at": "2026-04-16T13:08:38.902282",
       "title_tr": "Fırtına'da ‘joker hamle’ etkisi!",
       "summary_tr": "Trabzonspor’da bu sezon dar rotasyon ve eksiklerin gölgesinde görev yapan teknik direktör Fatih Tekke, bazı oyuncularını farklı mevkilerde kullanarak çözüm üretti. Bordo-mavili ekipte joker rolünü üstlenen isimler hem oyuna hem de skora doğrudan katkı sağladı."
     },
     {
-      "title": "LIV Golf season to continue 'full throttle' amid shutdown reports, says CEO",
-      "summary": "LIV Golf CEO Scott O'Neil sought to quell speculation about the league's financial future with a memo to his staff that said the 2026 season will continue as planned without interruption and \"at full throttle\".",
-      "url": "https://www.skysports.com/golf/news/12040/13532358/liv-golf-ceo-scott-oneil-says-season-will-continue-full-throttle-amid-reports-of-saudi-arabia-cutting-financial-backing",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-scott-oneil-liv-golf_7221241.jpg?20260416062541",
-      "published": "2026-04-16T06:20:00",
+      "title": "Golf leaderboards: Latest scores from RBC Heritage and more",
+      "summary": "All the latest golf scores and results from around the world, including the RBC Heritage on the PGA Tour and the LET's Joburg Ladies Open.",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-scottie-scheffler_7216187.jpg?20260410160529",
+      "published": "2026-04-16T11:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-16T11:52:36.660241",
+      "fetched_at": "2026-04-16T13:05:01.992132",
+      "priority_score": 56,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-16T13:08:38.609662",
+      "title_tr": "Golf liderlik tabloları: RBC Heritage'dan en son puanlar ve daha fazlası",
+      "summary_tr": "PGA Tour'daki RBC Heritage ve LET's Joburg Bayanlar Açık dahil olmak üzere dünyanın dört bir yanından en son golf skorları ve sonuçları."
+    },
+    {
+      "title": "Arda Güler'in tarihi performansı Avrupa basınında: 'Neuer'in kâbusu oldu!'",
+      "summary": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler'in UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı 2 gol, Avrupa basının gündemine oturdu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/arda-gulerin-tarihi-performansi-avrupa-basininda-neuerin-kabusu-oldu-43152443",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e0c3a00c50728add7efa7f.jpg",
+      "published": "2026-04-16T11:10:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:06:58.954291",
       "priority_score": 56,
       "categories": [
         "match_results",
-        "serie_a"
+        "la_liga",
+        "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.522052",
-      "title_tr": "CEO, LIV Golf sezonunun kapanma raporlarının ortasında 'tam gaz' devam edeceğini söyledi",
-      "summary_tr": "LIV Golf CEO'su Scott O'Neil, ekibine gönderdiği ve 2026 sezonunun planlandığı gibi kesintisiz ve \"tam gaz\" devam edeceğini belirten bir notla ligin finansal geleceği hakkındaki spekülasyonları bastırmaya çalıştı."
+      "processed_at": "2026-04-16T13:08:38.969440",
+      "title_tr": "Arda Güler'in tarihi performansı Avrupa basınında: 'Neuer'in kâbusu oldu!'",
+      "summary_tr": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler'in UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı 2 gol, Avrupa basının gündemine oturdu."
     },
     {
       "title": "Manuel Neuer'den Arda Güler'e övgü dolu sözler! 'Onu özel kılan şey bu'",
@@ -485,7 +508,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T11:54:28.334650",
+      "fetched_at": "2026-04-16T13:06:58.955015",
       "priority_score": 56,
       "categories": [
         "match_results",
@@ -493,29 +516,67 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T11:56:02.925463",
+      "processed_at": "2026-04-16T13:08:39.078347",
       "title_tr": "Manuel Neuer'den Arda Güler'e övgü dolu sözler! 'Onu özel kılan şey bu'",
       "summary_tr": "Real Madrid, UEFA Şampiyonlar Ligi çeyrek final rövanş maçında deplasmanda karşılaştığı Bayern Münih'e 4-3 mağlup olarak turnuvaya veda etti. Karşılaşmanın ardından Bayern Münih kalecisi Manuel Neuer, Arda Güler'den yediği gollerle ilgili açıklamada bulundu."
     },
     {
-      "title": "While other giants fire, Arteta's Arsenal continues to flicker in the background",
-      "summary": "Arsenal eked out a 0-0 draw against Sporting on Wednesday, which was enough to carry them through to the UCL semis, but their season very much remains in the balance.",
-      "url": "https://www.espn.com/soccer/story/_/id/48498127/while-other-giants-fire-artetas-arsenal-continues-flicker",
+      "title": "Bernardo Silva confirms Man City summer exit",
+      "summary": "Bernardo Silva has announced he will leave Manchester City this summer.",
+      "url": "https://www.espn.com/soccer/story/_/id/48502266/bernardo-silva-confirms-man-city-exit-end-season",
       "image_url": null,
-      "published": "2026-04-16T11:47:34",
+      "published": "2026-04-16T13:23:30",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.274664",
+      "fetched_at": "2026-04-16T13:04:41.343911",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-16T13:08:38.542230",
+      "title_tr": "Bernardo Silva Manchester City'den yaz tatilini doğruladı",
+      "summary_tr": "Bernardo Silva bu yaz Manchester City'den ayrılacağını açıkladı."
+    },
+    {
+      "title": "Arteta tells Arsenal fans to enjoy, not criticize",
+      "summary": "Mikel Arteta has urged Arsenal fans to \"enjoy where we are\" after reaching the Champions League semifinals amid criticism of their performances.",
+      "url": "https://www.espn.com/soccer/story/_/id/48497799/mikel-arteta-arsenal-fans-champions-league-semifinals-sporting",
+      "image_url": null,
+      "published": "2026-04-16T13:23:28",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:41.344741",
       "priority_score": 55,
       "categories": [
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-16T11:56:02.452274",
-      "title_tr": "Diğer devler ateş ederken Arteta'nın Arsenal'i arka planda yanıp sönmeye devam ediyor",
-      "summary_tr": "Arsenal Çarşamba günü Sporting'e karşı 0-0 berabere kaldı ve bu onları UCL yarı finaline taşımak için yeterliydi, ancak sezon büyük ölçüde dengede kaldı."
+      "processed_at": "2026-04-16T13:08:38.543901",
+      "title_tr": "Arteta, Arsenal taraftarlarına eleştirmelerini değil, eğlenmelerini söylüyor",
+      "summary_tr": "Mikel Arteta, performanslarına yönelik eleştiriler üzerine Arsenal taraftarlarını Şampiyonlar Ligi yarı finaline ulaştıktan sonra \"bulunduğumuz yerin tadını çıkarmaya\" çağırdı."
+    },
+    {
+      "title": "Beckham: Miami won't rush head coach search",
+      "summary": "Inter Miami co-owner David Beckham said his team will be patient in the search for a new coach following the departure of Javier Mascherano.",
+      "url": "https://www.espn.com/soccer/story/_/id/48498014/david-beckham-inter-miami-rush-coach-search-mascherano-exit",
+      "image_url": null,
+      "published": "2026-04-16T13:23:28",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T13:04:41.345123",
+      "priority_score": 55,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-04-16T13:08:38.545239",
+      "title_tr": "Beckham: Miami teknik direktör arayışına acele etmeyecek",
+      "summary_tr": "Inter Miami'nin ortak sahibi David Beckham, Javier Mascherano'nun ayrılmasının ardından takımının yeni teknik direktör arayışında sabırlı olacağını söyledi."
     },
     {
       "title": "After Real Madrid's UCL comeback falls short, can their project be salvaged?",
@@ -527,101 +588,37 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.274801",
+      "fetched_at": "2026-04-16T13:04:41.346083",
       "priority_score": 55,
       "categories": [
         "la_liga",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-16T11:56:02.453986",
-      "title_tr": "Real Madrid'in UCL geri dönüşü başarısız olduktan sonra projeleri kurtarılabilecek mi?",
+      "processed_at": "2026-04-16T13:08:38.551777",
+      "title_tr": "Real Madrid'in UCL'ye dönüşü başarısız olduktan sonra projeleri kurtarılabilecek mi?",
       "summary_tr": "UCL klasiğinde Bayern Münih'e mağlup olan Real Madrid'i büyük sorular bekliyor."
     },
     {
-      "title": "Bayern Münih deplasmanda Real Madrid'i 4-3 mağlup etti: Arda Güler attığı iki golle 'Devler Ligi'ne damga vurdu | ÖZET",
-      "summary": "Avrupa’nın kulüpler bazında bir numaralı organizasyonu Şampiyonlar Ligi'nde Arda Güler'in takımı Real Madrid, 2-1’in rö...",
-      "url": "https://www.yenisafak.com/spor/bayern-munih-4-3-real-madrid-mac-ozeti-izle-video-arda-gulerin-gollerini-izle-4815615",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/4/16/c193b036-ew6iqagdvpbocmidizv5j.webp",
-      "published": "2026-04-16T07:24:00",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "title": "Ticket to ride? Fifa premium makes this the World Cup that actively hates you | Jonathan Liew",
+      "summary": "The $95 bus trip to Foxborough highlights a tournament unique in modern times – one that ultimately makes no secret of its disdain for the paying publicLike any journalist with an unerring nose for an offbeat feature, my interest was sharply piqued by this week’s announcement of the $95 bus ride. Wh",
+      "url": "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you",
+      "image_url": null,
+      "published": "2026-04-16T07:00:52",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T11:55:25.007535",
-      "priority_score": 52,
+      "fetched_at": "2026-04-16T13:05:26.591380",
+      "priority_score": 53,
       "categories": [
         "match_results",
-        "premier_league",
-        "la_liga",
-        "bundesliga"
+        "serie_a",
+        "world_cup"
       ],
-      "processed_at": "2026-04-16T11:56:03.546593",
-      "title_tr": "Bayern Münih deplasmanda Real Madrid'i 4-3 mağlup etti: Arda Güler attığı iki golle 'Devler Ligi'ne damga vurdu | ÖZET",
-      "summary_tr": "Avrupa’nın kulüpler bazında bir numaralı organizasyonu Şampiyonlar Ligi'nde Arda Güler'in takımı Real Madrid, 2-1’in rö..."
-    },
-    {
-      "title": "15 NİSAN GÜNÜN MAÇLARI: Bugün Kimin Maçı Var? UEFA Şampiyonlar Ligi Çeyrek Final Maçları Saat Kaçta, Hangi Kanalda? İşte 15 Nisan Günün Maçları Listesi...",
-      "summary": "15 Nisan Çarşamba günün maçları araştırılıyor. Bugün oynanacak olan maçlar için heyecan oldukça yüksek. 15 Nisan Çarşamba günü UEFA Şampiyonlar Ligi çeyrek final rövanş maçları, Arsenal Sporting Lisbon ve Bayern Münih Real Madrid maçları, Avrupa maçları, NBA, Basketbol EuroLeague Lig maçları, La Lig",
-      "url": "https://www.cnnturk.com/spor/15-nisan-gunun-maclari-bugun-kimin-maci-var-uefa-sampiyonlar-ligi-ceyrek-final-maclari-saat-kacta-hangi-kanalda-iste-15-nisan-gunun-2417191",
-      "image_url": null,
-      "published": "2026-04-16T13:44:52",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:54:54.072092",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "la_liga",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-16T11:56:03.102778",
-      "title_tr": "15 NİSAN GÜNÜN MAÇLARI: Bugün Kimin Maçı Var? UEFA Şampiyonlar Ligi Çeyrek Final Maçları Saat Kaçta, Hangi Kanalda? İşte 15 Nisan Günün Maçları Listesi...",
-      "summary_tr": "15 Nisan Çarşamba günün maçları araştırılıyor. Bugün oynanacak olan maçlar için heyecan oldukça yüksek. 15 Nisan Çarşamba günü UEFA Şampiyonlar Ligi çeyrek final rövanş maçları, Arsenal Sporting Lisbon ve Bayern Münih Real Madrid maçları, Avrupa maçları, NBA, Basketbol EuroLeague Lig maçları, La Lig"
-    },
-    {
-      "title": "Arda Güler'in şovu, Bayern Münih deplasmanında Real Madrid’e yetmedi",
-      "summary": "Arda Güler, Real Madrid formasıyla Bayern Münih’e karşı 2 kez gol sevinci yaşadı.",
-      "url": "https://www.cnnturk.com/spor/futbol/arda-gulerin-sovu-bayern-munih-deplasmaninda-real-madride-yetmedi-2417317",
-      "image_url": null,
-      "published": "2026-04-16T00:27:00",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:54:54.072825",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-16T11:56:03.149927",
-      "title_tr": "Arda Güler'in şovu, Bayern Münih deplasmanında Real Madrid’e yetmedi",
-      "summary_tr": "Arda Güler, Real Madrid formasıyla Bayern Münih’e karşı 2 kez gol sevinci yaşadı."
-    },
-    {
-      "title": "Transfer rumors, news: Newcastle to bring Mourinho back to Premier League?",
-      "summary": "Newcastle United could sack manager Eddie Howe and turn to Jose Mourinho. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48500830/transfer-rumors-news-newcastle-bring-mourinho-back-premier-league",
-      "image_url": null,
-      "published": "2026-04-16T08:48:14",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T11:52:21.274945",
-      "priority_score": 50,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-16T11:56:02.455907",
-      "title_tr": "Transfer söylentileri, haberler: Newcastle, Mourinho'yu Premier Lig'e geri getirecek mi?",
-      "summary_tr": "Newcastle United teknik direktör Eddie Howe'u görevden alıp Jose Mourinho'ya yönelebilir. Transfer Talk'ta en son gelişmeler var."
+      "processed_at": "2026-04-16T13:08:38.687061",
+      "title_tr": "Binmek için bilet mi? Fifa premium, bu Dünya Kupası'nın sizden aktif olarak nefret ettiği bir dünya kupası haline getiriyor | Jonathan Liew",
+      "summary_tr": "Foxborough'a yapılan 95 dolarlık otobüs yolculuğu, modern zamanlarda benzersiz bir turnuvanın altını çiziyor; bu turnuva, sonuçta ödeme yapan kamuoyuna yönelik küçümsemesini gizlemiyor Sıra dışı bir habere karşı şaşmaz bir burnu olan her gazeteci gibi, benim de bu haftaki 95 dolarlık otobüs yolculuğu duyurusu ilgimi keskin bir şekilde artırdı. ne"
     }
   ]
 }
