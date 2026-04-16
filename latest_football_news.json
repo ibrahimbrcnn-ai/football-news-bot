@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T20:52:24.876287",
+  "timestamp": "2026-04-16T21:39:38.819509",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-16T20:48:21.855058",
+      "fetched_at": "2026-04-16T21:35:44.680944",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T20:51:00.061693",
+      "processed_at": "2026-04-16T21:38:18.825638",
       "title_tr": "Güney derbi çekilişi: Resmi Bundesliga uygulamasında Bayern Münih ile VfB Stuttgart arasındaki özel ödüller kazanın!",
       "summary_tr": "Bayern Münih'in VfB Stuttgart'a karşı muhtemel şampiyonluğu öncesinde, Bundesliga uygulaması kullanıcılarına Güney derbisi temalı özel ödüller kazanma şansı sunuyoruz."
     },
@@ -33,7 +33,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:49.449574",
+      "fetched_at": "2026-04-16T21:37:04.299719",
       "priority_score": 91,
       "categories": [
         "transfers",
@@ -41,7 +41,7 @@
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T20:51:00.586475",
+      "processed_at": "2026-04-16T21:38:19.337261",
       "title_tr": "Beşiktaş'tan Lukaku için ilk adım",
       "summary_tr": "Beşiktaş, golcü transferinde çıtayı yükseltti. Siyah-beyazlılar, Romelu Lukaku için sağlık ve maliyet raporlarını mercek altına aldı. Olumsuz bir durum çıkmaması halinde Belçikalı yıldız için resmi adımlar atılacak. Napoli de ayrılığa sıcak bakıyor."
     },
@@ -55,16 +55,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-16T20:48:21.852958",
+      "fetched_at": "2026-04-16T21:35:44.679068",
       "priority_score": 81,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T20:51:00.037737",
-      "title_tr": "Borussia Dortmund'lu Nico Schlotterbeck Almanya'nın en iyi stoperi mi?",
-      "summary_tr": "Borussia Dortmund'un 2026 yazında birkaç müdavim oyuncusunun takımdan ayrılacağını açıklamasıyla birlikte, Nico Schlotterbeck'in kulüpte uzun vadeli bir sözleşme uzatması imzalamış olması, daha da fazla ses getiriyor."
+      "processed_at": "2026-04-16T21:38:18.801173",
+      "title_tr": "Borussia Dortmund'un Nico Schlotterbeck'i Almanya'nın en iyi stoperi mi?",
+      "summary_tr": "Borussia Dortmund'un 2026 yazında A takımdan birkaç müdaviminin takımdan ayrılacağını açıklamasıyla birlikte, Nico Schlotterbeck'in kulüpte uzun vadeli bir sözleşme uzatması imzalamış olması, daha da fazla ses getiriyor."
+    },
+    {
+      "title": "Villa breeze past Bologna into UEL semi vs. Forest",
+      "summary": "Aston Villa blew Bologna away with a trio of first-half goals as they roared into the semifinals of the Europa League with a 4-0 victory, winning 7-1 on aggregate.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862906",
+      "image_url": null,
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:41.753704",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-16T21:38:18.541428",
+      "title_tr": "Villa Bologna'yı geçerek UEL yarı-orman maçına çıktı",
+      "summary_tr": "Aston Villa, Bologna'yı ilk yarıda attığı üçlü golle mağlup ederken, toplamda 7-1 kazanarak Avrupa Ligi'nde 4-0'lık galibiyetle yarı finale yükseldi."
     },
     {
       "title": "A big topic for others, not for her - Eta on groundbreaking head coach role",
@@ -76,33 +96,52 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:26.502629",
+      "fetched_at": "2026-04-16T21:34:46.310443",
       "priority_score": 80,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-16T20:50:59.826473",
+      "processed_at": "2026-04-16T21:38:18.586234",
       "title_tr": "Başkaları için büyük bir konu, kendisi için değil - Eta çığır açan baş antrenör rolü hakkında",
       "summary_tr": "New Union Berlin başantrenörü Marie-Louise Eta, Avrupa'nın en iyi beş liginden birinde bir erkek takımını yöneten ilk kadın olmayı tartışıyor."
     },
     {
-      "title": "Nottingham Forest v Porto: Europa League quarter-final, second leg – live",
-      "summary": "⚽ Europa League updates; kick-off 8pm BST (first leg: 1-1)⚽ Aston Villa v Bologna – updates | Live scores | Mail Scott4 min: Sangare releases Gibbs-White down the right. Promising for Forest … until the whistle goes, Sangare having come through the back of Alberto Costa on the touchline. The correct",
-      "url": "https://www.theguardian.com/football/live/2026/apr/16/nottingham-forest-v-porto-europa-league-quarter-final-second-leg-live",
+      "title": "Messi buys fifth-division Spanish club Cornellà",
+      "summary": "Barcelona great Lionel Messi has bought Spanish fifth-division team Cornellà, the club announced on Thursday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48504302/lionel-messi-buys-third-division-spanish-club-cornella-renowned-player-academy",
       "image_url": null,
-      "published": "2026-04-16T20:38:48",
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:41.753853",
+      "priority_score": 65,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-04-16T21:38:18.541988",
+      "title_tr": "Messi, beşinci lig İspanyol kulübü Cornellà'yı satın aldı",
+      "summary_tr": "Kulüpten perşembe günü yapılan duyuruya göre, Barcelona'nın büyük oyuncusu Lionel Messi, İspanya'nın beşinci lig takımı Cornellà'yı satın aldı."
+    },
+    {
+      "title": "Crystal Palace hold off Fiorentina to book place in Conference semi-final",
+      "summary": "What a time it is to be a Crystal Palace supporter. Twelve months ago, the south London club was still waiting to win their first major trophy and even the most optimistic fan could never have imagined that they would be contesting the semi-final of a European competition.But despite a few anxious m",
+      "url": "https://www.theguardian.com/football/2026/apr/16/fiorentina-crystal-palace-conference-league-match-report",
+      "image_url": null,
+      "published": "2026-04-16T21:12:31",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:56.059366",
+      "fetched_at": "2026-04-16T21:35:19.802784",
       "priority_score": 63,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-16T20:50:59.908797",
-      "title_tr": "Nottingham Forest - Porto: Avrupa Ligi çeyrek final rövanş maçı canlı",
-      "summary_tr": "⚽ Avrupa Ligi güncellemeleri; başlama vuruşu 20:00 BST (ilk maç: 1-1)⚽ Aston Villa - Bologna – güncellemeler | Canlı skorlar | Mail Scott4 dakika: Sangare sağdan Gibbs-White'ı serbest bırakıyor. Forest için umut verici... Düdük çalıncaya kadar Sangare taç çizgisinde Alberto Costa'nın arkasından geldi. Doğru"
+      "processed_at": "2026-04-16T21:38:18.672967",
+      "title_tr": "Crystal Palace, Konferans yarı finalinde yer almak için Fiorentina'yı geride bıraktı",
+      "summary_tr": "Crystal Palace taraftarı olmanın tam zamanı. On iki ay önce, Güney Londra kulübü hâlâ ilk büyük kupasını kazanmayı bekliyordu ve en iyimser taraftar bile bir Avrupa müsabakasında yarı finalde yarışacaklarını asla hayal edemezdi."
     },
     {
       "title": "\"Ronaldo bile başaramamıştı\"",
@@ -114,14 +153,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:14.368130",
+      "fetched_at": "2026-04-16T21:36:30.205881",
       "priority_score": 63,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T20:51:00.123615",
+      "processed_at": "2026-04-16T21:38:18.870856",
       "title_tr": "\"Ronaldo bile başaramamıştı\"",
       "summary_tr": "Real Madrid forması giyen Arda Güler'in Bayern Münih'e attığı 2 gol, dünya basınında da geniş yer buldu. BBC, \"Neuer'in kabusu, Arda'nın zaferi oldu\" ifadesini kullanırken, Marca gazetesi, \"Real Madrid, Arda'nın ustalığı ve becerisi sayesinde goller buldu\" yazdı. Goal ise, \"Bunu Cristiano Ronaldo bi"
     },
@@ -135,55 +174,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:14.367843",
+      "fetched_at": "2026-04-16T21:36:30.205634",
       "priority_score": 58,
       "categories": [
         "match_results",
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T20:51:00.103458",
+      "processed_at": "2026-04-16T21:38:18.852004",
       "title_tr": "İşte Devler Ligi'nde haftanın 11'i!",
       "summary_tr": "UEFA Şampiyonlar Ligi çeyrek final rövanş maçlarının tamamlanmasının ardından haftanın 11'i de belli oldu. Real Madrid'de forma giyen ve Bayern Münih'e karşı 2 gol atan milli futbolcumuz Arda Güler de haftanın 11'ine seçildi."
     },
     {
-      "title": "Champions League semifinal predictions: Don't bet against Arsenal despite misfiring attack",
-      "summary": "The UEFA Champions League quarterfinals largely lived up to expectations, with three of four games going down to the wire. Now that the dust has settled, let's break down the semifinals and predict who advances.",
-      "url": "https://www.espn.com/soccer/story/_/id/48501872/champions-league-semifinal-preview-predictions-arsenal-bayern-munich-psg-atletico-madrid-bill-connelly",
-      "image_url": null,
-      "published": "2026-04-16T21:40:32",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Messi blijft verbonden met Barcelona: nieuwe eigenaar vijfdeklasser in Catalonië",
+      "summary": "Lionel Messi is de nieuwe eigenaar van de Spaanse vijfdeklasser UE Cornellà. De achtvoudige Ballon d’Or-winnaar en Barcelona-legende toont daarmee zijn verbondenheid met Catalonië en zijn inzet voor de ontwikkeling van talent in de regio.",
+      "url": "https://www.vi.nl/nieuws/messi-blijft-verbonden-met-barcelona-nieuwe-eigenaar-vijfdeklasser-in-cataloni",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/16/78203de4e37b30e5d48a158753710264947411d3.jpg?width=1200",
+      "published": "2026-04-16T21:31:03",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:20.172431",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-16T20:50:59.786617",
-      "title_tr": "Şampiyonlar Ligi yarı final tahminleri: Yanlış ateşlenen atağa rağmen Arsenal'e karşı bahis oynamayın",
-      "summary_tr": "UEFA Şampiyonlar Ligi çeyrek finalleri büyük ölçüde beklentileri karşıladı ve dört maçın üçü berabere bitti. Artık ortalık yatıştığına göre yarı finalleri inceleyelim ve kimin öne çıkacağını tahmin edelim."
-    },
-    {
-      "title": "Messi buys fifth-division Spanish club Cornellà",
-      "summary": "Barcelona great Lionel Messi has bought Spanish fifth-division team Cornellà, the club announced on Thursday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48504302/lionel-messi-buys-third-division-spanish-club-cornella-renowned-player-academy",
-      "image_url": null,
-      "published": "2026-04-16T19:04:06",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:47:20.173687",
-      "priority_score": 55,
+      "fetched_at": "2026-04-16T21:38:13.625196",
+      "priority_score": 57,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-04-16T20:50:59.789592",
-      "title_tr": "Messi, beşinci lig İspanyol kulübü Cornellà'yı satın aldı",
-      "summary_tr": "Kulüpten perşembe günü yapılan duyuruya göre, Barcelona'nın büyük oyuncusu Lionel Messi, İspanya'nın beşinci lig takımı Cornellà'yı satın aldı."
+      "processed_at": "2026-04-16T21:38:19.768824",
+      "title_tr": "Messi, Barselona'ya bağlı olmaya devam ediyor: Katalonya'daki beşinci ligin yeni sahibi",
+      "summary_tr": "Lionel Messi, İspanya'nın beşinci lig kulübü UE Cornellà'nın yeni sahibi oldu. Sekiz kez Ballon d'Or kazananı ve Barselona efsanesi, böylece Katalonya ile olan bağını ve bölgedeki yeteneklerin geliştirilmesine olan bağlılığını gösteriyor."
     },
     {
       "title": "Rashford's Barca future uncertain - Friday's gossip",
@@ -195,7 +214,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:26.502293",
+      "fetched_at": "2026-04-16T21:34:46.309551",
       "priority_score": 55,
       "categories": [
         "premier_league",
@@ -203,49 +222,9 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-04-16T20:50:59.821966",
+      "processed_at": "2026-04-16T21:38:18.571425",
       "title_tr": "Rashford'un Barça'daki geleceği belirsiz - Cuma günkü dedikodular",
       "summary_tr": "Marcus Rashford'un Barselona'daki geleceği belirsiz, Anthony Gordon, Bayern Münih'in ilgisi nedeniyle seçenekleri değerlendirecek, Manchester City ise Eduardo Conceicao için yarışta ve daha fazlası."
-    },
-    {
-      "title": "Ticket to ride? Fifa premium makes this the World Cup that actively hates you | Jonathan Liew",
-      "summary": "The $95 bus trip to Foxborough highlights a tournament unique in modern times – one that ultimately makes no secret of its disdain for the paying publicLike any journalist with an unerring nose for an offbeat feature, my interest was sharply piqued by this week’s announcement of the $95 bus ride. Wh",
-      "url": "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you",
-      "image_url": null,
-      "published": "2026-04-16T07:00:52",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:47:56.061632",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-16T20:50:59.937436",
-      "title_tr": "Binmek için bilet mi? Fifa premium, bu Dünya Kupası'nın sizden aktif olarak nefret ettiği bir dünya kupası haline getiriyor | Jonathan Liew",
-      "summary_tr": "Foxborough'a yapılan 95 dolarlık otobüs yolculuğu, modern zamanlarda benzersiz bir turnuvanın altını çiziyor; bu turnuva, sonuçta ödeme yapan kamuoyuna yönelik küçümsemesini gizlemiyor Sıra dışı bir habere karşı şaşmaz bir burnu olan her gazeteci gibi, benim de bu haftaki 95 dolarlık otobüs yolculuğu duyurusu ilgimi keskin bir şekilde artırdı. ne"
-    },
-    {
-      "title": "Hard-punching cruiserweight Rozicki signs with Zuffa Boxing",
-      "summary": "Hard-punching cruiserweight Ryan Rozicki has signed a multi-fight deal with Zuffa Boxing.",
-      "url": "https://www.skysports.com/boxing/news/12040/13532638/ryan-rozicki-hard-punching-canadian-cruiserweight-signs-multi-fight-deal-with-zuffa-boxing-im-ready-to-make-a-statement",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-ryan-rozicki-zuffa-boxing_7221966.jpg?20260416183242",
-      "published": "2026-04-16T20:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:47:35.594033",
-      "priority_score": 76,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-16T20:50:59.841328",
-      "title_tr": "Güçlü yarı siklet Rozicki, Zuffa Boxing'le anlaştı",
-      "summary_tr": "Sert yumruklu yarı siklet Ryan Rozicki, Zuffa Boxing ile çoklu dövüş anlaşması imzaladı."
     },
     {
       "title": "Kocaelispor’da iç transferde anlaşma açıklandı",
@@ -257,12 +236,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:49.447538",
+      "fetched_at": "2026-04-16T21:37:04.298013",
       "priority_score": 76,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-16T20:51:00.411607",
+      "processed_at": "2026-04-16T21:38:19.164712",
       "title_tr": "Kocaelispor’da iç transferde anlaşma açıklandı",
       "summary_tr": "Kocaelispor, kalecisi Serhat Öztaşdelen’in sözleşmesinin uzatıldığını duyurdu."
     },
@@ -276,7 +255,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:20.174822",
+      "fetched_at": "2026-04-16T21:34:41.754876",
       "priority_score": 75,
       "categories": [
         "transfers",
@@ -284,8 +263,8 @@
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-04-16T20:50:59.796123",
-      "title_tr": "Rekor transfer Isak'ın Ekiike sakatlığının ardından Liverpool adına adım atması gerekiyor",
+      "processed_at": "2026-04-16T21:38:18.548222",
+      "title_tr": "Rekor transfer Isak'ın Ekitike sakatlığının ardından Liverpool adına adım atması gerekiyor",
       "summary_tr": "Alexander Isak daha yeni geri döndü ancak Hugo Ekitike'nin aldığı sakatlık darbesinden sonra Liverpool'un, Premier Lig'deki kasvetli şampiyonluk savunmasının ardından Şampiyonlar Ligi'ne ulaşması için hemen harekete geçmesi gerekecek."
     },
     {
@@ -298,14 +277,14 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:59.430078",
+      "fetched_at": "2026-04-16T21:37:17.262923",
       "priority_score": 69,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T20:51:00.784651",
+      "processed_at": "2026-04-16T21:38:19.528326",
       "title_tr": "İtalyan devinin hocası Osimhen'i istedi! Çizme basınından flaş transfer iddiası",
       "summary_tr": "Galatasaray'ın yıldızı Victor Osimhen, Avrupa devlerinin radarındaki yerini korurken İtalyan devinin hocasının da transfer listesine girdi. Ancak Nijeryalı golcü için yapılan hamle, sözleşmedeki \"İtalya'ya...Devamı için tıklayınız"
     },
@@ -319,76 +298,54 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:56.063302",
+      "fetched_at": "2026-04-16T21:35:19.803938",
       "priority_score": 68,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-04-16T20:50:59.959933",
+      "processed_at": "2026-04-16T21:38:18.687530",
       "title_tr": "Filistin Futbol Federasyonu yetkilileri, FIFA Dünya Kupası öncesi toplantısı için Kanada'ya girişini reddetti",
       "summary_tr": "Üç yetkilinin vize başvuruları reddedildiFifa Kongresi 30 Nisan'da Vancouver'da yapılacakFifa'ya üye derneklerin bu ay Vancouver'da düzenleyeceği Dünya Kupası öncesi toplantısı öncesinde Filistin Futbol Federasyonu yetkililerinin Kanada'ya girişleri reddedildi."
     },
     {
-      "title": "'Contract tot 2031? Chelsea doet er nog een schepje bovenop voor Caicedo'",
-      "summary": "Moisés Caicedo had nog een contract tot 2031 bij Chelsea, maar toch voelden The Blues zich genoodzaakt om het contract van de 24-jarige Ecuadoriaan open te breken en met twee jaar te verlengen, zo meldt onder meer de BBC .",
-      "url": "https://www.vi.nl/nieuws/contract-tot-2031-chelsea-doet-er-nog-een-schepje-bovenop-voor-caicedo",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/16/d2e48fb416d523841540010a5199cdd1970d6ea5.jpg?width=1200",
-      "published": "2026-04-16T20:13:08",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Hard-punching cruiserweight Rozicki signs with Zuffa Boxing",
+      "summary": "Hard-punching cruiserweight Ryan Rozicki has signed a multi-fight deal with Zuffa Boxing.",
+      "url": "https://www.skysports.com/boxing/news/12040/13532638/ryan-rozicki-hard-punching-canadian-cruiserweight-signs-multi-fight-deal-with-zuffa-boxing-im-ready-to-make-a-statement",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-ryan-rozicki-zuffa-boxing_7221966.jpg?20260416183242",
+      "published": "2026-04-16T20:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-16T20:50:57.341919",
-      "priority_score": 67,
+      "fetched_at": "2026-04-16T21:34:56.711143",
+      "priority_score": 66,
       "categories": [
-        "transfers",
-        "premier_league"
+        "transfers"
       ],
-      "processed_at": "2026-04-16T20:51:01.020673",
-      "title_tr": "'Sözleşme 2031'e kadar mı?' Chelsea, Caicedo için ekstra çaba harcıyor",
-      "summary_tr": "BBC'nin haberine göre, Moisés Caicedo'nun Chelsea'yle 2031 yılına kadar sözleşmesi bulunuyordu ancak Maviler hâlâ Ekvadorlu 24 yaşındaki oyuncunun sözleşmesini feshedip sözleşmeyi iki yıl uzatmak zorunda hissediyordu."
+      "processed_at": "2026-04-16T21:38:18.606402",
+      "title_tr": "Güçlü yarı siklet Rozicki, Zuffa Boxing'le anlaştı",
+      "summary_tr": "Sert siklet siklet Ryan Rozicki, Zuffa Boxing ile çoklu dövüş anlaşması imzaladı."
     },
     {
-      "title": "Chelsea midfielder Caicedo agrees new contract",
-      "summary": "Chelsea midfielder Moises Caicedo agrees a lucrative new contract at Stamford Bridge as the club seeks to reward its high performers.",
-      "url": "https://www.bbc.com/sport/football/articles/c7vqqgqg87do?at_medium=RSS&at_campaign=rss",
+      "title": "Forest edge Porto for 1st European semi since '84",
+      "summary": "Nottingham Forest reached their first European semifinal since 1984 as they set up an all-English Europa League last-four meeting with Aston Villa.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862905",
       "image_url": null,
-      "published": "2026-04-16T15:34:25",
-      "source": "BBC Sport Football",
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:26.501247",
+      "fetched_at": "2026-04-16T21:34:41.754010",
       "priority_score": 65,
       "categories": [
-        "transfers",
-        "premier_league"
+        "breaking_news"
       ],
-      "processed_at": "2026-04-16T20:50:59.810061",
-      "title_tr": "Chelsea orta saha oyuncusu Caicedo yeni sözleşmeyi kabul etti",
-      "summary_tr": "Chelsea orta saha oyuncusu Moises Caicedo, kulübün yüksek performans gösteren oyuncularını ödüllendirmeye çalıştığı Stamford Bridge'de kazançlı yeni bir sözleşmeyi kabul ediyor."
-    },
-    {
-      "title": "'I leave as one more of you' - but how do Man City replace departing Silva?",
-      "summary": "Manchester City will lose the services of their dependable captain next season as Bernardo Silva announced he will leave the club when his contract expires this summer.",
-      "url": "https://www.bbc.com/sport/football/articles/c78rkm3j047o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-16T15:32:31",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:47:26.502800",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-16T20:50:59.830382",
-      "title_tr": "'Sizlerden biri olarak ayrılıyorum' ama Manchester City, ayrılan Silva'nın yerini nasıl alacak?",
-      "summary_tr": "Manchester City, Bernardo Silva'nın bu yaz sözleşmesi sona erdiğinde kulüpten ayrılacağını açıklaması nedeniyle gelecek sezon güvenilir kaptanının hizmetlerini kaybedecek."
+      "processed_at": "2026-04-16T21:38:18.542663",
+      "title_tr": "84'ten bu yana ilk Avrupa yarı maçında orman kenarı Porto",
+      "summary_tr": "Nottingham Forest, Aston Villa ile İngiltere Avrupa Ligi'nde son dört karşılaşması düzenleyerek 1984'ten bu yana ilk Avrupa yarı finaline ulaştı."
     },
     {
       "title": "Moisés Caicedo to agree lucrative new deal in show of faith for Chelsea project",
@@ -400,16 +357,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:56.060450",
+      "fetched_at": "2026-04-16T21:35:19.803243",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-16T20:50:59.921844",
+      "processed_at": "2026-04-16T21:38:18.680069",
       "title_tr": "Moisés Caicedo, Chelsea projesine olan inancını göstermek amacıyla kazançlı yeni bir anlaşmaya varacak",
       "summary_tr": "BlueCo'nun sahipliği Caicedo'nun bağlılığına işaret edebilir Jan Paul van Hecke ve Alex Scott ilgi duyulan oyuncular Moisés Caicedo, kulüple yeni bir anlaşmayı sözlü olarak kabul ederek Chelsea'ye büyük bir destek sağladı. Orta saha oyuncusu, 2023'te Brighton'dan 115 milyon £'luk transferinden ve aldığı karardan bu yana yıldız bir oyuncu oldu."
+    },
+    {
+      "title": "Freiburg continue to make history by reaching first ever European semi-final",
+      "summary": "Freiburg's win over Celta Vigo has landed them in the semi-finals of the UEFA Europa League, the furthest the Breisgau club have ever gone in European competition, and there's every reason they can go all the way.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/freiburg-make-history-europa-league-semi-final-36931",
+      "image_url": null,
+      "published": "2026-04-17T05:58:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:35:44.672507",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-16T21:38:18.739838",
+      "title_tr": "Freiburg Avrupa'da ilk kez yarı finale çıkarak tarih yazmaya devam ediyor",
+      "summary_tr": "Freiburg'un Celta Vigo'yu yenmesi onları UEFA Avrupa Ligi'nde yarı finale taşıdı; bu Breisgau kulübünün Avrupa kupalarında ulaştığı en ileri nokta ve sonuna kadar gidebilmeleri için her türlü neden var."
     },
     {
       "title": "Bayer Leverkusen defender Jarell Quansah on adapting to the Bundesliga, Harry Kane and his England World Cup hopes",
@@ -421,16 +397,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-16T20:48:21.849183",
+      "fetched_at": "2026-04-16T21:35:44.675424",
       "priority_score": 61,
       "categories": [
         "serie_a",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-04-16T20:50:59.998993",
-      "title_tr": "Bayer Leverkusen savunma oyuncusu Jarell Quansah, Bundesliga'ya uyum sağlamayı düşünüyor, Harry Kane ve İngiltere Dünya Kupası'ndan umutlu",
-      "summary_tr": "Liverpool'da küçük bir oyuncudan Bayer Leverkusen'in defans oyuncusu ve tam İngiltere milli takımına kadar, Jarell Quansah'ın Bundesliga'daki ilk sezonu bundan daha iyi geçemezdi. BayArena'daki yaşamı, Harry Kane'i, FIFA 2026 Dünya Kupası umutlarını ve daha fazlasını konuşmak için 23 yaşındaki oyuncuyla bir araya geldik."
+      "processed_at": "2026-04-16T21:38:18.769379",
+      "title_tr": "Bayer Leverkusen defans oyuncusu Jarell Quansah, Bundesliga'ya uyum sağlamayı düşünüyor, Harry Kane ve İngiltere Dünya Kupası'ndan umutlu",
+      "summary_tr": "Liverpool'da küçük bir oyuncudan Bayer Leverkusen'in defans oyuncusu ve tam İngiltere milli takımına kadar Jarell Quansah'ın Bundesliga'daki ilk sezonu bundan daha iyi geçemezdi. BayArena'daki yaşamı, Harry Kane'i, FIFA 2026 Dünya Kupası umutlarını ve daha fazlasını konuşmak için 23 yaşındaki oyuncuyla bir araya geldik."
     },
     {
       "title": "Türk kulüplerinin transfer gözdesi Bernardo Silva için resmî açıklama geldi",
@@ -442,15 +418,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:49.448979",
+      "fetched_at": "2026-04-16T21:37:04.299223",
       "priority_score": 61,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-16T20:51:00.543156",
+      "processed_at": "2026-04-16T21:38:19.294314",
       "title_tr": "Türk kulüplerinin transfer gözdesi Bernardo Silva için resmî açıklama geldi",
       "summary_tr": "Manchester City, Portekizli yıldızı Bernardo Silva’nın kulüpteki geleceğine dair beklenen açıklamayı yaptı."
+    },
+    {
+      "title": "N.J. governor: FIFA should pay for WC train fare",
+      "summary": "New Jersey Governor Mikie Sherrill on Wednesday joined U.S. Senator Chuck Schumer in calling on FIFA to contribute toward World Cup transit security costs.",
+      "url": "https://www.espn.com/soccer/story/_/id/48502223/nj-governor-fifa-pay-extra-train-costs-metlife-world-cup",
+      "image_url": null,
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:41.754336",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-16T21:38:18.544223",
+      "title_tr": "NJ Valisi: FIFA, WC tren ücretini ödemeli",
+      "summary_tr": "New Jersey Valisi Mikie Sherrill Çarşamba günü ABD Senatörü Chuck Schumer'e katılarak FIFA'yı Dünya Kupası transit güvenlik masraflarına katkıda bulunmaya çağırdı."
+    },
+    {
+      "title": "Chelsea midfielder Caicedo agrees new contract",
+      "summary": "Chelsea midfielder Moises Caicedo agrees a lucrative new contract at Stamford Bridge as the club seeks to reward its high performers.",
+      "url": "https://www.bbc.com/sport/football/articles/c7vqqgqg87do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-16T15:34:25",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:46.309171",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-16T21:38:18.566556",
+      "title_tr": "Chelsea orta saha oyuncusu Caicedo yeni sözleşmeyi kabul etti",
+      "summary_tr": "Chelsea orta saha oyuncusu Moises Caicedo, kulübün yüksek performans gösteren oyuncularını ödüllendirmeye çalıştığı Stamford Bridge'de kazançlı yeni bir sözleşmeyi kabul ediyor."
     },
     {
       "title": "Arsenal fans around the world on the title race: ‘I feel panic, anxiety, everything’",
@@ -462,15 +478,54 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:56.063966",
+      "fetched_at": "2026-04-16T21:35:19.805139",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-16T20:50:59.976599",
+      "processed_at": "2026-04-16T21:38:18.712796",
       "title_tr": "Dünyanın dört bir yanındaki Arsenal taraftarları şampiyonluk yarışında: 'Panik, kaygı, her şeyi hissediyorum'",
       "summary_tr": "Dünyanın her yerindeki taraftarlar, Pazar günü Manchester City'ye karşı oynanacak büyük maçı, sinirleri birleşmiş halde izleyecek. Babam bir Liverpool taraftarıdır. O bir maç izlerken Premier Lig yayınının reklamını gördüm ve Thierry Henry'nin gol attığını gördüm, hepsi bu. Okumaya devam edin..."
+    },
+    {
+      "title": "'Contract tot 2031? Chelsea doet er nog een schepje bovenop voor Caicedo'",
+      "summary": "Moisés Caicedo had nog een contract tot 2031 bij Chelsea, maar toch voelden The Blues zich genoodzaakt om het contract van de 24-jarige Ecuadoriaan open te breken en met twee jaar te verlengen, zo meldt onder meer de BBC .",
+      "url": "https://www.vi.nl/nieuws/contract-tot-2031-chelsea-doet-er-nog-een-schepje-bovenop-voor-caicedo",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/16/d2e48fb416d523841540010a5199cdd1970d6ea5.jpg?width=1200",
+      "published": "2026-04-16T20:13:08",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:38:13.625675",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-16T21:38:19.895529",
+      "title_tr": "'Sözleşme 2031'e kadar mı?' Chelsea, Caicedo için ekstra çaba harcıyor",
+      "summary_tr": "BBC'nin haberine göre, Moisés Caicedo'nun Chelsea'yle 2031 yılına kadar sözleşmesi devam ediyordu ancak Maviler, Ekvadorlu 24 yaşındaki oyuncunun sözleşmesini feshedip sözleşmeyi iki yıl uzatmak zorunda hissediyordu."
+    },
+    {
+      "title": "Arda Turan'ı Shakhtar'ı, Konferans Ligi'nde yarı finalde! Eşleşmeler belli oldu",
+      "summary": "Shakhtar Donetsk, UEFA Konferans Ligi çeyrek finalinde 3-0 kazandıkları ilk maçın rövanşında AZ Alkmaar ile 2-2 berabere kalarak yarı finale yükseldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/arda-turani-shakhtari-konferans-liginde-yari-finalde-43152774",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e135df2819415d8e02203d.jpg",
+      "published": "2026-04-16T19:18:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:36:40.118201",
+      "priority_score": 56,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-16T21:38:18.931282",
+      "title_tr": "Arda Turan'ı Shakhtar'ı, Konferans Ligi'nde yarı finalde! Eşleşmeler belli oldu",
+      "summary_tr": "Shakhtar Donetsk, UEFA Konferans Ligi çeyrek finalinde 3-0 kazandıkları ilk maçın rövanşında AZ Alkmaar ile 2-2 berabere kalarak yarı finale yükseldi."
     },
     {
       "title": "Bernardo Silva'nın ayrılığı resmen açıklandı!",
@@ -482,135 +537,75 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-16T20:49:25.107553",
+      "fetched_at": "2026-04-16T21:36:40.118878",
       "priority_score": 56,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-16T20:51:00.282952",
+      "processed_at": "2026-04-16T21:38:19.030783",
       "title_tr": "Bernardo Silva'nın ayrılığı resmen açıklandı!",
       "summary_tr": "İsmi transferde Galatasaray ve Fenerbahçe ile de anılan Portekizli futbolcu Bernardo Silva, 9 yıldır formasını giydiği İngiltere Premier Lig ekibi Manchester City'den sezon sonunda ayrılacağını duyurdu."
     },
     {
-      "title": "'Joke': Madrid fume at costly red card in UCL exit",
-      "summary": "Coach Álvaro Arbeloa said it was \"obvious\" that Eduardo Camavinga's red card was crucial in Real Madrid's Champions League quarterfinal elimination by Bayern Munich on Wednesday, while midfielder Jude Bellingham called the decision \"a joke.\"",
-      "url": "https://www.espn.com/soccer/story/_/id/48497483/real-madrid-eduardo-camavinga-red-card-bayern-munich-champions-league",
+      "title": "Champions League semifinal predictions: Don't bet against Arsenal despite misfiring attack",
+      "summary": "The UEFA Champions League quarterfinals largely lived up to expectations, with three of four games going down to the wire. Now that the dust has settled, let's break down the semifinals and predict who advances.",
+      "url": "https://www.espn.com/soccer/story/_/id/48501872/champions-league-semifinal-preview-predictions-arsenal-bayern-munich-psg-atletico-madrid-bill-connelly",
       "image_url": null,
-      "published": "2026-04-16T19:04:06",
+      "published": "2026-04-16T21:58:39",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-16T20:47:20.174036",
+      "fetched_at": "2026-04-16T21:34:41.752587",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-16T21:38:18.539225",
+      "title_tr": "Şampiyonlar Ligi yarı final tahminleri: Yanlış ateşlenen atağa rağmen Arsenal'e karşı bahis oynamayın",
+      "summary_tr": "UEFA Şampiyonlar Ligi çeyrek finalleri büyük ölçüde beklentileri karşıladı ve dört maçın üçü berabere bitti. Artık ortalık yatıştığına göre yarı finalleri inceleyelim ve kimin öne çıkacağını tahmin edelim."
+    },
+    {
+      "title": "Alex Manninger, former Arsenal keeper, dies at 48",
+      "summary": "Former Arsenal goalkeeper Alex Manninger has died at the age of 48.",
+      "url": "https://www.espn.com/soccer/story/_/id/48502984/alex-manninger-former-arsenal-goalkeeper-dies-48",
+      "image_url": null,
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:41.753068",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-16T21:38:18.539976",
+      "title_tr": "Arsenal'in eski kalecisi Alex Manninger 48 yaşında hayatını kaybetti",
+      "summary_tr": "Arsenal'in eski kalecisi Alex Manninger, 48 yaşında hayatını kaybetti."
+    },
+    {
+      "title": "Barcelona file fresh UEFA complaint over UCL refs",
+      "summary": "Barcelona have filed a second complaint to UEFA complaining that refereeing standards were not complied with in their Champions League quarterfinal exit to Atlético Madrid.",
+      "url": "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
+      "image_url": null,
+      "published": "2026-04-16T22:07:51",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-16T21:34:41.753372",
       "priority_score": 55,
       "categories": [
         "la_liga",
-        "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-16T20:50:59.791124",
-      "title_tr": "'Şaka': UCL çıkışındaki pahalı kırmızı kart Madrid'i öfkelendiriyor",
-      "summary_tr": "Antrenör Álvaro Arbeloa, Real Madrid'in Çarşamba günü Bayern Münih'e karşı Şampiyonlar Ligi çeyrek finalinde elenmesinde Eduardo Camavinga'nın kırmızı kartının çok önemli olduğunun \"açık\" olduğunu söylerken, orta saha oyuncusu Jude Bellingham ise kararı \"şaka\" olarak nitelendirdi."
-    },
-    {
-      "title": "\"Fatih Terim'i F.Bahçe'ye almak istedim\"",
-      "summary": "Eski milli futbolcu ve eski Fenerbahçe yöneticisi Selim Soydan, HT Spor İstihbarat Şefi Sezgin Gelmez'in sunduğu Gelmez Dediğin Yerden programına konuk oldu. Galatasaray'ın kadrosunun Fenerbahçe'den daha iyi olduğunu, derbinin zor olmasına rağmen F.Bahçe'nin kazanacağını dile getiren Soydan, yönetic",
-      "url": "https://www.haberturk.com/selim-soydan-fatih-terim-i-fenerbahce-ye-almak-istedim-3877935-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/16/ver1776369224/3877935/jpg/1280x1280",
-      "published": "2026-04-16T19:54:27",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:49:14.367602",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-16T20:51:00.088151",
-      "title_tr": "\"Fatih Terim'i F.Bahçe'ye almak istedim\"",
-      "summary_tr": "Eski milli futbolcu ve eski Fenerbahçe yöneticisi Selim Soydan, HT Spor İstihbarat Şefi Sezgin Gelmez'in sunduğu Gelmez Dediğin Yerden programına konuk oldu. Galatasaray'ın kadrosunun Fenerbahçe'den daha iyi olduğunu, derbinin zor olmasına rağmen F.Bahçe'nin kazanacağını dile getiren Soydan, yönetic"
-    },
-    {
-      "title": "Arda Güler'den 5 rekor birden!",
-      "summary": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler, UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı gollerle 5 rekor birden kırdı.",
-      "url": "https://www.haberturk.com/arda-guler-den-5-rekor-birden-3877817-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/16/ver1776334089/3877817/jpg/1280x1280",
-      "published": "2026-04-16T10:08:32",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:49:14.368299",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-16T20:51:00.135413",
-      "title_tr": "Arda Güler'den 5 rekor birden!",
-      "summary_tr": "Real Madrid forması giyen 21 yaşındaki milli futbolcu Arda Güler, UEFA Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e attığı gollerle 5 rekor birden kırdı."
-    },
-    {
-      "title": "Galatasaray idmanında sürpriz isim! Taraftarı heyecanlandırdı",
-      "summary": "Bu sezon U17 formasıyla çıktığı maçlarda hem skorer kimliği hem de asist gücüyle takımını sırtlayan Onur Kağan Yıldız, ...",
-      "url": "https://www.yenisafak.com/spor/galatasaray-idmaninda-surpriz-isim-taraftari-heyecanlandirdi-4815840",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/4/16/d92dc21f-mz4nnff2r5iqv9g08m6r0g.webp",
-      "published": "2026-04-16T16:24:49",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:50:18.192539",
-      "priority_score": 52,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-16T20:51:00.879556",
-      "title_tr": "Galatasaray idmanında sürpriz isim! Taraftarı heyecanlandırdı",
-      "summary_tr": "Bu sezon U17 formasıyla çıktığı maçlarda hem skorer kimliği hem de asist gücüyle takımını sırtlayan Onur Kağan Yıldız, ..."
-    },
-    {
-      "title": "Golf leaderboards: Latest scores from RBC Heritage and more",
-      "summary": "All the latest golf scores and results from around the world, including the RBC Heritage on the PGA Tour and the LET's Joburg Ladies Open.",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-scottie-scheffler_7216187.jpg?20260410160529",
-      "published": "2026-04-16T11:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:47:35.594819",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-16T20:50:59.896613",
-      "title_tr": "Golf skor tabloları: RBC Heritage'dan en son puanlar ve daha fazlası",
-      "summary_tr": "PGA Tour'daki RBC Heritage ve LET's Joburg Bayanlar Açık dahil olmak üzere dünyanın dört bir yanından en son golf skorları ve sonuçları."
-    },
-    {
-      "title": "Bundesliga Matchday 30 probable teams",
-      "summary": "Will Jamal Musiala retain his place in the Bayern Munich starting line-up for the visit of hometown club VfB Stuttgart?",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-2025-26-bayern-dortmund-leverkusen-fantasy-20707",
-      "image_url": null,
-      "published": "2026-04-17T04:55:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-04-16T20:48:21.848520",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-16T20:50:59.987191",
-      "title_tr": "Bundesliga'da 30 muhtemel takım",
-      "summary_tr": "Jamal Musiala, memleket kulübü VfB Stuttgart'ın ziyareti için Bayern Münih'in ilk 11'indeki yerini koruyacak mı?"
+      "processed_at": "2026-04-16T21:38:18.540388",
+      "title_tr": "Barcelona, ​​UCL hakemleri hakkında UEFA'ya yeni şikayette bulundu",
+      "summary_tr": "Barcelona, ​​Şampiyonlar Ligi çeyrek finalinde Atletico Madrid'e elenirken hakem standartlarına uyulmadığı gerekçesiyle UEFA'ya ikinci bir şikayette bulundu."
     }
   ]
 }
