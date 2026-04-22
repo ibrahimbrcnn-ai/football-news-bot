@@ -1,7 +1,49 @@
 {
-  "timestamp": "2026-04-22T06:34:45.108672",
+  "timestamp": "2026-04-22T08:29:17.888145",
   "total_items": 30,
   "news": [
+    {
+      "title": "From Premier League champions to League One",
+      "summary": "It feels like only yesterday that Leicester were the Cinderellas of world soccer, winning the Premier League at 5000/1 odds. But on Tuesday, the Foxes' relegation to the third tier was confirmed.",
+      "url": "https://www.espn.com/soccer/story/_/id/48554834/leicesters-fall-grace-prem-champions-league-one",
+      "image_url": null,
+      "published": "2026-04-22T08:31:55",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:22.585671",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-22T08:28:01.835738",
+      "title_tr": "Premier Lig şampiyonluğundan Birinci Lig'e",
+      "summary_tr": "Leicester'ın dünya futbolunun Sindirella'ları olduğu ve 5000/1 oranla Premier Lig'i kazandığı daha dün gibi geliyor. Ancak Salı günü Foxes'un üçüncü sıraya düşeceği doğrulandı."
+    },
+    {
+      "title": "Fenerbahçe, Lukaku için resmen masaya oturuyor! Yönetimle anlaştı",
+      "summary": "Fenerbahçe, forvet transferinde ilk adımını atıyor. Sarı lacivertliler, Romelu Lukaku ile resmi görüşmelere başlıyor. Lukaku, Napoli yönetimi ile anlaşmaya vardı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-lukaku-icin-resmen-masaya-oturuyor-yonetimle-anlasti-43156441",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e86e780c50728add7f1d97.jpg",
+      "published": "2026-04-22T06:47:45",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:26:26.506564",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-22T08:28:02.282794",
+      "title_tr": "Fenerbahçe, Lukaku için resmen masaya oturuyor! Yönetimle anlaştı",
+      "summary_tr": "Fenerbahçe, forvet transferinde ilk adımını atıyor. Sarı lacivertliler, Romelu Lukaku ile resmi görüşmelere başlıyor. Lukaku, Napoli yönetimi ile anlaşmaya vardı."
+    },
     {
       "title": "Trabzonspor transfere fırtına gibi başladı!",
       "summary": "Trabzonspor, biri 'direkt ilk 11 oynayacak' diğer 'geleceğe yatırım' olacak iki futbolcuyla anlaştı. Haziran ayında sözleşmesi sona erecek olan Ukraynalı orta saha oyuncusu Malinovskyi ile 3 yıllığına prensipte anlaşan Trabzonspor yönetimi, transferi bu hafta içinde bitirmeyi hedefliyor. Bordo mavil",
@@ -12,97 +54,280 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-22T06:31:50.484023",
+      "fetched_at": "2026-04-22T08:26:26.506896",
       "priority_score": 100,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-22T06:33:21.150950",
+      "processed_at": "2026-04-22T08:28:02.332919",
       "title_tr": "Trabzonspor transfere fırtına gibi başladı!",
       "summary_tr": "Trabzonspor, biri 'direkt ilk 11 oynayacak' diğer 'geleceğe yatırım' olacak iki futbolcuyla anlaştı. Haziran ayında sözleşmesi sona erecek olan Ukraynalı orta saha oyuncusu Malinovskyi ile 3 yıllığına prensipte anlaşan Trabzonspor yönetimi, transferi bu hafta içinde bitirmeyi hedefliyor. Bordo mavil"
     },
     {
-      "title": "From Premier League champions to relegation to League One",
-      "summary": "It feels like yesterday that Leicester were the Cinderellas of world soccer, winning the Premier League against all odds. On Tuesday, however, the Foxes' ignominious relegation to the third tier was confirmed.",
-      "url": "https://www.espn.com/soccer/story/_/id/48554834/leicesters-fall-grace-prem-champions-league-one",
+      "title": "McTominay & Gilmour on Scotland's World Cup hopes",
+      "summary": "Napoli duo Scott McTominay and Billy Gilmour target a first for Scotland at a World Cup this summer.",
+      "url": "https://www.bbc.com/sport/football/articles/cr5108dzlero?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-22T01:43:44",
-      "source": "ESPN FC",
+      "published": "2026-04-22T08:10:15",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:37.853497",
-      "priority_score": 95,
+      "fetched_at": "2026-04-22T08:24:28.864126",
+      "priority_score": 80,
       "categories": [
-        "transfers",
         "breaking_news",
-        "premier_league"
+        "serie_a",
+        "world_cup"
       ],
-      "processed_at": "2026-04-22T06:33:20.815753",
-      "title_tr": "Premier Lig şampiyonluğundan League One'a düşmeye",
-      "summary_tr": "Leicester'ın dünya futbolunun Sindirella'ları olduğu, her şeye rağmen Premier Lig'i kazandığı daha dün gibi. Ancak Salı günü Foxes'un rezil bir şekilde üçüncü sıraya düştüğü doğrulandı."
+      "processed_at": "2026-04-22T08:28:01.856000",
+      "title_tr": "McTominay ve Gilmour İskoçya'nın Dünya Kupası umutlarını anlatıyor",
+      "summary_tr": "Napoli ikilisi Scott McTominay ve Billy Gilmour, bu yaz Dünya Kupası'nda İskoçya adına bir ilki hedefliyor."
     },
     {
-      "title": "Fenerbahçe'de her şey 4 günde değişti: Bir son dakika şoku daha!",
-      "summary": "Süper Lig'de hafta sonu 90+7. dakikada kalesinde gördüğü golle Çaykur Rizespor ile 2-2 berabere kalarak lider Galatasaray'ın 4 puan gerisine düşen Fenerbahçe, deplasmanda Konyaspor'a 120+2. dakikada yediği golle 1-0 mağlup oldu ve Ziraat Türkiye Kupası'na veda etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-her-sey-4-gunde-degisti-bir-son-dakika-soku-daha-43156288",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e7e5147370607e7db390d5.jpg",
-      "published": "2026-04-21T20:59:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:31:50.484662",
-      "priority_score": 91,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-22T06:33:21.256060",
-      "title_tr": "Fenerbahçe'de her şey 4 günde değişti: Bir son dakika şoku daha!",
-      "summary_tr": "Süper Lig'de hafta sonu 90+7. dakikada kalesinde gördüğü golle Çaykur Rizespor ile 2-2 berabere kalarak lider Galatasaray'ın 4 puan gerisine düşen Fenerbahçe, deplasmanda Konyaspor'a 120+2. dakikada yediği golle 1-0 mağlup oldu ve Ziraat Türkiye Kupası'na veda etti."
-    },
-    {
-      "title": "Arsenal, 16 yaşındaki Marli Salmon sözleşme imzaladı",
-      "summary": "Arsenal, alt yaş kategorilerinde forma giyen genç oyuncu Marli Salmon ile ön sözleşme imzaladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/arsenal-16-yasindaki-marli-salmon-sozlesme-imzaladi-2419178",
-      "image_url": null,
-      "published": "2026-04-21T16:19:25",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:15.790107",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:21.494573",
-      "title_tr": "Arsenal, 16 yaşındaki Marli Salmon sözleşme imzaladı",
-      "summary_tr": "Arsenal, alt yaş kategorilerinde forma giyen genç oyuncu Marli Salmon ile ön sözleşme imzaladı."
-    },
-    {
-      "title": "Wembanyama injured in San Antonio's playoff loss to Portland",
-      "summary": "Scoot Henderson scored 31 points and the Portland Trail Blazers took advantage of an injury to Spurs star Victor Wembanyama, rallying for a 106-103 victory over San Antonio to even their Western Conference playoff series at one game apiece.",
-      "url": "https://www.skysports.com/nba/news/12040/13534831/victor-wembanyama-san-antonio-spurs-star-injured-with-potential-concussion-nba-playoff-defeat-to-portland-trail-blazers",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-nba-basketball-victor-wembanyama_7226863.jpg?20260422064301",
-      "published": "2026-04-22T06:50:00",
+      "title": "Mbappe and Vinicius Jr fire Real Madrid to victory over Alaves",
+      "summary": "Highlights of the LaLiga match between Real Madrid and Deportivo Alaves.",
+      "url": "https://www.skysports.com/watch/video/13534875/real-madrid-2-1-deportivo-alaves-laliga-highlights",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-real-madrid-highlights_7226986.jpg?20260422091714",
+      "published": "2026-04-22T09:11:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:56.588211",
-      "priority_score": 71,
+      "fetched_at": "2026-04-22T08:24:40.801678",
+      "priority_score": 76,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-22T08:28:01.887610",
+      "title_tr": "Mbappe ve Vinicius Jr, Real Madrid'i Alaves karşısında zafere taşıdı",
+      "summary_tr": "Real Madrid ile Deportivo Alaves arasındaki La Liga maçından öne çıkanlar."
+    },
+    {
+      "title": "Bayern Munich's record-breaking 2025/26 season in numbers",
+      "summary": "Under Vincent Kompany, Bayern Munich have turned the 2025/26 campaign into a statistical showcase. From record-breaking goal tallies to the extraordinary output of Harry Kane and a supporting cast firing on all fronts, the Bavarian giants are redefining dominance in the Bundesliga and beyond.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-season-in-numbers-record-champions-36970",
+      "image_url": null,
+      "published": "2026-04-22T07:20:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:25:25.086923",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-22T08:28:02.082722",
+      "title_tr": "Bayern Münih'in 2025/26 sezonunda sayılarla rekor kırması",
+      "summary_tr": "Vincent Kompany yönetimindeki Bayern Münih, 2025/26 sezonunu istatistik gösterisine dönüştürdü. Rekor kıran gol sayılarından Harry Kane'in olağanüstü performansına ve tüm cephelerdeki destekleyici oyuncu kadrosuna kadar Bavyera devleri, Bundesliga ve ötesinde hakimiyeti yeniden tanımlıyor."
+    },
+    {
+      "title": "What is the biggest football scoreline without anyone grabbing a hat-trick? | The Knowledge",
+      "summary": "Plus: four different players scoring twice, trophy glory after being reinstated and injured physios (revisited)Mail us with your all of your questions and answers“QPR recently scored six goals against Pompey with three players scoring a double each,” begins Dan Trelfer. “This threw up a few question",
+      "url": "https://www.theguardian.com/football/2026/apr/22/biggest-football-scoreline-without-anyone-grabbing-a-hat-trick",
+      "image_url": null,
+      "published": "2026-04-22T07:00:12",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:25:00.573678",
+      "priority_score": 68,
       "categories": [
         "match_results",
         "injuries"
       ],
-      "processed_at": "2026-04-22T06:33:20.869514",
-      "title_tr": "Wembanyama, San Antonio'nun Portland'a karşı play-off mağlubiyetinde sakatlandı",
-      "summary_tr": "Scoot Henderson 31 sayı attı ve Portland Trail Blazers, Spurs yıldızı Victor Wembanyama'nın sakatlığından yararlanarak San Antonio'yu 106-103 mağlup ederek Batı Konferansı play-off serisini birer maçla eşitledi."
+      "processed_at": "2026-04-22T08:28:01.996921",
+      "title_tr": "Hiç kimsenin hat-trick yapmadığı en büyük futbol skoru nedir? | Bilgi",
+      "summary_tr": "Artı: dört farklı oyuncu iki kez gol atıyor, yeniden göreve getirildikten ve sakatlandıktan sonra kupa zaferi (yeniden ziyaret edildi) Tüm sorularınızı ve yanıtlarınızı bize e-postayla gönderin Dan Trelfer, \"QPR kısa süre önce Pompey'e karşı altı gol attı ve üç oyuncunun her biri çift gol attı\" diye başlıyor. “Bu birkaç soruyu gündeme getirdi"
+    },
+    {
+      "title": "Bernardo Silva’s performance against Arsenal shows what Manchester City are losing",
+      "summary": "The Manchester City captain’s all-action display captured what has made him indispensable to Pep GuardiolaBy Opta Analyst“You were like fucking Cannavaro today.” Erling Haaland scored the winner in Manchester City’s colossal 2-1 victory against Arsenal but he was quick to highlight the real standout",
+      "url": "https://www.theguardian.com/football/2026/apr/22/bernardo-silva-influence-manchester-city-captain-pep-guardiola",
+      "image_url": null,
+      "published": "2026-04-22T07:00:12",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:25:00.575468",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-22T08:28:02.031094",
+      "title_tr": "Bernardo Silva'nın Arsenal'e karşı performansı Manchester City'nin ne kaybettiğini gösteriyor",
+      "summary_tr": "Manchester City kaptanının tüm aksiyon gösterisi, onu Pep Guardiola için vazgeçilmez kılan şeyi yansıtıyordu. Opta Analisti tarafından \"Bugün Cannavaro gibiydin.\" Erling Haaland, Manchester City'nin Arsenal'e karşı kazandığı 2-1'lik devasa galibiyette galibiyeti getiren golü attı ancak asıl öne çıkanı hızlı bir şekilde vurguladı."
+    },
+    {
+      "title": "Title race, European places and relegation battle: What can be decided on Bundesliga Matchday 31?",
+      "summary": "Bayern Munich have already secured the 2025/26 Bundesliga title, but there are still European places to determine, while Heidenheim's Bundesliga stay could come to an end as the season's first relegation casualty.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/next-matchday-permutations-25-26-title-european-places-relegation-36790",
+      "image_url": null,
+      "published": "2026-04-22T06:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:25:25.087684",
+      "priority_score": 66,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-22T08:28:02.093699",
+      "title_tr": "Şampiyonluk yarışı, Avrupa sıralamaları ve küme düşme mücadelesi: Bundesliga 31. Maç Günü'nde ne belirlenecek?",
+      "summary_tr": "Bayern Münih, 2025/26 Bundesliga şampiyonluğunu çoktan garantiledi ancak hâlâ Avrupa'da belirlenecek yerler var. Heidenheim'ın Bundesliga'da kalması sezonun ilk küme düşme kaybı olarak sona erebilir."
+    },
+    {
+      "title": "Fenerbahçe istiyordu: Mallorca'nın Vedat Muriqi için belirlediği bonservis bedeli şoke etti!",
+      "summary": "İspanya La Liga'da gol krallığı yarışı veren ve ismi transferde eski takımı Fenerbahçe ile anılan Kosovalı golcü Vedat Muriqi için kulübü Mallorca oldukça yüksek bir bonservis bedeli belirledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-istiyordu-mallorcanin-vedat-muriqi-icin-belirledigi-bonservis-bedeli-soke-etti-43156512",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e881462819415d8e023c43.jpg",
+      "published": "2026-04-22T08:05:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:26:26.506096",
+      "priority_score": 91,
+      "categories": [
+        "transfers",
+        "match_results",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-22T08:28:02.212364",
+      "title_tr": "Fenerbahçe istiyordu: Mallorca'nın Vedat Muriqi için belirlediği bonservis bedeli şoke etti!",
+      "summary_tr": "İspanya La Liga'da gol krallığı yarışı veren ve ismi transferde eski takımı Fenerbahçe ile anılan Kosovalı golcü Vedat Muriqi için kulübü Mallorca oldukça yüksek bir bonservis bedeli belirledi."
+    },
+    {
+      "title": "How Sargent's transfer inadvertently boosted Australia",
+      "summary": "Josh Sargent's acrimonious exit from Norwich may have dealt a big blow to the USMNT's World Cup ambitions.",
+      "url": "https://www.espn.com/soccer/story/_/id/48555579/josh-sargent-norwich-city-exit-helped-usmnt-world-cup-rivals",
+      "image_url": null,
+      "published": "2026-04-22T09:01:33",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:22.588292",
+      "priority_score": 80,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-22T08:28:01.846646",
+      "title_tr": "Sargent'ın transferi yanlışlıkla Avustralya'yı nasıl güçlendirdi?",
+      "summary_tr": "Josh Sargent'ın Norwich'ten sert bir şekilde ayrılması USMNT'nin Dünya Kupası hedeflerine büyük bir darbe indirmiş olabilir."
+    },
+    {
+      "title": "Hakan Çalhanoğlu'ndan Galatasaray'ı yıkan haber! Bunu kimse beklemiyordu",
+      "summary": "Son dakika Galatasaray transfer haberleri: Gelecek sezonun kadrosunu kurmak için çalışmalarına hız veren Galatasaray'ın uzun süredir transfer etmek istediği Hakan Çalhanoğlu'nu takıma kazandıracağı iddia...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/22/hakan-calhanoglundan-galatasarayi-yikan-haber-bunu-kimse-beklemiyordu",
+      "image_url": "https://iaftm.tmgrup.com.tr/8641be/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/04/22/hakan-calhanoglundan-galatasarayi-yikan-haber-bunu-kimse-beklemiyordu-1776843460431.jpg",
+      "published": "2026-04-22T07:38:41",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:27:04.932432",
+      "priority_score": 79,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-22T08:28:02.695417",
+      "title_tr": "Hakan Çalhanoğlu'ndan Galatasaray'ı yıkan haber! Bunu kimse beklemiyordu",
+      "summary_tr": "Son dakika Galatasaray transfer haberleri: Gelecek sezonun kadrosunu kurmak için çalışmalarına hız veren Galatasaray'ın uzun süredir transfer etmek istediği Hakan Çalhanoğlu'nu takıma kazandıracağı iddia...Devamı için tıklayınız"
+    },
+    {
+      "title": "Transfer rumors, news: Man United in for Juventus midfielder",
+      "summary": "Manchester United are interested in signing Juventus midfielder Teun Koopmeiners. Join us for the latest transfer news and rumors from around the globe.",
+      "url": "https://www.espn.com/soccer/story/_/id/48558213/transfer-rumors-news-man-united-juventus-midfielder",
+      "image_url": null,
+      "published": "2026-04-22T08:56:19",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:22.587864",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-22T08:28:01.843484",
+      "title_tr": "Transfer söylentileri, haberler: Man United, Juventus'un orta saha oyuncusuna aday",
+      "summary_tr": "Manchester United, Juventus'un orta saha oyuncusu Teun Koopmeiners'ı kadrosuna katmak istiyor. Dünyanın dört bir yanından en son transfer haberleri ve söylentileri için bize katılın."
+    },
+    {
+      "title": "Arsenal 16 yaşındaki Marli Salmon ile ön sözleşme imzaladı",
+      "summary": "Kulüpten yapılan açıklamada, \"Marli Salmon'ın kulüple ön sözleşme imzaladığını ve ağustos ayında 17 yaşına girdiğinde p...",
+      "url": "https://www.yenisafak.com/spor/arsenal-16-yasindaki-marli-salmon-ile-on-sozlesme-imzaladi-4817249",
+      "image_url": null,
+      "published": "2026-04-21T15:06:18",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:27:20.937231",
+      "priority_score": 72,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-22T08:28:03.070429",
+      "title_tr": "Arsenal 16 yaşındaki Marli Salmon ile ön sözleşme imzaladı",
+      "summary_tr": "Kulüpten yapılan açıklamada, \"Marli Salmon'ın kulüple ön sözleşme imzaladığını ve ağustos ayında 17 yaşına girdiğinde p..."
+    },
+    {
+      "title": "'I owe the city' - Jude Bellingham invests in Birmingham Phoenix",
+      "summary": "Real Madrid and England's Jude Bellingham feels he \"owes\" the city of Birmingham after he was announced as a new investor in The Hundred's Birmingham Phoenix ahead of the 2026 season.",
+      "url": "https://www.skysports.com/cricket/news/12040/13534108/jude-bellingham-invests-in-birmingham-phoenix-in-the-hundred-i-owe-the-city-says-real-madrid-and-england-star",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-jude-bellingham-birmingham-phoenix_7226391.jpg?20260421155817",
+      "published": "2026-04-22T07:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:40.801915",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-22T08:28:01.900023",
+      "title_tr": "'Şehre borcum var' - Jude Bellingham Birmingham Phoenix'e yatırım yapıyor",
+      "summary_tr": "Real Madrid ve İngiltere'den Jude Bellingham, 2026 sezonu öncesinde The Hundred'ın Birmingham Phoenix'inin yeni yatırımcısı olarak açıklanmasının ardından Birmingham şehrine \"borçlu\" olduğunu düşünüyor."
+    },
+    {
+      "title": "Maradona's daughter confronts doctor in new trial",
+      "summary": "One of Diego Maradona's daughters testified on Tuesday in the new trial of seven medical professionals accused of negligence in her father's death in 2020.",
+      "url": "https://www.espn.com/soccer/story/_/id/48553724/maradona-daughter-confronts-surgeon-death-negligence-new-trial",
+      "image_url": null,
+      "published": "2026-04-22T08:32:57",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:22.586959",
+      "priority_score": 70,
+      "categories": [
+        "transfers",
+        "injuries"
+      ],
+      "processed_at": "2026-04-22T08:28:01.838194",
+      "title_tr": "Maradona'nın kızı yeni duruşmada doktorla yüzleşti",
+      "summary_tr": "Diego Maradona'nın kızlarından biri Salı günü, babasının 2020'deki ölümünde ihmalkarlık yapmakla suçlanan yedi tıp uzmanının yeni duruşmasında ifade verdi."
     },
     {
       "title": "Inter'den Hakan'la muhteşem geri dönüş!",
@@ -114,131 +339,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-22T06:31:36.348237",
+      "fetched_at": "2026-04-22T08:26:14.175832",
       "priority_score": 68,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-04-22T06:33:21.069131",
+      "processed_at": "2026-04-22T08:28:02.167571",
       "title_tr": "Inter'den Hakan'la muhteşem geri dönüş!",
       "summary_tr": "Inter, İtalya Kupası yarı finalinde 0-0 berabere kaldığı maçın rövanşında ağırladığı Como'yu 3-2 yenerek adını finale yazdırdı. Milli futbolcu Hakan Çalhanoğlu, 69 ile 86. dakikalarda attığı goller ve 89. dakikada da Petar Susic'e yaptığı asistle birlikte 2-0 yenik duruma düşen Inter'in geri dönmesi"
-    },
-    {
-      "title": "'Indefensible' and 'unacceptable' - furious Rosenior questions Chelsea's desire",
-      "summary": "Chelsea boss Liam Rosenior strongly criticises his players after they suffer a fifth loss in a row without scoring for first time since 1912.",
-      "url": "https://www.bbc.com/sport/football/articles/cre1r39xr51o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-21T22:34:36",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:45.220062",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:20.822387",
-      "title_tr": "'Savunulamaz' ve 'kabul edilemez': Öfkeli Rosenior, Chelsea'nin arzusunu sorguluyor",
-      "summary_tr": "Chelsea patronu Liam Rosenior, 1912'den bu yana ilk kez üst üste beşinci kez gol atmadan mağlup olan oyuncularını sert bir şekilde eleştiriyor."
-    },
-    {
-      "title": "Freddie Woodman ready to swim after being ‘chucked into deep end’ at Liverpool",
-      "summary": "Third-choice keeper’s first top-flight Liverpool appearance came on weekend his dad took Bromley up – and now he may start against his boyhood clubIt was a weekend the Woodman family will never forget. On Saturday, Andy celebrated his second promotion in three seasons as manager of Bromley, taking t",
-      "url": "https://www.theguardian.com/football/2026/apr/21/freddie-woodman-ready-to-swim-after-being-chucked-into-deep-end-at-liverpool",
-      "image_url": null,
-      "published": "2026-04-21T11:41:08",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:30:18.577036",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-22T06:33:20.983322",
-      "title_tr": "Freddie Woodman, Liverpool'da 'derin bir sona sürüklendikten' sonra yüzmeye hazır",
-      "summary_tr": "Üçüncü kalecinin Liverpool'daki ilk üst düzey görünümü, babasının Bromley'i aldığı hafta sonu gerçekleşti ve şimdi çocukluk kulübüne karşı başlayabilir. Woodman ailesinin asla unutamayacağı bir hafta sonuydu. Cumartesi günü Andy, Bromley'in menajeri olarak üç sezondaki ikinci yükselişini kutladı."
-    },
-    {
-      "title": "'I owe the city' - Jude Bellingham invests in Birmingham Phoenix",
-      "summary": "Real Madrid and England's Jude Bellingham has announced himself as a new investor in The Hundred's Birmingham Phoenix ahead of the 2026 season.",
-      "url": "https://www.skysports.com/cricket/news/12040/13534108/jude-bellingham-invests-in-birmingham-phoenix-in-the-hundred-i-owe-the-city-says-real-madrid-and-england-star",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-jude-bellingham-birmingham-phoenix_7226391.jpg?20260421155817",
-      "published": "2026-04-22T07:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:56.588067",
-      "priority_score": 61,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-04-22T06:33:20.861900",
-      "title_tr": "'Şehre borcum var' - Jude Bellingham Birmingham Phoenix'e yatırım yapıyor",
-      "summary_tr": "Real Madrid ve İngiltere'den Jude Bellingham, 2026 sezonu öncesinde The Hundred'ın Birmingham Phoenix takımının yeni yatırımcısı olduğunu duyurdu."
-    },
-    {
-      "title": "50 days until World Cup - pick your favourite kits",
-      "summary": "BBC Sport has highlighted some of the most interesting kits which will be seen at this summer's World Cup. Pick your favourites.",
-      "url": "https://www.bbc.com/sport/football/articles/c145vyjypevo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-22T06:06:33",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:45.220513",
-      "priority_score": 55,
-      "categories": [
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-22T06:33:20.828766",
-      "title_tr": "Dünya Kupası'na 50 gün kaldı - favori formalarınızı seçin",
-      "summary_tr": "BBC Sport, bu yaz Dünya Kupası'nda görülecek en ilginç formalardan bazılarını öne çıkardı. Favorilerinizi seçin."
-    },
-    {
-      "title": "Roep om ontslag Rosenior bij Chelsea: 'Afschuwelijke vertoning'",
-      "summary": "Chelsea wordt afgemaakt in de Engelse media. Na de 3-0 nederlaag op bezoek bij Brighton & Hove Albion wordt zelfs afgevraagd of de aanstelling van Liam Rosenior geen grote fout was van de eigenaren. Sommige media gaan verder en roepen zelfs om het ontslag van Rosenior.",
-      "url": "https://www.vi.nl/nieuws/roep-om-ontslag-rosenior-bij-chelsea-afschuwelijke-vertoning",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/22/cfc1fae479f6223ca26813f76e481b63fa6d51c9.jpg?width=1200",
-      "published": "2026-04-22T06:31:01",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:33:17.958810",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:22.052826",
-      "title_tr": "Rosenior'un Chelsea'den kovulması çağrısı: 'Korkunç gösteri'",
-      "summary_tr": "Chelsea, İngiliz medyasında eleştirilir. Brighton & Hove Albion'a karşı alınan 3-0'lık yenilginin ardından insanlar Liam Rosenior'un atanmasının takım sahiplerinin büyük bir hatası olup olmadığını bile merak ediyor. Bazı medya kuruluşları daha da ileri giderek Rosenior'un istifasını bile talep ediyor."
-    },
-    {
-      "title": "114 jaar geleden maakte Chelsea ook zo'n dramatische reeks mee",
-      "summary": "Betaald voetbal in Nederland bestaat zo'n zeventig jaar, in Engeland lopen er al heel wat langer profs rond. Het zorgt ervoor dat Chelsea een bijzonder (pijnlijk) record kan neerzetten, met een evenaring van een dieptepunt dat teruggaat tot de tijd voor de Eerste Wereldoorlog.",
-      "url": "https://www.vi.nl/nieuws/114-jaar-geleden-maakte-chelsea-ook-zo-n-dramatische-reeks-mee",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/22/a042e3dda99169134943c1c94f95d13fc4d4dc6f.jpg?width=1200",
-      "published": "2026-04-22T06:18:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:33:17.958874",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:22.071683",
-      "title_tr": "Chelsea de 114 yıl önce böylesine dramatik bir seriyi yaşamıştı",
-      "summary_tr": "Hollanda'da profesyonel futbol yaklaşık yetmiş yıldır var, İngiltere'de ise çok daha uzun süredir profesyonel futbol var. Bu, Chelsea'nin Birinci Dünya Savaşı öncesindeki en düşük seviyeye eşit, özel (acı verici) bir rekor kırabilmesini sağlıyor."
     },
     {
       "title": "Nene'den çarpıcı itiraf: '2017-18'de beğenilmedim, büyük bir transfer olarak geri döndüm!'",
@@ -250,15 +359,54 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-22T06:31:50.484086",
+      "fetched_at": "2026-04-22T08:26:26.506967",
       "priority_score": 66,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-22T06:33:21.163102",
+      "processed_at": "2026-04-22T08:28:02.347346",
       "title_tr": "Nene'den çarpıcı itiraf: '2017-18'de beğenilmedim, büyük bir transfer olarak geri döndüm!'",
       "summary_tr": "Fenerbahçe'nin Malili yıldızı Dorgeles Nene, sarı-lacivertli kulübe transferiyle ilişkin dikkat çeken açıklamalarda bulundu."
+    },
+    {
+      "title": "'Indefensible' and 'unacceptable' - furious Rosenior questions Chelsea's desire",
+      "summary": "Chelsea boss Liam Rosenior strongly criticises his players after they suffer a fifth loss in a row without scoring for first time since 1912.",
+      "url": "https://www.bbc.com/sport/football/articles/cre1r39xr51o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-21T22:34:36",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:28.863370",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-22T08:28:01.850652",
+      "title_tr": "'Savunulamaz' ve 'kabul edilemez': Öfkeli Rosenior, Chelsea'nin arzusunu sorguluyor",
+      "summary_tr": "Chelsea patronu Liam Rosenior, 1912'den bu yana ilk kez üst üste beşinci kez gol atmadan mağlup olan oyuncularını sert bir şekilde eleştiriyor."
+    },
+    {
+      "title": "Lingard becomes first British scorer in Brazilian cup",
+      "summary": "Former England forward Jesse Lingard becomes the first British player to score in Brazil's domestic cup, according to his club Corinthians.",
+      "url": "https://www.bbc.com/sport/football/articles/c1mkv1gglmvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-22T08:12:46",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:28.865962",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-22T08:28:01.883874",
+      "title_tr": "Lingard, Brezilya kupasında gol atan ilk İngiliz oyuncu oldu",
+      "summary_tr": "Kulübü Corinthians'a göre eski İngiliz forvet Jesse Lingard, Brezilya milli kupasında gol atan ilk İngiliz oyuncu oldu."
     },
     {
       "title": "Real Madrid'den Galatasaraylıları kızdıracak hamle! Victor Osimhen...",
@@ -270,7 +418,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-22T06:32:27.699399",
+      "fetched_at": "2026-04-22T08:27:04.934194",
       "priority_score": 64,
       "categories": [
         "transfers",
@@ -278,9 +426,49 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-04-22T06:33:21.710928",
+      "processed_at": "2026-04-22T08:28:02.863310",
       "title_tr": "Real Madrid'den Galatasaraylıları kızdıracak hamle! Victor Osimhen...",
       "summary_tr": "Son dakika Galatasaray transfer haberleri: Galatasaray'ın Nijeryalı süper yıldızı Victor Osimhen ile ilgili gündemi sarsacak bir iddia ortaya atıldı. İspanyol basını, Real Madrid'in yıldız futbolcuyu transfer...Devamı için tıklayınız"
+    },
+    {
+      "title": "The brilliant Robert Lewandowski is facing a career without a fitting curtain call",
+      "summary": "There will be no bow on football’s greatest stage for one of history’s great goalscorers. We’re about to find out how his career winds downWhile soccer’s calendar offers few moments of respite, the World Cup doubles as a time for referendums on the legacies of great players. Lionel Messi, Luka Modri",
+      "url": "https://www.theguardian.com/football/2026/apr/22/robert-lewandowski-poland-barcelona",
+      "image_url": null,
+      "published": "2026-04-22T08:00:13",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:25:00.574659",
+      "priority_score": 63,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-22T08:28:02.012047",
+      "title_tr": "Harika Robert Lewandowski, uygun bir perde çağrısı olmadan bir kariyerle karşı karşıya",
+      "summary_tr": "Tarihin en büyük golcülerinden biri için futbolun en büyük sahnesinde selamlama olmayacak. Kariyerinin nasıl sona erdiğini öğrenmek üzereyiz.Futbolun takviminde birkaç dakika mola verilirken, Dünya Kupası büyük oyuncuların mirasına ilişkin referandumların yapıldığı bir dönem olarak ikiye katlanıyor. Lionel Messi, Luka Modri"
+    },
+    {
+      "title": "Wembanyama injured in San Antonio's playoff loss to Portland",
+      "summary": "Scoot Henderson scored 31 points and the Portland Trail Blazers took advantage of an injury to Spurs star Victor Wembanyama, rallying for a 106-103 victory over San Antonio to even their Western Conference playoff series at one game apiece.",
+      "url": "https://www.skysports.com/nba/news/12040/13534831/victor-wembanyama-san-antonio-spurs-star-injured-with-potential-concussion-nba-playoff-defeat-to-portland-trail-blazers",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-nba-basketball-victor-wembanyama_7226863.jpg?20260422064301",
+      "published": "2026-04-22T06:50:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:24:40.802131",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "injuries"
+      ],
+      "processed_at": "2026-04-22T08:28:01.912303",
+      "title_tr": "Wembanyama, San Antonio'nun Portland'a karşı play-off mağlubiyetinde sakatlandı",
+      "summary_tr": "Scoot Henderson 31 sayı attı ve Portland Trail Blazers, Spurs yıldızı Victor Wembanyama'nın sakatlığından yararlanarak San Antonio'yu 106-103 mağlup ederek Batı Konferansı play-off serisini birer maçla eşitledi."
     },
     {
       "title": "Papers: Mainoo set to sign new five-year Man Utd deal",
@@ -292,34 +480,74 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:56.588418",
+      "fetched_at": "2026-04-22T08:24:40.802386",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-22T06:33:20.883966",
-      "title_tr": "Makaleler: Mainoo beş yıllık yeni Man Utd anlaşmasını imzalamaya hazırlanıyor",
+      "processed_at": "2026-04-22T08:28:01.927236",
+      "title_tr": "Makaleler: Mainoo beş yıllık yeni Man Utd anlaşmasını imzalayacak",
       "summary_tr": "Çarşamba günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
-      "title": "Maradona's daughter confronts doctor in new trial",
-      "summary": "One of Diego Maradona's daughters testified on Tuesday in the new trial of seven medical professionals accused of negligence in her father's death in 2020.",
-      "url": "https://www.espn.com/soccer/story/_/id/48553724/maradona-daughter-confronts-surgeon-death-negligence-new-trial",
+      "title": "Trabzonspor gözünü Süper Lig'in genç yıldızına dikti!",
+      "summary": "Gelecek sezonun transfer çalışmalarına başlayan Trabzonspor, yerli takviyesi için Alanyaspor forması giyen genç futbolcuyu kadroya katmak için girişimlere başladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-gozunu-super-ligin-genc-yildizina-dikti-43156432",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e86f8c131f7a665140977d.jpg",
+      "published": "2026-04-22T06:55:03",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:26:26.506414",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-22T08:28:02.255946",
+      "title_tr": "Trabzonspor gözünü Süper Lig'in genç yıldızına dikti!",
+      "summary_tr": "Gelecek sezonun transfer çalışmalarına başlayan Trabzonspor, yerli takviyesi için Alanyaspor forması giyen genç futbolcuyu kadroya katmak için girişimlere başladı."
+    },
+    {
+      "title": "Galatasaray, Bernardo Silva için gözünü kararttı! Yapılan servet değerindeki teklif ortaya çıktı",
+      "summary": "Süper Lig'de şampiyonluğa koşan ve yeni sezon kadrosunu oluşturmak için çalışmalara başlayan Galatasaray, Manchester City'le sözleşmesi sona erecek olan Bernardo Silva'ya sunduğu teklif belli oldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-bernardo-silva-icin-gozunu-karartti-yapilan-servet-degerindeki-teklif-ortaya-cikti-43156431",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e86cda2819415d8e023b95.jpg",
+      "published": "2026-04-22T06:38:23",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-22T08:26:26.506660",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-22T08:28:02.298191",
+      "title_tr": "Galatasaray, Bernardo Silva için gözünü kararttı! Yapılan servet değerindeki teklif ortaya çıktı",
+      "summary_tr": "Süper Lig'de şampiyonluğa koşan ve yeni sezon kadrosunu oluşturmak için çalışmalara başlayan Galatasaray, Manchester City'le sözleşmesi sona erecek olan Bernardo Silva'ya sunduğu teklif belli oldu."
+    },
+    {
+      "title": "Crew owners get 18th NWSL team for record fee",
+      "summary": "The NWSL awarded an expansion franchise to Columbus, Ohio, and an ownership consortium led by the Haslam Sports Group. The new Columbus-based team will begin play in 2028.",
+      "url": "https://www.espn.com/soccer/story/_/id/48552463/columbus-crew-owners-18th-nwsl-franchise-record-fee",
       "image_url": null,
-      "published": "2026-04-22T01:46:19",
+      "published": "2026-04-22T08:32:57",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:37.852906",
+      "fetched_at": "2026-04-22T08:24:22.587320",
       "priority_score": 60,
       "categories": [
-        "transfers",
-        "injuries"
+        "transfers"
       ],
-      "processed_at": "2026-04-22T06:33:20.809858",
-      "title_tr": "Maradona'nın kızı yeni duruşmada doktorla yüzleşti",
-      "summary_tr": "Diego Maradona'nın kızlarından biri Salı günü, babasının 2020'deki ölümünde ihmalkarlık yapmakla suçlanan yedi tıp uzmanının yeni duruşmasında ifade verdi."
+      "processed_at": "2026-04-22T08:28:01.839715",
+      "title_tr": "Mürettebat sahipleri rekor ücret karşılığında 18. NWSL takımına sahip oluyor",
+      "summary_tr": "NWSL, Columbus, Ohio'ya bir genişleme franchise'ı ve Haslam Sports Group liderliğindeki bir sahiplik konsorsiyumuyla ödüllendirildi. Columbus merkezli yeni takım 2028'de oynamaya başlayacak."
     },
     {
       "title": "Kolo Muani on Liverpool's radar - Wednesday's gossip",
@@ -331,276 +559,55 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:45.220784",
+      "fetched_at": "2026-04-22T08:24:28.865791",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-04-22T06:33:20.832906",
+      "processed_at": "2026-04-22T08:28:01.880867",
       "title_tr": "Kolo Muani Liverpool'un radarında - Çarşamba günkü dedikodu",
       "summary_tr": "Liverpool, Randal Kolo Muani'yi transfer edebilir, Kobbie Mainoo yeni Manchester United anlaşmasını kabul eder ve Bernardo Silva, Arsenal ve Barselona'nın radarındadır."
     },
     {
-      "title": "TRANSFER HABERİ | Trabzonspor’dan Ruslan Malinovskyi hamlesi",
-      "summary": "Trabzonspor, tecrübeli orta saha oyuncusu Ruslan Malinovskyi'yi kadrosuna katmaya hazırlanıyor.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-haberi-trabzonspordan-ruslan-malinovskyi-hamlesi-2419209",
-      "image_url": null,
-      "published": "2026-04-21T17:59:24",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:15.789847",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-22T06:33:21.472013",
-      "title_tr": "TRANSFER HABERİ | Trabzonspor’dan Ruslan Malinovskyi hamlesi",
-      "summary_tr": "Trabzonspor, tecrübeli orta saha oyuncusu Ruslan Malinovskyi'yi kadrosuna katmaya hazırlanıyor."
-    },
-    {
-      "title": "Brighton beat Chelsea to heap more pressure on Rosenior",
-      "summary": "Brighton heap more pressure on Chelsea manager Liam Rosenior as they ease to a comfortable 3-0 win thanks to goals from Ferdi Kadioglu, Jack Hinshelwood and Danny Welbeck.",
-      "url": "https://www.bbc.com/sport/football/videos/cz90zkz4pe7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-21T21:30:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:45.220370",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:20.826805",
-      "title_tr": "Brighton, Rosenior üzerinde daha fazla baskı oluşturmak için Chelsea'yi yendi",
-      "summary_tr": "Brighton, Ferdi Kadıoğlu, Jack Hinshelwood ve Danny Welbeck'in golleri sayesinde rahat bir 3-0 galibiyete ulaşan Chelsea menajeri Liam Rosenior üzerinde daha fazla baskı oluşturuyor."
-    },
-    {
-      "title": "Transferde dev kapışma! Beşiktaş, Fenerbahçe ve Galatasaray aynı yıldızı istiyor",
-      "summary": "Son dakika transfer haberleri: Trendyol Süper Lig'de 2025/26 sezonunun bitmesine kısa bir süre yaz transfer dönemi için çalışmalarına başlayan Beşiktaş, Fenerbahçe ve Galatasaray ile ilgili flaş bir transfer...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/04/21/transferde-dev-kapisma-besiktas-fenerbahce-ve-galatasaray-ayni-yildizi-istiyor",
-      "image_url": "https://iaftm.tmgrup.com.tr/6ec890/1200/675/0/83/659/453?u=https://iftm.tmgrup.com.tr/2026/04/21/transferde-dev-kapisma-besiktas-fenerbahce-ve-galatasaray-ayni-yildizi-istiyor-1776771669124.jpg",
-      "published": "2026-04-22T03:50:23",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:27.699626",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-22T06:33:21.739497",
-      "title_tr": "Transferde dev kapışma! Beşiktaş, Fenerbahçe ve Galatasaray aynı yıldızı istiyor",
-      "summary_tr": "Son dakika transfer haberleri: Trendyol Süper Lig'de 2025/26 sezonunun bitmesine kısa bir süre yaz transfer dönemi için çalışmalarına başlayan Beşiktaş, Fenerbahçe ve Galatasaray ile ilgili flaş bir transfer...Devamı için tıklayınız"
-    },
-    {
-      "title": "Arda asist yaptı, R. Madrid kazandı",
-      "summary": "İspanya La Liga'nın 32. haftasında Real Madrid sahasında Alaves'i konuk etti. Milli oyuncumuz Arda Güler'in asist yaptığı mücadeleyi eflatun-beyazlılar 2-1 kazandı ve 2 maç sonra galip geldi.",
-      "url": "https://www.haberturk.com/real-madrid-2-alaves-1-mac-sonucu-arda-guler-asist-yapti-r-madrid-kazandi-3879203-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/22/ver1776809226/3879203/jpg/1280x1280",
-      "published": "2026-04-21T22:07:40",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:31:36.348035",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-04-22T06:33:21.054786",
-      "title_tr": "Arda asist yaptı, R. Madrid kazandı",
-      "summary_tr": "İspanya La Liga'nın 32. haftasında Real Madrid sahasında Alaves'i konuk etti. Milli oyuncumuz Arda Güler'in asist yaptığı mücadeleyi eflatun-beyazlılar 2-1 kazandı ve 2 maç sonra galip geldi."
-    },
-    {
-      "title": "Ferdi attı, Brighton Chelsea'yi farklı geçti!",
-      "summary": "İngiltere Premier Lig'in 34. haftasında Ferdi Kadıoğlu'nun formasını giydiği Brighton & Hove Albion, sahasında Chelsea'yi 3-0 yendi. Milli futbolcu Ferdi Kadıoğlu, 3. dakikada attığı golle birlikte Brighton'un galibiyetinde önemli rol oynadı. Bu sonuçla birlikte Brighton puanını 50'ye çıkarırken, li",
-      "url": "https://www.haberturk.com/brighton-hove-albion-3-chelsea-0-mac-sonucu-3879196-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/22/ver1776806772/3879196/jpg/1280x1280",
-      "published": "2026-04-21T21:26:21",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:31:36.348371",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:21.081068",
-      "title_tr": "Ferdi attı, Brighton Chelsea'yi farklı geçti!",
-      "summary_tr": "İngiltere Premier Lig'in 34. haftasında Ferdi Kadıoğlu'nun formasını giydiği Brighton & Hove Albion, sahasında Chelsea'yi 3-0 yendi. Milli futbolcu Ferdi Kadıoğlu, 3. dakikada attığı golle birlikte Brighton'un galibiyetinde önemli rol oynadı. Bu sonuçla birlikte Brighton puanını 50'ye çıkarırken, li"
-    },
-    {
-      "title": "'Trafford kan Verbruggen vervangen, Liverpool aast op Kolo Muani'",
+      "title": "'Vallecano-succestrainer Pérez bereikt akkoord met nieuwe club'",
       "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
       "url": "https://www.vi.nl/nieuws/gala-niet-verder-met-lang-koopmeiners-overbodig-bij-juve",
       "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-04-21T21:58:15",
+      "published": "2026-04-22T07:06:23",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-22T06:33:17.959181",
-      "priority_score": 52,
+      "fetched_at": "2026-04-22T08:27:57.223306",
+      "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-22T06:33:22.160852",
-      "title_tr": "'Trafford Verbruggen'in yerini alabilir, Liverpool ise Kolo Muani'nin peşinde'",
+      "processed_at": "2026-04-22T08:28:03.309441",
+      "title_tr": "'Vallecano'nun başarılı koçu Pérez yeni kulüple anlaşmaya vardı'",
       "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
-      "title": "Wolff urges FIA to prevent engine upgrades altering F1 pecking order",
-      "summary": "Mercedes chief Toto Wolff has urged the FIA to ensure rules allowing power unit manufacturers to develop their engines during the 2026 season don’t interfere with Formula 1’s pecking order.",
-      "url": "https://www.skysports.com/f1/news/12040/13534648/mercedes-chief-toto-wolff-urges-fia-to-prevent-possible-aduo-engine-upgrades-altering-2026-f1-pecking-order",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-toto-wolff-mercedes_7226506.jpg?20260421180658",
-      "published": "2026-04-22T06:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:56.588364",
-      "priority_score": 51,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-04-22T06:33:20.879581",
-      "title_tr": "Wolff, FIA'ya, F1 hiyerarşi düzenini değiştiren motor yükseltmelerini önleme çağrısında bulundu",
-      "summary_tr": "Mercedes şefi Toto Wolff, FIA'yı, güç ünitesi üreticilerinin 2026 sezonu boyunca motorlarını geliştirmelerine izin veren kuralların Formula 1'in hiyerarşi düzenine müdahale etmemesini sağlamaya çağırdı."
-    },
-    {
-      "title": "Crew owners get 18th NWSL team for record fee",
-      "summary": "The NWSL awarded an expansion franchise to Columbus, Ohio, and an ownership consortium led by the Haslam Sports Group. The new Columbus-based team will begin play in 2028.",
-      "url": "https://www.espn.com/soccer/story/_/id/48552463/columbus-crew-owners-18th-nwsl-franchise-record-fee",
+      "title": "Can Marie-Louise Eta's new approach transform Union Berlin's fortunes?",
+      "summary": "Marie-Louise Eta got off to a losing start as Union Berlin head coach against Wolfsburg. However, with 27 shots on target and a much better xG, were the early signs encouraging for the club's new boss?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/marie-louise-eta-union-berlin-impact-wolfsburg-tactics-36988",
       "image_url": null,
-      "published": "2026-04-22T01:46:19",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-22T07:40:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-22T06:29:37.852615",
-      "priority_score": 50,
+      "fetched_at": "2026-04-22T08:25:25.085147",
+      "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-22T06:33:20.808159",
-      "title_tr": "Mürettebat sahipleri rekor ücret karşılığında 18. NWSL takımına kavuştu",
-      "summary_tr": "NWSL, Columbus, Ohio'ya bir genişleme franchise'ı ve Haslam Sports Group liderliğindeki bir sahiplik konsorsiyumuyla ödüllendirildi. Columbus merkezli yeni takım 2028'de oynamaya başlayacak."
-    },
-    {
-      "title": "How Josh Sargent has inadvertently boosted one of the USMNT's World Cup rivals",
-      "summary": "In one of those amazing butterfly-effect moments, Josh Sargent's acrimonious exit from Norwich in January may have dealt a big blow to the USMNT's World Cup ambitions.",
-      "url": "https://www.espn.com/soccer/story/_/id/48555579/josh-sargent-norwich-city-exit-helped-usmnt-world-cup-rivals",
-      "image_url": null,
-      "published": "2026-04-22T04:24:15",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:29:37.853161",
-      "priority_score": 50,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-22T06:33:20.812366",
-      "title_tr": "Josh Sargent, USMNT'nin Dünya Kupası rakiplerinden birini yanlışlıkla nasıl güçlendirdi?",
-      "summary_tr": "Bu muhteşem kelebek etkisi anlarından birinde, Josh Sargent'ın Ocak ayında Norwich'ten sert bir şekilde ayrılması, USMNT'nin Dünya Kupası hedeflerine büyük bir darbe indirmiş olabilir."
-    },
-    {
-      "title": "Fenerbahçe golcü transferinde son aşamada! O yıldız ile ön protokol imzalandı",
-      "summary": "Trendyol Süper Lig'de şampiyonluk yarışında son 4 haftaya zirvenini 4 puan gerisinde Fenerbahçe'de, yeni sezon için transfer çalışmaları devam ediyor. Kadrosuna bir golcü eklemesi yapmak isteyen sarı-lacivertlilerin...Devamı için tıklayınız",
-      "url": "https://www.aspor.com.tr/fenerbahce/2026/04/21/fenerbahce-golcu-transferinde-son-asamada-o-yildiz-ile-on-protokol-imzalandi",
-      "image_url": "https://iaftm.tmgrup.com.tr/d5b876/1200/675/0/57/800/508?u=https://iftm.tmgrup.com.tr/2026/04/21/fenerbahce-golcu-transferinde-son-asamada-o-yildiz-ile-on-protokol-imzalandi-1776753806810.jpeg",
-      "published": "2026-04-22T03:50:23",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:27.698668",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-22T06:33:21.621555",
-      "title_tr": "Fenerbahçe golcü transferinde son aşamada! O yıldız ile ön protokol imzalandı",
-      "summary_tr": "Trendyol Süper Lig'de şampiyonluk yarışında son 4 haftaya zirvenini 4 puan gerisinde Fenerbahçe'de, yeni sezon için transfer çalışmaları devam ediyor. Kadrosuna bir golcü eklemesi yapmak isteyen sarı-lacivertlilerin...Devamı için tıklayınız"
-    },
-    {
-      "title": "Beşiktaş'tan transferde Noa Lang bombası!",
-      "summary": "Süper Lig devlerinden Beşiktaş, Galatasaray’ın bonservisini almayı düşünmediği Noa Lang için harekete geçti. Yönetim, Napoli’yle masaya oturacak. İşte haberin tüm detayları...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/besiktas/2026/04/22/lang-seferi",
-      "image_url": "https://iaftm.tmgrup.com.tr/a8eae7/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/04/21/lang-seferi-1776800182555.jpeg",
-      "published": "2026-04-22T03:50:23",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:27.699514",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-22T06:33:21.721756",
-      "title_tr": "Beşiktaş'tan transferde Noa Lang bombası!",
-      "summary_tr": "Süper Lig devlerinden Beşiktaş, Galatasaray’ın bonservisini almayı düşünmediği Noa Lang için harekete geçti. Yönetim, Napoli’yle masaya oturacak. İşte haberin tüm detayları...Devamı için tıklayınız"
-    },
-    {
-      "title": "Ferdi Kadıoğlu gelişine affetmedi: İlk golünü Chelsea'ye attı (VİDEO)",
-      "summary": "İngiltere Premier Lig 34. haftasında Brighton sahasında Chelsea ile karşı karşıya geldi. Brighton'da forma giyen milli ...",
-      "url": "https://www.yenisafak.com/spor/ferdi-kadioglu-gelisine-affetmedi-ilk-golunu-chelseaye-atti-video-4817348",
-      "image_url": null,
-      "published": "2026-04-21T22:46:56",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:43.410424",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-22T06:33:21.851870",
-      "title_tr": "Ferdi Kadıoğlu gelişine affetmedi: İlk golünü Chelsea'ye attı (VİDEO)",
-      "summary_tr": "İngiltere Premier Lig 34. haftasında Brighton sahasında Chelsea ile karşı karşıya geldi. Brighton'da forma giyen milli ..."
-    },
-    {
-      "title": "Galatasaray'ın iptal edilen golünün VAR kayıtı açıklandı",
-      "summary": "Galatasaray’ın Gençlerbirliği karşısında bulduğu ancak geçerlilik kazanmayan golün yankıları sürüyor. Sarı-kırmızılılar...",
-      "url": "https://www.yenisafak.com/spor/galatasarayin-iptal-edilen-golunun-var-kayiti-aciklandi-4817319",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/4/21/34648208-1q6k5z5qkuzue1bx5ptfmo.webp",
-      "published": "2026-04-21T20:23:19",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-22T06:32:43.412932",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-22T06:33:21.882119",
-      "title_tr": "Galatasaray'ın iptal edilen golünün VAR kayıtı açıklandı",
-      "summary_tr": "Galatasaray’ın Gençlerbirliği karşısında bulduğu ancak geçerlilik kazanmayan golün yankıları sürüyor. Sarı-kırmızılılar..."
+      "processed_at": "2026-04-22T08:28:02.069022",
+      "title_tr": "Marie-Louise Eta'nın yeni yaklaşımı Union Berlin'in kaderini değiştirebilir mi?",
+      "summary_tr": "Marie-Louise Eta, Union Berlin başantrenörü olarak Wolfsburg'a karşı yenilgiyle başladı. Ancak hedefe isabet eden 27 şut ve çok daha iyi bir xG ile kulübün yeni patronu için ilk işaretler cesaret verici miydi?"
     }
   ]
 }
