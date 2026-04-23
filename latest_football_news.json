@@ -1,7 +1,50 @@
 {
-  "timestamp": "2026-04-23T07:00:27.380207",
+  "timestamp": "2026-04-23T08:34:19.836434",
   "total_items": 30,
   "news": [
+    {
+      "title": "Bayern, Germany star Gnabry to miss World Cup",
+      "summary": "Bayern Munich and Germany winger Serge Gnabry has confirmed that he will miss this summer's World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/48561527/bayern-munich-germany-serge-gnabry-injury-world-cup",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.991817",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-23T08:32:52.829323",
+      "title_tr": "Bayern, Almanya'nın yıldızı Gnabry Dünya Kupası'nı kaçıracak",
+      "summary_tr": "Bayern Münih ve Almanya'nın kanat oyuncusu Serge Gnabry, bu yaz yapılacak Dünya Kupası'nı kaçıracağını doğruladı."
+    },
+    {
+      "title": "Burnley relegated from Prem after single season",
+      "summary": "Burnley will be back in the Championship next season after their relegation from the Premier League was confirmed with a TK loss to Manchester City on Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48562938/burnley-relegated-premier-league-2025-2026",
+      "image_url": null,
+      "published": "2026-04-23T08:16:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.992019",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.830091",
+      "title_tr": "Burnley tek sezonun ardından Prem'den küme düştü",
+      "summary_tr": "Burnley, çarşamba günü TK'nin Manchester City'ye yenilmesiyle Premier Lig'den düşmelerinin kesinleşmesinin ardından gelecek sezon Şampiyonaya geri dönecek."
+    },
     {
       "title": "Bayern Munich's Serge Gnabry confirms he'll miss 2026 FIFA World Cup",
       "summary": "Bayern Munich and Germany winger Serge Gnabry has confirmed that he'll miss the 2026 FIFA World Cup in Canada, Mexico and the USA due to injury.",
@@ -12,7 +55,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.773128",
+      "fetched_at": "2026-04-23T08:30:01.289635",
       "priority_score": 91,
       "categories": [
         "transfers",
@@ -21,7 +64,7 @@
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-04-23T06:58:56.825401",
+      "processed_at": "2026-04-23T08:32:53.080317",
       "title_tr": "Bayern Münihli Serge Gnabry, 2026 FIFA Dünya Kupası'nı kaçıracağını doğruladı",
       "summary_tr": "Bayern Münih ve Almanya'nın kanat oyuncusu Serge Gnabry, sakatlığı nedeniyle Kanada, Meksika ve ABD'de düzenlenecek 2026 FIFA Dünya Kupası'nı kaçıracağını doğruladı."
     },
@@ -35,7 +78,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-23T06:55:59.175784",
+      "fetched_at": "2026-04-23T08:29:32.137635",
       "priority_score": 88,
       "categories": [
         "match_results",
@@ -43,50 +86,9 @@
         "injuries",
         "la_liga"
       ],
-      "processed_at": "2026-04-23T06:58:56.777865",
+      "processed_at": "2026-04-23T08:32:53.000574",
       "title_tr": "Avrupa futbolu: Lamine Yamal'ın sakatlığı Barcelona'nın dokuz puan farkla ilerlemesini gölgede bıraktı",
-      "summary_tr": "Forvet, Celta Vigo'ya karşı attığı golün ardından geriledi PSG, Ligue 1'de NantesBarcelona'ya karşı kazandığı zaferle şampiyonluk arayışında kaldı, Çarşamba günü Celta Vigo'yu 1-0 yenerek La Liga şampiyonluğunu korumaya yaklaştı ancak ilk yarıda gol atan Lamine Yamal'ın sakatlığı galibiyete gölge düşürdü."
-    },
-    {
-      "title": "Man City move top with win as Burnley relegation confirmed",
-      "summary": "Manchester City continue their charge towards the Premier League title with victory at Turf Moor to move Pep Guardiola's side top of the table and relegate Burnley back to the Championship.",
-      "url": "https://www.bbc.com/sport/football/videos/c33lk6dx4pyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-22T21:30:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:55:24.151427",
-      "priority_score": 85,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-23T06:58:56.692830",
-      "title_tr": "Man City, Burnley'nin küme düşmesinin kesinleşmesiyle galibiyetle zirveye yerleşti",
-      "summary_tr": "Manchester City, Turf Moor'da kazandığı zaferle Premier Lig şampiyonluğuna doğru ilerlemeye devam ederek Pep Guardiola'yı yan üst sıralara taşıdı ve Burnley'i tekrar Şampiyonluğa düşürdü."
-    },
-    {
-      "title": "Huni welcomes future Itauma fight: '100 per cent we're going to meet'",
-      "summary": "Moses Itauma has the date and venue for his next fight – July 25 at the O2 Arena in London – but is waiting for his opponent to be confirmed.",
-      "url": "https://www.skysports.com/boxing/news/12040/13535131/justis-huni-expects-to-have-future-moses-itauma-fight-somewhere-along-the-line-100-per-cent-were-going-to-meet",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-justis-huni-frazer-clarke_7217384.jpg?20260411182850",
-      "published": "2026-04-23T06:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:55:34.730618",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-23T06:58:56.719136",
-      "title_tr": "Huni gelecekteki Itauma mücadelesini memnuniyetle karşıladı: 'Yüzde 100 buluşacağız'",
-      "summary_tr": "Moses Itauma'nın bir sonraki dövüşünün tarihi ve yeri belli: 25 Temmuz, Londra'daki O2 Arena'da - ancak rakibinin onaylanmasını bekliyor."
+      "summary_tr": "Forvet, Celta Vigo'ya karşı attığı golün ardından gerilediPSG, Ligue 1'de NantesBarcelona'ya karşı kazandığı galibiyetle şampiyonluk arayışında kaldı ve Çarşamba günü Celta Vigo'yu 1-0 yenerek La Liga şampiyonluğunu korumaya yaklaştı ancak ilk yarıda gol atan Lamine Yamal'ın sakatlığı galibiyete gölge düşürdü."
     },
     {
       "title": "M.City kazandı, Burnley düştü!",
@@ -98,13 +100,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.803267",
+      "fetched_at": "2026-04-23T08:30:51.676831",
       "priority_score": 78,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-04-23T06:58:56.916279",
+      "processed_at": "2026-04-23T08:32:53.138180",
       "title_tr": "M.City kazandı, Burnley düştü!",
       "summary_tr": "İngiltere Premier Lig'de şampiyonluk mücadelesi veren Manchester City, sondan ikinci sırada yer alan Burnley'yi deplasmanda 1-0 mağlup etti. Haaland'ın golüyle kazanan City, puanını 70'e çıkarıp atılan gol fazlasıyla Arsenal'in önünde liderlik koltuğuna oturdu. 20 pıuanı bulunan 19. sıradaki Burnley"
     },
@@ -118,194 +120,176 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:50.026387",
+      "fetched_at": "2026-04-23T08:31:31.885671",
       "priority_score": 76,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-23T06:58:57.281791",
+      "processed_at": "2026-04-23T08:32:53.635632",
       "title_tr": "GALATASARAY GENÇLERBİRLİĞİ MAÇI CANLI İZLE ATV | Türkiye Kupası Galatasaray Gençlerbirliği Maçı Canlı Yayın Bilgileri!",
       "summary_tr": "Galatasaray Gençlerbirliği maçı için geri sayım başladı. Ziraat Türkiye Kupası'nda çeyrek finalde bu akşam Galatasaray Gençlerbirliği maçı oynanacak. Dün akşam Fenerbahçe'nin Konyaspor'a son dakikalarda penaltı golüyle yenilerek turnuvadan elenmesinin ardından gözler bu akşamki maça çevrildi. Osimhe"
     },
     {
-      "title": "Haaland steers Manchester City to top of table and condemns Burnley to drop",
-      "summary": "Manchester City lead the Premier League for the first time since the opening week so the title is now a riveting five-game shootout with Arsenal.The Gunners were top for 200 consecutive days until Erling Haaland’s first-half goal ended the run and proved the difference against Burnley, who have gone",
-      "url": "https://www.theguardian.com/football/2026/apr/22/burnley-manchester-city-premier-league-match-report",
+      "title": "Miami tops RSL behind De Paul, Suárez screamers",
+      "summary": "Rodrigo De Paul and Luis Suárez scored two spectacular goals one minute apart late in the second half to help Inter Miami beat Real Salt Lake 2-0.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/761567",
       "image_url": null,
-      "published": "2026-04-22T21:03:47",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-23T06:55:59.174066",
-      "priority_score": 73,
+      "fetched_at": "2026-04-23T08:28:47.991473",
+      "priority_score": 85,
       "categories": [
-        "breaking_news",
-        "premier_league"
+        "match_results",
+        "serie_a"
       ],
-      "processed_at": "2026-04-23T06:58:56.756070",
-      "title_tr": "Haaland, Manchester City'yi zirveye taşıdı ve Burnley'i düşmeye mahkum etti",
-      "summary_tr": "Manchester City, açılış haftasından bu yana ilk kez Premier Lig'e liderlik ediyor, bu nedenle şampiyonluk artık Arsenal ile beş maçlık sürükleyici bir penaltı atışına dönüştü. Arsenal, Erling Haaland'ın ilk yarıdaki golü seriyi sonlandırana ve Burnley'e karşı farkı kanıtlayana kadar üst üste 200 gün boyunca zirvedeydi."
+      "processed_at": "2026-04-23T08:32:52.828157",
+      "title_tr": "Miami, De Paul ve Suárez çığlıklarının ardından RSL'yi geride bıraktı",
+      "summary_tr": "Rodrigo De Paul ve Luis Suárez, ikinci yarının sonlarında bir dakika arayla attıkları muhteşem gollerle Inter Miami'nin Real Salt Lake'i 2-0 yenmesine yardımcı oldu."
     },
     {
-      "title": "Marie-Louise Eta on breaking down barriers and keeping Union Berlin in the Bundesliga",
-      "summary": "Union Berlin's Marie-Louise Eta says she is aware she is perceived as a trailblazer after becoming the first female head coach in any of Europe’s top five leagues, but emphasises that the important thing is what happens on the pitch.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/marie-louise-eta-interview-union-berlin-women-in-football-37000",
+      "title": "Man City move top with win as Burnley relegation confirmed",
+      "summary": "Manchester City continue their charge towards the Premier League title with victory at Turf Moor to move Pep Guardiola's side top of the table and relegate Burnley back to the Championship.",
+      "url": "https://www.bbc.com/sport/football/videos/c33lk6dx4pyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-22T08:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-04-22T21:30:08",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.777293",
-      "priority_score": 71,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-23T06:58:56.851127",
-      "title_tr": "Marie-Louise Eta engelleri yıkmak ve Union Berlin'i Bundesliga'da tutmak hakkında konuştu",
-      "summary_tr": "Union Berlin'den Marie-Louise Eta, Avrupa'nın en iyi beş liginden herhangi birinde ilk kadın teknik direktör olduktan sonra öncü olarak algılandığının farkında olduğunu söylüyor ancak önemli olanın sahada olup bitenler olduğunun altını çiziyor."
-    },
-    {
-      "title": "Galatasaray-Gençlerbirliği maçı sonrası Osimhen çılgına döndü! Hakemin üzerine yürüdü",
-      "summary": "Galatasaray, Ziraat Türkiye Kupası çeyrek final maçında Gençlerbirliği'ne 2-0 mağlup oldu ve turnuvadan elendi. Maç sonrası Osimhen, hakem Oğuzhan Aksu'nun üzerine yürüdü ve adeta çılgına döndü.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-genclerbirligi-maci-sonrasi-osimhen-cilgina-dondu-hakemin-uzerine-yurudu-43157308",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e9bb7bf93a205161833503.jpg",
-      "published": "2026-04-23T06:28:39",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:57:23.589274",
-      "priority_score": 61,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-23T06:58:56.986940",
-      "title_tr": "Galatasaray-Gençlerbirliği maçı sonrası Osimhen çılgına döndü! Hakemin üzerine yürüdü",
-      "summary_tr": "Galatasaray, Ziraat Türkiye Kupası çeyrek final maçında Gençlerbirliği'ne 2-0 mağlup oldu ve turnuvadan elendi. Maç sonrası Osimhen, hakem Oğuzhan Aksu'nun üzerine yürüdü ve adeta çılgına döndü."
-    },
-    {
-      "title": "Op recordavond Silva is er één duidelijk toverwoord voor Guardiola en Haaland",
-      "summary": "Door de overwinning bij Burnley, is Manchester City weer koploper van de Premier League. Na afloop was 'winnen' het toverwoord voor Pep Guardiola en Erling Haaland, op een recordavond voor Bernardo Silva. De captain van Manchester City is nu de speler met de meeste Premier League-overwinningen ooit ",
-      "url": "https://www.vi.nl/nieuws/op-recordavond-silva-is-er-n-duidelijk-toverwoord-voor-guardiola-en-haaland",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/23/a0b877b183f5368559fa9f087ed8efde242a6cbb.jpg?width=1200",
-      "published": "2026-04-23T06:38:35",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:58:53.579625",
-      "priority_score": 57,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-23T06:58:57.582583",
-      "title_tr": "Silva'nın rekor gecesinde Guardiola ve Haaland için tek bir sihirli kelime var",
-      "summary_tr": "Burnley galibiyetiyle Manchester City bir kez daha Premier Lig'in lideri oldu. Daha sonra Pep Guardiola ve Erling Haaland için 'kazanmak' sihirli kelime oldu, Bernardo Silva için ise rekor akşamı. Manchester City'nin kaptanı şu anda Premier Lig'de en fazla galibiyet alan oyuncu oldu"
-    },
-    {
-      "title": "\"Okan Buruk takımı hazırlamamış!\"",
-      "summary": "Ziraat Türkiye Kupası çeyrek final maçında Galatasaray sahasında Natura Dünyası Gençlerbirliği'ne 2-0 mağlup olarak turnuvadan elendi. Spor yazarları, bu maçı çarpıcı sözlerle değerlendirdi.",
-      "url": "https://www.haberturk.com/spor-yazarlari-galatasaray-genclerbirligi-macini-degerlendirdi-3879559-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/23/ver1776926742/3879559/jpg/1280x1280",
-      "published": "2026-04-23T06:46:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.802817",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-23T06:58:56.893563",
-      "title_tr": "\"Okan Buruk takımı hazırlamamış!\"",
-      "summary_tr": "Ziraat Türkiye Kupası çeyrek final maçında Galatasaray sahasında Natura Dünyası Gençlerbirliği'ne 2-0 mağlup olarak turnuvadan elendi. Spor yazarları, bu maçı çarpıcı sözlerle değerlendirdi."
-    },
-    {
-      "title": "Chelsea latest: Former captain Terry worried about club after Rosenior sacking",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image_url": "https://e2.365dm.com/26/01/1920x1080/skysports-chelsea-latest-club_7135285.jpg?20260114164523",
-      "published": "2026-04-23T07:08:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:55:34.730229",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-23T06:58:56.706609",
-      "title_tr": "Chelsea'de son durum: Eski kaptan Terry, Rosenior'un görevden alınmasının ardından kulüp hakkında endişeli",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Bayern Munich's record-breaking 2025/26 season in numbers",
-      "summary": "Under Vincent Kompany, Bayern Munich have turned the 2025/26 campaign into a statistical showcase. From record-breaking goal tallies to the extraordinary output of Harry Kane and a supporting cast firing on all fronts, the Bavarian giants are redefining dominance in the Bundesliga and beyond.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-season-in-numbers-record-champions-36970",
-      "image_url": null,
-      "published": "2026-04-22T07:20:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.781383",
-      "priority_score": 71,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-23T06:58:56.889707",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "GRIMALDO KİMDİR? Alejandro Grimaldo Beşiktaş'a Mı Geliyor? Kaç Yaşında, Hangi Mevkide Oynuyor? İşte Grimaldo Transfermarkt Bilgileri...",
-      "summary": "Alejandro Grimaldo kimdir sorusu, Beşiktaş ile anılmaya başlamasıyla birlikte futbol gündeminde hızla yükselişe geçti. İspanyol futbolcu, futbola Barcelona altyapısında başladıktan sonra Benfica ve Bayer Leverkusen gibi Avrupa’nın önemli kulüplerinde forma giydi. Son yıllarda asist ve gol sayılarıyl",
-      "url": "https://www.cnnturk.com/spor/futbol/grimaldo-kimdir-alejandro-grimaldo-besiktasa-mi-geliyor-kac-yasinda-hangi-mevkide-oynuyor-iste-grimaldo-transfermarkt-bilgileri-2419475",
-      "image_url": null,
-      "published": "2026-04-22T17:48:58",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:57:50.027347",
-      "priority_score": 71,
+      "fetched_at": "2026-04-23T08:28:54.196509",
+      "priority_score": 85,
       "categories": [
         "transfers",
-        "match_results",
-        "la_liga",
-        "super_lig"
+        "breaking_news",
+        "premier_league"
       ],
-      "processed_at": "2026-04-23T06:58:57.373012",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:52.857400",
+      "title_tr": "Man City, Burnley'nin küme düşmesinin kesinleşmesiyle galibiyetle zirveye çıktı",
+      "summary_tr": "Manchester City, Turf Moor'da kazandığı zaferle Premier Lig şampiyonluğuna doğru ilerlemeye devam ederek Pep Guardiola'yı yan üst sıralara taşıdı ve Burnley'i tekrar Şampiyonluğa düşürdü."
     },
     {
-      "title": "Port Vale relegated to League Two after loss at Cardiff",
-      "summary": "Rubin Colwill's eighth goal of the campaign finally broke the deadlock at Cardiff City Stadium in the 79th minute and confirmed Port Vale's relegation to Sky Bet League Two next season in a 1-0 defeat.",
-      "url": "https://www.skysports.com/football/cardiff-city-vs-port-vale/report/534250",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-port-vale_7227744.jpg?20260422220417",
-      "published": "2026-04-22T21:30:00",
+      "title": "Turner has 8 saves as Revs add to Atlanta's woe",
+      "summary": "Peyton Miller scored a goal and Will Sands added his first goal in MLS as the New England Revolution beat Atlanta United FC 2-1 on Wednesday night.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/761560",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.992365",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-23T08:32:52.831893",
+      "title_tr": "Revs Atlanta'nın acısını artırırken Turner'ın 8 kurtarışı var",
+      "summary_tr": "New England Revolution'ın Çarşamba gecesi Atlanta United FC'yi 2-1 mağlup ettiği maçta Peyton Miller bir gol attı ve Will Sands MLS'deki ilk golünü ekledi."
+    },
+    {
+      "title": "👨‍👦Could Cristiano Jr. play with dad at Al Nassr?",
+      "summary": "Cristiano Ronaldo has won a littany of trophies and personal honours, but he could yet break new ground by playing first-team football with his son, Cristiano Jr.",
+      "url": "https://www.espn.com/soccer/story/_/id/48559923/cristiano-ronaldo-al-nassr-cristiano-ronaldo-jr-father-son-soccer",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.992529",
+      "priority_score": 75,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-23T08:32:52.832969",
+      "title_tr": "👨‍👦Cristiano Jr. Al Nassr'da babasıyla oynayabilir mi?",
+      "summary_tr": "Cristiano Ronaldo çok sayıda kupa ve kişisel onur kazandı ancak oğlu Cristiano Jr. ile birinci takımda futbol oynayarak yeni bir çığır açabilir."
+    },
+    {
+      "title": "Transfer rumors, news: Who could replace Rosenior as Chelsea manager?",
+      "summary": "Chelsea are searching for Liam Rosenior's replacement as manager, while USMNT's Malik Tillman is in demand. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48567959/transfer-rumors-news-replace-rosenior-chelsea-manager",
+      "image_url": null,
+      "published": "2026-04-23T09:20:17",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.993145",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.838066",
+      "title_tr": "Transfer söylentileri, haberler: Rosenior'un yerine Chelsea'nin teknik direktörü kim gelebilir?",
+      "summary_tr": "Chelsea teknik direktör olarak Liam Rosenior'un yerini alacak kişiyi ararken, USMNT'den Malik Tillman da talepte bulunuyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Huni welcomes future Itauma fight: '100 per cent we're going to meet'",
+      "summary": "Moses Itauma has the date and venue for his next fight – July 25 at the O2 Arena in London – but is waiting for his opponent to be confirmed.",
+      "url": "https://www.skysports.com/boxing/news/12040/13535131/justis-huni-expects-to-have-future-moses-itauma-fight-somewhere-along-the-line-100-per-cent-were-going-to-meet",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-justis-huni-frazer-clarke_7217384.jpg?20260411182850",
+      "published": "2026-04-23T06:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-23T06:55:34.730988",
-      "priority_score": 66,
+      "fetched_at": "2026-04-23T08:29:06.218282",
+      "priority_score": 71,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-04-23T06:58:56.739723",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:52.917485",
+      "title_tr": "Huni gelecekteki Itauma mücadelesini memnuniyetle karşıladı: 'Yüzde 100 buluşacağız'",
+      "summary_tr": "Moses Itauma'nın bir sonraki dövüşünün tarihi ve yeri belli: 25 Temmuz, Londra'daki O2 Arena'da - ancak rakibinin onaylanmasını bekliyor."
+    },
+    {
+      "title": "Galatasaray 'yeni Osimhen'i buldu! Transfer için düğmeye basıldı",
+      "summary": "Yeni sezon kadro planlaması çerçevesinde transfer çalışmalarına başlayan Galatasaray, Afrika futbolunun en umut vadeden genç yeteneklerinden biri olan George Ilenikhena'yı renklerine bağlamak için düğmeye bastı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-yeni-osimheni-buldu-transfer-icin-dugmeye-basildi-43157348",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69e9c931eb25bcddea9d3306.jpg",
+      "published": "2026-04-23T07:24:42",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:31:04.343797",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-23T08:32:53.247893",
+      "title_tr": "Galatasaray 'yeni Osimhen'i buldu! Transfer için düğmeye basıldı",
+      "summary_tr": "Yeni sezon kadro planlaması çerçevesinde transfer çalışmalarına başlayan Galatasaray, Afrika futbolunun en umut vadeden genç yeteneklerinden biri olan George Ilenikhena'yı renklerine bağlamak için düğmeye bastı."
+    },
+    {
+      "title": "'Man Utd wil profiteren van teloorgang Spurs: Van de Ven op de radar'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/man-utd-wil-profiteren-van-teloorgang-spurs-van-de-ven-op-de-radar",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-04-23T07:49:15",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:32:49.760373",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-23T08:32:53.891605",
+      "title_tr": "'Man Utd, Spurs'ün düşüşünden yararlanmak istiyor: Van de Ven radarda'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Vote for your Bundesliga Player of the Month for April!",
@@ -317,16 +301,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.775261",
+      "fetched_at": "2026-04-23T08:30:01.290590",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-23T06:58:56.837087",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.087729",
+      "title_tr": "Nisan Ayının Bundesliga Ayının Oyuncusu için oy verin!",
+      "summary_tr": "Bundesliga, 2025/26 sezonu için bir kez daha resmi Ayın Oyuncusu ödülünü sunuyor. Oylama, DFL Deutsche Fußball Liga tarafından 2018/19'dan bu yana resmi lisans ortağı EA SPORTS ile işbirliği içinde gerçekleştiriliyor. Alejandro Grimaldo, Yan Diomande, Moritz Nicolas, Patrick Ma"
     },
     {
       "title": "2025/26 DFB Cup overview: LIVE blog, fixtures, results and draws",
@@ -338,15 +322,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.776341",
+      "fetched_at": "2026-04-23T08:30:01.291611",
       "priority_score": 66,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-23T06:58:56.842821",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.095405",
+      "title_tr": "2025/26 DFB Kupası'na genel bakış: CANLI blog, fikstürler, sonuçlar ve eşleşmeler",
+      "summary_tr": "Bayern Münih, 2023/24 sezonunun galibi Bayer Leverkusen'i son dörtte yenerek DFB Kupası finalindeki yerini alırken, VfB Stuttgart, şampiyonluğu belirleyecek diğer yer için bölgesel rakipleri Freiburg ile karşılaşacak."
+    },
+    {
+      "title": "İtalya Kupası'nda Inter - Lazio finali yaşanacak",
+      "summary": "İtalya Kupası'nda Lazio, normal süresi ve uzatma devreleri 1-1 berabere biten maçta Atalanta'ya penaltılarla 2-1 üstünlük kurarak finale yükseldi.",
+      "url": "https://www.cnnturk.com/spor/futbol/italya-kupasinda-inter-lazio-finali-yasanacak-2419781",
+      "image_url": null,
+      "published": "2026-04-23T10:01:08",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:31:31.884460",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-04-23T08:32:53.533914",
+      "title_tr": "İtalya Kupası'nda Inter - Lazio finali yaşanacak",
+      "summary_tr": "İtalya Kupası'nda Lazio, normal süresi ve uzatma devreleri 1-1 berabere biten maçta Atalanta'ya penaltılarla 2-1 üstünlük kurarak finale yükseldi."
+    },
+    {
+      "title": "Sources: Barça fear Yamal suffered torn hamstring",
+      "summary": "Lamine Yamal injured himself taking a penalty in Barcelona's LaLiga match against Celta Vigo on Wednesday at Spotify Camp Nou.",
+      "url": "https://www.espn.com/soccer/story/_/id/48563164/lamine-yamal-injury-penalty-barcelona-celta-vigo",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.991060",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-23T08:32:52.827316",
+      "title_tr": "Kaynaklar: Barça, Yamal'ın dizinde yırtık olmasından korkuyor",
+      "summary_tr": "Lamine Yamal, Çarşamba günü Spotify Camp Nou'da Barcelona'nın Celta Vigo'ya karşı oynadığı LaLiga maçında penaltı kullanırken kendini yaraladı."
     },
     {
       "title": "Wereldgoals De Paul én Suárez helpen Miami in slotfase langs Spierings",
@@ -358,35 +382,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-23T06:58:53.580006",
+      "fetched_at": "2026-04-23T08:32:49.761105",
       "priority_score": 62,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-04-23T06:58:57.665576",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Haaland strike helps City edge Burnley to move top",
-      "summary": "Highlights from the Premier League match between Burnley and Manchester City.",
-      "url": "https://www.skysports.com/watch/video/13535229/burnley-0-1-manchester-city-premier-league-highlights",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-burnley-man-city_7227729.png?20260422215624",
-      "published": "2026-04-22T22:01:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:55:34.731055",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-23T06:58:56.743078",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:54.076604",
+      "title_tr": "Dünya golleri De Paul ve Suárez, Miami'nin son aşamada Spierings'i geçmesine yardımcı oluyor",
+      "summary_tr": "Inter Miami, çarşambayı perşembeye bağlayan gece finalde Real Salt Lake'i mağlup etti. Bu kez gecenin kahramanı Lionel Messi değildi ama onun seçkin futbol arkadaşları gösteriyi çaldı: Rodrigo De Paul ve Luis Suárez."
     },
     {
       "title": "Harry Kane and Luis Díaz fire Bayern Munich to DFB Cup final with assured victory over Bayer Leverkusen",
@@ -398,15 +402,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-23T06:56:20.771648",
+      "fetched_at": "2026-04-23T08:30:01.289007",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-23T06:58:56.812495",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.072224",
+      "title_tr": "Harry Kane ve Luis Díaz, Bayer Leverkusen'i yenerek Bayern Münih'i DFB Kupası finaline taşıdı",
+      "summary_tr": "Bayern Münih, BayArena'da Bayer Leverkusen'e karşı oynadığı üstün performansın ardından DFB Kupası finaline yükseldi. Harry Kane ve Luis Díaz gecenin kahramanlarıydı; attıkları goller takımın Berlin'deki gösterişli tablosundaki yerini perçinledi."
     },
     {
       "title": "Fenerbahçe'nin eski aşkı alevlendi! Transferde dev operasyon",
@@ -418,15 +422,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:23.589358",
+      "fetched_at": "2026-04-23T08:31:04.344190",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-23T06:58:56.995733",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.316439",
+      "title_tr": "Fenerbahçe'nin eski aşkı alevlendi! Transferde dev operasyon",
+      "summary_tr": "Süper Lig'de sezonun tamamlanmasına 4 hafta kala Galatasaray'la şampiyonluk için mücadelesini sürdüren Fenerbahçe'de önümüzdeki sezonun transferleri için de çalışmalar başladı. Sarı-lacivertliler, daha önce de gündemine gelen Fransız stoper Malang Sarr'ı yeniden gündemine aldı."
     },
     {
       "title": "Galatasaray'a Zaniolo piyangosu!",
@@ -438,15 +442,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.803507",
+      "fetched_at": "2026-04-23T08:30:51.677098",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-23T06:58:56.928311",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.152270",
+      "title_tr": "Galatasaray'a Zaniolo piyangosu!",
+      "summary_tr": "Galatasaray'ın yaz transfer döneminde Udinese'ye satın alma opsiyonuyla birlikte kiraladığı Nicolo Zaniolo'da karar verildi. İtalyan ekibinin 26 yaşındaki futbolcunun tapusunu alacağı ve yıldız ismi 2 katı bedelle başka bir takıma satacağı öne sürüldü."
     },
     {
       "title": "Beşiktaş'tan Grimaldo bombası!",
@@ -458,36 +462,16 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.803720",
+      "fetched_at": "2026-04-23T08:30:51.677242",
       "priority_score": 58,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-23T06:58:56.945864",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Transfers Ajax: Weghorst mocht in januari niet vertrekken van Cruijff",
-      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-ajax-weghorst-mocht-in-januari-niet-vertrekken-van-cruijff",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
-      "published": "2026-04-23T05:27:52",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:58:53.580075",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-23T06:58:57.682588",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.164976",
+      "title_tr": "Beşiktaş'tan Grimaldo bombası!",
+      "summary_tr": "Süper Lig'de bu sezon şampiyonluk yarışına dahil olamayan ve gelecek sezona mutlak şampiyonluk parolasıyla girecek olan Beşiktaş'ta transfer çalışmaları hız kazandı. Siyah-beyazlıların, Leverkusen'in yıldız sol beki Alejandro Grimaldo ile anlaşmaya vardığı iddia edildi. İşte detaylar..."
     },
     {
       "title": "Chelsea’de Liam Rosenior dönemi sona erdi",
@@ -499,15 +483,112 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:50.026154",
+      "fetched_at": "2026-04-23T08:31:31.885486",
       "priority_score": 56,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-23T06:58:57.260367",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.610209",
+      "title_tr": "Chelsea’de Liam Rosenior dönemi sona erdi",
+      "summary_tr": "Chelsea, üst üste kötü sonuçların ardından Liam Rosenior’un sözleşmesini feshetti."
+    },
+    {
+      "title": "Man City go top, but it's still a title race of fine margins",
+      "summary": "Manchester City's win over Burnley puts them top of the Premier League with five games to go, but their race with Arsenal might go until the very end.",
+      "url": "https://www.espn.com/soccer/story/_/id/48564199/manchetser-city-go-top-table-title-race-fine-margins",
+      "image_url": null,
+      "published": "2026-04-23T08:45:52",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.990555",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.826729",
+      "title_tr": "Manchester City zirveye yerleşti ama yine de iyi marjlarla dolu bir şampiyonluk yarışı",
+      "summary_tr": "Manchester City'nin Burnley'i yenmesi, onları son beş maç kala Premier Lig'in zirvesine taşıyacak, ancak Arsenal'le olan yarışları sonuna kadar devam edebilir."
+    },
+    {
+      "title": "Pep: City can 'handle' stress of Arsenal title race",
+      "summary": "Pep Guardiola said he's sure Manchester City can handle the pressure of a tight title race after a nervous night against Burnley.",
+      "url": "https://www.espn.com/soccer/story/_/id/48564245/pep-man-city-handle-stress-arsenal-title-race",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.991283",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.827659",
+      "title_tr": "Pep: City, Arsenal şampiyonluk yarışının stresiyle 'başa çıkabilir'",
+      "summary_tr": "Pep Guardiola, Manchester City'nin Burnley'e karşı gergin bir gecenin ardından zorlu şampiyonluk yarışının baskısını kaldırabileceğinden emin olduğunu söyledi."
+    },
+    {
+      "title": "Chelsea sack coach Rosenior amid historic slump",
+      "summary": "Chelsea have sacked head coach Liam Rosenior after less than four months in charge, the club announced on Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48559868/chelsea-sack-liam-rosenior-manager",
+      "image_url": null,
+      "published": "2026-04-23T08:16:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.991649",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.828698",
+      "title_tr": "Chelsea, tarihi çöküşün ortasında teknik direktör Rosenior'u görevden aldı",
+      "summary_tr": "Kulüp Çarşamba günü yaptığı açıklamada, Chelsea'nin dört aydan kısa bir süre görev yaptıktan sonra başantrenör Liam Rosenior'u görevden aldığını duyurdu."
+    },
+    {
+      "title": "Rosenior was out of his depth at Chelsea, and it was obvious from the start",
+      "summary": "Liam Rosenior never had the aura of a Chelsea manager, but the club hired him anyway. Four months later, the Blues are looking for another new coach.",
+      "url": "https://www.espn.com/soccer/story/_/id/48562222/liam-rosenior-was-depth-chelsea-was-obvious-start",
+      "image_url": null,
+      "published": "2026-04-23T08:26:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.992779",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-23T08:32:52.834533",
+      "title_tr": "Rosenior Chelsea'de sınırlarını aşmıştı ve bu en başından belliydi.",
+      "summary_tr": "Liam Rosenior hiçbir zaman bir Chelsea teknik direktörünün havasına sahip olmadı ama yine de kulüp onu işe aldı. Dört ay sonra Maviler yeni bir teknik direktör arıyor."
+    },
+    {
+      "title": "UWCL semifinal predictions: Will Barcelona batter Bayern? Arsenal to beat OL Lyonnes?",
+      "summary": "We've seen these matchups already before this season but, now stakes are even higher, how will these games play out across the two legs?",
+      "url": "https://www.espn.com/soccer/story/_/id/48550437/uwcl-semifinal-predictions-barcelona-batter-bayern-arsenal-beat-ol-lyonnes",
+      "image_url": null,
+      "published": "2026-04-23T08:26:13",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-23T08:28:47.992977",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-23T08:32:52.836322",
+      "title_tr": "UWCL yarı final tahminleri: Barcelona, ​​Bayern'i yenecek mi? Arsenal, OL Lyonnes'u yenecek mi?",
+      "summary_tr": "Bu karşılaşmaları bu sezondan önce de görmüştük ama şimdi riskler daha da yüksek, bu maçlar iki ayak üzerinde nasıl oynanacak?"
     },
     {
       "title": "Barcelona doludizgin ilerliyor!",
@@ -519,94 +600,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.802987",
+      "fetched_at": "2026-04-23T08:30:51.676579",
       "priority_score": 53,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-04-23T06:58:56.903196",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "G.Saray'a kupa şoku!",
-      "summary": "Ziraat Türkiye Kupası'nda Gençlerbirliği'ni konuk eden son şampiyon Galatasaray, rakibine 2-0 mağlup olarak kupaya çeyrek finalde veda etti. Başkent ekibine yarı finali getiren golleri Fıratcan Üzüm ve Traore kaydetti.",
-      "url": "https://www.haberturk.com/galatasaray-genclerbirligi-0-2-mac-sonucu-genclerbirligi-turkiye-kupasi-nda-yari-finalde-3879288-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/22/ver1776886306/3879288/jpg/1280x1280",
-      "published": "2026-04-22T20:32:06",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.803349",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-23T06:58:56.919221",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Günay Güvenç gözyaşlarını tutamadı!",
-      "summary": "Türkiye Kupası'nda Gençlerbirliği'ne 2-0 yenilen Galatasaray turnuvaya çeyrek finalde veda ederken, maça Günay Güvenç'in ikinci goldeki hatası damgasını vurdu. Gençlerbirliği futbolcusu Traore, Günay'ın elinden kaçırdığı topa dokunarak farkı ikiye çıkardı. Sarı-kırmızılı kaleci bu golden sonra top h",
-      "url": "https://www.haberturk.com/galatasaray-da-gunay-guvenc-e-once-islik-sonra-destek-gozyaslarini-tutamadi-3879499-spor",
-      "image_url": "https://im.haberturk.com/l/2026/04/22/ver1776888972/3879499/jpg/1280x1280",
-      "published": "2026-04-22T20:16:33",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:57:10.803431",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-23T06:58:56.923658",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe Galatasaray'ın genç yıldızını transfer etti: Sezon sonu açıklanacak",
-      "summary": "Fenerbahçe, altyapı hamlelerine bir yenisini daha eklemeye hazırlanıyor. Sarı-lacivertlilerin, Galatasaray altyapısında...",
-      "url": "https://www.yenisafak.com/spor/fenerbahce-galatasarayin-genc-yildizini-transfer-etti-sezon-sonu-aciklanacak-4817673",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/4/22/95213433-sz6gcxq28123n6m0elnk8.webp",
-      "published": "2026-04-22T21:00:55",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:58:19.164331",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-23T06:58:57.490345",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "VI Live: PSV ontvangt PEC Zwolle, bekerwinnaar AZ op bezoek bij Go Ahead",
-      "summary": "Bekerwinnaar AZ moet enkele dagen na het grote feest alweer komen opdraven voor een Eredivisie-duel. De ploeg van Leeroy Echteld staat om 18.45 uur tegenover Go Ahead Eagles. Landskampioen PSV ontvangt om 21.00 uur PEC Zwolle. Volg deze duels in de VI Live.",
-      "url": "https://www.vi.nl/nieuws/vi-live-psv-ontvangt-pec-zwolle-bekerwinnaar-az-op-bezoek-bij-go-ahead",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/21/c768996361abecfa1e798b840787f20cde0b338a.jpg?width=1200",
-      "published": "2026-04-23T06:15:38",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-23T06:58:53.579856",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-04-23T06:58:57.630857",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-04-23T08:32:53.122250",
+      "title_tr": "Barcelona doludizgin ilerliyor!",
+      "summary_tr": "İspanya LaLiga'nın 32. haftasında Barcelona, evinde Celta Vigo'yu 1-0 mağlup etti. Lamine Yamal'ın penaltıdan attığı golle kazanarak ligdeki galibiyet serisini 7 maça çıkaran Barcelona, puanını 82'ye yükseltti. Celta Vigo ise haftayı 44 puanla tamamladı."
     }
   ]
 }
