@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T22:36:55.577732",
+  "timestamp": "2026-04-24T23:37:48.686202",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:34:01.467865",
+      "fetched_at": "2026-04-24T23:34:47.913946",
       "priority_score": 100,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-24T22:35:41.823302",
+      "processed_at": "2026-04-24T23:36:18.817650",
       "title_tr": "Galatasaray, Jonathan Rowe'un transferi için Avrupa devleriyle yarışta!",
       "summary_tr": "Galatasaray; Jonathan Rowe'un transferi için Avrupa devleriyle yarışa girdi. Bologna'nın talep ettiği bonservis ücreti de duyuruldu."
     },
@@ -32,7 +32,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:34:39.371642",
+      "fetched_at": "2026-04-24T23:35:23.269528",
       "priority_score": 79,
       "categories": [
         "transfers",
@@ -40,29 +40,9 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-04-24T22:35:42.163902",
+      "processed_at": "2026-04-24T23:36:19.170625",
       "title_tr": "Ünlü menajer açıkladı! Galatasaray'da Osimhen için tarihi bonservis",
       "summary_tr": "Son dakika Galatasaray transfer haberleri: Adı son günlerde Barcelona ve Real Madrid ile anılan Victor Osimhen ile ilgili sıcak gelişmeler yaşanıyor. Wolfsburg'da oynadığı dönemde Nijeryalı yıldızı temsil...Devamı için tıklayınız"
-    },
-    {
-      "title": "Forest's first-half frenzy at Sunderland eases relegation worries",
-      "summary": "Nottingham Forest moved eight points clear of the relegation zone after running riot with four goals in the first half of a stunning 5-0 victory at Sunderland.",
-      "url": "https://www.skysports.com/football/sunderland-vs-nottingham-forest/report/531466",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-igor-jesus-nottingham-forest_7229675.jpg?20260424210021",
-      "published": "2026-04-24T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.844426",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-24T22:35:41.458160",
-      "title_tr": "Forest'ın Sunderland'deki ilk yarı çılgınlığı küme düşme endişelerini hafifletiyor",
-      "summary_tr": "Nottingham Forest, Sunderland'e karşı 5-0'lık muhteşem galibiyetin ilk yarısında dört gol atarak isyan ettikten sonra küme düşme hattının sekiz puan ötesine geçti."
     },
     {
       "title": "Marie-Louise Eta on breaking down barriers and keeping Union Berlin in the Bundesliga",
@@ -74,15 +54,77 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:01.212064",
+      "fetched_at": "2026-04-24T23:33:52.180173",
       "priority_score": 71,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-24T22:35:41.619296",
+      "processed_at": "2026-04-24T23:36:18.604583",
       "title_tr": "Marie-Louise Eta engelleri yıkmak ve Union Berlin'i Bundesliga'da tutmak hakkında konuştu",
       "summary_tr": "Union Berlin'den Marie-Louise Eta, Avrupa'nın en iyi beş liginden herhangi birinde ilk kadın teknik direktör olduktan sonra öncü olarak algılandığının farkında olduğunu söylüyor ancak önemli olanın sahada olup bitenler olduğunun altını çiziyor."
+    },
+    {
+      "title": "Forest's first-half frenzy at Sunderland eases relegation worries",
+      "summary": "Nottingham Forest moved eight points clear of the relegation zone after running riot with four goals in the first half of a stunning 5-0 victory at Sunderland.",
+      "url": "https://www.skysports.com/football/sunderland-vs-nottingham-forest/report/531466",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-igor-jesus-nottingham-forest_7229675.jpg?20260424210021",
+      "published": "2026-04-24T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:32:39.758071",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-24T23:36:18.452062",
+      "title_tr": "Forest'ın Sunderland'deki ilk yarı çılgınlığı küme düşme endişelerini hafifletiyor",
+      "summary_tr": "Nottingham Forest, Sunderland'e karşı alınan 5-0'lık muhteşem galibiyetin ilk yarısında dört gol atarak isyan çıkardıktan sonra küme düşme hattından sekiz puan uzaklaştı."
+    },
+    {
+      "title": "RB Leipzig strengthen UEFA Champions League hopes with victory over Union Berlin",
+      "summary": "RB Leipzig secured their fifth consecutive Bundesliga victory with a commanding 3-1 win over Union Berlin, boosting their UEFA Champions League qualification prospects and leaving Marie-Louise Eta still searching for her first win as Union interim coach.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-union-berlin-match-report-highlights-matchday-31-diomande-eta-37057",
+      "image_url": null,
+      "published": "2026-04-24T20:25:58",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:52.175428",
+      "priority_score": 66,
+      "categories": [
+        "breaking_news",
+        "serie_a",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-04-24T23:36:18.556775",
+      "title_tr": "RB Leipzig, Union Berlin'i yenerek UEFA Şampiyonlar Ligi umutlarını güçlendirdi",
+      "summary_tr": "RB Leipzig, Union Berlin'i 3-1 mağlup ederek üst üste beşinci Bundesliga zaferini elde ederek UEFA Şampiyonlar Ligi'ne katılma umutlarını artırdı ve Marie-Louise Eta'nın hâlâ Union geçici antrenörü olarak ilk galibiyetini aramasına neden oldu."
+    },
+    {
+      "title": "Arsenal second, Spurs facing relegation: is there really panic on the streets of north London?",
+      "summary": "Fans of both sides are feeling similar levels of stress at different ends of the Premier League tableZadie Smith once wrote that “the square mile around Arsenal’s stadium could be a suitable surrogate for the whole wide world”. Perhaps you only really glimpse this on a match day, when the jerk chick",
+      "url": "https://www.theguardian.com/football/2026/apr/24/arsenal-second-spurs-relegation-zone-panic-streets-north-london-premier-league",
+      "image_url": null,
+      "published": "2026-04-24T18:21:56",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:05.372371",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-24T23:36:18.483416",
+      "title_tr": "Arsenal ikinci, Spurs düşme tehlikesiyle karşı karşıya: Kuzey Londra sokaklarında gerçekten panik var mı?",
+      "summary_tr": "Her iki tarafın taraftarları Premier Lig masasının farklı uçlarında benzer düzeyde stres hissediyorZadie Smith bir keresinde \"Arsenal stadyumunun etrafındaki mil karenin tüm dünya için uygun bir vekil olabileceğini\" yazmıştı. Belki de bunu ancak maç gününde, o pislik piliç olduğunda anlayabilirsiniz."
     },
     {
       "title": "Calum McFarlane returns to Chelsea hotseat but Rosenior era raises doubts",
@@ -94,57 +136,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.946581",
-      "priority_score": 68,
+      "fetched_at": "2026-04-24T23:33:05.373760",
+      "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-04-24T22:35:41.513881",
+      "processed_at": "2026-04-24T23:36:18.508789",
       "title_tr": "Calum McFarlane Chelsea'nin sıcak koltuğuna geri döndü ancak Rosenior dönemi şüpheleri artırıyor",
       "summary_tr": "Genç teknik adam, ilk bakıcılık görevinde taktik zekasını gösterdi ama aynı zamanda Liam Rosenior'un arka oda takımının da bir parçasıydı. Chelsea taraftarlarının eski günlerin hasretini çektiği göz önüne alındığında, belki de kulübün önceki geçici yöneticilerinden bazılarının muhteşem koşularını hatırlayarak kendilerini neşelendirebilirler."
-    },
-    {
-      "title": "‘Everything about it was magical’: Southampton still spurred on by spirit of ’76 Cup triumph",
-      "summary": "Fiftieth anniversary of an FA Cup win still central to their city’s identity forms an evocative backdrop to Saints’ semi-final against Manchester CityTwo years ago, when sixth-tier Maidstone won at Ipswich to reach the fifth round of the FA Cup for the first time, their manager, George Elokobi, dist",
-      "url": "https://www.theguardian.com/football/2026/apr/24/everything-about-it-was-magical-southampton-still-spurred-on-by-spirit-of-76-cup-triumph",
-      "image_url": null,
-      "published": "2026-04-24T17:00:21",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.947768",
-      "priority_score": 68,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-24T22:35:41.529477",
-      "title_tr": "'Her şey büyüleyiciydi': Southampton hâlâ 76 Kupası zaferinin ruhuyla teşvik ediliyor",
-      "summary_tr": "FA Cup galibiyetinin ellinci yıl dönümü hâlâ şehirlerinin kimliğinin merkezinde yer alıyor, Saints'in Manchester City'ye karşı oynadığı yarı final için çağrıştırıcı bir arka plan oluşturuyor İki yıl önce, altıncı kademe Maidstone Ipswich'i kazanarak ilk kez FA Cup'ta beşinci tura çıktığında, menajerleri George Elokobi,"
-    },
-    {
-      "title": "Galatasaray'ın ilgilendiği Salah için resmi transfer açıklaması yapıldı!",
-      "summary": "Son dakika Galatasaray haberleri: Cimbom, Trendyol Süper Lig'de şampiyonluk yarışını sürdürürken yaz transfer dönemi için de transfer çalışmalarını hızla devam ettiriyor. Aslan, Liverpool'un yıldız ismi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/24/galatasarayin-cilegi-salah-icin-resmi-transfer-aciklamasi-yapildi",
-      "image_url": "https://iaftm.tmgrup.com.tr/c92257/1200/675/0/0/2047/1150?u=https://iftm.tmgrup.com.tr/2026/04/24/galatasarayin-cilegi-salah-icin-resmi-transfer-aciklamasi-yapildi-1777045159774.jpg",
-      "published": "2026-04-24T16:16:34",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:34:39.372187",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-04-24T22:35:42.212276",
-      "title_tr": "Galatasaray'ın ilgilendiği Salah için resmi transfer açıklaması yapıldı!",
-      "summary_tr": "Son dakika Galatasaray haberleri: Cimbom, Trendyol Süper Lig'de şampiyonluk yarışını sürdürürken yaz transfer dönemi için de transfer çalışmalarını hızla devam ettiriyor. Aslan, Liverpool'un yıldız ismi...Devamı için tıklayınız"
     },
     {
       "title": "Napoli sahasında coştu!",
@@ -156,13 +157,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:47.364483",
+      "fetched_at": "2026-04-24T23:34:37.326996",
       "priority_score": 58,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-04-24T22:35:41.683990",
+      "processed_at": "2026-04-24T23:36:18.672001",
       "title_tr": "Napoli sahasında coştu!",
       "summary_tr": "İtalya Serie A'nın 34. haftasında Napoli sahasında Cremonese'yi ağırladı. Mücadeleyi ev sahibi ekip 4-0 kazandı ve zirve takibini sürdürdü."
     },
@@ -176,55 +177,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:47.364561",
+      "fetched_at": "2026-04-24T23:34:37.327076",
       "priority_score": 58,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-04-24T22:35:41.688008",
+      "processed_at": "2026-04-24T23:36:18.676128",
       "title_tr": "Real Madrid'e 90+4'te büyük şok!",
       "summary_tr": "İspanya La Liga'nın 33. haftasında Real Betis sahasında Real Madrid'i ağırladı. Eflatun-beyazlılar mücadeleden 90+4'te yediği golle 1-1 eşitlikle ayrıldı."
-    },
-    {
-      "title": "Jamal Musiala hitting stride at crucial juncture in Bayern Munich's campaign",
-      "summary": "After Bayern Munich announced that Serge Gnabry would be out for a lengthy period with an adductor injury, the recently crowned 2025/26 Bundesliga champions need Jamal Musiala to be back to his magical best on the season's home stretch as the Bavarians look to continue plotting their route to treble",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-jamal-musiala-magic-gnabry-psg-uefa-champions-league-37016",
-      "image_url": null,
-      "published": "2026-04-24T06:30:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:33:01.213417",
-      "priority_score": 56,
-      "categories": [
-        "injuries",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-24T22:35:41.635522",
-      "title_tr": "Jamal Musiala, Bayern Münih'in kampanyasında kritik bir noktada adım atıyor",
-      "summary_tr": "Bayern Münih, Serge Gnabry'nin addüktör sakatlığı nedeniyle uzun bir süre sahalardan uzak kalacağını açıkladıktan sonra, 2025/26 Bundesliga şampiyonu, Bavyeralıların üçe yükselme rotasını çizmeye devam ederken, Jamal Musiala'nın sezonun iç sahasında büyülü en iyi performansına geri dönmesine ihtiyacı var."
-    },
-    {
-      "title": "Rogers open to European move - Saturday's gossip",
-      "summary": "Morgan Rogers is open to a European move, Manuel Akanji is set to make his Inter Milan move permanent and Manchester City are confident of signing Elliot Anderson.",
-      "url": "https://www.bbc.com/sport/football/articles/cp8d3xm7x41o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-24T21:52:49",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:31:58.974653",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-24T22:35:41.440548",
-      "title_tr": "Rogers Avrupa hamlesine açık - Cumartesi günkü dedikodular",
-      "summary_tr": "Morgan Rogers Avrupa transferine açık, Manuel Akanji Inter Milan transferini kalıcı hale getirmeye hazırlanıyor ve Manchester City, Elliot Anderson'ı transfer edeceğinden emin."
     },
     {
       "title": "De Bruyne dirigeert Napoli naar zege: Inter dit weekend geen officieus kampioen",
@@ -236,12 +197,12 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-24T22:35:37.831361",
+      "fetched_at": "2026-04-24T23:36:14.165271",
       "priority_score": 47,
       "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-04-24T22:35:42.692944",
+      "processed_at": "2026-04-24T23:36:19.681974",
       "title_tr": "De Bruyne, Napoli'yi zafere yönlendiriyor: Inter bu hafta sonu resmi olmayan şampiyon değil",
       "summary_tr": "Napoli Cuma akşamı Cremonese karşısında galibiyet elde etti. Kevin De Bruyne attığı gol ve asistle önemli bir rol oynadı. Bu nedenle lider Internazionale için bu hafta sonu resmi olmayan bir şampiyonluk mümkün değil."
     },
@@ -255,36 +216,76 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:34:26.212255",
+      "fetched_at": "2026-04-24T23:35:11.264729",
       "priority_score": 46,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-04-24T22:35:42.035382",
+      "processed_at": "2026-04-24T23:36:19.037742",
       "title_tr": "GS-FB DERBİ SAATİ: Pazar günü derbi ne zaman, saat kaçta? Osimhen derbide oynayacak mı? Galatasaray-Fenerbahçe derbisi için nefesler tutuldu!",
       "summary_tr": "Süper Lig’de sezonun en heyecanlı haftalarından biri yaşanacak. 31. hafta derbisinde Galatasaray, sahasında Fenerbahçe’yi konuk edecek. Şampiyonluk yarışını doğrudan etkileyecek dev mücadele öncesi futbolseverler, maçın tarihi, saati ve yayın kanalını araştırıyor. Derbiye liderlik avantajıyla hazırl"
     },
     {
-      "title": "RB Leipzig strengthen UEFA Champions League hopes with victory over Union Berlin",
-      "summary": "RB Leipzig secured their fifth consecutive Bundesliga victory with a commanding 3-1 win over Union Berlin, boosting their UEFA Champions League qualification prospects and leaving Marie-Louise Eta still searching for her first win as Union interim coach.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-union-berlin-match-report-highlights-matchday-31-diomande-eta-37057",
+      "title": "Vincenzo Montella'dan, sakatlanan Arda Güler'e telefon! Dünya Kupası'na yetişecek mi?",
+      "summary": "Real Madrid’de bu sezon gösterdiği başarılı performansla dikkat çeken Arda Güler’den kötü haber geldi. Genç yıldız, sakatlık nedeniyle sezonu erken kapatıyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/vincenzo-montelladan-sakatlanan-arda-gulere-telefon-dunya-kupasina-yetisecek-mi-2420244",
       "image_url": null,
-      "published": "2026-04-24T20:25:58",
-      "source": "Bundesliga Official",
+      "published": "2026-04-24T13:26:06",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:01.207127",
-      "priority_score": 66,
+      "fetched_at": "2026-04-24T23:35:11.265564",
+      "priority_score": 46,
+      "categories": [
+        "injuries",
+        "la_liga",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-24T23:36:19.109833",
+      "title_tr": "Vincenzo Montella'dan, sakatlanan Arda Güler'e telefon! Dünya Kupası'na yetişecek mi?",
+      "summary_tr": "Real Madrid’de bu sezon gösterdiği başarılı performansla dikkat çeken Arda Güler’den kötü haber geldi. Genç yıldız, sakatlık nedeniyle sezonu erken kapatıyor."
+    },
+    {
+      "title": "European football: Betis and Bellerín deny Real Madrid, Eta’s Union lose at Leipzig",
+      "summary": "Late leveller is fresh blow to Madrid’s faint title hopesRB Leipzig’s 3-1 win is marred by online sexism rowHéctor Bellerín struck deep into stoppage time to earn Real Betis a 1-1 draw against Real Madrid on Friday, dealing another blow to the visitors’ fading title hopes.Álvaro Arbeloa’s side appea",
+      "url": "https://www.theguardian.com/football/2026/apr/24/european-football-betis-real-madrid-leipzig-union-berlin-lens-napoli",
+      "image_url": null,
+      "published": "2026-04-24T22:21:21",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:05.373052",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-24T23:36:18.492662",
+      "title_tr": "Avrupa futbolu: Betis ve Bellerín Real Madrid'i inkar etti, Eta Birliği Leipzig'de mağlup oldu",
+      "summary_tr": "Geç eşitlik, Madrid'in zayıf şampiyonluk umutlarına yeni bir darbe RB Leipzig'in 3-1'lik galibiyeti çevrimiçi cinsiyetçilik tartışmasıyla gölgelendi Héctor Bellerín, Cuma günü Real Betis'e Real Madrid'e karşı 1-1 berabere kalarak duraklama süresini derinden vurdu ve ziyaretçilerin sönmekte olan şampiyonluk umutlarına bir darbe daha vurdu. Álvaro Arbeloa'nın yan itirazı"
+    },
+    {
+      "title": "‘Everything about it was magical’: Southampton still spurred on by spirit of ’76 Cup triumph",
+      "summary": "Fiftieth anniversary of an FA Cup win still central to their city’s identity forms an evocative backdrop to Saints’ semi-final against Manchester CityTwo years ago, when sixth-tier Maidstone won at Ipswich to reach the fifth round of the FA Cup for the first time, their manager, George Elokobi, dist",
+      "url": "https://www.theguardian.com/football/2026/apr/24/everything-about-it-was-magical-southampton-still-spurred-on-by-spirit-of-76-cup-triumph",
+      "image_url": null,
+      "published": "2026-04-24T17:00:21",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:05.374237",
+      "priority_score": 63,
       "categories": [
         "breaking_news",
-        "serie_a",
-        "bundesliga",
-        "champions_league"
+        "premier_league"
       ],
-      "processed_at": "2026-04-24T22:35:41.563409",
-      "title_tr": "RB Leipzig, Union Berlin'i yenerek UEFA Şampiyonlar Ligi umutlarını güçlendirdi",
-      "summary_tr": "RB Leipzig, Union Berlin'i 3-1 mağlup ederek üst üste beşinci Bundesliga zaferini elde ederek UEFA Şampiyonlar Ligi'ne katılma umutlarını artırdı ve Marie-Louise Eta'nın hâlâ Union geçici antrenörü olarak ilk galibiyetini aramasına neden oldu."
+      "processed_at": "2026-04-24T23:36:18.514957",
+      "title_tr": "'Her şey büyüleyiciydi': Southampton hâlâ 76 Kupası zaferinin ruhuyla teşvik ediliyor",
+      "summary_tr": "FA Cup galibiyetinin ellinci yıl dönümü hâlâ şehirlerinin kimliğinin merkezinde yer alıyor, Saints'in Manchester City'ye karşı oynadığı yarı final için çağrıştırıcı bir arka plan oluşturuyor. İki yıl önce, altıncı kademe Maidstone Ipswich'i kazanarak ilk kez FA Cup'ta beşinci tura çıktığında, menajerleri George Elokobi,"
     },
     {
       "title": "De Zerbi wants Maddison to bring the vibes for Tottenham’s must-win clash at Wolves",
@@ -296,53 +297,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.945959",
+      "fetched_at": "2026-04-24T23:33:05.375490",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-04-24T22:35:41.504205",
+      "processed_at": "2026-04-24T23:36:18.541256",
       "title_tr": "De Zerbi, Tottenham'ın Wolves'ta mutlaka kazanması gereken mücadelesine Maddison'dan heyecan katmasını istiyor",
       "summary_tr": "Spurs'un orta saha oyuncusu tam olarak formda değil ancak menajeri küme düşme korkusu içindeki oyuncularını kaldırmak için elinden geleni yaparken Molineux'de yedek kulübesinde olacak. Bu, Tottenham'ın yükselişte olması gereken bir maç olduğu Wolves'ta Cumartesi günkü maça hazırlanırken Roberto De Zerbi'den oldukça itiraf oldu."
-    },
-    {
-      "title": "Macaulay Langstaff rescues a point at Leicester to move Millwall up to second",
-      "summary": "Millwall moved back into the Championship’s automatic promotion position places but could only snatch a late 1-1 draw at already relegated Leicester.Substitute Macaulay Langstaff’s first goal since February cancelled out a Foxes opener from Harry Souttar, who was playing his first game since rupturi",
-      "url": "https://www.theguardian.com/football/2026/apr/24/leicester-millwall-championship-match-report",
-      "image_url": null,
-      "published": "2026-04-24T21:47:58",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.946212",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-24T22:35:41.509175",
-      "title_tr": "Macaulay Langstaff, Millwall'u ikinci sıraya taşımak için Leicester'da bir puan kurtardı",
-      "summary_tr": "Millwall, Şampiyonanın otomatik yükselme pozisyonuna geri döndü ancak zaten küme düşmüş olan Leicester'a son dakikada 1-1 berabere kalabildi. Yedek oyuncu Macaulay Langstaff'ın Şubat ayından bu yana attığı ilk gol, Rupturi'den bu yana ilk maçını oynayan Harry Souttar'ın Foxes'ta attığı golü iptal etti."
-    },
-    {
-      "title": "Arsenal second, Spurs facing relegation: is there really panic on the streets of north London?",
-      "summary": "Fans of both sides are feeling similar levels of stress at different ends of the Premier League tableZadie Smith once wrote that “the square mile around Arsenal’s stadium could be a suitable surrogate for the whole wide world”. Perhaps you only really glimpse this on a match day, when the jerk chick",
-      "url": "https://www.theguardian.com/football/2026/apr/24/arsenal-second-spurs-relegation-zone-panic-streets-north-london-premier-league",
-      "image_url": null,
-      "published": "2026-04-24T18:21:56",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.946908",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-24T22:35:41.520067",
-      "title_tr": "Arsenal ikinci, Spurs düşme tehlikesiyle karşı karşıya: Kuzey Londra sokaklarında gerçekten panik var mı?",
-      "summary_tr": "Her iki tarafın taraftarları Premier Lig masasının farklı uçlarında benzer düzeyde stres hissediyorZadie Smith bir keresinde \"Arsenal stadyumunun etrafındaki mil karenin tüm dünya için uygun bir vekil olabileceğini\" yazmıştı. Belki de bunu ancak maç gününde, o pislik piliç olduğunda anlayabilirsiniz."
     },
     {
       "title": "Aches and strains seem worse with age but we ambling amateur footballers just can’t let go | Max Rushden",
@@ -354,15 +316,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.948739",
+      "fetched_at": "2026-04-24T23:33:05.375751",
       "priority_score": 63,
       "categories": [
         "transfers",
         "injuries"
       ],
-      "processed_at": "2026-04-24T22:35:41.550247",
+      "processed_at": "2026-04-24T23:36:18.549763",
       "title_tr": "Ağrılar ve gerginlikler yaşlandıkça daha da kötüleşiyor ama biz amatör futbolcular bırakamıyoruz | Max Rushden",
-      "summary_tr": "Şu anda kaburga yaralanmasının dalak yırtılması gibi hissedildiği ama oynamanın hâlâ izlemeye gölge düşürdüğü bir dönemdeyim, bu yüzden tekrar başlıyoruz. Birkaç hafta önce sol kaburgalarımın altında yakıcı bir ağrıyla uyandım. Kalp krizini nispeten hızlı bir şekilde eledim – odaya girerken kalbinizin sarktığını okumadım"
+      "summary_tr": "Şu anda, kaburga yaralanmasının dalak yırtılması gibi hissedildiği ama oynamanın hâlâ izlemeye gölge düşürdüğü bir dönemdeyim, bu yüzden tekrar başlıyoruz. Birkaç hafta önce sol kaburgalarımın altında yakıcı bir ağrıyla uyandım. Kalp krizini nispeten hızlı bir şekilde eledim – odaya girerken kalbinizin sarktığını okumadım"
+    },
+    {
+      "title": "Galatasaray'ın ilgilendiği Salah için resmi transfer açıklaması yapıldı!",
+      "summary": "Son dakika Galatasaray haberleri: Cimbom, Trendyol Süper Lig'de şampiyonluk yarışını sürdürürken yaz transfer dönemi için de transfer çalışmalarını hızla devam ettiriyor. Aslan, Liverpool'un yıldız ismi...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/04/24/galatasarayin-cilegi-salah-icin-resmi-transfer-aciklamasi-yapildi",
+      "image_url": "https://iaftm.tmgrup.com.tr/c92257/1200/675/0/0/2047/1150?u=https://iftm.tmgrup.com.tr/2026/04/24/galatasarayin-cilegi-salah-icin-resmi-transfer-aciklamasi-yapildi-1777045159774.jpg",
+      "published": "2026-04-24T16:16:34",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:35:23.270068",
+      "priority_score": 59,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-04-24T23:36:19.221427",
+      "title_tr": "Galatasaray'ın ilgilendiği Salah için resmi transfer açıklaması yapıldı!",
+      "summary_tr": "Son dakika Galatasaray haberleri: Cimbom, Trendyol Süper Lig'de şampiyonluk yarışını sürdürürken yaz transfer dönemi için de transfer çalışmalarını hızla devam ettiriyor. Aslan, Liverpool'un yıldız ismi...Devamı için tıklayınız"
     },
     {
       "title": "KKD-topscorer Postema: 'Meer dan twintig goals maken helpt wel'",
@@ -374,15 +357,73 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-24T22:35:37.831236",
+      "fetched_at": "2026-04-24T23:36:14.165160",
       "priority_score": 57,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-04-24T22:35:42.652964",
-      "title_tr": "KKD'nin gol kralı Postema: 'Yirmiden fazla gol atmak faydalı olur'",
+      "processed_at": "2026-04-24T23:36:19.641100",
+      "title_tr": "KKD'nin gol kralı Postema: 'Yirmiden fazla gol atmak yardımcı olur'",
       "summary_tr": "Romano Postema, Mutfak Şampiyonu Liginde en skorer isim unvanını aldı. Groningen'den Emmen'e kiralanan forvet (24) önümüzdeki hafta Altın Kalkan ile ödüllendirilecek. Artık normal sezon sona erdiğine göre Postema ödül olarak yabancı bir kulübe güzel bir transfer yapmayı umuyor"
+    },
+    {
+      "title": "Papers: Maresca in Man City talks as Pep emerges as candidate for Italy job",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13536143/enzo-maresca-in-manchester-city-talks-as-pep-guardiola-emerges-as-candidate-for-italy-job-paper-talk",
+      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published": "2026-04-24T23:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:32:39.757961",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-24T23:36:18.447196",
+      "title_tr": "Makaleler: Pep İtalya'daki iş için aday olarak ortaya çıkarken Maresca Man City'de konuşuyor",
+      "summary_tr": "Cumartesi günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
+    },
+    {
+      "title": "Jamal Musiala hitting stride at crucial juncture in Bayern Munich's campaign",
+      "summary": "After Bayern Munich announced that Serge Gnabry would be out for a lengthy period with an adductor injury, the recently crowned 2025/26 Bundesliga champions need Jamal Musiala to be back to his magical best on the season's home stretch as the Bavarians look to continue plotting their route to treble",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-jamal-musiala-magic-gnabry-psg-uefa-champions-league-37016",
+      "image_url": null,
+      "published": "2026-04-24T06:30:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:52.181477",
+      "priority_score": 56,
+      "categories": [
+        "injuries",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-24T23:36:18.621185",
+      "title_tr": "Jamal Musiala, Bayern Münih'in kampanyasında kritik bir noktada adım atıyor",
+      "summary_tr": "Bayern Münih, Serge Gnabry'nin addüktör sakatlığı nedeniyle uzun bir süre sahalardan uzak kalacağını açıkladıktan sonra, 2025/26 Bundesliga şampiyonu, Bavyeralıların üçe yükselme rotasını çizmeye devam ederken, Jamal Musiala'nın sezonun iç sahasında büyülü en iyi performansına geri dönmesine ihtiyacı var."
+    },
+    {
+      "title": "Millwall edge back into top two with late leveller as Leicester fans hit out at board",
+      "summary": "Millwall moved back into the Championship’s automatic promotion position places but could only snatch a late 1-1 draw at already relegated Leicester.Substitute Macaulay Langstaff’s first goal since February cancelled out a Foxes opener from Harry Souttar, who was playing his first game since rupturi",
+      "url": "https://www.theguardian.com/football/2026/apr/24/leicester-millwall-championship-match-report",
+      "image_url": null,
+      "published": "2026-04-24T21:47:58",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:05.373290",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-24T23:36:18.498456",
+      "title_tr": "Leicester taraftarları sahaya çıkınca Millwall geç eşitlikle ilk ikiye geri döndü",
+      "summary_tr": "Millwall, Şampiyonanın otomatik yükselme pozisyonuna geri döndü ancak halihazırda küme düşmüş olan Leicester'a son dakikada 1-1 berabere kalabildi. Yedek oyuncu Macaulay Langstaff'ın Şubat ayından bu yana attığı ilk gol, Rupturi'den bu yana ilk maçını oynayan Harry Souttar'ın Foxes'ta attığı golü iptal etti."
     },
     {
       "title": "Football news: Slot casts doubt on Alisson’s future; Livramento blow for Howe",
@@ -394,14 +435,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.945616",
+      "fetched_at": "2026-04-24T23:33:05.373495",
       "priority_score": 53,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-04-24T22:35:41.498845",
+      "processed_at": "2026-04-24T23:36:18.503699",
       "title_tr": "Futbol haberleri: Slot, Alisson'un geleceği konusunda şüphe uyandırıyor; Howe'a Livramento darbesi",
       "summary_tr": "Newcastle menajeri İngiltere'deki defans oyuncusunun kondisyonundan endişe ederken Liverpool'un kalecilik durumu mercek altında. Okumaya devam et..."
+    },
+    {
+      "title": "Gianluca Prestianni hit with six-match ban for ‘homophobic conduct’ towards Vinícius Júnior",
+      "summary": "Real Madrid player had alleged he was racially abusedThe incident is likely to result in an Ifab law changeBenfica’s Gianluca Prestianni has been banned for six European matches after being found guilty of homophobic conduct towards Real Madrid’s Vinícius Júnior. With three matches of the ban suspen",
+      "url": "https://www.theguardian.com/football/2026/apr/24/gianluca-prestianni-six-match-ban-homophobic-conduct-towards-vinicius-junior",
+      "image_url": null,
+      "published": "2026-04-24T14:21:54",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-24T23:33:05.375018",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-04-24T23:36:18.527457",
+      "title_tr": "Gianluca Prestianni, Vinícius Júnior'a karşı 'homofobik davranışı' nedeniyle altı maç men cezasına çarptırıldı",
+      "summary_tr": "Real Madridli oyuncu ırkçı tacize uğradığını iddia etmiştiOlayın Ifab kanununda değişiklikle sonuçlanması muhtemelBenficalı Gianluca Prestianni, Real Madridli Vinícius Júnior'a yönelik homofobik davranıştan suçlu bulunduktan sonra altı Avrupa maçından men cezasına çarptırıldı. Üç maç yasağı ertelendi"
     },
     {
       "title": "Derbide ligin en golcü iki takımı karşılaşacak!",
@@ -413,35 +474,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:47.365374",
+      "fetched_at": "2026-04-24T23:34:37.327864",
       "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-24T22:35:41.755646",
+      "processed_at": "2026-04-24T23:36:18.747293",
       "title_tr": "Derbide ligin en golcü iki takımı karşılaşacak!",
       "summary_tr": "Trendyol Süper Lig'in 31. haftasında oynanacak Galatasaray - Fenerbahçe derbisi aynı zamanda bu sezon ligin en golcü iki takımını karşı karşıya getirecek. Ligde sarı-kırmızılılar 69, sarı-lacivertliler 68 kez rakip fileleri havalandırdı."
-    },
-    {
-      "title": "Five-goal Forest take huge step towards safety with Sunderland thrashing",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Sunderland and Nottingham Forest.",
-      "url": "https://www.skysports.com/watch/video/13536124/sunderland-0-5-nottingham-forest-premier-league-highlights",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-football-premier-league_7229751.jpg?20260424221044",
-      "published": "2026-04-24T22:16:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.844367",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-24T22:35:41.455990",
-      "title_tr": "Beş Gollü Orman, Sunderland'in ezilmesiyle güvenliğe doğru büyük bir adım attı",
-      "summary_tr": "İZLEMESİ ÜCRETSİZ: Sunderland ile Nottingham Forest arasındaki Premier Lig maçından önemli anlar."
     },
     {
       "title": "Bethell fails to fire in first IPL appearance of season",
@@ -453,13 +494,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.844623",
+      "fetched_at": "2026-04-24T23:32:39.758221",
       "priority_score": 51,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-24T22:35:41.466089",
+      "processed_at": "2026-04-24T23:36:18.460578",
       "title_tr": "Bethell sezonun ilk IPL görünümünde ateş etmeyi başaramadı",
       "summary_tr": "Jacob Bethell, Cuma günü Royal Challengers Bengaluru formasıyla 2026 Hindistan Premier Ligi sezonuna ilk kez katıldığında 14 için görevden alındı."
     },
@@ -473,12 +514,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.844799",
+      "fetched_at": "2026-04-24T23:32:39.758363",
       "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-24T22:35:41.474854",
+      "processed_at": "2026-04-24T23:36:18.470054",
       "title_tr": "Korda, Chevron Şampiyonası için -14 ile 36 delikli skor rekorunu kırdı",
       "summary_tr": "Nelly Korda, Chevron Şampiyonası'nda 36 delikli skor rekorunu -14 ile kırdıktan sonra ikinci turda konuşuyor."
     },
@@ -492,33 +533,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.844908",
+      "fetched_at": "2026-04-24T23:32:39.758453",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-24T22:35:41.478940",
+      "processed_at": "2026-04-24T23:36:18.474558",
       "title_tr": "Kurtlar büyük galibiyetin ardından Wigan üzerinde baskı kurdu",
       "summary_tr": "Süper Lig'de Warrington Wolves ile Wigan Warriors arasındaki karşılaşmanın öne çıkan anları."
-    },
-    {
-      "title": "Millwall go second with late equaliser at relegated Leicester",
-      "summary": "Highlights of the Sky Bet Championship match between Leicester City and Millwall.",
-      "url": "https://www.skysports.com/watch/video/13536116/leicester-city-1-1-millwall-championship-highlights",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-football-championship_7229759.jpg?20260424221639",
-      "published": "2026-04-24T22:06:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:14.845078",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-04-24T22:35:41.489944",
-      "title_tr": "Millwall, küme düşen Leicester'da geç ekolayzırla ikinci oldu",
-      "summary_tr": "Leicester City ve Millwall arasındaki Sky Bet Şampiyonası maçının öne çıkanları."
     },
     {
       "title": "Vedat Muriqi'nin menajerinden resmi açıklama! Fenerbahçe ve transfer...",
@@ -530,7 +552,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-24T22:34:39.371789",
+      "fetched_at": "2026-04-24T23:35:23.269675",
       "priority_score": 49,
       "categories": [
         "transfers",
@@ -538,29 +560,9 @@
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-04-24T22:35:42.177453",
+      "processed_at": "2026-04-24T23:36:19.184865",
       "title_tr": "Vedat Muriqi'nin menajerinden resmi açıklama! Fenerbahçe ve transfer...",
       "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Yeni sezon öncesi hücum hattını güçlendirmek isteyen Fenerbahçe, Mallorca forması giyen eski golcüsü Vedat Muriqi'yi gündemine almıştı. Kosovalı yıldızın menajeri...Devamı için tıklayınız"
-    },
-    {
-      "title": "Premier League and FA Cup semi-finals: 10 things to look out for this weekend",
-      "summary": "Spurs face must-win game at Wolves, Arsenal fight to keep title hopes alive and Chelsea step into a post-Rosenior worldMaybe it is a case of fourth time lucky for Nottingham Forest. Certainly Vítor Pereira – manager No 4 in the most chaotic of seasons – is doing something right. The Europa League se",
-      "url": "https://www.theguardian.com/football/2026/apr/24/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend",
-      "image_url": null,
-      "published": "2026-04-23T23:00:24",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-24T22:32:38.949195",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-24T22:35:41.556524",
-      "title_tr": "Premier Lig ve FA Cup yarı finalleri: Bu hafta sonu dikkat edilmesi gereken 10 şey",
-      "summary_tr": "Spurs, Wolves'ta mutlaka kazanması gereken bir maçla karşı karşıya, Arsenal şampiyonluk umutlarını canlı tutmak için mücadele ediyor ve Chelsea, Rosenior sonrası dünyaya adım atıyor. Belki de Nottingham Forest için dördüncü kez şanslı bir durum bu. Sezonların en kaotik döneminde 4 numaralı teknik direktör Vítor Pereira kesinlikle doğru bir şey yapıyor. Avrupa Ligi"
     },
     {
       "title": "Bundesliga Matchday 31 probable teams",
@@ -572,13 +574,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:01.211114",
+      "fetched_at": "2026-04-24T23:33:52.179258",
       "priority_score": 46,
       "categories": [
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-04-24T22:35:41.611222",
+      "processed_at": "2026-04-24T23:36:18.596255",
       "title_tr": "Bundesliga'da 31. maç muhtemel takımlar",
       "summary_tr": "Serge Gnabry ve Lennart Karl'ın sakatlığı nedeniyle Jamal Musiala, Mainz ile karşılaşacakları maçta Bayern Münih adına bir kez daha sahaya çıkacak."
     },
@@ -592,7 +594,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-24T22:33:01.217862",
+      "fetched_at": "2026-04-24T23:33:52.185769",
       "priority_score": 46,
       "categories": [
         "serie_a",
@@ -600,9 +602,9 @@
         "champions_league",
         "world_cup"
       ],
-      "processed_at": "2026-04-24T22:35:41.680762",
+      "processed_at": "2026-04-24T23:36:18.668510",
       "title_tr": "RB Leipzig'in Avusturyalı orta saha yıldızı Christoph Baumgartner, UEFA Şampiyonlar Ligi'ne katılma umutlarını anlatıyor, Dünya Kupası'nda Lionel Messi ile karşılaşacak ve Yan Diomande'ye mentorluk yapacak",
-      "summary_tr": "Christoph Baumgartner, RB Leipzig'de geçirdiği güçlü sezon ve 26 yaşındaki orta saha oyuncusunun Yan Diomande gibi genç yeteneklere nasıl yardımcı olduğunu düşünmek için Bundesliga ile bir röportaj yaptı ve ardından Avusturya'nın Lionel Messi ve Argent ile karşılaşacakları Dünya Kupası'ndaki umutlarını tartıştı."
+      "summary_tr": "Christoph Baumgartner, RB Leipzig'de geçirdiği güçlü sezon ve 26 yaşındaki orta saha oyuncusunun Yan Diomande gibi genç yeteneklere nasıl yardımcı olduğunu düşünmek için Bundesliga'yla bir röportaj yaptı ve ardından Avusturya'nın Lionel Messi ve Argent ile karşılaşacakları Dünya Kupası'ndaki umutlarını anlattı."
     }
   ]
 }
