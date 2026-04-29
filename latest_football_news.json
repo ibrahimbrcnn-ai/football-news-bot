@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-04-28T22:57:47.094976",
+  "timestamp": "2026-04-28T23:49:46.063816",
   "total_items": 30,
   "news": [
+    {
+      "title": "A record-breaking semi-final - the antidote to modern football?",
+      "summary": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football.",
+      "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-28T23:33:30",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:44:25.914472",
+      "priority_score": 100,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-28T23:48:12.270644",
+      "title_tr": "Rekor kıran bir yarı final – modern futbolun panzehiri mi?",
+      "summary_tr": "Paris St-Germain ile Bayern Münih arasındaki göz kamaştırıcı yarı final ilk maçı, birçok kişinin bunun modern futbolun panzehiri olup olmadığını merak etmesine neden oldu."
+    },
     {
       "title": "Kane praises 'amazing defending' in nine-goal CL classic - but Rooney disagrees",
       "summary": "Harry Kane labelled the defending in Bayern Munich's 5-4 Champions League semi-final first leg defeat at PSG as \"amazing\" - but Wayne Rooney disagreed.",
@@ -12,15 +32,15 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.591977",
-      "priority_score": 100,
+      "fetched_at": "2026-04-28T23:44:36.138165",
+      "priority_score": 96,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.450222",
+      "processed_at": "2026-04-28T23:48:12.277740",
       "title_tr": "Kane, dokuz gollü CL klasiğindeki 'harika savunmayı' övüyor - ancak Rooney aynı fikirde değil",
       "summary_tr": "Harry Kane, Bayern Münih'in Şampiyonlar Ligi yarı final ilk maçında PSG'ye karşı aldığı 5-4'lük yenilginin savunmasını \"şaşırtıcı\" olarak nitelendirdi ancak Wayne Rooney aynı fikirde değildi."
     },
@@ -34,37 +54,58 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:40.085939",
+      "fetched_at": "2026-04-28T23:44:25.915186",
       "priority_score": 85,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.441092",
+      "processed_at": "2026-04-28T23:48:12.271851",
       "title_tr": "Man City, fikstürdeki yığılmadan dolayı hayal kırıklığına uğradı",
-      "summary_tr": "Manchester City, Premier Lig'in şampiyonluk yarışındaki iki önemli maçın yeniden planlanan tarihlerini onaylamasının ardından önümüzdeki ay 11 gün içinde dört maçlık bir fikstür yığınıyla karşı karşıya kalacak."
+      "summary_tr": "Manchester City, Premier Lig'in şampiyonluk yarışındaki iki önemli maçı için yeniden planlanan tarihleri ​​onaylamasının ardından önümüzdeki ay 11 gün içinde dört maçlık bir fikstür yığınıyla karşı karşıya kalacak."
     },
     {
-      "title": "Every Arsenal and Man City match live on Sky for title run-in",
-      "summary": "Don't miss a moment of the title run-in with every one of Arsenal and Man City's games now confirmed to be shown live on Sky Sports.",
-      "url": "https://www.skysports.com/football/news/12040/13537107/premier-league-fixtures-live-on-sky-sports-every-arsenal-and-man-city-game-live-on-sky-sports-in-thrilling-title-run-in",
-      "image_url": "https://e1.365dm.com/26/03/1920x1080/skysports-premier-league-fixtures_7204726.jpg?20260327154315",
-      "published": "2026-04-28T15:00:00",
+      "title": "Afghanistan women’s refugee players allowed to compete as official national team",
+      "summary": "Fifa will not require squad to get approval of TalibanAfghan Women United was formed after 2021 takeoverFifa has given permission for Afghan Women United, a squad composed of refugees scattered around the world in Australia, the Middle East and Europe, to represent Afghanistan in official competitio",
+      "url": "https://www.theguardian.com/football/2026/apr/28/afghanistan-womens-football-team-fifa-recognition",
+      "image_url": null,
+      "published": "2026-04-28T23:31:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:45:02.628028",
+      "priority_score": 83,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-04-28T23:48:12.330348",
+      "title_tr": "Afganistanlı kadın mülteci oyuncuların resmi milli takım olarak yarışmasına izin verildi",
+      "summary_tr": "FIFA, Taliban'ın onayını almak için kadroya gerek duymayacakAfghan Women United, 2021'deki devralımın ardından kurulduFifa, Avustralya, Orta Doğu ve Avrupa'da dünyanın dört bir yanına dağılmış mültecilerden oluşan bir ekip olan Afghan Women United'ın Afganistan'ı resmi yarışmada temsil etmesine izin verdi."
+    },
+    {
+      "title": "Utterly ridiculous! PSG beat Bayern in NINE-goal Champions League epic",
+      "summary": "A nine-goal Champions League classic saw holders PSG sensationally beat Bayern Munich 5-4 in the first leg of their semi-final in Paris.",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-bayern-munich/report/554946",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-psg-bayern-munich_7233687.jpg?20260428222021",
+      "published": "2026-04-28T22:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.592810",
-      "priority_score": 81,
+      "fetched_at": "2026-04-28T23:44:36.138104",
+      "priority_score": 66,
       "categories": [
-        "transfers",
         "breaking_news",
-        "premier_league"
+        "bundesliga",
+        "champions_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.480509",
-      "title_tr": "Şampiyonluk karşılaşması için tüm Arsenal ve Manchester City maçları Sky'da canlı yayınlanıyor",
-      "summary_tr": "Arsenal ve Manchester City'nin tüm maçlarının artık Sky Sports'ta canlı olarak gösterileceği onaylandığından şampiyonluk karşılaşmasının bir anını bile kaçırmayın."
+      "processed_at": "2026-04-28T23:48:12.276343",
+      "title_tr": "Son derece saçma! PSG, Şampiyonlar Ligi'nde dokuz gollü destanda Bayern'i yendi",
+      "summary_tr": "Dokuz gollü bir Şampiyonlar Ligi klasiği olan PSG, Paris'teki yarı finalin ilk ayağında Bayern Münih'i sansasyonel bir şekilde 5-4 mağlup etti."
     },
     {
       "title": "Bayern Munich keep UEFA Champions League hopes alive in wild PSG encounter",
@@ -76,14 +117,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-28T22:53:39.488500",
+      "fetched_at": "2026-04-28T23:45:28.911117",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.535742",
+      "processed_at": "2026-04-28T23:48:12.354246",
       "title_tr": "Bayern Münih, çılgın PSG karşılaşmasında UEFA Şampiyonlar Ligi umutlarını canlı tutuyor",
       "summary_tr": "Bayern Münih, Fransa'nın başkentinde göz açıp kapayıncaya kadar kaçırdığınız ilk maçta 5-4 mağlup olduktan sonra, önümüzdeki hafta Paris Saint-Germain'e karşı oynayacağı UEFA Şampiyonlar Ligi yarı finalinin rövanş maçında hala oynayacak her şeye sahip."
     },
@@ -97,13 +138,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:55:46.315167",
+      "fetched_at": "2026-04-28T23:47:28.951888",
       "priority_score": 62,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:31.161339",
+      "processed_at": "2026-04-28T23:48:12.771414",
       "title_tr": "PSG-Bayern Münih: 5-4 MAÇ ÖZETİ VE GOLLERİ / ŞAMPİYONLAR LİGİ ÖZET",
       "summary_tr": "Şampiyonlar Ligi yarı final ilk maçında PSG ile Bayern Münih, Paris'te karşı karşıya geldi. Unutulmayacak bir mücadeley..."
     },
@@ -117,13 +158,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-28T22:53:17.918430",
+      "fetched_at": "2026-04-28T23:45:02.626242",
       "priority_score": 58,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.484599",
+      "processed_at": "2026-04-28T23:48:12.306544",
       "title_tr": "Dembélé'nin çiftesinden sonra Bayern Münih ralli yaparken PSG nefes kesici bir 5-4 klasiği",
       "summary_tr": "Hiç bu kadar güzel bir futbol maçı oldu mu? Parc des Princes'te geçen parlak, heyecan verici, biraz da çılgın gecede, Paris Saint-Germain ve Bayern Münih, tamamen farklı bir insan faaliyeti kategorisi gibi hissettiren bir şey üretti. Paris'te dokuz gol atıldı, bu da şimdiye kadarki en yüksek gol oldu."
     },
@@ -137,53 +178,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:54:35.701253",
+      "fetched_at": "2026-04-28T23:46:23.359814",
       "priority_score": 58,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.557117",
+      "processed_at": "2026-04-28T23:48:12.373252",
       "title_tr": "Paris'te tarihi gece!",
       "summary_tr": "UEFA Şampiyonlar Ligi'nde son şampiyon Paris Saint-Germain (PSG) ile Alman devi Bayern Münih'i karşı karşıya getiren yarı final ilk maçı tam anlamıyla bir futbol ziyafetine sahne oldu... Ev sahibi PSG, 9 golün atıldığı müthiş düelloyu 5-4 kazanarak Münih'teki rövanş öncesi avantajı kaptı. Fransız ek"
-    },
-    {
-      "title": "Tottenham target Rashford - Wednesday's gossip",
-      "summary": "Spurs want Marcus Rashford, Anthony Gordon is 'likely' to leave Newcastle and Arsenal are closely monitoring Victor Osimhen, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/c9q3gn39el7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-28T20:53:19",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:52:40.086629",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-04-28T22:56:30.443625",
-      "title_tr": "Tottenham Rashford'u hedef alıyor - Çarşamba günkü dedikodu",
-      "summary_tr": "Spurs, Marcus Rashford'u istiyor, Anthony Gordon'un Newcastle'dan ayrılması \"muhtemelen\" ve Arsenal, Victor Osimhen'i ve daha fazlasını yakından izliyor."
-    },
-    {
-      "title": "Oliver Glasner has found success at Palace. But will he fall into the Thomas Frank trap?",
-      "summary": "The Crystal Palace manager delivered the club’s first major trophy and could add a European title this season. But a bigger team will present fresh challengesWhen Oliver Glasner took over from Roy Hodgson at Crystal Palace in February 2024, the club was in a desperate situation. The lack of an ident",
-      "url": "https://www.theguardian.com/football/2026/apr/28/oliver-glasner-has-found-success-at-palace-but-will-he-fall-into-the-thomas-frank-trap",
-      "image_url": null,
-      "published": "2026-04-28T11:37:05",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:53:17.921913",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-28T22:56:30.530196",
-      "title_tr": "Oliver Glasner, Palace'ta başarıya ulaştı. Peki Thomas Frank tuzağına düşecek mi?",
-      "summary_tr": "Crystal Palace menajeri kulübün ilk büyük kupasını kazandı ve bu sezon bir Avrupa şampiyonluğu da ekleyebilir. Ancak daha büyük bir takım yeni zorluklarla karşılaşacak Oliver Glasner, Şubat 2024'te Crystal Palace'ta Roy Hodgson'dan görevi devraldığında kulüp çaresiz bir durumdaydı. Kimlik eksikliği"
     },
     {
       "title": "Fenerbahçeli Ederson PFDK'da!",
@@ -195,54 +198,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:54:35.701337",
+      "fetched_at": "2026-04-28T23:46:23.359887",
       "priority_score": 43,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-04-28T22:56:30.559909",
+      "processed_at": "2026-04-28T23:48:12.375714",
       "title_tr": "Fenerbahçeli Ederson PFDK'da!",
       "summary_tr": "Fenerbahçe'nin Brezilyalı kalecisi Ederson, Galatasaray maçında gördüğü kırmızı kart sonrası Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk edildi. Tecrübeli eldiven, 'hakaret' ve 'sportmenliğe aykırı hareket' nedeniyle PFDK'lık oldu."
-    },
-    {
-      "title": "PFDK sevkleri açıklandı: Galatasaray-Fenerbahçe derbisinin faturası belli oldu!",
-      "summary": "Fenerbahçe'nin Brezilyalı kalecisi Ederson, Galatasaray ile oynanan derbide 'hakareti' ve 'sportmenliğe aykırı hareketi' nedeniyle tedbirli olarak PFDK'ya sevk edildi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/pfdk-sevkleri-aciklandi-galatasaray-fenerbahce-derbisinin-faturasi-belli-oldu-43161545",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69f11dbaeb25bcddea9d4bc7.jpg",
-      "published": "2026-04-28T20:50:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:54:48.066883",
-      "priority_score": 41,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-04-28T22:56:30.630095",
-      "title_tr": "PFDK sevkleri açıklandı: Galatasaray-Fenerbahçe derbisinin faturası belli oldu!",
-      "summary_tr": "Fenerbahçe'nin Brezilyalı kalecisi Ederson, Galatasaray ile oynanan derbide 'hakareti' ve 'sportmenliğe aykırı hareketi' nedeniyle tedbirli olarak PFDK'ya sevk edildi."
-    },
-    {
-      "title": "Utterly ridiculous! PSG beat Bayern in NINE-goal Champions League epic",
-      "summary": "A nine-goal Champions League classic saw holders PSG sensationally beat Bayern Munich 5-4 in the first leg of their semi-final in Paris.",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-bayern-munich/report/554946",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-psg-bayern-munich_7233687.jpg?20260428222021",
-      "published": "2026-04-28T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.591903",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-28T22:56:30.448445",
-      "title_tr": "Son derece saçma! PSG, Şampiyonlar Ligi'nde dokuz gollü destanda Bayern'i yendi",
-      "summary_tr": "Dokuz gollü bir Şampiyonlar Ligi klasiği olan PSG, Paris'teki yarı finalin ilk ayağında Bayern Münih'i sansasyonel bir şekilde 5-4 mağlup etti."
     },
     {
       "title": "White House wants Department of Homeland Security reopen for World Cup",
@@ -254,36 +217,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:40.085322",
+      "fetched_at": "2026-04-28T23:44:25.914704",
       "priority_score": 75,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-04-28T22:56:30.440194",
+      "processed_at": "2026-04-28T23:48:12.270924",
       "title_tr": "Beyaz Saray, İç Güvenlik Bakanlığı'nın Dünya Kupası için yeniden açılmasını istiyor",
-      "summary_tr": "Bu yaz yapılacak Dünya Kupasına hazırlanan Beyaz Saray yetkilileri, ABD Başkanı Donald Trump'a düzenlenen suikast girişiminin ardından İç Güvenlik Bakanlığı'nı yeniden açılmaya çağırıyor."
-    },
-    {
-      "title": "Flitsend PSG verslaat Bayern in doelpuntrijk voetbalfeest",
-      "summary": "Het moest de mooiste wedstrijd van het seizoen worden en de enorme hype voor Paris Saint-Germain tegen Bayern München bleek terecht. In de eerste helft vielen er al vijf doelpunten en na rust gingen beide grootmachten vrolijk verder. De Fransen trokken ondanks een Duitse comeback aan het langste ein",
-      "url": "https://www.vi.nl/nieuws/flitsend-psg-verslaat-bayern-in-doelpuntrijk-voetbalfeest",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/28/ea5acf041db91d431fe042bbf80c0a5f1dcfddc3.jpg?width=1200",
-      "published": "2026-04-28T22:10:39",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:56:26.271917",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-04-28T22:56:31.319397",
-      "title_tr": "Gösterişli PSG, gollerle dolu futbol kutlamasında Bayern'i yendi",
-      "summary_tr": "Bu sezonun en iyi maçı olmalıydı ve Paris Saint-Germain'in Bayern Münih'e karşı duyduğu büyük heyecanın haklı olduğu ortaya çıktı. İlk yarıda 5 gol atıldı ve aradan sonra her iki süper güç de neşeyle devam etti. Almanya'nın geri dönüşüne rağmen Fransızlar zirveye çıktı"
+      "summary_tr": "Bu yaz yapılacak Dünya Kupası'na hazırlanan Beyaz Saray yetkilileri, ABD Başkanı Donald Trump'a düzenlenen suikast girişiminin ardından İç Güvenlik Bakanlığı'nı yeniden açılmaya çağırıyor."
     },
     {
       "title": "Official Future Partner: Bundesliga and adidas enter into strategic cooperation to jointly strengthen the further development of German professional football",
@@ -295,14 +238,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-28T22:53:39.489089",
+      "fetched_at": "2026-04-28T23:45:28.911631",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.546311",
+      "processed_at": "2026-04-28T23:48:12.363586",
       "title_tr": "Resmi Gelecek Ortağı: Bundesliga ve adidas, Alman profesyonel futbolunun daha da gelişmesini ortaklaşa güçlendirmek için stratejik işbirliğine giriyor",
       "summary_tr": "Bundesliga'nın yönetim organı DFL Deutsche Fußball Liga ve adidas AG, Alman profesyonel futbolunun daha da gelişmesini ortaklaşa güçlendirmek için geniş kapsamlı bir ortaklığa giriyor: Herzogenaurach'ın küresel markası, Bundesliga'nın Resmi Gelecek Ortağı olacak."
     },
@@ -316,16 +259,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-28T22:53:39.489671",
+      "fetched_at": "2026-04-28T23:45:28.912134",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.551397",
-      "title_tr": "Yan Diomande, Nisan Ayının Bundesliga Ayının Oyuncusu seçildi!",
+      "processed_at": "2026-04-28T23:48:12.368159",
+      "title_tr": "Yan Diomande, Nisan Ayının Bundesliga Oyuncusu seçildi!",
       "summary_tr": "Bundesliga, 2025/26 sezonu için bir kez daha resmi Ayın Oyuncusu ödülünü sunuyor. Oylama, DFL Deutsche Fußball Liga tarafından 2018/19'dan bu yana resmi lisans ortağı EA SPORTS ile işbirliği içinde gerçekleştiriliyor. Yan Diomande, Alejandro Grimaldo ve Moritz Nicolas'ı uğurladı"
+    },
+    {
+      "title": "Brighton plan Europe’s first purpose-built women’s football stadium",
+      "summary": "10,000-capacity venue will sit next to Amex Stadium‘This is the kind of progress we have dreamed about’Brighton’s plans to build Europe’s first purpose-built women’s stadium is the “kind of progress we have dreamed about for years”, the Brighton and former England forward Fran Kirby has said.The Wom",
+      "url": "https://www.theguardian.com/football/2026/apr/28/brighton-plan-europes-first-purpose-built-womens-football-stadium",
+      "image_url": null,
+      "published": "2026-04-28T14:14:05",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:45:02.627742",
+      "priority_score": 58,
+      "categories": [
+        "breaking_news",
+        "injuries"
+      ],
+      "processed_at": "2026-04-28T23:48:12.325760",
+      "title_tr": "Brighton, Avrupa'nın özel olarak inşa edilmiş ilk kadın futbol stadyumunu planlıyor",
+      "summary_tr": "10.000 kapasiteli stadyum Amex Stadyumu'nun yanında yer alacak'Brighton ve eski İngiltere forveti Fran Kirby, 'Bu, hayalini kurduğumuz türden bir ilerleme' Brighton'ın Avrupa'nın ilk amaca yönelik inşa edilmiş kadın stadyumunu inşa etme planlarının \"yıllardır hayalini kurduğumuz türden bir ilerleme\" olduğunu söyledi."
     },
     {
       "title": "Manchester City'de bir devir kapandı!",
@@ -337,57 +300,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:54:35.701584",
+      "fetched_at": "2026-04-28T23:46:23.360101",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.574114",
+      "processed_at": "2026-04-28T23:48:12.388317",
       "title_tr": "Manchester City'de bir devir kapandı!",
       "summary_tr": "İngiltere Premier Lig ekibi Manchester City, 10 yıldır formasını giyen ve sezon sonu sözleşmesi bitecek olan John Stones'un takımdan ayrılacağını duyurdu."
     },
     {
-      "title": "Manchester City'de 10 yıl sonra ayrılık: John Stones veda edecek",
-      "summary": "İngiltere Premier Lig ekibi Manchester City, sezon sonu sözleşmesi bitecek savunma oyuncusu John Stones'un takımdan ayr...",
-      "url": "https://www.yenisafak.com/spor/manchester-cityde-10-yil-sonra-ayrilik-john-stones-veda-edecek-4819245",
-      "image_url": null,
-      "published": "2026-04-28T17:19:03",
-      "source": "Yeni Şafak Spor",
+      "title": "Flitsend PSG verslaat Bayern in doelpuntrijk voetbalfeest",
+      "summary": "Het moest de mooiste wedstrijd van het seizoen worden en de enorme hype voor Paris Saint-Germain tegen Bayern München bleek terecht. In de eerste helft vielen er al vijf doelpunten en na rust gingen beide grootmachten vrolijk verder. De Fransen trokken ondanks een Duitse comeback aan het langste ein",
+      "url": "https://www.vi.nl/nieuws/flitsend-psg-verslaat-bayern-in-doelpuntrijk-voetbalfeest",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/28/ea5acf041db91d431fe042bbf80c0a5f1dcfddc3.jpg?width=1200",
+      "published": "2026-04-28T22:10:39",
+      "source": "VI.nl",
       "source_priority": 6,
-      "region": "turkey",
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-28T22:55:46.315907",
+      "fetched_at": "2026-04-28T23:48:08.999680",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "premier_league"
+        "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:31.174848",
-      "title_tr": "Manchester City'de 10 yıl sonra ayrılık: John Stones veda edecek",
-      "summary_tr": "İngiltere Premier Lig ekibi Manchester City, sezon sonu sözleşmesi bitecek savunma oyuncusu John Stones'un takımdan ayr..."
-    },
-    {
-      "title": "Barca want second Rashford loan deal",
-      "summary": "Barcelona are interested in a second season-long loan deal for Manchester United forward Marcus Rashford.",
-      "url": "https://www.skysports.com/football/news/12040/13537641/marcus-rashford-barcelona-want-manchester-united-forward-on-a-second-season-long-loan",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-marcus-rashford-manchester-united_7222932.jpg?20260417175726",
-      "published": "2026-04-28T14:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.592655",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-04-28T22:56:30.477379",
-      "title_tr": "Barça ikinci Rashford kredi anlaşmasını istiyor",
-      "summary_tr": "Barcelona, ​​Manchester United'ın forvet oyuncusu Marcus Rashford'u ikinci sezonluk kiralama anlaşmasıyla ilgileniyor."
+      "processed_at": "2026-04-28T23:48:12.898407",
+      "title_tr": "Gösterişli PSG, gollerle dolu futbol kutlamasında Bayern'i yendi",
+      "summary_tr": "Bu sezonun en iyi maçı olmalıydı ve Paris Saint-Germain'in Bayern Münih'e karşı duyduğu büyük heyecanın haklı olduğu ortaya çıktı. İlk yarıda 5 gol atıldı ve aradan sonra her iki süper güç de neşeyle devam etti. Almanya'nın geri dönüşüne rağmen Fransızlar zirveye çıktı"
     },
     {
       "title": "Galatasaray'ın yıldızı Gabriel Sara'ya İtalya'dan transfer kancası",
@@ -399,15 +340,54 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:55:13.985195",
+      "fetched_at": "2026-04-28T23:47:00.385279",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-28T22:56:30.995586",
+      "processed_at": "2026-04-28T23:48:12.760306",
       "title_tr": "Galatasaray'ın yıldızı Gabriel Sara'ya İtalya'dan transfer kancası",
       "summary_tr": "Galatasaray formasıyla adeta yeniden doğan Gabriel Sara, gösterdiği etkileyici performansla Brezilya Milli Takımı'na kadar yükseldi ve şimdi Avrupa'nın büyük kulüplerinin radarına girmiş durumda."
+    },
+    {
+      "title": "Tottenham target Rashford - Wednesday's gossip",
+      "summary": "Spurs want Marcus Rashford, Anthony Gordon is 'likely' to leave Newcastle and Arsenal are closely monitoring Victor Osimhen, plus more.",
+      "url": "https://www.bbc.com/sport/football/articles/c9q3gn39el7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-28T20:53:19",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:44:25.915658",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-28T23:48:12.273448",
+      "title_tr": "Tottenham Rashford'u hedef alıyor - Çarşamba günkü dedikodu",
+      "summary_tr": "Spurs, Marcus Rashford'u istiyor, Anthony Gordon'un Newcastle'dan ayrılması \"muhtemelen\" ve Arsenal, Victor Osimhen'i ve daha fazlasını yakından izliyor."
+    },
+    {
+      "title": "Manchester City'de 10 yıl sonra ayrılık: John Stones veda edecek",
+      "summary": "İngiltere Premier Lig ekibi Manchester City, sezon sonu sözleşmesi bitecek savunma oyuncusu John Stones'un takımdan ayr...",
+      "url": "https://www.yenisafak.com/spor/manchester-cityde-10-yil-sonra-ayrilik-john-stones-veda-edecek-4819245",
+      "image_url": null,
+      "published": "2026-04-28T17:19:03",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:47:28.952528",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-28T23:48:12.782169",
+      "title_tr": "Manchester City'de 10 yıl sonra ayrılık: John Stones veda edecek",
+      "summary_tr": "İngiltere Premier Lig ekibi Manchester City, sezon sonu sözleşmesi bitecek savunma oyuncusu John Stones'un takımdan ayr..."
     },
     {
       "title": "İngilizler ayrılık için tek şartı duyurdu: Ederson için 'tazminatının tamamını istiyor' iddiası!",
@@ -419,14 +399,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:54:48.067026",
+      "fetched_at": "2026-04-28T23:46:35.663384",
       "priority_score": 51,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-04-28T22:56:30.650354",
+      "processed_at": "2026-04-28T23:48:12.456088",
       "title_tr": "İngilizler ayrılık için tek şartı duyurdu: Ederson için 'tazminatının tamamını istiyor' iddiası!",
       "summary_tr": "Yaz transfer döneminde Manchester City’den büyük beklentilerle transfer edilen ancak son haftalarda sergilediği performansla en çok tartışılan isim haline gelen Ederson'un sözleşme fesih için Fenerbahçe'ye şartını ilettiği öne sürüldü."
     },
@@ -440,34 +420,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:55:13.983290",
+      "fetched_at": "2026-04-28T23:47:00.383650",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.844026",
+      "processed_at": "2026-04-28T23:48:12.626671",
       "title_tr": "PSG BAYERN MUNIH MAÇI CANLI İZLE: UEFA Şampiyonlar Ligi Yarı Final PSG Bayern Münih Maçı Saat Kaçta, Hangi Kanalda? İşte Muhtemel 11'ler...",
       "summary_tr": "PSG ile Bayern Münih arasında oynanacak Şampiyonlar Ligi yarı final ilk karşılaşması öncesinde futbolseverlerin heyecanlı bekleyişi sürüyor. Paris Saint‑Germain, kendi sahasında ağırlayacağı Alman devi karşısında ilk maçtan avantajlı bir skorla ayrılmayı hedeflerken, geçtiğimiz sezon kupayı kazanan"
     },
     {
-      "title": "Brighton plan Europe's first purpose-built £80m women's stadium",
-      "summary": "Brighton and Hove Albion release plans for Europe's first purpose-built women's football stadium, which will cost £75-80m.",
-      "url": "https://www.bbc.com/sport/football/articles/ce8p01x34pyo?at_medium=RSS&at_campaign=rss",
+      "title": "Oliver Glasner has found success at Palace. But will he fall into the Thomas Frank trap?",
+      "summary": "The Crystal Palace manager delivered the club’s first major trophy and could add a European title this season. But a bigger team will present fresh challengesWhen Oliver Glasner took over from Roy Hodgson at Crystal Palace in February 2024, the club was in a desperate situation. The lack of an ident",
+      "url": "https://www.theguardian.com/football/2026/apr/28/oliver-glasner-has-found-success-at-palace-but-will-he-fall-into-the-thomas-frank-trap",
       "image_url": null,
-      "published": "2026-04-28T12:00:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-28T11:37:05",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:40.087204",
-      "priority_score": 50,
+      "fetched_at": "2026-04-28T23:45:02.629250",
+      "priority_score": 48,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-04-28T22:56:30.447016",
-      "title_tr": "Brighton, Avrupa'nın özel olarak inşa edilmiş ilk 80 milyon £ değerindeki kadınlar stadyumunu planlıyor",
-      "summary_tr": "Brighton ve Hove Albion, Avrupa'nın özel olarak inşa edilen ilk kadın futbol stadyumu için 75-80 milyon £'a mal olacak planlarını açıkladı."
+      "processed_at": "2026-04-28T23:48:12.349316",
+      "title_tr": "Oliver Glasner, Palace'ta başarıya ulaştı. Peki Thomas Frank tuzağına düşecek mi?",
+      "summary_tr": "Crystal Palace menajeri kulübün ilk büyük kupasını kazandı ve bu sezon bir Avrupa şampiyonluğu da ekleyebilir. Ancak daha büyük bir takım yeni zorluklarla karşılaşacak Oliver Glasner, Şubat 2024'te Crystal Palace'ta Roy Hodgson'dan görevi devraldığında kulüp çaresiz bir durumdaydı. Kimlik eksikliği"
+    },
+    {
+      "title": "Papers: Spurs want to sign Rashford in summer",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13537837/marcus-rashford-tottenham-show-genuine-interest-in-signing-manchester-united-attacker-paper-talk",
+      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published": "2026-04-28T18:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:44:36.138640",
+      "priority_score": 46,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-04-28T23:48:12.294713",
+      "title_tr": "Makaleler: Spurs yaz aylarında Rashford'la sözleşme imzalamak istiyor",
+      "summary_tr": "Çarşamba günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
       "title": "Why Mourinho could be Real's 'ultimate wildcard'",
@@ -479,13 +478,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:40.085570",
+      "fetched_at": "2026-04-28T23:44:25.914868",
       "priority_score": 45,
       "categories": [
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.440458",
+      "processed_at": "2026-04-28T23:48:12.271158",
       "title_tr": "Mourinho neden Real'in 'nihai joker karakteri' olabilir?",
       "summary_tr": "Real Madrid'in Şampiyonlar Ligi'nden çıkması ve La Liga'nın gerisinde kalmasıyla birlikte, teknik direktör Alvaro Arbeloa'nın geleceği hakkındaki gürültü şaşırtıcı olmayan bir şekilde artıyor. Cevap Jose Mourinho olabilir mi?"
     },
@@ -499,12 +498,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-28T22:53:17.918842",
+      "fetched_at": "2026-04-28T23:45:02.626641",
       "priority_score": 43,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-04-28T22:56:30.489323",
+      "processed_at": "2026-04-28T23:48:12.310495",
       "title_tr": "Ødegaard, Arsenal'e geçmiş derslerini Atletico Madrid'de 'özel bir şeye' aktarmasını söyledi",
       "summary_tr": "Kaptan kendine güvenen takım baskıyı kaldırabilir ve Havertz'in müsait olmadığını öğrenebilir ancak Arsenal kadrosundaki Eze Martin Ødegaard, Arsenal'in neredeyse erkek itibarını kaybedene kadar eleştirilere açık kalacağını kabul etti ve kulübün bu sezon tam olarak bunu yapmaya hazır olduğundan emin."
     },
@@ -518,35 +517,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-28T22:54:35.701895",
+      "fetched_at": "2026-04-28T23:46:23.360395",
       "priority_score": 43,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-28T22:56:30.597036",
+      "processed_at": "2026-04-28T23:48:12.408728",
       "title_tr": "F.Bahçe'yi bekleyen yabancı krizi!",
       "summary_tr": "Fenerbahçe'de sezon sonunda kiralık takımlardan dönecek futbolcularla birlikte 19 yabancı sayısı olacak. 2026-2027 sezonunda uygulanacak 10+4 kuralı yüzünden sarı-lacivertlilerle yeni yapılacak transferler de düşünüldüğünde, bu sayının daha da artması beklenirken, ayrılık silsilesi yaşanacak..."
-    },
-    {
-      "title": "Simeone gaat in op transfergeruchten rondom Álvarez",
-      "summary": "In aanloop naar de halve finale van de Champions League ging Atlético Madrid-trainer Diego Simeone even in gegaan op op de transfergeruchten rondom zijn spits Julián Álvarez. Meerdere topclubs in Europa volgen de Argentijn en dat snapt Simeone wel.",
-      "url": "https://www.vi.nl/video/simeone-gaat-in-op-transfergeruchten-rondom-lvarez-heel-normaal",
-      "image_url": "https://images.performgroup.com/transcoded/20260428/280426_EN_STATSPERFORM_UCL_ATLETICO_SIMEONE_ON_ALVAREZ_READY_1777391112990-1_2847_1.jpeg",
-      "published": "2026-04-28T17:28:32",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-28T22:56:26.272528",
-      "priority_score": 42,
-      "categories": [
-        "transfers",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-28T22:56:31.454409",
-      "title_tr": "Simeone, Álvarez hakkındaki transfer dedikodularına değindi",
-      "summary_tr": "Şampiyonlar Ligi yarı finalleri öncesinde Atlético Madrid teknik direktörü Diego Simeone, forvet oyuncusu Julián Álvarez hakkındaki transfer söylentilerine kısaca değindi. Avrupa'nın birçok önemli kulübü Arjantinliyi takip ediyor ve Simeone de bunu anlıyor."
     },
     {
       "title": "Nijman wins fifth ranking title of 2026 as Greaves loses in last 16",
@@ -558,12 +537,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.592259",
+      "fetched_at": "2026-04-28T23:44:36.138393",
       "priority_score": 41,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-28T22:56:30.458592",
+      "processed_at": "2026-04-28T23:48:12.284390",
       "title_tr": "Greaves son 16'da kaybederken Nijman 2026'nın beşinci şampiyonluğunu kazandı",
       "summary_tr": "Wessel Nijman, Milton Keynes'teki son turnuvada yılın dördüncü Oyuncular Şampiyonasını ve beşinci sıralama şampiyonluğunu elde ederek 2026'ya şaşırtıcı başlangıcını sürdürdü."
     },
@@ -577,14 +556,33 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.592336",
+      "fetched_at": "2026-04-28T23:44:36.138457",
       "priority_score": 41,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-04-28T22:56:30.461052",
+      "processed_at": "2026-04-28T23:48:12.286411",
       "title_tr": "'Hiçbir sorun görmüyorum' - Rose, Miami'de yeni McLaren kulüplerini tanıtacak",
       "summary_tr": "Justin Rose, yeni McLaren Golf sopalarını bu hafta Miami'deki Cadillac Şampiyonası'nda tanıtmaya hazırlanırken, kulüp değişikliğinin oyununu etkileyeceğine inanmıyor."
+    },
+    {
+      "title": "Clarke earns late point for Ipswich to take automatic promotion race to final day",
+      "summary": "Highlights of the Sky Bet Championship match between Southampton and Ipswich Town.",
+      "url": "https://www.skysports.com/watch/video/13537796/southampton-2-2-ipswich-town-championship-highlights",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-southampton-ipswich_7233679.jpg?20260428221245",
+      "published": "2026-04-28T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-28T23:44:36.138602",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-04-28T23:48:12.292891",
+      "title_tr": "Clarke, Ipswich'in otomatik yükselme yarışını son güne taşıması için geç puan kazandı",
+      "summary_tr": "Southampton ve Ipswich Town arasındaki Sky Bet Şampiyonası karşılaşmasının önemli anları."
     },
     {
       "title": "The greatest CL game ever? What you said after PSG beat Bayern in classic",
@@ -596,12 +594,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-28T22:52:54.592590",
+      "fetched_at": "2026-04-28T23:44:36.138736",
       "priority_score": 41,
       "categories": [
         "bundesliga"
       ],
-      "processed_at": "2026-04-28T22:56:30.473370",
+      "processed_at": "2026-04-28T23:48:12.301395",
       "title_tr": "Gelmiş geçmiş en iyi CL oyunu mu? PSG, Bayern'i klasik maçta yendikten sonra ne dedin?",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     }
