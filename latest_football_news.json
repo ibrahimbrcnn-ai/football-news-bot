@@ -1,28 +1,7 @@
 {
-  "timestamp": "2026-04-30T15:03:46.422387",
+  "timestamp": "2026-04-30T16:23:32.848245",
   "total_items": 30,
   "news": [
-    {
-      "title": "Kobbie Mainoo signs new Man United contract",
-      "summary": "Kobbie Mainoo has signed a new contract to extend his stay at Manchester United, the club have confirmed.",
-      "url": "https://www.espn.com/soccer/story/_/id/48636290/kobbie-mainoo-signs-new-man-united-contract",
-      "image_url": null,
-      "published": "2026-04-30T13:37:40",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.598840",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-30T15:02:28.364733",
-      "title_tr": "Kobbie Mainoo, Manchester United'la yeni sözleşme imzaladı",
-      "summary_tr": "Kulüp, Kobbie Mainoo'nun Manchester United'daki süresini uzatmak için yeni bir sözleşme imzaladığını doğruladı."
-    },
     {
       "title": "Mainoo signs new Man Utd deal until 2031",
       "summary": "Kobbie Mainoo signs a new contract with Manchester United that will keep him at Old Trafford until 2031.",
@@ -33,58 +12,57 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-30T14:58:51.483328",
+      "fetched_at": "2026-04-30T16:18:29.632705",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.381005",
+      "processed_at": "2026-04-30T16:22:00.754497",
       "title_tr": "Mainoo, 2031'e kadar yeni Man Utd anlaşması imzaladı",
       "summary_tr": "Kobbie Mainoo, Manchester United ile 2031 yılına kadar Old Trafford'da kalmasını sağlayacak yeni bir sözleşme imzaladı."
     },
     {
-      "title": "Saudi's PIF to pull LIV Golf funding",
-      "summary": "Saudi Arabia's Public Investment Fund (PIF) confirmed it will end its funding for LIV Golf at the end of the 2026 season.",
-      "url": "https://www.skysports.com/golf/news/12040/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm",
-      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-liv-golf-south-africa_7235049.jpg?20260430121910",
-      "published": "2026-04-30T12:30:00",
+      "title": "Spurs captain Bethany England bids tearful farewell to fans as she confirms exit",
+      "summary": "Former Lionesses forward will depart this summerEngland, 31, has seven WSL goals this seasonBethany England, the Tottenham captain, is to leave at the end of this season, the striker has confirmed in a tearful video message published by the club.It is understood it was the club’s decision not to ren",
+      "url": "https://www.theguardian.com/football/2026/apr/30/spurs-captain-bethany-england-leave-summer-club-opts-against-renewing-contract",
+      "image_url": null,
+      "published": "2026-04-30T15:00:20",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:19:05.737984",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-30T16:22:00.815912",
+      "title_tr": "Spurs kaptanı Bethany England, çıkışını onaylarken taraftarlara gözyaşları içinde veda etti",
+      "summary_tr": "Eski Lionesses forveti bu yaz ayrılacak 31 yaşındaki İngiltere'nin bu sezon yedi WSL golü var Tottenham kaptanı Bethany England, kulüp tarafından yayınlanan gözyaşı döken bir video mesajında, Tottenham kaptanı Bethany England'ın bu sezon sonunda ayrılacağını doğruladı.Bunun kulübün kiralamama kararı olduğu anlaşılıyor."
+    },
+    {
+      "title": "LIV Golf Q&A: What does the future hold without Saudi backing?",
+      "summary": "Saudi Arabia's Public Investment Fund (PIF) confirmed it will end its funding of LIV Golf at the end of the 2026 season, as the rebel league announced it was seeking investment opportunities from external sources. So what does the future hold for LIV and its players?",
+      "url": "https://www.skysports.com/golf/news/12040/13532498/liv-golf-future-explained-after-saudi-funding-cut-and-yasir-al-rumayyan-expected-to-step-down",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-bryson-dechambeau_7235351.jpg?20260430162053",
+      "published": "2026-04-30T13:45:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:05.729958",
+      "fetched_at": "2026-04-30T16:18:41.637287",
       "priority_score": 86,
       "categories": [
         "transfers",
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-04-30T15:02:28.430685",
-      "title_tr": "Suudi PIF, LIV Golf finansmanını çekecek",
-      "summary_tr": "Suudi Arabistan Kamu Yatırım Fonu (PIF), 2026 sezonunun sonunda LIV Golf finansmanını sonlandıracağını doğruladı."
-    },
-    {
-      "title": "VAR Review: Arsenal's second penalty should've bee...",
-      "summary": "Both Arsenal and Atletico Madrid got penalties in the first leg of their UEFA Champions League semifinal tie, but were the Gunners unjustly denied a second one?",
-      "url": "https://www.espn.com/soccer/story/_/id/48631838/var-review-arsenal-gotten-second-penalty-vs-atletico-madrid",
-      "image_url": null,
-      "published": "2026-04-30T14:42:55",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.598332",
-      "priority_score": 80,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "la_liga",
-        "champions_league"
-      ],
-      "processed_at": "2026-04-30T15:02:28.364005",
-      "title_tr": "VAR İncelemesi: Arsenal'in ikinci penaltısı şu şekilde olmalıydı...",
-      "summary_tr": "Hem Arsenal hem de Atletico Madrid, UEFA Şampiyonlar Ligi yarı final beraberliğinin ilk ayağında penaltılar aldı, ancak Arsenal'in ikinci maçı haksız yere reddedildi mi?"
+      "processed_at": "2026-04-30T16:22:00.768853",
+      "title_tr": "LIV Golf Soru-Cevap: Suudi desteği olmadan gelecekte neler olacak?",
+      "summary_tr": "Suudi Arabistan Kamu Yatırım Fonu (PIF), isyancı ligin dış kaynaklardan yatırım fırsatları aradığını açıklamasının ardından LIV Golf'e olan finansmanını 2026 sezonunun sonunda sonlandıracağını doğruladı. Peki LIV ve oyuncuları için gelecekte neler var?"
     },
     {
       "title": "Why Bayern Munich will still beat PSG in the UEFA Champions League semi-finals",
@@ -96,7 +74,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:56.800808",
+      "fetched_at": "2026-04-30T16:19:29.088908",
       "priority_score": 76,
       "categories": [
         "match_results",
@@ -104,7 +82,7 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.587343",
+      "processed_at": "2026-04-30T16:22:00.901477",
       "title_tr": "Bayern Münih neden UEFA Şampiyonlar Ligi yarı finalinde PSG'yi yenecek?",
       "summary_tr": "Bayern Münih, UEFA Şampiyonlar Ligi yarı final ilk maçını Paris Saint-Germain'e kaybetti ancak kendi sahasında beraberliği tersine çevirerek finale ulaşmak için ihtiyaç duyduğu sonucu alacağından emin olacak..."
     },
@@ -118,13 +96,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:01:19.529241",
+      "fetched_at": "2026-04-30T16:20:51.265324",
       "priority_score": 71,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-30T15:02:29.054095",
+      "processed_at": "2026-04-30T16:22:01.299691",
       "title_tr": "Galatasaray’da Icardi belirsizliği: Yerine 2 yerli aday",
       "summary_tr": "Galatasaray, Mauro Icardi’nin geleceğine dair kararını henüz netleştirmezken Arjantinli golcünün takımdan ayrılma ihtimali güç kazandı. Sarı-kırmızılı ekip, bu doğrultuda forvet hattı için iki yerli adayı gündemine aldı."
     },
@@ -138,16 +116,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:27.963502",
+      "fetched_at": "2026-04-30T16:19:05.737134",
       "priority_score": 68,
       "categories": [
         "breaking_news",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.528756",
+      "processed_at": "2026-04-30T16:22:00.806528",
       "title_tr": "Şampiyonlar Ligi incelemesi: buz gibi bir klasik, Díaz'ın mükemmel zamanlaması ve katı bir savunmacı",
-      "summary_tr": "Yarı finallerin ilk ayağı, Madrid'de dokuz gollük bir gerilim ve gergin bir geceye sahne oldu. Gelecek haftanın maçları bir ziyafet olacak Futbolun önde gelen sıcak alım emtialarından biri olarak rolü, Salı günü Paris Saint-Germain ile Bayern Münih arasında Paris Saint-Germain ile Bayern Münih arasında oynanan dokuz gollük mücadelenin ardından birinci dereceye yükseldi."
+      "summary_tr": "Yarı finallerin ilk ayağı, Madrid'de dokuz gollük bir gerilim ve gergin bir geceye sahne oldu. Gelecek haftanın maçları bir ziyafet olacak Futbolun önde gelen sıcak alım ürünü olarak rolü, Salı günü Paris Saint-Germain ile Bayern Münih arasında Paris Saint-Germain ile Bayern Münih arasında oynanan dokuz gollü mücadelenin ardından birinci dereceye yükseldi."
     },
     {
       "title": "How to watch Sky Sports' Big Weekend",
@@ -159,55 +137,75 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:05.730152",
+      "fetched_at": "2026-04-30T16:18:41.637923",
       "priority_score": 66,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-04-30T15:02:28.439158",
+      "processed_at": "2026-04-30T16:22:00.790478",
       "title_tr": "Sky Sports'un Büyük Hafta Sonu nasıl izlenir",
       "summary_tr": "Futbol, ​​Formula 1, kriket, golf ve ragbi ligi dünyaları, heyecan verici bir hafta sonu olacağa benzeyen etkinlik için bir araya geliyor ve hepsi 1 Mayıs'tan 4 Mayıs'a kadar Sky Sports Büyük Hafta Sonu'nda özel olarak yayınlanıyor."
     },
     {
-      "title": "Waarom spitsen als Kane zeldzaam zijn",
-      "summary": "Harry Kane liet zich weer zien bij Bayern München, ondanks de nederlaag tegen PSG. Bas van den Hoven en Pieter Zwart bespreken de kwaliteiten van de Engelsman en waarom hij zich onderscheidt van andere spitsen.",
-      "url": "https://www.vi.nl/video/waarom-spitsen-als-kane-zeldzaam-zijn",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-04-30t140416-waarom-spitsen-als-kane-zeldzaam-zijn.jpg?width=1200",
-      "published": "2026-04-30T14:45:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Why Coventry talks are key to Lampard future",
+      "summary": "Coventry boss Frank Lampard is attracting interest from Premier League clubs - but talks with the Sky Blues are key to his future.",
+      "url": "https://www.bbc.com/sport/football/articles/cq8px38ewxyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-04-30T15:30:21",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-30T15:02:25.978440",
-      "priority_score": 57,
+      "fetched_at": "2026-04-30T16:18:29.632483",
+      "priority_score": 55,
       "categories": [
-        "bundesliga"
+        "premier_league",
+        "serie_a"
       ],
-      "processed_at": "2026-04-30T15:02:29.461331",
-      "title_tr": "Kane gibi forvetler neden nadir?",
-      "summary_tr": "Harry Kane, PSG yenilgisine rağmen Bayern Münih'te yeniden boy gösterdi. Bas van den Hoven ve Pieter Zwart, İngiliz futbolcunun niteliklerini ve diğer forvetlerden neden farklı olduğunu tartışıyor."
+      "processed_at": "2026-04-30T16:22:00.754205",
+      "title_tr": "Coventry görüşmeleri neden Lampard'ın geleceği açısından önemli?",
+      "summary_tr": "Coventry'nin patronu Frank Lampard, Premier Lig kulüplerinin ilgisini çekiyor ancak Sky Blues ile yapacağı görüşmeler onun geleceği açısından çok önemli."
     },
     {
-      "title": "Borussia Dortmund announce 2026/27 pre-season tour of Japan",
-      "summary": "Borussia Dortmund will tour Japan as part of their pre-season preparations for the 2026/27 campaign, the club have confirmed.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-announce-pre-season-tour-2026-2027-japan-37156",
-      "image_url": null,
-      "published": "2026-04-30T09:49:40",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "title": "PFDK'dan Ederson kararı!",
+      "summary": "Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'in 31. haftasında oynanan Galatasaray maçında kırmızı kart gören Ederson'a 3 maç men cezası verildiğini açıkladı.",
+      "url": "https://www.haberturk.com/son-dakika-pfdk-dan-ederson-karari-3881411-spor",
+      "image_url": "https://im.haberturk.com/l/2026/04/30/ver1777563141/3881411/jpg/1280x1280",
+      "published": "2026-04-30T15:41:40",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:56.798324",
+      "fetched_at": "2026-04-30T16:20:14.146882",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-04-30T16:22:00.904159",
+      "title_tr": "PFDK'dan Ederson kararı!",
+      "summary_tr": "Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'in 31. haftasında oynanan Galatasaray maçında kırmızı kart gören Ederson'a 3 maç men cezası verildiğini açıkladı."
+    },
+    {
+      "title": "Saudi's PIF to pull LIV Golf funding",
+      "summary": "Saudi Arabia's Public Investment Fund (PIF) confirmed it will end its funding for LIV Golf at the end of the 2026 season.",
+      "url": "https://www.skysports.com/golf/news/12040/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-liv-golf-south-africa_7235049.jpg?20260430121910",
+      "published": "2026-04-30T12:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:18:41.637731",
       "priority_score": 86,
       "categories": [
         "transfers",
-        "breaking_news",
-        "bundesliga"
+        "match_results",
+        "breaking_news"
       ],
-      "processed_at": "2026-04-30T15:02:28.560683",
-      "title_tr": "Borussia Dortmund, 2026/27 sezon öncesi Japonya turunu duyurdu",
-      "summary_tr": "Kulüp, Borussia Dortmund'un 2026/27 sezonuna yönelik sezon öncesi hazırlıkları kapsamında Japonya turnesine çıkacağını doğruladı."
+      "processed_at": "2026-04-30T16:22:00.784312",
+      "title_tr": "Suudi PIF, LIV Golf finansmanını çekecek",
+      "summary_tr": "Suudi Arabistan Kamu Yatırım Fonu (PIF), 2026 sezonunun sonunda LIV Golf finansmanını sonlandıracağını doğruladı."
     },
     {
       "title": "Were Arsenal right to be 'fuming' with refereeing after Atletico draw?",
@@ -219,7 +217,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-30T14:58:51.484110",
+      "fetched_at": "2026-04-30T16:18:29.634444",
       "priority_score": 85,
       "categories": [
         "transfers",
@@ -227,9 +225,50 @@
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-04-30T15:02:28.389422",
-      "title_tr": "Arsenal, Atletico kura çekiminden sonra hakemlik yapmakta haklı mıydı?",
+      "processed_at": "2026-04-30T16:22:00.762213",
+      "title_tr": "Arsenal, Atletico beraberliği sonrası hakemlik konusunda 'kızgın' olmakta haklı mıydı?",
       "summary_tr": "Mikel Arteta, Arsenal'in Atletico Madrid'le berabere kalmasından sonra hakemlerle \"kızgın\" kaldı; neyi doğru, neyi yanlış buldular?"
+    },
+    {
+      "title": "Manchester United target West Ham’s Diouf and confirm new Mainoo contract",
+      "summary": "United to prioritise midfield but also looking at left flankMainoo gets deal to 2031 after being restored by CarrickWest Ham’s El Hadji Malick Diouf has emerged as a target for Manchester United as they weigh up a summer move for a left-back.United are looking at bringing in competition for Luke Sha",
+      "url": "https://www.theguardian.com/football/2026/apr/30/manchester-united-west-ham-el-hadji-malick-diouf-target-kobbie-mainoo-new-contract",
+      "image_url": null,
+      "published": "2026-04-30T15:00:17",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:19:05.737563",
+      "priority_score": 83,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-04-30T16:22:00.810930",
+      "title_tr": "Manchester United, West Ham'dan Diouf'u hedefliyor ve yeni Mainoo sözleşmesini onaylıyor",
+      "summary_tr": "United orta sahaya öncelik verecek ama aynı zamanda sol kanada da bakıyor Mainoo, CarrickWest Ham'dan El Hadji Malick Diouf tarafından yenilendikten sonra 2031'e kadar sözleşme imzaladı, sol bek için yaz hamlesini tartan Manchester United'ın hedefi haline geldi.United, Luke Sha için rekabeti artırmayı düşünüyor"
+    },
+    {
+      "title": "Borussia Dortmund announce 2026/27 pre-season tour of Japan",
+      "summary": "Borussia Dortmund will tour Japan as part of their pre-season preparations for the 2026/27 campaign, the club have confirmed.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-announce-pre-season-tour-2026-2027-japan-37156",
+      "image_url": null,
+      "published": "2026-04-30T09:49:40",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:19:29.086355",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-04-30T16:22:00.880060",
+      "title_tr": "Borussia Dortmund, 2026/27 sezon öncesi Japonya turunu duyurdu",
+      "summary_tr": "Kulüp, Borussia Dortmund'un 2026/27 sezonuna yönelik sezon öncesi hazırlıkları kapsamında Japonya turnesine çıkacağını doğruladı."
     },
     {
       "title": "Manchester United, Mainoo'nun sözleşmeni uzattı",
@@ -241,13 +280,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:00:52.813424",
+      "fetched_at": "2026-04-30T16:20:26.462919",
       "priority_score": 81,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.724924",
+      "processed_at": "2026-04-30T16:22:01.030085",
       "title_tr": "Manchester United, Mainoo'nun sözleşmeni uzattı",
       "summary_tr": "İngiltere Premier Lig ekiplerinden Manchester United, 21 yaşındaki orta saha Kobbie Mainoo ile Haziran 2031'e kadar geçerli yeni bir sözleşme imzaladı."
     },
@@ -261,57 +300,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-30T14:58:51.484647",
+      "fetched_at": "2026-04-30T16:18:29.633863",
       "priority_score": 80,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.395665",
+      "processed_at": "2026-04-30T16:22:00.758360",
       "title_tr": "İngiltere kaptanı Williamson yeni Arsenal anlaşmasını imzaladı",
       "summary_tr": "Leah Williamson, son haftalarda geleceğini kulübe adayan dördüncü oyuncu olurken, Kim Little, Stina Blackstenius ve Steph Catley de yeni anlaşmalara imza attı."
-    },
-    {
-      "title": "Canada denies Iran envoy entry for FIFA congress",
-      "summary": "Canadian Foreign Affairs Minister Anita Anand said Wednesday it was her \"understanding\" that Iranian soccer officials were denied entry into her country ahead of the FIFA Congress meeting in Vancouver just weeks before the start of the World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/48632571/canada-unintentionally-denies-iran-entry-fifa-congress",
-      "image_url": null,
-      "published": "2026-04-30T13:37:39",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.599078",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-30T15:02:28.365164",
-      "title_tr": "Kanada, İran elçisinin FIFA kongresine girişini reddetti",
-      "summary_tr": "Kanada Dışişleri Bakanı Anita Anand Çarşamba günü yaptığı açıklamada, Dünya Kupası'nın başlamasına sadece haftalar kala Vancouver'da yapılacak FIFA Kongre toplantısı öncesinde İranlı futbol yetkililerinin ülkesine girişlerinin reddedildiğini \"anladığını\" söyledi."
-    },
-    {
-      "title": "Police deny motorcade request for FIFA's Infantino...",
-      "summary": "A request for FIFA president Gianni Infantino to be given a police escort while in Vancouver, British Columbia, for FIFA meetings has been denied, the Vancouver Police Department confirmed Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48630108/vancouver-police-deny-motorcade-request-fifa-infantino",
-      "image_url": null,
-      "published": "2026-04-30T13:37:39",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.599646",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-04-30T15:02:28.366716",
-      "title_tr": "Polis, FIFA'nın Infantino takımı için konvoy talebini reddetti",
-      "summary_tr": "Vancouver Polis Departmanı Çarşamba günü yaptığı açıklamada, FIFA başkanı Gianni Infantino'ya FIFA toplantıları için Vancouver, Britanya Kolumbiyası'ndayken polis eskortu verilmesi talebinin reddedildiğini doğruladı."
     },
     {
       "title": "Millie Bright, serial silverware winner, signs off with a legacy few will match",
@@ -323,36 +320,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:27.961927",
+      "fetched_at": "2026-04-30T16:19:05.739729",
       "priority_score": 73,
       "categories": [
         "transfers",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.506030",
+      "processed_at": "2026-04-30T16:22:00.837279",
       "title_tr": "Seri gümüş madalya kazanan Millie Bright, çok az kişinin eşleşebileceği bir mirasa imza attı",
       "summary_tr": "Kulübü ve ülkesi için standartları belirleyen baskın bir savunmacı olan Chelsea'nin yiğit oyuncusu, uzun bir sakatlık mücadelesinin ardından takımdan ayrıldığını söyledi Millie Bright'ın sesi çok çabuk boğuldu ve oyunculuk kariyerinin sonunu duyurmak için duygu dolu bir veda videosu sırasında sözlerini zar zor söyleyebildi."
-    },
-    {
-      "title": "From Shankly v Revie to the ‘ghost goal’: all-English European semi-finals",
-      "summary": "Before Nottingham Forest face Aston Villa in the Europa League, we look at seven other all-English semi-final clashes in EuropeThere can be few more enjoyable feelings for an away player than to silence Anfield. Billy Bremner did so in the first leg of this tie when he headed home unmarked to score ",
-      "url": "https://www.theguardian.com/football/2026/apr/30/from-shankly-v-revie-to-the-ghost-goal-all-english-european-semi-finals",
-      "image_url": null,
-      "published": "2026-04-30T07:00:11",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:59:27.962256",
-      "priority_score": 68,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-04-30T15:02:28.513154",
-      "title_tr": "Shankly v Revie'den 'hayalet hedefe': tamamı İngiliz Avrupa yarı finalleri",
-      "summary_tr": "Nottingham Forest, Avrupa Ligi'nde Aston Villa ile karşılaşmadan önce, Avrupa'daki diğer yedi İngiliz yarı final karşılaşmasına bakıyoruz. Bir deplasman oyuncusu için Anfield'ı susturmaktan daha keyifli çok az duygu olabilir. Billy Bremner bu beraberliğin ilk ayağında işaretsiz bir şekilde gol atmak için evine gittiğinde bunu yaptı."
     },
     {
       "title": "Osimhen'den Fenerbahçe itirafı! 'En unutulmazı'",
@@ -364,34 +341,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:00:52.813491",
+      "fetched_at": "2026-04-30T16:20:26.463006",
       "priority_score": 66,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-30T15:02:28.732487",
+      "processed_at": "2026-04-30T16:22:01.036798",
       "title_tr": "Osimhen'den Fenerbahçe itirafı! 'En unutulmazı'",
       "summary_tr": "Galatasaray'ın Nijeryalı golcüsü Victor Osimhen, samimi açıklamalarda bulundu."
     },
     {
-      "title": "Why Rayo Vallecano's European run is the miracle o...",
-      "summary": "Rayo Vallecano, who train on a pitch that has potholes and play in a stadium where opponents mock the facilities, are on the cusp of a European final.",
-      "url": "https://www.espn.com/soccer/story/_/id/48611523/why-rayo-vallecanos-european-run-miracle-season",
+      "title": "England to leave Tottenham in summer",
+      "summary": "Tottenham captain Bethany England can leave \"feeling proud\" of what she has achieved at the club, says managing director Andy Rogers.",
+      "url": "https://www.bbc.com/sport/football/articles/c62edg8k4l8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-04-30T14:14:23",
-      "source": "ESPN FC",
+      "published": "2026-04-30T15:02:06",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.601002",
+      "fetched_at": "2026-04-30T16:18:29.634613",
       "priority_score": 65,
       "categories": [
-        "breaking_news"
+        "transfers"
       ],
-      "processed_at": "2026-04-30T15:02:28.374517",
-      "title_tr": "Rayo Vallecano'nun Avrupa koşusu neden bir mucize?",
-      "summary_tr": "Çukurlu bir sahada antrenman yapan ve rakiplerinin tesislerle alay ettiği bir stadyumda oynayan Rayo Vallecano, Avrupa finalinin eşiğinde."
+      "processed_at": "2026-04-30T16:22:00.763257",
+      "title_tr": "İngiltere yazın Tottenham'dan ayrılacak",
+      "summary_tr": "Tottenham kaptanı Bethany England, genel müdür Andy Rogers, kulüpte başardıklarından \"gurur duyarak\" ayrılabileceğini söyledi."
     },
     {
       "title": "ManU, Mainoo ile sözleşme uzattı!",
@@ -403,15 +380,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:00:43.244406",
+      "fetched_at": "2026-04-30T16:20:14.147346",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.614176",
+      "processed_at": "2026-04-30T16:22:00.929862",
       "title_tr": "ManU, Mainoo ile sözleşme uzattı!",
       "summary_tr": "Manchester United, genç orta saha Kobbie Mainoo ile sözleşmesini Haziran 2031’e kadar uzattı."
+    },
+    {
+      "title": "'Oh my goodness!' | Rose shanks bunker shot into water!",
+      "summary": "Justin Rose had a moment to forget at the very first hole of the Miami Championship, as the Englishman shanked a bunker shot into the water!",
+      "url": "https://www.skysports.com/watch/video/13538524/justin-rose-shanks-bunker-shot-into-water-at-miami-championship-oh-my-goodness",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-golf-miami-championship_7235403.jpg?20260430165108",
+      "published": "2026-04-30T16:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:18:41.637586",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-04-30T16:22:00.780184",
+      "title_tr": "'Aman tanrım!' | Gül saplı sığınak suya vuruldu!",
+      "summary_tr": "Justin Rose, Miami Şampiyonası'nın ilk çukurunda İngiliz'in suya sığınak atışı yaparken unutacağı bir an yaşadı!"
     },
     {
       "title": "Arteta slams Eze penalty decision as Rice claims ref was 'provoked'",
@@ -423,7 +419,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:05.730220",
+      "fetched_at": "2026-04-30T16:18:41.638012",
       "priority_score": 61,
       "categories": [
         "breaking_news",
@@ -431,7 +427,7 @@
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.443884",
+      "processed_at": "2026-04-30T16:22:00.793954",
       "title_tr": "Rice, hakemin 'kışkırtıldığını' iddia ederken Arteta, Eze'nin penaltı kararını eleştirdi",
       "summary_tr": "Mikel Arteta, Arsenal takımının Atletico Madrid ile Şampiyonlar Ligi yarı finalinin ilk ayağında 1-1 berabere kalmasının ardından Eberechi Eze'ye verilen penaltıyı bozma kararını \"tamamen kabul edilemez\" olarak nitelendirdi."
     },
@@ -445,7 +441,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:05.730284",
+      "fetched_at": "2026-04-30T16:18:41.638100",
       "priority_score": 61,
       "categories": [
         "breaking_news",
@@ -453,7 +449,7 @@
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-04-30T15:02:28.449435",
+      "processed_at": "2026-04-30T16:22:00.801715",
       "title_tr": "UEFA, Dermot'un kararını açıklamasının ardından Arsenal'in penaltı kararına ilişkin açıklama yayınladı",
       "summary_tr": "UEFA, Arsenal'in Atletico Madrid'le oynanan Şampiyonlar Ligi yarı final ilk maçında geç penaltı kararının neden bozulduğunu açıklayan bir açıklama yayınladı."
     },
@@ -467,13 +463,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:00:52.813563",
+      "fetched_at": "2026-04-30T16:20:26.463083",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-30T15:02:28.741768",
+      "processed_at": "2026-04-30T16:22:01.044908",
       "title_tr": "Lucas Torreira transfer konusunda son kararını verdi!",
       "summary_tr": "Galatasaray'da ailesinin yakınında olmak istediği için takımdan ayrılmayı düşündüğü iddia edilen Uruguaylı orta saha oyuncusu Lucas Torreira, geleceği hakkında karar verdi."
     },
@@ -487,36 +483,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:01:19.528741",
+      "fetched_at": "2026-04-30T16:20:51.264912",
       "priority_score": 61,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-04-30T15:02:29.036015",
+      "processed_at": "2026-04-30T16:22:01.283668",
       "title_tr": "Beşiktaş'tan golcü operasyonu: Hedef Fransız genç yıldız",
       "summary_tr": "Beşiktaş, gelecek sezon için transfer çalışmalarına hız verdi. Siyah-beyazlılar, hücum hattı için rotasını Nice'in devre arasında Eintracht Frankfurt'a kiraladığı 23 yaşındaki Elye Wahi'ye çevirdi."
-    },
-    {
-      "title": "Man Utd can win Premier League next season - Mount",
-      "summary": "Manchester United's Mason Mount feels the club can end their 13-year wait for a Premier League title next season.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzl47l5l2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-04-30T07:00:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-04-30T14:58:51.485488",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-30T15:02:28.409521",
-      "title_tr": "Man Utd gelecek sezon Premier Lig'i kazanabilir - Mount",
-      "summary_tr": "Manchester Unitedlı Mason Mount, kulübün gelecek sezon Premier Lig şampiyonluğu için 13 yıllık bekleyişine son verebileceğini düşünüyor."
     },
     {
       "title": "Captain. Leader. Far-right sympathiser. Terry joins ranks of football’s radicalised | Jonathan Liew",
@@ -528,55 +504,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-30T14:59:27.960339",
+      "fetched_at": "2026-04-30T16:19:05.739003",
       "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-04-30T15:02:28.477442",
+      "processed_at": "2026-04-30T16:22:00.826304",
       "title_tr": "Kaptan. Lider. Aşırı sağ sempatizanı. Terry futbolun radikalleşenleri arasına katıldı | Jonathan Liew",
       "summary_tr": "John Terry'nin internet kanalına olan yolculuğu hiçbir şekilde münferit bir durum değil; futbolcuları bu kadar duyarlı kılan şey nedir? O yüzden kendimize soruyoruz: iş bu noktaya nasıl geldi? İşaretleri kaçırdık mı? Önemsenmeyen kırmızı bayraklar, kulakları tıkayan yardım çığlıkları, alınmayan yol ayrımları var mıydı?"
     },
     {
-      "title": "Joris Mathijsen nieuwe technisch directeur Fortuna Sittard",
-      "summary": "Joris Mathijsen is vanaf 1 juni de nieuwe technisch directeur van Fortuna Sittard. De 84-voudig Oranje-international volgt de vertrekkende Américo Branco op in Limburg. Mathijsen was eerder technisch directeur bij Willem II en ADO Den Haag en tekende een contract tot medio 2029.",
-      "url": "https://www.vi.nl/nieuws/joris-mathijsen-nieuwe-technisch-directeur-fortuna-sittard",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/30/acf66b609e02cfeb8c946a25eee606b503d7c67a.jpg?width=1200",
-      "published": "2026-04-30T12:02:00",
+      "title": "Endrick: 'De voetbalwereld is geen leuke plek'",
+      "summary": "De nog altijd pas negentienjarige Endrick kende een stroeve start tijdens zijn huurperiode bij Olympique Lyonnais, maar is de laatste weken helemaal opgebloeid. De Braziliaanse scherpschutter, onder contract bij Real Madrid, hoopt dan ook op een selectie voor het WK van Carlo Ancelotti, maar plaatst",
+      "url": "https://www.vi.nl/nieuws/endrick-de-voetbalwereld-is-geen-leuke-plek",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/30/faf50e56c698a283cc49b8faaf2c019ffc928284.jpg?width=1200",
+      "published": "2026-04-30T15:16:58",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-04-30T15:02:25.979417",
+      "fetched_at": "2026-04-30T16:21:57.858200",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "serie_a"
+        "la_liga"
       ],
-      "processed_at": "2026-04-30T15:02:29.662675",
-      "title_tr": "Fortuna Sittard'ın yeni teknik direktörü Joris Mathijsen",
-      "summary_tr": "Joris Mathijsen, 1 Haziran'dan itibaren Fortuna Sittard'ın yeni teknik direktörü olacak. 84 kez Hollandalı milli oyuncu, Limburg'da takımdan ayrılan Américo Branco'nun yerini alacak. Mathijsen daha önce Willem II ve ADO Den Haag'da teknik direktör olarak görev yapmıştı ve 2029 ortasına kadar sözleşme imzaladı."
-    },
-    {
-      "title": "Mainoo verlengt bij Manchester United tot 2031",
-      "summary": "Kobbie Mainoo heeft zijn contract bij Manchester United officieel verlengd tot medio 2031. De 21-jarige middenvelder tekende een verbeterde verbintenis zonder afkoopclausule.",
-      "url": "https://www.vi.nl/nieuws/mainoo-verlengt-bij-manchester-united-tot-2031",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/04/29/e2a4e66bd3467e8887cc5adca03c29c11cc15d3a.jpg?width=1200",
-      "published": "2026-04-30T11:41:13",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-04-30T15:02:25.979563",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-04-30T15:02:29.695932",
-      "title_tr": "Mainoo'nun Manchester United'daki sözleşmesi 2031'e kadar uzatıldı",
-      "summary_tr": "Kobbie Mainoo, Manchester United ile olan sözleşmesini resmi olarak 2031 ortasına kadar uzattı. 21 yaşındaki orta saha oyuncusu, herhangi bir satın alma maddesi olmaksızın iyileştirilmiş bir sözleşmeye imza attı."
+      "processed_at": "2026-04-30T16:22:01.622449",
+      "title_tr": "Endrick: 'Futbol dünyası güzel bir yer değil'",
+      "summary_tr": "Henüz 19 yaşında olan Endrick, Olympique Lyonnais'teki kiralama döneminde zorlu bir başlangıç ​​yaptı ancak son haftalarda tamamen gelişti. Real Madrid'le sözleşmesi bulunan Brezilyalı nişancı, Carlo Ancelotti'nin Dünya Kupası'na katılmasını umuyor ancak"
     },
     {
       "title": "TRANSFER HABERİ | Archie Brown için Fenerbahçe’ye teklif geldi",
@@ -588,35 +544,73 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-04-30T15:01:19.526270",
+      "fetched_at": "2026-04-30T16:20:51.263300",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-04-30T15:02:28.935372",
+      "processed_at": "2026-04-30T16:22:01.193695",
       "title_tr": "TRANSFER HABERİ | Archie Brown için Fenerbahçe’ye teklif geldi",
       "summary_tr": "Nottingham Forest, Archie Brown için Fenerbahçe’ye teklifte bulundu."
     },
     {
-      "title": "UCL talking points: Are PSG favorites? Arsenal rig...",
-      "summary": "ESPN's Julien Laurens, Mark Ogden, Gab Marcotti and Sam Tighe weigh in on all the moments that mattered.",
-      "url": "https://www.espn.com/soccer/story/_/id/48629373/ucl-talking-points-psg-favorites-arsenal-right-aggrieved",
+      "title": "‘Football isn’t a nice place’: Endrick on Brazil hopes, his baby and Bellingham’s help",
+      "summary": "After stalling at Real Madrid, the forward has found form on loan at Lyon and is desperate to make Carlo Ancelotti’s World Cup squadWith less than a month to go before Carlo Ancelotti announces the Brazil squad for the World Cup, Endrick has been reborn in his nation’s canary yellow shirt. But the 1",
+      "url": "https://www.theguardian.com/football/2026/apr/30/endrick-brazil-lyon-real-madrid-jude-bellingham",
       "image_url": null,
-      "published": "2026-04-30T14:42:56",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-04-30T11:00:15",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-04-30T14:58:44.598623",
-      "priority_score": 55,
+      "fetched_at": "2026-04-30T16:19:05.741110",
+      "priority_score": 53,
       "categories": [
-        "premier_league",
-        "champions_league"
+        "la_liga",
+        "world_cup"
       ],
-      "processed_at": "2026-04-30T15:02:28.364371",
-      "title_tr": "UCL'in konuşma konuları: PSG favori mi? Arsenal donanımı...",
-      "summary_tr": "ESPN'den Julien Laurens, Mark Ogden, Gab Marcotti ve Sam Tighe tüm önemli anlara ağırlık veriyor."
+      "processed_at": "2026-04-30T16:22:00.855303",
+      "title_tr": "'Futbol güzel bir yer değil': Brezilya'da Endrick, bebeğinin ve Bellingham'ın yardımını umuyor",
+      "summary_tr": "Real Madrid'de oyalandıktan sonra forvet, Lyon'da kiralık olarak formunu buldu ve Carlo Ancelotti'nin Dünya Kupası kadrosuna girme konusunda çaresiz durumda. Carlo Ancelotti'nin Dünya Kupası için Brezilya kadrosunu açıklamasına bir aydan az bir süre kala Endrick, ülkesinin kanarya sarısı formasıyla yeniden doğdu. Ama 1"
+    },
+    {
+      "title": "Liverpool have to rebuild again as their great team hits the end of an era",
+      "summary": "Trent Alexander-Arnold has gone, Andy Robertson and Mo Salah are going, and Alisson and Virgil van Dijk may soon follow. Just how much experience are Liverpool losing?By Opta AnalystLiverpool have had some fantastic players and enjoyed plenty of success in the last decade. In recent years, they have",
+      "url": "https://www.theguardian.com/football/2026/apr/30/liverpool-great-team-end-era-alexander-arnold-robertson-salah-van-dijk-alisson",
+      "image_url": null,
+      "published": "2026-04-30T11:07:56",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:19:05.741504",
+      "priority_score": 53,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-04-30T16:22:00.861210",
+      "title_tr": "Harika takımı bir dönemin sonuna yaklaşırken Liverpool yeniden inşa edilmek zorunda",
+      "summary_tr": "Trent Alexander-Arnold gitti, Andy Robertson ve Mo Salah gidiyor, Alisson ve Virgil van Dijk de yakında onları takip edebilir. Liverpool ne kadar deneyim kaybediyor? Opta Analyst'ten Liverpool son on yılda harika oyunculara sahip oldu ve pek çok başarıya imza attı. Son yıllarda,"
+    },
+    {
+      "title": "Mount expects Man Utd to be title challengers next season",
+      "summary": "Mason Mount believes Manchester United boast the quality and mindset to challenge for the Premier League title next season.",
+      "url": "https://www.skysports.com/football/news/12040/13538323/mason-mount-man-utd-midfielder-expects-michael-carricks-side-to-be-premier-league-title-challengers-next-season",
+      "image_url": "https://e1.365dm.com/25/12/1920x1080/skysports-football-mason-mount_7105164.jpg?20251208213654",
+      "published": "2026-04-30T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-04-30T16:18:41.637382",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-04-30T16:22:00.773169",
+      "title_tr": "Mount, Man Utd'un gelecek sezon şampiyonluk mücadelesi veren takım olmasını bekliyor",
+      "summary_tr": "Mason Mount, Manchester United'ın gelecek sezon Premier Lig şampiyonluğu için mücadele edecek kalite ve zihniyete sahip olduğuna inanıyor."
     }
   ]
 }
