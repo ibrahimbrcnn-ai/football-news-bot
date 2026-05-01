@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T15:51:01.317476",
+  "timestamp": "2026-05-01T16:49:12.610628",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-01T15:46:53.002337",
+      "fetched_at": "2026-05-01T16:45:10.907836",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,7 +20,7 @@
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-05-01T15:49:36.803373",
+      "processed_at": "2026-05-01T16:47:48.412788",
       "title_tr": "Jamal Musiala, Bayern Münih'in kampanyasında kritik bir noktada adım atıyor",
       "summary_tr": "Bayern Münih, Serge Gnabry'nin addüktör sakatlığı nedeniyle uzun bir süre sahalardan uzak kalacağını doğruladıktan sonra, yakın zamanda 2025/26 Bundesliga şampiyonu olan takımın kendi sahasındaki büyülü en iyi performansına geri dönmesi için Jamal Musiala'ya ihtiyacı vardı. Ve oğlan tabağa çıktı."
     },
@@ -34,14 +34,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:48:20.174854",
+      "fetched_at": "2026-05-01T16:46:31.388019",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:37.072115",
+      "processed_at": "2026-05-01T16:47:48.785010",
       "title_tr": "Galatasaray’dan Osimhen için rekor bonservis beklentisi",
       "summary_tr": "Süper Lig’de şampiyonluk yarışında öne çıkan Galatasaray’da Victor Osimhen’in geleceği transfer gündeminin merkezinde yer alıyor. Nijeryalı golcüye Avrupa’nın önde gelen kulüplerinin ilgisinin sürdüğü belirtiliyor."
     },
@@ -55,35 +55,115 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:58.505231",
+      "fetched_at": "2026-05-01T16:46:07.055029",
       "priority_score": 91,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:36.933995",
+      "processed_at": "2026-05-01T16:47:48.575902",
       "title_tr": "İlgi arttı, fiyat yükseldi! İşte Galatasaray'ın Osimhen için belirlediği yeni bonservis bedeli",
       "summary_tr": "Galatasaray, sergilediği performansla adı sık sık transfer haberlerine konu olan Victor Osimhen'e olan ilgi artınca daha önce belirlediği bonservis bedelinde artışa gitti. İşte detaylar..."
     },
     {
-      "title": "'If Kane scored that we'd be saying wow' - Strand Larsen shows Palace worth",
-      "summary": "Being a club's record signing brings with it pressure, but Jorgen Strand Larsen puts a difficult start behind him with a goal that could be crucial in Crystal Palace's pursuit of a first major European trophy.",
-      "url": "https://www.bbc.com/sport/football/articles/ce3pwqw02zjo?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal target Champions League history but Lyonnes promise semi-final comeback",
+      "summary": "Renée Slegers’ team take their first-leg lead to France knowing a repeat of last season’s display will see them into a second European final in a rowArsenal will attempt to become the first British women’s club to reach back-to-back European finals on Saturday as they take a 2-1 first-leg lead to Fr",
+      "url": "https://www.theguardian.com/sport/2026/may/01/arsenal-target-champions-league-history-as-lyonnes-promise-semi-final-comeback",
       "image_url": null,
-      "published": "2026-04-30T22:29:08",
+      "published": "2026-05-01T16:12:54",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:43.937131",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-01T16:47:48.354261",
+      "title_tr": "Arsenal Şampiyonlar Ligi tarihini hedefliyor ancak Lyonnes yarı finale geri dönüş sözü veriyor",
+      "summary_tr": "Renée Slegers'ın takımı, geçen sezonki gösterinin tekrarının kendilerini üst üste ikinci bir Avrupa finalinde göreceğini bilerek, ilk maçta Fransa karşısında liderliğini sürdürüyor Arsenal, ilk maçta Fr. ile 2-1 öne geçerek Cumartesi günü arka arkaya Avrupa finallerine ulaşan ilk İngiliz kadın kulübü olmaya çalışacak."
+    },
+    {
+      "title": "Rizespor sahasında 3 golle kazandı!",
+      "summary": "Trendyol Süper Lig'in 32. hafta açılış mücadelesinde Çaykur Rizespor, evinde ağırladığı Konyaspor'u 3-2 mağlup etti.",
+      "url": "https://www.haberturk.com/caykur-rizespor-3-konyaspor-2-mac-sonucu-3881656-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/01/ver1777651715/3881656/jpg/1280x1280",
+      "published": "2026-05-01T16:09:05",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:45:54.903268",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-01T16:47:48.451053",
+      "title_tr": "Rizespor sahasında 3 golle kazandı!",
+      "summary_tr": "Trendyol Süper Lig'in 32. hafta açılış mücadelesinde Çaykur Rizespor, evinde ağırladığı Konyaspor'u 3-2 mağlup etti."
+    },
+    {
+      "title": "What does future hold for Havertz after season blighted by injury?",
+      "summary": "Arsenal have largely been unable to call upon Kai Havertz in a season blighted by injury, so what does the future hold for the Germany forward?",
+      "url": "https://www.bbc.com/sport/football/articles/c70v4qq98d1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-01T15:58:12",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-01T15:45:50.398806",
-      "priority_score": 75,
+      "fetched_at": "2026-05-01T16:44:08.297234",
+      "priority_score": 65,
       "categories": [
-        "match_results",
-        "breaking_news"
+        "injuries",
+        "premier_league"
       ],
-      "processed_at": "2026-05-01T15:49:36.716744",
-      "title_tr": "Strand Larsen, Palace'ın değerini gösteriyor: 'Kane gol atsaydı vay be diyeceğiz'",
-      "summary_tr": "Bir kulübün rekora imza atması baskıyı da beraberinde getiriyor, ancak Jorgen Strand Larsen, Crystal Palace'ın ilk büyük Avrupa kupasını kazanma yolunda çok önemli olabilecek bir golle arkasında zorlu bir başlangıç ​​yapıyor."
+      "processed_at": "2026-05-01T16:47:48.282207",
+      "title_tr": "Sakatlık nedeniyle kötü geçen sezonun ardından Havertz'in geleceği ne olacak?",
+      "summary_tr": "Arsenal, sakatlık nedeniyle kötü geçen bir sezonda Kai Havertz'i büyük ölçüde göreve çağıramadı, peki Almanya forvetinin geleceği ne olacak?"
+    },
+    {
+      "title": "Arsenal to use ‘siege mentality’ in title push; Brighton bring in MMA expertise: football – live",
+      "summary": "⚽ Buildup to the weekend’s action across the leagues⚽ Things to look out for | Fixtures | Standings | Mail JohnAnd with that, I’m handing over to Luke McLaughlin, who’ll take you through to lunchtime. Laters.One of the biggest games of the bank holiday weekend doesn’t come until Monday night, when H",
+      "url": "https://www.theguardian.com/football/live/2026/may/01/european-reaction-premier-league-news-world-cup-latest-and-more-football-live",
+      "image_url": null,
+      "published": "2026-05-01T16:26:00",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:43.935957",
+      "priority_score": 63,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-01T16:47:48.339038",
+      "title_tr": "Arsenal şampiyonluk mücadelesinde 'kuşatma zihniyetini' kullanacak; Brighton MMA uzmanlığını getiriyor: futbol - canlı",
+      "summary_tr": "⚽ Ligler genelinde hafta sonu aksiyonuna hazırlık⚽ Dikkat edilmesi gerekenler | Fikstür | Puan Durumu | John'a posta gönder. Ben de görevi, seni öğle yemeğine kadar götürecek olan Luke McLaughlin'e bırakıyorum. Daha sonra. Resmi tatil hafta sonunun en büyük maçlarından biri H'nin Pazartesi gecesine kadar gelmeyecek."
+    },
+    {
+      "title": "İstanbulspor'dan 8 gollü galibiyet!",
+      "summary": "Trendyol 1. Lig'in 38. ve son haftasında İstanbulspor, evinde Adana Demirspor'u 8-1 mağlup etti. Dijlan Aydın, Ömer Faruk Duymaz (2), Özcan Şahan (2), Alieu Cham (2) ile Demeaco Duhaney'in golleriyle galibiyete uzanan İstanbulspor, sezonu 52 puanla kapattı. Küme düşmesi kesinleşen ve 78. dakikada Ah",
+      "url": "https://www.haberturk.com/istanbulspor-8-adana-demirspor-1-mac-sonucu-3881648-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/01/ver1777650462/3881648/jpg/1280x1280",
+      "published": "2026-05-01T15:56:24",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:45:54.903371",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-05-01T16:47:48.455138",
+      "title_tr": "İstanbulspor'dan 8 gollü galibiyet!",
+      "summary_tr": "Trendyol 1. Lig'in 38. ve son haftasında İstanbulspor, evinde Adana Demirspor'u 8-1 mağlup etti. Dijlan Aydın, Ömer Faruk Duymaz (2), Özcan Şahan (2), Alieu Cham (2) ile Demeaco Duhaney'in golleriyle galibiyete uzanan İstanbulspor, sezonu 52 puanla kapattı. Küme düşmesi kesinleşen ve 78. dakikada Ah"
     },
     {
       "title": "Distant Storm fancied to take 2000 Guineas crown for Appleby",
@@ -95,33 +175,33 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-01T15:46:02.103457",
+      "fetched_at": "2026-05-01T16:44:20.335088",
       "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-01T15:49:36.727495",
+      "processed_at": "2026-05-01T16:47:48.318608",
       "title_tr": "Distant Storm, Appleby için 2000 Gine tacını almayı hayal ediyor",
       "summary_tr": "Sezonun ilk Klasikleri yaklaşırken, Hafta Sonu Kazananları takımı Newmarket'taki muhteşem bir hafta sonu yarışını izlemek için yeniden bir araya geldi."
     },
     {
-      "title": "Galatasaray, kadroyu açıkladı",
-      "summary": "Galatasaray, Samsunspor maçı kamp kadrosunu duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-kadroyu-acikladi-2422884",
+      "title": "Çaykur Rizespor, Konyaspor’u 3 golle geçti",
+      "summary": "Çaykur Rizespor, sahasında ağırladığı Konyaspor karşısında gollü maçtan galip ayrıldı.",
+      "url": "https://www.cnnturk.com/spor/futbol/caykur-rizespor-konyasporu-3-golle-gecti-2422906",
       "image_url": null,
-      "published": "2026-05-01T17:23:15",
+      "published": "2026-05-01T19:15:02",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:48:20.174677",
+      "fetched_at": "2026-05-01T16:46:31.387175",
       "priority_score": 51,
       "categories": [
-        "super_lig"
+        "match_results"
       ],
-      "processed_at": "2026-05-01T15:49:37.064390",
-      "title_tr": "Galatasaray, kadroyu açıkladı",
-      "summary_tr": "Galatasaray, Samsunspor maçı kamp kadrosunu duyurdu."
+      "processed_at": "2026-05-01T16:47:48.731598",
+      "title_tr": "Çaykur Rizespor, Konyaspor’u 3 golle geçti",
+      "summary_tr": "Çaykur Rizespor, sahasında ağırladığı Konyaspor karşısında gollü maçtan galip ayrıldı."
     },
     {
       "title": "Time for Isak & Wirtz to prove they are the future for Liverpool",
@@ -133,113 +213,33 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-01T15:45:50.397647",
+      "fetched_at": "2026-05-01T16:44:08.297070",
       "priority_score": 50,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-05-01T15:49:36.707471",
+      "processed_at": "2026-05-01T16:47:48.281639",
       "title_tr": "Isak ve Wirtz'in Liverpool'un geleceği olduklarını kanıtlama zamanı",
       "summary_tr": "Mohamed Salah olmadan Liverpool'un sorumluluk almasına ihtiyacı var ve odak noktası Alexander Isak ve Florian Wirtz üzerinde yoğunlaşacak."
     },
     {
-      "title": "Arteta to use ‘siege mentality’ in title push; De Zerbi wants ‘no crying’ at Spurs: football – live",
-      "summary": "⚽ Buildup to the weekend’s action across the leagues⚽ Things to look out for | Fixtures | Standings | Mail JohnAnd with that, I’m handing over to Luke McLaughlin, who’ll take you through to lunchtime. Laters.One of the biggest games of the bank holiday weekend doesn’t come until Monday night, when H",
-      "url": "https://www.theguardian.com/football/live/2026/may/01/european-reaction-premier-league-news-world-cup-latest-and-more-football-live",
-      "image_url": null,
-      "published": "2026-05-01T15:32:43",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:46:28.397703",
-      "priority_score": 48,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-05-01T15:49:36.751126",
-      "title_tr": "Arteta, şampiyonluk mücadelesinde 'kuşatma zihniyetini' kullanacak; De Zerbi Spurs'ta 'ağlamak yok' istiyor: futbol - canlı",
-      "summary_tr": "⚽ Ligler genelinde hafta sonu aksiyonuna hazırlık⚽ Dikkat edilmesi gerekenler | Fikstür | Puan Durumu | John'a posta gönder Ve bu işi, seni öğle yemeğine kadar götürecek olan Luke McLaughlin'e bırakıyorum. Daha sonra. Resmi tatil hafta sonunun en büyük maçlarından biri H'nin Pazartesi gecesine kadar gelmeyecek."
-    },
-    {
-      "title": "Samsunspor'da 5 futbolcu Galatasaray maçında yok",
-      "summary": "Samsunspor, Galatasaray ile oynayacağı mücadele öncesi önemli eksiklerini duyurdu. Karadeniz ekibi, karşılaşmada 5 futb...",
-      "url": "https://www.yenisafak.com/spor/samsunsporda-5-futbolcu-galatasaray-macinda-yok-4820231",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/1/36ce8476-vlyv47w16sde9gcejav6z8.webp",
-      "published": "2026-05-01T18:34:14",
+      "title": "Galatasaray'da üç ayrılık birden: Sezon sonu veda edilecek",
+      "summary": "Süper Lig'de sezonun sonuna gelirken Galatasaray, 32. haftada rakibi Samsunspor'u mağlup etmesi halinde 26. şampiyonluğ...",
+      "url": "https://www.yenisafak.com/spor/galatasarayda-uc-ayrilik-birden-sezon-sonu-veda-edilecek-4820193",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/5/1/16b8763b-z8rln9wxxnhozxo2k4tp8h.webp",
+      "published": "2026-05-01T15:56:43",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:48:56.639175",
+      "fetched_at": "2026-05-01T16:47:02.599782",
       "priority_score": 47,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:37.178055",
-      "title_tr": "Samsunspor'da 5 futbolcu Galatasaray maçında yok",
-      "summary_tr": "Samsunspor, Galatasaray ile oynayacağı mücadele öncesi önemli eksiklerini duyurdu. Karadeniz ekibi, karşılaşmada 5 futb..."
-    },
-    {
-      "title": "Gaziantep FK - Beşiktaş | Canlı skor - Canlı sonuç",
-      "summary": "Trendyol Süper Lig 32. haftasında Beşiktaş deplasmanda Gaziantep FK ile karşı karşıya gelecek.Gaziantep Büyükşehir Stad...",
-      "url": "https://www.yenisafak.com/spor/gaziantep-fk--besiktas-canli-skor--canli-sonuc-4820218",
-      "image_url": null,
-      "published": "2026-05-01T17:15:21",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:48:56.640632",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-01T15:49:37.194027",
-      "title_tr": "Gaziantep FK - Beşiktaş | Canlı skor - Canlı sonuç",
-      "summary_tr": "Trendyol Süper Lig 32. haftasında Beşiktaş deplasmanda Gaziantep FK ile karşı karşıya gelecek.Gaziantep Büyükşehir Stad..."
-    },
-    {
-      "title": "Luis Enrique over kritiek na spektakel: 'Waarom respect voor waardeloze mening?'",
-      "summary": "Zeg 'PSG - Bayern' en Luis Enrique staat meteen weer helemaal aan. Vrijdag, op de persconferentie in aanloop naar het Ligue 1-duel met Lorient, begon de trainer van Paris Saint-Germain direct weer te stralen toen het spektakelstuk in de Champions League ter sprake kwam. Het was magnifiek, vond de Sp",
-      "url": "https://www.vi.nl/video/luis-enrique-stuitert-nog-steeds-van-spektakelstuk-het-was-magnifiek",
-      "image_url": "https://images.performgroup.com/transcoded/20260501/010526_EN_SPN_LIGUE_1_PSG_ENRIQUE_PRE_RD_1777645596840-1_2847_1.jpeg",
-      "published": "2026-05-01T15:30:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206309",
-      "priority_score": 47,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-01T15:49:37.261694",
-      "title_tr": "Luis Enrique gösteri üstüne eleştiri üzerine: 'Değersiz görüşlere neden saygı duyulsun ki?'",
-      "summary_tr": "'PSG - Bayern' deyince Luis Enrique hemen tekrar oyuna giriyor. Cuma günü, Lorient ile Ligue 1 karşılaşması öncesinde düzenlenen basın toplantısında, Paris Saint-Germain antrenörü, Şampiyonlar Ligi'ndeki gösteri tartışıldığında hemen yeniden gülümsemeye başladı. Muhteşemdi, diye düşündü Sp."
-    },
-    {
-      "title": "Guardiola koos bewust voor Stockport in plaats van PSG - Bayern",
-      "summary": "Waar de meesten intens genoten van de Champions League-wedstrijd Paris Saint-Germain - Bayern München, liet Pep Guardiola die wedstrijd bewust aan zich voorbij gaan. Hij koos voor Stockport County tegen Port Vale, een wedstrijd in de League One.",
-      "url": "https://www.vi.nl/nieuws/guardiola-koos-bewust-voor-stockport-in-plaats-van-psg-bayern",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/01/5a816cd6b79696d3f638bd864d6a98326cf1d48f.jpg?width=1200",
-      "published": "2026-05-01T15:10:06",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206369",
-      "priority_score": 47,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-01T15:49:37.271907",
-      "title_tr": "Guardiola bilinçli olarak PSG - Bayern yerine Stockport'u seçti",
-      "summary_tr": "Şampiyonlar Ligi karşılaşmasından en çok keyif alan Paris Saint-Germain - Bayern Münih maçına rağmen Pep Guardiola bu maçı kasıtlı olarak kaçırdı. League One maçı olan Port Vale'ye karşı Stockport County'yi seçti."
+      "processed_at": "2026-05-01T16:47:48.918657",
+      "title_tr": "Galatasaray'da üç ayrılık birden: Sezon sonu veda edilecek",
+      "summary_tr": "Süper Lig'de sezonun sonuna gelirken Galatasaray, 32. haftada rakibi Samsunspor'u mağlup etmesi halinde 26. şampiyonluğ..."
     },
     {
       "title": "Bundesliga 2, Matchday 32: Schalke on brink of promotion, Preußen Münster could be relegated",
@@ -251,15 +251,231 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-01T15:46:53.004695",
+      "fetched_at": "2026-05-01T16:45:10.910949",
       "priority_score": 46,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-01T15:49:36.829893",
+      "processed_at": "2026-05-01T16:47:48.447349",
       "title_tr": "Bundesliga 2, 32. Maç Günü: Schalke yükselmenin eşiğinde, Preußen Münster küme düşebilir",
       "summary_tr": "Schalke, 32. Maç günü Bundesliga'ya şampiyon olarak yükselebilirken, Preußen Münster, Almanya'nın ikinci kademesinde aksiyon dolu bir Pazar günü öğleden sonra Bundesliga 2'den düşen ilk takım olma tehlikesiyle karşı karşıya..."
+    },
+    {
+      "title": "Malen in bloedvorm: alleen Mbappé en Kane doen het beter",
+      "summary": "Donyell Malen is bezig aan een indrukwekkende reeks bij AS Roma. De Nederlandse aanvaller blijft maar scoren en hoort op basis van zijn cijfers inmiddels bij de absolute top in Europa.",
+      "url": "https://www.vi.nl/nieuws/malen-in-bloedvorm-alleen-mbapp-en-kane-doen-het-beter",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/01/9aac2dc7245c63bac5a9dd54818d5f1563d1ce5a.jpg?width=1200",
+      "published": "2026-05-01T15:48:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:47:45.106152",
+      "priority_score": 42,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-05-01T16:47:49.010816",
+      "title_tr": "En iyi formda öğütme: yalnızca Mbappé ve Kane bunu daha iyi yapıyor",
+      "summary_tr": "Donyell Malen AS Roma'da etkileyici bir performans sergiliyor. Hollandalı forvet gol atmaya devam ediyor ve rakamlarına göre şu anda Avrupa'nın en iyileri arasında yer alıyor."
+    },
+    {
+      "title": "Carrick: Man Utd games vs Liverpool some of my favourites",
+      "summary": "Michael Carrick has called Manchester United's meetings with Liverpool some of his favourites, while Arne Slot says victory will be an 'important' step for the Reds towards Champions League qualification.",
+      "url": "https://www.skysports.com/football/news/12040/13538881/man-utd-vs-liverpool-michael-carrick-and-arne-slot-on-premier-league-rivalry-and-league-position-ahead-of-super-sunday-showdown",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-carrick_7236214.jpg?20260501145504",
+      "published": "2026-05-01T14:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:20.334953",
+      "priority_score": 41,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-01T16:47:48.311645",
+      "title_tr": "Carrick: Man Utd-Liverpool maçları favorilerimden bazıları",
+      "summary_tr": "Michael Carrick, Manchester United'ın Liverpool ile karşılaşmasını favorilerinden biri olarak nitelendirirken Arne Slot, zaferin Kırmızılar için Şampiyonlar Ligi'ne katılma yolunda 'önemli' bir adım olacağını söyledi."
+    },
+    {
+      "title": "'Slot mikt op hereniging met transfervrije Senesi'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/slot-mikt-op-hereniging-met-transfervrije-senesi",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-05-01T16:32:26",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:47:45.105948",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-01T16:47:48.973150",
+      "title_tr": "'Slot, transfersiz Senesi'yle yeniden buluşmayı hedefliyor'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Garcia wil langer bij Ajax blijven: 'Misschien wel de rest van mijn carrière'",
+      "summary": "Als het aan Óscar García ligt, blijft hij ook na dit seizoen verbonden aan Ajax. De Spaanse interim-trainer wil zijn aflopende contract graag verlengen, maar sprak daar nog niet over met technisch directeur Jordi Cruijff. 'Misschien wil ik hier de rest van mijn carrière wel blijven', vertelde hij ti",
+      "url": "https://www.vi.nl/video/garcia-wil-langer-bij-ajax-blijven-misschien-wel-de-rest-van-mijn-carriere",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-05-01t142836-garcia-gevraagd-naar-zijn-toekomst-bij-ajax-al-contact-met-jordi-cruijff-gehad.jpg?width=1200",
+      "published": "2026-05-01T13:24:05",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:47:45.106808",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-01T16:47:49.162312",
+      "title_tr": "Garcia Ajax'ta daha uzun süre kalmak istiyor: 'Belki kariyerimin geri kalanında'",
+      "summary_tr": "Eğer karar Óscar García'ya kalırsa, bu sezondan sonra da Ajax'la ilişkisini sürdürecek. İspanyol geçici antrenör, süresi dolan sözleşmesini uzatmak istiyor ancak bu konuyu teknik direktör Jordi Cruijff ile henüz görüşmedi. Ti'ye \"Belki de kariyerimin geri kalanında burada kalmak isterim\" dedi."
+    },
+    {
+      "title": "Boluspor 2. yarıda geriden geldi!",
+      "summary": "Trendyol 1. Lig'in 38. ve son haftasında Boluspor, evinde Serik Spor'u 3-1 mağlup etti. 2. yarıda Harun Alpsoy, Doğan Can Davas ve Deniz Yıldız'ın golleriyle 1-0'dan geri dönen Boluspor, sezonu 48 puanla 16. sırada tamamladı. Küme düşmesi kesinleşen Serik Spor ise sezonu 39 puanla 17. sırada kapattı",
+      "url": "https://www.haberturk.com/boluspor-3-serik-spor-1-mac-sonucu-3881652-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/01/ver1777651446/3881652/jpg/1280x1280",
+      "published": "2026-05-01T16:04:24",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:45:54.903442",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-05-01T16:47:48.459144",
+      "title_tr": "Boluspor 2. yarıda geriden geldi!",
+      "summary_tr": "Trendyol 1. Lig'in 38. ve son haftasında Boluspor, evinde Serik Spor'u 3-1 mağlup etti. 2. yarıda Harun Alpsoy, Doğan Can Davas ve Deniz Yıldız'ın golleriyle 1-0'dan geri dönen Boluspor, sezonu 48 puanla 16. sırada tamamladı. Küme düşmesi kesinleşen Serik Spor ise sezonu 39 puanla 17. sırada kapattı"
+    },
+    {
+      "title": "Galatasaray, kadroyu açıkladı",
+      "summary": "Galatasaray, Samsunspor maçı kamp kadrosunu duyurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-kadroyu-acikladi-2422884",
+      "image_url": null,
+      "published": "2026-05-01T17:23:15",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:46:31.387864",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-05-01T16:47:48.774839",
+      "title_tr": "Galatasaray, kadroyu açıkladı",
+      "summary_tr": "Galatasaray, Samsunspor maçı kamp kadrosunu duyurdu."
+    },
+    {
+      "title": "'Where are you? Wow. It is so, so bad' - Emery's impassioned VAR rant",
+      "summary": "Aston Villa boss Unai Emery says VAR made a \"huge mistake\" in not sending off Nottingham Forest's Elliot Anderson in their Europa League semi-final first leg.",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2l4k1z0go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-01T08:43:46",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:08.298096",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-01T16:47:48.286684",
+      "title_tr": "'Neredesin? Vay. Bu çok çok kötü' - Emery'nin ateşli VAR lafı",
+      "summary_tr": "Aston Villa patronu Unai Emery, VAR'ın Nottingham Forest'tan Elliot Anderson'ı Avrupa Ligi yarı final ilk maçında oyundan atmayarak \"büyük bir hata\" yaptığını söyledi."
+    },
+    {
+      "title": "Gaziantep FK - Beşiktaş | Canlı skor - Canlı sonuç",
+      "summary": "Trendyol Süper Lig 32. haftasında Beşiktaş deplasmanda Gaziantep FK ile karşı karşıya gelecek.Gaziantep Büyükşehir Stad...",
+      "url": "https://www.yenisafak.com/spor/gaziantep-fk--besiktas-canli-skor--canli-sonuc-4820218",
+      "image_url": null,
+      "published": "2026-05-01T17:15:21",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:47:02.597771",
+      "priority_score": 47,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-01T16:47:48.892087",
+      "title_tr": "Gaziantep FK - Beşiktaş | Canlı skor - Canlı sonuç",
+      "summary_tr": "Trendyol Süper Lig 32. haftasında Beşiktaş deplasmanda Gaziantep FK ile karşı karşıya gelecek.Gaziantep Büyükşehir Stad..."
+    },
+    {
+      "title": "Fenerbahçe'de Skriniar şoku! Ne zaman sahalara dönecek?",
+      "summary": "Fenerbahçe’nin deneyimli savunma oyuncusu Milan Skriniar’ın, Beşiktaş derbisinden bu yana ciddi bir sakatlıkla mücadele ettiği ortaya çıktı. Slovak futbolcunun iki tendon yırtığı içeren kas sakatlığına rağmen forma giydiği belirtildi.",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-skriniar-soku-ne-zaman-sahalara-donecek-2422642",
+      "image_url": null,
+      "published": "2026-05-01T10:12:27",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:46:31.388777",
+      "priority_score": 46,
+      "categories": [
+        "injuries",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-01T16:47:48.838303",
+      "title_tr": "Fenerbahçe'de Skriniar şoku! Ne zaman sahalara dönecek?",
+      "summary_tr": "Fenerbahçe’nin deneyimli savunma oyuncusu Milan Skriniar’ın, Beşiktaş derbisinden bu yana ciddi bir sakatlıkla mücadele ettiği ortaya çıktı. Slovak futbolcunun iki tendon yırtığı içeren kas sakatlığına rağmen forma giydiği belirtildi."
+    },
+    {
+      "title": "'It's like we're all crying and relegated' - Spurs' De Zerbi delivers monologue",
+      "summary": "Manager Roberto de Zerbi urges Tottenham to \"silence the voice inside of us\" as the club battle to avoid relegation from the Premier League.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-01T14:26:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:08.296451",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-01T16:47:48.280599",
+      "title_tr": "'Sanki hepimiz ağlıyor ve küme düşmüş gibiyiz' - Spurs'tan De Zerbi monolog yapıyor",
+      "summary_tr": "Teknik direktör Roberto de Zerbi, kulüp Premier Lig'den düşmemek için mücadele ederken Tottenham'ı \"içimizdeki sesi susturmaya\" çağırıyor."
+    },
+    {
+      "title": "Northern Ireland to play Guinea in June friendly",
+      "summary": "Northern Ireland will play Guinea on Thursday, 4 June in an international friendly in Spain.",
+      "url": "https://www.bbc.com/sport/football/articles/c042ln6y515o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-01T15:42:47",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-01T16:44:08.297940",
+      "priority_score": 45,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-05-01T16:47:48.285387",
+      "title_tr": "Kuzey İrlanda, Haziran hazırlık maçında Gine ile karşılaşacak",
+      "summary_tr": "Kuzey İrlanda, 4 Haziran Perşembe günü İspanya'da oynanacak uluslararası hazırlık maçında Gine ile karşılaşacak."
     },
     {
       "title": "TUR 2026'da 6. etap Bagatin'in!",
@@ -271,12 +487,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:46.345238",
+      "fetched_at": "2026-05-01T16:45:54.903827",
       "priority_score": 43,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-05-01T15:49:36.838203",
+      "processed_at": "2026-05-01T16:47:48.481694",
       "title_tr": "TUR 2026 Bagatin'in 6. etabı!",
       "summary_tr": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nun (TUR 2026) altıncı etabını, MBH Bank Ballan CSB Telecom Fort takımından İtalyan Christian Bagatin kazandı."
     },
@@ -290,208 +506,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:46.345286",
+      "fetched_at": "2026-05-01T16:45:54.903885",
       "priority_score": 43,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:36.841093",
+      "processed_at": "2026-05-01T16:47:48.485741",
       "title_tr": "İşte G.Saray'ın Samsun kafilesi!",
       "summary_tr": "Trendyol Süper Lig'in 32. haftasında Samsunspor'a konuk olacak Galatasaray'ın, kamp kadrosu açıklandı."
-    },
-    {
-      "title": "Carrick: Man Utd games vs Liverpool some of my favourites",
-      "summary": "Michael Carrick has called Manchester United's meetings with Liverpool some of his favourites, while Arne Slot says victory will be an 'important' step for the Reds towards Champions League qualification.",
-      "url": "https://www.skysports.com/football/news/12040/13538881/man-utd-vs-liverpool-michael-carrick-and-arne-slot-on-premier-league-rivalry-and-league-position-ahead-of-super-sunday-showdown",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-carrick_7236214.jpg?20260501145504",
-      "published": "2026-05-01T14:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:46:02.103342",
-      "priority_score": 41,
-      "categories": [
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-01T15:49:36.722943",
-      "title_tr": "Carrick: Man Utd-Liverpool maçları favorilerimden bazıları",
-      "summary_tr": "Michael Carrick, Manchester United'ın Liverpool ile karşılaşmasını favorilerinden biri olarak nitelendirirken Arne Slot, zaferin Kırmızılar için Şampiyonlar Ligi'ne katılma yolunda 'önemli' bir adım olacağını söyledi."
-    },
-    {
-      "title": "Garcia wil langer bij Ajax blijven: 'Misschien wel de rest van mijn carrière'",
-      "summary": "Als het aan Óscar García ligt, blijft hij ook na dit seizoen verbonden aan Ajax. De Spaanse interim-trainer wil zijn aflopende contract graag verlengen, maar sprak daar nog niet over met technisch directeur Jordi Cruijff. 'Misschien wil ik hier de rest van mijn carrière wel blijven', vertelde hij ti",
-      "url": "https://www.vi.nl/video/garcia-wil-langer-bij-ajax-blijven-misschien-wel-de-rest-van-mijn-carriere",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-05-01t142836-garcia-gevraagd-naar-zijn-toekomst-bij-ajax-al-contact-met-jordi-cruijff-gehad.jpg?width=1200",
-      "published": "2026-05-01T13:24:05",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206745",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-05-01T15:49:37.364216",
-      "title_tr": "Garcia Ajax'ta daha uzun süre kalmak istiyor: 'Belki kariyerimin geri kalanında'",
-      "summary_tr": "Eğer karar Óscar García'ya kalırsa, bu sezondan sonra da Ajax'la ilişkisini sürdürecek. İspanyol geçici antrenör, süresi dolan sözleşmesini uzatmak istiyor ancak bu konuyu teknik direktör Jordi Cruijff ile henüz görüşmedi. Ti'ye \"Belki de kariyerimin geri kalanında burada kalmak isterim\" dedi."
-    },
-    {
-      "title": "Fenerbahçe'de Skriniar şoku! Ne zaman sahalara dönecek?",
-      "summary": "Fenerbahçe’nin deneyimli savunma oyuncusu Milan Skriniar’ın, Beşiktaş derbisinden bu yana ciddi bir sakatlıkla mücadele ettiği ortaya çıktı. Slovak futbolcunun iki tendon yırtığı içeren kas sakatlığına rağmen forma giydiği belirtildi.",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-skriniar-soku-ne-zaman-sahalara-donecek-2422642",
-      "image_url": null,
-      "published": "2026-05-01T10:12:27",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:48:20.175559",
-      "priority_score": 51,
-      "categories": [
-        "injuries",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-01T15:49:37.127877",
-      "title_tr": "Fenerbahçe'de Skriniar şoku! Ne zaman sahalara dönecek?",
-      "summary_tr": "Fenerbahçe’nin deneyimli savunma oyuncusu Milan Skriniar’ın, Beşiktaş derbisinden bu yana ciddi bir sakatlıkla mücadele ettiği ortaya çıktı. Slovak futbolcunun iki tendon yırtığı içeren kas sakatlığına rağmen forma giydiği belirtildi."
-    },
-    {
-      "title": "'Where are you? Wow. It is so, so bad' - Emery's impassioned VAR rant",
-      "summary": "Aston Villa boss Unai Emery says VAR made a \"huge mistake\" in not sending off Nottingham Forest's Elliot Anderson in their Europa League semi-final first leg.",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2l4k1z0go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-01T08:43:46",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:45:50.398047",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-05-01T15:49:36.709128",
-      "title_tr": "'Neredesin? Vay. Bu çok çok kötü' - Emery'nin ateşli VAR lafı",
-      "summary_tr": "Aston Villa patronu Unai Emery, VAR'ın Nottingham Forest'tan Elliot Anderson'ı Avrupa Ligi yarı final ilk maçında oyundan atmayarak \"büyük bir hata\" yaptığını söyledi."
-    },
-    {
-      "title": "Galatasaray'da üç ayrılık birden: Sezon sonu veda edilecek",
-      "summary": "Süper Lig'de sezonun sonuna gelirken Galatasaray, 32. haftada rakibi Samsunspor'u mağlup etmesi halinde 26. şampiyonluğ...",
-      "url": "https://www.yenisafak.com/spor/galatasarayda-uc-ayrilik-birden-sezon-sonu-veda-edilecek-4820193",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/1/16b8763b-z8rln9wxxnhozxo2k4tp8h.webp",
-      "published": "2026-05-01T15:56:43",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:48:56.642119",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-01T15:49:37.215106",
-      "title_tr": "Galatasaray'da üç ayrılık birden: Sezon sonu veda edilecek",
-      "summary_tr": "Süper Lig'de sezonun sonuna gelirken Galatasaray, 32. haftada rakibi Samsunspor'u mağlup etmesi halinde 26. şampiyonluğ..."
-    },
-    {
-      "title": "Galatasaray Samsunspor maçının hazırlıklarını tamamladı",
-      "summary": "Sarı-kırmızılı kulüpten yapılan açıklamaya göre Kemerburgaz Metin Oktay Tesisleri'ndeki antrenman, teknik direktör Okan...",
-      "url": "https://www.yenisafak.com/spor/galatasaray-samsunspor-macinin-hazirliklarini-tamamladi-4820190",
-      "image_url": null,
-      "published": "2026-05-01T15:45:17",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:48:56.642440",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-01T15:49:37.223242",
-      "title_tr": "Galatasaray Samsunspor maçının hazırlıklarını tamamladı",
-      "summary_tr": "Sarı-kırmızılı kulüpten yapılan açıklamaya göre Kemerburgaz Metin Oktay Tesisleri'ndeki antrenman, teknik direktör Okan..."
-    },
-    {
-      "title": "Raphinha nadert rentree bij Barça: 'Belangrijk om hem terug te hebben'",
-      "summary": "Raphinha is dicht bij een rentree bij Barcelona. De Braziliaanse sterspeler ontbrak de afgelopen weken met een hamstringblessure, maar kan zaterdag op bezoek bij Osasuna mogelijk weer minuten maken. Voor trainer Hansi Flick is dat een pak van zijn hart.",
-      "url": "https://www.vi.nl/video/raphinha-nadert-rentree-bij-barca-en-flick-heeft-nog-meer-positief-blessurenieuws",
-      "image_url": "https://images.performgroup.com/transcoded/20260501/010526_EN_SPN_FOOTBALL_LL_BARCELONA_FLICK_RD_1777643967720-1_2847_1.jpeg",
-      "published": "2026-05-01T14:59:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206470",
-      "priority_score": 47,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-05-01T15:49:37.295494",
-      "title_tr": "Raphinha, Barça'ya dönmek üzere: 'Onun geri dönmesi önemli'",
-      "summary_tr": "Raphinha'nın Barselona'ya dönüşü çok yakın. Brezilyalı yıldız oyuncu, diz arkası sakatlığı nedeniyle son haftalarda forma giyemedi ancak Cumartesi günü Osasuna'ya yapacağı ziyarette tekrar forma giyebilecek. Eğitmen Hansi Flick için bu ağır bir yük."
-    },
-    {
-      "title": "Opsteker voor Koeman: Kluivert hervat training bij Bournemouth",
-      "summary": "Zo’n anderhalve maand voor de start van het WK heeft Justin Kluivert de training bij Bournemouth hervat. De elfvoudig international van Oranje komt zondag echter nog niet in actie tegen Crystal Palace.",
-      "url": "https://www.vi.nl/nieuws/opsteker-voor-koeman-kluivert-hervat-training-bij-bournemouth",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/01/840ec5956f0615afc4b804e45e42db9fd7fe3439.jpg?width=1200",
-      "published": "2026-05-01T14:50:42",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206521",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-05-01T15:49:37.305841",
-      "title_tr": "Koeman'a destek: Kluivert, Bournemouth'ta antrenmanlara devam ediyor",
-      "summary_tr": "Dünya Kupası'nın başlamasına yaklaşık bir buçuk ay kala Justin Kluivert, Bournemouth'ta antrenmanlara yeniden başladı. Ancak Hollanda ekibinin 11 kez milli oyuncusu Pazar günü Crystal Palace'a karşı oynamayacak."
-    },
-    {
-      "title": "'It's like we're all crying and relegated' - Spurs' De Zerbi delivers monologue",
-      "summary": "Manager Roberto de Zerbi urges Tottenham to \"silence the voice inside of us\" as the club battle to avoid relegation from the Premier League.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-01T14:26:05",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:45:50.397147",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-01T15:49:36.706666",
-      "title_tr": "'Sanki hepimiz ağlıyor ve küme düşmüş gibiyiz' - Spurs'tan De Zerbi monolog yapıyor",
-      "summary_tr": "Teknik direktör Roberto de Zerbi, kulüp Premier Lig'den düşmemek için mücadele ederken Tottenham'ı \"içimizdeki sesi susturmaya\" çağırıyor."
-    },
-    {
-      "title": "Saudi Arabian owners' desire for Newcastle 'unchanged'",
-      "summary": "Head coach Eddie Howe says Newcastle's owners remain \"ambitious\" for the club despite the Saudi Arabian PIF's decision to pull out of funding LIV Golf.",
-      "url": "https://www.bbc.com/sport/football/articles/cx21nez03evo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-01T10:35:15",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:45:50.397354",
-      "priority_score": 45,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-01T15:49:36.706874",
-      "title_tr": "Suudi Arabistanlı sahiplerin Newcastle arzusu 'değişmedi'",
-      "summary_tr": "Baş antrenör Eddie Howe, Suudi Arabistan PIF'in LIV Golf finansmanından çekilme kararına rağmen Newcastle'ın sahiplerinin kulüp için \"iddialı\" kaldıklarını söyledi."
     },
     {
       "title": "Şampiyonluk için sahaya çıkıyor!",
@@ -503,12 +525,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:46.345336",
+      "fetched_at": "2026-05-01T16:45:54.903952",
       "priority_score": 43,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:36.843940",
+      "processed_at": "2026-05-01T16:47:48.489755",
       "title_tr": "Şampiyonluk için sahaya çıkıyor!",
       "summary_tr": "Süper Lig'de lider Galatasaray, 32. hafta maçında yarın akşam Samsunspor'a konuk olacak. Haftaya en yakın rakibi Fenerbahçe'nin 7 puan önünde giren sarı-kırmızılılar, Samsunspor'u mağlup ettiği takdirde bitime 2 hafta 26. lig şampiyonluğunu garantileyecek."
     },
@@ -522,13 +544,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:46.345470",
+      "fetched_at": "2026-05-01T16:45:54.904132",
       "priority_score": 43,
       "categories": [
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-05-01T15:49:36.852741",
+      "processed_at": "2026-05-01T16:47:48.501857",
       "title_tr": "Kenan Yıldız'dan Dünya Kupası açıklaması!",
       "summary_tr": "Juventus'ta forma giyen milli futbolcumuz Kenan Yıldız'dan, A Milli Futbol Takımımız ve Dünya Kupası'yla ilgili flaş bir itiraf geldi."
     },
@@ -542,34 +564,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-01T15:47:46.345512",
+      "fetched_at": "2026-05-01T16:45:54.904191",
       "priority_score": 43,
       "categories": [
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-05-01T15:49:36.855562",
+      "processed_at": "2026-05-01T16:47:48.505944",
       "title_tr": "Galatasaray Samsunspor'a hazır!",
       "summary_tr": "Galatasaray Futbol Takımı, Trendyol Süper Lig'in 32. haftasında yarın deplasmanda Samsunspor ile yapacağı maçın hazırlıklarını tamamladı."
-    },
-    {
-      "title": "Malen in bloedvorm: alleen Mbappé en Kane doen het beter",
-      "summary": "Donyell Malen is bezig aan een indrukwekkende reeks bij AS Roma. De Nederlandse aanvaller blijft maar scoren en hoort op basis van zijn cijfers inmiddels bij de absolute top in Europa.",
-      "url": "https://www.vi.nl/nieuws/malen-in-bloedvorm-alleen-mbapp-en-kane-doen-het-beter",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/01/9aac2dc7245c63bac5a9dd54818d5f1563d1ce5a.jpg?width=1200",
-      "published": "2026-05-01T15:48:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-01T15:49:34.206208",
-      "priority_score": 42,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-05-01T15:49:37.249137",
-      "title_tr": "En iyi formda öğütme: yalnızca Mbappé ve Kane bunu daha iyi yapıyor",
-      "summary_tr": "Donyell Malen AS Roma'da etkileyici bir performans sergiliyor. Hollandalı forvet gol atmaya devam ediyor ve rakamlarına göre şu anda Avrupa'nın en iyileri arasında yer alıyor."
     },
     {
       "title": "'We're not relegated yet' - De Zerbi wants to end Spurs negativity",
@@ -581,14 +584,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-01T15:46:02.103501",
+      "fetched_at": "2026-05-01T16:44:20.335156",
       "priority_score": 41,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-05-01T15:49:36.729672",
+      "processed_at": "2026-05-01T16:47:48.321901",
       "title_tr": "'Henüz küme düşmedik' - De Zerbi, Spurs'ün olumsuzluğunu sona erdirmek istiyor",
-      "summary_tr": "Tottenham patronu Roberto De Zerbi, kulübün düşüşü önlemek için verdiği mücadelede tutkulu bir toparlanma çığlığı attı, \"henüz küme düşmedik\" dedi ve Spurs etrafındaki \"olumsuz\" seslere son verilmesini istedi."
+      "summary_tr": "Tottenham patronu Roberto De Zerbi, kulübün düşüşü önlemek için verdiği mücadelede tutkulu bir toparlanma çığlığı attı, \"henüz küme düşmedik\" dedi ve Spurs etrafındaki \"olumsuz\" seslerin sona ermesini istedi."
     }
   ]
 }
