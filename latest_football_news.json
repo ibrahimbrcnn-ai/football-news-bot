@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T14:10:44.175713",
+  "timestamp": "2026-05-03T15:42:26.803335",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:13.137361",
-      "priority_score": 91,
+      "fetched_at": "2026-05-03T15:38:23.757129",
+      "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-03T14:09:35.385783",
+      "processed_at": "2026-05-03T15:41:02.684126",
       "title_tr": "Miron Muslić, Bundesliga'ya yükseldikten sonra Schalke'nin sözleşmesini uzattı",
       "summary_tr": "Miron Muslić, 2028 yılına kadar Schalke'nin başantrenörü olarak görev yapmak üzere yeni bir anlaşma imzaladı ve bu duyuru, görevdeki ilk sezonunda kulübün Bundesliga'ya yükselmesine rehberlik etmesinin hemen ardından yapıldı."
     },
@@ -33,115 +33,176 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:50.180731",
+      "fetched_at": "2026-05-03T15:38:00.824936",
       "priority_score": 83,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-05-03T14:09:35.359466",
+      "processed_at": "2026-05-03T15:41:02.657862",
       "title_tr": "Arteta, Arsenal'i Atletico karşılaşmasındaki Fulham galibiyetinden elde edilen ivmeyi kullanmaya çağırıyor",
       "summary_tr": "Arsenal, Manchester City'ye 3-0'lık galibiyetle baskı yaptı İlk yarıda bu sezonun 'en iyi performanslarından biri' olan Mikel Arteta, Arsenal takımının Cumartesi günü evinde Fulham'ı 3-0 yendikleri maçta bu sezonun en iyi futbolunu sergilediğini söyledi ve rövanş maçına da olumlu duyguları taşımalarını istedi."
     },
     {
-      "title": "Beşiktaş'tan golcü operasyonu! Transfer için harekete geçildi",
-      "summary": "Beşiktaş, gelecek sezon için transfer çalışmalarına hız verdi. Siyah - Beyazlıların, bonservisi Eintracht Frankfurt'ta olan ve Nice'te kiralık olarak forma giyen Elye Wahi'yi gündemine aldığı öne sürüldü.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktastan-golcu-operasyonu-transfer-icin-harekete-gecildi-43164746",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69f6f8e8eb422ab0018d1a8a.jpg",
-      "published": "2026-05-03T07:36:14",
+      "title": "Sir Alex Ferguson taken to hospital after feeling unwell at Old Trafford",
+      "summary": "Sir Alex Ferguson was taken to hospital after feeling unwell ahead of Manchester United vs Liverpool on Sunday.",
+      "url": "https://www.skysports.com/football/news/12040/13539697/sir-alex-ferguson-man-utd-legend-taken-to-hospital-after-feeling-unwell-ahead-of-his-former-sides-premier-league-game-with-liverpool",
+      "image_url": "https://e1.365dm.com/26/02/1920x1080/skysports-sir-alex_7171579.jpg?20260222071237",
+      "published": "2026-05-03T15:49:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:37:35.876687",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-03T15:41:02.583420",
+      "title_tr": "Sir Alex Ferguson, Old Trafford'da kendini iyi hissetmediği için hastaneye kaldırıldı",
+      "summary_tr": "Sir Alex Ferguson, Pazar günü Manchester United-Liverpool maçı öncesinde kendini iyi hissetmediği için hastaneye kaldırıldı."
+    },
+    {
+      "title": "Sassuolo Milan'ı 2 golle devirdi",
+      "summary": "İtalya Serie A'nın 35. haftasında Milan deplasmanda Sassuolo'yla karşılaştı. Mücadeleyi konuk takım 2-0 kaybetti ve son 5 maçta 3. mağlubiyetini aldı.",
+      "url": "https://www.haberturk.com/sassuolo-2-milan-0-mac-sonucu-3881989-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/03/ver1777819025/3881989/jpg/1280x1280",
+      "published": "2026-05-03T14:57:20",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:39:10.505479",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-03T15:41:02.754463",
+      "title_tr": "Sassuolo Milan'ı 2 golle devirdi",
+      "summary_tr": "İtalya Serie A'nın 35. haftasında Milan deplasmanda Sassuolo'yla karşılaştı. Mücadeleyi konuk takım 2-0 kaybetti ve son 5 maçta 3. mağlubiyetini aldı."
+    },
+    {
+      "title": "Chelsea secure Champions League spot as Kerr makes Blues history",
+      "summary": "Sam Kerr's early header set Chelsea on their way to a 3-1 win at Leicester that secured their Women's Champions League spot for next season, and made the Australian the Blues' all-time WSL top goalscorer.",
+      "url": "https://www.skysports.com/football/leicester-city-women-vs-chelsea-women/report/545726",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-wsl-womens-super-league_7238134.jpg?20260503161549",
+      "published": "2026-05-03T16:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:37:35.876868",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-03T15:41:02.588460",
+      "title_tr": "Kerr Blues tarihine geçerken Chelsea Şampiyonlar Ligi'ndeki yerini garantiledi",
+      "summary_tr": "Sam Kerr'in erken kafa vuruşu, Chelsea'yi Leicester'da 3-1'lik bir galibiyete doğru sürükleyerek gelecek sezon Kadınlar Şampiyonlar Ligi'ndeki yerini garantiledi ve Avustralyalı Blues'un tüm zamanların WSL en golcü oyuncusu oldu."
+    },
+    {
+      "title": "Turkish Airlines Open’da şampiyon İsveçli Lindberg",
+      "summary": "DP Dünya Turu Asya Serisi kapsamında Antalya’da düzenlenen Turkish Airlines Open’ı, İsveçli golfçü Mikael Lindberg kazandı. Şampiyon sporcuya kupasını, Gençlik ve Spor Bakanı Osman Aşkın Bak takdim etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/turkish-airlines-openda-sampiyon-isvecli-lindberg-43165229",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69f75f27eb422ab0018d1f06.jpg",
+      "published": "2026-05-03T14:46:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:08:08.516554",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-03T14:09:35.693525",
-      "title_tr": "Beşiktaş'tan golcü operasyonu! Transfer için harekete geçildi",
-      "summary_tr": "Beşiktaş, gelecek sezon için transfer çalışmalarına hız verdi. Siyah - Beyazlıların, bonservisi Eintracht Frankfurt'ta olan ve Nice'te kiralık olarak forma giyen Elye Wahi'yi gündemine aldığı öne sürüldü."
-    },
-    {
-      "title": "Holdt's worldie secures three points for Spurs",
-      "summary": "Highlights from Tottenham against London City Lionesses in the Women's Super League.",
-      "url": "https://www.skysports.com/watch/video/13539673/tottenham-2-1-london-city-lionesses-womens-super-league-highlights",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-football-wsl_7237981.jpg?20260503141732",
-      "published": "2026-05-03T14:08:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:06:30.133320",
+      "fetched_at": "2026-05-03T15:39:24.174940",
       "priority_score": 66,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-05-03T14:09:35.309682",
-      "title_tr": "Holdt'un dünya adamı Spurs'a üç puan kazandırdı",
-      "summary_tr": "Kadınlar Süper Ligi'nde Tottenham'ın London City Lionesses'e karşı öne çıkan maçları."
-    },
-    {
-      "title": "Man City score late goal to take three points against Liverpool",
-      "summary": "Highlights of the Women's Super League match between Manchester City and Liverpool.",
-      "url": "https://www.skysports.com/watch/video/13539670/manchester-city-1-0-liverpool-womens-super-league-highlights",
-      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-football-wsl_7237973.jpg?20260503140936",
-      "published": "2026-05-03T14:07:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:06:30.133689",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-03T14:09:35.319359",
-      "title_tr": "Man City, Liverpool'a karşı üç puan almak için geç bir gol attı",
-      "summary_tr": "Kadınlar Süper Ligi'nde Manchester City ile Liverpool arasında oynanan maçtan öne çıkanlar."
-    },
-    {
-      "title": "Bayern Munich net last-gasp equaliser to deny Heidenheim crucial win",
-      "summary": "Michael Olise scored with the last kick of the game to equalise for Bayern Munich and deny Heidenheim all three points as the teams drew 3-3 at the Allianz Arena, a result which is a blow to the visitors' hopes of Bundesliga survival.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-heidenheim-match-report-highlights-matchday-32-37195",
-      "image_url": null,
-      "published": "2026-05-02T15:37:47",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:07:13.147763",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-03T14:09:35.464026",
-      "title_tr": "Bayern Münih, Heidenheim'ın kritik galibiyetini engellemek için son nefeste ekolayzeri netleştirdi",
-      "summary_tr": "Michael Olise, maçın son vuruşunda Bayern Münih'e eşitliği getiren golü attı ve takımlar Allianz Arena'da 3-3 berabere kalırken Heidenheim'ın üç sayısını da engelledi, bu da ziyaretçilerin Bundesliga'da hayatta kalma umutlarına bir darbe oldu."
+      "processed_at": "2026-05-03T15:41:02.826001",
+      "title_tr": "Turkish Airlines Open’da şampiyon İsveçli Lindberg",
+      "summary_tr": "DP Dünya Turu Asya Serisi kapsamında Antalya’da düzenlenen Turkish Airlines Open’ı, İsveçli golfçü Mikael Lindberg kazandı. Şampiyon sporcuya kupasını, Gençlik ve Spor Bakanı Osman Aşkın Bak takdim etti."
     },
     {
       "title": "Manchester United v Liverpool: Premier League – live",
-      "summary": "⚽ Premier League updates from the 3.30pm BST kick-off⚽ Latest table | Top scorers | Follow us over on BlueskySky Sports reckon Curtis Jones will play right-back for Liverpool with Jeremie Frimpong in midfield. This is how they have the formation.Liverpool (possible 4-2-3-1) Woodman; Jones, Konate, V",
+      "summary": "⚽ Premier League updates from the 3.30pm BST kick-off⚽ Latest table | Top scorers | Follow us over on Bluesky“Thanks to the Isak injury, yet again Slot is forced to fight fires rather than just manage,” laments Ian Copestake. “Unless it is in January, I hope one day he will be able to say, ‘same tea",
       "url": "https://www.theguardian.com/football/live/2026/may/03/manchester-united-v-liverpool-premier-league-live",
       "image_url": null,
-      "published": "2026-05-03T13:48:16",
+      "published": "2026-05-03T15:25:05",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:50.178003",
-      "priority_score": 53,
+      "fetched_at": "2026-05-03T15:38:00.822663",
+      "priority_score": 63,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-03T15:41:02.623167",
+      "title_tr": "Manchester United - Liverpool: Premier Lig – canlı",
+      "summary_tr": "⚽ Premier Lig'in TSİ 15.30'daki başlama vuruşundan güncellemeleri⚽ Son tablo | En çok gol atanlar | Bizi Bluesky'de takip edin Ian Copestake, \"Isak'ın sakatlığı sayesinde Slot bir kez daha yangınları yönetmek yerine yangınlarla mücadele etmek zorunda kaldı\" diye yakınıyor. \"Ocak ayı olmazsa umarım bir gün 'aynı çay' diyebilir."
+    },
+    {
+      "title": "Ferguson taken to hospital as precaution before Man Utd v Liverpool",
+      "summary": "Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United's Premier League match with Liverpool on Sunday.",
+      "url": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-03T14:56:40",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:37:25.601648",
+      "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-05-03T14:09:35.329898",
-      "title_tr": "Manchester United - Liverpool: Premier Lig – canlı",
-      "summary_tr": "⚽ Premier Lig'in TSİ 15.30'daki başlama vuruşundan güncellemeleri⚽ Son tablo | En çok gol atanlar | Bizi BlueskySky Sports'ta takip edin, Curtis Jones'un orta sahada Jeremie Frimpong ile Liverpool'da sağ bek oynayacağını düşünüyoruz. Dizilişleri bu şekilde. Liverpool (olası 4-2-3-1) Woodman; Jones, Konate, V"
+      "processed_at": "2026-05-03T15:41:02.566951",
+      "title_tr": "Ferguson, Manchester Utd-Liverpool maçı öncesi tedbir amaçlı hastaneye kaldırıldı",
+      "summary_tr": "Sir Alex Ferguson, Manchester United'ın Pazar günü Liverpool ile oynayacağı Premier Lig karşılaşmasından kısa bir süre önce Old Trafford'da fenalaşınca hastaneye kaldırıldı."
+    },
+    {
+      "title": "Milan, Sassuolo deplasmanında mağlup!",
+      "summary": "Milan, İtalya Serie A'nın 35. haftasında Sassuolo'ya 2-0 mağlup oldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/milan-sassuolo-deplasmaninda-maglup-43165234",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69f76684eb25bcddea9d5b65.jpg",
+      "published": "2026-05-03T15:15:19",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:39:24.174857",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-03T15:41:02.818896",
+      "title_tr": "Milan, Sassuolo deplasmanında mağlup!",
+      "summary_tr": "Milan, İtalya Serie A'nın 35. haftasında Sassuolo'ya 2-0 mağlup oldu."
+    },
+    {
+      "title": "Galatasaray'dan, Günay Güvenç için ayrılık kararı",
+      "summary": "Samsunspor deplasmanında 4-1’lik mağlubiyetle şampiyonluk ilan etme fırsatını kaçıran Galatasaray’da, sezon sonu kadro planlaması netleşmeye başladı. Sarı-kırmızılı yönetimin, tecrübeli kaleci Günay Güvenç ile yolları ayırmayı planladığı öne sürüldü.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaraydan-gunay-guvenc-icin-ayrilik-karari-2423416",
+      "image_url": null,
+      "published": "2026-05-03T17:09:42",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:39:49.068214",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-03T15:41:03.069411",
+      "title_tr": "Galatasaray'dan, Günay Güvenç için ayrılık kararı",
+      "summary_tr": "Samsunspor deplasmanında 4-1’lik mağlubiyetle şampiyonluk ilan etme fırsatını kaçıran Galatasaray’da, sezon sonu kadro planlaması netleşmeye başladı. Sarı-kırmızılı yönetimin, tecrübeli kaleci Günay Güvenç ile yolları ayırmayı planladığı öne sürüldü."
     },
     {
       "title": "Newcastle end losing streak with victory over Brighton",
@@ -153,35 +214,54 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:17.625489",
+      "fetched_at": "2026-05-03T15:37:25.603038",
       "priority_score": 50,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-03T14:09:35.277451",
+      "processed_at": "2026-05-03T15:41:02.571379",
       "title_tr": "Newcastle, Brighton'ı yenerek mağlubiyet serisine son verdi",
       "summary_tr": "Newcastle menajeri Eddie Howe, Mart ayından bu yana St. James' Park'ta Brighton'ı 3-1 yenerek ilk zaferini alırken tam zamanında destek aldı."
     },
     {
-      "title": "Nijeryalı eski yıldızdan Osimhen'e uyarı! \"Sakın o takıma gitme\"",
-      "summary": "Son dakika Galatasaray transfer haberleri: Adı son günlerde dünya devleriyle anılan Victor Osimhen ile ilgili sıcak bir gelişme yaşandı. Nijeryalı eski yıldız, yaptığı açıklamada vatandaşının gitmemesi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/03/nijeryali-eski-yildizdan-osimhene-uyari-sakin-o-takima-gitme",
-      "image_url": "https://iaftm.tmgrup.com.tr/9b9e08/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/05/03/nijeryali-eski-yildizdan-osimhene-uyari-sakin-o-takima-gitme-1777798840760.jpeg",
-      "published": "2026-05-03T09:01:43",
-      "source": "Fotomac",
-      "source_priority": 7,
+      "title": "Ertuğrul Doğan - TFF zirvesinde karar çıktı: Ozan Ergün'ün hakemliği bitti",
+      "summary": "Süper Lig'in 32. haftasında oynanan Trabzonspor - Göztepe karşılaşmasına hakem Ozan Ergün'ün verdiği tartışmalı kararla...",
+      "url": "https://www.yenisafak.com/spor/ertugrul-dogan--tff-zirvesinde-karar-cikti-ozan-ergunun-hakemligi-bitti-4820699",
+      "image_url": null,
+      "published": "2026-05-03T18:36:05",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:08:41.090599",
-      "priority_score": 64,
+      "fetched_at": "2026-05-03T15:40:19.761786",
+      "priority_score": 47,
       "categories": [
-        "transfers",
-        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-05-03T14:09:36.063142",
-      "title_tr": "Nijeryalı eski yıldızdan Osimhen'e uyarı! \"Sakın o takıma gitme\"",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Adı son günlerde dünya devleriyle anılan Victor Osimhen ile ilgili sıcak bir gelişme yaşandı. Nijeryalı eski yıldız, yaptığı açıklamada vatandaşının gitmemesi...Devamı için tıklayınız"
+      "processed_at": "2026-05-03T15:41:03.267361",
+      "title_tr": "Ertuğrul Doğan - TFF zirvesinde karar çıktı: Ozan Ergün'ün hakemliği bitti",
+      "summary_tr": "Süper Lig'in 32. haftasında oynanan Trabzonspor - Göztepe karşılaşmasına hakem Ozan Ergün'ün verdiği tartışmalı kararla..."
+    },
+    {
+      "title": "Bournemouth beat Crystal Palace with ease to keep Champions League dreams alive",
+      "summary": "By month’s end, Andoni Iraola and Oliver Glasner will depart their respective clubs. Having both taken their clubs into uncharted territory, neither’s task is yet complete. Bournemouth’s victory, a game all but won in the first half, was one for the club with their Premier League position as the pri",
+      "url": "https://www.theguardian.com/football/2026/may/03/bournemouth-crystal-palace-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-05-03T15:05:48",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:38:00.823255",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-03T15:41:02.633413",
+      "title_tr": "Bournemouth, Şampiyonlar Ligi hayallerini canlı tutmak için Crystal Palace'ı kolaylıkla yendi",
+      "summary_tr": "Ay sonuna kadar Andoni Iraola ve Oliver Glasner kendi kulüplerinden ayrılacaklar. Her ikisi de kulüplerini keşfedilmemiş bölgelere taşımış olduğundan ikisinin de görevi henüz tamamlanmadı. Bournemouth'un neredeyse ilk yarıda kazandığı bir galibiyet, Premier Lig'deki birincilik pozisyonuna sahip kulüp için bir zaferdi."
     },
     {
       "title": "Asllani bu kez damga vurdu!",
@@ -193,37 +273,75 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:59.734539",
+      "fetched_at": "2026-05-03T15:39:10.505869",
       "priority_score": 63,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-05-03T14:09:35.489763",
+      "processed_at": "2026-05-03T15:41:02.780377",
       "title_tr": "Asllani bu kez damga vurdu!",
       "summary_tr": "Beşiktaş'ın ara transfer döneminde kiralık olarak renklerine bağladığı ve en son oynanan Gaziantep FK maçında ilk 11'de başlayan Arnavut futbolcu Kristjan Asllani, bu hafta gösterdiği 1 gol ve 1 asistlik performansıyla galibiyette rol oynadı."
     },
     {
-      "title": "Lider Barcelona, 5 dakikada üç puanı kaptı!",
-      "summary": "İspanya LaLiga'nın 34. haftasında Barcelona, deplasmanda Osasuna'yı 2-1 mağlup etti. 81'de Robert Lewandowski ve 86. dakikada Ferran Torres'in golleriyle galibiyete ulaşan lider Barcelona, haftayı 88 puanla tamamladı ve en yakın rakibi Real Madrid'le arasındaki puan farkını maç fazlasıyla 14'e çıkar",
-      "url": "https://www.haberturk.com/osasuna-1-barcelona-2-mac-sonucu-3881896-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/03/ver1777759454/3881896/jpg/1280x1280",
-      "published": "2026-05-02T22:04:44",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Bournemouth move into European places as unbeaten run continues with Palace win",
+      "summary": "Bournemouth moved one step closer to securing European football for the first time in their history after climbing into sixth with a 3-0 win against Crystal Palace at home.",
+      "url": "https://www.skysports.com/football/bournemouth-vs-crystal-palace/report/531471",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-eli-junior-kroupi_7238032.jpg?20260503150035",
+      "published": "2026-05-03T16:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:59.735343",
-      "priority_score": 63,
+      "fetched_at": "2026-05-03T15:37:35.876790",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-03T15:41:02.586122",
+      "title_tr": "Bournemouth, Palace'ın galibiyetiyle yenilmezlik serisini sürdürürken Avrupa'ya yükseldi",
+      "summary_tr": "Bournemouth, evinde Crystal Palace'ı 3-0 yenerek altıncı sıraya yükseldikten sonra tarihinde ilk kez Avrupa futbolunu garantiye almaya bir adım daha yaklaştı."
+    },
+    {
+      "title": "Kerr breaks Kirby's Chelsea goal record",
+      "summary": "Sam Kerr's headed goal gives Chelsea the lead at Leicester, to become the clubs all-time WSL top scorer with 64 goals overtaking Fran Kirby.",
+      "url": "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-03T14:30:21",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:37:25.602299",
+      "priority_score": 60,
       "categories": [
         "match_results",
-        "premier_league",
-        "la_liga"
+        "premier_league"
       ],
-      "processed_at": "2026-05-03T14:09:35.545295",
-      "title_tr": "Lider Barcelona, 5 dakikada üç puanı kaptı!",
-      "summary_tr": "İspanya LaLiga'nın 34. haftasında Barcelona, deplasmanda Osasuna'yı 2-1 mağlup etti. 81'de Robert Lewandowski ve 86. dakikada Ferran Torres'in golleriyle galibiyete ulaşan lider Barcelona, haftayı 88 puanla tamamladı ve en yakın rakibi Real Madrid'le arasındaki puan farkını maç fazlasıyla 14'e çıkar"
+      "processed_at": "2026-05-03T15:41:02.567929",
+      "title_tr": "Kerr, Kirby'nin Chelsea'deki gol rekorunu kırdı",
+      "summary_tr": "Sam Kerr'in kafa golü, Chelsea'ye Leicester'da liderlik kazandırdı ve 64 golle Fran Kirby'yi geride bırakarak kulübün tüm zamanların en golcü WSL oyuncusu oldu."
+    },
+    {
+      "title": "Manchester City on verge of WSL title after Knaak’s last-gasp winner sinks Liverpool",
+      "summary": "Manchester City’s Rebecca Knaak scored a stoppage-time winner to give her side a nervy 1-0 home victory over Liverpool and put one hand on the Women’s Super League trophy.City top the standings on 52 points with one game left and are out of reach of second-placed Chelsea, who are nine points behind ",
+      "url": "https://www.theguardian.com/football/2026/may/03/manchester-city-liverpool-wsl-match-report",
+      "image_url": null,
+      "published": "2026-05-03T13:49:15",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:38:00.822983",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-03T15:41:02.628098",
+      "title_tr": "Manchester City, Knaak'ın son galibiyetinin ardından Liverpool'u mağlup ettikten sonra WSL şampiyonluğunun eşiğinde",
+      "summary_tr": "Manchester City'li Rebecca Knaak, uzatma dakikalarında attığı golle evinde Liverpool'a karşı 1-0'lık gergin bir galibiyet elde etti ve Kadınlar Süper Lig kupasını eline aldı. City, bir maç kala 52 puanla zirvede yer alıyor ve Chelsea'nin dokuz puan gerisinde ikinci sırada yer alıyor."
     },
     {
       "title": "Trabzonspor 4 maçtır kazanamıyor!",
@@ -235,56 +353,54 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:59.734834",
+      "fetched_at": "2026-05-03T15:39:10.506088",
       "priority_score": 58,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-05-03T14:09:35.510895",
+      "processed_at": "2026-05-03T15:41:02.800870",
       "title_tr": "Trabzonspor 4 maçtır kazanamıyor!",
       "summary_tr": "Trabzonspor, Süper Lig’de sahasında konuk ettiği Göztepe ile 1-1 berabere kalarak galibiyet hasretini 4 maça çıkardı."
     },
     {
-      "title": "Mendes’in Osimhen’e yaptığı hareket penaltı mı? İşte eski hakemin flaş yorumu…",
-      "summary": "Trendyol Süper Lig’in 32. haftasında Samsunspor, sahasında Galatasaray’ı konuk ediyor. Mücadelede skor 1-1 eşitlikle de...",
-      "url": "https://www.yenisafak.com/spor/mendesin-osimhene-yaptigi-hareket-penalti-mi-iste-eski-hakemin-flas-yorumu-4820475",
-      "image_url": null,
-      "published": "2026-05-02T20:33:07",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:08:56.791077",
-      "priority_score": 57,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-03T14:09:36.378308",
-      "title_tr": "Mendes’in Osimhen’e yaptığı hareket penaltı mı? İşte eski hakemin flaş yorumu…",
-      "summary_tr": "Trendyol Süper Lig’in 32. haftasında Samsunspor, sahasında Galatasaray’ı konuk ediyor. Mücadelede skor 1-1 eşitlikle de..."
-    },
-    {
-      "title": "'Real Madrid laat zesvoudig CL-winnaar Carvajal gaan'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/real-madrid-laat-zesvoudig-cl-winnaar-carvajal-gaan",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-05-03T11:48:12",
+      "title": "'Ajax gaat met erg aantrekkelijk bod aankloppen bij Real Betis'",
+      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
+      "url": "https://www.vi.nl/nieuws/ajax-gaat-met-erg-aantrekkelijk-bod-aankloppen-bij-real-betis",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
+      "published": "2026-05-03T14:16:28",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-03T14:09:32.855745",
+      "fetched_at": "2026-05-03T15:40:59.421337",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-05-03T14:09:36.584096",
-      "title_tr": "'Real Madrid altı kez CL şampiyonu Carvajal'ı bıraktı'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-05-03T15:41:03.598604",
+      "title_tr": "'Ajax, Real Betis'e çok cazip bir teklifle yaklaşacak'",
+      "summary_tr": "VI, kış transfer döneminin kapalı olmasına rağmen Ajax'taki transfer haberlerini yakından takip ediyor. Amsterdamlıların hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgi. Her şeyi burada topluyoruz."
+    },
+    {
+      "title": "Holdt's worldie secures three points for Spurs",
+      "summary": "Highlights from Tottenham against London City Lionesses in the Women's Super League.",
+      "url": "https://www.skysports.com/watch/video/13539673/tottenham-2-1-london-city-lionesses-womens-super-league-highlights",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-football-wsl_7237981.jpg?20260503141732",
+      "published": "2026-05-03T14:08:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:37:35.877364",
+      "priority_score": 56,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-05-03T15:41:02.620041",
+      "title_tr": "Holdt'un dünya adamı Spurs'a üç puan kazandırdı",
+      "summary_tr": "Kadınlar Süper Ligi'nde Tottenham'ın London City Lionesses'e karşı öne çıkan maçları."
     },
     {
       "title": "Manchester United ve Inter’in iç saha maçları gollü geçiyor… İşte Misli’den Günün Tüyoları!",
@@ -296,14 +412,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:08:08.515956",
+      "fetched_at": "2026-05-03T15:39:24.175354",
       "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-05-03T14:09:35.610597",
+      "processed_at": "2026-05-03T15:41:02.902063",
       "title_tr": "Manchester United ve Inter’in iç saha maçları gollü geçiyor… İşte Misli’den Günün Tüyoları!",
       "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!"
     },
@@ -317,13 +433,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:08:27.991982",
+      "fetched_at": "2026-05-03T15:39:49.068512",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-03T14:09:35.811805",
+      "processed_at": "2026-05-03T15:41:03.097267",
       "title_tr": "TRANSFER HABERİ | Fenerbahçe’de Ederson’a talip çıktı",
       "summary_tr": "Fenerbahçe forması giyen Ederson için Suudi Arabistan ekipleri devreye girdi."
     },
@@ -337,113 +453,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:17.624892",
+      "fetched_at": "2026-05-03T15:37:25.602451",
       "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-03T14:09:35.275525",
+      "processed_at": "2026-05-03T15:41:02.568428",
       "title_tr": "Arsenal, Fulham'ı yenerek Manchester City'den altı puan farkla uzaklaştı",
       "summary_tr": "Arsenal'in Fulham'ı 3-0 yenerek Premier Lig'in zirvesindeki Manchester City'nin altı puan önüne geçmesinin öne çıkan anlarını izleyin."
     },
     {
-      "title": "'Fantastic all season' - Rooney on Gyokeres' impact",
-      "summary": "Match of the Day pundit Wayne Rooney analyses the impact Viktor Gyokeres has made at Arsenal as he reaches 20 goals for the season during their 3-0 victory over Fulham.",
-      "url": "https://www.bbc.com/sport/football/videos/cr5pm5q1rrqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-02T22:36:59",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "RKC Waalwijk haalt De Wijs terug naar Nederland",
+      "summary": "RKC Waalwijk staat op het punt Jordy de Wijs terug naar Nederland te halen. De 31-jarige verdediger komt transfervrij over van Fortuna Düsseldorf en zal naar verwachting volgende week voor twee jaar tekenen.",
+      "url": "https://www.vi.nl/nieuws/rkc-waalwijk-haalt-de-wijs-terug-naar-nederland",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/03/1a8e9b66b65523c9f80924149b66b16200b12e3f.jpg?width=1200",
+      "published": "2026-05-03T15:35:42",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:17.625687",
-      "priority_score": 55,
+      "fetched_at": "2026-05-03T15:40:59.420880",
+      "priority_score": 52,
       "categories": [
-        "match_results",
-        "premier_league"
+        "transfers"
       ],
-      "processed_at": "2026-05-03T14:09:35.278182",
-      "title_tr": "'Tüm sezon muhteşem' - Rooney, Gyokeres'in etkisi üzerine",
-      "summary_tr": "Günün Maçı yorumcusu Wayne Rooney, Viktor Gyokeres'in Fulham'a karşı alınan 3-0'lık galibiyette sezonda 20 gol atarak Arsenal'de yarattığı etkiyi analiz ediyor."
-    },
-    {
-      "title": "Galatasaraylı yıldıza çifte talip! 30 milyon Euro...",
-      "summary": "Son dakika Galatasaray transfer haberleri: Süper Lig'de üst üste 4. şampiyonluğu için gün sayan Galatasaray ile ilgili dikkat çeken bir iddia ortaya atıldı. Brezilya basını, sarı-kırmızılıların yıldız...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/03/galatasarayli-yildiza-cifte-talip-30-milyon-euro",
-      "image_url": "https://iaftm.tmgrup.com.tr/6a4797/1200/675/168/0/731/317?u=https://iftm.tmgrup.com.tr/2026/05/03/galatasarayli-yildiza-cifte-talip-30-milyon-euro-1777811187470.jpg",
-      "published": "2026-05-03T12:27:00",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:08:41.089912",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-03T14:09:36.004894",
-      "title_tr": "Galatasaraylı yıldıza çifte talip! 30 milyon Euro...",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Süper Lig'de üst üste 4. şampiyonluğu için gün sayan Galatasaray ile ilgili dikkat çeken bir iddia ortaya atıldı. Brezilya basını, sarı-kırmızılıların yıldız...Devamı için tıklayınız"
-    },
-    {
-      "title": "Celtic edge Hibs, Bournemouth v Crystal Palace, Villa v Spurs build-up and more – football live",
-      "summary": "⚽ All the latest going into Sunday’s big games⚽ Scores | Tables | Follow us on Bluesky | Mail TomQuestion of the day – which direction do we think this title race will go?Can Arsenal see it out? Or will they struggle under pressure and allow City to take it? Continue reading...",
-      "url": "https://www.theguardian.com/football/live/2026/may/03/premier-league-latest-scottish-title-race-heating-up-and-more-football-live",
-      "image_url": null,
-      "published": "2026-05-03T13:49:32",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:06:50.178992",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-03T14:09:35.338685",
-      "title_tr": "Celtic üstünlüğü Hibs, Bournemouth v Crystal Palace, Villa v Spurs hazırlıkları ve daha fazlası - canlı futbol",
-      "summary_tr": "⚽ Pazar günkü büyük maçlarla ilgili en son gelişmeler⚽ Skorlar | Tablolar | Bizi Bluesky'de takip edin | Mail Tom'a Günün Sorusu – Bu şampiyonluk yarışının hangi yöne gideceğini düşünüyoruz? Arsenal bunun üstesinden gelebilecek mi? Yoksa baskı altında mücadele edip City'nin almasına izin mi verecekler? Okumaya devam edin..."
-    },
-    {
-      "title": "Lindberg wins Turkish Airlines Open to qualify for US PGA Championship",
-      "summary": "Mikael Lindberg secured his maiden DP World Tour title and qualified for the US PGA Championship with a two-stroke win at the Turkish Airlines Open.",
-      "url": "https://www.skysports.com/golf/news/12040/13539652/dp-world-tour-mikael-lindberg-wins-turkish-airlines-open-to-qualify-for-us-pga-championship",
-      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-mikael-lindberg-golf_7237929.jpg?20260503130232",
-      "published": "2026-05-03T13:43:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:06:30.132871",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-03T14:09:35.293291",
-      "title_tr": "Lindberg, ABD PGA Şampiyonasına hak kazanmak için Turkish Airlines Open'ı kazandı",
-      "summary_tr": "Mikael Lindberg, ilk DP Dünya Turu şampiyonluğunu elde etti ve Turkish Airlines Open'da iki vuruşluk galibiyetle ABD PGA Şampiyonası'na katılmaya hak kazandı."
-    },
-    {
-      "title": "Knaak's late strike edges Man City closer to WSL title",
-      "summary": "Rebecca Knaak's late strike saw Manchester City beat Liverpool 1-0 and take a step closer to the WSL title.",
-      "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/545727",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-rebecca-knaak-wsl_7237966.jpg?20260503140420",
-      "published": "2026-05-03T14:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:06:30.133034",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-03T14:09:35.298090",
-      "title_tr": "Knaak'ın son vuruşu Manchester City'yi WSL şampiyonluğuna yaklaştırdı",
-      "summary_tr": "Rebecca Knaak'ın son vuruşu Manchester City'nin Liverpool'u 1-0 yenmesini ve WSL şampiyonluğuna bir adım daha yaklaşmasını sağladı."
+      "processed_at": "2026-05-03T15:41:03.472371",
+      "title_tr": "RKC Waalwijk, De Wijs'i Hollanda'ya geri getiriyor",
+      "summary_tr": "RKC Waalwijk, Jordy de Wijs'i Hollanda'ya geri getirmek üzere. 31 yaşındaki defans oyuncusunun Fortuna Düsseldorf'tan bedelsiz transfer olduğu ve önümüzdeki hafta iki yıllık sözleşme imzalaması bekleniyor."
     },
     {
       "title": "Bundesliga Matchday 32 video highlights",
@@ -455,13 +492,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:13.139987",
+      "fetched_at": "2026-05-03T15:38:23.759262",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-03T14:09:35.401836",
+      "processed_at": "2026-05-03T15:41:02.700273",
       "title_tr": "Bundesliga 32. Maçın öne çıkan videoları",
       "summary_tr": "Heidenheim, şampiyon Bayern Münih'i neredeyse şok ederken, Bayer Leverkusen RB Leipzig ve Hoffenheim'ı mağlup ederken VfB Stuttgart bir gerilim oyunu sergiledi."
     },
@@ -475,35 +512,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-03T14:07:13.142067",
+      "fetched_at": "2026-05-03T15:38:23.760840",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-05-03T14:09:35.419051",
+      "processed_at": "2026-05-03T15:41:02.717928",
       "title_tr": "Patrik Schick'in hat-trick'i Bayer Leverkusen'i RB Leipzig'i yenerek Şampiyonlar Ligi futboluna bir adım daha yaklaştırdı",
       "summary_tr": "Bayer Leverkusen, 32. Maç günü BayArena'da RB Leipzig'i 4-1 mağlup ederken Patrik Schick hat-trick yaptı ve bu sonuçla, kalan iki maçla dördüncü sıraya yükseldiler."
-    },
-    {
-      "title": "Anton Kade brace fires Augsburg to impressive away win at Werder Bremen",
-      "summary": "Augsburg beat Werder Bremen 3-1 at the Weserstadion on Matchday 32 after Anton Kade scored twice and Kristijan Jakić added a third in the second half. The result means Manuel Baum's side are now just three points beyond Eintracht Frankfurt and Freiburg.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-augsburg-match-report-highlights-matchday-32-37186",
-      "image_url": null,
-      "published": "2026-05-02T15:32:42",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:07:13.148667",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-03T14:09:35.472009",
-      "title_tr": "Anton Kade desteği Augsburg'u Werder Bremen'de etkileyici bir deplasman galibiyetine kovdu",
-      "summary_tr": "Augsburg, 32. Maç günü Weserstadion'da Anton Kade'nin iki gol atması ve Kristijan Jakić'in ikinci yarıda üçüncü bir gol atmasının ardından Werder Bremen'i 3-1 mağlup etti. Sonuç, Manuel Baum'un takımının artık Eintracht Frankfurt ve Freiburg'un sadece üç puan gerisinde olduğu anlamına geliyor."
     },
     {
       "title": "Turkish Airlines Open 2026 Golf Turnuvası sona erdi",
@@ -515,75 +533,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-03T14:08:27.992365",
+      "fetched_at": "2026-05-03T15:39:49.068821",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-05-03T14:09:35.848761",
+      "processed_at": "2026-05-03T15:41:03.132547",
       "title_tr": "Turkish Airlines Open 2026 Golf Turnuvası sona erdi",
       "summary_tr": "DP World Tour takviminde yer alan ve DP Dünya Turu Asya Serisi kapsamında Antalya'da organize edilen Turkish Airlines Open 2026 Golf Turnuvası'nda İsveçli sporcu Mikael Lindberg şampiyon oldu."
-    },
-    {
-      "title": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nu Avustralyalı Berwick kazandı",
-      "summary": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nda (TUR 2026) Caja Rural-Seguros RGA takımından Avustralyalı sporcu Sebastian Berwick birinci oldu.",
-      "url": "https://www.cnnturk.com/spor/diger-sporlar/61-cumhurbaskanligi-turkiye-bisiklet-turunu-avustralyali-berwick-kazandi-2423332",
-      "image_url": null,
-      "published": "2026-05-03T14:03:11",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:08:27.993301",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-03T14:09:35.921696",
-      "title_tr": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nu Avustralyalı Berwick kazandı",
-      "summary_tr": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nda (TUR 2026) Caja Rural-Seguros RGA takımından Avustralyalı sporcu Sebastian Berwick birinci oldu."
-    },
-    {
-      "title": "Galatasaray Brezilyalı yıldız için transferde düğmeye bastı!",
-      "summary": "Galatasaray'da gelecek sezon için transfer çalışmaları hız kesmeden devam ediyor. Cimbom'un son olarak Brezilyalı o yıldızın transferi için devreye girdiği öğrenildi. İşte sarı-kırmızılı taraftarları heyecanlandıran...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/03/galatasaray-brezilyali-yildiz-icin-tansferde-dugmeye-basti",
-      "image_url": "https://iaftm.tmgrup.com.tr/7bb9e8/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/05/03/galatasaray-brezilyali-yildiz-icin-tansferde-dugmeye-basti-1777798655934.jpeg",
-      "published": "2026-05-03T08:58:55",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:08:41.090906",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-03T14:09:36.089138",
-      "title_tr": "Galatasaray Brezilyalı yıldız için transferde düğmeye bastı!",
-      "summary_tr": "Galatasaray'da gelecek sezon için transfer çalışmaları hız kesmeden devam ediyor. Cimbom'un son olarak Brezilyalı o yıldızın transferi için devreye girdiği öğrenildi. İşte sarı-kırmızılı taraftarları heyecanlandıran...Devamı için tıklayınız"
-    },
-    {
-      "title": "Trio ekibi Samsunspor - Galatasaray maçını yorumladı! Günay'ın kırmızı kart gördüğü pozisyon...",
-      "summary": "Son dakika Galatasaray transfer haberleri: Trendyol Süper Lig'in 32. haftasında Galatasaray, deplasmanda Samsunspor'a 4-1 yenilerek bitime 3 hafta kala şampiyonluğunu ilan etme şansını tepti. Trio ekibi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/03/trio-ekibi-samsunspor-galatasaray-macini-yorumladi-gunayin-kirmizi-kart-gordugu-pozisyon",
-      "image_url": "https://iaftm.tmgrup.com.tr/a1bcf7/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/05/03/trio-ekibi-samsunspor-galatasaray-macini-yorumladi-gunayin-kirmizi-kart-gordugu-pozisyon-1777790835373.jpeg",
-      "published": "2026-05-03T06:47:46",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-03T14:08:41.091059",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-03T14:09:36.108630",
-      "title_tr": "Trio ekibi Samsunspor - Galatasaray maçını yorumladı! Günay'ın kırmızı kart gördüğü pozisyon...",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Trendyol Süper Lig'in 32. haftasında Galatasaray, deplasmanda Samsunspor'a 4-1 yenilerek bitime 3 hafta kala şampiyonluğunu ilan etme şansını tepti. Trio ekibi...Devamı için tıklayınız"
     },
     {
       "title": "Watford sack head coach Ed Still after dismal end to Championship season",
@@ -595,14 +552,53 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-03T14:06:50.179941",
+      "fetched_at": "2026-05-03T15:38:00.823834",
       "priority_score": 48,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-05-03T14:09:35.349341",
+      "processed_at": "2026-05-03T15:41:02.641159",
       "title_tr": "Watford, Şampiyonluk sezonunun kasvetli sonunun ardından başantrenör Ed Still'i görevden aldı",
       "summary_tr": "Will Still'in 35 yaşındaki kardeşi üç ay görevde kaldıWatford, 2020-21 sezonunun sonundan bu yana 11. teknik direktörünü görevden aldıWatford, Şampiyonluk kulübünün sezondaki kasvetli sonunun ardından, iki buçuk yıllık sözleşmesinin sadece üç ayında olan Ed Still'i kovdu. Halen Watford'un 11. daimi başantrenörüydü"
+    },
+    {
+      "title": "European football: Barcelona close on La Liga title; PSG and Bayern held at home",
+      "summary": "Barça will be champions if Real fail to win on SundayBayern draw with Heidenheim; PSG denied by LorientBarcelona could secure the La Liga title on Sunday after Robert Lewandowski and Ferran Torres struck late in a 2-1 victory at Osasuna. With four games remaining, Barça top the table on 88 points, 1",
+      "url": "https://www.theguardian.com/football/2026/may/02/european-football-psg-drop-ligue-1-points-to-lorient-with-minds-on-bayern-tie",
+      "image_url": null,
+      "published": "2026-05-02T22:50:51",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:38:00.825363",
+      "priority_score": 48,
+      "categories": [
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-03T15:41:02.663853",
+      "title_tr": "Avrupa futbolu: Barselona La Liga şampiyonluğuna yaklaşıyor; PSG ve Bayern evinde kaldı",
+      "summary_tr": "Real'in Pazar günü Bayern Heidenheim ile yapacağı beraberlikte kazanamaması durumunda Barça şampiyon olacak; LorientBarcelona, ​​PSG'nin Pazar günü Robert Lewandowski ve Ferran Torres'in Osasuna'da 2-1'lik galibiyetin sonlarına doğru attığı golün ardından La Liga şampiyonluğunu garantileyebileceğini reddetti. Geriye 4 maç kala Barça 88 puanla zirvede yer alıyor."
+    },
+    {
+      "title": "Alex Ferguson Manchester United-Liverpool maçı öncesi hastaneye kaldırıldı",
+      "summary": "Old Trafford Stadı, Manchester United ile Liverpool arasındaki tarihi rekabete ev sahipliği yapmaya hazırlanırken, trib...",
+      "url": "https://www.yenisafak.com/spor/alex-ferguson-manchester-united-liverpool-maci-oncesi-hastaneye-kaldirildi-4820696",
+      "image_url": null,
+      "published": "2026-05-03T18:25:16",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-03T15:40:19.762362",
+      "priority_score": 47,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-03T15:41:03.281453",
+      "title_tr": "Alex Ferguson Manchester United-Liverpool maçı öncesi hastaneye kaldırıldı",
+      "summary_tr": "Old Trafford Stadı, Manchester United ile Liverpool arasındaki tarihi rekabete ev sahipliği yapmaya hazırlanırken, trib..."
     }
   ]
 }
