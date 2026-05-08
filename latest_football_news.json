@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-05-08T19:08:11.375512",
+  "timestamp": "2026-05-08T20:50:19.437009",
   "total_items": 30,
   "news": [
+    {
+      "title": "Liverpool's Isak may return vs. Chelsea - Slot",
+      "summary": "Arne Slot has confirmed that striker Alexander Isak could return to the squad for Liverpool's Premier League clash with Chelsea this weekend.",
+      "url": "https://www.espn.com/soccer/story/_/id/48711933/alexander-isak-return-liverpool-chelsea-arne-slot",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.688935",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.836961",
+      "title_tr": "Liverpoollu Isak, Chelsea karşısında geri dönebilir - Slot",
+      "summary_tr": "Arne Slot, forvet Alexander Isak'ın bu hafta sonu Liverpool'un Chelsea ile yapacağı Premier Lig karşılaşmasında kadroya dönebileceğini doğruladı."
+    },
     {
       "title": "PSG star Khvicha Kvaratskhelia's brother on trial at Bayern Munich",
       "summary": "Paris Saint-Germain star Khvicha Kvaratskhelia's brother, Tornike, is currently training with Bayern Munich, sporting director Christoph Freund has confirmed.",
@@ -12,39 +33,37 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.816560",
+      "fetched_at": "2026-05-08T20:45:59.645128",
       "priority_score": 96,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-08T19:06:45.085376",
+      "processed_at": "2026-05-08T20:48:48.004573",
       "title_tr": "PSG yıldızı Khvicha Kvaratskhelia'nın kardeşi Bayern Münih'te yargılanıyor",
       "summary_tr": "Sportif Direktör Christoph Freund, Paris Saint-Germain'in yıldızı Khvicha Kvaratskhelia'nın kardeşi Tornike'nin şu anda Bayern Münih'te antrenman yaptığını doğruladı."
     },
     {
-      "title": "Bayern Munich's Alphonso Davies set for spell on the sidelines due to injury",
-      "summary": "Alphonso Davies is set to be out of action for several weeks after suffering a hamstring injury in Bayern Munich's UEFA Champions League semi-final second leg against Paris Saint-Germain, the club have confirmed.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/alphonso-davies-injury-bayern-munich-canada-world-cup-37277",
+      "title": "Samuele Inácio: Who is Borussia Dortmund's Italian-Brazilian talent?",
+      "summary": "Samuele Inácio scored his first Bundesliga goal on just his sixth appearance for the Borussia Dortmund first team on the penultimate weekend of the 2025/26 season. Find out more on the upcoming Italian...",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/samuele-inacio-who-is-borussia-dortmunds-latest-italian-debutant-36268",
       "image_url": null,
-      "published": "2026-05-08T10:00:00",
+      "published": "2026-05-09T03:12:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.818907",
+      "fetched_at": "2026-05-08T20:45:59.643785",
       "priority_score": 91,
       "categories": [
-        "transfers",
+        "match_results",
         "breaking_news",
-        "injuries",
-        "bundesliga",
-        "champions_league"
+        "bundesliga"
       ],
-      "processed_at": "2026-05-08T19:06:45.104933",
-      "title_tr": "Bayern Münihli Alphonso Davies, sakatlığı nedeniyle sahalardan uzak kalacak",
-      "summary_tr": "Kulüp, Bayern Münih'in UEFA Şampiyonlar Ligi yarı final rövanş maçında Paris Saint-Germain'e karşı oynadığı Alphonso Davies'in dizinden sakatlanmasının ardından birkaç hafta sahalardan uzak kalacağını doğruladı."
+      "processed_at": "2026-05-08T20:48:47.991451",
+      "title_tr": "Samuele Inácio: Borussia Dortmund'un İtalyan-Brezilyalı yeteneği kim?",
+      "summary_tr": "Samuele Inácio, Bundesliga'daki ilk golünü, 2025/26 sezonunun sondan bir önceki haftasonunda Borussia Dortmund formasıyla altıncı kez forma giyerken attı. Yaklaşan İtalyan oyunu hakkında daha fazla bilgi edinin..."
     },
     {
       "title": "Waarom AZ doorgaat met Leeroy Echteld",
@@ -56,35 +75,75 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-08T19:06:42.060192",
+      "fetched_at": "2026-05-08T20:48:42.960368",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-05-08T19:06:45.916808",
+      "processed_at": "2026-05-08T20:48:49.099281",
       "title_tr": "AZ neden Leeroy Echteld ile devam ediyor?",
-      "summary_tr": "Kupayı kazanmadan çok önce AZ yönetimi, geçici antrenör Leeroy Echteld'in geleceğin baş antrenörünün profiliyle buluştuğunu biliyordu. Böylece sözleşmesi 2028 yılına kadar uzatılmış oldu. Gelen futbol direktörü Niels van Duinen açıklamalarda bulunuyor."
+      "summary_tr": "AZ yönetimi, kupayı kazanmadan çok önce, geçici antrenör Leeroy Echteld'in geleceğin baş antrenör profiliyle buluştuğunu biliyordu. Böylece sözleşmesi 2028 yılına kadar uzatılmış oldu. Gelen futbol direktörü Niels van Duinen açıklamalarda bulunuyor."
+    },
+    {
+      "title": "Fernandes wins FWA Footballer of the Year award",
+      "summary": "Manchester United captain Bruno Fernandes has been crowned the 2026 Footballer of the Year by the Football Writers' Association (FWA)",
+      "url": "https://www.espn.com/soccer/story/_/id/48711508/manchester-united-captain-bruno-fernandes-wins-fwa-football-year-award",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.688497",
+      "priority_score": 70,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.835373",
+      "title_tr": "Fernandes, FWA Yılın Futbolcusu ödülünü kazandı",
+      "summary_tr": "Manchester United kaptanı Bruno Fernandes, Futbol Yazarları Birliği (FWA) tarafından 2026 Yılın Futbolcusu seçildi."
     },
     {
       "title": "Hull City v Millwall: Championship playoff semi-final, first leg – live",
-      "summary": "⚽ Championship news from the first leg; kick-off 8pm BST⚽ Forty years of playoffs | Follow on Bluesky | Mail SimonDue to spending a fair chunk of this season in far-flung places covering cricket I haven’t seen as much live football this season as usual, but I have seen both of these teams in the fle",
+      "summary": "⚽ Championship news from the first leg; kick-off 8pm BST⚽ Forty years of playoffs | Follow on Bluesky | Mail Simon1 min: From kick-off a long ball leads to a long throw, which leads to a corner, which is headed away.1 min: Peeeep! Millwall get the game started “in their cream strip with navy and min",
       "url": "https://www.theguardian.com/football/live/2026/may/08/hull-city-v-millwall-championship-playoff-semi-final-first-leg-live",
       "image_url": null,
-      "published": "2026-05-08T18:41:41",
+      "published": "2026-05-08T20:39:22",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:48.663910",
+      "fetched_at": "2026-05-08T20:45:36.613642",
       "priority_score": 63,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-08T19:06:45.032435",
+      "processed_at": "2026-05-08T20:48:47.911958",
       "title_tr": "Hull City - Millwall: Şampiyona playoff yarı finali, ilk maç – canlı",
-      "summary_tr": "⚽ İlk maçtan şampiyonluk haberleri; başlama saati 20:00 BST⚽ Kırk yıllık playofflar | Bluesky'de takip edin | Mail Simon Bu sezonun büyük bir kısmını kriket haberlerini kapsayan çok uzak yerlerde geçirdiğim için bu sezon her zamanki gibi çok fazla canlı futbol görmedim, ancak bu iki takımı da filede gördüm."
+      "summary_tr": "⚽ İlk maçtan şampiyonluk haberleri; başlama saati 20:00 BST⚽ Kırk yıllık playofflar | Bluesky'de takip edin | Mail Simon 1 dk: Başlama vuruşundan itibaren uzun bir top, uzun bir atışa yol açar, bu da kornere yol açar ve bu atış uzaklara doğru gidiyor. 1 dk: Peeeep! Millwall oyunu \"lacivert ve minyonlarla krem ​​rengi şeritleriyle\" başlattı"
+    },
+    {
+      "title": "Djokovic beaten by 20-year-old qualifier on return from injury in Rome",
+      "summary": "Novak Djokovic suffered a shock defeat to a Croatian qualifier 18 years younger than him at the Italian Open in his first match back after two months out with a shoulder injury.",
+      "url": "https://www.skysports.com/tennis/news/12040/13541680/novak-djokovic-suffers-shock-italian-open-exit-to-20-year-old-qualifier-dino-prizmic-in-return-from-injury-in-rome",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-novak-djokovic-tennis_7243007.jpg?20260508202825",
+      "published": "2026-05-08T19:39:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:45:14.133169",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news",
+        "injuries"
+      ],
+      "processed_at": "2026-05-08T20:48:47.871361",
+      "title_tr": "Djokovic, Roma'da sakatlık sonrası elemelerde 20 yaşındaki oyuncuya yenildi",
+      "summary_tr": "Novak Djokovic, omuz sakatlığı nedeniyle iki ay sahalardan uzak kaldıktan sonra İtalya Açık'ta kendisinden 18 yaş küçük bir Hırvat eleme oyuncusuna karşı ilk maçında şok bir yenilgiye uğradı."
     },
     {
       "title": "SON DAKİKA... Beşiktaş - Trabzonspor maçının hakemi açıklandı",
@@ -96,13 +155,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-08T19:05:28.873254",
+      "fetched_at": "2026-05-08T20:47:32.975085",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-05-08T19:06:45.523548",
+      "processed_at": "2026-05-08T20:48:48.561980",
       "title_tr": "SON DAKİKA... Beşiktaş - Trabzonspor maçının hakemi açıklandı",
       "summary_tr": "Son dakika haberine göre; Beşiktaş - Trabzonspor maçının hakemi belli oldu."
     },
@@ -111,177 +170,62 @@
       "summary": "Manchester United captain Bruno Fernandes wins the Football Writers' Association's men's Footballer of the Year award.",
       "url": "https://www.bbc.com/sport/football/articles/cn8pvvp6n0qo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-05-08T17:07:21",
+      "published": "2026-05-08T19:35:32",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:13.636749",
+      "fetched_at": "2026-05-08T20:45:03.350712",
       "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-08T19:06:45.004569",
+      "processed_at": "2026-05-08T20:48:47.849375",
       "title_tr": "Man Utd'lu Fernandes, Futbol Yazarları erkekler ödülünü kazandı",
       "summary_tr": "Manchester United kaptanı Bruno Fernandes, Futbol Yazarları Birliği'nin erkeklerde Yılın Futbolcusu ödülünü kazandı."
     },
     {
-      "title": "Man Utd levert na zestien jaar weer winnaar van prestigieuze award",
-      "summary": "Bruno Fernandes is door de schrijvende pers in Engeland verkozen tot Voetballer van het Jaar. De Portugese assistkoning van Manchester United bleef Declan Rice en Erling Haaland voor in de prestigieuze spelersverkiezing.",
-      "url": "https://www.vi.nl/nieuws/bruno-fernandes-met-prestigieuze-award-in-voetsporen-united-iconen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/08/50dca3f926b5606c78472ae6f464c50f136c8392.jpg?width=1200",
-      "published": "2026-05-08T18:14:09",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:06:42.059759",
-      "priority_score": 57,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-08T19:06:45.823813",
-      "title_tr": "Man Utd, on altı yıl sonra yine prestijli bir ödül kazandı",
-      "summary_tr": "Bruno Fernandes, İngiltere'deki yazılı basın tarafından Yılın Futbolcusu seçildi. Manchester United'ın Portekizli asist kralı, prestijli oyuncu seçiminde Declan Rice ve Erling Haaland'ın önünde yer aldı."
-    },
-    {
-      "title": "Arteta rallies Arsenal for huge Premier League weekend",
-      "summary": "As the Premier League title race nears its conclusion, Arsenal manager Mikel Arteta tells his players and the Gunners fans to \"stay present and live the moment\".",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?at_medium=RSS&at_campaign=rss",
+      "title": "Madrid’s shambolic fight club braced for Barcelona to land knockout blow",
+      "summary": "Head coach Álvaro Arbeloa is facing the bitterest of ends as faint hopes are set to be extinguished by fiercest rivalsThe vice-captain was taken to hospital for stitches having been laid out by his midfield partner. Another midfielder said he wouldn’t play any more; as if he was going to play anyway",
+      "url": "https://www.theguardian.com/football/2026/may/08/real-madrid-barcelona-knockout-blow-la-liga",
       "image_url": null,
-      "published": "2026-05-08T18:49:21",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:13.636493",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-08T19:06:45.004229",
-      "title_tr": "Arteta, dev Premier Lig hafta sonu için Arsenal'i bir araya getiriyor",
-      "summary_tr": "Premier Lig şampiyonluk yarışı sona yaklaşırken, Arsenal menajeri Mikel Arteta oyuncularına ve Gunners taraftarlarına \"mevcut kalmalarını ve anı yaşamalarını\" söylüyor."
-    },
-    {
-      "title": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’",
-      "summary": "Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA CupFran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it",
-      "url": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
-      "image_url": null,
-      "published": "2026-05-08T18:02:28",
+      "published": "2026-05-08T19:57:59",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:48.665664",
+      "fetched_at": "2026-05-08T20:45:36.614088",
       "priority_score": 53,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-08T19:06:45.046961",
-      "title_tr": "Brighton'dan Fran Kirby: 'Başsız bir tavuk gibi ortalıkta koşmak yerine durup değerlendirme yapıyorum'",
-      "summary_tr": "Eski Chelsea forveti güney sahilinde gelişiyor ve Kadınlar FA Kupası'nda Liverpool'a karşı zafer kazanmayı hedefliyor. Fran Kirby ne getireceğini biliyor. Her zaman öyleydi. Brighton'ın forvet oyuncusu bir futbolcu için genç değil ama 32 yaşında, yaşlı da değil ve sakatlığı olmadığı için insanlara hâlâ bu güce sahip olduğunu hatırlatıyor"
-    },
-    {
-      "title": "Stokes in the wickets for Durham in first game back post-Ashes",
-      "summary": "England Test captain Ben Stokes has put himself forward as a possible new-ball option for the Test series against New Zealand next month after taking two wickets for Durham in his first appearance since the Ashes.",
-      "url": "https://www.skysports.com/cricket/news/12040/13541630/ben-stokes-strikes-twice-for-durham-as-england-captain-makes-county-comeback-in-first-appearance-post-ashes",
-      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-ben-stokes-durham_7242844.jpg?20260508175945",
-      "published": "2026-05-08T17:49:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:26.031821",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-05-08T19:06:45.011796",
-      "title_tr": "Ashes sonrası ilk maçta Durham kalesinde Stokes var",
-      "summary_tr": "İngiltere Test kaptanı Ben Stokes, Ashes'tan bu yana ilk kez Durham adına iki kaleyi aldıktan sonra önümüzdeki ay Yeni Zelanda'ya karşı yapılacak Test serisi için kendisini olası bir yeni top seçeneği olarak öne sürdü."
-    },
-    {
-      "title": "Anadolu Efes evinde farklı kazandı!",
-      "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi'nde normal sezonun 30'uncu ve son haftasında Onvo Büyükçekmece Basketbol'u 113-79 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-evinde-farkli-kazandi-43169388",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69fe2940ab5d4689784840b2.jpg",
-      "published": "2026-05-08T18:20:53",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:09.827349",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.229916",
-      "title_tr": "Anadolu Efes evinde farklı kazandı!",
-      "summary_tr": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi'nde normal sezonun 30'uncu ve son haftasında Onvo Büyükçekmece Basketbol'u 113-79 mağlup etti."
-    },
-    {
-      "title": "Dortmund Evinde Frankfurt’a Karşı Üstün, Fenerbahçe EuroLeague’de Deplasmanlarda Kayıp… İşte Misli’den Günün Tüyoları!",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-      "url": "https://www.hurriyet.com.tr/sporarena/dortmund-evinde-frankfurta-karsi-ustun-fenerbahce-euroleaguede-deplasmanlarda-kayip-iste-misliden-gunun-tuyolari-43169096",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69fdcc3552384ef7dd17ee42.jpg",
-      "published": "2026-05-08T11:43:35",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:09.828129",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.331038",
-      "title_tr": "Dortmund Evinde Frankfurt’a Karşı Üstün, Fenerbahçe EuroLeague’de Deplasmanlarda Kayıp… İşte Misli’den Günün Tüyoları!",
-      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!"
-    },
-    {
-      "title": "Real Madrid’den Aurelien Tchouameni ve Federico Valverde açıklaması",
-      "summary": "Real Madrid, kavga eden oyuncuları Aurelien Tchouameni ile Federico Valverde hakkında bilgilendirmede bulundu.",
-      "url": "https://www.cnnturk.com/spor/futbol/real-madridden-aurelien-tchouameni-ve-federico-valverde-aciklamasi-2425443",
-      "image_url": null,
-      "published": "2026-05-08T19:35:28",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:28.871875",
-      "priority_score": 51,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-05-08T19:06:45.412558",
-      "title_tr": "Real Madrid’den Aurelien Tchouameni ve Federico Valverde açıklaması",
-      "summary_tr": "Real Madrid, kavga eden oyuncuları Aurelien Tchouameni ile Federico Valverde hakkında bilgilendirmede bulundu."
+      "processed_at": "2026-05-08T20:48:47.917177",
+      "title_tr": "Madrid'in karmakarışık dövüş kulübü, Barselona'nın nakavt darbesi indirmesine hazırlandı",
+      "summary_tr": "Baş antrenör Álvaro Arbeloa, en zorlu rakipleri tarafından sönecek olan zayıf umutlar nedeniyle en acı sonlarla karşı karşıya. Kaptan yardımcısı, orta saha arkadaşı tarafından atılan dikişler nedeniyle hastaneye kaldırıldı. Başka bir orta saha oyuncusu artık oynamayacağını söyledi; sanki yine de oynayacakmış gibi"
     },
     {
-      "title": "Osimhen Şampiyonlar Ligi'nde zirvede!",
-      "summary": "UEFA Şampiyonlar Ligi'ne son 16 turunda elenen Galatasaray'da Victor Osimhen, sarı-kırmızılıları sırtlayan isim oldu. Nijeryalı yıldız, bu sezon Devler Ligi'nde en çok maçın oyuncusu ödülünü alan futbolcu oldu.",
-      "url": "https://www.haberturk.com/galatasaray-da-victor-osimhen-sampiyonlar-ligi-nde-zirvede-3883241-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/08/ver1778243421/3883241/jpg/1280x1280",
-      "published": "2026-05-08T12:30:53",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Bayern Munich's Alphonso Davies set for spell on the sidelines due to injury",
+      "summary": "Alphonso Davies is set to be out of action for several weeks after suffering a hamstring injury in Bayern Munich's UEFA Champions League semi-final second leg against Paris Saint-Germain, the club have confirmed.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/alphonso-davies-injury-bayern-munich-canada-world-cup-37277",
+      "image_url": null,
+      "published": "2026-05-08T10:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:54.772736",
-      "priority_score": 48,
+      "fetched_at": "2026-05-08T20:45:59.648897",
+      "priority_score": 91,
       "categories": [
-        "super_lig"
+        "transfers",
+        "breaking_news",
+        "injuries",
+        "bundesliga",
+        "champions_league"
       ],
-      "processed_at": "2026-05-08T19:06:45.210419",
-      "title_tr": "Osimhen Şampiyonlar Ligi'nde zirvede!",
-      "summary_tr": "UEFA Şampiyonlar Ligi'ne son 16 turunda elenen Galatasaray'da Victor Osimhen, sarı-kırmızılıları sırtlayan isim oldu. Nijeryalı yıldız, bu sezon Devler Ligi'nde en çok maçın oyuncusu ödülünü alan futbolcu oldu."
+      "processed_at": "2026-05-08T20:48:48.052224",
+      "title_tr": "Bayern Münihli Alphonso Davies, sakatlığı nedeniyle sahalardan uzak kalacak",
+      "summary_tr": "Kulüp, Bayern Münih'in UEFA Şampiyonlar Ligi yarı final rövanş maçında Paris Saint-Germain'e karşı yaşadığı sakatlık nedeniyle Alphonso Davies'in birkaç hafta sahalardan uzak kalacağını doğruladı."
     },
     {
       "title": "Bournemouth drop Álex Jiménez amid investigation into alleged messages to 15-year-old",
@@ -293,15 +237,55 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:48.665986",
+      "fetched_at": "2026-05-08T20:45:36.614410",
       "priority_score": 68,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-05-08T19:06:45.051243",
-      "title_tr": "Bournemouth, 15 yaşındaki çocuğa gönderildiği iddia edilen mesajlarla ilgili soruşturma sırasında Álex Jiménez'i düşürdü",
+      "processed_at": "2026-05-08T20:48:47.923056",
+      "title_tr": "Bournemouth, 15 yaşındaki çocuğa gönderildiği iddia edilen mesajlarla ilgili soruşturma kapsamında Álex Jiménez'i düşürdü",
       "summary_tr": "Oyuncu, sosyal medyada dolaşan paylaşımlardan haberdar olarak FulhamClub'da Cumartesi günkü maçtan çekildi. Bournemouth, sosyal medya paylaşımlarıyla ilgili soruşturma başlattıktan sonra Álex Jiménez'in Cumartesi günkü Fulham maçında kadrosundan çıkarıldığını doğruladı."
+    },
+    {
+      "title": "Copy of How Barcelona can make Clásico history and cap off...",
+      "summary": "After a week of infighting at Real Madrid, Barcelona can strike a new blow on their bitter rivals by winning the title against them for the first time.",
+      "url": "https://www.espn.com/soccer/story/_/id/48701641/barcelona-clasico-history-la-liga-title-real-madrid-nightmare-week-tchouameni-valverde",
+      "image_url": null,
+      "published": "2026-05-08T11:06:23",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.687876",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-08T20:48:47.834340",
+      "title_tr": "Barselona'nın Clásico'yu nasıl tarihlendirip bitirebileceğinin kopyası...",
+      "summary_tr": "Real Madrid'de bir hafta süren çekişmenin ardından Barcelona, ​​ezeli rakiplerine karşı ilk kez şampiyonluk kazanarak onlara yeni bir darbe indirebilir."
+    },
+    {
+      "title": "Messi: Neymar one of best, has to be at WCup",
+      "summary": "Argentina and Inter Miami CF star Lionel Messi said that Neymar is one of the best players in the world and thus has to be at the FIFA World Cup with Brazil.",
+      "url": "https://www.espn.com/soccer/story/_/id/48712889/lionel-messi-brazil-neymar-one-best-world-cup",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.688807",
+      "priority_score": 65,
+      "categories": [
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-08T20:48:47.836303",
+      "title_tr": "Messi: Neymar en iyilerden biri, WCup'ta olmalı",
+      "summary_tr": "Arjantin ve Inter Miami CF'nin yıldızı Lionel Messi, Neymar'ın dünyanın en iyi oyuncularından biri olduğunu ve bu nedenle Brezilya ile FIFA Dünya Kupası'nda yer alması gerektiğini söyledi."
     },
     {
       "title": "The million-euro dressing room row - Real Madrid fine star pair",
@@ -313,35 +297,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:13.637933",
+      "fetched_at": "2026-05-08T20:45:03.351667",
       "priority_score": 65,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-05-08T19:06:45.008325",
+      "processed_at": "2026-05-08T20:48:47.863068",
       "title_tr": "Milyon euroluk soyunma odası kavgası - Real Madrid'in yıldız çifti",
       "summary_tr": "Real Madrid'in iyi orta saha oyuncuları Aurelien Tchouameni ve Federico Valverde, ikili arasındaki soyunma odası tartışmasının ardından."
-    },
-    {
-      "title": "Football Daily | Real Madrid and some truly toxic vibes. Next up … El Clásico",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!This feels like a good day to distract ourselves from [gestures in general direction of outside world] … so let’s check in on the latest events at Real Madrid. Have they finally found dressing-room harmony? Ah. Eek. Oh boy. Two statements from the c",
-      "url": "https://www.theguardian.com/football/2026/may/08/football-daily-email-real-madrid-chaos-clasico",
-      "image_url": null,
-      "published": "2026-05-08T14:51:37",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:48.665338",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-05-08T19:06:45.042698",
-      "title_tr": "Futbol Günlük | Real Madrid ve bazı gerçekten zehirli hisler. Sıradaki… El Clasico",
-      "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Şimdi kaydolun! Bu, dikkatimizi [dış dünyaya genel yön veren jestlerden] uzaklaştırmak için iyi bir gün gibi geliyor… o halde hadi Real Madrid'deki en son olaylara göz atalım. Sonunda soyunma odası uyumunu buldular mı? Ah. Eek. Ah oğlum. C'den iki açıklama"
     },
     {
       "title": "Amed için flaş transfer iddiası!",
@@ -353,13 +317,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:54.772470",
+      "fetched_at": "2026-05-08T20:46:54.753723",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-08T19:06:45.188176",
+      "processed_at": "2026-05-08T20:48:48.138922",
       "title_tr": "Amed için flaş transfer iddiası!",
       "summary_tr": "Süper Lig'in yeni ekibi Amed Sportif Faaliyetler'in, Tottenham forması giyen Malili orta saha oyuncusu Yves Bissouma'yı kadrosuna katmak için harekete geçtiği iddia edildi."
     },
@@ -373,15 +337,95 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.817172",
+      "fetched_at": "2026-05-08T20:45:59.645692",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-08T19:06:45.090424",
+      "processed_at": "2026-05-08T20:48:48.011848",
       "title_tr": "Freiburg, UEFA Avrupa Ligi'nde finale yükselen 11. Bundesliga takımı oldu",
       "summary_tr": "Freiburg, ilk Avrupa kupası finaline ulaşarak kulüp tarihine geçti ancak UEFA Avrupa Ligi veya UEFA Kupası finaline çıkan tek Bundesliga takımı değil."
+    },
+    {
+      "title": "Barcelona have been running Lamine Yamal into the ground: Is it really worth the risk?",
+      "summary": "Lamine Yamal is the best teenager ever, and it makes him more susceptible to injury than the likes of Messi or Neymar ever were.",
+      "url": "https://www.espn.com/soccer/story/_/id/48705257/lamine-yamal-best-player-spain-barcelona-face-conundrum-it",
+      "image_url": null,
+      "published": "2026-05-08T14:38:15",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.689587",
+      "priority_score": 60,
+      "categories": [
+        "injuries",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-08T20:48:47.840790",
+      "title_tr": "Barcelona, ​​Lamine Yamal'ı yerle bir ediyor: Gerçekten riske değer mi?",
+      "summary_tr": "Lamine Yamal gelmiş geçmiş en iyi genç oyuncu ve bu onu Messi veya Neymar gibi isimlerden daha fazla sakatlanmaya açık hale getiriyor."
+    },
+    {
+      "title": "Transfer rumors, news: Man City eye Vinícius Júnio...",
+      "summary": "Manchester City are waiting in the wings should Vinícius Júnior become available this summer. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
+      "image_url": null,
+      "published": "2026-05-08T10:51:21",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.689865",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.843233",
+      "title_tr": "Transfer söylentileri, haberler: Manchester City'nin gözü Vinícius Júnio...",
+      "summary_tr": "Manchester City, Vinícius Júnior'un bu yaz müsait olması durumunda kanatlarda bekliyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Man City's failure to keep Shaw is a huge mistake,...",
+      "summary": "Khadija Shaw, the WSL's best striker, looks set to leave newly-crowned champions Manchester City on a free transfer. But why? And where could she go?",
+      "url": "https://www.espn.com/soccer/story/_/id/48703161/man-city-failure-keep-shaw-wsl-success-huge-mistake-especially-joins-chelsea",
+      "image_url": null,
+      "published": "2026-05-08T10:51:21",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.689988",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.844735",
+      "title_tr": "Manchester City'nin Shaw'ı elinde tutmaması büyük bir hata...",
+      "summary_tr": "WSL'nin en iyi forveti Khadija Shaw, yeni şampiyon Manchester City'den bedelsiz transfer olmaya hazır görünüyor. Ama neden? Peki nereye gidebilirdi?"
+    },
+    {
+      "title": "'Barça praat met talentvolle Spurs-huurling, Atlético winkelt bij Wolves'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/mls-club-doet-lewandowski-aanbieding-mainz-licht-optie-op-becker",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-05-08T19:41:33",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:48:42.959678",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-08T20:48:48.920724",
+      "title_tr": "'Barça, Spurs'ten ödünç alınan yetenekli oyuncuyla konuşuyor, Atlético Wolves'ta alışveriş yapıyor'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "F1 agrees 2027 engine changes to tweak power split",
@@ -393,15 +437,152 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-08T19:03:26.032420",
+      "fetched_at": "2026-05-08T20:45:14.133885",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-05-08T19:06:45.024186",
+      "processed_at": "2026-05-08T20:48:47.898169",
       "title_tr": "F1, güç dağılımını ayarlamak için 2027 motor değişikliklerini kabul etti",
       "summary_tr": "Formula 1'in patronları, 2027 sezonu için sporun motor kurallarında, mevcut 50-50'ye yakın güç dağılımını değiştirerek, içten yanmalı çıktıda artış görecek değişiklikler yapmayı kabul etti."
+    },
+    {
+      "title": "Valverde, Tchouaméni fined $589K each for row",
+      "summary": "Real Madrid have imposed fines of €500,000 each on Federico Valverde and Aurélien Tchouaméni following their explosive bust-up at the training ground on Thursday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48712532/real-madrid-federico-valverde-aurelien-tchouameni-fined-500k-fight",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.688133",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-05-08T20:48:47.834710",
+      "title_tr": "Valverde ve Tchouaméni'ye satır başına 589 bin dolar para cezası verildi",
+      "summary_tr": "Real Madrid, Perşembe günü antrenman sahasında yaşanan patlamanın ardından Federico Valverde ve Aurélien Tchouaméni'ye 500.000 Euro para cezası verdi."
+    },
+    {
+      "title": "Arsenal's Arteta dismisses 'celebration police'",
+      "summary": "Mikel Arteta has dismissed criticism from the so-called \"celebration police\" over Arsenal's reaction to reaching the Champions League Final.",
+      "url": "https://www.espn.com/soccer/story/_/id/48712114/mikel-arteta-dismisses-criticism-celebration-police-arsenal-champions-league-reaction",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.688663",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.835811",
+      "title_tr": "Arsenal'li Arteta 'kutlama polisi'ni görevden aldı",
+      "summary_tr": "Mikel Arteta, Arsenal'in Şampiyonlar Ligi Finaline ulaşmasındaki tepkisi nedeniyle sözde \"kutlama polisi\"nin eleştirilerini reddetti."
+    },
+    {
+      "title": "👀Prediction time: Liverpool to beat Chelsea?",
+      "summary": "Will Liverpool or Chelsea boost their Champions League hopes? Will Barcelona clinch LaLiga with a Clásico win? Julien Laurens makes his predictions.",
+      "url": "https://www.espn.com/soccer/story/_/id/48703664/weekend-soccer-predictions-premier-league-liverpool-chelsea-laliga-clasico-barcelona-real-madrid",
+      "image_url": null,
+      "published": "2026-05-08T20:37:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:44:57.689361",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.839248",
+      "title_tr": "👀Tahmin zamanı: Liverpool, Chelsea'yi yener mi?",
+      "summary_tr": "Liverpool veya Chelsea Şampiyonlar Ligi umutlarını artıracak mı? Barcelona, ​​LaLiga'yı Clásico galibiyetiyle perçinleyecek mi? Julien Laurens tahminlerini yapıyor."
+    },
+    {
+      "title": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’",
+      "summary": "Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA CupFran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it",
+      "url": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
+      "image_url": null,
+      "published": "2026-05-08T18:02:28",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:45:36.615494",
+      "priority_score": 53,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-08T20:48:47.943479",
+      "title_tr": "Brighton'dan Fran Kirby: 'Başsız bir tavuk gibi ortalıkta koşmak yerine durup değerlendirme yapıyorum'",
+      "summary_tr": "Eski Chelsea forveti güney sahilinde gelişiyor ve Kadınlar FA Kupası'nda Liverpool'a karşı zafer kazanmayı hedefliyor. Fran Kirby ne getireceğini biliyor. Her zaman öyleydi. Brighton'ın forvet oyuncusu bir futbolcu için genç değil ama 32 yaşında, yaşlı da değil ve sakatlığı olmadığı için insanlara hâlâ bu güce sahip olduğunu hatırlatıyor"
+    },
+    {
+      "title": "Stokes in the wickets for Durham in first game back post-Ashes",
+      "summary": "England Test captain Ben Stokes has put himself forward as a possible new-ball option for the Test series against New Zealand next month after taking two wickets for Durham in his first appearance since the Ashes.",
+      "url": "https://www.skysports.com/cricket/news/12040/13541630/ben-stokes-strikes-twice-for-durham-as-england-captain-makes-county-comeback-in-first-appearance-post-ashes",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-ben-stokes-durham_7242844.jpg?20260508175945",
+      "published": "2026-05-08T17:49:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:45:14.133253",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-08T20:48:47.874468",
+      "title_tr": "Ashes sonrası ilk maçta Durham kalesinde Stokes var",
+      "summary_tr": "İngiltere Test kaptanı Ben Stokes, Ashes'tan bu yana ilk kez Durham adına iki kaleyi aldıktan sonra önümüzdeki ay Yeni Zelanda'ya karşı yapılacak Test serisi için kendisini olası bir yeni top seçeneği olarak öne sürdü."
+    },
+    {
+      "title": "Vincent Kompany gets behind UEFA Europa League finalists Freiburg",
+      "summary": "Bayern Munich head coach Vincent Kompany has hailed Freiburg's run to the 2025/26 UEFA Europa League final as great for German football.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/vincent-kompany-praises-freiburg-europa-league-final-villa-37282",
+      "image_url": null,
+      "published": "2026-05-09T02:05:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:45:59.644656",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-08T20:48:47.997969",
+      "title_tr": "Vincent Kompany, UEFA Avrupa Ligi finalisti Freiburg'un arkasına geçti",
+      "summary_tr": "Bayern Münih başantrenörü Vincent Kompany, Freiburg'un 2025/26 UEFA Avrupa Ligi finaline çıkmasını Alman futbolu için harika bir gelişme olarak övdü."
+    },
+    {
+      "title": "Samuele Inácio and Nico Schlotterbeck fire BVB to victory in an emotional farewell night",
+      "summary": "Borussia Dortmund secured the runners-up spot in the Bundesliga this season after coming from behind to beat Eintracht Frankfurt 3-2 on an emotionally charged night in which departing trio Julian Brandt, Niklas Süle and Salih Özcan made their final appearances at Signal Iduna Park in a Dortmund shir",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-eintracht-frankfurt-match-report-highlights-matchday-33-brandt-37285",
+      "image_url": null,
+      "published": "2026-05-08T20:24:54",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-05-08T20:45:59.646461",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-08T20:48:48.021288",
+      "title_tr": "Samuele Inácio ve Nico Schlotterbeck duygusal bir veda gecesinde BVB'yi zafere taşıdı",
+      "summary_tr": "Borussia Dortmund, Julian Brandt, Niklas Süle ve Salih Özcan'ın Dortmund formasıyla Signal Iduna Park'ta son kez sahneye çıktığı duygusal yüklü gecede Eintracht Frankfurt'u 3-2 mağlup ederek bu sezon Bundesliga'da ikinci sırayı garantiledi."
     },
     {
       "title": "Top 10 Bundesliga wins vs. English clubs in Europe",
@@ -413,191 +594,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.821321",
+      "fetched_at": "2026-05-08T20:45:59.651247",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-08T19:06:45.127888",
+      "processed_at": "2026-05-08T20:48:48.085338",
       "title_tr": "Avrupa'daki İngiliz kulüplerine karşı Bundesliga'nın en iyi 10 galibiyeti",
       "summary_tr": "Freiburg, 2025/26 UEFA Avrupa Ligi finalinde Aston Villa ile karşılaştığında kıta koleksiyonuna büyük bir İngiliz kafa derisini ekleyebilir. Bayern Münih, Borussia Dortmund, Bayer Leverkusen, RB Leipzig, Wolfsburg, Borussia Mönchengladbach ve Köln de Fransa takımlarına karşı ünlü geceler yaşadı."
-    },
-    {
-      "title": "Julian Brandt to be given fitting Borussia Dortmund farewell",
-      "summary": "Julian Brandt scored less than 15 minutes after coming off the bench on his Borussia Dortmund debut in 2019, setting the tone for a goal-filled seven-year stint at the club. Now set for his final game at Signal Iduna Park as a BVB player on Friday, the 30-year-old will be given a rousing send-off by",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/julian-brandt-borussia-dortmund-emotional-farewell-yellow-wall-frankfurt-37247",
-      "image_url": null,
-      "published": "2026-05-08T06:20:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.821774",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-08T19:06:45.133358",
-      "title_tr": "Julian Brandt'a Borussia Dortmund'a yakışan veda verilecek",
-      "summary_tr": "Julian Brandt, 2019'da Borussia Dortmund'daki ilk maçında yedek kulübesinden çıktıktan sonra 15 dakikadan az bir sürede gol atarak, kulüpteki yedi yıllık gol dolu kariyerin tonunu belirledi. Şimdi Cuma günü BVB oyuncusu olarak Signal Iduna Park'ta oynayacağı son maça hazırlanan 30 yaşındaki oyuncu, heyecan verici bir uğurlama töreniyle uğurlanacak."
-    },
-    {
-      "title": "Fenerbahçe'de Aziz Yıldırım’dan son dakika çağrısı",
-      "summary": "Aziz Yıldırım, Fenerbahçe’de yaklaşan seçim öncesi yeni bir mesaj yayımladı.",
-      "url": "https://www.cnnturk.com/spor/fenerbahcede-aziz-yildirimdan-son-dakika-cagrisi-2425416",
-      "image_url": null,
-      "published": "2026-05-08T16:46:58",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:28.872683",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.469373",
-      "title_tr": "Fenerbahçe'de Aziz Yıldırım’dan son dakika çağrısı",
-      "summary_tr": "Aziz Yıldırım, Fenerbahçe’de yaklaşan seçim öncesi yeni bir mesaj yayımladı."
-    },
-    {
-      "title": "West Ham on brink a decade after David Sullivan announced his ‘big club’ feelings",
-      "summary": "The club chair said the move to the London Stadium showed they were not a ‘tinpot club’ but now relegation threat loomsWhen David Sullivan was pressed on why West Ham bothered to move to the London Stadium, the lack of substance to his argument offered a window into the club’s dysfunction. “I just t",
-      "url": "https://www.theguardian.com/football/2026/may/08/west-ham-on-brink-a-decade-since-david-sullivan-big-club-feelings",
-      "image_url": null,
-      "published": "2026-05-08T18:00:34",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:48.667418",
-      "priority_score": 48,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-05-08T19:06:45.069220",
-      "title_tr": "West Ham, David Sullivan'ın 'büyük kulüp' duygularını açıklamasından on yıl sonra uçurumun eşiğinde",
-      "summary_tr": "Kulüp başkanı, Londra Stadı'na taşınmanın kendilerinin \"çöp bir kulüp\" olmadığını gösterdiğini ancak artık küme düşme tehlikesinin belirdiğini söyledi. David Sullivan'a West Ham'ın neden Londra Stadı'na taşınma zahmetine girdiği sorulduğunda, argümanının içerik eksikliği kulübün işlevsizliğine bir pencere açtı. “Ben sadece"
-    },
-    {
-      "title": "Beşiktaş'a Rus smaçör!",
-      "summary": "Yeni sezon öncesi transfer çalışmalarını sürdüren Beşiktaş Kadın Voleybol Takımı, Rus smaçör Polina Shemanova'yı renklerine bağladı.",
-      "url": "https://www.haberturk.com/besiktas-rus-smacor-polina-shemanova-yi-transfer-etti-3883301-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/08/ver1778260668/3883301/jpg/1280x1280",
-      "published": "2026-05-08T17:18:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:04:54.772240",
-      "priority_score": 48,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.172092",
-      "title_tr": "Beşiktaş'a Rus smaçör!",
-      "summary_tr": "Yeni sezon öncesi transfer çalışmalarını sürdüren Beşiktaş Kadın Voleybol Takımı, Rus smaçör Polina Shemanova'yı renklerine bağladı."
-    },
-    {
-      "title": "Bundesliga Matchday 33 probable teams",
-      "summary": "Will Jobe Bellingham and Borussia Dortmund seal a runners-up finish when they host Eintracht Frankfurt on the penultimate matchday of the season this Friday?",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-2025-26-bayern-dortmund-leverkusen-fantasy-20707",
-      "image_url": null,
-      "published": "2026-05-08T11:20:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:04:09.817662",
-      "priority_score": 46,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-08T19:06:45.093314",
-      "title_tr": "Bundesliga 33. maç muhtemel takımları",
-      "summary_tr": "Jobe Bellingham ve Borussia Dortmund, bu Cuma sezonun sondan bir önceki maç gününde Eintracht Frankfurt'u konuk ettiklerinde ikinciliğe ulaşabilecek mi?"
-    },
-    {
-      "title": "Aziz Yıldırım için iddia! Teknik direktör adayı belli oldu",
-      "summary": "Fenerbahçe'de 6-7 Haziran'da yapılacak başkanlık seçimi öncesi adaylar Hakan Safi ve Aziz Yıldırım, teknik direktör ve transfer adayları ile görüşmelerini sürdürüyor. Bu bağlamda Aziz Yıldırım'ın teknik direktörlük için teklif götürdüğü isim ortaya çıktı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-icin-iddia-teknik-direktor-adayi-belli-oldu-43169170",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69fdec4952384ef7dd17eecc.jpg",
-      "published": "2026-05-08T14:00:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:09.827863",
-      "priority_score": 46,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.292020",
-      "title_tr": "Aziz Yıldırım için iddia! Teknik direktör adayı belli oldu",
-      "summary_tr": "Fenerbahçe'de 6-7 Haziran'da yapılacak başkanlık seçimi öncesi adaylar Hakan Safi ve Aziz Yıldırım, teknik direktör ve transfer adayları ile görüşmelerini sürdürüyor. Bu bağlamda Aziz Yıldırım'ın teknik direktörlük için teklif götürdüğü isim ortaya çıktı."
-    },
-    {
-      "title": "Shaw named Football Writers' Women's Player of Year",
-      "summary": "Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season.",
-      "url": "https://www.bbc.com/sport/football/articles/c4g08d8nkj5o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-08T17:06:48",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:13.636921",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-08T19:06:45.004855",
-      "title_tr": "Shaw, Futbol Yazarları tarafından Yılın Kadın Oyuncusu seçildi",
-      "summary_tr": "Manchester City'nin golcüsü Khadija Shaw, Futbol Yazarları Birliği'nin Sezonun Kadın Oyuncusu seçildi."
-    },
-    {
-      "title": "Real Madrid in crisis - inside the conflict and chaos at the Bernabeu",
-      "summary": "BBC Sport examines a torrid week for Real Madrid with the iconic club on the brink of a second successive trophyless season.",
-      "url": "https://www.bbc.com/sport/football/articles/c3r28w34l0wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-08T15:42:24",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:03:13.637543",
-      "priority_score": 45,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-05-08T19:06:45.006764",
-      "title_tr": "Real Madrid krizde - Bernabeu'daki çatışma ve kaosun içinde",
-      "summary_tr": "BBC Sport, Real Madrid'in art arda ikinci kez kupasız sezonun eşiğinde olduğu zorlu bir haftayı inceliyor."
-    },
-    {
-      "title": "Galatasaray'dan Sambacı orta sahaya kanca! 30 milyon Euro'yu gözden çıkardı",
-      "summary": "Galatasaray, orta saha için rotayı Brezilya'ya çevirdi. Botafogo forması giyen Danilo için sezon sonunda harekete geçmeye hazırlanan sarı-kırmızılılar, 30 milyon euroluk dev bir plan yapıyor. İşte transferin...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/08/galatasaraydan-sambaci-orta-sahaya-kanca-30-milyon-euroyu-gozden-cikardi",
-      "image_url": "https://iaftm.tmgrup.com.tr/2ca794/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/05/07/galatasaraydan-sambaci-orta-sahaya-kanca-30-milyon-euroyu-gozden-cikardi-1778185282537.jpeg",
-      "published": "2026-05-08T03:50:13",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-08T19:05:42.472183",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-08T19:06:45.697586",
-      "title_tr": "Galatasaray'dan Sambacı orta sahaya kanca! 30 milyon Euro'yu gözden çıkardı",
-      "summary_tr": "Galatasaray, orta saha için rotayı Brezilya'ya çevirdi. Botafogo forması giyen Danilo için sezon sonunda harekete geçmeye hazırlanan sarı-kırmızılılar, 30 milyon euroluk dev bir plan yapıyor. İşte transferin...Devamı için tıklayınız"
     }
   ]
 }
