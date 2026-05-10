@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T23:42:05.394416",
+  "timestamp": "2026-05-10T01:59:16.553783",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-09T23:38:05.293503",
+      "fetched_at": "2026-05-10T01:55:29.025328",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,29 +20,9 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-05-09T23:40:53.101190",
+      "processed_at": "2026-05-10T01:58:03.485363",
       "title_tr": "RB Leipzig, UEFA Şampiyonlar Ligi futbolunu yeniden güvence altına alırken Ole Werner başarılı oldu",
       "summary_tr": "Nadas bir yılın ardından RB Leipzig resmi olarak UEFA Şampiyonlar Ligi'ne geri döndü. Cumartesi günü St. Pauli'ye karşı alınan 2-1'lik galibiyet, Bundesliga'yı ilk dörtte bitirmeyi garantiledi ve çalkantılı bir yazın ardından kulübün yeniden canlanmasına yardımcı olan Ole Werner yönetiminde etkileyici bir ilk sezonu tamamladı."
-    },
-    {
-      "title": "Gomes close to Atletico deal - Sunday's gossip",
-      "summary": "Wolves set to agree deal to sell Joao Gomes to Atletico Madrid, PSG close to new Luis Enrique contract, and Liverpool are keen on Emi Martinez.",
-      "url": "https://www.bbc.com/sport/football/articles/c1w23n8j3zyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-09T23:02:02",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.912882",
-      "priority_score": 95,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-05-09T23:40:52.985827",
-      "title_tr": "Gomes Atletico ile anlaşmaya yakın - Pazar günkü dedikodular",
-      "summary_tr": "Wolves, Joao Gomes'i Atletico Madrid'e satma konusunda anlaşmaya varırken, PSG Luis Enrique ile yeni sözleşme imzalamaya yakın ve Liverpool, Emi Martinez'e meraklı."
     },
     {
       "title": "European football: Olise fires Bayern’s winner against Wolfsburg after Kane misses penalty",
@@ -54,7 +34,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.089961",
+      "fetched_at": "2026-05-10T01:55:04.066020",
       "priority_score": 93,
       "categories": [
         "match_results",
@@ -62,7 +42,7 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-05-09T23:40:53.067704",
+      "processed_at": "2026-05-10T01:58:03.441223",
       "title_tr": "Avrupa futbolu: Olise, Kane'in penaltıyı kaçırmasının ardından Bayern'in Wolfsburg'a karşı kazandığı galibiyeti kovdu",
       "summary_tr": "Kane, Bundesliga'daki ilk penaltı atışını 25 denemede kaçırdıSlavia-Sparta derbisi saha istilası nedeniyle yarıda kaldıHarry Kane, Bayern Münih'in en iyi formuna ulaşamaması nedeniyle penaltıyı kaçırdı ancak Bundesliga şampiyonu yine de Wolfsburg'u 1-0 yenerek hafta ortası Şampiyonlar Ligi yarı finalinden sonra toparlanmayı başardı."
     },
@@ -76,15 +56,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-09T23:38:05.294942",
+      "fetched_at": "2026-05-10T01:55:29.026778",
       "priority_score": 86,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-09T23:40:53.113494",
+      "processed_at": "2026-05-10T01:58:03.501161",
       "title_tr": "Harry Kane'in Bundesliga'daki penaltı serisi Wolfsburg'un kaçırılmasıyla sona erdi",
       "summary_tr": "Harry Kane, 2025/26 sezonunun 33. maçında Bayern Münih'in Wolfsburg'u 1-0 mağlup ettiği maçta ilk kez Bundesliga'da penaltı kaçırdı."
+    },
+    {
+      "title": "Gomes close to Atletico deal - Sunday's gossip",
+      "summary": "Wolves set to agree deal to sell Joao Gomes to Atletico Madrid, PSG close to new Luis Enrique contract, and Liverpool are keen on Emi Martinez.",
+      "url": "https://www.bbc.com/sport/football/articles/c1w23n8j3zyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-09T23:02:02",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:31.430110",
+      "priority_score": 85,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.313658",
+      "title_tr": "Gomes Atletico ile anlaşmaya yakın - Pazar günkü dedikodular",
+      "summary_tr": "Wolves, Joao Gomes'i Atletico Madrid'e satma konusunda anlaşmaya varırken, PSG Luis Enrique ile yeni sözleşme imzalamaya yakın ve Liverpool, Emi Martinez'e meraklı."
+    },
+    {
+      "title": "Copy of How Barcelona can make Clásico history and cap off...",
+      "summary": "After a week of infighting at Real Madrid, Barcelona can strike a new blow on their bitter rivals by winning the title against them for the first time.",
+      "url": "https://www.espn.com/soccer/story/_/id/48701641/barcelona-clasico-history-la-liga-title-real-madrid-nightmare-week-tchouameni-valverde",
+      "image_url": null,
+      "published": "2026-05-10T02:42:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.595848",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.289551",
+      "title_tr": "Barselona'nın Clásico'yu nasıl tarihlendirip bitirebileceğinin kopyası...",
+      "summary_tr": "Real Madrid'de bir hafta süren çekişmenin ardından Barcelona, ​​ezeli rakiplerine karşı ilk kez şampiyonluk kazanarak onlara yeni bir darbe indirebilir."
     },
     {
       "title": "Crystal Palace to offer Andoni Iraola lucrative deal to succeed Oliver Glasner",
@@ -96,16 +116,135 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.090327",
+      "fetched_at": "2026-05-10T01:55:04.066557",
       "priority_score": 78,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-05-09T23:40:53.073183",
+      "processed_at": "2026-05-10T01:58:03.448602",
       "title_tr": "Crystal Palace, Oliver Glasner'ın yerine Andoni Iraola'ya kazançlı bir anlaşma teklif edecek",
       "summary_tr": "İspanyol sezon sonunda Bournemouth'tan ayrılacak Chelsea ve diğer Premier Lig takımları da ilgileniyorCrystal Palace, Bournemouth'lu Andoni Iraola'yı Oliver Glasner'dan görevi devralmaya ikna etme girişimlerini hızlandırıyor ve ona üç yıllık kazançlı bir sözleşme teklif etmeye hazırlanıyor."
+    },
+    {
+      "title": "Messi stars as Miami cruise to 4-goal Toronto win",
+      "summary": "Inter Miami bounced back from a shock defeat to Orlando by putting four past Toronto on Saturday, with Lionel Messi masterminding the MLS win.",
+      "url": "https://www.espn.com/soccer/story/_/id/48723363/lionel-messi-luis-suarez-stars-inter-miami-bounce-back-4-goal-toronto-win",
+      "image_url": null,
+      "published": "2026-05-10T02:42:38",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.596641",
+      "priority_score": 65,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-05-10T01:58:03.291048",
+      "title_tr": "Miami, 4 gollü Toronto galibiyetine doğru ilerlerken Messi yıldızlaştı",
+      "summary_tr": "Inter Miami, Orlando'ya şok bir yenilgiden Cumartesi günü Toronto'yu dört sayı atarak geri döndü ve Lionel Messi MLS galibiyetini planladı."
+    },
+    {
+      "title": "Spirited Chelsea stop rot with FA Cup final blueprint",
+      "summary": "Chelsea were facing the prospect of becoming the first team in English football history to lose seven consecutive league matches heading into an FA Cup final when they fell 1-0 behind at Anfield, but they found a way out.",
+      "url": "https://www.bbc.com/sport/football/articles/c936420p1zgo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-09T15:33:07",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:31.430566",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-10T01:58:03.320262",
+      "title_tr": "Heyecanlı Chelsea, FA Kupası final planıyla çürümeyi durdurdu",
+      "summary_tr": "Chelsea, Anfield'da 1-0 geride kaldığında, İngiliz futbol tarihinde art arda yedi lig maçını kaybeden ve FA Cup finaline çıkan ilk takım olma ihtimaliyle karşı karşıyaydı ancak bir çıkış yolu buldular."
+    },
+    {
+      "title": "Osimhen schiet Galatasaray met twee goals naar 26ste landstitel in Turkije",
+      "summary": "Galatasaray is zaterdag voor de 26ste keer in de clubhistorie kampioen van Turkije geworden. Cimbom leek tegen Antalyaspor lange tijd nieuw puntenverlies te lijden, maar dankzij twee late doelpunten is de ploeg van invaller Noa Lang niet meer in te halen door Fenerbahçe.",
+      "url": "https://www.vi.nl/nieuws/osimhen-schiet-galatasaray-met-twee-goals-naar-26ste-landstitel-in-turkije",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/09/dc7dd32d792bb0f06b8d6cbe969e290d2012c8ec.jpg?width=1200",
+      "published": "2026-05-09T21:38:39",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:57:59.443391",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-10T01:58:04.589413",
+      "title_tr": "Osimhen iki golle Galatasaray'ı Türkiye'deki 26. şampiyonluğuna taşıdı",
+      "summary_tr": "Galatasaray cumartesi günü kulüp tarihinde 26. kez Türkiye şampiyonu oldu. Cimbom, Antalyaspor karşısında uzun süredir yeni bir puan kaybı yaşıyor gibi görünse de, geç gelen iki gol sayesinde yedek Noa Lang'ın takımı artık F.Bahçe'nin önüne geçemeyecek."
+    },
+    {
+      "title": "Okan Buruk, Galatasaray'da tarih yazdı: Fatih Terim'i rekorunu egale etti!",
+      "summary": "Galatasaray Teknik Direktörü Okan Buruk, futbolculuk döneminde kazandığı ligde üst üste 4 kez şampiyonluk başarısını teknik adam olarak da tekrarladı. Ayrıca 52 yaşındaki başarılı teknik adam, Fatih Terim'in rekorunu egale etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruk-galatasarayda-tarih-yazdi-fatih-terimi-rekorunu-egale-etti-43170100",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69ff94c030764a980b05a784.jpg",
+      "published": "2026-05-09T20:10:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:56:28.288306",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-10T01:58:03.803082",
+      "title_tr": "Okan Buruk, Galatasaray'da tarih yazdı: Fatih Terim'i rekorunu egale etti!",
+      "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, futbolculuk döneminde kazandığı ligde üst üste 4 kez şampiyonluk başarısını teknik adam olarak da tekrarladı. Ayrıca 52 yaşındaki başarılı teknik adam, Fatih Terim'in rekorunu egale etti."
+    },
+    {
+      "title": "Jesper Ceesay’nin Osimhen’e yaptığı hareket penaltı mı?",
+      "summary": "Trendyol Süper Lig’in 33. haftasında Galatasaray, sahasında Antalyaspor’u konuk etti. Mücadelenin 63. dakikasında yaşan...",
+      "url": "https://www.yenisafak.com/spor/osimhenin-pozisyonu-penalti-mi-iste-eski-hakemlerin-yorumlari-4822548",
+      "image_url": null,
+      "published": "2026-05-09T21:44:40",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:57:18.828735",
+      "priority_score": 47,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-05-10T01:58:04.252977",
+      "title_tr": "Jesper Ceesay’nin Osimhen’e yaptığı hareket penaltı mı?",
+      "summary_tr": "Trendyol Süper Lig’in 33. haftasında Galatasaray, sahasında Antalyaspor’u konuk etti. Mücadelenin 63. dakikasında yaşan..."
+    },
+    {
+      "title": "Samuele Inácio: Who is Borussia Dortmund's Italian-Brazilian talent?",
+      "summary": "Samuele Inácio scored his first Bundesliga goal on just his sixth appearance for the Borussia Dortmund first team on the penultimate weekend of the 2025/26 season. Find out more on the upcoming Italian-Brazilian playmaker...",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/samuele-inacio-who-is-borussia-dortmunds-latest-italian-debutant-36268",
+      "image_url": null,
+      "published": "2026-05-09T03:12:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:55:29.035319",
+      "priority_score": 76,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.597178",
+      "title_tr": "Samuele Inácio: Borussia Dortmund'un İtalyan-Brezilyalı yeteneği kim?",
+      "summary_tr": "Samuele Inácio, Bundesliga'daki ilk golünü, 2025/26 sezonunun sondan bir önceki haftasonunda Borussia Dortmund formasıyla altıncı kez forma giyerken attı. Yaklaşan İtalyan-Brezilyalı oyun kurucu hakkında daha fazla bilgi edinin..."
     },
     {
       "title": "Manchester City beat stubborn Brentford to keep title race alive",
@@ -117,13 +256,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.913489",
-      "priority_score": 70,
+      "fetched_at": "2026-05-10T01:54:31.430722",
+      "priority_score": 65,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-09T23:40:52.989794",
+      "processed_at": "2026-05-10T01:58:03.323124",
       "title_tr": "Manchester City şampiyonluk yarışını canlı tutmak için inatçı Brentford'u yendi",
       "summary_tr": "Jeremy Doku, Erling Haaland ve Omar Marmoush'un golleri, Manchester City'nin Etihad Stadyumu'nda Brentford'u 3-0 yenerek Premier Lig şampiyonluk yarışında hayati bir galibiyet elde etmesine yardımcı olurken City, kalan üç maçla lider Arsenal'in iki puan gerisinde kaldı."
     },
@@ -137,171 +276,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-09T23:40:08.771599",
+      "fetched_at": "2026-05-10T01:57:18.827959",
       "priority_score": 62,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-05-09T23:40:53.763357",
+      "processed_at": "2026-05-10T01:58:04.239658",
       "title_tr": "Beşiktaş'tan Sergen Yalçın kararı",
       "summary_tr": "Süper Lig 33. haftasında Trabzonspor'a 2-1 mağlup olan Beşiktaş'ta yönetim, karşılaşma sonrası acil toplantı gerçekleşt..."
-    },
-    {
-      "title": "Osimhen schiet Galatasaray met twee goals naar 26ste landstitel in Turkije",
-      "summary": "Galatasaray is zaterdag voor de 26ste keer in de clubhistorie kampioen van Turkije geworden. Cimbom leek tegen Antalyaspor lange tijd nieuw puntenverlies te lijden, maar dankzij twee late doelpunten is de ploeg van invaller Noa Lang niet meer in te halen door Fenerbahçe.",
-      "url": "https://www.vi.nl/nieuws/osimhen-schiet-galatasaray-met-twee-goals-naar-26ste-landstitel-in-turkije",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/09/dc7dd32d792bb0f06b8d6cbe969e290d2012c8ec.jpg?width=1200",
-      "published": "2026-05-09T21:38:39",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:40:48.613538",
-      "priority_score": 62,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:54.085751",
-      "title_tr": "Osimhen iki golle Galatasaray'ı Türkiye'deki 26. şampiyonluğuna taşıdı",
-      "summary_tr": "Galatasaray cumartesi günü kulüp tarihinde 26. kez Türkiye şampiyonu oldu. Cimbom, Antalyaspor karşısında uzun süredir yeni bir puan kaybı yaşıyor gibi görünse de, geç gelen iki gol sayesinde yedek Noa Lang'ın takımı artık F.Bahçe'nin önüne geçemeyecek."
-    },
-    {
-      "title": "Bolton edge Bradford in first leg of L1 semi after super Cozier-Duberry strike",
-      "summary": "Amario Cozier-Duberry's brilliant strike was enough for Bolton to earn a 1-0 first-leg win over Bradford in their League One play-off semi-final.",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-bradford-city/report/555905",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-bolton-wanderers_7244020.jpg?20260509212854",
-      "published": "2026-05-09T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:20.584324",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-05-09T23:40:53.002033",
-      "title_tr": "Süper Cozier-Duberry vuruşunun ardından Bolton, L1 yarı ilk ayağında Bradford'u geride bıraktı",
-      "summary_tr": "Amario Cozier-Duberry'nin harika vuruşu, Bolton'un League One play-off yarı finalinde Bradford'u ilk maçta 1-0 yenmesi için yeterliydi."
-    },
-    {
-      "title": "Sergen Yalçın, istifa edecek mi? Açıkladı",
-      "summary": "Sergen Yalçın, Trabzonspor müsabakası sonrası dikkat çeken açıklamalarda bulundu.",
-      "url": "https://www.cnnturk.com/spor/futbol/sergen-yalcin-istifa-edecek-mi-acikladi-2425650",
-      "image_url": null,
-      "published": "2026-05-10T00:07:42",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:39:33.125790",
-      "priority_score": 51,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-05-09T23:40:53.535506",
-      "title_tr": "Sergen Yalçın, istifa edecek mi? Açıkladı",
-      "summary_tr": "Sergen Yalçın, Trabzonspor müsabakası sonrası dikkat çeken açıklamalarda bulundu."
-    },
-    {
-      "title": "Okan Buruk: 4 sene üst üste şampiyonluk inanılmaz",
-      "summary": "Okan Buruk, takımı Galatasaray’ın şampiyonluğu sonrası duygu ve düşüncelerini aktardı.",
-      "url": "https://www.cnnturk.com/spor/futbol/okan-buruk-4-sene-ust-uste-sampiyonluk-inanilmaz-2425645",
-      "image_url": null,
-      "published": "2026-05-09T23:02:07",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:39:33.126100",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:53.552563",
-      "title_tr": "Okan Buruk: 4 sene üst üste şampiyonluk inanılmaz",
-      "summary_tr": "Okan Buruk, takımı Galatasaray’ın şampiyonluğu sonrası duygu ve düşüncelerini aktardı."
-    },
-    {
-      "title": "Galatasaray'dan şampiyonluk sonrası Fenerbahçe'ye olay gönderme",
-      "summary": "Trendyol Süper Lig’de üst üste 4. şampiyonluğunu ilan eden Galatasaray, kutlamalarını sosyal medya üzerinden yaptığı di...",
-      "url": "https://www.yenisafak.com/spor/galatasaraydan-sampiyonluk-sonrasi-fenerbahceye-olay-gonderme-4822563",
-      "image_url": null,
-      "published": "2026-05-09T23:10:45",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:40:08.770928",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:53.755499",
-      "title_tr": "Galatasaray'dan şampiyonluk sonrası Fenerbahçe'ye olay gönderme",
-      "summary_tr": "Trendyol Süper Lig’de üst üste 4. şampiyonluğunu ilan eden Galatasaray, kutlamalarını sosyal medya üzerinden yaptığı di..."
-    },
-    {
-      "title": "MLS-mijlpaal voor Messi na masterclass tegen Toronto",
-      "summary": "Inter Miami heeft zaterdag met ruime cijfers van Toronto FC gewonnen. Lionel Messi nam zijn ploeg bij de hand en de Argentijnse aanvoerder bereikte daardoor een mooie mijlpaal in de Amerikaanse competitie.",
-      "url": "https://www.vi.nl/nieuws/mls-mijlpaal-voor-messi-na-masterclass-tegen-toronto",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/09/85b1b7db64dae37d314cab5c5f4c3bd5cb39739b.jpg?width=1200",
-      "published": "2026-05-09T19:14:08",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:40:48.613477",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-05-09T23:40:54.066429",
-      "title_tr": "Toronto'ya karşı masterclass'ın ardından Messi için MLS dönüm noktası",
-      "summary_tr": "Inter Miami Cumartesi günü Toronto FC'yi büyük bir farkla yendi. Lionel Messi takımının elinden tuttu ve Arjantinli kaptan Amerika rekabetinde büyük bir kilometre taşına imza attı."
-    },
-    {
-      "title": "Samuele Inácio: Who is Borussia Dortmund's Italian-Brazilian talent?",
-      "summary": "Samuele Inácio scored his first Bundesliga goal on just his sixth appearance for the Borussia Dortmund first team on the penultimate weekend of the 2025/26 season. Find out more on the upcoming Italian-Brazilian playmaker...",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/samuele-inacio-who-is-borussia-dortmunds-latest-italian-debutant-36268",
-      "image_url": null,
-      "published": "2026-05-09T03:12:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:38:05.303322",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-09T23:40:53.191604",
-      "title_tr": "Samuele Inácio: Borussia Dortmund'un İtalyan-Brezilyalı yeteneği kim?",
-      "summary_tr": "Samuele Inácio, Bundesliga'daki ilk golünü, 2025/26 sezonunun sondan bir önceki haftasonunda Borussia Dortmund formasıyla altıncı kez forma giyerken attı. Yaklaşan İtalyan-Brezilyalı oyun kurucu hakkında daha fazla bilgi edinin..."
-    },
-    {
-      "title": "Spirited Chelsea stop rot with FA Cup final blueprint",
-      "summary": "Chelsea were facing the prospect of becoming the first team in English football history to lose seven consecutive league matches heading into an FA Cup final when they fell 1-0 behind at Anfield, but they found a way out.",
-      "url": "https://www.bbc.com/sport/football/articles/c936420p1zgo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-09T15:33:07",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.913336",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-09T23:40:52.988447",
-      "title_tr": "Heyecanlı Chelsea, FA Kupası final planıyla çürümeyi durdurdu",
-      "summary_tr": "Chelsea, Anfield'da 1-0 geride kaldığında, İngiliz futbol tarihinde art arda yedi lig maçını kaybeden ve FA Cup finaline çıkan ilk takım olma ihtimaliyle karşı karşıyaydı ancak bir çıkış yolu buldular."
     },
     {
       "title": "Jhon Duran'dan Galatasaray'ın şampiyonluk paylaşımına beğeni!",
@@ -313,15 +296,129 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-09T23:39:07.537207",
+      "fetched_at": "2026-05-10T01:56:28.288366",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-09T23:40:53.376906",
+      "processed_at": "2026-05-10T01:58:03.813587",
       "title_tr": "Jhon Duran'dan Galatasaray'ın şampiyonluk paylaşımına beğeni!",
       "summary_tr": "Fenerbahçe'nin kış transfer döneminde Zenit'e gönderdiği Jhon Duran, Galatasaray'ın şampiyonluk paylaşımını beğendi."
+    },
+    {
+      "title": "Copy of Get ready for El Clásico! Barça vs. Madrid title r...",
+      "summary": "All eyes will be on Barcelona on Sunday as Real Madrid try to stop their bitter rivals being crowned champions.",
+      "url": "https://www.espn.com/soccer/story/_/id/48683678/barcelona-real-madrid-clasico-preview-title-race-all-head-head-key-clashes-predictions-odds",
+      "image_url": null,
+      "published": "2026-05-10T02:42:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.596082",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.289896",
+      "title_tr": "El Clásico'ya hazır olun! kitabının kopyası Barça-Madrid şampiyonluğu...",
+      "summary_tr": "Real Madrid, ezeli rakiplerinin şampiyon olmasını engellemeye çalışırken Pazar günü tüm gözler Barselona'da olacak."
+    },
+    {
+      "title": "Pep asks West Ham for Arsenal favor after City win...",
+      "summary": "Pep Guardiola ended his postmatch news conference after the 3-0 win over Brentford by shouting \"come on you Irons\" as Manchester City hold out hope of getting a helping hand.",
+      "url": "https://www.espn.com/soccer/story/_/id/48723532/pep-guardiola-sends-title-race-plea-west-ham-come-irons-arsenal",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.596275",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-10T01:58:03.290243",
+      "title_tr": "Pep, City'nin galibiyetinden sonra West Ham'dan Arsenal'in desteğini istedi...",
+      "summary_tr": "Pep Guardiola, Brentford'a karşı alınan 3-0'lık galibiyetin ardından maç sonrası basın toplantısını, Manchester City'nin yardım eli alma umuduyla \"Haydi Ütüler\" diye bağırarak sonlandırdı."
+    },
+    {
+      "title": "Arbeloa: I won't burn Madrid players at the stake",
+      "summary": "Real Madrid coach Álvaro Arbeloa has made an emotional defence of Federico Valverde and Aurélien Tchouaméni after their training ground bust-up, hitting out at \"lies\" about his squad's professionalism and calling dressing room leaks \"a betrayal.\"",
+      "url": "https://www.espn.com/soccer/story/_/id/48719651/real-madrid-alvaro-arbeloa-federico-valverde-aurelien-tchouameni-laliga",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.596481",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.290607",
+      "title_tr": "Arbeloa: Madridli oyuncuları kazığa bağlamayacağım",
+      "summary_tr": "Real Madrid teknik direktörü Álvaro Arbeloa, antrenman sahasında yaşanan fiyaskonun ardından Federico Valverde ve Aurélien Tchouaméni'yi duygusal bir şekilde savundu, takımının profesyonelliğiyle ilgili \"yalanlara\" saldırdı ve soyunma odası sızıntılarını \"ihanet\" olarak nitelendirdi."
+    },
+    {
+      "title": "Slot on Liverpool boos: I can win back fans",
+      "summary": "Arne Slot has backed himself to win back the Liverpool fanbase after supporters booed the Dutchman and his team during Saturday's 1-1 draw with Chelsea.",
+      "url": "https://www.espn.com/soccer/story/_/id/48721300/arne-slot-liverpool-boos-chelsea-draw-win-back-fans",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.596951",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-10T01:58:03.292094",
+      "title_tr": "Liverpool yuhalamasında slot: Taraftarları geri kazanabilirim",
+      "summary_tr": "Arne Slot, Cumartesi günü Chelsea ile 1-1 berabere kalan taraftarların Hollandalı oyuncuyu ve takımını yuhalamasının ardından Liverpool hayran kitlesini geri kazanmak için kendini destekledi."
+    },
+    {
+      "title": "United held to goalless draw, go four unbeaten",
+      "summary": "Manchester United and Sunderland shared the spoils in a goalless Premier League stalemate at the Stadium of Light.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740953",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.597268",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-10T01:58:03.293605",
+      "title_tr": "United golsüz beraberliği korudu, dört yenilgisiz kaldı",
+      "summary_tr": "Manchester United ve Sunderland, Stadium of Light'ta oynanan golsüz Premier Lig maçında ganimeti paylaştı."
+    },
+    {
+      "title": "Vinicius and Mbappé at Barça? Bartomeu on talks",
+      "summary": "Former Barcelona president Josep Maria Bartomeu has said that the club had an \"agreement in principle\" to sign Vinícius Júnior he signed for rivals Real Madrid.",
+      "url": "https://www.espn.com/soccer/story/_/id/48721138/vinicius-junior-kylian-mbappe-barcelona-josep-bartomeu-talks",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.597422",
+      "priority_score": 55,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-05-10T01:58:03.294391",
+      "title_tr": "Vinicius ve Mbappé Barça'da mı? Bartomeu görüşmelerde",
+      "summary_tr": "Eski Barselona başkanı Josep Maria Bartomeu, kulübün, rakipleri Real Madrid için imzaladığı Vinícius Júnior'u imzalama konusunda \"prensipte anlaşma\"ya sahip olduğunu söyledi."
     },
     {
       "title": "Chelsea end losing run with draw away at Liverpool",
@@ -333,76 +430,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.914015",
-      "priority_score": 60,
+      "fetched_at": "2026-05-10T01:54:31.431212",
+      "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-09T23:40:52.994562",
+      "processed_at": "2026-05-10T01:58:03.332500",
       "title_tr": "Chelsea, Liverpool'la deplasmanda beraberlikle mağlubiyet serisini sonlandırdı",
       "summary_tr": "Enzo Fernandez, Ryan Gravenberch'in huzursuz Anfield'daki grevini iptal ederken, Liverpool, art arda altı Premier Lig yenilgisi serisi sona eren Chelsea takımı tarafından tutuldu."
-    },
-    {
-      "title": "If the manager market is just a roll of the dice, why are De Zerbi and Pereira prospering? | Jonathan Wilson",
-      "summary": "The eggheads can argue the head coach is merely an interchangeable cog in a team’s fortunes – but emotion counts in an ever-changing game Your manager has fallen out with the sporting director and results have gone awry, so you replace him. Easily done, it happens. But then it turns out that the new",
-      "url": "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira",
-      "image_url": null,
-      "published": "2026-05-09T19:00:04",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.090610",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-05-09T23:40:53.080954",
-      "title_tr": "Eğer menajerlik piyasası sadece bir zar atmaktan ibaretse, De Zerbi ve Pereira neden gelişiyor? | Jonathan Wilson",
-      "summary_tr": "Bilge kafalılar, başantrenörün bir takımın kaderinde sadece değiştirilebilir bir dişli olduğunu iddia edebilirler; ancak sürekli değişen bir oyunda duygular önemlidir. Menajeriniz sportif direktörle arası bozuldu ve sonuçlar ters gitti, bu yüzden onu değiştiriyorsunuz. Kolayca yapılır, olur. Ama sonra ortaya çıktı ki yeni"
-    },
-    {
-      "title": "Title race back ON! Doku inspires City to HUGE Brentford win",
-      "summary": "Highlights from the Premier League clash between Manchester City and Brentford.",
-      "url": "https://www.skysports.com/watch/video/13542094/manchester-city-3-0-brentford-premier-league-highlights",
-      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-manchester-city-brentford_7243878.jpg?20260509191636",
-      "published": "2026-05-09T19:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:20.584769",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-09T23:40:53.021386",
-      "title_tr": "Unvan yarışı yeniden BAŞLATILDI! Doku, City'e BÜYÜK Brentford zaferi için ilham veriyor",
-      "summary_tr": "Manchester City ile Brentford arasındaki Premier Lig karşılaşmasından öne çıkanlar."
-    },
-    {
-      "title": "Okan Buruk, Galatasaray'da tarih yazdı: Fatih Terim'i rekorunu egale etti!",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, futbolculuk döneminde kazandığı ligde üst üste 4 kez şampiyonluk başarısını teknik adam olarak da tekrarladı. Ayrıca 52 yaşındaki başarılı teknik adam, Fatih Terim'in rekorunu egale etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruk-galatasarayda-tarih-yazdi-fatih-terimi-rekorunu-egale-etti-43170100",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/69ff94c030764a980b05a784.jpg",
-      "published": "2026-05-09T20:10:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:39:07.537149",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:53.367673",
-      "title_tr": "Okan Buruk, Galatasaray'da tarih yazdı: Fatih Terim'i rekorunu egale etti!",
-      "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, futbolculuk döneminde kazandığı ligde üst üste 4 kez şampiyonluk başarısını teknik adam olarak da tekrarladı. Ayrıca 52 yaşındaki başarılı teknik adam, Fatih Terim'in rekorunu egale etti."
     },
     {
       "title": "Shankland earns point for Hearts at Motherwell as title race goes to the wire",
@@ -414,14 +450,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.089413",
+      "fetched_at": "2026-05-10T01:55:04.065599",
       "priority_score": 53,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-09T23:40:53.061481",
+      "processed_at": "2026-05-10T01:58:03.432803",
       "title_tr": "Shankland, Motherwell'de Hearts adına şampiyonluk yarışında puan kazandı",
       "summary_tr": "Hearts, Fir Park'ta oynanan heyecanlı maçta Motherwell'le berabere kalarak sezonun sondan bir önceki maçına İskoçya Premier Ligi'nde en az bir puan farkla zirvede girmeyi garantiledi. 1960'tan bu yana ilk şampiyonluğunu kovalayan konuk ekip, üst üste beşinci maçta geride kaldı."
+    },
+    {
+      "title": "If the manager market is just a roll of the dice, why are De Zerbi and Pereira prospering? | Jonathan Wilson",
+      "summary": "The eggheads can argue the head coach is merely an interchangeable cog in a team’s fortunes – but emotion counts in an ever-changing game Your manager has fallen out with the sporting director and results have gone awry, so you replace him. Easily done, it happens. But then it turns out that the new",
+      "url": "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira",
+      "image_url": null,
+      "published": "2026-05-09T19:00:04",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:55:04.066839",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-10T01:58:03.458823",
+      "title_tr": "Eğer menajerlik piyasası sadece bir zar atmaktan ibaretse, De Zerbi ve Pereira neden gelişiyor? | Jonathan Wilson",
+      "summary_tr": "Bilge kafalılar, başantrenörün bir takımın kaderinde sadece değiştirilebilir bir dişli olduğunu iddia edebilirler; ancak sürekli değişen bir oyunda duygular önemlidir. Menajeriniz sportif direktörle arası bozuldu ve sonuçlar ters gitti, bu yüzden onu değiştiriyorsunuz. Kolayca yapılır, olur. Ama sonra ortaya çıktı ki yeni"
     },
     {
       "title": "Into the Ronaldo-verse: sludge of content is eating up sport and the adults are to blame | Barney Ronay",
@@ -433,14 +490,53 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.090881",
+      "fetched_at": "2026-05-10T01:55:04.067112",
       "priority_score": 53,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-05-09T23:40:53.088452",
+      "processed_at": "2026-05-10T01:58:03.468801",
       "title_tr": "Ronaldo ayetine: İçerik çamuru sporu tüketiyor ve bunun sorumlusu yetişkinler | Barney Ronay",
       "summary_tr": "Futbolcunun 664 milyon takipçisi var ama onun sıkıcı varlığı, reel hayatın dokunduğu şeyleri nasıl yok ettiğini hatırlatıyor. Sırt çantalı havayollarının nefret ettiği şeyleri satın alın. Bir çocuk sporcuya garip bir şekilde yaltaklanıyor. Bu TV sunucusu bir ay boyunca zeytinyağı içti ve kesinlikle hiçbir şey olmadı. Sokaklar (gerçek sokaklar dahil değildir)"
+    },
+    {
+      "title": "Bolton edge Bradford in first leg of L1 semi after super Cozier-Duberry strike",
+      "summary": "Amario Cozier-Duberry's brilliant strike was enough for Bolton to earn a 1-0 first-leg win over Bradford in their League One play-off semi-final.",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-bradford-city/report/555905",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-bolton-wanderers_7244020.jpg?20260509212854",
+      "published": "2026-05-09T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:41.648709",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-10T01:58:03.345759",
+      "title_tr": "Süper Cozier-Duberry vuruşunun ardından Bolton, L1 yarı ilk ayağında Bradford'u geride bıraktı",
+      "summary_tr": "Amario Cozier-Duberry'nin harika vuruşu, Bolton'un League One play-off yarı finalinde Bradford'u ilk maçta 1-0 yenmesi için yeterliydi."
+    },
+    {
+      "title": "Title race back ON! Doku inspires City to HUGE Brentford win",
+      "summary": "Highlights from the Premier League clash between Manchester City and Brentford.",
+      "url": "https://www.skysports.com/watch/video/13542094/manchester-city-3-0-brentford-premier-league-highlights",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-manchester-city-brentford_7243878.jpg?20260509191636",
+      "published": "2026-05-09T19:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:41.649131",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-10T01:58:03.376430",
+      "title_tr": "Unvan yarışı yeniden BAŞLATILDI! Doku, City'e BÜYÜK Brentford zaferi için ilham veriyor",
+      "summary_tr": "Manchester City ile Brentford arasındaki Premier Lig karşılaşmasından öne çıkanlar."
     },
     {
       "title": "Michael Olise's stunner seals Bayern Munich win at relegation-threatened Wolfsburg",
@@ -452,14 +548,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-09T23:38:05.292824",
+      "fetched_at": "2026-05-10T01:55:29.024607",
       "priority_score": 51,
       "categories": [
         "bundesliga"
       ],
-      "processed_at": "2026-05-09T23:40:53.094992",
+      "processed_at": "2026-05-10T01:58:03.477303",
       "title_tr": "Michael Olise'nin sersemletici performansı, Bayern Münih'in düşme tehlikesi altındaki Wolfsburg'da galibiyetini garantiledi",
       "summary_tr": "Michael Olise'nin ikinci yarıdaki çarpıcı vuruşu, Bayern Münih'in son bir maç kala küme düşme bölgesinde kalan enerjik Wolfsburg'u geride bırakmasıyla farkı kanıtladı."
+    },
+    {
+      "title": "🤕Injury tracker: Who will miss 2026 World Cup?",
+      "summary": "Which key players might not be participating in this summer's tournament? Here's the latest on key injuries impacting World Cup teams.",
+      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+      "image_url": null,
+      "published": "2026-05-10T02:42:37",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-10T01:54:24.597651",
+      "priority_score": 50,
+      "categories": [
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-10T01:58:03.295218",
+      "title_tr": "🤕Sakatlık takipçisi: 2026 Dünya Kupası'nı kim kaçıracak?",
+      "summary_tr": "Bu yazın turnuvasına hangi önemli oyuncular katılamayacak? İşte Dünya Kupası takımlarını etkileyen önemli yaralanmalarla ilgili son gelişmeler."
     },
     {
       "title": "Bournemouth sink Fulham in 10-a-side contest to strengthen European hopes",
@@ -471,130 +587,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-09T23:37:41.088587",
+      "fetched_at": "2026-05-10T01:55:04.064771",
       "priority_score": 48,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-09T23:40:53.046875",
+      "processed_at": "2026-05-10T01:58:03.412821",
       "title_tr": "Bournemouth, Avrupa umutlarını güçlendirmek için 10'a 10'luk müsabakada Fulham'ı mağlup etti",
       "summary_tr": "Bournemouth için Avrupa'ya doğru bir dev adım daha, Rayan'ın yeteneğine bir kez daha bakış, hedefi yüksek oktanlı koşuşturmanın ortasında bir anlık sakinlik, zaman ve mekan. Öfke taştı ve ilk yarıda mantık kaybı nedeniyle her iki takımda da sayı 10'a düştü. Fulham, Avrupa foo'su olma yolunda kendi arayışı için çok mücadele etti"
-    },
-    {
-      "title": "Jesper Ceesay’nin Osimhen’e yaptığı hareket penaltı mı?",
-      "summary": "Trendyol Süper Lig’in 33. haftasında Galatasaray, sahasında Antalyaspor’u konuk etti. Mücadelenin 63. dakikasında yaşan...",
-      "url": "https://www.yenisafak.com/spor/osimhenin-pozisyonu-penalti-mi-iste-eski-hakemlerin-yorumlari-4822548",
-      "image_url": null,
-      "published": "2026-05-09T21:44:40",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:40:08.772353",
-      "priority_score": 47,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:53.775562",
-      "title_tr": "Jesper Ceesay’nin Osimhen’e yaptığı hareket penaltı mı?",
-      "summary_tr": "Trendyol Süper Lig’in 33. haftasında Galatasaray, sahasında Antalyaspor’u konuk etti. Mücadelenin 63. dakikasında yaşan..."
-    },
-    {
-      "title": "Jose Mourinho'dan Arda Güler kararı: Real Madrid'de 5 futbolcuyu çizdi",
-      "summary": "Jose Mourinho ile Real Madrid arasındaki temasların yeniden hız kazandığı öne sürüldü. İspanyol basınında yer alan habe...",
-      "url": "https://www.yenisafak.com/spor/jose-mourinhodan-arda-guler-karari-real-madridde-5-futbolcuyu-cizdi-4822500",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/9/7b9ed7f5-4g8i87r4vks6urrskic3vw.webp",
-      "published": "2026-05-09T16:44:57",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:40:08.786653",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-05-09T23:40:53.890132",
-      "title_tr": "Jose Mourinho'dan Arda Güler kararı: Real Madrid'de 5 futbolcuyu çizdi",
-      "summary_tr": "Jose Mourinho ile Real Madrid arasındaki temasların yeniden hız kazandığı öne sürüldü. İspanyol basınında yer alan habe..."
-    },
-    {
-      "title": "Fenerbahçe’de Ederson, kararını verdi! Transfer…",
-      "summary": "Fenerbahçe’de Ederson, yaz aylarında takımdan ayrılmayı düşünüyor ve bunun için de harekete geçti.",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-ederson-kararini-verdi-transfer-2425609",
-      "image_url": null,
-      "published": "2026-05-09T17:49:59",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:39:33.127488",
-      "priority_score": 46,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-09T23:40:53.699652",
-      "title_tr": "Fenerbahçe’de Ederson, kararını verdi! Transfer…",
-      "summary_tr": "Fenerbahçe’de Ederson, yaz aylarında takımdan ayrılmayı düşünüyor ve bunun için de harekete geçti."
-    },
-    {
-      "title": "'The goals are coming' - is Doku keeping Man City in title race?",
-      "summary": "Jeremy Doku said last month that he needed to add more goals to his game to be considered one of the best wingers in the world, so is he part of that conversation now?",
-      "url": "https://www.bbc.com/sport/football/articles/c8d8gdrpm54o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-09T20:30:51",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.912016",
-      "priority_score": 45,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-09T23:40:52.982465",
-      "title_tr": "'Goller geliyor' - Doku Manchester City'yi şampiyonluk yarışında tutacak mı?",
-      "summary_tr": "Jeremy Doku geçen ay dünyanın en iyi kanat oyuncularından biri olarak kabul edilebilmesi için oyununa daha fazla gol eklemesi gerektiğini söyledi, o da şimdi bu konuşmanın bir parçası mı?"
-    },
-    {
-      "title": "Lacking depth, little threat - Man Utd will not find replacing Casemiro easy",
-      "summary": "Manchester United have failed to win any of the four Premier League games Casemiro has failed to start this season, leaving Michael Carrick to ponder how to replace him when he leaves this summer.",
-      "url": "https://www.bbc.com/sport/football/articles/clypwjjrz3jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-09T18:32:06",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.912397",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-09T23:40:52.983750",
-      "title_tr": "Derinlik yok, tehdit az - Man Utd, Casemiro'yu değiştirmeyi kolay bulmayacak",
-      "summary_tr": "Manchester United, Casemiro'nun bu sezona başlamayı başaramadığı dört Premier Lig maçından hiçbirini kazanamadı ve Michael Carrick, bu yaz ayrıldığında onun yerini nasıl alacağını düşünmek zorunda kaldı."
-    },
-    {
-      "title": "Sunderland and Man Utd play out goalless draw",
-      "summary": "Sunderland are denied by visiting goalkeeper Senne Lammens and have a possible penalty for handball waved away as the hosts play out a goalless draw with Manchester United at the Stadium of Light in the Premier League.",
-      "url": "https://www.bbc.com/sport/football/videos/c4g40zvepnpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-09T18:59:40",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-09T23:37:08.914167",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-09T23:40:52.995980",
-      "title_tr": "Sunderland ve Man Utd golsüz berabere kaldı",
-      "summary_tr": "Sunderland, konuk kaleci Senne Lammens tarafından reddedildi ve ev sahibi takım, Premier Lig'deki Stadium of Light'ta Manchester United ile golsüz berabere kalırken elle oynama nedeniyle olası bir penaltıyı uzaklaştırdı."
     }
   ]
 }
