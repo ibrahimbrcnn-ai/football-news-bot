@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T14:25:00.131443",
+  "timestamp": "2026-05-16T15:53:16.918300",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.299595",
+      "fetched_at": "2026-05-16T15:49:11.063729",
       "priority_score": 96,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-16T14:23:52.993387",
+      "processed_at": "2026-05-16T15:51:44.243914",
       "title_tr": "Bundesliga 34. Maç ONAYLANAN takımlar",
       "summary_tr": "Bayern Münih, Bundesliga'da Köln'e karşı başarılı bir sezonun perdesini kapattığında tam gücüne ulaşabilecek mi?"
     },
@@ -33,35 +33,76 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:41.142640",
+      "fetched_at": "2026-05-16T15:50:33.704929",
       "priority_score": 91,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-05-16T14:23:53.346253",
+      "processed_at": "2026-05-16T15:51:44.678512",
       "title_tr": "Ömer Faruk Yurtseven, Real Madrid'e imza attı! Sözleşme süresi dikkat çekti...",
       "summary_tr": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı."
     },
     {
-      "title": "Carrick agrees two-year deal to remain Man Utd head coach",
-      "summary": "Michael Carrick has agreed a two-year deal to continue as the permanent Manchester United head coach.",
-      "url": "https://www.skysports.com/football/news/12040/13544606/michael-carrick-man-utd-agree-two-year-deal-to-stay-head-coach-with-confirmation-expected-within-48-hours",
-      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-michael-carrick_7238403.jpg?20260503183825",
-      "published": "2026-05-16T13:00:00",
-      "source": "Sky Sports Football",
+      "title": "Harry Kane hat-trick as Bayern Munich thrash Cologne in season finale",
+      "summary": "Harry Kane stole the show as Bundesliga champions Bayern Munich capped a record-breaking season with a thumping home win over Cologne.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-cologne-kane-hattrick-match-report-highlights-matchday-34-37426",
+      "image_url": null,
+      "published": "2026-05-16T23:45:00",
+      "source": "Bundesliga Official",
       "source_priority": 8,
-      "region": "europe",
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:32.527991",
-      "priority_score": 81,
+      "fetched_at": "2026-05-16T15:49:11.061334",
+      "priority_score": 86,
       "categories": [
-        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-16T15:51:44.214556",
+      "title_tr": "Bayern Münih sezon finalinde Köln'ü mağlup ederken Harry Kane hat-trick yaptı",
+      "summary_tr": "Bundesliga şampiyonu Bayern Münih, rekor bir sezonu Köln'e karşı evinde kazandığı büyük galibiyetle kapatırken, Harry Kane şovu çaldı."
+    },
+    {
+      "title": "Manchester City mark WSL title by thrashing West Ham as Shaw doubles up",
+      "summary": "Khadija Shaw set the agenda again, scoring her 20th and 21st goals in 22 WSL games in what could be her penultimate game in sky blue as City secured a comfortable win over West Ham before they hoisted the WSL trophy aloft for the first time in 10 years.What will Manchester City look like without the",
+      "url": "https://www.theguardian.com/football/2026/may/16/shaw-doubles-up-as-manchester-city-mark-wsl-title-by-thrashing-west-ham",
+      "image_url": null,
+      "published": "2026-05-16T14:10:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:48:47.219715",
+      "priority_score": 83,
+      "categories": [
+        "match_results",
+        "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-05-16T14:23:52.885970",
-      "title_tr": "Carrick, Man Utd'un başantrenörü olarak kalmak için iki yıllık anlaşmayı kabul etti",
-      "summary_tr": "Michael Carrick, Manchester United'ın daimi baş antrenörü olarak devam etmek için iki yıllık bir anlaşma imzaladı."
+      "processed_at": "2026-05-16T15:51:44.157947",
+      "title_tr": "Manchester City, Shaw ikiye katlarken West Ham'ı yenerek WSL şampiyonluğunu elde etti",
+      "summary_tr": "Khadija Shaw, City'nin West Ham karşısında rahat bir galibiyet elde etmesi ve 10 yıl sonra ilk kez WSL kupasını havaya kaldırması sırasında, gök mavisi formayla sondan bir önceki maçı olabilecek 22 WSL maçında 20. ve 21. gollerini atarak gündemi bir kez daha belirledi."
+    },
+    {
+      "title": "Ömer Yurtseven, Real Madrid'de!",
+      "summary": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı. İspanyol devinden yapılan resmi açıklamada milli basketbolcuyla 30 Haziran 2026'ya kadar sözleşme imzalandığı öğrenildi.",
+      "url": "https://www.haberturk.com/omer-faruk-yurtseven-real-madrid-le-anlasti-3885155-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/16/ver1778941434/3885155/jpg/1280x1280",
+      "published": "2026-05-16T14:27:23",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:50:01.618076",
+      "priority_score": 83,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-16T15:51:44.344930",
+      "title_tr": "Ömer Yurtseven, Real Madrid'de!",
+      "summary_tr": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı. İspanyol devinden yapılan resmi açıklamada milli basketbolcuyla 30 Haziran 2026'ya kadar sözleşme imzalandığı öğrenildi."
     },
     {
       "title": "Lewandowski'den ayrılık kararı!",
@@ -73,35 +114,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:07.453786",
-      "priority_score": 78,
+      "fetched_at": "2026-05-16T15:50:01.618337",
+      "priority_score": 68,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-05-16T14:23:53.042691",
+      "processed_at": "2026-05-16T15:51:44.364307",
       "title_tr": "Lewandowski'den ayrılık kararı!",
       "summary_tr": "Barcelona'nın Polonyalı golcüsü Robert Lewandowski sezon sonunda Barcelona'dan ayrılacağını açıkladı."
     },
     {
-      "title": "Liverpool 1-3 Arsenal, Chelsea 1-0 Manchester United, Manchester City celebrations: WSL final day – live",
-      "summary": "⚽ WSL updates from around the grounds, 1pm BST starts⚽ Live scores | The latest table | And you can mail EmilliaLondon City Lionesses starting line-up: Lete, Pattinson, Kennedy, Kardinaal, Fernández; Kumagai, Geyoro, Pérez; Godfrey, Cascarino, Goodwin.Subs: Orman, Goldie, Corrales, Van de Donk, Lina",
-      "url": "https://www.theguardian.com/football/live/2026/may/16/chelsea-v-manchester-united-liverpool-v-arsenal-manchester-city-celebrations-and-more-wsl-final-day-live",
-      "image_url": null,
-      "published": "2026-05-16T14:12:50",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Salah: Liverpool need to rediscover 'heavy metal attacking' identity opponents fear",
+      "summary": "Mohamed Salah insists \"crumbling\" Liverpool need to recover their identity, calling for a return of the \"heavy metal attacking team\" that made them feared under Jurgen Klopp.",
+      "url": "https://www.skysports.com/football/news/12040/13544777/mohamed-salah-says-liverpool-need-to-rediscover-heavy-metal-attacking-identity-opponents-fear-in-bombshell-statement",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-salah-mo-salah-liverpool_7231953.jpg?20260427111417",
+      "published": "2026-05-16T16:14:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:58.778496",
-      "priority_score": 68,
+      "fetched_at": "2026-05-16T15:48:22.937400",
+      "priority_score": 61,
       "categories": [
-        "match_results",
-        "premier_league"
+        "general"
       ],
-      "processed_at": "2026-05-16T14:23:52.923581",
-      "title_tr": "Liverpool 1-3 Arsenal, Chelsea 1-0 Manchester United, Manchester City kutlamaları: WSL final günü – canlı",
-      "summary_tr": "⚽ Sahadan WSL güncellemeleri, saat 13:00'te BST başlıyor⚽ Canlı skorlar | En son tablo | Ve EmilliaLondon City Lionesses'in başlangıç ​​kadrosuna e-posta gönderebilirsiniz: Lete, Pattinson, Kennedy, Kardinaal, Fernández; Kumagai, Geyoro, Pérez; Godfrey, Cascarino, Goodwin.Yedekler: Orman, Goldie, Corrales, Van de Donk, Lina"
+      "processed_at": "2026-05-16T15:51:44.113928",
+      "title_tr": "Salah: Liverpool'un rakiplerinin korktuğu 'ağır metal hücum' kimliğini yeniden keşfetmesi gerekiyor",
+      "summary_tr": "Mohamed Salah, \"çökmekte olan\" Liverpool'un kimliğini geri kazanması gerektiği konusunda ısrar ediyor ve Jürgen Klopp yönetiminde kendilerini korkutan \"ağır metal hücum takımının\" geri dönmesi çağrısında bulunuyor."
     },
     {
       "title": "Lewandowski, ayrılığı resmen duyurdu",
@@ -113,71 +153,70 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:41.144186",
+      "fetched_at": "2026-05-16T15:50:33.706139",
       "priority_score": 61,
       "categories": [
         "la_liga"
       ],
-      "processed_at": "2026-05-16T14:23:53.434465",
+      "processed_at": "2026-05-16T15:51:44.774909",
       "title_tr": "Lewandowski, ayrılığı resmen duyurdu",
       "summary_tr": "Polonyalı futbolcu Robert Lewandowski, sezon sonunda Barcelona'dan ayrılacağını duyurdu."
     },
     {
-      "title": "Borussia Dortmund's Serhou Guirassy on his hunger for more goals and how he hopes to close the gap on Bayern Munich",
-      "summary": "Borussia Dortmund's Serhou Guirassy sat down for an interview ahead of their final match of the season away to Werder Bremen to explain why he is aiming for more goals and speak about how the second-placed club could close the gap on champions Bayern Munich.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-serhou-guirassy-interview-goals-kobel-anton-nmecha-37396",
+      "title": "Kerr equals record in final game as Chelsea beat Man Utd",
+      "summary": "Sam Kerr becomes Chelsea's joint all-time top goalscorer alongside Fran Kirby, as her 116th club goal on her final appearance gives Sonia Bompastor's side a 1-0 win over Manchester United at Stamford Bridge.",
+      "url": "https://www.bbc.com/sport/football/videos/cy42dled47yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-05-16T08:51:03",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.301952",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-16T14:23:53.018059",
-      "title_tr": "Borussia Dortmundlu Serhou Guirassy, ​​daha fazla gol arzusunu ve Bayern Münih ile aradaki farkı nasıl kapatmayı umduğunu anlattı",
-      "summary_tr": "Borussia Dortmund'lu Serhou Guirassy, ​​Werder Bremen deplasmanında oynayacağı sezonun son maçı öncesinde bir röportaj yaparak neden daha fazla gol hedeflediğini açıkladı ve ikinci sıradaki kulübün şampiyon Bayern Münih ile aradaki farkı nasıl kapatabileceği hakkında konuştu."
-    },
-    {
-      "title": "Man Utd reach agreement to appoint Carrick manager",
-      "summary": "Manchester United reach an agreement with Michael Carrick to become the club's permanent head coach.",
-      "url": "https://www.bbc.com/sport/football/articles/c392r8v1jz4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-16T13:56:21",
+      "published": "2026-05-16T14:30:21",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:21.221896",
+      "fetched_at": "2026-05-16T15:48:13.110273",
+      "priority_score": 60,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-16T15:51:44.092163",
+      "title_tr": "Kerr final maçında Chelsea'nin Man Utd'u yenmesiyle rekora imza attı",
+      "summary_tr": "Sam Kerr, Fran Kirby ile birlikte Chelsea'nin tüm zamanların en golcü oyuncusu oldu ve son maçında attığı 116. kulüp golü, Sonia Bompastor'ın takımına Stamford Bridge'de Manchester United'ı 1-0 yenme olanağı verdi."
+    },
+    {
+      "title": "Shaw stars as champions Man City complete big win over West Ham",
+      "summary": "Khadija Shaw scores twice as WSL champions Manchester City end their campaign with an impressive 4-1 away win against West Ham United.",
+      "url": "https://www.bbc.com/sport/football/videos/cg4pxkdw17qo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-16T14:53:04",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:48:13.109481",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-05-16T14:23:52.855978",
-      "title_tr": "Man Utd, Carrick'in menajerini atamak için anlaşmaya vardı",
-      "summary_tr": "Manchester United, kulübün kalıcı baş antrenörü olmak için Michael Carrick ile anlaşmaya vardı."
+      "processed_at": "2026-05-16T15:51:44.089067",
+      "title_tr": "Shaw, şampiyon Manchester City'nin West Ham karşısında büyük galibiyetini alırken rol alıyor",
+      "summary_tr": "Khadija Shaw, WSL şampiyonu Manchester City'nin sezonunu West Ham United'a karşı deplasmanda 4-1'lik etkileyici bir galibiyetle bitirmesiyle iki gol attı."
     },
     {
       "title": "Chelsea v Manchester City: FA Cup final – live",
       "summary": "⚽ FA Cup final news from the 3pm BST kick-off at Wembley⚽ Chaotic Chelsea’s shot at glory | Guardiola: ‘I’ve been fun’‘Stirring’ is the subject of Matt Dony’s email. And he doesn’t mean a synonym of ‘rousing’Is the score not something like 115-74 to City? The magic of the cup, eh? Continue reading..",
       "url": "https://www.theguardian.com/football/live/2026/may/16/chelsea-v-manchester-city-fa-cup-final-live",
       "image_url": null,
-      "published": "2026-05-16T14:15:00",
+      "published": "2026-05-16T15:29:50",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:58.777402",
+      "fetched_at": "2026-05-16T15:48:47.219144",
       "priority_score": 53,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-05-16T14:23:52.912416",
+      "processed_at": "2026-05-16T15:51:44.147651",
       "title_tr": "Chelsea - Manchester City: FA Kupası finali – canlı",
       "summary_tr": "⚽ Wembley'de saat 15:00'te BST'nin başlama vuruşundan FA Kupası final haberleri⚽ Kaotik Chelsea'nin zafer vuruşu | Guardiola: 'Eğlendim' Matt Dony'nin e-postasının konusu 'Karıştırmak'. Ve 'uyandırmak' ile eşanlamlıyı kastetmiyor. City'nin skoru 115-74 gibi bir şey değil mi? Bardağın büyüsü, değil mi? Okumaya devam edin.."
     },
@@ -191,91 +230,34 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:32.527881",
+      "fetched_at": "2026-05-16T15:48:22.937476",
       "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-16T14:23:52.878614",
+      "processed_at": "2026-05-16T15:51:44.118686",
       "title_tr": "Belirleyici günde Hearts adına ilk vuruşu Shankland yaptı",
       "summary_tr": "Lawrence Shankland, Hearts adına Celtic'e karşı lig şampiyonluğuna doğru devasa bir golle ilk golü atıyor."
     },
     {
-      "title": "Lewandowski Barcelona'dan ayrılacağını açıkladı!",
-      "summary": "Robert Lewandowski, sezon sonunda Barcelona'dan ayrılacağını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/lewandowski-barcelonadan-ayrilacagini-acikladi-43175097",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a085cbe3664a5bc1094771b.jpg",
-      "published": "2026-05-16T12:03:23",
-      "source": "Hürriyet Spor",
+      "title": "Carrick agrees two-year deal to remain Man Utd head coach",
+      "summary": "Michael Carrick has agreed a two-year deal to continue as the permanent Manchester United head coach.",
+      "url": "https://www.skysports.com/football/news/12040/13544606/michael-carrick-man-utd-agree-two-year-deal-to-stay-head-coach-with-confirmation-expected-within-48-hours",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-michael-carrick_7238403.jpg?20260503183825",
+      "published": "2026-05-16T13:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:18.074135",
-      "priority_score": 51,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-05-16T14:23:53.149642",
-      "title_tr": "Lewandowski Barcelona'dan ayrılacağını açıkladı!",
-      "summary_tr": "Robert Lewandowski, sezon sonunda Barcelona'dan ayrılacağını açıkladı."
-    },
-    {
-      "title": "In better form than Kane - why Watkins is no longer being 'written off'",
-      "summary": "Two months on from being out of form and not selected for England's March international friendlies, Ollie Watkins has bounced back in style.",
-      "url": "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-15T23:17:19",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:20:21.224022",
-      "priority_score": 50,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-05-16T14:23:52.863465",
-      "title_tr": "Kane'den daha iyi durumda - neden Watkins artık silinmiyor?",
-      "summary_tr": "Ollie Watkins, formsuz kalmasının ve İngiltere'nin Mart ayındaki uluslararası hazırlık maçlarına seçilmemesinin üzerinden iki ay geçtikten sonra eski stiline geri döndü."
-    },
-    {
-      "title": "Real Madrid'in yeni teknik direktörü açıklandı",
-      "summary": "Real Madrid, teknik direktörlük koltuğunda yeni bir döneme hazırlanıyor. İspanyol devinin, Álvaro Arbeloa ile yollarını...",
-      "url": "https://www.yenisafak.com/spor/real-madridin-yeni-teknik-direktoru-aciklandi-4824565",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/16/fec07805-real-madridin-yeni-teknik-direktoru-aciklandi.webp",
-      "published": "2026-05-16T16:34:21",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:23:11.859994",
-      "priority_score": 47,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-05-16T14:23:53.758226",
-      "title_tr": "Real Madrid'in yeni teknik direktörü açıklandı",
-      "summary_tr": "Real Madrid, teknik direktörlük koltuğunda yeni bir döneme hazırlanıyor. İspanyol devinin, Álvaro Arbeloa ile yollarını..."
-    },
-    {
-      "title": "Guardiola insists he has 'one more year' on Man City deal",
-      "summary": "Manager Pep Guardiola insists he has \"one more year\" remaining on his contract at Manchester City as speculation continues over his future at the club.",
-      "url": "https://www.bbc.com/sport/articles/c794vqvll7eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-15T21:30:27",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:20:21.224388",
-      "priority_score": 80,
+      "fetched_at": "2026-05-16T15:48:22.937588",
+      "priority_score": 81,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-05-16T14:23:52.866536",
-      "title_tr": "Guardiola, Manchester City ile sözleşmesinde 'bir yıl daha' olduğu konusunda ısrar ediyor",
-      "summary_tr": "Teknik direktör Pep Guardiola, Manchester City'deki geleceğiyle ilgili spekülasyonlar devam ederken, Manchester City'deki sözleşmesinin bitmesine \"bir yıl daha\" kaldığı konusunda ısrar ediyor."
+      "processed_at": "2026-05-16T15:51:44.130993",
+      "title_tr": "Carrick, Man Utd'un başantrenörü olarak kalmak için iki yıllık anlaşmayı kabul etti",
+      "summary_tr": "Michael Carrick, Manchester United'ın daimi baş antrenörü olarak devam etmek için iki yıllık bir anlaşma imzaladı."
     },
     {
       "title": "Manuel Neuer signs one-year contract extension with Bayern Munich",
@@ -287,13 +269,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.304363",
+      "fetched_at": "2026-05-16T15:49:11.069359",
       "priority_score": 76,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-05-16T14:23:53.039013",
+      "processed_at": "2026-05-16T15:51:44.324383",
       "title_tr": "Manuel Neuer, Bayern Münih'le 1 yıllık sözleşme uzattı",
       "summary_tr": "Efsanevi kaleci Manuel Neuer, Bayern Münih ile sözleşmesini bir yıllık uzatmaya imza atan 40 yaşındaki futbolcunun kariyerinin üçüncü on yılında profesyonel futbolcu olarak oynayacak."
     },
@@ -307,13 +289,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:41.143215",
+      "fetched_at": "2026-05-16T15:50:33.705348",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-16T14:23:53.373750",
+      "processed_at": "2026-05-16T15:51:44.708486",
       "title_tr": "Tarık Çetin, Fenerbahçe'de kalmaya 'Evet' dedi",
       "summary_tr": "Fenerbahçe, altyapısından çıkan kaleci Tarık Çetin'le 3 yıllık yeni sözleşme imzaladı."
     },
@@ -327,35 +309,117 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-16T14:20:21.222188",
+      "fetched_at": "2026-05-16T15:48:13.109679",
       "priority_score": 75,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-05-16T14:23:52.856353",
+      "processed_at": "2026-05-16T15:51:44.089483",
       "title_tr": "Lewandowski, 'görev tamamlandığı için' Barselona'dan ayrılacak",
       "summary_tr": "Polonyalı forvet Robert Lewandowski, sezon sonunda sözleşmesinin bitmesiyle Barcelona'dan ayrılacak."
     },
     {
-      "title": "Ömer Faruk Yurtseven Real Madrid ile anlaştı!",
-      "summary": "Milli basketbolcu Ömer Faruk Yurtseven, Real Madrid ile anlaştı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/omer-faruk-yurtseven-real-madrid-ile-anlasti-43175179",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a087acd3664a5bc109477eb.jpg",
-      "published": "2026-05-16T14:10:26",
+      "title": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+      "summary": "It was such a shame a Scottish season for the ages had to end this way. It was not even afforded an official final whistle. Celtic were already on the verge of a fifth title in a row as Hearts were counterattacked from a free-kick. With the visiting goalkeeper, Alexander Schwolow, in the wrong half,",
+      "url": "https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
+      "image_url": null,
+      "published": "2026-05-16T13:45:25",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:48:47.219458",
+      "priority_score": 73,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-16T15:51:44.153309",
+      "title_tr": "Celtic, İskoçya şampiyonluğunu korumak için son gündeki dramatik penaltı atışlarında Hearts'ı sersemletti",
+      "summary_tr": "Yüzyıllardır İskoç sezonunun bu şekilde bitmesi çok yazıktı. Resmi bir bitiş düdüğü bile çalınmadı. Celtic, Hearts'ın serbest vuruştan kontra atağa geçmesiyle üst üste beşinci şampiyonluğun eşiğindeydi. Konuk kaleci Alexander Schwolow yanlış yarıdayken,"
+    },
+    {
+      "title": "Kerr signs off in style but Chelsea finish third despite Man Utd win",
+      "summary": "Sam Kerr bid the perfect farewell to Chelsea with a stunning winner to beat Man Utd 1-0 in her final game for the club.",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-united-women/report/545731",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-wsl-womens-super-league_7250186.jpg?20260516134551",
+      "published": "2026-05-16T15:09:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:48:22.937797",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-16T15:51:44.144741",
+      "title_tr": "Kerr şık bir şekilde imzayı attı ancak Chelsea, Man Utd'un kazanmasına rağmen üçüncü oldu",
+      "summary_tr": "Sam Kerr, kulüpteki son maçında Manchester United'ı 1-0 yenerek Chelsea'ye muhteşem bir veda etti."
+    },
+    {
+      "title": "St. Pauli relegated to Bundesliga 2 after two seasons in German top flight",
+      "summary": "St. Pauli’s two-year stay in the Bundesliga has come to an end after Saturday’s 3-1 defeat at home to Wolfsburg confirmed their relegation from Germany’s top flight.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/st-pauli-relegated-second-division-blessin-wolfsburg-37362",
+      "image_url": null,
+      "published": "2026-05-16T14:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:49:11.066922",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-16T15:51:44.288212",
+      "title_tr": "St. Pauli, Almanya'nın en iyi liginde geçirdiği iki sezonun ardından Bundesliga 2'ye düştü",
+      "summary_tr": "St. Pauli'nin Bundesliga'daki iki yıllık kariyeri, Cumartesi günü evinde Wolfsburg'a karşı alınan 3-1'lik yenilginin Almanya'nın en iyi liginden düşmelerini teyit etmesiyle sona erdi."
+    },
+    {
+      "title": "Mauro Icardi'den veda gibi açıklama: 'Teşekkürler Galatasaray...'",
+      "summary": "Galatasaray ile sözleşmesi sona eren ve takımda kalıp kalmayacağı belli olmayan kaptan Icardi, sosyal medya hesabından dikkat çeken bir paylaşım yaptı. Arjantinli yıldız, sarı-kırmızlı camiaya teşekkür etti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/mauro-icardiden-veda-gibi-aciklama-tesekkurler-galatasaray-43175225",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a088e53e02130392c72c670.jpg",
+      "published": "2026-05-16T15:34:21",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:18.073836",
+      "fetched_at": "2026-05-16T15:50:13.140857",
       "priority_score": 71,
       "categories": [
         "transfers",
-        "la_liga"
+        "super_lig"
       ],
-      "processed_at": "2026-05-16T14:23:53.112676",
-      "title_tr": "Ömer Faruk Yurtseven Real Madrid ile anlaştı!",
-      "summary_tr": "Milli basketbolcu Ömer Faruk Yurtseven, Real Madrid ile anlaştı."
+      "processed_at": "2026-05-16T15:51:44.411296",
+      "title_tr": "Mauro Icardi'den veda gibi açıklama: 'Teşekkürler Galatasaray...'",
+      "summary_tr": "Galatasaray ile sözleşmesi sona eren ve takımda kalıp kalmayacağı belli olmayan kaptan Icardi, sosyal medya hesabından dikkat çeken bir paylaşım yaptı. Arjantinli yıldız, sarı-kırmızlı camiaya teşekkür etti."
+    },
+    {
+      "title": "TRANSFER HABERİ | Fenerbahçe’de golcü ile anlaşma tamam",
+      "summary": "Fenerbahçe’de mevcut yönetim, yıldız santrfor Serhou Guirassy ile anlaşmaya vardı.",
+      "url": "https://www.cnnturk.com/spor/futbol/transfer-haberi-fenerbahcede-golcu-ile-anlasma-tamam-3423129",
+      "image_url": null,
+      "published": "2026-05-16T18:47:49",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:50:33.704564",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-16T15:51:44.652988",
+      "title_tr": "TRANSFER HABERİ | Fenerbahçe’de golcü ile anlaşma tamam",
+      "summary_tr": "Fenerbahçe’de mevcut yönetim, yıldız santrfor Serhou Guirassy ile anlaşmaya vardı."
     },
     {
       "title": "F.Bahçe'de imzalar atıldı!",
@@ -367,15 +431,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:07.453937",
+      "fetched_at": "2026-05-16T15:50:01.618439",
       "priority_score": 68,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-16T14:23:53.051103",
+      "processed_at": "2026-05-16T15:51:44.374384",
       "title_tr": "F.Bahçe'de imzalar atıldı!",
       "summary_tr": "Fenerbahçe Kulübü, 29 yaşındaki kaleci Tarık Çetin ile 3 yıllık yeni sözleşme imzaladı."
+    },
+    {
+      "title": "Mauro Icardi kafa karıştırdı: Veda niteliğinde açıklama",
+      "summary": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi yaptığı açıklamayla dikkatlerini üzerine çekti. Sezon sonu sözleşmesi bi...",
+      "url": "https://www.yenisafak.com/spor/mauro-icardiden-kafa-karistiran-paylasim-veda-niteliginde-aciklama-4824598",
+      "image_url": null,
+      "published": "2026-05-16T18:30:56",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:51:03.614822",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-16T15:51:45.056043",
+      "title_tr": "Mauro Icardi kafa karıştırdı: Veda niteliğinde açıklama",
+      "summary_tr": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi yaptığı açıklamayla dikkatlerini üzerine çekti. Sezon sonu sözleşmesi bi..."
     },
     {
       "title": "Real Madrid milli oyuncuyu kadrosuna kattı: Anlaşma 1 yıllık",
@@ -387,15 +471,57 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:23:11.857657",
+      "fetched_at": "2026-05-16T15:51:03.616319",
       "priority_score": 67,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-05-16T14:23:53.737295",
+      "processed_at": "2026-05-16T15:51:45.080400",
       "title_tr": "Real Madrid milli oyuncuyu kadrosuna kattı: Anlaşma 1 yıllık",
       "summary_tr": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı.Kulüpten yapılan açıklamada, \"Real Madr..."
+    },
+    {
+      "title": "Freiburg seal European football with stunning 4-1 win over RB Leipzig",
+      "summary": "Freiburg have beaten RB Leipzig 4-1 to secure seventh place and UEFA Conference League qualification on the final day of the 2025/26 Bundesliga season. Jan-Niklas Beste (24.), Igor Matanović (26.), Matthias Ginter (47.) and Derry Scherhant (75.) scored for the hosts, with Assan Ouédraogo (33.) pulli",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/freiburg-4-1-rb-leipzig-report-matanovic-ouedraogo-conference-league-37425",
+      "image_url": null,
+      "published": "2026-05-16T15:26:41",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:49:11.065732",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-16T15:51:44.273016",
+      "title_tr": "Freiburg, RB Leipzig'i 4-1 yenerek Avrupa futboluna damga vurdu",
+      "summary_tr": "Freiburg, 2025/26 Bundesliga sezonunun son gününde RB Leipzig'i 4-1 yenerek yedinci sırayı ve UEFA Konferans Ligi'ne katılma hakkını elde etti. Ev sahibi takımın gollerini Jan-Niklas Beste (24.), Igor Matanović (26.), Matthias Ginter (47.) ve Derry Scherhant (75.), Assan Ouédraogo (33.) pulli kaydetti."
+    },
+    {
+      "title": "Mauro Icardi'den veda paylaşımı!",
+      "summary": "Galatasaray ile sözleşmesi sezon sonunda bitecek olan Mauro Icardi, sosyal medya hesabı üzerinden yaptığı paylaşım ile sarı-kırmızılı kulübe ve taraftarlara veda etti. İşte o paylaşım... | Son dakika GS...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/16/mauro-icardiden-veda-paylasimi",
+      "image_url": "https://iftm.tmgrup.com.tr/Defaults/Upload/ftm-default-1754911393144.png",
+      "published": "2026-05-16T15:28:14",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:50:44.242377",
+      "priority_score": 64,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-05-16T15:51:44.840546",
+      "title_tr": "Mauro Icardi'den veda paylaşımı!",
+      "summary_tr": "Galatasaray ile sözleşmesi sezon sonunda bitecek olan Mauro Icardi, sosyal medya hesabı üzerinden yaptığı paylaşım ile sarı-kırmızılı kulübe ve taraftarlara veda etti. İşte o paylaşım... | Son dakika GS...Devamı için tıklayınız"
     },
     {
       "title": "Fenerbahçe Guirassy ile anlaştı! Son kararı yeni yönetim verecek",
@@ -407,36 +533,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:22:18.074512",
+      "fetched_at": "2026-05-16T15:50:13.141497",
       "priority_score": 61,
       "categories": [
         "transfers",
         "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-05-16T14:23:53.205232",
+      "processed_at": "2026-05-16T15:51:44.526756",
       "title_tr": "Fenerbahçe Guirassy ile anlaştı! Son kararı yeni yönetim verecek",
       "summary_tr": "Fenerbahçe'nin, Borussia Dortmund forması giyen Serhou Guirassy ile bireysel şartlarda prensip anlaşmasına vardığı iddia edildi. İşte detaylar..."
     },
     {
-      "title": "'Mourinho hard op weg naar Real, emotioneel afscheid in Newcastle'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/mourinho-hard-op-weg-naar-real-emotioneel-afscheid-in-newcastle",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-05-16T10:39:31",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Manchester City lift WSL trophy after win at West Ham",
+      "summary": "Champions Manchester City ended their Women's Super League campaign on a high, beating West Ham with Khadija Shaw scoring twice, before lifting the trophy.",
+      "url": "https://www.bbc.com/sport/football/videos/cz62967g761o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-16T15:33:32",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-16T14:23:49.798466",
-      "priority_score": 57,
+      "fetched_at": "2026-05-16T15:48:13.109979",
+      "priority_score": 55,
       "categories": [
-        "transfers",
-        "serie_a"
+        "premier_league"
       ],
-      "processed_at": "2026-05-16T14:23:54.081474",
-      "title_tr": "'Mourinho Real'e gidiyor, Newcastle'da duygusal veda'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-05-16T15:51:44.090550",
+      "title_tr": "Manchester City, West Ham galibiyetinin ardından WSL kupasını kaldırdı",
+      "summary_tr": "Şampiyon Manchester City, Kadınlar Süper Ligi mücadelesini West Ham'ı yenerek ve Khadija Shaw'un iki gol atarak kupayı kaldırmasıyla zirvede tamamladı."
+    },
+    {
+      "title": "Arsenal clinch second spot in WSL with win at Liverpool",
+      "summary": "Russo scores twice as Arsenal beat Liverpool to finish second in the WSL clinching an automatic spot in the Women's Champions League.",
+      "url": "https://www.bbc.com/sport/football/videos/cwy23jmx1wvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-16T14:57:45",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-16T15:48:13.110137",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-16T15:51:44.091405",
+      "title_tr": "Arsenal, Liverpool galibiyetiyle WSL'de ikinci sırayı aldı",
+      "summary_tr": "Russo, Arsenal'in Liverpool'u yenerek WSL'de ikinci sırada yer almasını ve Kadınlar Şampiyonlar Ligi'nde otomatik olarak yerini garantilemesini sağlarken iki gol attı."
     },
     {
       "title": "Ahmet Sağat'ın sözleşmesi feshedildi",
@@ -448,151 +593,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-16T14:23:11.858999",
+      "fetched_at": "2026-05-16T15:51:03.617164",
       "priority_score": 52,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-05-16T14:23:53.747117",
+      "processed_at": "2026-05-16T15:51:45.090704",
       "title_tr": "Ahmet Sağat'ın sözleşmesi feshedildi",
       "summary_tr": "Kocaelispor'da Ahmet Sağat'ın sözleşmesi feshedildi.Kulübün sosyal medya hesabından yapılan paylaşımda, \"Futbolcumuz Ah..."
-    },
-    {
-      "title": "European qualification and relegation battle: Who needs what on Bundesliga Matchday 34?",
-      "summary": "Bayern Munich have already secured the 2025/26 Bundesliga title, but there's a three-way tussle for the final UEFA Champions League spot and the last European place. At the other end, Heidenheim, Wolfsburg and St. Pauli are all locked on points, with two set to be relegated on the final day of the s",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/next-matchday-permutations-25-26-title-european-places-relegation-36790",
-      "image_url": null,
-      "published": "2026-05-16T20:05:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.297503",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-16T14:23:52.973037",
-      "title_tr": "Avrupa elemeleri ve düşme mücadelesi: Bundesliga 34. Maç Günü'nde kimin neye ihtiyacı var?",
-      "summary_tr": "Bayern Münih, 2025/26 Bundesliga şampiyonluğunu zaten garantiledi, ancak UEFA Şampiyonlar Ligi'ndeki son sıra ve Avrupa'daki son sıra için üçlü bir mücadele var. Diğer tarafta ise Heidenheim, Wolfsburg ve St. Pauli'nin puanları kilitlenmiş durumda ve iki set de sezonun son gününde küme düşecek."
-    },
-    {
-      "title": "Bayern Munich No.1 Manuel Neuer: the goalkeeper-revolutionary who has changed the way we see football",
-      "summary": "Very few footballers can claim to have revolutionised their position or brought about a new way of understanding the beautiful game.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/manuel-neuer-goalkeeper-who-revolutionised-goalkeeping-bayern-munich-20065",
-      "image_url": null,
-      "published": "2026-05-16T17:59:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.301339",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-16T14:23:53.007723",
-      "title_tr": "Bayern Münih No.1 Manuel Neuer: futbola bakış açımızı değiştiren devrimci kaleci",
-      "summary_tr": "Çok az sayıda futbolcu kendi pozisyonlarında devrim yarattığını veya güzel oyunu anlamanın yeni bir yolunu ortaya çıkardığını iddia edebilir."
-    },
-    {
-      "title": "Chelsea ile Manchester City FA Cup final maçı ne zaman, saat kaçta, hangi kanalda? Chelsea - Manchester City maçı şifresiz mi?",
-      "summary": "İngiltere FA Cup finalinde heyecan dorukta! Bu yılın şampiyonluk mücadelesinde Chelsea ile Manchester City karşı karşıya geliyor. Futbolseverler, iki güçlü takımın saha içindeki performansını yakından takip etmeye hazırlanıyor. Chelsea ve Manchester City’nin taktiksel hamleleri, yıldız oyuncuların f",
-      "url": "https://www.cnnturk.com/spor/futbol/chelsea-ile-manchester-city-fa-cup-final-maci-ne-zaman-saat-kacta-hangi-kanalda-chelsea-manchester-city-maci-sifresiz-mi-3423095",
-      "image_url": null,
-      "published": "2026-05-16T15:24:22",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:22:41.143583",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-16T14:23:53.407244",
-      "title_tr": "Chelsea ile Manchester City FA Cup final maçı ne zaman, saat kaçta, hangi kanalda? Chelsea - Manchester City maçı şifresiz mi?",
-      "summary_tr": "İngiltere FA Cup finalinde heyecan dorukta! Bu yılın şampiyonluk mücadelesinde Chelsea ile Manchester City karşı karşıya geliyor. Futbolseverler, iki güçlü takımın saha içindeki performansını yakından takip etmeye hazırlanıyor. Chelsea ve Manchester City’nin taktiksel hamleleri, yıldız oyuncuların f"
-    },
-    {
-      "title": "Galatasaray 3 eksikle Kasımpaşa’ya gidiyor",
-      "summary": "Şampiyon Galatasaray, Trendyol Süper Lig’in 34. ve son haftasında yarın deplasmanda Kasımpaşa’ya konuk olacak. Recep Tayyip Erdoğan Stadı’nda saat 20.00’de başlayacak mücadelede sarı-kırmızılılarda 3 önemli eksik dikkat çekiyor. Victor Osimhen, Gabriel Sara ve Yaser Asprilla’nın yokluğunda sahaya çı",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-3-eksikle-kasimpasaya-gidiyor-3423048",
-      "image_url": null,
-      "published": "2026-05-16T12:45:58",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:22:41.145260",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-16T14:23:53.507560",
-      "title_tr": "Galatasaray 3 eksikle Kasımpaşa’ya gidiyor",
-      "summary_tr": "Şampiyon Galatasaray, Trendyol Süper Lig’in 34. ve son haftasında yarın deplasmanda Kasımpaşa’ya konuk olacak. Recep Tayyip Erdoğan Stadı’nda saat 20.00’de başlayacak mücadelede sarı-kırmızılılarda 3 önemli eksik dikkat çekiyor. Victor Osimhen, Gabriel Sara ve Yaser Asprilla’nın yokluğunda sahaya çı"
-    },
-    {
-      "title": "Arbeloa ziet Mourinho graag komen: 'De nummer één'",
-      "summary": "Álvaro Arbeloa zou de komst van José Mourinho naar Real Madrid toejuichen. Tijdens het persmoment richting het bezoek aan Sevilla van zaterdag kreeg de interim-trainer logischerwijs vragen over de geruchten rond The Special One .",
-      "url": "https://www.vi.nl/nieuws/arbeloa-ziet-mourinho-graag-komen-de-nummer-een",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/16/22b5947b8fa2b521493c791992982b5d78545a78.jpg?width=1200",
-      "published": "2026-05-16T13:50:42",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:23:49.797812",
-      "priority_score": 47,
-      "categories": [
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-05-16T14:23:53.928386",
-      "title_tr": "Arbeloa, Mourinho'nun gelmesini istiyor: 'Bir numara'",
-      "summary_tr": "Álvaro Arbeloa, José Mourinho'nun Real Madrid'e gelişini memnuniyetle karşılayacaktır. Cumartesi günkü Sevilla ziyaretinden önceki basın toplantısında, geçici antrenöre mantıklı bir şekilde The Special One hakkındaki söylentiler soruldu."
-    },
-    {
-      "title": "Lewandowski kondigt vertrek aan bij Barcelona: 'Tijd voor nieuwe stap'",
-      "summary": "Robert Lewandowski vertrekt aan het einde van dit seizoen bij Barcelona. Dat maakte de 37-jarige Pool zaterdag bekend via Instagram.",
-      "url": "https://www.vi.nl/nieuws/lewandowski-kondigt-vertrek-aan-bij-barcelona-tijd-voor-nieuwe-stap",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/16/3d44878eeea8c0de779fb0a308bd674794170277.jpg?width=1200",
-      "published": "2026-05-16T11:12:46",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:23:49.798328",
-      "priority_score": 47,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-05-16T14:23:54.043981",
-      "title_tr": "Lewandowski, Barselona'dan ayrılacağını duyurdu: 'Yeni bir adımın zamanı'",
-      "summary_tr": "Robert Lewandowski bu sezon sonunda Barcelona'dan ayrılacak. 37 yaşındaki Polonyalı bunu Cumartesi günü Instagram aracılığıyla duyurdu."
-    },
-    {
-      "title": "Stuttgart, Hoffenheim and Bayer Leverkusen to battle it out for UEFA Champions League qualification on final day",
-      "summary": "The day of reckoning is here for VfB Stuttgart, Hoffenheim and Bayer Leverkusen. Only one can claim the remaining top-four spot and with it a place in next season’s instalment of the UEFA Champions League. The Swabians may have the advantage, but all three sides will be fighting tooth and nail over ",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/stuttgart-hoffenheim-bayer-leverkusen-battle-for-top-four-final-day-37350",
-      "image_url": null,
-      "published": "2026-05-16T20:03:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-05-16T14:21:21.298947",
-      "priority_score": 46,
-      "categories": [
-        "injuries",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-16T14:23:52.989562",
-      "title_tr": "Stuttgart, Hoffenheim ve Bayer Leverkusen son günde UEFA Şampiyonlar Ligi elemeleri için mücadele edecek",
-      "summary_tr": "VfB Stuttgart, Hoffenheim ve Bayer Leverkusen için hesaplaşma günü geldi. Geriye kalan ilk dört sırayı ve bununla birlikte gelecek sezon UEFA Şampiyonlar Ligi'nde yer almayı yalnızca bir kişi talep edebilir. Suabiyalılar avantaja sahip olabilir ama üç taraf da dişe diş mücadele edecek"
     }
   ]
 }
