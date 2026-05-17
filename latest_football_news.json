@@ -1,28 +1,71 @@
 {
-  "timestamp": "2026-05-17T15:55:05.347250",
+  "timestamp": "2026-05-17T16:50:12.917147",
   "total_items": 30,
   "news": [
     {
-      "title": "Brentford v Crystal Palace, Leeds v Brighton, Everton v Sunderland: Premier League – live",
-      "summary": "The latest goals and news from the Sunday 3pm kick-offsAlonso confirmed as Chelsea manager | Live scoresBradley Lowery, the Sunderland mascot whose battle with neuroblastoma helped raise than more £1m before his death in 2017, would have been 15 today. There will be a minute’s applause at Hill Dicki",
-      "url": "https://www.theguardian.com/football/live/2026/may/17/brentford-v-crystal-palace-leeds-v-brighton-premier-league-clockwatch-live",
+      "title": "Højlund: 'Weird' goodbye to Utd 'feels emotional'",
+      "summary": "Rasmus Højlund has said that his \"weird\" goodbye to Manchester United \"feels emotional\" after his permanent Napoli switch was confirmed on Sunday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48795909/rasmus-hojlund-announces-permanent-napoli-move-manchester-united-social-media",
       "image_url": null,
-      "published": "2026-05-17T15:34:39",
+      "published": "2026-05-17T16:08:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.427271",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-17T16:48:28.685141",
+      "title_tr": "Højlund: Utd'a 'tuhaf' veda 'duygusal'",
+      "summary_tr": "Rasmus Højlund, Pazar günü Napoli'ye kalıcı transferi onaylandıktan sonra Manchester United'a \"tuhaf\" vedasının \"duygusal\" olduğunu söyledi."
+    },
+    {
+      "title": "Mourinho's Benfica finish unbeaten but miss UCL",
+      "summary": "José Mourinho confirmed Saturday that his agent, Jorge Mendes, is in contact with Real Madrid over potentially returning as coach of the Spanish giants for next season.",
+      "url": "https://www.espn.com/soccer/story/_/id/48790257/jose-mourinho-benfica-unbeaten-season-portugal-champions-league",
+      "image_url": null,
+      "published": "2026-05-17T16:08:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.427990",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.687910",
+      "title_tr": "Mourinho'nun Benfica'sı namağlup bitirdi ancak UCL'i kaçırdı",
+      "summary_tr": "José Mourinho Cumartesi günü menajeri Jorge Mendes'in gelecek sezon İspanyol devlerinin teknik direktörü olarak geri dönme potansiyeli konusunda Real Madrid ile temas halinde olduğunu doğruladı."
+    },
+    {
+      "title": "Dango Ouattara salvages point for Brentford and denies Crystal Palace",
+      "summary": "Beware the opponent with little to play for. Crystal Palace were supposed to be in preservation mode, with attention on more exotic occasions. The ideal opponent for Brentford’s chase for Europe. And yet. Adam Wharton scored his first goal in 94 Palace appearances, his first ever in the Premier Leag",
+      "url": "https://www.theguardian.com/football/2026/may/17/brentford-crystal-palace-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-05-17T16:15:13",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-17T15:50:47.903407",
-      "priority_score": 100,
+      "fetched_at": "2026-05-17T16:45:17.074667",
+      "priority_score": 98,
       "categories": [
         "transfers",
         "match_results",
-        "breaking_news",
-        "premier_league"
+        "breaking_news"
       ],
-      "processed_at": "2026-05-17T15:54:00.206149",
-      "title_tr": "Brentford - Crystal Palace, Leeds - Brighton, Everton - Sunderland: Premier Lig – canlı",
-      "summary_tr": "Pazar günü saat 15.00'teki başlama vuruşlarından en son goller ve haberler Alonso'nun Chelsea menajeri olacağı doğrulandı | Canlı skorlar Nöroblastomla mücadelesi 2017'deki ölümünden önce 1 milyon £'dan fazla yardım toplayan Sunderland maskotu Bradley Lowery, bugün 15 yaşında olacaktı. Hill Dicki'de bir dakikalık alkış olacak"
+      "processed_at": "2026-05-17T16:48:28.821189",
+      "title_tr": "Dango Ouattara, Brentford adına puanı kurtardı ve Crystal Palace'ı reddetti",
+      "summary_tr": "Oynayacak çok az şeyi olan rakibe dikkat edin. Crystal Palace'ın daha egzotik durumlara dikkat edilerek koruma modunda olması gerekiyordu. Brentford'un Avrupa arayışı için ideal rakip. Ve yine de. Adam Wharton, Premier Lig'deki ilk golünü 94 Palace maçında attı."
     },
     {
       "title": "Bayern Munich's Harry Kane wins Bundesliga top scorer award for third straight season",
@@ -34,35 +77,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-17T15:51:11.805542",
+      "fetched_at": "2026-05-17T16:45:43.562195",
       "priority_score": 76,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-17T15:54:00.289968",
+      "processed_at": "2026-05-17T16:48:28.978172",
       "title_tr": "Bayern Münihli Harry Kane, Bundesliga'da üst üste üçüncü sezon gol kralı ödülünü kazandı",
-      "summary_tr": "Bayern Münih'in forveti Harry Kane, Bundesliga'da sezonun en çok gol atan futbolcusuna verilen ödül olan Torjägerkanone ödülünü üst üste üçüncü kez kazandı."
-    },
-    {
-      "title": "Why Alonso will bring 'clear identity' to Chelsea",
-      "summary": "BBC Sport pundits Dion Dublin, Steph Houghton and Paul Robinson discuss what makes Xabi Alonso a \"good fit\" for Chelsea, after the Spaniard was announced as the Premier League club's new manager on a four-year deal.",
-      "url": "https://www.bbc.com/sport/football/videos/cn8px10802zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-17T15:41:05",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:50:10.635759",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-17T15:54:00.152847",
-      "title_tr": "Alonso neden Chelsea'ye 'açık kimlik' getirecek?",
-      "summary_tr": "BBC Spor uzmanları Dion Dublin, Steph Houghton ve Paul Robinson, İspanyol oyuncunun dört yıllık sözleşmeyle Premier Lig kulübünün yeni menajeri olarak açıklanmasının ardından Xabi Alonso'nun Chelsea için neyin \"uygun\" olduğunu tartışıyor."
+      "summary_tr": "Bayern Münih'in golcüsü Harry Kane, Bundesliga'da sezonun en çok gol atan futbolcusuna verilen ödül olan Torjägerkanone ödülünü üst üste üçüncü kez kazandı."
     },
     {
       "title": "5 gollü maçta kazanan Man. United!",
@@ -74,13 +97,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:02.848460",
+      "fetched_at": "2026-05-17T16:46:34.385615",
       "priority_score": 73,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:00.355305",
+      "processed_at": "2026-05-17T16:48:29.060280",
       "title_tr": "5 gollü maçta kazanan Man. United!",
       "summary_tr": "İngiltere Premier Lig'in 37. haftasında Manchester United sahasında Nottingham Forest'ı ağırladı. 5 gol çıkan mücadeleyi Kırmızı Şeytanlar 3-2 kazandı."
     },
@@ -94,13 +117,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:02.848568",
+      "fetched_at": "2026-05-17T16:46:34.385752",
       "priority_score": 73,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-05-17T15:54:00.364051",
+      "processed_at": "2026-05-17T16:48:29.072463",
       "title_tr": "Milan 3 maç sonra kazandı!",
       "summary_tr": "İtalya Serie A'nın 37. hafta karşılaşmasında Genoa ile Milan kozlarını paylaştı. 3 gol çıkan mücadele konuk takımın 2-1 üstünlüğüyle sonuçlandı."
     },
@@ -114,95 +137,133 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-17T15:51:11.806583",
+      "fetched_at": "2026-05-17T16:45:43.563482",
       "priority_score": 71,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-17T15:54:00.296752",
+      "processed_at": "2026-05-17T16:48:28.988374",
       "title_tr": "Bayern Münih sezon finalinde Köln'ü mağlup ederken Harry Kane hat-trick yaptı",
       "summary_tr": "Bundesliga şampiyonu Bayern Münih, rekor bir sezonu Köln'e karşı evinde kazandığı büyük galibiyetle kapatırken, Harry Kane şovu çaldı."
     },
     {
-      "title": "Fenerbahçe golcü transferi için gözünü kararttı! İşte bonservis bedeli",
-      "summary": "Yeni sezona yeni bir yönetimle hazırlanması beklenen Fenerbahçe'de transfer gündemi şimdiden hareketlenmiş durumda. Sarı-lacivertli camiada başkanlık yarışı sürerken, adaylardan Aziz Yıldırım ile Hakan...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/05/17/fenerbahce-golcu-transferi-icin-gozunu-karartti-iste-bonservis-bedeli",
-      "image_url": "https://iaftm.tmgrup.com.tr/12fed4/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/05/17/fenerbahce-golcu-transferi-icin-gozunu-karartti-iste-bonservis-bedeli-1778998837077.jpg",
-      "published": "2026-05-17T06:21:49",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:53.059395",
-      "priority_score": 64,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:00.925103",
-      "title_tr": "Fenerbahçe golcü transferi için gözünü kararttı! İşte bonservis bedeli",
-      "summary_tr": "Yeni sezona yeni bir yönetimle hazırlanması beklenen Fenerbahçe'de transfer gündemi şimdiden hareketlenmiş durumda. Sarı-lacivertli camiada başkanlık yarışı sürerken, adaylardan Aziz Yıldırım ile Hakan...Devamı için tıklayınız"
-    },
-    {
-      "title": "Ronaldo's trophy wait continues as Al-Nassr upset in final",
-      "summary": "Cristiano Ronaldo's wait for a first major trophy with Al-Nassr continues after they are upset 1-0 at home by Gamba Osaka in the AFC Champions League Two final.",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pe6d9prvo?at_medium=RSS&at_campaign=rss",
+      "title": "Cunha goal should have been disallowed - Cann",
+      "summary": "Darren Cann, former assistant referee and BBC Sport's laws analyst, gives his thoughts on Manchester United's second goal against Nottingham Forest.",
+      "url": "https://www.bbc.com/sport/football/videos/c4g9wr0er8jo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-05-17T06:30:50",
+      "published": "2026-05-17T16:11:06",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-17T15:50:10.636486",
-      "priority_score": 60,
+      "fetched_at": "2026-05-17T16:44:44.668406",
+      "priority_score": 55,
       "categories": [
-        "breaking_news",
-        "champions_league"
+        "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:00.158202",
-      "title_tr": "Al-Nassr finalde üzülünce Ronaldo'nun kupa bekleyişi devam ediyor",
-      "summary_tr": "AFC Şampiyonlar Ligi İki finalinde kendi sahasında Gamba Osaka'ya 1-0 mağlup olan Cristiano Ronaldo'nun Al-Nassr ile ilk büyük kupayı alma beklentisi devam ediyor."
+      "processed_at": "2026-05-17T16:48:28.706444",
+      "title_tr": "Cunha'nın golüne izin verilmemeliydi - Cann",
+      "summary_tr": "Eski yardımcı hakem ve BBC Sport'un kanun analisti Darren Cann, Manchester United'ın Nottingham Forest'a attığı ikinci gol hakkında düşüncelerini aktarıyor."
     },
     {
-      "title": "Kasımpaşa - Galatasaray Maçı Canlı İzle | Şampiyon, deplasmanda noktalıyor",
-      "summary": "Şampiyon Galatasaray, Trendyol Süper Lig'in 34. ve son haftasında bu akşam Kasımpaşa'ya konuk olacak. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanacak bu müsabakanın canlı anlatımı burada.",
-      "url": "https://www.cnnturk.com/spor/futbol/live-canli-kasimpasa-galatasaray-maci-canli-anlatim-mac-basladi-bein-sports-1-canli-izle-kasimpasa-gs-canli-skor-3423231",
+      "title": "'Today is a beautiful day' - Casimero",
+      "summary": "Manchester United's Casimero reflects on his time with the club after their win against Nottingham Forest.",
+      "url": "https://www.bbc.com/sport/football/videos/c93xdvl898lo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-05-17T17:55:59",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "published": "2026-05-17T15:52:15",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:37.716684",
-      "priority_score": 51,
+      "fetched_at": "2026-05-17T16:44:44.668583",
+      "priority_score": 55,
       "categories": [
-        "premier_league",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:00.649392",
-      "title_tr": "Kasımpaşa - Galatasaray Maçı Canlı İzle | Şampiyon, deplasmanda noktalıyor",
-      "summary_tr": "Şampiyon Galatasaray, Trendyol Süper Lig'in 34. ve son haftasında bu akşam Kasımpaşa'ya konuk olacak. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanacak bu müsabakanın canlı anlatımı burada."
+      "processed_at": "2026-05-17T16:48:28.708229",
+      "title_tr": "'Bugün güzel bir gün' - Casimero",
+      "summary_tr": "Manchester Unitedlı Casimero, Nottingham Forest'a karşı kazandığı galibiyetin ardından kulüpte geçirdiği zamanı değerlendiriyor."
     },
     {
-      "title": "Saibari praat niet over PSV-exit: 'Denk eerst aan het WK'",
-      "summary": "Door zijn prestaties in een topseizoen met PSV staat Ismael Saibari er goed op in het buitenland, maar komt het ook tot een vertrek? Zelf denkt de smaakmaker daar niet over na, zijn focus gaat nu op het WK met Marokko. De 26-voudig international kan debuteren op het mondiale eindtoernooi, Marokko st",
-      "url": "https://www.vi.nl/video/saibari-praat-niet-over-psv-exit-denk-eerst-aan-het-wk",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-05-17t172740--ik-denk-eerst-aan-het-wk-saibari-wil-nog-niet-praten-over-psv-exit.png?width=1200",
-      "published": "2026-05-17T15:47:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights",
+      "summary": "Manchester City’s FA Cup hero started career with loans to Bath City and Newport and heads back to Bournemouth nextWhen it comes to Antoine Semenyo, it is almost impossible not to fixate on his career journey. Everybody loves a triumph over adversity, a rise from the lowest level to the very top, an",
+      "url": "https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
+      "image_url": null,
+      "published": "2026-05-17T16:00:43",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-17T15:53:55.288650",
-      "priority_score": 47,
+      "fetched_at": "2026-05-17T16:45:17.076438",
+      "priority_score": 53,
       "categories": [
-        "serie_a"
+        "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:01.159221",
-      "title_tr": "Saibari PSV'den çıkış hakkında konuşmuyor: 'Önce Dünya Kupası'nı düşünün'",
-      "summary_tr": "Ismael Saibari, PSV'de geçirdiği en iyi sezondaki performansı nedeniyle yurt dışında iyi durumda ama o da ayrılacak mı? Trend belirleyicinin kendisi bunu düşünmüyor, odak noktası artık Fas'la yapılacak Dünya Kupası'nda. 26 kez uluslararası oyuncu, ilk kez küresel final turnuvası olan Morocco St'de sahneye çıkabilir."
+      "processed_at": "2026-05-17T16:48:28.860513",
+      "title_tr": "Wiltshire'dan Wembley'e: Semenyo'nun 'gerçeküstü' yolculuğu yeni boyutlara ulaşıyor",
+      "summary_tr": "Manchester City'nin FA Cup kahramanı, kariyerine Bath City ve Newport'ta kiralık olarak başladı ve ardından Bournemouth'a geri dönüyor. Konu Antoine Semenyo'ya gelince, onun kariyer yolculuğuna odaklanmamak neredeyse imkansız. Herkes zorluklara karşı zafer kazanmayı, en düşük seviyeden en yükseğe yükselmeyi,"
+    },
+    {
+      "title": "Transfer rumors, news: Mourinho wants Man City's R...",
+      "summary": "José Mourinho is pushing for Real Madrid to make Manchester City midfielder Rodri his first signing. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/48793833/transfer-rumors-news-mourinho-wants-man-city-rodri-real-madrid",
+      "image_url": null,
+      "published": "2026-05-17T14:23:00",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.428702",
+      "priority_score": 90,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-17T16:48:28.692051",
+      "title_tr": "Transfer söylentileri, haberler: Mourinho, Man City'den R...",
+      "summary_tr": "José Mourinho, Real Madrid'in Manchester City'nin orta saha oyuncusu Rodri'yi ilk transferi yapması için baskı yapıyor. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Robinson’s penalty grabs draw for Fulham after Mané’s sparkling opener for Wolves",
+      "summary": "Fulham’s hopes of finishing in Europe were dealt a major blow as they drew 1-1 at relegated Wolves on Sunday.Mateus Mané put the hosts ahead with a fine finish in the 25th minute of the Midlands club’s final home game of the season. But the Portuguese teenager gave away a penalty in first-half stopp",
+      "url": "https://www.theguardian.com/football/2026/may/17/wolves-fulham-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-05-17T16:18:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:45:17.074954",
+      "priority_score": 83,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-17T16:48:28.829020",
+      "title_tr": "Mané'nin Wolves adına muhteşem açılışının ardından Robinson'un Fulham adına penaltı beraberliği",
+      "summary_tr": "Pazar günü küme düşen Wolves ile 1-1 berabere kalan Fulham'ın Avrupa'da bitirme umutları büyük bir darbe aldı. Mateus Mané, Midlands kulübünün sezonun iç sahadaki son maçının 25. dakikasında ev sahibi takımı güzel bir bitirişle öne geçirdi. Ancak Portekizli genç ilk yarıda penaltıyı kullandı."
+    },
+    {
+      "title": "Harm comes out on top at Amundi German Masters",
+      "summary": "Highlights from day four of the Amundi German Masters at the Green Eagle Golf Course in Hamburg, Germany.",
+      "url": "https://www.skysports.com/watch/video/13545200/amundi-german-masters-day-four-highlights",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/sky-sports-golf-let_7251559.jpg?20260517170332",
+      "published": "2026-05-17T16:54:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:55.547459",
+      "priority_score": 66,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-05-17T16:48:28.760936",
+      "title_tr": "Harm, Amundi German Masters'da zirvede",
+      "summary_tr": "Almanya'nın Hamburg kentindeki Green Eagle Golf Sahasında düzenlenen Amundi German Masters'ın dördüncü gününden önemli anlar."
     },
     {
       "title": "St. Pauli relegated to Bundesliga 2 after two seasons in German top flight",
@@ -214,16 +275,95 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-17T15:51:11.807075",
+      "fetched_at": "2026-05-17T16:45:43.564488",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-17T15:54:00.304124",
+      "processed_at": "2026-05-17T16:48:29.008033",
       "title_tr": "St. Pauli, Almanya'nın en iyi liginde geçirdiği iki sezonun ardından Bundesliga 2'ye düştü",
       "summary_tr": "St. Pauli'nin Bundesliga'daki iki yıllık kariyeri, Cumartesi günü evinde Wolfsburg'a karşı alınan 3-1'lik yenilginin Almanya'nın en iyi liginden düşmelerini teyit etmesiyle sona erdi."
+    },
+    {
+      "title": "Pulisic makes return from injury in AC Milan win",
+      "summary": "Christian Pulisic came on as a second-half substitute to help Milan to a crucial 2-1 win at Genoa on Sunday.",
+      "url": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
+      "image_url": null,
+      "published": "2026-05-17T16:08:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.427454",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-17T16:48:28.685631",
+      "title_tr": "Pulisic, AC Milan galibiyetinde sakatlıktan döndü",
+      "summary_tr": "Christian Pulisic, Milan'ın Pazar günü Cenova'da 2-1'lik kritik bir galibiyet almasına yardımcı olmak için ikinci yarıda yedek oyuncu olarak geldi."
+    },
+    {
+      "title": "Why Alonso will bring 'clear identity' to Chelsea",
+      "summary": "BBC Sport pundits Dion Dublin, Steph Houghton and Paul Robinson discuss what makes Xabi Alonso a \"good fit\" for Chelsea, after the Spaniard was announced as the Premier League club's new manager on a four-year deal.",
+      "url": "https://www.bbc.com/sport/football/videos/cn8px10802zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-17T15:41:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:44.668944",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.713111",
+      "title_tr": "Alonso neden Chelsea'ye 'açık kimlik' getirecek?",
+      "summary_tr": "BBC Spor uzmanları Dion Dublin, Steph Houghton ve Paul Robinson, İspanyol oyuncunun dört yıllık sözleşmeyle Premier Lig kulübünün yeni menajeri olarak açıklanmasının ardından Xabi Alonso'nun Chelsea için neyin \"uygun\" olduğunu tartışıyor."
+    },
+    {
+      "title": "MotoGP'nin İspanya'daki 6. etabını Di Giannantonio kazandı",
+      "summary": "Kazaların damga vurduğu sezonun 6. yarışı, Barselona kentindeki 4,6 kilometrelik Barcelona-Katalonya Pisti'nde 24 tur ü...",
+      "url": "https://www.yenisafak.com/spor/motogpnin-ispanyadaki-6-etabini-di-giannantonio-kazandi-4824847",
+      "image_url": null,
+      "published": "2026-05-17T18:33:08",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:47:45.786323",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-17T16:48:29.612727",
+      "title_tr": "MotoGP'nin İspanya'daki 6. etabını Di Giannantonio kazandı",
+      "summary_tr": "Kazaların damga vurduğu sezonun 6. yarışı, Barselona kentindeki 4,6 kilometrelik Barcelona-Katalonya Pisti'nde 24 tur ü..."
+    },
+    {
+      "title": "Rooney suffers injury after saving Pickford shot",
+      "summary": "Wayne Rooney may need surgery after hurting his wrist saving a Jordan Pickford shot during a recording for a BBC show.",
+      "url": "https://www.espn.com/soccer/story/_/id/48789233/wayne-rooney-require-surgery-saving-jordan-pickford-shot",
+      "image_url": null,
+      "published": "2026-05-17T16:08:03",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.426825",
+      "priority_score": 60,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-05-17T16:48:28.684480",
+      "title_tr": "Rooney, Pickford'un şutunu kurtardıktan sonra sakatlandı",
+      "summary_tr": "Wayne Rooney, BBC şovunun kaydı sırasında Jordan Pickford'un şutunu kurtarırken bileğini incittiği için ameliyata ihtiyaç duyabilir."
     },
     {
       "title": "Juventus Devler Ligi umudunu son maça bıraktı",
@@ -235,13 +375,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:02.848515",
+      "fetched_at": "2026-05-17T16:46:34.385683",
       "priority_score": 58,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-05-17T15:54:00.360461",
+      "processed_at": "2026-05-17T16:48:29.067622",
       "title_tr": "Juventus Devler Ligi umudunu son maça bıraktı",
       "summary_tr": "İtalya Serie A'nın 37. haftasında Juventus sahasında Fiorentina'yı ağırladı. Mücadeleyi Mor Menekşeler 2-0 kazandı ve 3 puanı hanesine yazdırdı."
     },
@@ -255,35 +395,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:02.848622",
+      "fetched_at": "2026-05-17T16:46:34.385823",
       "priority_score": 58,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-05-17T15:54:00.368452",
+      "processed_at": "2026-05-17T16:48:29.078707",
       "title_tr": "Napoli Devler Ligi'ni garantiledi!",
       "summary_tr": "İtalya Serie A'nın 37. haftasında Pisa sahasında Napoli'yi ağırladı. Mücadeleyi konuk takım 3-0 kazandı ve önümüzdeki sezon Şampiyonlar Ligi'ne katılmayı garantiledi."
-    },
-    {
-      "title": "Fenerbahçe Tarik Çetin'in sözleşmesini uzattı",
-      "summary": "Fenerbahçe, kaleci Tarık Çetin ile 3 yıllık yeni sözleşme imzaladığını duyurdu.Sarı-lacivertli kulüpten yapılan açıklam...",
-      "url": "https://www.yenisafak.com/spor/fenerbahce-tarik-cetinin-sozlesmesini-uzatti-4824558",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/16/e6694dc6-fenerbahce-tarik-cetinin-sozlesmesini-uzatti.webp",
-      "published": "2026-05-16T15:56:07",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:53:11.955972",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:01.144034",
-      "title_tr": "Fenerbahçe Tarik Çetin'in sözleşmesini uzattı",
-      "summary_tr": "Fenerbahçe, kaleci Tarık Çetin ile 3 yıllık yeni sözleşme imzaladığını duyurdu.Sarı-lacivertli kulüpten yapılan açıklam..."
     },
     {
       "title": "Bruno equals PL assist record as controversial Cunha goal secures third",
@@ -295,15 +415,35 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-17T15:50:21.897651",
+      "fetched_at": "2026-05-17T16:44:55.547386",
       "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:00.165907",
+      "processed_at": "2026-05-17T16:48:28.757281",
       "title_tr": "Tartışmalı Cunha golü üçüncü olurken Bruno PL asist rekorunu egale etti",
       "summary_tr": "İZLEMESİ ÜCRETSİZ: Manchester United'ın Premier Lig'de Nottingham Forest'a karşı oynadığı maçtan önemli anlar."
+    },
+    {
+      "title": "'A huge goal in the chase for Europe!' | Le Fee puts Sunderland ahead at Everton!",
+      "summary": "Le Fee puts Sunderland ahead at Everton in the Premier League",
+      "url": "https://www.skysports.com/watch/video/13545195/goal-e-le-fee-81-everton-1-1-sunderland",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-goal-sunderland_7251528.jpg?20260517164840",
+      "published": "2026-05-17T16:47:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:55.547678",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.778406",
+      "title_tr": "'Avrupa yolunda büyük bir hedef!' | Le Fee, Sunderland'i Everton'da öne geçirdi!",
+      "summary_tr": "Le Fee, Premier Lig'de Sunderland'i Everton karşısında öne geçirdi"
     },
     {
       "title": "Bundesliga Matchday 34 video highlights",
@@ -315,15 +455,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-17T15:51:11.802643",
+      "fetched_at": "2026-05-17T16:45:43.558183",
       "priority_score": 56,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-17T15:54:00.260453",
+      "processed_at": "2026-05-17T16:48:28.931172",
       "title_tr": "Bundesliga'da 34. haftanın öne çıkan videoları",
-      "summary_tr": "Bayern Münih, şampiyonluk kutlamalarına başlamak için Köln'e karşı sezona şık bir başlangıç ​​yaparken, Wolfsburg ise düşme mücadelesinde St. Pauli'yi mağlup ettikten sonra şimdilik güvende."
+      "summary_tr": "Bayern Münih, şampiyonluk kutlamalarına başlamak için Köln'e karşı sezona şık bir başlangıç ​​yaparken, Wolfsburg düşme mücadelesinde St. Pauli'yi mağlup ettikten sonra şimdilik güvende."
     },
     {
       "title": "Juventus 0-2 Fiorentina maç sonucu özet (Serie A)",
@@ -335,13 +475,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:17.890600",
+      "fetched_at": "2026-05-17T16:46:49.879644",
       "priority_score": 56,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-05-17T15:54:00.432189",
+      "processed_at": "2026-05-17T16:48:29.169394",
       "title_tr": "Juventus 0-2 Fiorentina maç sonucu özet (Serie A)",
       "summary_tr": "Milli futbolcumuz Kenan Yıldız'ın formasını giydiği Juventus, Şampiyonlar Ligi'ne katılmak adına önemli bir fırsat tepti."
     },
@@ -355,254 +495,112 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:17.890979",
+      "fetched_at": "2026-05-17T16:46:49.880089",
       "priority_score": 56,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-05-17T15:54:00.485129",
+      "processed_at": "2026-05-17T16:48:29.240121",
       "title_tr": "Aboubakar, Türkiye'ye dönüyor! Bedava transfer",
       "summary_tr": "Geçmişte ülkemizde Beşiktaş ve Hatayspor formaları giyen Vincent Aboubakar, yeniden Türkiye'ye transfer olmaya hazırlanıyor. Kamerunlu golcü ile ilgilenen Türk takımı belli oldu."
     },
     {
-      "title": "Manchester City’s FA Cup glory: where final against Chelsea was won and lost",
-      "summary": "Antoine Semenyo’s Kanu-esque backheel was one of the great Cup final goals as Guardiola’s forwards stepped up to end the challenge of McFarlane’s stubborn BluesIt was not quite at the level of not playing Fernandinho or Rodri against Chelsea in the Champions League final in 2021, but Pep Guardiola’s",
-      "url": "https://www.theguardian.com/football/2026/may/16/manchester-citys-fa-cup-glory-where-final-against-chelsea-was-won-and-lost",
+      "title": "Man Utd's Bruno Fernandes equals PL assist record",
+      "summary": "Manchester United's Bruno Fernandes has equalled the Premier League record for the most assists recorded in a season after registering his 20th of the campaign.",
+      "url": "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
       "image_url": null,
-      "published": "2026-05-16T17:31:38",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-05-17T16:08:03",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-17T15:50:47.906673",
-      "priority_score": 53,
+      "fetched_at": "2026-05-17T16:44:38.426614",
+      "priority_score": 55,
       "categories": [
-        "match_results",
-        "premier_league",
-        "champions_league"
+        "premier_league"
       ],
-      "processed_at": "2026-05-17T15:54:00.244911",
-      "title_tr": "Manchester City'nin FA Cup zaferi: Chelsea'ye karşı finalin kazanıldığı ve kaybedildiği yer",
-      "summary_tr": "Guardiola'nın forvetleri McFarlane'in inatçı Blues mücadelesine son vermek için öne çıkarken, Antoine Semenyo'nun Kanu benzeri arka topuğu Kupa finalindeki harika gollerden biriydi. 2021 Şampiyonlar Ligi finalinde Chelsea'ye karşı Fernandinho veya Rodri ile oynamama seviyesinde değildi ama Pep Guardiola'nın"
+      "processed_at": "2026-05-17T16:48:28.684124",
+      "title_tr": "Man Utd'lu Bruno Fernandes, PL asist rekorunu egale etti",
+      "summary_tr": "Manchester Unitedlı Bruno Fernandes, Premier Lig'de 20. sezonunun ardından bir sezonda en fazla asist rekorunu egale etti."
     },
     {
-      "title": "\"Galatasaray kendi rekorunu kıracaktır!\"",
-      "summary": "Galatasaray Lisesi'nde UEFA Kupası zaferinin 26. yıl dönümü dolayısıyla bir etkinlik düzenlendi. Etkinliğe sarı-kırmızılı takımın efsane ismi Fatih Terim de katıldı. Terim törende açıklamalarda bulundu. İşte Fatih Terim'in sözleri...",
-      "url": "https://www.haberturk.com/fatih-terim-galatasaray-kendi-rekorunu-kiracaktir-3885323-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/17/ver1779030957/3885323/jpg/1280x1280",
-      "published": "2026-05-17T15:16:30",
+      "title": "Chelsea appoint Xabi Alonso as new manager",
+      "summary": "Xabi Alonso has been named Chelsea's new manager and will begin his role on July 1, the club have announced.",
+      "url": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
+      "image_url": null,
+      "published": "2026-05-17T16:08:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.427058",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.684768",
+      "title_tr": "Chelsea yeni teknik direktör olarak Xabi Alonso'yu atadı",
+      "summary_tr": "Kulüp, Xabi Alonso'nun Chelsea'nin yeni teknik direktörü olarak seçildiğini ve görevine 1 Temmuz'da başlayacağını duyurdu."
+    },
+    {
+      "title": "Pep: Not even 1 beer for Man City after FA Cup win...",
+      "summary": "Pep Guardiola said his Manchester City players would not be allowed \"even one beer\" to celebrate their FA Cup success as his attention turned immediately to the crucial Premier League clash with Bournemouth.",
+      "url": "https://www.espn.com/soccer/story/_/id/48788316/pep-guardiola-man-city-players-not-allowed-even-one-beer-fa-cup-triumph",
+      "image_url": null,
+      "published": "2026-05-17T16:08:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.427629",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.686295",
+      "title_tr": "Pep: FA Kupası zaferinden sonra Manchester City'ye 1 bira bile yok...",
+      "summary_tr": "Pep Guardiola, Manchester City oyuncularının FA Cup başarılarını kutlamaları için \"bir biraya bile\" izin verilmeyeceğini, dikkatinin anında Bournemouth ile Premier Lig karşılaşmasına odaklandığını söyledi."
+    },
+    {
+      "title": "Man United ratings: Bruno Fernandes gets 9/10 afte...",
+      "summary": "Manchester United beat Nottingham Forest 3-2 as Bruno Fernandes tied the Premier League assist record with Kevin De Bruyne and Thierry Henry.",
+      "url": "https://www.espn.com/soccer/story/_/id/48794957/man-united-ratings-bruno-fernandes-gets-9-10-tying-assist-record",
+      "image_url": null,
+      "published": "2026-05-17T14:55:39",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-17T16:44:38.428370",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-17T16:48:28.689813",
+      "title_tr": "Manchester United reytingleri: Bruno Fernandes 9/10 aldı...",
+      "summary_tr": "Manchester United, Nottingham Forest'ı 3-2 mağlup ederken Bruno Fernandes, Premier Lig'de Kevin De Bruyne ve Thierry Henry ile asist rekorunu egale etti."
+    },
+    {
+      "title": "Kayserispor galibiyetle veda etti!",
+      "summary": "Trendyol Süper Lig'in 34. ve son haftasında Kayserispor, evinde Konyaspor'u 2-1 mağlup etti. 2. yarıda Laszlo Benes ile Fedor Chalov'un golleriyle 1-0'dan geri dönerek Süper Lig'e galibiyetle veda eden ve maç fazlasıyla 17. sıraya yükselen Kayserispor, sezonu 30 puanla tamamladı. 87. dakikada Rieche",
+      "url": "https://www.haberturk.com/kayserispor-2-konyaspor-1-mac-sonucu-3885331-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/17/ver1779033569/3885331/jpg/1280x1280",
+      "published": "2026-05-17T15:59:54",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-17T15:52:02.848211",
+      "fetched_at": "2026-05-17T16:46:34.385120",
       "priority_score": 53,
       "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:00.338190",
-      "title_tr": "\"Galatasaray kendi rekorunu kıracaktır!\"",
-      "summary_tr": "Galatasaray Lisesi'nde UEFA Kupası zaferinin 26. yıl dönümü dolayısıyla bir etkinlik düzenlendi. Etkinliğe sarı-kırmızılı takımın efsane ismi Fatih Terim de katıldı. Terim törende açıklamalarda bulundu. İşte Fatih Terim'in sözleri..."
-    },
-    {
-      "title": "Mauro Icardi kafa karıştırdı: Veda niteliğinde açıklama",
-      "summary": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi yaptığı açıklamayla dikkatlerini üzerine çekti. Sezon sonu sözleşmesi bi...",
-      "url": "https://www.yenisafak.com/spor/mauro-icardiden-kafa-karistiran-paylasim-veda-niteliginde-aciklama-4824598",
-      "image_url": null,
-      "published": "2026-05-16T18:30:56",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:53:11.949668",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:01.048213",
-      "title_tr": "Mauro Icardi kafa karıştırdı: Veda niteliğinde açıklama",
-      "summary_tr": "Galatasaray'ın Arjantinli yıldızı Mauro Icardi yaptığı açıklamayla dikkatlerini üzerine çekti. Sezon sonu sözleşmesi bi..."
-    },
-    {
-      "title": "Real Madrid milli oyuncuyu kadrosuna kattı: Anlaşma 1 yıllık",
-      "summary": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı.Kulüpten yapılan açıklamada, \"Real Madr...",
-      "url": "https://www.yenisafak.com/spor/real-madrid-milli-oyuncuyu-kadrosuna-katti-anlasma-1-yillik-4824579",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/16/878a6654-i63l0fo6om0rmybrtg4wl.webp",
-      "published": "2026-05-16T17:16:08",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:53:11.953236",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-05-17T15:54:01.093873",
-      "title_tr": "Real Madrid milli oyuncuyu kadrosuna kattı: Anlaşma 1 yıllık",
-      "summary_tr": "Milli basketbolcu Ömer Faruk Yurtseven, İspanyol kulübü Real Madrid ile anlaştı.Kulüpten yapılan açıklamada, \"Real Madr..."
-    },
-    {
-      "title": "Cumhurbaşkanlığı Golf Kupası’nda ilk heyecan tamamlandı!",
-      "summary": "Türkiye Golf Federasyonu tarafından, T.C. Cumhurbaşkanlığı himayelerinde ve Gençlik ve Spor Bakanlığı’nın destekleriyle bu yıl ilk kez düzenlenen TGF Cumhurbaşkanlığı Golf Kupası 2026, TGF Silivri Golf Sahası’nda gerçekleştirilen final müsabakaları ve ödül töreniyle sona erdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/cumhurbaskanligi-golf-kupasinda-ilk-heyecan-tamamlandi-43175793",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a09da6ee02130392c72c9fc.jpg",
-      "published": "2026-05-17T15:11:12",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:17.890340",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-17T15:54:00.403000",
-      "title_tr": "Cumhurbaşkanlığı Golf Kupası’nda ilk heyecan tamamlandı!",
-      "summary_tr": "Türkiye Golf Federasyonu tarafından, T.C. Cumhurbaşkanlığı himayelerinde ve Gençlik ve Spor Bakanlığı’nın destekleriyle bu yıl ilk kez düzenlenen TGF Cumhurbaşkanlığı Golf Kupası 2026, TGF Silivri Golf Sahası’nda gerçekleştirilen final müsabakaları ve ödül töreniyle sona erdi."
-    },
-    {
-      "title": "Kasımpaşa- Galatasaray maçları gollü geçiyor! Manchester United sahasında kazanıyor … İşte Misli’den Günün Tüyoları!",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-      "url": "https://www.hurriyet.com.tr/sporarena/kasimpasa-galatasaray-maclari-gollu-geciyor-manchester-united-sahasinda-kazaniyor-iste-misliden-gunun-tuyolari-43175497",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a09792aaf0b515134300583.jpg",
-      "published": "2026-05-17T08:17:35",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:17.891136",
-      "priority_score": 51,
-      "categories": [
         "match_results",
-        "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-05-17T15:54:00.518373",
-      "title_tr": "Kasımpaşa- Galatasaray maçları gollü geçiyor! Manchester United sahasında kazanıyor … İşte Misli’den Günün Tüyoları!",
-      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!"
-    },
-    {
-      "title": "HULL CITY FİNAL MAÇI NE ZAMAN? Acun Ilıcalı'nın Takımı Hull City Premier Lig'e Çıktı Mı?",
-      "summary": "Acun Ilıcalı’nın sahibi olduğu Hull City, play-off yarı finalinde sergilediği etkili performansla adını finale yazdırdı. İlk maçta sahasında Millwall ile golsüz berabere kalan ekip, rövanş karşılaşmasında üstün bir oyun ortaya koyarak Mohamed Belloumi ve Joe Gelhardt’ın attığı gollerle rakibini 2-0 ",
-      "url": "https://www.cnnturk.com/spor/futbol/hull-city-final-maci-ne-zaman-acun-ilicalinin-takimi-hull-city-premier-lige-cikti-mi-3422063",
-      "image_url": null,
-      "published": "2026-05-17T09:25:48",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:37.718067",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-17T15:54:00.764276",
-      "title_tr": "HULL CITY FİNAL MAÇI NE ZAMAN? Acun Ilıcalı'nın Takımı Hull City Premier Lig'e Çıktı Mı?",
-      "summary_tr": "Acun Ilıcalı’nın sahibi olduğu Hull City, play-off yarı finalinde sergilediği etkili performansla adını finale yazdırdı. İlk maçta sahasında Millwall ile golsüz berabere kalan ekip, rövanş karşılaşmasında üstün bir oyun ortaya koyarak Mohamed Belloumi ve Joe Gelhardt’ın attığı gollerle rakibini 2-0"
-    },
-    {
-      "title": "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
-      "summary": "Xabi Alonso may now be heading to Chelsea, but Mohamed Salah's outburst keeps the pressure on Arne Slot, writes Phil McNulty.",
-      "url": "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-17T08:40:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:50:10.635305",
-      "priority_score": 50,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-17T15:54:00.150921",
-      "title_tr": "Alonso'nun hayali sona erdi ama Salah'ın patlaması Slot'u kızdırmaya devam ediyor",
-      "summary_tr": "Phil McNulty, Xabi Alonso'nun şu anda Chelsea'ye gidiyor olabileceğini ancak Mohamed Salah'ın patlamasının Arne Slot üzerindeki baskıyı sürdürdüğünü yazıyor."
-    },
-    {
-      "title": "Tipped for relegation to title winners - AGF's 'King Arthur' moment",
-      "summary": "Aarhus GF were tipped for relegation from the Danish Superliga this season. Instead, they will lift the championship trophy for the first time in 40 years this Sunday.",
-      "url": "https://www.bbc.com/sport/football/articles/c794ly3lzjeo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-17T08:29:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:50:10.636608",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-05-17T15:54:00.159867",
-      "title_tr": "Şampiyonluk kazananlarına düşme ihtimali var - AGF'nin 'Kral Arthur' anı",
-      "summary_tr": "Aarhus GF'nin bu sezon Danimarka Süper Ligi'nden düşme ihtimali vardı. Bunun yerine bu Pazar 40 yıl aradan sonra ilk kez şampiyonluk kupasını kaldıracaklar."
-    },
-    {
-      "title": "Two police officers 'seriously injured' and 14 arrests during Celtic disorder",
-      "summary": "Riot police had to clear the streets after thousands of fans gathered in Glasgow to celebrate a fifth successive Scottish Premiership title.",
-      "url": "https://www.bbc.com/news/articles/c0e2xxz5rl9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-17T15:01:38",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:50:10.636732",
-      "priority_score": 50,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-05-17T15:54:00.161859",
-      "title_tr": "Kelt kargaşasında iki polis memuru 'ağır şekilde yaralandı' ve 14 kişi tutuklandı",
-      "summary_tr": "Binlerce taraftarın üst üste beşinci İskoçya Premier şampiyonluğunu kutlamak için Glasgow'da toplanmasının ardından çevik kuvvet polisi sokakları boşaltmak zorunda kaldı."
-    },
-    {
-      "title": "Transferde büyük bomba! Fenerbahçe Liverpool'un yıldızıyla anlaştı",
-      "summary": "Fenerbahçe'de haziran ayında yapılacak seçim yaklaşırken mevcut yönetim transfer çalışmalarını hız kesmeden sürdürüyor. Sarı-lacivertli kulübün, gündem yaratacak bir transferde sona geldiği öğrenildi....Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/05/17/transferde-buyuk-bomba-fenerbahce-liverpoolun-yildiziyla-anlasti",
-      "image_url": "https://iaftm.tmgrup.com.tr/f86c68/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/05/17/transferde-buyuk-bomba-fenerbahce-liverpoolun-yildiziyla-anlasti-1779020234754.jpeg",
-      "published": "2026-05-17T12:19:04",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:53.058517",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:00.832950",
-      "title_tr": "Transferde büyük bomba! Fenerbahçe Liverpool'un yıldızıyla anlaştı",
-      "summary_tr": "Fenerbahçe'de haziran ayında yapılacak seçim yaklaşırken mevcut yönetim transfer çalışmalarını hız kesmeden sürdürüyor. Sarı-lacivertli kulübün, gündem yaratacak bir transferde sona geldiği öğrenildi....Devamı için tıklayınız"
-    },
-    {
-      "title": "Rafael Leao'dan olay hareket! Fenerbahçeli taraftarları kızdırdı",
-      "summary": "Son dakika Fenerbahçe haberleri: Fenerbahçe'de başkan adayları Aziz Yıldırım ve Hakan Safi'nin transfer gündeminde yer alan Rafael Leao, sosyal medyada gündem oldu. Milan forması giyen Portekizli yıldız,...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/05/16/rafael-leaodan-olay-hareket-fenerbahceli-taraftarlari-kizdirdi",
-      "image_url": "https://iaftm.tmgrup.com.tr/9299d0/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/05/16/rafael-leaodan-olay-hareket-fenerbahceli-taraftarlari-kizdirdi-1778961856524.jpeg",
-      "published": "2026-05-17T03:50:13",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-17T15:52:53.060082",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-17T15:54:01.008175",
-      "title_tr": "Rafael Leao'dan olay hareket! Fenerbahçeli taraftarları kızdırdı",
-      "summary_tr": "Son dakika Fenerbahçe haberleri: Fenerbahçe'de başkan adayları Aziz Yıldırım ve Hakan Safi'nin transfer gündeminde yer alan Rafael Leao, sosyal medyada gündem oldu. Milan forması giyen Portekizli yıldız,...Devamı için tıklayınız"
+      "processed_at": "2026-05-17T16:48:29.023300",
+      "title_tr": "Kayserispor galibiyetle veda etti!",
+      "summary_tr": "Trendyol Süper Lig'in 34. ve son haftasında Kayserispor, evinde Konyaspor'u 2-1 mağlup etti. 2. yarıda Laszlo Benes ile Fedor Chalov'un golleriyle 1-0'dan geri dönerek Süper Lig'e galibiyetle veda eden ve maç fazlasıyla 17. sıraya yükselen Kayserispor, sezonu 30 puanla tamamladı. 87. dakikada Rieche"
     }
   ]
 }
