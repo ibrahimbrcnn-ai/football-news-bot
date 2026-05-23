@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T11:58:59.000382",
+  "timestamp": "2026-05-23T13:03:54.488417",
   "total_items": 30,
   "news": [
     {
@@ -12,16 +12,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-23T11:53:43.359395",
+      "fetched_at": "2026-05-23T12:58:40.806072",
       "priority_score": 85,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-05-23T11:57:31.418324",
+      "processed_at": "2026-05-23T13:02:28.720041",
       "title_tr": "Guardiola, ayrılışın onaylanmasıyla Manchester City'nin 'yeni enerjiye ihtiyacı olduğunu' söyledi",
-      "summary_tr": "Manchester City, Pep Guardiola'nın on yıllık benzersiz başarının ardından sezon sonunda ayrılacağını doğruladı."
+      "summary_tr": "Manchester City, Pep Guardiola'nın on yıllık benzersiz başarısının ardından sezon sonunda ayrılacağını doğruladı."
     },
     {
       "title": "René Wagner to remain as Cologne head coach",
@@ -33,16 +33,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:44.362109",
+      "fetched_at": "2026-05-23T12:59:39.184620",
       "priority_score": 81,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-05-23T11:57:31.596141",
+      "processed_at": "2026-05-23T13:02:28.918142",
       "title_tr": "René Wagner Köln'ün teknik direktörü olarak kalacak",
       "summary_tr": "Kulüp, Köln'ün eski geçici patronu René Wagner'i yeni baş antrenör olarak kalıcı olarak atadığını doğruladı."
+    },
+    {
+      "title": "Fernandes named Premier League player of season",
+      "summary": "Midfielder Bruno Fernandes becomes the first Manchester United player to win the award since Nemanja Vidic in 2011.",
+      "url": "https://www.bbc.com/sport/football/articles/c9wen9znndeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-23T12:23:39",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-23T12:58:40.804326",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-23T13:02:28.709970",
+      "title_tr": "Fernandes Premier Lig'de sezonun oyuncusu seçildi",
+      "summary_tr": "Orta saha oyuncusu Bruno Fernandes, 2011'de Nemanja Vidic'ten bu yana ödülü kazanan ilk Manchester United oyuncusu oldu."
     },
     {
       "title": "Transfers Ajax: Amsterdammers breken contract Italiaanse jeugdspeler open",
@@ -54,55 +74,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-23T11:57:27.699487",
+      "fetched_at": "2026-05-23T13:02:25.817117",
       "priority_score": 77,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-05-23T11:57:32.662627",
+      "processed_at": "2026-05-23T13:02:30.054385",
       "title_tr": "Transferler Ajax: Amsterdamlılar İtalyan genç oyuncuyla sözleşmesini feshetti",
       "summary_tr": "VI, kış transfer döneminin kapalı olmasına rağmen Ajax'taki transfer haberlerini yakından takip ediyor. Amsterdamlıların hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgi. Her şeyi burada topluyoruz."
-    },
-    {
-      "title": "Fernandes named Premier League player of season",
-      "summary": "Midfielder Bruno Fernandes becomes the first Manchester United player to win the award since Nemanja Vidic in 2011.",
-      "url": "https://www.bbc.com/sport/football/articles/c9wen9znndeo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-23T10:53:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:53:43.356995",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-23T11:57:31.409204",
-      "title_tr": "Fernandes Premier Lig'de sezonun oyuncusu seçildi",
-      "summary_tr": "Orta saha oyuncusu Bruno Fernandes, 2011'de Nemanja Vidic'ten bu yana ödülü kazanan ilk Manchester United oyuncusu oldu."
-    },
-    {
-      "title": "Fernandes wins Premier League POTS award after historic Man Utd season",
-      "summary": "Manchester United captain Bruno Fernandes has been named the Premier League Player of the Season.",
-      "url": "https://www.skysports.com/football/news/12040/13547262/bruno-fernandes-man-utd-captain-wins-premier-league-player-of-the-season-award-after-historic-season-at-old-trafford",
-      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-man-utd_7256356.jpg?20260523111540",
-      "published": "2026-05-23T11:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:53:53.347941",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-23T11:57:31.450490",
-      "title_tr": "Fernandes, tarihi Man Utd sezonunun ardından Premier League POTS ödülünü kazandı",
-      "summary_tr": "Manchester United kaptanı Bruno Fernandes, Premier Lig'de Sezonun Oyuncusu seçildi."
     },
     {
       "title": "Bayern Munich's Harry Kane and VfB Stuttgart's Deniz Undav hold key to DFB Cup final",
@@ -114,13 +94,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:44.356200",
+      "fetched_at": "2026-05-23T12:59:39.179632",
       "priority_score": 66,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-23T11:57:31.527174",
+      "processed_at": "2026-05-23T13:02:28.844277",
       "title_tr": "Bayern Münih'ten Harry Kane ve VfB Stuttgart'tan Deniz Undav, DFB Kupası finalinin anahtarını elinde tutuyor",
       "summary_tr": "Bayern Münih ve VfB Stuttgart, Cumartesi günü Berlin Olympiastadion'da DFB Kupası finalinde karşı karşıya gelirken, Harry Kane ve Deniz Undav kendi takımlarını zafere taşımayı hedefleyecek. Bundesliga gol tablolarının da gösterdiği gibi, ikili belirleyici farkı yaratacak her şeye sahip…"
     },
@@ -134,33 +114,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:08.255927",
+      "fetched_at": "2026-05-23T13:01:06.586138",
       "priority_score": 61,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.983580",
+      "processed_at": "2026-05-23T13:02:29.356765",
       "title_tr": "Fenerbahçe'yle adı geçiyordu! Liverpool'dan Salah'a veda...",
       "summary_tr": "İngiltere Premier Lig ekibi Liverpool, sezon sonunda takımdan ayrılacak Mısırlı futbolcu Muhammed Salah için veda mesajı yayımladı."
-    },
-    {
-      "title": "The Joy of Six: Mohamed Salah at Liverpool",
-      "summary": "From Champions League redemption to that stunner against City, we look at half a dozen memorable moments from striker’s Anfield careerIt was surely the worst moment of Mohamed Salah’s Liverpool career, yet the reaction said everything about his impact on the English game; the respect he had earned i",
-      "url": "https://www.theguardian.com/football/2026/may/23/the-joy-of-six-mohamed-salah-at-liverpool",
-      "image_url": null,
-      "published": "2026-05-23T07:00:22",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:54:18.756259",
-      "priority_score": 53,
-      "categories": [
-        "champions_league"
-      ],
-      "processed_at": "2026-05-23T11:57:31.461115",
-      "title_tr": "Altılının Sevinci: Mohamed Salah Liverpool'da",
-      "summary_tr": "Şampiyonlar Ligi'ndeki kurtuluşundan City'ye karşı oynadığı o sersemletici golcüye kadar, forvetin Anfield kariyerindeki yarım düzine unutulmaz anlara bakıyoruz. Mohamed Salah'ın Liverpool kariyerindeki en kötü anı olduğu kesin, ancak tepkiler onun İngiliz maçına olan etkisi hakkında her şeyi söylüyor; kazandığı saygıyı"
     },
     {
       "title": "Sydney FC blunted as Auckland FC claim historic A-League Men championship title",
@@ -172,75 +133,18 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:18.758333",
+      "fetched_at": "2026-05-23T12:59:17.789314",
       "priority_score": 53,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-05-23T11:57:31.488820",
+      "processed_at": "2026-05-23T13:02:28.803160",
       "title_tr": "Auckland FC tarihi A-League Erkekler şampiyonluğunu elde ederken Sydney FC köreldi",
       "summary_tr": "Siyah Şövalyeler, Go Media Stadyumu'nda Sky Blues'u 1-0 yenerek Cameron Howieson'un 60. dakikada attığı sert golle zaferi hak ettiAuckland FC, Cumartesi günü Auckland'da rekor seyirci önünde tüm zamanların rekortmeni Sydney FC'yi 1-0 mağlup ederek ilk A-Lig Erkekler şampiyonluğunu kazandı."
     },
     {
-      "title": "Terim'den yabancı kuralı açıklaması!",
-      "summary": "Türk futbolu ve Galatasaray'ın efsane teknik direktörü Fatih Terim, yabancı futbolcu kuralının 10+4 olarak değiştirilmesiyle ilgili dikkat çeken açıklamalarda bulundu. Futbolcu kuralında yasaklardan yana olmadığını belirten Terim, \"Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygula",
-      "url": "https://www.haberturk.com/fatih-terim-den-yabanci-kurali-aciklamasi-3886833-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779535371/3886833/jpg/1280x1280",
-      "published": "2026-05-23T11:23:26",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:55:32.517775",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-23T11:57:31.600376",
-      "title_tr": "Terim'den yabancı kuralı açıklaması!",
-      "summary_tr": "Türk futbolu ve Galatasaray'ın efsane teknik direktörü Fatih Terim, yabancı futbolcu kuralının 10+4 olarak değiştirilmesiyle ilgili dikkat çeken açıklamalarda bulundu. Futbolcu kuralında yasaklardan yana olmadığını belirten Terim, \"Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygula"
-    },
-    {
-      "title": "Ömer Faruk'tan altın madalya!",
-      "summary": "Milli karateci Ömer Faruk Yürür, Almanya'da düzenlenen Avrupa Karate Şampiyonası'nda altın madalya kazandı.",
-      "url": "https://www.haberturk.com/son-dakika-milli-karateci-omer-faruk-yurur-den-altin-madalya-3886831-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779534880/3886831/jpg/1280x1280",
-      "published": "2026-05-23T11:15:10",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:55:32.517859",
-      "priority_score": 53,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-23T11:57:31.603913",
-      "title_tr": "Ömer Faruk'tan altın madalya!",
-      "summary_tr": "Milli karateci Ömer Faruk Yürür, Almanya'da düzenlenen Avrupa Karate Şampiyonası'nda altın madalya kazandı."
-    },
-    {
-      "title": "Fatih Terim, seçim günü konuştu: Fazla rötar yapmamalıyız",
-      "summary": "Eski Galatasaray Teknik Direktörü Fatih Terim, futbolcu kuralında yasaklardan yana olmadığını belirterek, \"Ben mümkün olsa yasaklardan yana değilim. Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygulama en doğrusudur. Her şeyin yenilendiği dünyada artık buralarda fazla rötar yapmama",
-      "url": "https://www.cnnturk.com/spor/futbol/fatih-terim-secim-gunu-konustu-fazla-rotar-yapmamaliyiz-3424615",
-      "image_url": null,
-      "published": "2026-05-23T14:16:49",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:56:08.255202",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-05-23T11:57:31.936970",
-      "title_tr": "Fatih Terim, seçim günü konuştu: Fazla rötar yapmamalıyız",
-      "summary_tr": "Eski Galatasaray Teknik Direktörü Fatih Terim, futbolcu kuralında yasaklardan yana olmadığını belirterek, \"Ben mümkün olsa yasaklardan yana değilim. Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygulama en doğrusudur. Her şeyin yenilendiği dünyada artık buralarda fazla rötar yapmama"
-    },
-    {
       "title": "DRC World Cup squad ordered to isolate before entry to US due to Ebola outbreak",
-      "summary": "Congo squad told to remain in a “bubble” in BelgiumOfficials impose 21 days of isolation Congo’s World Cup squad must isolate for 21 days before they will be allowed into the United States due to the African country’s deadly Ebola outbreak.Andrew Giuliani, the executive director of the White House T",
+      "summary": "DRC say there will be no change to schedule First game is on 17 June against PortugalThe Democratic Republic of the Congo (DRC) have no plans to change their preparations for the World Cup despite a warning from the United States that the national team must isolate for 21 days before arriving in the",
       "url": "https://www.theguardian.com/football/2026/may/23/dcr-world-cup-squad-isolate-ebola-outbreak-congo-united-states",
       "image_url": null,
       "published": "2026-05-23T09:07:05",
@@ -248,35 +152,129 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:18.758744",
-      "priority_score": 73,
+      "fetched_at": "2026-05-23T12:59:17.789661",
+      "priority_score": 53,
       "categories": [
-        "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-05-23T11:57:31.494886",
+      "processed_at": "2026-05-23T13:02:28.809619",
       "title_tr": "DRC Dünya Kupası ekibine, Ebola salgını nedeniyle ABD'ye girmeden önce tecrit emri verildi",
-      "summary_tr": "Kongo kadrosuna Belçika'da bir \"balon\" içinde kalması söylendiYetkililer 21 günlük tecrit uyguluyor Kongo'nun Dünya Kupası kadrosunun, Afrika ülkesinin ölümcül Ebola salgını nedeniyle ABD'ye girmesine izin verilmeden önce 21 gün boyunca tecrit etmesi gerekiyor.Beyaz Saray T İcra Direktörü Andrew Giuliani"
+      "summary_tr": "DRC, programda herhangi bir değişiklik olmayacağını söyledi İlk maç 17 Haziran'da Portekiz'le oynanacakDemokratik Kongo Cumhuriyeti (DRC), ABD'nin milli takımın maça gelmeden önce 21 gün karantinada kalması gerektiği yönündeki uyarısına rağmen Dünya Kupası hazırlıklarını değiştirmeyi düşünmüyor."
     },
     {
-      "title": "Eren Erdoğan yeniden Fethiyespor'da",
-      "summary": "Fethiyespor'un ilk transferi eski oyuncusu Eren Erdoğan oldu. Kariyerine Altay'da başlayıp 2020 yılında da kiralık olar...",
-      "url": "https://www.yenisafak.com/spor/eren-erdogan-yeniden-fethiyesporda-4826434",
+      "title": "G.Saray'da seçim günü! Tek aday Dursun Özbek",
+      "summary": "Galatasaray Kulübü'nün olağan seçimli genel kurulu bugün gerçekleştiriliyor. Mevcut başkan Dursun Aydın Özbek'in tek aday olarak yer aldığı seçimde oy kullanma işlemi saat 15.00'te tamamlandı. 2079 genel kurul üyesinin oy kullandığı toplam 12 sandıkta oy sayma işlemi başladı.",
+      "url": "https://www.haberturk.com/galatasaray-da-olagan-secimli-genel-kurul-gunu-tek-aday-dursun-ozbek-3886757-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779538434/3886757/jpg/1280x1280",
+      "published": "2026-05-23T12:17:38",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:00:29.336279",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-05-23T13:02:28.923332",
+      "title_tr": "G.Saray'da seçim günü! Tek aday Dursun Özbek",
+      "summary_tr": "Galatasaray Kulübü'nün olağan seçimli genel kurulu bugün gerçekleştiriliyor. Mevcut başkan Dursun Aydın Özbek'in tek aday olarak yer aldığı seçimde oy kullanma işlemi saat 15.00'te tamamlandı. 2079 genel kurul üyesinin oy kullandığı toplam 12 sandıkta oy sayma işlemi başladı."
+    },
+    {
+      "title": "İngiltere'de yılın futbolcusu Bruno Fernandes!",
+      "summary": "İngiltere Premier Lig'de yılın futbolcusu Manchester United forması giyen Bruno Fernandes seçildi.",
+      "url": "https://www.haberturk.com/ingiltere-de-yilin-futbolcusu-bruno-fernandes-3886841-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779537983/3886841/jpg/1280x1280",
+      "published": "2026-05-23T12:07:07",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:00:29.336354",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-05-23T13:02:28.928716",
+      "title_tr": "İngiltere'de yılın futbolcusu Bruno Fernandes!",
+      "summary_tr": "İngiltere Premier Lig'de yılın futbolcusu Manchester United forması giyen Bruno Fernandes seçildi."
+    },
+    {
+      "title": "Galatasaray'da başkanlık seçimi başladı! Dursun Özbek tek aday",
+      "summary": "Galatasaray Spor Kulübü'nün olağan seçimli genel kurul toplantısı Galatasaray Lisesi'nde gerçekleştiriliyor. Gelişmeleri canlı olarak aktarıyoruz.",
+      "url": "https://www.hurriyet.com.tr/sporarena/live-galatasarayda-baskanlik-secimi-basladi-dursun-ozbek-tek-aday-43181800",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a11510dc66afe0bcd067397.jpg",
+      "published": "2026-05-23T12:55:10",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:00:43.951038",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-05-23T13:02:29.000867",
+      "title_tr": "Galatasaray'da başkanlık seçimi başladı! Dursun Özbek tek aday",
+      "summary_tr": "Galatasaray Spor Kulübü'nün olağan seçimli genel kurul toplantısı Galatasaray Lisesi'nde gerçekleştiriliyor. Gelişmeleri canlı olarak aktarıyoruz."
+    },
+    {
+      "title": "Ömer Faruk Yürür Avrupa Karate Şampiyonası'nda altın madalya kazandı",
+      "summary": "Frankfurt’ta gerçekleştirilen organizasyonda Ömer Faruk Yürür, erkek kumite 75 kilo finalinde Fransa'dan Kilian Cizo il...",
+      "url": "https://www.yenisafak.com/spor/omer-faruk-yurur-avrupa-karate-sampiyonasinda-altin-madalya-kazandi-4826485",
       "image_url": null,
-      "published": "2026-05-23T12:01:54",
+      "published": "2026-05-23T15:17:31",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:44.675194",
-      "priority_score": 72,
+      "fetched_at": "2026-05-23T13:01:49.325501",
+      "priority_score": 47,
       "categories": [
-        "transfers"
+        "match_results"
       ],
-      "processed_at": "2026-05-23T11:57:32.332444",
-      "title_tr": "Eren Erdoğan yeniden Fethiyespor'da",
-      "summary_tr": "Fethiyespor'un ilk transferi eski oyuncusu Eren Erdoğan oldu. Kariyerine Altay'da başlayıp 2020 yılında da kiralık olar..."
+      "processed_at": "2026-05-23T13:02:29.673491",
+      "title_tr": "Ömer Faruk Yürür Avrupa Karate Şampiyonası'nda altın madalya kazandı",
+      "summary_tr": "Frankfurt’ta gerçekleştirilen organizasyonda Ömer Faruk Yürür, erkek kumite 75 kilo finalinde Fransa'dan Kilian Cizo il..."
+    },
+    {
+      "title": "Fatih Tekke Trabzonspor'daki ilk kupasını aldı",
+      "summary": "Ziraat Türkiye Kupası finalinde TÜMOSAN Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı.Son 2 yılda finale çı...",
+      "url": "https://www.yenisafak.com/spor/fatih-tekke-trabzonspordaki-ilk-kupasini-aldi-4826316",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/5/22/8fcddb9d-ti1wkvktkpaeghxgn4e1t.webp",
+      "published": "2026-05-22T23:22:51",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:01:49.335275",
+      "priority_score": 47,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-05-23T13:02:29.786791",
+      "title_tr": "Fatih Tekke Trabzonspor'daki ilk kupasını aldı",
+      "summary_tr": "Ziraat Türkiye Kupası finalinde TÜMOSAN Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı.Son 2 yılda finale çı..."
+    },
+    {
+      "title": "Pérez is officieel kandidaat bij Real Madrid, maar concurrent geeft gas",
+      "summary": "Florentino Pérez (79) is officieel toegelaten tot de presidentsverkiezingen van Real Madrid. Als zich vóór middernacht geen andere kandidaat meldt, is Pérez zondag automatisch zeker van een nieuwe termijn, maar de kans bestaat dat een andere kandidaat roet in het eten gaat gooien.",
+      "url": "https://www.vi.nl/nieuws/p-rez-is-officieel-kandidaat-bij-real-madrid-maar-concurrent-geeft-gas",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/23/261c8139ee7555d0c4840991bb60a031369e0229.jpg?width=1200",
+      "published": "2026-05-23T12:44:18",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:02:25.816387",
+      "priority_score": 47,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-05-23T13:02:29.839589",
+      "title_tr": "Pérez resmi olarak Real Madrid'in adayı ancak rakibi yavaşlıyor",
+      "summary_tr": "Florentino Pérez (79), Real Madrid başkanlık seçimlerine resmen kabul edildi. Gece yarısından önce başka aday kaydolmazsa, Pérez'e Pazar günü otomatik olarak yeni bir dönem atanması garanti ediliyor, ancak başka bir adayın işleri karıştırması ihtimali de var."
     },
     {
       "title": "Samsunspor Başkanı Yüksel Yıldırım açıkladı: Galatasaraylı 2 yıldızı istiyor",
@@ -288,13 +286,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:08.256294",
+      "fetched_at": "2026-05-23T13:01:06.586381",
       "priority_score": 71,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:32.007866",
+      "processed_at": "2026-05-23T13:02:29.381665",
       "title_tr": "Samsunspor Başkanı Yüksel Yıldırım açıkladı: Galatasaraylı 2 yıldızı istiyor",
       "summary_tr": "Süper Lig’de sezonun sona ermesiyle birlikte transfer çalışmalarına hız veren Samsunspor, Galatasaray’ın iki önemli ismini radarına aldı."
     },
@@ -308,7 +306,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-23T11:53:43.357522",
+      "fetched_at": "2026-05-23T12:58:40.804699",
       "priority_score": 70,
       "categories": [
         "transfers",
@@ -316,29 +314,9 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-05-23T11:57:31.409932",
+      "processed_at": "2026-05-23T13:02:28.710621",
       "title_tr": "Kane Barselona'nın kısa listesinde - Cumartesi günkü dedikodular",
-      "summary_tr": "İngiltere ve Bayern Münih'in forvet oyuncusu Harry Kane, Barselona'nın Robert Lewandowski'nin yerini alacak aday listesinde yer alıyor, Manchester United, Atalanta'nın orta saha oyuncusu Ederson için anlaşmaya varırken, Liverpool, Kolombiyalı genç hücum oyuncusu Samuel Martinez'e ve daha fazlasına yaklaşıyor."
-    },
-    {
-      "title": "'Besiktas wil Pavlidis, FC Porto denkt aan twee spitsen'",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/leipzig-wil-honderd-miljoen-voor-liverpool-target",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-05-23T11:45:09",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:57:27.698725",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-05-23T11:57:32.482799",
-      "title_tr": "'Beşiktaş Pavlidis'i istiyor, Porto ise iki forvet düşünüyor'",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "summary_tr": "İngiltere ve Bayern Münih'in forvet oyuncusu Harry Kane, Barselona'nın Robert Lewandowski'nin yerini almak üzere kısa listesinde yer alıyor, Manchester United, Atalanta orta saha oyuncusu Ederson için anlaşmaya varırken, Liverpool, Kolombiyalı genç hücum oyuncusu Samuel Martinez ve daha fazlasıyla yakınlaşıyor."
     },
     {
       "title": "Bayern Munich midfield talent Tom Bischof talks about his DFB Cup hopes, winning the Bundesliga title and which teammate is the best at Uno",
@@ -350,14 +328,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:44.358388",
+      "fetched_at": "2026-05-23T12:59:39.181485",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-05-23T11:57:31.554603",
+      "processed_at": "2026-05-23T13:02:28.873727",
       "title_tr": "Bayern Münih'in orta saha oyuncusu Tom Bischof, DFB Kupası umutlarını, Bundesliga şampiyonluğunu kazanmayı ve Uno'da hangi takım arkadaşının en iyi olduğunu anlatıyor",
       "summary_tr": "Bayern Münih'in 20 yaşındaki orta saha oyuncusu Tom Bischof, Bundesliga'ya verdiği bir röportajda, VfB Stuttgart'a karşı oynanacak DFB Kupası finali hakkında konuştu ve kulüpteki ilk sezonunu, ilk şampiyonluğu da dahil olmak üzere değerlendirdi."
     },
@@ -371,7 +349,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:18.185791",
+      "fetched_at": "2026-05-23T13:01:20.017674",
       "priority_score": 64,
       "categories": [
         "transfers",
@@ -379,9 +357,28 @@
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:32.139469",
+      "processed_at": "2026-05-23T13:02:29.510540",
       "title_tr": "Fenerbahçe ve Galatasaray'a transferde dev rakip! İspanyol basınından flaş iddia",
       "summary_tr": "İsmi Fenerbahçe ve Galatasaray ile anılan Vedat Muriqi hakkında İspanyol basınından flaş bir iddia gündeme geldi. La Liga devinin yaz transfer döneminde o şarta bağlı olarak Kosovalı golcünün transferine...Devamı için tıklayınız"
+    },
+    {
+      "title": "Eren Erdoğan yeniden Fethiyespor'da",
+      "summary": "Fethiyespor'un ilk transferi eski oyuncusu Eren Erdoğan oldu. Kariyerine Altay'da başlayıp 2020 yılında da kiralık olar...",
+      "url": "https://www.yenisafak.com/spor/eren-erdogan-yeniden-fethiyesporda-4826434",
+      "image_url": null,
+      "published": "2026-05-23T12:01:54",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:01:49.332112",
+      "priority_score": 62,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-05-23T13:02:29.738278",
+      "title_tr": "Eren Erdoğan yeniden Fethiyespor'da",
+      "summary_tr": "Fethiyespor'un ilk transferi eski oyuncusu Eren Erdoğan oldu. Kariyerine Altay'da başlayıp 2020 yılında da kiralık olar..."
     },
     {
       "title": "Fenerbahçe ve Galatasaray'a transferde kötü haber! Vedat Muriqi için Avrupa devi devrede",
@@ -393,74 +390,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:44.838660",
+      "fetched_at": "2026-05-23T13:00:43.951620",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.725887",
+      "processed_at": "2026-05-23T13:02:29.083378",
       "title_tr": "Fenerbahçe ve Galatasaray'a transferde kötü haber! Vedat Muriqi için Avrupa devi devrede",
       "summary_tr": "Mallorca forması giyen Vedat Muriqi'in durumunu yakından takip eden Fenerbahçe ve Galatasaray'a transferde Avrupa devi rakip oldu."
     },
     {
-      "title": "\"Şu geliyor, bizi seçin' diyenlere inanmayın!\"",
-      "summary": "Fenerbahçe Başkan Adayı Aziz Yıldırım, Şanlıurfa'da yaptığı açıklamada, seçimdeki rakibi Hakan Safi'nin transfer vaatleriyle ilgili dikkat çeken ifadeler kullandı. Yıldırım, \"Şu geliyor, bizi seçin' diyenlere inanmayın, önemli olan iyi takım kurmak\" dedi.",
-      "url": "https://www.haberturk.com/fenerbahce-baskan-adayi-aziz-yildirim-su-geliyor-bizi-secin-diyenlere-inanmayin-3886828-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779534582/3886828/jpg/1280x1280",
-      "published": "2026-05-23T11:10:18",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Galatasaray'dan Aral Şimşir hamlesi! İstenen bonservis bedeli...",
+      "summary": "Yeni sezon öncesi transfer çalışmalarına hız veren Galatasaray, yeni yabancı kuralının açıklanmasının ardından stratejisinde değişikliğe gitti. Sarı-kırmızılılar, yerli rotasyonunu güçlendirmek amacıyla...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/05/23/galatasaraydan-aral-simsir-hamlesi-istenen-bonservis-bedeli",
+      "image_url": "https://iaftm.tmgrup.com.tr/6f71f4/1200/675/0/0/1029/578?u=https://iftm.tmgrup.com.tr/2026/05/23/galatasaraydan-aral-simsir-hamlesi-istenen-bonservis-bedeli-1779538177593.jpeg",
+      "published": "2026-05-23T12:19:05",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:32.517941",
-      "priority_score": 58,
+      "fetched_at": "2026-05-23T13:01:20.017178",
+      "priority_score": 59,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.609427",
-      "title_tr": "\"Şu geliyor, bizi seçin' diyenlere inanmayın!\"",
-      "summary_tr": "Fenerbahçe Başkan Adayı Aziz Yıldırım, Şanlıurfa'da yaptığı açıklamada, seçimdeki rakibi Hakan Safi'nin transfer vaatleriyle ilgili dikkat çeken ifadeler kullandı. Yıldırım, \"Şu geliyor, bizi seçin' diyenlere inanmayın, önemli olan iyi takım kurmak\" dedi."
+      "processed_at": "2026-05-23T13:02:29.448620",
+      "title_tr": "Galatasaray'dan Aral Şimşir hamlesi! İstenen bonservis bedeli...",
+      "summary_tr": "Yeni sezon öncesi transfer çalışmalarına hız veren Galatasaray, yeni yabancı kuralının açıklanmasının ardından stratejisinde değişikliğe gitti. Sarı-kırmızılılar, yerli rotasyonunu güçlendirmek amacıyla...Devamı için tıklayınız"
     },
     {
-      "title": "Galatasaray'da 10+4 kuralı sonrası karar verildi! 3 oyuncu kesin ayrılıyor",
-      "summary": "10+4 kuralının kesinleşmesiyle birlikte Galatasaray’da iç transfer çalışmaları da başladı. Icardi ve Lemina’nın takımda kalması halinde, kiradan dönenlerle birlikte 11+2’lik yabancı sayısına ulaşılacak. Sarı-Kırmızılılar'da üç yıldızdan vazgeçilmesi gündemde.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-10-4-kurali-sonrasi-karar-verildi-3-oyuncu-kesin-ayriliyor-43181740",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a113ed2d000e1f873ff42d7.jpg",
-      "published": "2026-05-23T05:44:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "'Besiktas wil Pavlidis, FC Porto denkt aan twee spitsen'",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/leipzig-wil-honderd-miljoen-voor-liverpool-target",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-05-23T11:45:09",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:44.839166",
-      "priority_score": 56,
+      "fetched_at": "2026-05-23T13:02:25.816591",
+      "priority_score": 57,
       "categories": [
         "transfers",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-05-23T11:57:31.804317",
-      "title_tr": "Galatasaray'da 10+4 kuralı sonrası karar verildi! 3 oyuncu kesin ayrılıyor",
-      "summary_tr": "10+4 kuralının kesinleşmesiyle birlikte Galatasaray’da iç transfer çalışmaları da başladı. Icardi ve Lemina’nın takımda kalması halinde, kiradan dönenlerle birlikte 11+2’lik yabancı sayısına ulaşılacak. Sarı-Kırmızılılar'da üç yıldızdan vazgeçilmesi gündemde."
-    },
-    {
-      "title": "'Glad to see the back of him' - rival fans on Guardiola",
-      "summary": "As Pep Guardiola prepares for his last game in charge of Manchester City, BBC Sport asks rival fans what he meant to them.",
-      "url": "https://www.bbc.com/sport/football/articles/c3029j66g9qo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-23T11:35:11",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:53:43.358588",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-23T11:57:31.413523",
-      "title_tr": "Guardiola'nın rakip taraftarları: 'Onun arkasını gördüğüme sevindim'",
-      "summary_tr": "Pep Guardiola, Manchester City'deki son maçına hazırlanırken BBC Sport, rakip taraftarlara onun onlar için ne ifade ettiğini soruyor."
+      "processed_at": "2026-05-23T13:02:29.892992",
+      "title_tr": "'Beşiktaş Pavlidis'i istiyor, Porto ise iki forvet düşünüyor'",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Liverpool'dan Salah'a veda!",
@@ -472,12 +450,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:32.518105",
+      "fetched_at": "2026-05-23T13:00:29.336711",
       "priority_score": 53,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-05-23T11:57:31.616853",
+      "processed_at": "2026-05-23T13:02:28.955808",
       "title_tr": "Liverpool've Salah'a veda!",
       "summary_tr": "Liverpool Kulübü, sezon sonunda takımdan ayrılacak olan Mısırlı yıldız Muhammed Salah için veda mesajı yayımladı."
     },
@@ -491,34 +469,53 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-23T11:54:44.359691",
+      "fetched_at": "2026-05-23T12:59:39.182627",
       "priority_score": 51,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-23T11:57:31.569512",
-      "title_tr": "Torben Müsel'in muhteşem serbest vuruşu, Rot-Weiss Essen'e yükselme/düşme play-off'unda ilk maç avantajı sağladı",
+      "processed_at": "2026-05-23T13:02:28.889883",
+      "title_tr": "Torben Müsel'in müthiş serbest vuruşu Rot-Weiss Essen'e yükselme/düşme play-off'unda ilk maç avantajı sağlıyor",
       "summary_tr": "Bundesliga 2 yükselme/düşme play-off'unun ilk ayağında Stadion an der Hafenstraße'de Rot-Weiss Essen, Greuther Fürth'ü 1-0 mağlup ederken Torben Müsel'in ikinci yarıdaki müthiş serbest vuruşu farkı ortaya koydu."
     },
     {
-      "title": "Trabzonspor'un kupa zaferi sonrası açıkladı! 'Tarihi bir dönüm noktasıydı! Takımın yarısından fazlası'",
-      "summary": "Ziraat Türkiye Kupası finalinde Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı. Bodro-Mavili ekibin zaferinin Hürriyet yazarları Güntekin Onay ve Mehmet Ayan değerlendirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-kupa-zaferi-sonrasi-acikladi-tarihi-bir-donum-noktasiydi-takimin-yarisindan-fazlasi-43181731",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a113551d000e1f873ff427c.jpg",
-      "published": "2026-05-23T05:06:00",
-      "source": "Hürriyet Spor",
+      "title": "Galatasaray'da oy verme işlemi sona erdi",
+      "summary": "Galatasaray Kulübünün seçimli olağan genel kurulunda oy verme işlemi sona erdi.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-oy-verme-islemi-sona-erdi-3424628",
+      "image_url": null,
+      "published": "2026-05-23T15:41:05",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:44.839239",
+      "fetched_at": "2026-05-23T13:01:06.584985",
       "priority_score": 51,
       "categories": [
-        "match_results"
+        "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.818833",
-      "title_tr": "Trabzonspor'un kupa zaferi sonrası açıkladı! 'Tarihi bir dönüm noktasıydı! Takımın yarısından fazlası'",
-      "summary_tr": "Ziraat Türkiye Kupası finalinde Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı. Bodro-Mavili ekibin zaferinin Hürriyet yazarları Güntekin Onay ve Mehmet Ayan değerlendirdi."
+      "processed_at": "2026-05-23T13:02:29.247213",
+      "title_tr": "Galatasaray'da oy verme işlemi sona erdi",
+      "summary_tr": "Galatasaray Kulübünün seçimli olağan genel kurulunda oy verme işlemi sona erdi."
+    },
+    {
+      "title": "Fatih Terim, seçim günü konuştu: Fazla rötar yapmamalıyız",
+      "summary": "Eski Galatasaray Teknik Direktörü Fatih Terim, futbolcu kuralında yasaklardan yana olmadığını belirterek, \"Ben mümkün olsa yasaklardan yana değilim. Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygulama en doğrusudur. Her şeyin yenilendiği dünyada artık buralarda fazla rötar yapmama",
+      "url": "https://www.cnnturk.com/spor/futbol/fatih-terim-secim-gunu-konustu-fazla-rotar-yapmamaliyiz-3424615",
+      "image_url": null,
+      "published": "2026-05-23T14:16:49",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-23T13:01:06.585602",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-05-23T13:02:29.308795",
+      "title_tr": "Fatih Terim, seçim günü konuştu: Fazla rötar yapmamalıyız",
+      "summary_tr": "Eski Galatasaray Teknik Direktörü Fatih Terim, futbolcu kuralında yasaklardan yana olmadığını belirterek, \"Ben mümkün olsa yasaklardan yana değilim. Kulüplerin menfaatine olacak, Türk futbolunun yararına olacak uygulama en doğrusudur. Her şeyin yenilendiği dünyada artık buralarda fazla rötar yapmama"
     },
     {
       "title": "Dursun Özbek: Bu seçim Galatasaray için hayırlı olsun",
@@ -530,33 +527,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:08.256119",
+      "fetched_at": "2026-05-23T13:01:06.586262",
       "priority_score": 51,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.994139",
+      "processed_at": "2026-05-23T13:02:29.367755",
       "title_tr": "Dursun Özbek: Bu seçim Galatasaray için hayırlı olsun",
       "summary_tr": "Galatasaray'ın mevcut başkanı ve başkan adayı Dursun Özbek, kulübün olağan seçimli genel kurulunda oyunu kullandı."
     },
     {
-      "title": "Galatasaray'da tek adaylı seçimde oy verme işlemi başladı",
-      "summary": "Galatasaray Spor Kulübü Olağan Seçim Toplantısı'nda oy verme işlemi başladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-tek-adayli-secimde-oy-verme-islemi-basladi-3424577",
+      "title": "The Joy of Six: Mohamed Salah at Liverpool",
+      "summary": "From Champions League redemption to that stunner against City, we look at half a dozen memorable moments from striker’s Anfield careerIt was surely the worst moment of Mohamed Salah’s Liverpool career, yet the reaction said everything about his impact on the English game; the respect he had earned i",
+      "url": "https://www.theguardian.com/football/2026/may/23/the-joy-of-six-mohamed-salah-at-liverpool",
       "image_url": null,
-      "published": "2026-05-23T11:03:50",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "published": "2026-05-23T07:00:22",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-23T12:59:17.787666",
+      "priority_score": 48,
+      "categories": [
+        "champions_league"
+      ],
+      "processed_at": "2026-05-23T13:02:28.772528",
+      "title_tr": "Altılının Sevinci: Mohamed Salah Liverpool'da",
+      "summary_tr": "Şampiyonlar Ligi'ndeki kurtuluşundan City'ye karşı oynanan o sersemletici golcüye kadar, forvetin Anfield kariyerindeki yarım düzine unutulmaz anlara bakıyoruz. Mohamed Salah'ın Liverpool kariyerindeki en kötü anı olduğu kesin, ancak tepkiler onun İngiliz maçına olan etkisi hakkında her şeyi söylüyor; kazandığı saygıyı"
+    },
+    {
+      "title": "\"Şu geliyor, bizi seçin' diyenlere inanmayın!\"",
+      "summary": "Fenerbahçe Başkan Adayı Aziz Yıldırım, Şanlıurfa'da yaptığı açıklamada, seçimdeki rakibi Hakan Safi'nin transfer vaatleriyle ilgili dikkat çeken ifadeler kullandı. Yıldırım, \"Şu geliyor, bizi seçin' diyenlere inanmayın, önemli olan iyi takım kurmak\" dedi.",
+      "url": "https://www.haberturk.com/fenerbahce-baskan-adayi-aziz-yildirim-su-geliyor-bizi-secin-diyenlere-inanmayin-3886828-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/23/ver1779534582/3886828/jpg/1280x1280",
+      "published": "2026-05-23T11:10:18",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:56:08.256458",
-      "priority_score": 51,
+      "fetched_at": "2026-05-23T13:00:29.336609",
+      "priority_score": 48,
       "categories": [
+        "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:32.018751",
-      "title_tr": "Galatasaray'da tek adaylı seçimde oy verme işlemi başladı",
-      "summary_tr": "Galatasaray Spor Kulübü Olağan Seçim Toplantısı'nda oy verme işlemi başladı."
+      "processed_at": "2026-05-23T13:02:28.947778",
+      "title_tr": "\"Şu geliyor, bizi seçin' diyenlere inanmayın!\"",
+      "summary_tr": "Fenerbahçe Başkan Adayı Aziz Yıldırım, Şanlıurfa'da yaptığı açıklamada, seçimdeki rakibi Hakan Safi'nin transfer vaatleriyle ilgili dikkat çeken ifadeler kullandı. Yıldırım, \"Şu geliyor, bizi seçin' diyenlere inanmayın, önemli olan iyi takım kurmak\" dedi."
     },
     {
       "title": "\"Dünya yıldızlarını getireceğiz\"",
@@ -568,34 +585,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-23T11:55:32.518353",
+      "fetched_at": "2026-05-23T13:00:29.336924",
       "priority_score": 48,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-23T11:57:31.630633",
+      "processed_at": "2026-05-23T13:02:28.970742",
       "title_tr": "\"Dünya yıldızlarını getireceğiz\"",
       "summary_tr": "Fenerbahçe Başkan Adayı Hakan Safi, 6-7 Haziran'da gerçekleştirilecek seçim öncesi yönetim kurulu listesinde yer alan isimleri tanıttı. Teknik direktör ve transfer çalışmaları hakkında da bilgi veren Safi, \"Türkiye Ligi'ni bilen hoca ile Fenerbahçe, şampiyonluğu kazanabilir. Seçimden önce teknik dir"
-    },
-    {
-      "title": "Fatih Tekke Trabzonspor'daki ilk kupasını aldı",
-      "summary": "Ziraat Türkiye Kupası finalinde TÜMOSAN Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı.Son 2 yılda finale çı...",
-      "url": "https://www.yenisafak.com/spor/fatih-tekke-trabzonspordaki-ilk-kupasini-aldi-4826316",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/5/22/8fcddb9d-ti1wkvktkpaeghxgn4e1t.webp",
-      "published": "2026-05-22T23:22:51",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-23T11:56:44.678344",
-      "priority_score": 47,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-23T11:57:32.362807",
-      "title_tr": "Fatih Tekke Trabzonspor'daki ilk kupasını aldı",
-      "summary_tr": "Ziraat Türkiye Kupası finalinde TÜMOSAN Konyaspor'u 2-1 yenen Trabzonspor, 10. kez kupayı kazandı.Son 2 yılda finale çı..."
     }
   ]
 }
