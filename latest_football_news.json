@@ -1,27 +1,25 @@
 {
-  "timestamp": "2026-05-25T18:29:07.782483",
+  "timestamp": "2026-05-25T20:23:37.017648",
   "total_items": 30,
   "news": [
     {
-      "title": "Premier League ins and outs - the confirmed deals so far...",
-      "summary": "The summer transfer window opens on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
-      "url": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-      "image_url": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
-      "published": "2026-05-25T18:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Shaw signs new Man City deal after contract U-turn",
+      "summary": "Man City striker Khadija Shaw signs a new four-year contract with the club, just days after it looked like she would be leaving the WSL champions this summer.",
+      "url": "https://www.bbc.com/sport/football/articles/clypprgrr43o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-25T19:26:40",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-25T18:23:55.582183",
+      "fetched_at": "2026-05-25T20:18:37.629197",
       "priority_score": 100,
       "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league"
+        "transfers"
       ],
-      "processed_at": "2026-05-25T18:27:28.126421",
-      "title_tr": "Premier Lig'de girişler ve çıkışlar - şu ana kadar onaylanan anlaşmalar...",
-      "summary_tr": "Yaz transfer dönemi 15 Haziran'da açılıyor ve 1 Eylül'de İngiltere saatiyle 23:00'te kapanıyor. Premier Lig'de kimin transferde olduğunu öğrenin."
+      "processed_at": "2026-05-25T20:22:14.067835",
+      "title_tr": "Shaw, sözleşme U dönüşü sonrasında yeni Manchester City anlaşması imzaladı",
+      "summary_tr": "Manchester City'nin forvet oyuncusu Khadija Shaw, bu yaz WSL şampiyonlarından ayrılacak gibi görünmesinden sadece birkaç gün sonra kulüple dört yıllık yeni bir sözleşme imzaladı."
     },
     {
       "title": "Galatasaray'dan 1'inci Lig'e transfer: 3 yıllık sözleşme imzaladı",
@@ -33,13 +31,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:25:49.851191",
-      "priority_score": 100,
+      "fetched_at": "2026-05-25T20:20:36.261030",
+      "priority_score": 96,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.402163",
+      "processed_at": "2026-05-25T20:22:14.313870",
       "title_tr": "Galatasaray'dan 1'inci Lig'e transfer: 3 yıllık sözleşme imzaladı",
       "summary_tr": "Süper Lig'e veda eden Fatih Karagümrük, Galatasaray'ın 27 yaşındaki file bekçisi Batuhan Şen'i kadrosuna kattığını açıkladı."
     },
@@ -53,34 +51,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:26:14.209817",
+      "fetched_at": "2026-05-25T20:20:59.591804",
       "priority_score": 91,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-05-25T18:27:28.654287",
+      "processed_at": "2026-05-25T20:22:14.505156",
       "title_tr": "Mohamed Salah, gözyaşlarıyla Anfield'a veda etti",
       "summary_tr": "İngiltere Premier Lig’de 2025-26 sezonunun 38. ve son haftasında Liverpool, Anfield’da Brentford ile 1-1 berabere kaldı. Karşılaşmada ev sahibi 58. dakikada Curtis Jones’un golüyle öne geçerken, 64. dakikada Kevin Schade skora denge getirdi."
-    },
-    {
-      "title": "Karşıyaka, Fenerbahçe'den transfer edeceği 3 ismi belirledi",
-      "summary": "Karşıyala, geride bıraktığımız 2025-2026 sezonunun devre arasında transferi için Fenerbahçe ile anlaştığı Adem Yeşilyurt'un karşılığında sarı-lacivertli kulüpten alacağı oyuncuları belirledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/karsiyaka-fenerbahceden-transfer-edecegi-3-ismi-belirledi-43184124",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a143c93c66afe0bcd067cff.jpg",
-      "published": "2026-05-25T12:12:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:25:49.851402",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-25T18:27:28.436186",
-      "title_tr": "Karşıyaka, Fenerbahçe'den transfer edeceği 3 ismi belirledi",
-      "summary_tr": "Karşıyala, geride bıraktığımız 2025-2026 sezonunun devre arasında transferi için Fenerbahçe ile anlaştığı Adem Yeşilyurt'un karşılığında sarı-lacivertli kulüpten alacağı oyuncuları belirledi."
     },
     {
       "title": "Zero Real Madrid players in Spain World Cup squad as injured Lamine Yamal makes cut",
@@ -92,7 +70,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-25T18:24:19.301936",
+      "fetched_at": "2026-05-25T20:19:15.270330",
       "priority_score": 78,
       "categories": [
         "breaking_news",
@@ -100,130 +78,9 @@
         "la_liga",
         "world_cup"
       ],
-      "processed_at": "2026-05-25T18:27:28.166246",
+      "processed_at": "2026-05-25T20:22:14.110362",
       "title_tr": "Sakatlanan Lamine Yamal'ın sakatlığı nedeniyle İspanya Dünya Kupası kadrosunda Real Madrid'li sıfır oyuncu var",
       "summary_tr": "Luis de la Fuente turnuva için 26 kişilik kadroyu belirlediReal Madrid oyuncuları ilk kez İspanya kadrosunu özledi İspanya tarihinde ilk kez tek bir Real Madrid oyuncusu olmadan Dünya Kupası'na gidecek. Luis de la Fuente bu yazki turnuva için 26 kişilik kadrosunu belirledi."
-    },
-    {
-      "title": "Messi exit overshadows Miami win, record half",
-      "summary": "Lionel Messi left the field in the 72nd minute of Inter Miami's 6-4 win over the Philadelphia Union at Nu Stadium on Sunday night, heading straight to the locker room after grabbing his left thigh.",
-      "url": "https://www.espn.com/soccer/story/_/id/48867274/lionel-messi-exit-overshadows-miami-win-record-half",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.050876",
-      "priority_score": 65,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-05-25T18:27:28.051510",
-      "title_tr": "Messi'nin çıkışı Miami'nin galibiyetini ve rekor yarısını gölgede bıraktı",
-      "summary_tr": "Lionel Messi, Inter Miami'nin Pazar gecesi Nu Stadı'nda Philadelphia Union'ı 6-4 mağlup ettiği maçın 72. dakikasında sol uyluğunu tutarak soyunma odasına doğru ilerledi."
-    },
-    {
-      "title": "Salah: 'Cried more than in whole life' in last gam...",
-      "summary": "Mohamed Salah said that he \"cried more than in [his] whole life\" during his final Liverpool appearance and expressed his pride at \"winning it all\" at Anfield.",
-      "url": "https://www.espn.com/soccer/story/_/id/48863380/mohamed-salah-cried-more-whole-life-final-liverpool-appearance",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051299",
-      "priority_score": 65,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-05-25T18:27:28.053362",
-      "title_tr": "Salah: Son maçta 'Hayatım boyunca ağladığımdan daha fazla ağladım'",
-      "summary_tr": "Mohamed Salah, Liverpool'daki son maçında \"hayatı boyunca ağladığından daha fazla ağladığını\" söyledi ve Anfield'da \"hepsini kazanmanın\" gururunu dile getirdi."
-    },
-    {
-      "title": "Sunderland beat Chelsea to qualify for Europa League",
-      "summary": "Sunderland beat Chelsea to qualify for European competition for the first time in 53 years, securing a place in the Europa League at the visitors' expense.",
-      "url": "https://www.bbc.com/sport/football/videos/cx21y82dwwgo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-24T19:00:49",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:44.523505",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.094371",
-      "title_tr": "Sunderland, Chelsea'yi yenerek Avrupa Ligi'ne yükseldi",
-      "summary_tr": "Sunderland, Chelsea'yi yenerek 53 yıl aradan sonra ilk kez Avrupa kupalarına katılmaya hak kazandı ve masrafları konuk takıma ait olmak üzere Avrupa Ligi'nde yer almayı garantiledi."
-    },
-    {
-      "title": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers",
-      "summary": "Mohamed Salah leaving after Luis Díaz not replacedLeipzig teenager Yan Diomande is a leading targetArne Slot has highlighted the ­importance of wingers to Liverpool’s prospects of recovery, and claimed this season’s disappointment can be rectified with the correct squad additions.Liverpool ended a d",
-      "url": "https://www.theguardian.com/football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
-      "image_url": null,
-      "published": "2026-05-25T16:00:29",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:24:19.302623",
-      "priority_score": 63,
-      "categories": [
-        "injuries",
-        "premier_league",
-        "bundesliga"
-      ],
-      "processed_at": "2026-05-25T18:27:28.181617",
-      "title_tr": "Arne Slot, Liverpool'un kaliteli kanat oyuncularıyla sözleşme imzalayarak gelecek sezon toparlanabileceğine inanıyor",
-      "summary_tr": "Mohamed Salah, Luis Díaz'ın yerine Leipzig'in genç oyuncusu Yan Diomande'nin gelmemesi üzerine ayrılıyor Arne Slot, Liverpool'un toparlanma şansı için kanat oyuncularının önemini vurguladı ve bu sezonki hayal kırıklığının doğru kadro eklemeleriyle düzeltilebileceğini iddia etti."
-    },
-    {
-      "title": "Championship, L1 & L2 26/27 season - key dates and fixtures day",
-      "summary": "Already thinking about the next Sky Bet EFL season? There's a World Cup to fit in first - but the key dates are out for the 2026/27 campaign.",
-      "url": "https://www.skysports.com/football/news/12040/13547881/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
-      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-bolton-league-one_7258112.jpg?20260525125152",
-      "published": "2026-05-25T13:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:55.581922",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "injuries",
-        "world_cup"
-      ],
-      "processed_at": "2026-05-25T18:27:28.112995",
-      "title_tr": "Şampiyona, L1 ve L2 26/27 sezonu - önemli tarihler ve fikstür günü",
-      "summary_tr": "Zaten bir sonraki Sky Bet EFL sezonunu mu düşünüyorsunuz? İlk sırada yer alacak bir Dünya Kupası var ancak 2026/27 sezonu için önemli tarihler henüz belli değil."
-    },
-    {
-      "title": "Lamine Yamal in Spain squad but no Real players",
-      "summary": "Injured forward Lamine Yamal is named in Spain's World Cup squad, which does not feature any Real Madrid players.",
-      "url": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-25T12:33:59",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:44.522091",
-      "priority_score": 55,
-      "categories": [
-        "injuries",
-        "la_liga",
-        "world_cup"
-      ],
-      "processed_at": "2026-05-25T18:27:28.070188",
-      "title_tr": "Lamine Yamal İspanya kadrosunda ama Real'de oyuncu yok",
-      "summary_tr": "Sakat forvet Lamine Yamal, Real Madrid oyuncusu bulunmayan İspanya'nın Dünya Kupası kadrosunda yer alıyor."
     },
     {
       "title": "Blame for West Ham’s shambolic slide to relegation sits at the feet of David Sullivan | Jacob Steinberg",
@@ -235,56 +92,175 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-25T18:24:19.305841",
+      "fetched_at": "2026-05-25T20:19:15.275600",
       "priority_score": 78,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-05-25T18:27:28.247982",
+      "processed_at": "2026-05-25T20:22:14.168760",
       "title_tr": "West Ham'in küme düşmeye doğru gidişinin suçu David Sullivan'ın elinde | Jacob Steinberg",
       "summary_tr": "Kulübün en büyük hissedarı 2022'den bu yana uyarı işaretlerini görmezden geliyor ve ne olacağını görmek için Leicester'in kaderine bakmaları yeterli. West Ham 2022'de küme düşme trenine atladı. Kulübün zirvesinde görüşten yoksun oldukları için nereye gittiklerini fark edemediler. Bir iç figür"
     },
     {
-      "title": "Ezeli rakiplerin transfer derbisi!",
-      "summary": "Transfer çalışmalarını sürdüren Fenerbahçe ve Galatasaray'ın, Milan ile ayrılma ihtimali bulunan Strahinja Pavlovic için devrede olduğu iddia edildi.",
-      "url": "https://www.haberturk.com/fenerbahce-ve-galatasaray-in-transfer-derbisi-strahinja-pavlovic-3887331-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/25/ver1779731071/3887331/jpg/1280x1280",
-      "published": "2026-05-25T17:55:39",
+      "title": "Championship, L1 & L2 26/27 season - key dates and fixtures day",
+      "summary": "Already thinking about the next Sky Bet EFL season? There's a World Cup to fit in first - but the key dates are out for the 2026/27 campaign.",
+      "url": "https://www.skysports.com/football/news/12040/13547881/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-bolton-league-one_7258112.jpg?20260525125152",
+      "published": "2026-05-25T13:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824757",
+      "priority_score": 56,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-25T20:22:14.094156",
+      "title_tr": "Şampiyona, L1 ve L2 26/27 sezonu - önemli tarihler ve fikstür günü",
+      "summary_tr": "Zaten bir sonraki Sky Bet EFL sezonunu mu düşünüyorsunuz? İlk sırada yer alacak bir Dünya Kupası var ancak 2026/27 sezonu için önemli tarihler henüz belli değil."
+    },
+    {
+      "title": "England 'settling nicely' ahead of T20 World Cup - but bigger test to come",
+      "summary": "First job done for England as they work through their pre-T20 World Cup checklist.",
+      "url": "https://www.skysports.com/cricket/news/12040/13547973/england-settling-nicely-ahead-of-womens-t20-world-cup-but-bigger-test-to-come-in-india-series",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-charlie-dean-england_7258347.jpg?20260525180622",
+      "published": "2026-05-25T19:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824299",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-25T20:22:14.083487",
+      "title_tr": "İngiltere, T20 Dünya Kupası öncesinde 'iyi bir şekilde yerleşiyor' - ancak daha büyük bir test gelecek",
+      "summary_tr": "İngiltere için ilk iş, T20 Dünya Kupası öncesi kontrol listeleri üzerinde çalışırken yapıldı."
+    },
+    {
+      "title": "Borussia Dortmund, Salih Özcan'a veda etti!",
+      "summary": "Bundesliga ekibi Borussia Dortmund, milli oyuncu Salih Özcan'ın takımdan ayrıldığını açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/borussia-dortmund-salih-ozcana-veda-etti-43184446",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a14aac4c66afe0bcd067ecf.jpg",
+      "published": "2026-05-25T20:02:17",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:20:36.260154",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-25T20:22:14.239171",
+      "title_tr": "Borussia Dortmund, Salih Özcan'a veda etti!",
+      "summary_tr": "Bundesliga ekibi Borussia Dortmund, milli oyuncu Salih Özcan'ın takımdan ayrıldığını açıkladı."
+    },
+    {
+      "title": "Lamine Yamal in Spain squad but no Real players",
+      "summary": "Injured forward Lamine Yamal is named in Spain's World Cup squad, which does not feature any Real Madrid players.",
+      "url": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-25T12:33:59",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:37.629832",
+      "priority_score": 50,
+      "categories": [
+        "injuries",
+        "la_liga",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-25T20:22:14.069702",
+      "title_tr": "Lamine Yamal İspanya kadrosunda ama Real'de oyuncu yok",
+      "summary_tr": "Sakat forvet Lamine Yamal, Real Madrid oyuncusu bulunmayan İspanya'nın Dünya Kupası kadrosunda yer alıyor."
+    },
+    {
+      "title": "Slot, Alisson, Diomande and Konate - Liverpool's big summer analysed",
+      "summary": "Liverpool are set to have a busy summer transfer window - so what is next for the Anfield club?",
+      "url": "https://www.skysports.com/football/news/12040/13547979/liverpool-transfer-news-arne-slot-set-to-bring-in-new-assistant-etienne-reijnen-alisson-becker-set-to-stay-and-ibrahima-konates-future-unclear",
+      "image_url": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-liverpool_7226276.jpg?20260421135929",
+      "published": "2026-05-25T19:27:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824137",
+      "priority_score": 71,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-05-25T20:22:14.078074",
+      "title_tr": "Slot, Alisson, Diomande ve Konate - Liverpool'un büyük yazı analiz edildi",
+      "summary_tr": "Liverpool'un yoğun bir yaz transfer dönemi geçirmesi bekleniyor - peki Anfield kulübü için sırada ne var?"
+    },
+    {
+      "title": "Four more years! Shaw to stay at Man City",
+      "summary": "Khadija ‘Bunny’ Shaw has signed a new four-year contract at Manchester City.",
+      "url": "https://www.skysports.com/football/news/12040/13547980/khadija-bunny-shaw-man-city-striker-and-wsl-golden-boot-winner-to-stay-at-the-reigning-champions",
+      "image_url": "https://e2.365dm.com/26/05/1920x1080/skysports-khadija-shaw-man-city_7250685.jpg?20260516172948",
+      "published": "2026-05-25T19:29:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824485",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-25T20:22:14.086843",
+      "title_tr": "Dört yıl daha! Shaw Manchester City'de kalacak",
+      "summary_tr": "Khadija 'Bunny' Shaw, Manchester City'de dört yıllık yeni bir sözleşme imzaladı."
+    },
+    {
+      "title": "The story of the Premier League 2025-26 season in 100 photos",
+      "summary": "A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scramblesReigning champions Liverpool left it late to beat Bournemouth 4-2 on the opening day of the season in their first league game back at Anfield following the death of Diogo Jota. The R",
+      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "image_url": null,
+      "published": "2026-05-25T19:00:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:19:15.269524",
+      "priority_score": 68,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-05-25T20:22:14.102971",
+      "title_tr": "100 fotoğrafla Premier Lig 2025-26 sezonunun hikayesi",
+      "summary_tr": "Çılgın kutlamalar, protestocu taraftarlar ve kale ağzı mücadeleleri de dahil olmak üzere sezondan en sevdiğimiz görüntülerden oluşan bir yüzyıl. Son şampiyon Liverpool, Diogo Jota'nın ölümünün ardından Anfield'da oynadıkları ilk lig maçında sezonun açılış gününde Bournemouth'u 4-2 yenmek için geç kaldı. R"
+    },
+    {
+      "title": "Aziz Yıldırım'dan transfer ve teknik direktör açıklaması!",
+      "summary": "Fenerbahçe'nin 6-7 Haziran'da gerçekleştireceği olağanüstü seçimli genel kurul toplantısında başkan adayı olan Aziz Yıldırım, çarpıcı açıklamalarda bulundu. Sarı-lacivertlilere 6 transferin gerekli olduğunu belirten Yıldırım, teknik direktör konusunda da konuştu.",
+      "url": "https://www.haberturk.com/aziz-yildirim-dan-transfer-ve-teknik-direktor-aciklamasi-3887342-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/25/ver1779736094/3887342/jpg/1280x1280",
+      "published": "2026-05-25T19:08:39",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:25:36.549687",
-      "priority_score": 73,
+      "fetched_at": "2026-05-25T20:20:24.830344",
+      "priority_score": 68,
       "categories": [
         "transfers",
-        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.260552",
-      "title_tr": "Ezeli rakiplerin transfer derbisi!",
-      "summary_tr": "Transfer çalışmalarını sürdüren Fenerbahçe ve Galatasaray'ın, Milan ile ayrılma ihtimali bulunan Strahinja Pavlovic için devrede olduğu iddia edildi."
-    },
-    {
-      "title": "Volop interesse voor transfervrije Sierhuis, Sparta laat Clement gaan",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/volop-interesse-voor-transfervrije-sierhuis-sparta-laat-clement-gaan",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-05-25T18:17:15",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:27:24.607506",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-05-25T18:27:28.830421",
-      "title_tr": "Transfersiz Sierhuis'e yoğun ilgi var, Sparta Clement'in gitmesine izin veriyor",
-      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
+      "processed_at": "2026-05-25T20:22:14.182702",
+      "title_tr": "Aziz Yıldırım'dan transfer ve teknik direktör açıklaması!",
+      "summary_tr": "Fenerbahçe'nin 6-7 Haziran'da gerçekleştireceği olağanüstü seçimli genel kurul toplantısında başkan adayı olan Aziz Yıldırım, çarpıcı açıklamalarda bulundu. Sarı-lacivertlilere 6 transferin gerekli olduğunu belirten Yıldırım, teknik direktör konusunda da konuştu."
     },
     {
       "title": "Bursaspor'a Azerbaycanlı sol bek!",
@@ -296,76 +272,56 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:25:49.851014",
+      "fetched_at": "2026-05-25T20:20:36.260824",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-05-25T18:27:28.377728",
+      "processed_at": "2026-05-25T20:22:14.292911",
       "title_tr": "Bursaspor'a Azerbaycanlı sol bek!",
       "summary_tr": "1. Lig'in yeni ekiplerinden Bursaspor, Juergen Elitim'in ardından yeni sezonun ikinci yabancı transferini gerçekleştirerek Azerbaycanlı sol bek Toral Bayramov'u kadrosuna kattı."
     },
     {
-      "title": "Fernandes claims Premier League assist record",
-      "summary": "Bruno Fernandes has claimed a record-breaking 21st assist in a Premier League season.",
-      "url": "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
+      "title": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers",
+      "summary": "Mohamed Salah leaving after Luis Díaz not replacedLeipzig teenager Yan Diomande is a leading targetArne Slot has highlighted the ­importance of wingers to Liverpool’s prospects of recovery, and claimed this season’s disappointment can be rectified with the correct squad additions.Liverpool ended a d",
+      "url": "https://www.theguardian.com/football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
       "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051421",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.054069",
-      "title_tr": "Fernandes Premier Lig'de asist rekoru kırdı",
-      "summary_tr": "Bruno Fernandes, Premier Lig'de bir sezonda rekor kıran 21. asistini yaptı."
-    },
-    {
-      "title": "Transfer rumors, news: Milan failure puts Pulisic ...",
-      "summary": "AC Milan will be looking at major changes after the club failed to seal a spot in the UEFA Champions League. Transfer Talk has the latest.",
-      "url": "https://www.espn.com/soccer/story/_/id/48869545/transfer-rumors-news-milan-failure-puts-pulisic-future-doubt",
-      "image_url": null,
-      "published": "2026-05-25T16:07:10",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.052307",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.060698",
-      "title_tr": "Transfer söylentileri, haberler: Milan'ın başarısızlığı Pulisic'i zor durumda bırakıyor",
-      "summary_tr": "AC Milan, kulübün UEFA Şampiyonlar Ligi'nde yer alamamasının ardından büyük değişikliklere gidecek. Transfer Talk'ta en son gelişmeler var."
-    },
-    {
-      "title": "Como’s ascent to Champions League offers bright note amid Serie A chaos | Nicky Bandini",
-      "summary": "The battle for the top four in Italy was overshadowed by violence in Turin, where Juve joined Milan in missing outThe stage was set for a grand finale: five games to settle season-long battles at either end of the Serie A table. Top spot was decided – Inter claimed their 21st Scudetto at the start o",
-      "url": "https://www.theguardian.com/football/2026/may/25/como-roma-champions-league-juventus-milan-serie-a-chaos",
-      "image_url": null,
-      "published": "2026-05-25T12:39:53",
+      "published": "2026-05-25T16:00:29",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-25T18:24:19.304079",
+      "fetched_at": "2026-05-25T20:19:15.272773",
+      "priority_score": 63,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "bundesliga"
+      ],
+      "processed_at": "2026-05-25T20:22:14.136024",
+      "title_tr": "Arne Slot, Liverpool'un kaliteli kanat oyuncularıyla sözleşme imzalayarak gelecek sezon toparlanabileceğine inanıyor",
+      "summary_tr": "Mohamed Salah, Luis Díaz'ın yerine Leipzig'in genç oyuncusu Yan Diomande'nin gelmemesi üzerine ayrılıyor Arne Slot, Liverpool'un toparlanma şansı için kanat oyuncularının önemini vurguladı ve bu sezonki hayal kırıklığının doğru kadro eklemeleriyle düzeltilebileceğini iddia etti."
+    },
+    {
+      "title": "Ezeli rakiplerin transfer derbisi!",
+      "summary": "Transfer çalışmalarını sürdüren Fenerbahçe ve Galatasaray'ın, Milan ile ayrılma ihtimali bulunan Strahinja Pavlovic için devrede olduğu iddia edildi.",
+      "url": "https://www.haberturk.com/fenerbahce-ve-galatasaray-in-transfer-derbisi-strahinja-pavlovic-3887331-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/25/ver1779731071/3887331/jpg/1280x1280",
+      "published": "2026-05-25T17:55:39",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:20:24.830524",
       "priority_score": 63,
       "categories": [
         "transfers",
         "serie_a",
-        "champions_league"
+        "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.209955",
-      "title_tr": "Como'nun Şampiyonlar Ligi'ne yükselişi, Serie A kaosunun ortasında parlak bir not sunuyor | Nicky Bandini",
-      "summary_tr": "İtalya'da ilk dörde girme mücadelesi, Juve'nin de Milan'a katıldığı Torino'daki şiddet nedeniyle gölgede kaldı. Büyük bir final için sahne hazırlandı: Serie A tablosunun her iki ucunda sezon boyunca süren mücadelelerin sonuçlanacağı beş maç. En üst sıra belirlendi – Inter, startta 21. Scudetto'sunu aldı."
+      "processed_at": "2026-05-25T20:22:14.190159",
+      "title_tr": "Ezeli rakiplerin transfer derbisi!",
+      "summary_tr": "Transfer çalışmalarını sürdüren Fenerbahçe ve Galatasaray'ın, Milan ile ayrılma ihtimali bulunan Strahinja Pavlovic için devrede olduğu iddia edildi."
     },
     {
       "title": "Fatih Karagümrük, Galatasaray'la sözleşme uzatmayan Batuhan Şen'i kadrosuna kattı",
@@ -377,39 +333,19 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:26:14.208058",
+      "fetched_at": "2026-05-25T20:20:59.589436",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.529070",
+      "processed_at": "2026-05-25T20:22:14.399175",
       "title_tr": "Fatih Karagümrük, Galatasaray'la sözleşme uzatmayan Batuhan Şen'i kadrosuna kattı",
       "summary_tr": "Trendyol Süper Lig'e veda eden Fatih Karagümrük, 27 yaşındaki kaleci Batuhan Şen'i kadrosuna kattı."
     },
     {
-      "title": "🤕World Cup injury tracker: Concern for Messi?",
-      "summary": "Which key players might not be participating in this summer's tournament? Here's the latest on injuries impacting World Cup teams.",
-      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051690",
-      "priority_score": 60,
-      "categories": [
-        "injuries",
-        "world_cup"
-      ],
-      "processed_at": "2026-05-25T18:27:28.055645",
-      "title_tr": "🤕Dünya Kupası sakatlıkları takipçisi: Messi için endişe mi duyuyorsunuz?",
-      "summary_tr": "Bu yazın turnuvasına hangi önemli oyuncular katılamayacak? İşte Dünya Kupası takımlarını etkileyen sakatlıklarla ilgili son gelişmeler."
-    },
-    {
       "title": "Nuno expected to leave relegated West Ham after being summoned for talks with board",
-      "summary": "Manager’s deal allows for summer parting of ways Scott Parker and Gary O’Neil of interest to West HamWest Ham are expected to part company with Nuno Espírito Santo this week after their relegation from the Premier League. The manager has been called in for talks with the board and discussions are li",
+      "summary": "Manager’s deal allows for summer parting of ways Scott Parker and Gary O’Neil of interest to West HamWest Ham are expected to part ­company with Nuno Espírito Santo this week after their relegation from the Premier League. The manager has been called in for talks with the board and discussions are l",
       "url": "https://www.theguardian.com/football/2026/may/25/nuno-leave-west-ham-talks-relegation",
       "image_url": null,
       "published": "2026-05-25T11:30:06",
@@ -417,16 +353,37 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-25T18:24:19.302310",
+      "fetched_at": "2026-05-25T20:19:15.271553",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-05-25T18:27:28.173979",
+      "processed_at": "2026-05-25T20:22:14.120776",
       "title_tr": "Nuno'nun yönetim kuruluyla görüşmek üzere çağrılmasının ardından küme düşen West Ham'dan ayrılması bekleniyor",
-      "summary_tr": "Menajerin anlaşması, West HamWest Ham'a ilgi duyan Scott Parker ve Gary O'Neil'in Premier Lig'den düşmelerinin ardından bu hafta Nuno Espírito Santo ile yollarını ayırması bekleniyor. Yönetici yönetim kuruluyla görüşmelere çağrıldı ve tartışmalar devam ediyor"
+      "summary_tr": "Menajerin anlaşması, West HamWest Ham'a ilgi duyan Scott Parker ve Gary O'Neil'in Premier Lig'den düşmelerinin ardından bu hafta Nuno Espírito Santo ile yollarını ayırması bekleniyor. Yönetici, yönetim kuruluyla görüşmelere çağrıldı ve tartışmalar devam ediyor."
+    },
+    {
+      "title": "Como’s ascent to Champions League offers bright note amid Serie A chaos | Nicky Bandini",
+      "summary": "The battle for the top four in Italy was overshadowed by violence in Turin, where Juve joined Milan in missing outThe stage was set for a grand finale: five games to settle season-long battles at either end of the Serie A table. Top spot was decided – Inter claimed their 21st Scudetto at the start o",
+      "url": "https://www.theguardian.com/football/2026/may/25/como-roma-champions-league-juventus-milan-serie-a-chaos",
+      "image_url": null,
+      "published": "2026-05-25T12:39:53",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:19:15.273128",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "champions_league"
+      ],
+      "processed_at": "2026-05-25T20:22:14.141569",
+      "title_tr": "Como'nun Şampiyonlar Ligi'ne yükselişi, Serie A kaosunun ortasında parlak bir not sunuyor | Nicky Bandini",
+      "summary_tr": "İtalya'da ilk dörde girme mücadelesi, Juve'nin de Milan'a katıldığı Torino'daki şiddet nedeniyle gölgede kaldı. Büyük bir final için sahne hazırlandı: Serie A tablosunun her iki ucunda sezon boyunca süren mücadelelerin sonuçlanacağı beş maç. En üst sıra belirlendi – Inter, startta 21. Scudetto'sunu aldı."
     },
     {
       "title": "Batuhan Şen, Karagümrük'te!",
@@ -438,15 +395,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:25:36.550447",
+      "fetched_at": "2026-05-25T20:20:24.831152",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.314149",
+      "processed_at": "2026-05-25T20:22:14.223320",
       "title_tr": "Batuhan Şen, Karagümrük'te!",
       "summary_tr": "Bu sezon Trendyol 1. Lig’de mücadele edecek Fatih Karagümrük, Galatasaray’dan Batuhan Şen ile 3 yıllık sözleşme imzalandığını duyurdu."
+    },
+    {
+      "title": "Volop interesse voor transfervrije Sierhuis, Sparta laat Clement gaan",
+      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
+      "url": "https://www.vi.nl/nieuws/volop-interesse-voor-transfervrije-sierhuis-sparta-laat-clement-gaan",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
+      "published": "2026-05-25T18:17:15",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:22:09.598428",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-25T20:22:14.882022",
+      "title_tr": "Transfersiz Sierhuis'e yoğun ilgi var, Sparta Clement'in gitmesine izin veriyor",
+      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
     },
     {
       "title": "'West Ham breekt na degradatie met trainer Nuno, Liverpool aast op Duits talent'",
@@ -458,15 +435,111 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-25T18:27:24.607843",
+      "fetched_at": "2026-05-25T20:22:09.598787",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-05-25T18:27:28.912298",
+      "processed_at": "2026-05-25T20:22:14.965618",
       "title_tr": "'West Ham küme düştükten sonra teknik direktör Nuno ile yollarını ayırdı, Liverpool ise Alman yeteneklerin peşinde'",
-      "summary_tr": "İki transfer penceresi arasında bir dönem geçirdik, transferler hiç çalışmadı. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Boulter battles through at French Open but qualifier Samuel bows out",
+      "summary": "Katie Boulter joined Fran Jones in the second round of the French Open at Roland-Garros but qualifier Toby Samuel saw his dream run ended.",
+      "url": "https://www.skysports.com/tennis/news/12040/13547859/french-open-katie-boulter-joins-fran-jones-in-second-round-at-roland-garros-but-toby-samuels-dream-run-ended",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-katie-boulter-toby-samuel_7258375.jpg?20260525185337",
+      "published": "2026-05-25T20:17:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824059",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-05-25T20:22:14.076248",
+      "title_tr": "Boulter Fransa Açık'ta mücadele etti ancak elemelerde Samuel elendi",
+      "summary_tr": "Katie Boulter, Roland-Garros'ta Fransa Açık'ın ikinci turunda Fran Jones'a katıldı ancak elemelerde yer alan Toby Samuel, rüya koşusunun sona erdiğini gördü."
+    },
+    {
+      "title": "Quietly ruthless Régis Le Bris ready to lead revived Sunderland into Europa League",
+      "summary": "Head coach’s signing of Enzo Le Fée sparked chain of events leading to promotion and European qualificationOne of Régis Le Bris’s first acts as Sunderland head coach was to preside over a pre-season training camp near Alicante. It was July 2024 and, according to those present, the Breton sometimes c",
+      "url": "https://www.theguardian.com/football/2026/may/25/sunderland-regis-le-bris-enzo-le-fee-europa-league-qualification",
+      "image_url": null,
+      "published": "2026-05-25T16:33:56",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:19:15.271880",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-25T20:22:14.125532",
+      "title_tr": "Sessizce acımasız Régis Le Bris, yeniden canlanan Sunderland'i Avrupa Ligi'ne götürmeye hazır",
+      "summary_tr": "Baş antrenörün Enzo Le Fée'yi imzalaması, yükselmeye ve Avrupa elemelerine giden olaylar zincirini ateşledi. Régis Le Bris'in Sunderland baş antrenörü olarak ilk icraatlarından biri, Alicante yakınlarında bir sezon öncesi antrenman kampına başkanlık etmekti. Temmuz 2024'tü ve orada bulunanlara göre Bretonlar bazen"
+    },
+    {
+      "title": "Notts County ease past Salford to seal promotion to League One",
+      "summary": "Notts County sealed promotion to League One for the first time in 11 years after beating Salford 3-0 at Wembley.",
+      "url": "https://www.skysports.com/football/notts-county-vs-salford-city/report/555951",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-notts-county_7258288.jpg?20260525171615",
+      "published": "2026-05-25T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824837",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-25T20:22:14.096931",
+      "title_tr": "Notts County, Salford'u geçerek Birinci Lig'e yükselmeyi garantiledi",
+      "summary_tr": "Notts County, Wembley'de Salford'u 3-0 yendikten sonra 11 yıl aradan sonra ilk kez Birinci Lig'e yükseldi."
+    },
+    {
+      "title": "Udinese'den Gökhan İnler kararı!",
+      "summary": "İtalya Serie A ekibi Udinese, Gökhan İnler'in sözleşmesini 2028'e kadar uzattı.",
+      "url": "https://www.haberturk.com/udinese-gokhan-inler-le-sozlesme-uzatti-3887300-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/25/ver1779721647/3887300/jpg/1280x1280",
+      "published": "2026-05-25T15:07:56",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:20:24.830877",
+      "priority_score": 48,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-25T20:22:14.208562",
+      "title_tr": "Udinese'den Gökhan İnler kararı!",
+      "summary_tr": "İtalya Serie A ekibi Udinese, Gökhan İnler'in sözleşmesini 2028'e kadar uzattı."
+    },
+    {
+      "title": "Is the French Open Djokovic's time? 'Only if the unthinkable happens to Sinner'",
+      "summary": "Is the French Open Novak Djokovic's time to finally win a record-breaking 25th Grand Slam? \"It could be, but only if the unthinkable happens to world No 1 Jannik Sinner,\" claims Sky Sports' lead commentator Jonathan Overend.",
+      "url": "https://www.skysports.com/tennis/news/12040/13547546/is-the-french-open-novak-djokovics-time-only-if-the-unthinkable-happens-to-world-no-1-jannik-sinner",
+      "image_url": "https://e0.365dm.com/26/05/1920x1080/skysports-novak-djokovic-tennis_7257709.jpg?20260524225407",
+      "published": "2026-05-25T07:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:51.824966",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-05-25T20:22:14.100195",
+      "title_tr": "Fransa Açık Djokovic'in zamanı geldi mi? 'Yalnızca düşünülemez bir şey Günahkar'ın başına gelirse'",
+      "summary_tr": "Fransa Açık Novak Djokovic'in nihayet rekor kıran 25. Grand Slam'i kazanmanın zamanı geldi mi? Sky Sports'un baş yorumcusu Jonathan Overend, \"Olabilir, ancak yalnızca dünyanın 1 numaralı Jannik Sinner'ın başına düşünülemez bir şey gelirse\" diyor."
     },
     {
       "title": "Aziz Yıldırım canlı yayında açıkladı: Transfer ve teknik direktör için tarih verdi!",
@@ -478,134 +551,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-25T18:25:49.850758",
-      "priority_score": 56,
+      "fetched_at": "2026-05-25T20:20:36.260539",
+      "priority_score": 46,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-25T18:27:28.361405",
+      "processed_at": "2026-05-25T20:22:14.277825",
       "title_tr": "Aziz Yıldırım canlı yayında açıkladı: Transfer ve teknik direktör için tarih verdi!",
       "summary_tr": "Fenerbahçe Başkan Adayı Aziz Yıldırım, seçim öncesi katıldığı canlı yayında açıklamalar yaptı."
     },
     {
-      "title": "Tottenham stay in Premier League, but big rebuild ...",
-      "summary": "Tottenham will remain in the Premier League for another season, but they'll need to nail a big summer rebuild. Two Italian giants also missed the Champions League, and Harry Kane pushed Bayern to the domestic double.",
-      "url": "https://www.espn.com/soccer/story/_/id/48869319/tottenham-premier-league-harry-kane-bayern-munich-history-como-champions-league-musings",
+      "title": "Man Utd captain Fernandes takes on Keane over 'lie'",
+      "summary": "Manchester United captain Bruno Fernandes accuses Roy Keane of putting \"words in my mouth\" and says he has asked for the phone number of the club legend to set him straight.",
+      "url": "https://www.bbc.com/sport/football/articles/cn9ppv3lq4lo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-05-25T14:25:50",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.050081",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.050234",
-      "title_tr": "Tottenham Premier Lig'de kaldı ama büyük bir yeniden yapılanma...",
-      "summary_tr": "Tottenham bir sezon daha Premier Lig'de kalacak ancak yaz aylarında büyük bir yeniden yapılanma gerçekleştirmeleri gerekecek. İki İtalyan devi de Şampiyonlar Ligi'ni kaçırdı ve Harry Kane, Bayern'i yurtiçinde ikiye katladı."
-    },
-    {
-      "title": "Yamal in Spain World Cup squad, no Madrid players",
-      "summary": "Spain coach Luis de la Fuente named a 26-man World Cup squad which features Lamine Yamal but is without any Real Madrid players.",
-      "url": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
-      "image_url": null,
-      "published": "2026-05-25T19:15:59",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.050699",
-      "priority_score": 55,
-      "categories": [
-        "la_liga",
-        "world_cup"
-      ],
-      "processed_at": "2026-05-25T18:27:28.051152",
-      "title_tr": "Yamal, İspanya Dünya Kupası kadrosunda, Madrid'li oyuncu yok",
-      "summary_tr": "İspanya teknik direktörü Luis de la Fuente, Lamine Yamal'ın yer aldığı ancak Real Madrid oyuncusu olmayan 26 kişilik Dünya Kupası kadrosunu belirledi."
-    },
-    {
-      "title": "Guardiola promises to call Man City successor",
-      "summary": "Pep Guardiola has promised to call his successor as he prepared to hand over the managerial reins at Manchester City.",
-      "url": "https://www.espn.com/soccer/story/_/id/48870381/pep-guardiola-promises-call-man-city-successor",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051024",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.051981",
-      "title_tr": "Guardiola, Manchester City'nin halefini atayacağını söyledi",
-      "summary_tr": "Pep Guardiola, Manchester City'nin teknik direktörlüğünü devretmeye hazırlanırken halefini arayacağına söz verdi."
-    },
-    {
-      "title": "Rotondi 'revenge' as Cruz Azul wins Liga MX title",
-      "summary": "Rodolfo Rotondi played the villain role in 2024 by conceding a penalty that cost Cruz Azul the championship match. On Sunday, the Argentine midfielder redeemed himself.",
-      "url": "https://www.espn.com/soccer/story/_/id/48873304/cruz-azul-rallies-pumas-win-liga-mx-clausura-title",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051161",
-      "priority_score": 55,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-05-25T18:27:28.052676",
-      "title_tr": "Cruz Azul Liga MX şampiyonluğunu kazanırken Rotondi'nin 'intikamı'",
-      "summary_tr": "Rodolfo Rotondi, 2024'te Cruz Azul'a şampiyonluk maçına mal olan penaltıyı kabul ederek kötü adam rolünü oynadı. Pazar günü Arjantinli orta saha oyuncusu kendini kurtardı."
-    },
-    {
-      "title": "Fabregas guides Como to UCL; Milan, Pulisic out",
-      "summary": "An improbable end to the Serie A season unfolded on Sunday as Cesc Fabregas and Como won to book a spot in the Champions League next season, while AC Milan were beaten at home to fall out of the top four.",
-      "url": "https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out",
-      "image_url": null,
-      "published": "2026-05-25T19:16:00",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-05-25T18:23:40.051560",
-      "priority_score": 55,
-      "categories": [
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-05-25T18:27:28.054926",
-      "title_tr": "Fabregas, Como'yu UCL'ye yönlendirir; Milan ve Pulisic yok",
-      "summary_tr": "Serie A sezonu Pazar günü beklenmedik bir şekilde sona erdi; Cesc Fabregas ve Como gelecek sezon Şampiyonlar Ligi'nde yer ayırtmak için kazanırken, AC Milan evinde mağlup olarak ilk dörtten geriledi."
-    },
-    {
-      "title": "Spurs secure Premier League survival with win over Everton",
-      "summary": "Joao Palhinha's goal just before half time helps Tottenham overcome Everton to secure the result they needed to ensure Premier League survival on a day of nerve-shredding tension.",
-      "url": "https://www.bbc.com/sport/football/videos/cqjp24l5w89o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-05-24T19:00:33",
+      "published": "2026-05-25T16:26:10",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-25T18:23:44.523012",
-      "priority_score": 55,
+      "fetched_at": "2026-05-25T20:18:37.628703",
+      "priority_score": 45,
       "categories": [
-        "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-25T18:27:28.086309",
-      "title_tr": "Spurs, Everton'u yenerek Premier Lig'de kalmayı garantiledi",
-      "summary_tr": "Joao Palhinha'nın ilk yarıdan hemen önceki golü, Tottenham'ın Everton'u yenmesine ve sinir bozucu gerilimin olduğu bir günde Premier Lig'de hayatta kalmayı garantilemek için ihtiyaç duydukları sonucu elde etmelerine yardımcı oldu."
+      "processed_at": "2026-05-25T20:22:14.067126",
+      "title_tr": "Man Utd kaptanı Fernandes, 'yalan söylediği' gerekçesiyle Keane'e saldırdı",
+      "summary_tr": "Manchester United kaptanı Bruno Fernandes, Roy Keane'i \"sözleri ağzıma sokmakla\" suçluyor ve kendisini düzeltmek için kulüp efsanesinin telefon numarasını istediğini söylüyor."
+    },
+    {
+      "title": "Spurs admit 'football success was not driving decisions'",
+      "summary": "Tottenham say \"football success had not been driving our decisions\" as non-executive chairman Peter Charrington admitted failings and vowed to rebuild in an open letter to the club's supporters.",
+      "url": "https://www.bbc.com/sport/football/articles/c3v22p6nvx5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-05-25T15:47:28",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-05-25T20:18:37.628979",
+      "priority_score": 45,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-05-25T20:22:14.067562",
+      "title_tr": "Spurs, 'futbol başarısının kararları etkilemediğini' itiraf etti",
+      "summary_tr": "Tottenham, icracı olmayan başkan Peter Charrington'un başarısızlıklarını kabul etmesi ve kulübün taraftarlarına açık bir mektupta yeniden inşa etme sözü vermesi nedeniyle \"futbol başarısının kararlarımızı etkilemediğini\" söyledi."
     }
   ]
 }
