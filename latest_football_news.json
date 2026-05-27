@@ -1,27 +1,7 @@
 {
-  "timestamp": "2026-05-26T23:05:33.827797",
+  "timestamp": "2026-05-27T02:33:20.531454",
   "total_items": 30,
   "news": [
-    {
-      "title": "Spurs conduct major review to address 'astronomical' injury problems",
-      "summary": "Spurs have carried out a major review of their performance and medical departments, which included an investigation into whether the Tottenham Hotspur Stadium's retractable pitch is contributing to the club's ongoing injury crisis.",
-      "url": "https://www.skysports.com/football/news/12040/13547360/spurs-conduct-major-review-into-injury-crisis-with-stadiums-retractable-pitch-one-area-investigated",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-tottenham-injuries_7258028.jpg?20260525113545",
-      "published": "2026-05-26T22:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:01:07.326216",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "injuries"
-      ],
-      "processed_at": "2026-05-26T23:04:24.618094",
-      "title_tr": "Spurs, 'astronomik' sakatlık sorunlarına çözüm bulmak için büyük bir inceleme yürütüyor",
-      "summary_tr": "Spurs, Tottenham Hotspur Stadyumu'nun geri çekilebilir sahasının kulübün devam eden sakatlık krizine katkıda bulunup bulunmadığına ilişkin bir soruşturmayı da içeren performans ve tıbbi departmanları hakkında büyük bir inceleme gerçekleştirdi."
-    },
     {
       "title": "Beşiktaş, Emine Arıcı'yla sözleşme imzaladı",
       "summary": "Yeni sezon transfer çalışmalarını sürdüren Beşiktaş Kadın Voleybol Takımı, Emine Arıcı ile sözleşme imzaladı.",
@@ -32,15 +12,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:02:41.318519",
+      "fetched_at": "2026-05-27T02:30:25.258936",
       "priority_score": 83,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:24.794127",
+      "processed_at": "2026-05-27T02:32:13.581268",
       "title_tr": "Beşiktaş, Emine Arıcı'yla sözleşme imzaladı",
       "summary_tr": "Yeni sezon transfer çalışmalarını sürdüren Beşiktaş Kadın Voleybol Takımı, Emine Arıcı ile sözleşme imzaladı."
+    },
+    {
+      "title": "Spurs conduct major review to address 'astronomical' injury problems",
+      "summary": "Spurs have carried out a major review of their performance and medical departments, which included an investigation into whether the Tottenham Hotspur Stadium's retractable pitch is contributing to the club's ongoing injury crisis.",
+      "url": "https://www.skysports.com/football/news/12040/13547360/spurs-conduct-major-review-into-injury-crisis-with-stadiums-retractable-pitch-one-area-investigated",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-tottenham-injuries_7258028.jpg?20260525113545",
+      "published": "2026-05-26T22:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:28:45.468852",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "injuries"
+      ],
+      "processed_at": "2026-05-27T02:32:13.408981",
+      "title_tr": "Spurs, 'astronomik' sakatlık sorunlarına çözüm bulmak için büyük bir inceleme yürütüyor",
+      "summary_tr": "Spurs, Tottenham Hotspur Stadyumu'nun geri çekilebilir sahasının kulübün devam eden sakatlık krizine katkıda bulunup bulunmadığına ilişkin bir soruşturmayı da içeren performans ve tıbbi departmanları hakkında büyük bir inceleme gerçekleştirdi."
     },
     {
       "title": "Bayern Munich's Harry Kane wins 2025/26 European Golden Shoe",
@@ -52,13 +52,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:52.541516",
+      "fetched_at": "2026-05-27T02:29:34.879504",
       "priority_score": 81,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-26T23:04:24.720183",
+      "processed_at": "2026-05-27T02:32:13.507571",
       "title_tr": "2025/26 Avrupa Altın Ayakkabı'yı Bayern Münih'ten Harry Kane kazandı",
       "summary_tr": "Harry Kane, Bayern Münih ile sansasyonel bir kampanyanın ardından ikinci kez Avrupa Altın Ayakkabı ödülünü kazandı."
     },
@@ -72,13 +72,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:02:56.143207",
+      "fetched_at": "2026-05-27T02:30:37.135274",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:24.932323",
+      "processed_at": "2026-05-27T02:32:13.719370",
       "title_tr": "İtalyan basını duyurdu: Fenerbahçe ve Galatasaray Leao transferinde karşı karşıya!",
       "summary_tr": "İtalyan basınında yer alan habere göre Fenerbahçe ve Galatasaray Rafael Leao transferi için devreye girdi."
     },
@@ -92,35 +92,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:52.545389",
+      "fetched_at": "2026-05-27T02:29:34.883422",
       "priority_score": 71,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-05-26T23:04:24.746811",
+      "processed_at": "2026-05-27T02:32:13.533959",
       "title_tr": "Bayern Münih'in 2025/26 sezonunda sayılarla rekor kırması",
       "summary_tr": "Vincent Kompany yönetimindeki Bayern Münih, 2025/26 sezonunu istatistik gösterisine dönüştürdü. Rekor kıran gol sayılarından Harry Kane'in olağanüstü performansına ve tüm cephelerdeki destekleyici oyuncu kadrosuna kadar, Bavyera devleri Bundesliga ve ötesindeki hakimiyeti yeniden tanımladı."
-    },
-    {
-      "title": "Beşiktaş, derbiyi kazandı seride 1-0 öne geçti!",
-      "summary": "Türkiye Sigorta Basketbol Süper Ligi play-off çeyrek final serisinde Beşiktaş GAİN, konuk ettiği Galatasaray MCT Technic'i 108-83 mağlup ederek 1-0 öne geçti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-derbiyi-kazandi-seride-1-0-one-gecti-43185456",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a15f8f7a1511859b7aec3bf.jpg",
-      "published": "2026-05-26T19:48:40",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:02:56.142537",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-05-26T23:04:24.852092",
-      "title_tr": "Beşiktaş, derbiyi kazandı seride 1-0 öne geçti!",
-      "summary_tr": "Türkiye Sigorta Basketbol Süper Ligi play-off çeyrek final serisinde Beşiktaş GAİN, konuk ettiği Galatasaray MCT Technic'i 108-83 mağlup ederek 1-0 öne geçti."
     },
     {
       "title": "Spurs launch review after season of injury woe",
@@ -132,14 +112,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-05-26T23:00:55.793403",
+      "fetched_at": "2026-05-27T02:28:35.928172",
       "priority_score": 55,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-05-26T23:04:24.608925",
+      "processed_at": "2026-05-27T02:32:13.399632",
       "title_tr": "Spurs, sakatlık sezonunun ardından incelemeye başladı",
       "summary_tr": "Tottenham, son zamanlarda önemli oyuncuların yaşadığı \"alışılmadık\" ön çapraz bağ yaralanmalarına odaklanan bir inceleme başlatacak."
+    },
+    {
+      "title": "Czechia World Cup 2026 team guide",
+      "summary": "Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progressThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who ",
+      "url": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
+      "image_url": null,
+      "published": "2026-05-26T23:01:11",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:29:10.020430",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-05-27T02:32:13.438402",
+      "title_tr": "Çekya Dünya Kupası 2026 takım rehberi",
+      "summary_tr": "Play-off'larda elde edilen iki penaltı zaferi, Çekleri 20 yıl aradan sonra ilk kez Dünya Kupası'na taşıdı ve ilerleme kapasitesine sahip deneyimli bir yan görünüm Bu makale, Guardian'ın 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturduğu 2026 Dünya Kupası Uzmanları Ağı'nın bir parçasıdır."
     },
     {
       "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
@@ -151,13 +151,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:29.964809",
+      "fetched_at": "2026-05-27T02:29:10.022256",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-05-26T23:04:24.666872",
+      "processed_at": "2026-05-27T02:32:13.456605",
       "title_tr": "Premier League 2025-26 incelemesi: Yazarlarımızın sezonun en iyileri ve en kötüleri",
       "summary_tr": "Premier Lig sezonu bitti ama Guardian futbol yazarları son dokuz ayda neyi beğendi, neyi beğenmedi veya neye hayret etti? Kaleciler genellikle bu ödülden asla söz etmezler ancak David Raya, Arsenal'in nihayet çizgiyi aşarak Premier Lig'in Altın ödülünü kazanmasında önemli bir rol oynadı."
     },
@@ -171,14 +171,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:17.813822",
+      "fetched_at": "2026-05-27T02:31:03.288377",
       "priority_score": 76,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:25.148887",
+      "processed_at": "2026-05-27T02:32:13.939152",
       "title_tr": "Şampiyon Arsenal'dan, Süper Lig'e! Trossard bombası...",
       "summary_tr": "Arsenal’in satış listesine koyduğu Leandro Trossard, Beşiktaş’ın sol kanat transferinde ilk sıradaki hedef oldu. 31 yaşındaki Belçikalı yıldız için her geçen gün yeni talip çıkması, Kartal’da süreci hızlandırdı."
     },
@@ -192,7 +192,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:31.162720",
+      "fetched_at": "2026-05-27T02:31:15.033816",
       "priority_score": 74,
       "categories": [
         "transfers",
@@ -200,7 +200,7 @@
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:25.347165",
+      "processed_at": "2026-05-27T02:32:14.140562",
       "title_tr": "Eski yıldızdan dünya devine Osimhen çağrısı! Transfer...",
       "summary_tr": "Son dakika Galatasaray transfer haberleri: Galatasaray'ın Nijeryalı süper yıldızı Victor Osimhen ile iddiaların ardı arkası kesilmiyor. Çok sayıda eski yıldız da golcü futbolcu hakkında övgü dolu ifadeler...Devamı için tıklayınız"
     },
@@ -214,14 +214,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:02:56.142922",
+      "fetched_at": "2026-05-27T02:30:37.134983",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:24.895853",
+      "processed_at": "2026-05-27T02:32:13.682793",
       "title_tr": "Mauro Icardi için flaş iddia: Galatasaray indirim istedi, Arjantin devi devreye girdi!",
       "summary_tr": "Galatasaray ile sözleşme yenileme görüşmelerinde çıkmaza giren Mauro Icardi için River Plate devreye girdi. Arjantin devinin sportif direktörü Pablo Longoria, sarı-kırmızılı ekibin %40'lık indirim talebini kabul etmeyen yıldız golcünün şartlarını sordu."
     },
@@ -235,13 +235,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:17.812554",
+      "fetched_at": "2026-05-27T02:31:03.287056",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-05-26T23:04:25.086726",
+      "processed_at": "2026-05-27T02:32:13.876157",
       "title_tr": "Acun Ilıcalı, Hull City'nin eski yıldızını Liverpool'dan transfer ediyor",
       "summary_tr": "Hull City, Middlesbrough’yu 90+5’te attığı golle 1-0 yenerek Premier Lig’e yükseldi. Başkan Acun Ilıcalı ise Premier Lig’de kalıcı olmak için iddialı transfer atağına başladı."
     },
@@ -255,14 +255,14 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:31.162232",
+      "fetched_at": "2026-05-27T02:31:15.033360",
       "priority_score": 69,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:25.312811",
+      "processed_at": "2026-05-27T02:32:14.104519",
       "title_tr": "Galatasaray'da beklenen ayrılık! Bu kez bonservisiyle gidiyor",
       "summary_tr": "Son dakika Galatasaray transfer haberleri: Yeni sezon öncesi kadrosunda önemli değişiklikler yapması beklenen Galatasaray'da sıcak bir gelişme yaşandı. Kadroda düşünülmeyen isimlerle vedalaşmaya hazırlanan...Devamı için tıklayınız"
     },
@@ -276,54 +276,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:29.967184",
+      "fetched_at": "2026-05-27T02:29:10.024647",
       "priority_score": 68,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-05-26T23:04:24.699600",
+      "processed_at": "2026-05-27T02:32:13.487259",
       "title_tr": "Sardar Azmoun'un siyasi nedenlerden dolayı Dünya Kupası'na katılmaması İran'da fikir ayrılıklarına yol açtı",
       "summary_tr": "Çok az kişi forvetin ihmalinin sosyal medyada rejimi protesto eden eylemleriyle bağlantılı olmadığına inanır. ABD'ye giden pek çok gezgin, sosyal medya geçmişlerini yetkililere göndermelerini gerektirebilecek teklifler karşısında alarma geçti. Sardar Azmoun için çevrimiçi aktivite artacak gibi görünüyor"
-    },
-    {
-      "title": "Torino'dan Emirhan İlkhan kararı!",
-      "summary": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı.",
-      "url": "https://www.haberturk.com/torino-emirhan-ilkhan-in-sozlesmesini-uzatti-3887541-spor",
-      "image_url": "https://im.haberturk.com/l/2026/05/26/ver1779816891/3887541/jpg/1280x1280",
-      "published": "2026-05-26T17:36:37",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:02:41.318374",
-      "priority_score": 68,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-05-26T23:04:24.784722",
-      "title_tr": "Torino'dan Emirhan İlkhan kararı!",
-      "summary_tr": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı."
-    },
-    {
-      "title": "Torino, Emirhan İlkhan'ın sözleşmesini uzattı!",
-      "summary": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/torino-emirhan-ilkhanin-sozlesmesini-uzatti-43185369",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a15da39a1511859b7aec377.jpg",
-      "published": "2026-05-26T17:36:59",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:02:56.142845",
-      "priority_score": 66,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-05-26T23:04:24.884194",
-      "title_tr": "Torino, Emirhan İlkhan'ın sözleşmesini uzattı!",
-      "summary_tr": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı."
     },
     {
       "title": "Fenerbahçe ve Galatasaray yıldız ismin transferi için temaslara başladı!",
@@ -335,36 +297,34 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:31.161449",
+      "fetched_at": "2026-05-27T02:31:15.032575",
       "priority_score": 64,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:25.248824",
+      "processed_at": "2026-05-27T02:32:14.040003",
       "title_tr": "Fenerbahçe ve Galatasaray yıldız ismin transferi için temaslara başladı!",
       "summary_tr": "Fenerbahçe ile Galatasaray, gösterdiği performansla Avrupa futbolunun dikkat çeken isimlerinden birisi için transfer yarışına girdi. Yıldız oyuncunun kulübünün ise transferde talep ettiği bonservis bedeli...Devamı için tıklayınız"
     },
     {
-      "title": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses",
-      "summary": "Two-time Ballon d’Or winner departs at end of contractLondon City one of many clubs interested in midfielderBarcelona have announced the exit of their talismanic captain, Alexia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season.The 32-year-old, who",
-      "url": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
-      "image_url": null,
-      "published": "2026-05-26T19:34:26",
-      "source": "Guardian Football",
+      "title": "Torino'dan Emirhan İlkhan kararı!",
+      "summary": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı.",
+      "url": "https://www.haberturk.com/torino-emirhan-ilkhan-in-sozlesmesini-uzatti-3887541-spor",
+      "image_url": "https://im.haberturk.com/l/2026/05/26/ver1779816891/3887541/jpg/1280x1280",
+      "published": "2026-05-26T17:36:37",
+      "source": "Habertürk Spor",
       "source_priority": 9,
-      "region": "england",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:29.964457",
+      "fetched_at": "2026-05-27T02:30:25.258793",
       "priority_score": 63,
       "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a"
+        "transfers"
       ],
-      "processed_at": "2026-05-26T23:04:24.662620",
-      "title_tr": "Alexia Putellas, London City Lionesses ile bağlantısı nedeniyle 14 yıl sonra Barselona'dan ayrıldı",
-      "summary_tr": "İki kez Ballon d'Or kazananı sözleşmenin sonunda ayrılıyor Londra City orta saha oyuncusuyla ilgilenen birçok kulüpten biri Barcelona, ​​iki kez Ballon d'Or kazananının sözleşmesinin sezon sonunda sona ermesinin ardından tılsımlı kaptanı Alexia Putellas'ın ayrıldığını duyurdu."
+      "processed_at": "2026-05-27T02:32:13.571795",
+      "title_tr": "Torino'dan Emirhan İlkhan kararı!",
+      "summary_tr": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı."
     },
     {
       "title": "Eczacıbaşı transferi açıkladı!",
@@ -376,12 +336,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:02:41.318585",
+      "fetched_at": "2026-05-27T02:30:25.259002",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-05-26T23:04:24.797833",
+      "processed_at": "2026-05-27T02:32:13.584991",
       "title_tr": "Eczacıbaşı transferi açıkladı!",
       "summary_tr": "Eczacıbaşı Dynavit, 20 yaşındaki Bulgar pasör çaprazı Iva Dudova'yı kadrosuna kattı."
     },
@@ -395,34 +355,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:47.774215",
+      "fetched_at": "2026-05-27T02:31:34.361344",
       "priority_score": 62,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-05-26T23:04:25.482355",
+      "processed_at": "2026-05-27T02:32:14.276224",
       "title_tr": "Efsane isim Osimhen'i tavsiye etti: Tam ihtiyacımız olan kişi",
       "summary_tr": "İngiltere Premier Lig'de eski şaşaalı günlerine dönmek için kadro yapılanmasını sürdüren Manchester United'da, transfer..."
-    },
-    {
-      "title": "'Álvarez weigert contract te verlengen en informeert Atlético over vertrekwens'",
-      "summary": "Julián Álvarez stuurt volgens Argentijnse en Spaanse media aan op een vertrek bij Atlético Madrid. De Argentijnse aanvaller heeft de clubleiding naar verluidt geïnformeerd dat hij open staat voor een transfer naar een grotere club en zal zijn contract niet verlengen.",
-      "url": "https://www.vi.nl/nieuws/door-barcelona-begeerde-alvarez-informeert-atl-tico-over-vertrekwens",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/26/23fa42538c95b6f4869c5d1b9d32d61576b41f75.jpg?width=1200",
-      "published": "2026-05-26T18:07:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:04:20.059426",
-      "priority_score": 62,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-05-26T23:04:25.784903",
-      "title_tr": "'Álvarez sözleşmeyi uzatmayı reddediyor ve Atlético'ya ayrılma isteğini bildiriyor'",
-      "summary_tr": "Arjantin ve İspanyol medyasına göre Julián Álvarez, Atlético Madrid'den ayrılmayı hedefliyor. Arjantinli forvetin kulüp yönetimine daha büyük bir kulübe transfer olmaya açık olduğunu ve sözleşmesini yenilemeyeceğini bildirdiği bildirildi."
     },
     {
       "title": "Which Bundesliga players will be at the 2026 World Cup in Canada, Mexico and the USA?",
@@ -434,16 +375,56 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:52.539660",
+      "fetched_at": "2026-05-27T02:29:34.877556",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-05-26T23:04:24.706001",
+      "processed_at": "2026-05-27T02:32:13.493555",
       "title_tr": "Hangi Bundesliga oyuncuları Kanada, Meksika ve ABD'de düzenlenecek 2026 Dünya Kupası'nda yer alacak?",
       "summary_tr": "Bu yaz düzenlenecek 2026 FIFA Dünya Kupası'nda yarışacak 48 takımın ilki zaten belli oldu. Kanada, Meksika ve ABD'de hangi Bundesliga ve Bundesliga 2 oyuncularının kendi ülkeleri adına oynayacağını buradan öğrenin."
+    },
+    {
+      "title": "Torino, Emirhan İlkhan'ın sözleşmesini uzattı!",
+      "summary": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/torino-emirhan-ilkhanin-sozlesmesini-uzatti-43185369",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a15da39a1511859b7aec377.jpg",
+      "published": "2026-05-26T17:36:59",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:30:37.134908",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-05-27T02:32:13.671337",
+      "title_tr": "Torino, Emirhan İlkhan'ın sözleşmesini uzattı!",
+      "summary_tr": "İtalyan ekibi Torino, milli futbolcu Emirhan İlkhan'ın sözleşmesindeki uzatma opsiyonunu kullarak oyuncuyla 30 Haziran 2027 yılına kadar sözleşme imzaladı."
+    },
+    {
+      "title": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses",
+      "summary": "Two-time Ballon d’Or winner departs at end of contractLondon City one of many clubs interested in midfielderBarcelona have announced the exit of their talismanic captain, Alexia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season.The 32-year-old, who",
+      "url": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
+      "image_url": null,
+      "published": "2026-05-26T19:34:26",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:29:10.021912",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-27T02:32:13.452258",
+      "title_tr": "Alexia Putellas, London City Lionesses ile bağlantısı nedeniyle 14 yıl sonra Barselona'dan ayrıldı",
+      "summary_tr": "İki kez Ballon d'Or kazananı sözleşmenin sonunda ayrılıyor Londra City orta saha oyuncusuyla ilgilenen birçok kulüpten biri Barcelona, ​​iki kez Ballon d'Or kazananının sözleşmesinin sezon sonunda sona ermesinin ardından tılsımlı kaptanı Alexia Putellas'ın ayrıldığını duyurdu."
     },
     {
       "title": "Lukaku'dan transfer kararı!",
@@ -455,55 +436,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:02:41.318657",
+      "fetched_at": "2026-05-27T02:30:25.259073",
       "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-05-26T23:04:24.801353",
+      "processed_at": "2026-05-27T02:32:13.588569",
       "title_tr": "Lukaku'dan transfer kararı!",
       "summary_tr": "İtalya Serie A ekiplerinden Napoli'de forma giyen ve geçtiğimiz sezon sakatlığı nedeniyle 64 dakika forma şansı bulabilen Romelu Lukaku, geleceğiyle ilgili kararını verdi."
     },
     {
-      "title": "City lijkt United af te troeven, Summerville genoemd bij AS Roma",
-      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/city-lijkt-united-af-te-troeven-summerville-genoemd-bij-as-roma",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-05-26T19:07:48",
+      "title": "'Álvarez weigert contract te verlengen en informeert Atlético over vertrekwens'",
+      "summary": "Julián Álvarez stuurt volgens Argentijnse en Spaanse media aan op een vertrek bij Atlético Madrid. De Argentijnse aanvaller heeft de clubleiding naar verluidt geïnformeerd dat hij open staat voor een transfer naar een grotere club en zal zijn contract niet verlengen.",
+      "url": "https://www.vi.nl/nieuws/door-barcelona-begeerde-alvarez-informeert-atl-tico-over-vertrekwens",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/26/23fa42538c95b6f4869c5d1b9d32d61576b41f75.jpg?width=1200",
+      "published": "2026-05-26T18:07:00",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-05-26T23:04:20.059174",
+      "fetched_at": "2026-05-27T02:32:10.146233",
       "priority_score": 57,
       "categories": [
-        "transfers",
-        "serie_a"
+        "transfers"
       ],
-      "processed_at": "2026-05-26T23:04:25.725624",
-      "title_tr": "City, AS Roma'da Summerville ismiyle United'ı gölgede bırakacak gibi görünüyor",
-      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Tweevoudig Ballon d'Or winnaar Putellas vertrekt na 14 jaar bij Barcelona",
-      "summary": "Alexis Putellas vertrekt na veertien seizoenen bij Barcelona. De 32-jarige Spaanse gaat transfervrij vertrekken uit Catalonië. Dat maakte Putellas zelf via social media bekend.",
-      "url": "https://www.vi.nl/nieuws/tweevoudig-ballon-d-or-winnaar-putellas-vertrekt-na-14-jaar-bij-barcelona",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/26/77279ab3a08b97f6a2d9d0e6013f50ebafbd544b.jpg?width=1200",
-      "published": "2026-05-26T17:53:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-05-26T23:04:20.059568",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-05-26T23:04:25.824822",
-      "title_tr": "İki kez Ballon d'Or kazanan Putellas, 14 yıl sonra Barselona'dan ayrılıyor",
-      "summary_tr": "Alexis Putellas, Barselona'da geçirdiği 14 sezonun ardından takımdan ayrılıyor. 32 yaşındaki İspanyol, Katalonya'dan bedelsiz olarak ayrılacak. Putellas bunu bizzat sosyal medya aracılığıyla duyurdu."
+      "processed_at": "2026-05-27T02:32:14.584003",
+      "title_tr": "'Álvarez sözleşmeyi uzatmayı reddediyor ve Atlético'ya ayrılma isteğini bildiriyor'",
+      "summary_tr": "Arjantin ve İspanyol medyasına göre Julián Álvarez, Atlético Madrid'den ayrılmayı hedefliyor. Arjantinli forvetin kulüp yönetimine daha büyük bir kulübe transfer olmaya açık olduğunu ve sözleşmesini yenilemeyeceğini bildirdiği bildirildi."
     },
     {
       "title": "Man City's Maresca deal expected in coming days as talks continue",
@@ -515,13 +475,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:07.326882",
+      "fetched_at": "2026-05-27T02:28:45.469542",
       "priority_score": 56,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-05-26T23:04:24.639014",
+      "processed_at": "2026-05-27T02:32:13.429902",
       "title_tr": "Görüşmeler devam ederken Man City'nin Maresca ile anlaşması önümüzdeki günlerde bekleniyor",
       "summary_tr": "Manchester City, Pep Guardiola'nın yerine Enzo Maresca ile bu hafta görüşmelere devam ediyor."
     },
@@ -535,13 +495,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:17.813092",
+      "fetched_at": "2026-05-27T02:31:03.287658",
       "priority_score": 56,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-05-26T23:04:25.115743",
+      "processed_at": "2026-05-27T02:32:13.905602",
       "title_tr": "Andre Onana gelişmesi! Tüm şartlar zorlanacak...",
       "summary_tr": "Manchester United’tan kiralık olarak gelen ve performansıyla beğeni toplayan Andre Onana’nın bordo-mavili kulüple kiralık sözleşmesi resmen sona erdi. Kamerunlu kalecinin veda paylaşımı ise Trabzonspor camiasında tedirginlik yarattı."
     },
@@ -555,13 +515,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:17.814532",
+      "fetched_at": "2026-05-27T02:31:03.289068",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-05-26T23:04:25.193004",
+      "processed_at": "2026-05-27T02:32:13.983931",
       "title_tr": "Salih Özcan, Borussia Dortmund'dan ayrıldı",
       "summary_tr": "Almanya Bundesliga ekibi Borussia Dortmund, sözleşmesi sona eren Salih Özcan için veda mesajı yayımladı."
     },
@@ -575,15 +535,55 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-05-26T23:03:47.775787",
+      "fetched_at": "2026-05-27T02:31:34.362894",
       "priority_score": 52,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-05-26T23:04:25.505280",
+      "processed_at": "2026-05-27T02:32:14.299543",
       "title_tr": "5 yıl Fenerbahçe forması giymişti! Artık Galatasaray'da",
       "summary_tr": "Fenerbahçe Beko, 2020-21 sezonunda transfer ettiği Dyshawn Pierre ile geçirdiği 5 yılın ardından geride bıraktığımız se..."
+    },
+    {
+      "title": "City lijkt United af te troeven, Summerville genoemd bij AS Roma",
+      "summary": "We zitten in een periode tussen twee transferwindows, maar de stroom aan transfernieuws houdt nooit op. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/city-lijkt-united-af-te-troeven-summerville-genoemd-bij-as-roma",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-05-26T19:07:48",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:32:10.146026",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-05-27T02:32:14.523762",
+      "title_tr": "City, AS Roma'da Summerville ismiyle United'ı gölgede bırakacak gibi görünüyor",
+      "summary_tr": "İki transfer dönemi arasındayız ama transfer haberlerinin akışı hiç durmuyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Tweevoudig Ballon d'Or winnaar Putellas vertrekt na 14 jaar bij Barcelona",
+      "summary": "Alexis Putellas vertrekt na veertien seizoenen bij Barcelona. De 32-jarige Spaanse gaat transfervrij vertrekken uit Catalonië. Dat maakte Putellas zelf via social media bekend.",
+      "url": "https://www.vi.nl/nieuws/tweevoudig-ballon-d-or-winnaar-putellas-vertrekt-na-14-jaar-bij-barcelona",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/05/26/77279ab3a08b97f6a2d9d0e6013f50ebafbd544b.jpg?width=1200",
+      "published": "2026-05-26T17:53:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-05-27T02:32:10.146418",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-05-27T02:32:14.624456",
+      "title_tr": "İki kez Ballon d'Or kazanan Putellas, 14 yıl sonra Barselona'dan ayrılıyor",
+      "summary_tr": "Alexis Putellas, Barselona'da geçirdiği 14 sezonun ardından takımdan ayrılıyor. 32 yaşındaki İspanyol, Katalonya'dan bedelsiz olarak ayrılacak. Putellas bunu bizzat sosyal medya aracılığıyla duyurdu."
     },
     {
       "title": "Noel Futkeu and Branimir Hrgota fire Greuther Fürth to Bundesliga 2 safety in dramatic play-off win over Rot-Weiß Essen",
@@ -595,13 +595,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-05-26T23:01:52.540691",
+      "fetched_at": "2026-05-27T02:29:34.878617",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-05-26T23:04:24.715081",
+      "processed_at": "2026-05-27T02:32:13.502542",
       "title_tr": "Noel Futkeu ve Branimir Hrgota, Rot-Weiß Essen karşısında dramatik play-off galibiyetiyle Greuther Fürth'ü Bundesliga 2'ye güvenli bir şekilde kovdu",
       "summary_tr": "Greuther Fürth, Sportpark Ronhof'ta oynanan Bundesliga 2 küme düşme play-off rövanş maçında Rot-Weiss Essen'i 2-0 yenerek Noel Futkeu ve Branimir Hrgota'nın golleri sayesinde 2026/27 sezonunda ikinci sıradaki yerini garantiledi."
     }
