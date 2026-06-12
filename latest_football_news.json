@@ -1,26 +1,226 @@
 {
-  "timestamp": "2026-06-12T11:39:59.874642",
+  "timestamp": "2026-06-12T14:38:16.787563",
   "total_items": 30,
   "news": [
     {
-      "title": "Mead signs for Man City",
-      "summary": "Beth Mead has signed for Manchester City, joining on a free transfer following her departure from Arsenal this summer.",
-      "url": "https://www.skysports.com/football/news/12040/13553326/beth-mead-england-winger-signs-three-year-deal-with-manchester-city-after-arsenal-exit",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-beth-mead-man-city_7271542.jpg?20260612121635",
-      "published": "2026-06-12T12:10:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Man City sign Mead on free transfer",
+      "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
+      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-12T11:39:33",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.699443",
-      "priority_score": 91,
+      "fetched_at": "2026-06-12T14:33:02.428008",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-06-12T14:36:51.480687",
+      "title_tr": "Manchester City Mead'i bedelsiz transfer etti",
+      "summary_tr": "Manchester City, Arsenal'den bedelsiz olarak İngiltere'nin forveti Beth Mead'i transfer ettiğini doğruladı."
+    },
+    {
+      "title": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
+      "summary": "Ex-Arsenal forward signs three-year deal with champions‘The way City plays suits me really well,’ says 31-year-oldBeth Mead believes Manchester City’s playing style suits her own and has described her move to the Women’s Super League champions on a three-year contract as a “no-brainer”.The 31-year-o",
+      "url": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
+      "image_url": null,
+      "published": "2026-06-12T12:17:55",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:33:37.113119",
+      "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-06-12T11:38:32.443416",
-      "title_tr": "Mead Manchester City'ye imza attı",
-      "summary_tr": "Beth Mead, bu yaz Arsenal'den ayrılmasının ardından Manchester City'ye bedelsiz transferle imza attı."
+      "processed_at": "2026-06-12T14:36:51.549124",
+      "title_tr": "Beth Mead, Manchester City'ye taşınmayı 'hiç düşünmeden' olarak tanımladı",
+      "summary_tr": "Eski Arsenal forveti şampiyonlarla üç yıllık anlaşma imzaladı 'City'nin oynama şekli bana çok yakışıyor' diyor 31 yaşındaki Beth Mead, Manchester City'nin oyun tarzının kendisine uygun olduğuna inanıyor ve üç yıllık sözleşmeyle Kadınlar Süper Lig şampiyonluğuna taşınmasını \"hiç düşünmeden\" olarak tanımlıyor."
+    },
+    {
+      "title": "Bernardo Silva'yı Mourinho kaptı!",
+      "summary": "Transferde ismi Galatasaray ile de anılan Bernardo Silva'nın Real Madrid'le anlaştığı iddia edildi. İspanyol devinin yeni teknik direktörü Jose Mourinho'nun, aynı zamanda vatandaşı olan Bernardo Silva ile görüşüp yıldız oyuncuyu eflatun-beyazlı kulübe gelmeye ikna ettiği belirtildi.",
+      "url": "https://www.haberturk.com/galatasaray-a-transferde-kotu-haber-bernardo-silva-yi-mourinho-kapti-3891236-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781272385/3891236/jpg/1280x1280",
+      "published": "2026-06-12T13:53:29",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:34:49.544955",
+      "priority_score": 93,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-12T14:36:51.653998",
+      "title_tr": "Bernardo Silva'yı Mourinho kaptı!",
+      "summary_tr": "Transferde ismi Galatasaray ile de anılan Bernardo Silva'nın Real Madrid'le anlaştığı iddia edildi. İspanyol devinin yeni teknik direktörü Jose Mourinho'nun, aynı zamanda vatandaşı olan Bernardo Silva ile görüşüp yıldız oyuncuyu eflatun-beyazlı kulübe gelmeye ikna ettiği belirtildi."
+    },
+    {
+      "title": "Russell starts big Barcelona weekend fastest in first practice",
+      "summary": "George Russell was fastest in first practice for the Barcelona-Catalunya Grand Prix as he got his pivotal weekend off to a flying start.",
+      "url": "https://www.skysports.com/f1/news/12040/13553262/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-in-first-practice-as-ferrari-reveal-upgrades",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-f1-george-russell_7271649.jpg?20260612140731",
+      "published": "2026-06-12T13:37:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:33:13.307558",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-06-12T14:36:51.491888",
+      "title_tr": "Russell, Barselona haftasonuna ilk antrenmanlarda en hızlı başlıyor",
+      "summary_tr": "George Russell, Barselona-Katalonya Grand Prix'sinin ilk antrenmanlarında en hızlı isim olurken, önemli hafta sonuna hızlı bir başlangıç ​​yaptı."
+    },
+    {
+      "title": "World Cup 2026: Canada and USA enter fray; empty seats; Mexico’s winning start; Endo’s Japan retirement – live",
+      "summary": "⚽️ Canada tightens in anticipation | What is enough for US?⚽️ Player guide | Bracketology | Golden Boot | Mail DavidFive takeaways from the World Cup opener. These come courtesy of Matt Hughes who was in the Azteca (I can’t bring myself to say Mexico City Stadium).How about this: you’re still tuckin",
+      "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
+      "image_url": null,
+      "published": "2026-06-12T14:13:21",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:33:37.110481",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-12T14:36:51.531363",
+      "title_tr": "2026 Dünya Kupası: Kanada ve ABD mücadeleye giriyor; boş koltuklar; Meksika'nın kazanan başlangıcı; Endo'nun Japonya'da emekliliği - canlı",
+      "summary_tr": "⚽️ Kanada beklentiyle sıkılaşıyor | Bize ne yeter?⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | Dünya Kupası açılışından DavidFive paketlerini postalayın. Bunlar Azteca'da bulunan Matt Hughes'un izniyle geliyor (Mexico City Stadyumu'nu söylemeye cesaret edemiyorum). Şuna ne dersiniz: hala kıvranıyorsunuz"
+    },
+    {
+      "title": "Williamson announces shock retirement from international cricket",
+      "summary": "New Zealand's all-time leading run scorer Kane Williamson has retired from international cricket, effective immediately.",
+      "url": "https://www.skysports.com/cricket/news/12040/13228436/kane-williamson-new-zealands-all-time-leading-run-scorer-announces-retirement-from-international-cricket",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-kane-williamson-england_7265353.jpg?20260604152733",
+      "published": "2026-06-12T11:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:33:13.307923",
+      "priority_score": 51,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-06-12T14:36:51.504903",
+      "title_tr": "Williamson uluslararası kriketten şok emekliliğini duyurdu",
+      "summary_tr": "Yeni Zelanda'nın tüm zamanların en skorer ismi Kane Williamson, derhal geçerli olmak üzere uluslararası kriketten emekli oldu."
+    },
+    {
+      "title": "Dünya Kupası'nda gözler Arda Güler'de: 'Mourinho sevinçten ellerini ovuşturuyor!'",
+      "summary": "13 yıl aradan sonra yeniden Real Madrid'in başına geçen Jose Mourinho'nun milli futbolcu Arda Güler'in yeteneklerine eskiden beri hayranlık beslediği ve yeni dönemde kendisiyle çalışacak olmaktan ötürü çok heyecanlı olduğu belirtildi. İşte İspanya'nın yüksek tirajla spor gazetesi AS'ta çıkan o yazı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-gozler-arda-gulerde-mourinho-sevincten-ellerini-ovusturuyor-43203118",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2c11ca613bd91eccb086dc.jpg",
+      "published": "2026-06-12T14:04:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:35:00.678396",
+      "priority_score": 51,
+      "categories": [
+        "la_liga",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-12T14:36:51.733775",
+      "title_tr": "Dünya Kupası'nda gözler Arda Güler'de: 'Mourinho sevinçten ellerini ovuşturuyor!'",
+      "summary_tr": "13 yıl aradan sonra yeniden Real Madrid'in başına geçen Jose Mourinho'nun milli futbolcu Arda Güler'in yeteneklerine eskiden beri hayranlık beslediği ve yeni dönemde kendisiyle çalışacak olmaktan ötürü çok heyecanlı olduğu belirtildi. İşte İspanya'nın yüksek tirajla spor gazetesi AS'ta çıkan o yazı."
+    },
+    {
+      "title": "Waarom Japan een zesde spits oproept voor middenvelder Endo",
+      "summary": "Vlak voor de eerste groepswedstrijd tegen Nederland kreeg Japan een dreun te verwerken. Aanvoerder Wataru Endo haakte geblesseerd af voor het WK en stopte zelfs helemaal als international. De keuze van bondscoach Hajime Moriyasu om spits Shuto Machino op te roepen als vervanger deed nogal wat wenkbr",
+      "url": "https://www.vi.nl/pro/waarom-japan-een-zesde-spits-oproept-voor-middenvelder-endo",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/12/ea199b3900344968ee02dccb903c6c662b392d21.jpg?width=1200",
+      "published": "2026-06-12T14:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:49.138351",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-06-12T14:36:52.532190",
+      "title_tr": "Japonya neden orta saha oyuncusu Endo için altıncı forvet çağırıyor?",
+      "summary_tr": "Hollanda ile oynayacağı ilk grup maçının hemen öncesinde Japonya darbe aldı. Kaptan Wataru Endo, sakatlığı nedeniyle Dünya Kupası'ndan çekildi ve hatta uluslararası oyuncu olarak oynamayı tamamen bıraktı. Milli antrenör Hajime Moriyasu'nun forvet Shuto Machino'yu yedek oyuncu olarak çağırma tercihi birçok kişinin kaşlarını çatmasına neden oldu."
+    },
+    {
+      "title": "World Cup stars of the Bundesliga: Borussia Mönchengladbach’s Shuto Machino",
+      "summary": "Replacing Liverpool and former VfB Stuttgart midfielder Wataru Endo, who has withdrawn from Japan’s FIFA World Cup 2026 squad due to injury, Borussia Mönchengladbach’s Shuto Machino offers his country a versatile attacking threat.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/world-cup-stars-shuto-machino-japan-borussia-monchengladbach-37790",
+      "image_url": null,
+      "published": "2026-06-12T00:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:34:01.274132",
+      "priority_score": 46,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "bundesliga",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-12T14:36:51.620519",
+      "title_tr": "Bundesliga'nın Dünya Kupası yıldızları: Borussia Mönchengladbach'lı Shuto Machino",
+      "summary_tr": "Sakatlığı nedeniyle Japonya'nın FIFA 2026 Dünya Kupası kadrosundan çekilen Liverpool ve eski VfB Stuttgart orta saha oyuncusu Wataru Endo'nun yerine Borussia Mönchengladbachlı Shuto Machino, ülkesine çok yönlü bir hücum tehdidi sunuyor."
+    },
+    {
+      "title": "Watford great Jackett dies aged 64",
+      "summary": "Watford legend and former Wales international Kenny Jackett dies at the age of 64.",
+      "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-12T10:00:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:33:02.427774",
+      "priority_score": 45,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-06-12T14:36:51.480457",
+      "title_tr": "Watford'un efsane ismi Jackett 64 yaşında hayatını kaybetti",
+      "summary_tr": "Watford efsanesi ve eski Galler milli takımı oyuncusu Kenny Jackett, 64 yaşında hayatını kaybetti."
+    },
+    {
+      "title": "Dzeko'dan çocuklara duygusal mektup",
+      "summary": "Bosna Hersek'in deneyimli futbolcusu Edin Dzeko, ülkesinin çocuklarına hitaben duygusal bir mektup yayımladı. 40 yaşındaki golcü mektupta yer alan mesajında, \"Bosna Hersek'teki sevgili çocuklar, sizin için bir mesajım var. Hiçbir şey imkansız değil. Hiçbir şey.\" ifadelerini kullandı.",
+      "url": "https://www.haberturk.com/dzeko-dan-bosna-hersekli-cocuklara-duygusal-mektup-3891157-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781254753/3891157/jpg/1280x1280",
+      "published": "2026-06-12T09:00:34",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:34:49.545449",
+      "priority_score": 43,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-06-12T14:36:51.678323",
+      "title_tr": "Dzeko'dan çocuklara duygusal mektup",
+      "summary_tr": "Bosna Hersek'in deneyimli futbolcusu Edin Dzeko, ülkesinin çocuklarına hitaben duygusal bir mektup yayımladı. 40 yaşındaki golcü mektupta yer alan mesajında, \"Bosna Hersek'teki sevgili çocuklar, sizin için bir mesajım var. Hiçbir şey imkansız değil. Hiçbir şey.\" ifadelerini kullandı."
     },
     {
       "title": "Galatasaray, Can Uzun transferinde stratejiyi belirledi",
@@ -32,13 +232,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:37:02.229567",
+      "fetched_at": "2026-06-12T14:35:25.166294",
       "priority_score": 91,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-12T11:38:32.872278",
+      "processed_at": "2026-06-12T14:36:52.004863",
       "title_tr": "Galatasaray, Can Uzun transferinde stratejiyi belirledi",
       "summary_tr": "Süper Lig’de üst üste dördüncü şampiyonluğunu kazanarak tarih yazan Galatasaray, yeni sezon kadro planlamasında önemli bir transfer için hamlelerini gözden geçirdi."
     },
@@ -52,196 +252,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:36:35.384067",
+      "fetched_at": "2026-06-12T14:35:00.678938",
       "priority_score": 81,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-06-12T11:38:32.679186",
+      "processed_at": "2026-06-12T14:36:51.802864",
       "title_tr": "Süper Lig devinden Jadon Sancho harekatı: Bonservis bedeli yok, maaşı belli oldu!",
       "summary_tr": "Kiralık olarak forma giydiği Aston Villa ile İstanbul'da Avrupa Ligi şampiyonluğu yaşayan İngiliz sol kanat oyuncusu Jadon Sancho, biten sözleşmesinin ardından Manchester United'dan ayrıldı. Adı sık sık üç büyüklerle anılan İngiliz yıldızın bonservissiz alınma durumu Süper Lig devini harekete geçird"
-    },
-    {
-      "title": "Barcelona GP: Ferrari with big upgrade as seven rookies drive in first practice LIVE!",
-      "summary": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-lewis-hamilton_7271521.jpg?20260612114034",
-      "published": "2026-06-12T11:50:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.698774",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news",
-        "la_liga"
-      ],
-      "processed_at": "2026-06-12T11:38:32.423429",
-      "title_tr": "Barselona GP: Ferrari, yedi çaylağın ilk antrenman antrenmanlarında CANLI olarak büyük bir gelişme kaydetti!",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "The Joy of Six: forgotten World Cup goals",
-      "summary": "From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that deserve to be better rememberedThe first six or seven World Cups certainly are not without their charms, but they are noticeably light on the kind of viscerally spectacular goals that we take for g",
-      "url": "https://www.theguardian.com/sport/2026/jun/12/the-joy-of-six-forgotten-world-cup-goals",
-      "image_url": null,
-      "published": "2026-06-12T04:00:35",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:35:05.879827",
-      "priority_score": 63,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.494013",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Beşiktaş'ın yıldızı Oh attı; Güney Kore kazandı",
-      "summary": "FIFA Dünya Kupası’nda bugün oynanan grup maçında Güney Kore, Çekya’yı 2-1’lik skorla yenerek önemli bir galibiyet elde etti. Asya ekibi, turnuvaya galibiyetle başladı.",
-      "url": "https://www.cnnturk.com/spor/dunya-kupasi/besiktasin-yildizi-oh-atti-guney-kore-kazandi-3429844",
-      "image_url": null,
-      "published": "2026-06-12T07:27:57",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:37:02.232205",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:33.033790",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "World Cup 2026: Mexico’s winning start; empty seats; USA and Canada enter fray; Endo’s Japan retirement – live",
-      "summary": "⚽️ Canada tightens in anticipation | What is enough for US?⚽️ Player guide | Bracketology | Golden Boot | Mail MartinFive takeaways from the World Cup opener. These come courtesy of Matt Hughes who was in the Azteca (I can’t bring myself to say Mexico City Stadium).How about this: you’re still tucki",
-      "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
-      "image_url": null,
-      "published": "2026-06-12T11:07:49",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:35:05.860413",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.464576",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "De vrijbuiter op links bij de Engelsen: 'Nico heeft alles'",
-      "summary": "Na zijn doorbraakseizoen bij Manchester City mag Nico O’Reilly (21) zichzelf gaan presenteren op het hoogste landenpodium. Als ultra-offensieve linksback is hij een nieuwe blikvanger in de Engelse nationale ploeg. ‘Nico is voor niets en niemand bang’, weet Pepijn Lijnders.",
-      "url": "https://www.vi.nl/pro/de-vrijbuiter-op-links-bij-de-engelsen-nico-heeft-alles",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/08/86aec4a9fce08c1dd4fdde21e22585ee52081b0d.jpg?width=1200",
-      "published": "2026-06-12T11:12:55",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:38:29.930557",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-06-12T11:38:33.100234",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "De Jong baalt van vele gemiste interlands: 'Had richting de honderd kunnen hebben'",
-      "summary": "Voor Frenkie de Jong staat de interlandteller vlak voor het WK op 66 wedstrijden. Een respectabel aantal, al miste de Oranje-spelmaker er de laatste jaren ook veel. In gesprek met VI ging hij daar op in.",
-      "url": "https://www.vi.nl/nieuws/de-jong-baalt-van-vele-gemiste-interlands-had-richting-de-honderd-kunnen-hebben",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/08/52e0c3e1f02ff7acd12ed21ed2f35a0434749030.jpg?width=1200",
-      "published": "2026-06-12T10:58:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:38:29.930629",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-12T11:38:33.117069",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Watford great Jackett dies aged 64",
-      "summary": "Watford legend and former Wales international Kenny Jackett dies at the age of 64.",
-      "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-12T10:00:05",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:26.834324",
-      "priority_score": 45,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-12T11:38:32.410163",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Beşiktaş, savunma hattını Doekhi ile güçlendirmek istiyor",
-      "summary": "Savunma bölgesini güçlendirmek için harekete geçen Beşiktaş, Union Berlin ile sözleşmesi sona erecek olan Danilho Doekhi’yi transfer gündemine aldı. Siyah-Beyazlılar, Hollandalı stoper için Borussia Dortmund’un da aralarında bulunduğu Avrupa kulüpleriyle rekabete girmeye hazırlanıyor.",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktas-savunma-hattini-doekhi-ile-guclendirmek-istiyor-3429872",
-      "image_url": null,
-      "published": "2026-06-12T09:10:25",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:37:02.231733",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-12T11:38:33.007417",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Brighton wil talentvolle Spurs-verdediger betrekken in Van Hecke-deal'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/brighton-wil-talentvolle-spurs-verdediger-betrekken-in-van-hecke-deal",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-06-12T10:03:36",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:38:29.930975",
-      "priority_score": 77,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-06-12T11:38:33.182022",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Göztepe, Miroshi ve Bokele'yi takımda tutacak",
@@ -253,15 +273,56 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:37:02.229773",
+      "fetched_at": "2026-06-12T14:35:25.166481",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-06-12T11:38:32.881005",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:52.013495",
+      "title_tr": "Göztepe, Miroshi ve Bokele'yi takımda tutacak",
+      "summary_tr": "Transfer sezonunda Brezilyalı golcüsü Juan başta olmak üzere sağ kanat Arda Okan ve Nijeryalı orta saha Dennis için birçok teklif alan Göztepe’de Miroshi ve Bokele’nin takımda kalacağı ifade edildi."
+    },
+    {
+      "title": "TOFAŞ'a ABD'li oyun kurucu",
+      "summary": "TOFAŞ Basketbol Takımı, yeni sezon öncesi ilk transferini gerçekleştirdi. Mavi-yeşilliler, Birleşik Amerikalı oyun kurucu Bryce Jones’u kadrosuna kattığını duyurdu.",
+      "url": "https://www.haberturk.com/tofas-bryce-jones-u-kadrosuna-katti-3891217-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781266750/3891217/jpg/1280x1280",
+      "published": "2026-06-12T12:19:44",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:34:49.545070",
+      "priority_score": 68,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-12T14:36:51.657366",
+      "title_tr": "TOFAŞ'a ABD'li oyun kurucu",
+      "summary_tr": "TOFAŞ Basketbol Takımı, yeni sezon öncesi ilk transferini gerçekleştirdi. Mavi-yeşilliler, Birleşik Amerikalı oyun kurucu Bryce Jones’u kadrosuna kattığını duyurdu."
+    },
+    {
+      "title": "Fenerbahçelileri üzecek Guirassy gelişmesi: Menajerinden flaş açıklama",
+      "summary": "Fenerbahçe'nin transfer listesinde üst sıralarda yer alan Borussia Dortmund'un yıldız golcüsü Serhou Guirassy ile ilgil...",
+      "url": "https://www.yenisafak.com/spor/fenerbahcelileri-uzecek-guirassy-gelismesi-menajerinden-flas-aciklama-4831701",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/6/11/ac254233-fenerbahcelileri-uzecek-guirassy-gelismesi-menajerinden-flas-aciklama.webp",
+      "published": "2026-06-11T20:32:48",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:12.470286",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "match_results",
+        "bundesliga",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-12T14:36:52.490733",
+      "title_tr": "Fenerbahçelileri üzecek Guirassy gelişmesi: Menajerinden flaş açıklama",
+      "summary_tr": "Fenerbahçe'nin transfer listesinde üst sıralarda yer alan Borussia Dortmund'un yıldız golcüsü Serhou Guirassy ile ilgil..."
     },
     {
       "title": "Beşiktaş'tan gurbetçi atağı! Görüşmeler başladı",
@@ -273,15 +334,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:36:35.384166",
+      "fetched_at": "2026-06-12T14:35:00.679038",
       "priority_score": 66,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-12T11:38:32.685567",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.810021",
+      "title_tr": "Beşiktaş'tan gurbetçi atağı! Görüşmeler başladı",
+      "summary_tr": "Beşiktaş, Fransız ekibi Clermont forması giyen genç sol kanat oyuncusu İlhan Fakılı'nın transferi için düğmeye bastı. İşte detaylar..."
     },
     {
       "title": "Transfere Dünya Kupası arası!",
@@ -293,54 +354,75 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:36:23.955682",
+      "fetched_at": "2026-06-12T14:34:49.545375",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig",
         "world_cup"
       ],
-      "processed_at": "2026-06-12T11:38:32.578809",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.674016",
+      "title_tr": "Transfere Dünya Kupası arası!",
+      "summary_tr": "Galatasaray'ın transferdeki 1 numaralı hedefi Can Uzun, Dünya Kupası bitene kadar transfer konusunu kapattı. A Milli Takım kadrosunda yer alan genç hücum oyuncusu, tüm konsantrasyonunu Dünya Kupası'na vermiş durumda."
     },
     {
-      "title": "Williamson announces shock retirement from international cricket",
-      "summary": "New Zealand's all-time leading run scorer Kane Williamson has retired from international cricket, effective immediately.",
-      "url": "https://www.skysports.com/cricket/news/12040/13228436/kane-williamson-new-zealands-all-time-leading-run-scorer-announces-retirement-from-international-cricket",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-kane-williamson-england_7265353.jpg?20260604152733",
-      "published": "2026-06-12T11:00:00",
-      "source": "Sky Sports Football",
+      "title": "Cologne sign Jahmai Simpson-Pusey from Manchester City",
+      "summary": "Cologne have announced the permanent signing of talented English defender Jahmai Simpson-Pusey from Manchester City on a contract until 2030.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/cologne-sign-jahmai-simpson-pusey-manchester-city-37795",
+      "image_url": null,
+      "published": "2026-06-12T13:22:17",
+      "source": "Bundesliga Official",
       "source_priority": 8,
-      "region": "europe",
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.698981",
+      "fetched_at": "2026-06-12T14:34:01.269201",
       "priority_score": 61,
       "categories": [
-        "serie_a"
+        "transfers",
+        "premier_league"
       ],
-      "processed_at": "2026-06-12T11:38:32.427228",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.589988",
+      "title_tr": "Köln, Manchester City'den Jahmai Simpson-Pusey'i kadrosuna kattı",
+      "summary_tr": "Köln, yetenekli İngiliz defans oyuncusu Jahmai Simpson-Pusey'nin Manchester City'den 2030 yılına kadar kalıcı olarak imzalandığını duyurdu."
     },
     {
-      "title": "Kasımpaşa'ya genç takviye!",
-      "summary": "Yeni sezon öncesi transfer çalışmalarına devam eden Kasımpaşa, 19 yaşındaki Fildişi Sahilli Dalo Stann Elysee'i kadrosuna kattı.",
-      "url": "https://www.haberturk.com/kasimpasa-dalo-stann-elysee-i-transfer-etti-3891187-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781261557/3891187/jpg/1280x1280",
-      "published": "2026-06-12T10:52:53",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "FC Porto sluit verloren zoon weer in de armen na vertrek Luuk de Jong",
+      "summary": "André Silva keert terug bij FC Porto. De dertigjarige spits komt transfervrij over van Elche en is de eerste aanwinst richting komend seizoen voor trainer Francesco Farioli, die onlangs afscheid nam van Luuk de Jong.",
+      "url": "https://www.vi.nl/nieuws/fc-porto-sluit-verloren-zoon-weer-in-de-armen-na-vertrek-luuk-de-jong",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/12/8b851e32a5f9a7b97be8053cc0628c2856ac0ecc.jpg?width=1200",
+      "published": "2026-06-12T12:23:37",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:49.166177",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-06-12T14:36:52.682051",
+      "title_tr": "FC Porto, Luuk de Jong'un ayrılışının ardından müsrif oğlunu yeniden kucakladı",
+      "summary_tr": "André Silva FC Porto'ya geri dönüyor. Otuz yaşındaki forvet, Elche'den bedava transfer oldu ve kısa süre önce Luuk de Jong'a veda eden teknik direktör Francesco Farioli'nin gelecek sezondaki ilk transferi oldu."
+    },
+    {
+      "title": "Kasımpaşa bir transfer daha açıkladı",
+      "summary": "Kasımpaşa Kulübü, son olarak Ayvalıkgücü Belediyespor'da forma giyen Emirhan Boz'u kadrosuna kattığını açıkladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/kasimpasa-bir-transfer-daha-acikladi-3430037",
+      "image_url": null,
+      "published": "2026-06-12T15:07:20",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:36:23.955531",
-      "priority_score": 58,
+      "fetched_at": "2026-06-12T14:35:25.166106",
+      "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-12T11:38:32.570702",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.994518",
+      "title_tr": "Kasımpaşa bir transfer daha açıkladı",
+      "summary_tr": "Kasımpaşa Kulübü, son olarak Ayvalıkgücü Belediyespor'da forma giyen Emirhan Boz'u kadrosuna kattığını açıkladı."
     },
     {
       "title": "We need to feel love playing for England - Bellingham",
@@ -352,19 +434,137 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-12T11:34:26.835266",
+      "fetched_at": "2026-06-12T14:33:02.429513",
       "priority_score": 55,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-06-12T11:38:32.411907",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.486492",
+      "title_tr": "İngiltere için oynamayı sevmemiz gerekiyor - Bellingham",
+      "summary_tr": "İngiliz orta saha oyuncusu Jude Bellingham, Üç Aslan'ın bu yaz Dünya Kupası'nda başarılı olmasına yardımcı olmak için 'sevildiğini hissetmenin' önemini vurguluyor."
+    },
+    {
+      "title": "Erwin Feuchtmann Beşiktaş'ta",
+      "summary": "Beşiktaş Hentbol Takımı, Şilili sol oyun kurucu Erwin Feuchtmann'ı transfer etti.Kulüpten yapılan açıklamada, \"Hentbol ...",
+      "url": "https://www.yenisafak.com/spor/erwin-feuchtmann-besiktasta-4831969",
+      "image_url": null,
+      "published": "2026-06-12T17:23:11",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:12.458113",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-12T14:36:52.325264",
+      "title_tr": "Erwin Feuchtmann Beşiktaş'ta",
+      "summary_tr": "Beşiktaş Hentbol Takımı, Şilili sol oyun kurucu Erwin Feuchtmann'ı transfer etti.Kulüpten yapılan açıklamada, \"Hentbol ..."
+    },
+    {
+      "title": "Ziraat Bankkart Ahmet Tümer'i transfer etti",
+      "summary": "Kulüpten yapılan açıklamada \"Türk voleybolunun önemli orta oyuncularından Ahmet Tümer ile anlaşma sağlamış bulunuyoruz....",
+      "url": "https://www.yenisafak.com/spor/ziraat-bankkart-ahmet-tumeri-transfer-etti-4831922",
+      "image_url": null,
+      "published": "2026-06-12T14:53:35",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:12.460903",
+      "priority_score": 52,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-12T14:36:52.372491",
+      "title_tr": "Ziraat Bankkart Ahmet Tümer'i transfer etti",
+      "summary_tr": "Kulüpten yapılan açıklamada \"Türk voleybolunun önemli orta oyuncularından Ahmet Tümer ile anlaşma sağlamış bulunuyoruz...."
+    },
+    {
+      "title": "Real Madrid'de ikinci Jose Mourinho dönemi",
+      "summary": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, Portekizli teknik direktör Jose Mourinho ile 3 yıllık sözleşme imzal...",
+      "url": "https://www.yenisafak.com/spor/real-madridde-ikinci-jose-mourinho-donemi-4831712",
+      "image_url": null,
+      "published": "2026-06-11T21:44:43",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:36:12.469168",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-06-12T14:36:52.473637",
+      "title_tr": "Real Madrid'de ikinci Jose Mourinho dönemi",
+      "summary_tr": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, Portekizli teknik direktör Jose Mourinho ile 3 yıllık sözleşme imzal..."
+    },
+    {
+      "title": "Kasımpaşa'ya genç takviye!",
+      "summary": "Yeni sezon öncesi transfer çalışmalarına devam eden Kasımpaşa, 19 yaşındaki Fildişi Sahilli Dalo Stann Elysee'i kadrosuna kattı.",
+      "url": "https://www.haberturk.com/kasimpasa-dalo-stann-elysee-i-transfer-etti-3891187-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781261557/3891187/jpg/1280x1280",
+      "published": "2026-06-12T10:52:53",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:34:49.545228",
+      "priority_score": 48,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-12T14:36:51.665264",
+      "title_tr": "Kasımpaşa'ya genç takviye!",
+      "summary_tr": "Yeni sezon öncesi transfer çalışmalarına devam eden Kasımpaşa, 19 yaşındaki Fildişi Sahilli Dalo Stann Elysee'i kadrosuna kattı."
+    },
+    {
+      "title": "Miguel Mendez için açıklama: 'Fenerbahçe'de devam etmek istemedi!'",
+      "summary": "Fenerbahçe Kadın Basketbol Takımı ile sözleşme yenilemeyen Miguel Mendez hakkında çıkan spekülasyonlar hakkında Eski Fenerbahçe Yöneticisi ve Kadın Basketbol Şubesi'nden sorumlu isim Ufuk Şansal açıklama yaptı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/miguel-mendez-icin-aciklama-fenerbahcede-devam-etmek-istemedi-43203001",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2bfa6b5a781208840b3601.jpg",
+      "published": "2026-06-12T12:27:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:35:00.678478",
+      "priority_score": 46,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-12T14:36:51.742404",
+      "title_tr": "Miguel Mendez için açıklama: 'Fenerbahçe'de devam etmek istemedi!'",
+      "summary_tr": "Fenerbahçe Kadın Basketbol Takımı ile sözleşme yenilemeyen Miguel Mendez hakkında çıkan spekülasyonlar hakkında Eski Fenerbahçe Yöneticisi ve Kadın Basketbol Şubesi'nden sorumlu isim Ufuk Şansal açıklama yaptı."
+    },
+    {
+      "title": "Galatasaray'dan transferde büyük ters köşe! Herkes Can Uzun derken...",
+      "summary": "Son şampiyon Galatasaray'da transfer çalışmaları tüm hızıyla sürüyor. 10 numara bölgesi için milli futbolcu Can Uzun'u gündemine alan Cimbom, Eintracht Frankfurt'un yüksek bonservis talebi sonrası alternatif...Devamı için tıklayınız",
+      "url": "https://www.aspor.com.tr/galatasaray/2026/06/12/galatasaraydan-transferde-buyuk-ters-kose-herkes-can-uzun-derken",
+      "image_url": "https://iaftm.tmgrup.com.tr/ef426c/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2026/06/12/1781239551256.jpeg",
+      "published": "2026-06-12T05:07:52",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-12T14:35:35.641880",
+      "priority_score": 44,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-12T14:36:52.160544",
+      "title_tr": "Galatasaray'dan transferde büyük ters köşe! Herkes Can Uzun derken...",
+      "summary_tr": "Son şampiyon Galatasaray'da transfer çalışmaları tüm hızıyla sürüyor. 10 numara bölgesi için milli futbolcu Can Uzun'u gündemine alan Cimbom, Eintracht Frankfurt'un yüksek bonservis talebi sonrası alternatif...Devamı için tıklayınız"
     },
     {
       "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
-      "summary": "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great c",
+      "summary": "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great ",
       "url": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup",
       "image_url": null,
       "published": "2026-06-12T11:00:43",
@@ -372,210 +572,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-12T11:35:05.861725",
-      "priority_score": 53,
+      "fetched_at": "2026-06-12T14:33:37.111854",
+      "priority_score": 43,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-06-12T11:38:32.469067",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Go Ahead zwaait Van der Ree uit, weg vrij voor eigen assistent van Oosting",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/go-ahead-zwaait-van-der-ree-uit-weg-vrij-voor-eigen-assistent-van-oosting",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-06-12T11:02:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:38:29.930474",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-12T11:38:33.087801",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Okan Buruk: Şampiyonluk Galatasaray için normalleşti",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, her sezon şampiyonluğu hedeflediklerini ve şampiyonluğun kendileri için normalleştiğini belirtti.",
-      "url": "https://www.cnnturk.com/spor/futbol/okan-buruk-sampiyonluk-galatasaray-icin-normallesti-3429939",
-      "image_url": null,
-      "published": "2026-06-12T11:05:14",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:37:02.231016",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-06-12T11:38:32.960374",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Revolutie bij Juventus na mislopen Champions League-miljoenen",
-      "summary": "De dramatische seizoensafloop blijft bij Juventus niet zonder gevolgen. Het mislopen van de Champions League heeft bij de gevallen Italiaanse grootmacht een revolutie ingeleid, die algemeen directeur Damien Comolli de kop kost. Sassuolo-directeur Giovanni Carnevali moet de wederopbouw inleiden.",
-      "url": "https://www.vi.nl/nieuws/revolutie-bij-juventus-na-mislopen-champions-league-miljoenen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/12/51edde59529c458b11c72a0f1038ab9bcdc53c5b.jpg?width=1200",
-      "published": "2026-06-12T10:43:14",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:38:29.930698",
-      "priority_score": 47,
-      "categories": [
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-06-12T11:38:33.129524",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bellingham: England got things wrong off the pitch at Euro 2024",
-      "summary": "Jude Bellingham has claimed things were not right off the pitch in England's camp at Euro 2024.",
-      "url": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024",
-      "image_url": "https://e2.365dm.com/24/07/1920x1080/skysports-gareth-southgate_6619292.jpg?20240706073043",
-      "published": "2026-06-12T11:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.699240",
-      "priority_score": 46,
-      "categories": [
-        "euros"
-      ],
-      "processed_at": "2026-06-12T11:38:32.436912",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Japan's Motomu steals the show with bizarre walk-on!",
-      "summary": "Motomu Sakai enters Japan's first World Cup fixture with a signature bizarre walk-on to kick start their tournament!",
-      "url": "https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-darts-world-cup_7271086.jpg?20260611190105",
-      "published": "2026-06-11T18:59:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.699509",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.445955",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Neville: England team is built around Kane - he's the only world-class talent",
-      "summary": "Gary Neville believes the England team has been built around Harry Kane, who he considers the only genuine world-class player in the squad.",
-      "url": "https://www.skysports.com/football/news/12040/13553281/world-cup-2026-england-team-is-built-around-harry-kane-hes-the-only-genuine-world-class-player-in-squad-says-gary-neville",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7271443.jpg?20260612103631",
-      "published": "2026-06-12T10:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:39.699574",
-      "priority_score": 46,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-06-12T11:38:32.449908",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
-      "summary": "With the World Cup under way, how excited are people across the United States - and do they even know it is on?",
-      "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-12T04:11:21",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:34:26.835047",
-      "priority_score": 45,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.411403",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "South Korea get off to winning start after rallying from goal down to beat Czechia",
-      "summary": "South Korea rallied from a goal down to defeat Czechia 2-1 and make a winning start to their World Cup Group A campaign, much to the delight of their fans and the sizable local Mexican support they enjoyed in a festive Guadalajara.South Korea joined Mexico on three points at the top of the group aft",
-      "url": "https://www.theguardian.com/football/2026/jun/12/south-korea-czechia-world-cup-2026-group-a-match-report",
-      "image_url": null,
-      "published": "2026-06-12T04:08:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:35:05.880729",
-      "priority_score": 43,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.505703",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Dzeko'dan çocuklara duygusal mektup",
-      "summary": "Bosna Hersek'in deneyimli futbolcusu Edin Dzeko, ülkesinin çocuklarına hitaben duygusal bir mektup yayımladı. 40 yaşındaki golcü mektupta yer alan mesajında, \"Bosna Hersek'teki sevgili çocuklar, sizin için bir mesajım var. Hiçbir şey imkansız değil. Hiçbir şey.\" ifadelerini kullandı.",
-      "url": "https://www.haberturk.com/dzeko-dan-bosna-hersekli-cocuklara-duygusal-mektup-3891157-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781254753/3891157/jpg/1280x1280",
-      "published": "2026-06-12T09:00:34",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:36:23.955756",
-      "priority_score": 43,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-12T11:38:32.582827",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Güney Kore'ye 'Oh' çektirdi!",
-      "summary": "Güney Kore, 2026 FIFA Dünya Kupası A Grubu'ndaki ilk maçında Çekya'yı geriden gelerek 2-1 mağlup etti. Asya ekibine galibiyeti getiren ikinci golü Beşiktaşlı Hyeon-gyu Oh kaydetti.",
-      "url": "https://www.haberturk.com/guney-kore-cekya-2-1-mac-sonucu-besiktasli-hyeon-gyu-oh-atti-guney-kore-dunya-kupasi-na-galibiyetle-basladi-3891090-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/12/ver1781247490/3891090/jpg/1280x1280",
-      "published": "2026-06-12T08:13:44",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-12T11:36:23.955967",
-      "priority_score": 43,
-      "categories": [
-        "match_results",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-12T11:38:32.595680",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.535823",
+      "title_tr": "Kimse Thomas Tuchel'in İngiltere ile yapabileceklerini küçümsememeli | Emma Hayes",
+      "summary_tr": "Cole Palmer'ı evde bırakmak beni şaşırttı ama Thomas'ı Chelsea'den tanıyorum; o kılıcıyla ölecek türden bir antrenör. Thomas Tuchel, İngiltere'de elit bir antrenör var. Onu küçümseme. Chelsea'de çalıştığım 12 yıl boyunca o ve Mauricio Pochettino en sevdiğim iki teknik direktördü. Thomas harika bir adam"
     },
     {
       "title": "Semih Kılıçsoy, Cagliari'ye veda etti!",
@@ -587,15 +591,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-12T11:36:23.956362",
+      "fetched_at": "2026-06-12T14:34:49.546056",
       "priority_score": 43,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-12T11:38:32.619327",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-12T14:36:51.717173",
+      "title_tr": "Semih Kılıçsoy, Cagliari'ye veda etti!",
+      "summary_tr": "Geçtiğimiz sezon Cagliari'de kiralık olarak forma giyen Semih Kılıçsoy, bonservisinin bulunduğu Beşiktaş'a dönecek olması nedeniyle İtalyan ekibi için veda mesajı yayınladı. Genç oyuncunun veda paylaşımında, \"Cagliari'de geçirdiğim bu sezon benim için çok değerliydi. Bu şehri, bu kulübü ve bana göst"
     }
   ]
 }
