@@ -1,66 +1,284 @@
 {
-  "timestamp": "2026-06-14T13:32:18.890201",
+  "timestamp": "2026-06-14T15:47:17.126838",
   "total_items": 30,
   "news": [
     {
-      "title": "McInnes agrees Rangers deal to replace Röhl",
-      "summary": "Derek McInnes has agreed a deal in principle to become the new Rangers boss.",
-      "url": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
-      "image_url": "https://e2.365dm.com/26/03/1920x1080/skysports-rohl-danny-hearts_7207158.jpg?20260330184238",
-      "published": "2026-06-14T07:55:00",
+      "title": "Trabzonspor'da Tsygankov'un alternatifi Zhegrova",
+      "summary": "Yeni sezon öncesi kadrosunu güçlendirmeye devam eden Trabzonspor, sağ kanat transferine öncelik veriyor. Bordo-mavililer, bu bölgeye takviye yapmak için çalışmalarını sürdürüyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/trabzonsporda-tsygankovun-alternatifi-zhegrova-3430586",
+      "image_url": null,
+      "published": "2026-06-14T17:07:02",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:44:21.083801",
+      "priority_score": 91,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-14T15:45:51.468786",
+      "title_tr": "Trabzonspor'da Tsygankov'un alternatifi Zhegrova",
+      "summary_tr": "Yeni sezon öncesi kadrosunu güçlendirmeye devam eden Trabzonspor, sağ kanat transferine öncelik veriyor. Bordo-mavililer, bu bölgeye takviye yapmak için çalışmalarını sürdürüyor."
+    },
+    {
+      "title": "Hamilton claims spectacular first Grand Prix win for Ferrari",
+      "summary": "Lewis Hamilton claimed his first race victory for Ferrari after an aggressive strategy paid off at the Barcelona-Catalunya Grand Prix as championship leader Kimi Antonelli dramatically retired late on.",
+      "url": "https://www.skysports.com/f1/news/12040/13553903/barcelona-catalunya-gp-lewis-hamilton-claims-first-grand-prix-win-for-ferrari-as-kimi-antonelli-retires-late-on",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-f1-lewis-hamilton_7273284.jpg?20260614161124",
+      "published": "2026-06-14T15:50:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.754970",
-      "priority_score": 66,
+      "fetched_at": "2026-06-14T15:42:02.321098",
+      "priority_score": 76,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-06-14T15:45:51.150563",
+      "title_tr": "Hamilton, Ferrari'nin ilk muhteşem Grand Prix zaferini elde etti",
+      "summary_tr": "Lewis Hamilton, Barselona-Katalunya Grand Prix'sinde agresif stratejisinin sonuç vermesinin ardından Ferrari adına ilk yarış zaferini elde etti ve şampiyona lideri Kimi Antonelli dramatik bir şekilde geç emekli oldu."
+    },
+    {
+      "title": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
+      "summary": "Irankunda and co have not yet earned golden generation status but they can revive Australia’s World Cup aspirationsThere always was a familiar feeling to this youthful squad of Socceroos. That sense of deja vu. That you had seen something like this before. But it took Nestory Irankunda running to th",
+      "url": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
+      "image_url": null,
+      "published": "2026-06-14T15:00:48",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:42:25.655361",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "premier_league"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.565578",
-      "title_tr": "McInnes, Röhl'ün yerine Rangers'la anlaşmayı kabul etti",
-      "summary_tr": "Derek McInnes, Rangers'ın yeni patronu olmak için prensipte anlaşmaya vardı."
+      "processed_at": "2026-06-14T15:45:51.191629",
+      "title_tr": "Genç Socceroos yeni ve heyecan verici bir şey sunuyor: 2006'daki gibi bir macera umudu",
+      "summary_tr": "Irankunda ve arkadaşları henüz altın nesil statüsünü kazanamadılar ancak Avustralya'nın Dünya Kupası hedeflerini canlandırabilirler. Socceroos'un bu genç kadrosunda her zaman tanıdık bir duygu vardı. Bu deja vu duygusu. Daha önce buna benzer bir şey görmüş olduğunuzu. Ama Nestory Irananunda'nın oraya koşması gerekti."
+    },
+    {
+      "title": "'City houdt Gvardiol uit handen van Real, Bayern gaat all-in om Olise te behouden'",
+      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/city-houdt-gvardiol-uit-handen-van-real-bayern-gaat-all-in-om-olise-te-behouden",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-06-14T15:16:41",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:45:47.120727",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-06-14T15:45:51.728321",
+      "title_tr": "'City, Gvardiol'u Real'in elinden uzak tutuyor, Bayern ise Olise'i korumak için elinden geleni yapıyor'",
+      "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Barcelona-Catalunya GP | Race Highlights",
+      "summary": "Highlights from the 2026 Barcelona-Catalunya Grand Prix.",
+      "url": "https://www.skysports.com/watch/video/13554035/barcelona-catalunya-gp-race-highlights",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-formula-one-barcelona_7273315.jpg?20260614163417",
+      "published": "2026-06-14T16:07:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:42:02.321154",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-06-14T15:45:51.151512",
+      "title_tr": "Barselona-Katalonya GP | Yarışın Önemli Noktaları",
+      "summary_tr": "2026 Barselona-Katalonya Grand Prix'sinden öne çıkanlar."
+    },
+    {
+      "title": "Why can't World Cup games kick off on time?",
+      "summary": "A delay to Scotland's Group C tie with Haiti in Massachusetts continued a noticeable trend of tardiness at the 2026 tournament, with none of the first eight matches kicking off on time.",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k5xyljn9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-14T15:11:27",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:41:49.859965",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-14T15:45:51.144028",
+      "title_tr": "Dünya Kupası maçları neden zamanında başlayamıyor?",
+      "summary_tr": "İskoçya'nın Massachusetts'teki Haiti ile C Grubu'ndaki beraberliğindeki gecikme, 2026 turnuvasında gözle görülür bir gecikme eğilimini sürdürdü ve ilk sekiz maçın hiçbiri zamanında başlamadı."
     },
     {
       "title": "World Cup 2026: England camp hit by tornado warning as Scotland reacts to first victory in 36 years – live",
       "summary": "News, buildup and reaction from North AmericaPlayer guide | Bracketology | Wallchart | Mail us hereHow Group D stands after the opening games…Group D also continued today, with Australia earning a 2-0 win over Turkey in Vancouver. You can recap the action below. Continue reading...",
       "url": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
       "image_url": null,
-      "published": "2026-06-14T13:15:31",
+      "published": "2026-06-14T15:18:58",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:30.153967",
+      "fetched_at": "2026-06-14T15:42:25.655102",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.588634",
+      "processed_at": "2026-06-14T15:45:51.187035",
       "title_tr": "2026 Dünya Kupası: İskoçya 36 yıl aradan sonra ilk zaferine tepki verirken İngiltere kampı kasırga uyarısıyla sarsıldı - canlı",
       "summary_tr": "Kuzey AmerikaOyuncu rehberinden haberler, gelişmeler ve tepkiler | Braketoloji | Duvar Tablosu | Bize buradan e-posta gönderin D Grubu açılış maçlarının ardından nasıl duruyor? D Grubu bugün de Avustralya'nın Vancouver'da Türkiye'yi 2-0 yenmesiyle devam etti. Aşağıdaki eylemi özetleyebilirsiniz. Okumaya devam edin..."
     },
     {
-      "title": "Women's T20 World Cup: India win toss and bat first vs Pakistan LIVE!",
+      "title": "Clinical Australia upset Turkey in World Cup opener",
+      "summary": "Watch highlights as Australia beat Turkey in their opening match, with 20-year-old Nestory Irankunda becoming the Socceroos's youngest ever World Cup goalscorer.",
+      "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-14T07:16:45",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:41:49.859742",
+      "priority_score": 55,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-14T15:45:51.142873",
+      "title_tr": "Klinik Avustralya, Dünya Kupası açılışında Türkiye'yi üzdü",
+      "summary_tr": "Avustralya'nın açılış maçında Türkiye'yi mağlup ettiği ve 20 yaşındaki Nestory Irankunda'nın Socceroos'un Dünya Kupası'ndaki en genç golcüsü olduğu maçın önemli anlarını izleyin."
+    },
+    {
+      "title": "Arda Turan'a, en iyi teknik direktör ödülü",
+      "summary": "Shakhtar Donetsk'i çalıştıran Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü ödülünü kazandı.",
+      "url": "https://www.cnnturk.com/spor/futbol/arda-turana-en-iyi-teknik-direktor-odulu-3430579",
+      "image_url": null,
+      "published": "2026-06-14T16:06:22",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:44:21.083913",
+      "priority_score": 51,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-06-14T15:45:51.475030",
+      "title_tr": "Arda Turan'a, en iyi teknik direktör ödülü",
+      "summary_tr": "Shakhtar Donetsk'i çalıştıran Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü ödülünü kazandı."
+    },
+    {
+      "title": "VI Live: opstelling Duitsland voor duel met Curaçao is binnen",
+      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Duitsland en Curaçao. In aanloop naar en vanaf de aftrap om 19.00 uur blijf je volledig op de hoogte van dit duel.",
+      "url": "https://www.vi.nl/nieuws/vi-live-advocaat-en-curacao-staan-direct-voor-clash-met-duitsland",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/12/968e256ef8ebbd8edd5622366c7f23d8373c316a.jpg?width=1200",
+      "published": "2026-06-14T15:41:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:45:47.120608",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-06-14T15:45:51.701455",
+      "title_tr": "VI Live: Almanya'nın Curaçao'ya karşı oynayacağı maç kadrosu belli oldu",
+      "summary_tr": "Voetbal International, Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında 104 maçın tamamını kendi VI Live'ında takip edecek. Bu edisyonda tüm dikkat Almanya ve Curaçao'ya odaklanmıştır. Saat 19:00'daki başlama vuruşuna kadar ve sonrasında. Bu maç hakkında tam olarak bilgi sahibi olacaksınız."
+    },
+    {
+      "title": "Dursun Özbek: 'Avrupa'da Galatasaray diasporasını kurmaya çalışıyoruz!'",
+      "summary": "Galatasaray’ın 26. şampiyonluğu Brüksel'deki etkinlikte kutlandı",
+      "url": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-avrupada-galatasaray-diasporasini-kurmaya-calisiyoruz-43205082",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2e9d760a40645c63b3ab5d.jpg",
+      "published": "2026-06-14T12:33:29",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:43:57.766239",
+      "priority_score": 41,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-06-14T15:45:51.314892",
+      "title_tr": "Dursun Özbek: 'Avrupa'da Galatasaray diasporasını kurmaya çalışıyoruz!'",
+      "summary_tr": "Galatasaray’ın 26. şampiyonluğu Brüksel'deki etkinlikte kutlandı"
+    },
+    {
+      "title": "Kewell'dan Avustralya-Türkiye maçı sonrası gönderme: Cevap sahada verilir, bu gece susturdu!",
+      "summary": "Dünya Kupası D Grubu'nda Türkiye'nin favori gösterildiği ancak 2-0 mağlup olduğu Avustralya karşılaşması sonrası, eski Galatasaraylı Kewell yorumda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/kewelldan-avustralya-turkiye-maci-sonrasi-gonderme-cevap-sahada-verilir-bu-gece-susturdu-43204977",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2e86a72f7e003fbb8a9239.jpg",
+      "published": "2026-06-14T10:48:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:43:57.766455",
+      "priority_score": 41,
+      "categories": [
+        "super_lig",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-14T15:45:51.333380",
+      "title_tr": "Kewell'dan Avustralya-Türkiye maçı sonrası gönderme: Cevap sahada verilir, bu gece susturdu!",
+      "summary_tr": "Dünya Kupası D Grubu'nda Türkiye'nin favori gösterildiği ancak 2-0 mağlup olduğu Avustralya karşılaşması sonrası, eski Galatasaraylı Kewell yorumda bulundu."
+    },
+    {
+      "title": "Barcelona GP: Reaction to Hamilton's first Ferrari win in British 1-2-3 LIVE!",
       "summary": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553910/icc-womens-t20-world-cup-live-india-vs-pakistan-score-updates-video-and-analysis-from-edgbaston",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-cricket-womens-t20-world-cup_7270087.jpg?20260610150809",
-      "published": "2026-06-14T13:50:00",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-f1-lewis-hamilton_7273243.jpg?20260614155015",
+      "published": "2026-06-14T12:20:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.754382",
-      "priority_score": 61,
+      "fetched_at": "2026-06-14T15:42:02.321376",
+      "priority_score": 66,
       "categories": [
         "breaking_news",
-        "world_cup"
+        "la_liga"
       ],
-      "processed_at": "2026-06-14T13:30:50.543638",
-      "title_tr": "Kadınlar T20 Dünya Kupası: Hindistan, Pakistan'a karşı ilk olarak kura ve vuruşu kazandı CANLI!",
+      "processed_at": "2026-06-14T15:45:51.166531",
+      "title_tr": "Barselona GP: Hamilton'ın Britanya 1-2-3'teki ilk Ferrari galibiyetine tepki CANLI!",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+    },
+    {
+      "title": "Beşiktaş'ta gözler Ersin Destanoğlu'nda",
+      "summary": "Beşiktaş’ta kaleci transferi öncelikli gündem maddeleri arasında yer alıyor. Yönetim, teknik heyetin raporu doğrultusunda kaleci takviyesini yaz kampı başlamadan tamamlamayı hedefliyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/besiktasta-gozler-ersin-destanoglunda-43205195",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2ebabb0a40645c63b3ac17.jpg",
+      "published": "2026-06-14T14:30:25",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:43:57.766139",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-14T15:45:51.302181",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Sassuolo'dan ayrılıyor! Beşiktaş'ın hedefi: Lauriente",
@@ -72,13 +290,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-14T13:29:19.976184",
+      "fetched_at": "2026-06-14T15:44:21.084263",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-14T13:30:51.040396",
+      "processed_at": "2026-06-14T15:45:51.496779",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -92,169 +310,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-14T13:26:54.201946",
+      "fetched_at": "2026-06-14T15:41:49.858835",
       "priority_score": 55,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.530392",
+      "processed_at": "2026-06-14T15:45:51.140497",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Clinical Australia upset Turkey in World Cup opener",
-      "summary": "Watch highlights as Australia beat Turkey in their opening match, with 20-year-old Nestory Irankunda becoming the Socceroos's youngest ever World Cup goalscorer.",
-      "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-14T07:16:45",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:26:54.203007",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-14T13:30:50.533243",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü seçildi!",
-      "summary": "Shakhtar Donetsk'i çalıştıran Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü ödülünü kazandı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/arda-turan-ukrayna-premier-ligde-yilin-teknik-direktoru-secildi-43205115",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2ea5060a40645c63b3abf1.jpg",
-      "published": "2026-06-14T12:57:50",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:28:57.994996",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-14T13:30:50.791149",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Dursun Özbek: 'Avrupa'da Galatasaray diasporasını kurmaya çalışıyoruz!'",
-      "summary": "Galatasaray’ın 26. şampiyonluğu Brüksel'deki etkinlikte kutlandı",
-      "url": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-avrupada-galatasaray-diasporasini-kurmaya-calisiyoruz-43205082",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2e9d760a40645c63b3ab5d.jpg",
-      "published": "2026-06-14T12:33:29",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:28:57.995076",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-06-14T13:30:50.800263",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arda Turan'a, en iyi teknik direktör ödülü",
-      "summary": "Shakhtar Donetsk'i çalıştıran Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü ödülünü kazandı.",
-      "url": "https://www.cnnturk.com/spor/futbol/arda-turana-en-iyi-teknik-direktor-odulu-3430579",
-      "image_url": null,
-      "published": "2026-06-14T16:06:22",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:29:19.975596",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-14T13:30:51.011677",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "VI Live: Curaçao leeft toe naar Duitsland: 'Small island, big dreams'",
-      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Duitsland en Curaçao. In aanloop naar en vanaf de aftrap om 19.00 uur blijf je volledig op de hoogte van dit duel.",
-      "url": "https://www.vi.nl/nieuws/vi-live-advocaat-en-curacao-staan-direct-voor-clash-met-duitsland",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/12/968e256ef8ebbd8edd5622366c7f23d8373c316a.jpg?width=1200",
-      "published": "2026-06-14T13:15:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:30:46.639145",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-14T13:30:51.188208",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Portugal eert Jota op WK met speciale polsbandjes",
-      "summary": "De Portugese selectie zal tijdens het WK spelen met speciale polsbandjes ter nagedachtenis aan Diogo Jota. De voormalig international kwam vorig jaar samen met zijn broer om het leven bij een auto-ongeluk in het noordwesten van Spanje en zal nooit vergeten worden.",
-      "url": "https://www.vi.nl/nieuws/portugal-eert-jota-op-wk-met-speciale-polsbandjes",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/14/f82a28f401bf42a6d2bbb714bf2542e1b26a1b48.jpg?width=1200",
-      "published": "2026-06-14T13:01:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:30:46.639294",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-14T13:30:51.210997",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
-      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at allIt was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of George Bush airport on T",
-      "url": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
-      "image_url": null,
-      "published": "2026-06-14T04:00:32",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:27:30.157871",
-      "priority_score": 43,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-14T13:30:50.627596",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Raducanu loses first set to love in Queen's final vs Vekic LIVE!",
-      "summary": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13553767/emma-raducanu-vs-donna-vekic-queens-womens-singles-final-updates-and-analysis",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-emma-raducanu-queens_7273090.jpg?20260614131005",
-      "published": "2026-06-14T13:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.754406",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-14T13:30:50.545658",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
@@ -266,13 +330,32 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-14T13:26:54.202187",
+      "fetched_at": "2026-06-14T15:41:49.859046",
       "priority_score": 55,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.530765",
+      "processed_at": "2026-06-14T15:45:51.140788",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'What timing!' - Hamilton capitalises on virtual safety car to take lead!",
+      "summary": "Lewis Hamilton takes the outright lead of the Barcelona-Catalunya GP, benefitting from a virtual safety car after Fernando Alonso crashed out.",
+      "url": "https://www.skysports.com/watch/video/13553998/barcelona-catalunya-gp-lewis-hamilton-capitalizes-on-virtual-safety-car-to-take-lead",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-lewis-hamitn_7273197.jpg?20260614152637",
+      "published": "2026-06-14T15:20:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:42:02.321303",
+      "priority_score": 51,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-06-14T15:45:51.157494",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -286,12 +369,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.754744",
+      "fetched_at": "2026-06-14T15:42:02.321533",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-06-14T13:30:50.558190",
+      "processed_at": "2026-06-14T15:45:51.174145",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -305,32 +388,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-14T13:29:19.976378",
+      "fetched_at": "2026-06-14T15:44:21.084408",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-06-14T13:30:51.055412",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Türkiye, Dünya Kupası'nda 2006'dan sonra bir ilki gerçekleştirdi",
-      "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası D Grubu ilk maçında Avustralya’ya 2-0’lık skorla mağlup oldu. Ay-Yıldızlılar, turnuvaya istenmeyen bir başlangıç yaptı. Maçın ardından ilginç bir istatistik ön plana çıktı.",
-      "url": "https://www.cnnturk.com/spor/dunya-kupasi/turkiye-dunya-kupasinda-2006dan-sonra-bir-ilki-gerceklestirdi-3430492",
-      "image_url": null,
-      "published": "2026-06-14T13:16:29",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:29:19.976903",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-14T13:30:51.082230",
+      "processed_at": "2026-06-14T15:45:51.508363",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -344,33 +407,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-14T13:26:54.202800",
+      "fetched_at": "2026-06-14T15:41:49.859621",
       "priority_score": 50,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.532467",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-14T09:00:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:26:54.203226",
-      "priority_score": 50,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-14T13:30:50.534090",
+      "processed_at": "2026-06-14T15:45:51.142283",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -384,32 +427,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:30.158888",
+      "fetched_at": "2026-06-14T15:42:25.658833",
       "priority_score": 48,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.647520",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "VI Live: Sangaré met Ivoorkust tegen Ecuador",
-      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Ivoorkust en Ecuador. In aanloop naar en vanaf de aftrap om 01.00 uur blijf je volledig op de hoogte van dit duel.",
-      "url": "https://www.vi.nl/nieuws/vi-live-sangare-met-ivoorkust-tegen-ecuador",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/14/b6e3159253ee8c73b8c778a6b75ab5dca4c3d4bb.jpg?width=1200",
-      "published": "2026-06-14T13:00:27",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:30:46.639433",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-14T13:30:51.229201",
+      "processed_at": "2026-06-14T15:45:51.235296",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -423,51 +447,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.754647",
+      "fetched_at": "2026-06-14T15:42:02.321465",
       "priority_score": 46,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-14T13:30:50.556202",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Knicks crowned NBA champions for first time in 53 years",
-      "summary": "The New York Knicks are the NBA champions for the first time in 53 years after another comeback victory over the San Antonio Spurs.",
-      "url": "https://www.skysports.com/nba/news/12040/13553860/nba-finals-new-york-knicks-crowned-champions-for-first-time-in-53-years-after-victory-over-san-antonio-spurs-in-game-5",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-new-york-knicks-nba-finals_7272886.jpg?20260614063821",
-      "published": "2026-06-14T06:32:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:27:03.755297",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-14T13:30:50.579118",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Boualem Khoukhi's late header earns Qatar a historic draw against Switzerland",
-      "summary": "Qatar and Switzerland drew 1-1 in their FIFA World Cup 2026 Group B opener. Breel Embolo's penalty gave Switzerland the lead, but Boualem Khoukhi's late header earned Qatar a dramatic point in Santa Clara - their first ever in the competition.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/qatar-switzerland-world-cup-draw-boualem-khoukhi-san-francisco-37809",
-      "image_url": null,
-      "published": "2026-06-13T21:11:35",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:27:56.137665",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-14T13:30:50.683581",
+      "processed_at": "2026-06-14T15:45:51.172188",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -481,13 +466,53 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-14T13:28:57.995530",
+      "fetched_at": "2026-06-14T15:43:57.766544",
       "priority_score": 46,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-14T13:30:50.838756",
+      "processed_at": "2026-06-14T15:45:51.342833",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-14T09:00:08",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:41:49.859858",
+      "priority_score": 45,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-14T15:45:51.143546",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at allIt was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of George Bush airport on T",
+      "url": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
+      "image_url": null,
+      "published": "2026-06-14T04:00:32",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:42:25.658151",
+      "priority_score": 43,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-14T15:45:51.219343",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -501,90 +526,71 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-14T13:27:30.158246",
+      "fetched_at": "2026-06-14T15:42:25.658405",
       "priority_score": 43,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.635402",
+      "processed_at": "2026-06-14T15:45:51.225669",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Kanada'da Milli Takım'a şok!",
-      "summary": "A Milli Futbol Takımımız, 2026 Dünya Kupası'ndaki ilk maçında Avustralya'ya 2-0 mağlup oldu. Kanada'nın Vancouver şehrinde oynanan mücadelede daha çok gol arayan taraf ay-yıldızlılar olmasına rağmen Kangurular, Irankunda ve Metcalfe'ın golleriyle üç puanı kaptı. Bizim Çocuklar, D Grubu'ndaki ikinci ",
-      "url": "https://www.haberturk.com/avustralya-turkiye-2-0-mac-sonucu-a-milli-takim-2026-dunya-kupasi-na-maglubiyetle-basladi-turkiye-av-3891498-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/14/ver1781416701/3891498/jpg/1280x1280",
-      "published": "2026-06-14T09:23:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü seçildi!",
+      "summary": "Shakhtar Donetsk'i çalıştıran Arda Turan, Ukrayna Premier Lig'de yılın teknik direktörü ödülünü kazandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/arda-turan-ukrayna-premier-ligde-yilin-teknik-direktoru-secildi-43205115",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2ea5060a40645c63b3abf1.jpg",
+      "published": "2026-06-14T12:57:50",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-14T13:28:47.987987",
-      "priority_score": 43,
+      "fetched_at": "2026-06-14T15:43:57.766192",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-06-14T15:45:51.308492",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'dan Davinson Sanchez kararı!",
+      "summary": "Galatasaray'da yeni sezon planlamaları sürerken, Davinson Sanchez için karar verildi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-davinson-sanchez-karari-43204952",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a2e80db0a40645c63b3aaa3.jpg",
+      "published": "2026-06-14T10:25:02",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:43:57.766498",
+      "priority_score": 41,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-06-14T15:45:51.337629",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Türkiye, Dünya Kupası'nda 2006'dan sonra bir ilki gerçekleştirdi",
+      "summary": "A Milli Futbol Takımı, 2026 FIFA Dünya Kupası D Grubu ilk maçında Avustralya’ya 2-0’lık skorla mağlup oldu. Ay-Yıldızlılar, turnuvaya istenmeyen bir başlangıç yaptı. Maçın ardından ilginç bir istatistik ön plana çıktı.",
+      "url": "https://www.cnnturk.com/spor/dunya-kupasi/turkiye-dunya-kupasinda-2006dan-sonra-bir-ilki-gerceklestirdi-3430492",
+      "image_url": null,
+      "published": "2026-06-14T13:16:29",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-14T15:44:21.084730",
+      "priority_score": 41,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-14T13:30:50.733333",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "\"Çalıştığımız yerden gol yedik\"",
-      "summary": "Milli futbolcu Abdülkerim Bardakcı, 2-0'lık Avustralya maçının ardından açıklamalarda bulundu. Sonuç nedeniyle çok üzgün olduklarını belirten Abdülkerim, \"Çalışmıştık ama çalıştığımız yerden gol yedik. Ama bunlar futbolun içinde var. Biz çok iyi bir takımız, çok yetenekli oyuncularımız var. Önümüzde",
-      "url": "https://www.haberturk.com/abdulkerim-bardakci-calistigimiz-yerden-gol-yedik-3891558-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/14/ver1781428814/3891558/jpg/1280x1280",
-      "published": "2026-06-14T09:20:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:28:47.988063",
-      "priority_score": 43,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-14T13:30:50.737047",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Rondje WK: de ideale voorbeschouwing op Nederland - Japan",
-      "summary": "Het is een geweldige zondag met heerlijke wedstrijden, maar het is vooral de dag van het eerste duel van Oranje op het WK. In een nieuwe aflevering van Rondje WK blikken we uitgebreid vooruit op Nederland - Japan met hoofdredacteur Pieter Zwart en kenner buitenlands voetbal Bas van den Hoven. Uitera",
-      "url": "https://www.vi.nl/pro/rondje-wk-de-ideale-voorbeschouwing-op-nederland-japan",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/14/8b40d9e87aef6e713e9422e25485a27d6d891b85.jpg?width=1200",
-      "published": "2026-06-14T12:00:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:30:46.639769",
-      "priority_score": 42,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-14T13:30:51.299194",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Heracles Almelo haalt linksback op bij Schalke 04",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/go-ahead-zwaait-van-der-ree-uit-weg-vrij-voor-eigen-assistent-van-oosting",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-06-14T11:09:29",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-14T13:30:46.639995",
-      "priority_score": 42,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-14T13:30:51.338954",
+      "processed_at": "2026-06-14T15:45:51.529052",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
