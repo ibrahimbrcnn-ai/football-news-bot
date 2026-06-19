@@ -1,28 +1,47 @@
 {
-  "timestamp": "2026-06-19T00:25:09.415324",
+  "timestamp": "2026-06-19T06:13:17.310964",
   "total_items": 30,
   "news": [
     {
-      "title": "Bayern Munich top club chart for most World Cup goals",
-      "summary": "Harry Kane's brace and Luis Díaz's first FIFA World Cup strike now mean Bayern Munich players have scored 83 goals throughout the history of the global tournament. No other club in the world can match that total, which you would expect to rise even further during the rest of 2026’s edition in Canada",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-top-club-chart-for-most-world-cup-goals-real-madrid-barcelona-37841",
+      "title": "Social sensation Payne signs deal with Olimpia",
+      "summary": "New Zealand defender Tim Payne, who achieved viral fame after being singled out by a soccer influencer ahead of the World Cup, has confirmed he will play for Club Olimpia in Paraguay.",
+      "url": "https://www.espn.com/soccer/story/_/id/49112651/new-zealand-social-sensation-payne-signs-deal-olimpia",
       "image_url": null,
-      "published": "2026-06-18T05:50:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:40.015601",
+      "fetched_at": "2026-06-19T06:07:35.794241",
       "priority_score": 100,
       "categories": [
-        "match_results",
+        "transfers",
         "breaking_news",
-        "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-06-19T00:23:34.074999",
-      "title_tr": "Bayern Münih, Dünya Kupası'nda en çok gol atan kulüp listesi",
-      "summary_tr": "Harry Kane'in desteği ve Luis Díaz'ın FIFA Dünya Kupası'ndaki ilk golü, artık Bayern Münih oyuncularının küresel turnuva tarihi boyunca 83 gol attığı anlamına geliyor. Dünyadaki başka hiçbir kulüp bu toplamla eşleşemez; Kanada'da 2026'nın geri kalanında bu rakamın daha da yükselmesini beklersiniz"
+      "processed_at": "2026-06-19T06:11:45.697095",
+      "title_tr": "Sosyal fenomen Payne, Olimpia ile anlaşma imzaladı",
+      "summary_tr": "Dünya Kupası öncesinde futbolu etkileyen bir isim tarafından seçilerek viral bir üne kavuşan Yeni Zelandalı savunma oyuncusu Tim Payne, Paraguay'daki Club Olimpia'da oynayacağını doğruladı."
+    },
+    {
+      "title": "Messi's family confirm father has health issue",
+      "summary": "The family of Lionel Messi confirmed on Thursday that the Argentina star's father, Jorge Messi, is currently experiencing a health issue.",
+      "url": "https://www.espn.com/soccer/story/_/id/49108360/argentina-star-lionel-messi-family-confirm-father-jorge-health-issue",
+      "image_url": null,
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:35.794009",
+      "priority_score": 95,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-19T06:11:45.696338",
+      "title_tr": "Messi'nin ailesi babasının sağlık sorununun olduğunu doğruladı",
+      "summary_tr": "Lionel Messi'nin ailesi Perşembe günü Arjantinli yıldızın babası Jorge Messi'nin şu anda bir sağlık sorunu yaşadığını doğruladı."
     },
     {
       "title": "Fenerbahçe, Vedat Muriqi transferini açıkladı! Kosovalı golcü İstanbul'a geldi",
@@ -34,16 +53,162 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:21:40.041826",
-      "priority_score": 81,
+      "fetched_at": "2026-06-19T06:09:48.594412",
+      "priority_score": 76,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-19T00:23:34.166564",
+      "processed_at": "2026-06-19T06:11:46.171710",
       "title_tr": "Fenerbahçe, Vedat Muriqi transferini açıkladı! Kosovalı golcü İstanbul'a geldi",
       "summary_tr": "Fenerbahçe, anlaşmaya vardığı Vedat Muriqi'nin İstanbul'a geldi. Kosovalı golcü, sağlık kontrollerinin ardından resmi imzayı atacak."
+    },
+    {
+      "title": "‘Talisman’ McTominay has the motivation to make impact on World Cup",
+      "summary": "Steve Clarke highlights squad mentality before Morocco game but Napoli midfielder stands out with his goalsIt is a conversation in Milan that should resonate in Massachusetts. Italy’s failure to qualify for another World Cup has triggered harsh assessment of Serie A, including why there is a shortag",
+      "url": "https://www.theguardian.com/football/2026/jun/18/talisman-mctominay-has-the-motivation-to-make-impact-on-world-cup",
+      "image_url": null,
+      "published": "2026-06-18T18:10:59",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:08:19.844833",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.860908",
+      "title_tr": "'Tılsım' McTominay, Dünya Kupası'nda etki yaratacak motivasyona sahip",
+      "summary_tr": "Steve Clarke, Fas maçı öncesinde takım zihniyetini öne çıkarıyor ancak Napoli orta saha oyuncusu golleriyle öne çıkıyor. Bu, Milan'da Massachusetts'te de yankı bulması gereken bir konuşma. İtalya'nın başka bir Dünya Kupası'na katılamaması, Serie A'nın neden eksiklik olduğu da dahil olmak üzere sert değerlendirmelerini tetikledi"
+    },
+    {
+      "title": "A day of tears, scuffles & history as injury mars Canada's moment",
+      "summary": "Canada's first-ever win at a World Cup finals should have been cause for pure joy - but was overshadowed by a horrific injury to Ismael Kone, and the angry and emotional scenes that followed.",
+      "url": "https://www.bbc.com/sport/football/articles/cly7r1zjmmlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-19T03:34:23",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:42.660733",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.705906",
+      "title_tr": "Gözyaşları, kavgalar ve tarihle dolu bir gün, yaralanmaların Kanada'nın anını gölgede bırakmasına neden oldu",
+      "summary_tr": "Kanada'nın Dünya Kupası finallerindeki ilk galibiyeti saf bir sevinç kaynağı olmalıydı ancak Ismael Kone'nin korkunç sakatlığı ve ardından gelen öfkeli ve duygusal sahneler bu sevinci gölgede bıraktı."
+    },
+    {
+      "title": "Canada score six but historic win marred by Kone injury",
+      "summary": "Ismael Kone's serious-looking injury left Canada manager Jesse Marsch in tears and overshadowed their first-ever World Cup finals win as they thrashed nine-man Qatar 6-0.",
+      "url": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-19T01:58:33",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:42.661188",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.711009",
+      "title_tr": "Kanada altı puan aldı ancak tarihi galibiyet Kone'nin sakatlığıyla gölgelendi",
+      "summary_tr": "Ismael Kone'nin ciddi görünen sakatlığı Kanadalı teknik direktör Jesse Marsch'ı gözyaşlarına boğdu ve dokuz kişilik Katar'ı 6-0 yendikleri maçta ilk Dünya Kupası final galibiyetini gölgede bıraktı."
+    },
+    {
+      "title": "Canada rout nine-man Qatar but Koné injury sours first-ever World Cup win",
+      "summary": "At full strength, Canada can go toe-to-toe with any opponent in the Americas. After steady climbs up the Concacaf charts and a credible run to the 2024 Copa América semi-final, all hope was that a talented squad could find their stride at a home World Cup.That belief came to life on Thursday, as Jes",
+      "url": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report",
+      "image_url": null,
+      "published": "2026-06-19T00:20:03",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:08:19.841047",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.791175",
+      "title_tr": "Kanada dokuz kişilik Katar'ı mağlup etti ancak Koné'nin sakatlığı ilk Dünya Kupası galibiyetini bozdu",
+      "summary_tr": "Kanada, tam gücüyle Amerika'daki herhangi bir rakiple karşı karşıya gelebilir. Concacaf listelerinde istikrarlı bir yükselişin ve 2024 Copa América yarı finaline doğru güvenilir bir koşunun ardından, tüm umutlar yetenekli bir takımın kendi evinde Dünya Kupası'nda ilerleme kaydedebileceği yönündeydi. Bu inanç Perşembe günü Jes'in ortaya çıkmasıyla hayata geçti."
+    },
+    {
+      "title": "Harry Kane and Luis Díaz lead Bundesliga goalscorers at FIFA World Cup 2026",
+      "summary": "Harry Kane, Luis Díaz, Jamal Musiala and Gio Reyna are among the 11 Bundesliga-based players to have scored a goal so far at the FIFA World Cup 2026. Get a full breakdown of all the scorers and how they got their goals here throughout the tournament.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/goalscorers-2026-world-cup-kane-diaz-olise-musiala-undav-reyna-37883",
+      "image_url": null,
+      "published": "2026-06-18T10:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:08:43.228678",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "bundesliga",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.980538",
+      "title_tr": "Harry Kane ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
+      "summary_tr": "Harry Kane, Luis Díaz, Jamal Musiala ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 11 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
+    },
+    {
+      "title": "Dünya Kupası'nda gece seansında çılgın maç! 2 kırmızı kart, ağır sakatlık ve 6 gol",
+      "summary": "Kanada, 2026 FIFA Dünya Kupası B grubu ikinci maçında Katar'ı 6-0 mağlup etti.Kanada'ya galibiyeti getiren golleri; 16....",
+      "url": "https://www.yenisafak.com/spor/dunya-kupasinda-gece-seansinda-cilgin-mac-2-kirmizi-kart-agir-sakatlik-ve-6-gol-4833810",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/6/19/19f98b21-dunya-kupasinda-gece-seansinda-cilgin-mac-2-kirmizi-kart-agir-sakatlik-ve-6-gol.webp",
+      "published": "2026-06-19T07:55:58",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:11:04.705443",
+      "priority_score": 57,
+      "categories": [
+        "match_results",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:46.505505",
+      "title_tr": "Dünya Kupası'nda gece seansında çılgın maç! 2 kırmızı kart, ağır sakatlık ve 6 gol",
+      "summary_tr": "Kanada, 2026 FIFA Dünya Kupası B grubu ikinci maçında Katar'ı 6-0 mağlup etti.Kanada'ya galibiyeti getiren golleri; 16...."
+    },
+    {
+      "title": "Pulisic still training solo a day before U.S. game...",
+      "summary": "U.S. manager Maurico Pochettino said star attacker Christian Pulisic is \"much better'\" in terms of the injury to his left calf but will be assessed by the medical staff Thursday night to determine his availability to play against Australia on Friday.",
+      "url": "https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status",
+      "image_url": null,
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:35.793741",
+      "priority_score": 80,
+      "categories": [
+        "transfers",
+        "injuries"
+      ],
+      "processed_at": "2026-06-19T06:11:45.695253",
+      "title_tr": "Pulisic, ABD maçından bir gün önce hâlâ tek başına antrenman yapıyor...",
+      "summary_tr": "ABD'li teknik direktör Maurico Pochettino, yıldız hücum oyuncusu Christian Pulisic'in sol baldırındaki sakatlık açısından \"çok daha iyi\" olduğunu ancak Cuma günü Avustralya'ya karşı oynamaya uygun olup olmadığının belirlenmesi için Perşembe gecesi sağlık personeli tarafından değerlendirileceğini söyledi."
     },
     {
       "title": "Fenerbahçe ilk transferini resmen açıkladı!",
@@ -55,14 +220,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:22:53.143853",
+      "fetched_at": "2026-06-19T06:11:04.707382",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-19T00:23:34.591267",
+      "processed_at": "2026-06-19T06:11:46.538343",
       "title_tr": "Fenerbahçe ilk transferini resmen açıkladı!",
       "summary_tr": "Süper Lig'de transfer perdesi dev bir hamleyle açılıyor. Türk futbolseverlerin yakından tanıdığı Kosovalı golcü Vedat M..."
     },
@@ -76,95 +241,76 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:22:53.152704",
+      "fetched_at": "2026-06-19T06:11:04.714436",
       "priority_score": 72,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-06-19T00:23:34.738914",
+      "processed_at": "2026-06-19T06:11:46.696202",
       "title_tr": "Real Madrid'den bir transfer daha! Resmen duyurdu",
       "summary_tr": "Kulüpten yapılan açıklamada, 27 yaşındaki stoper ile 30 Haziran 2030'a kadar sözleşme imzalandığı belirtildi.Konate, Li..."
     },
     {
-      "title": "‘Talisman’ McTominay has the motivation to make impact on World Cup",
-      "summary": "Steve Clarke highlights squad mentality before Morocco game but Napoli midfielder stands out with his goalsIt is a conversation in Milan that should resonate in Massachusetts. Italy’s failure to qualify for another World Cup has triggered harsh assessment of Serie A, including why there is a shortag",
-      "url": "https://www.theguardian.com/football/2026/jun/18/talisman-mctominay-has-the-motivation-to-make-impact-on-world-cup",
+      "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
+      "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a",
       "image_url": null,
-      "published": "2026-06-18T18:10:59",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.748263",
-      "priority_score": 68,
+      "fetched_at": "2026-06-19T06:07:35.793174",
+      "priority_score": 65,
       "categories": [
-        "match_results",
-        "serie_a",
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-19T00:23:33.978190",
-      "title_tr": "'Tılsım' McTominay, Dünya Kupası'nda etki yaratacak motivasyona sahip",
-      "summary_tr": "Steve Clarke, Fas maçı öncesinde takım zihniyetini öne çıkarıyor ancak Napoli orta saha oyuncusu golleriyle öne çıkıyor. Bu, Milan'da Massachusetts'te de yankı bulması gereken bir konuşma. İtalya'nın başka bir Dünya Kupası'na katılamaması, Serie A'nın neden eksiklik olduğu da dahil olmak üzere sert değerlendirmelerini tetikledi"
+      "processed_at": "2026-06-19T06:11:45.694124",
+      "title_tr": "Kore GK gafıyla Meksika'nın A Grubunda 1. sıraya yükselmesine yardımcı oldu",
+      "summary_tr": "Meksika, Güney Kore'nin savunma hatasından yararlanarak Perşembe günü 1-0 kazandı ve FIFA Dünya Kupası'nda eleme aşamasına yükselen ilk takım oldu."
     },
     {
-      "title": "Ghana score late winner to break Panama hearts",
-      "summary": "Ghana's Caleb Yirenkyi scored a 95th-minute winner to deny Panama their first-ever World Cup point in Toronto, Canada.",
-      "url": "https://www.bbc.com/sport/football/videos/cvgm3qql8lqo?at_medium=RSS&at_campaign=rss",
+      "title": "Aguirre relishes Azteca return after Group A win",
+      "summary": "Mexico beat South Korea 1-0 to become the first team to advance to the World Cup knockout stage, securing the top spot in Group A and a dream Round of 32 match at the Estadio Azteca.",
+      "url": "https://www.espn.com/soccer/story/_/id/49114368/aguirre-relishes-azteca-knockout-matches-mexico-win-group-a",
       "image_url": null,
-      "published": "2026-06-18T03:29:02",
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:35.793579",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.694761",
+      "title_tr": "Aguirre, A Grubu galibiyetinin ardından Azteca'nın dönüşünün tadını çıkarıyor",
+      "summary_tr": "Meksika, Güney Kore'yi 1-0 yenerek Dünya Kupası eleme aşamasına yükselen ilk takım oldu, A Grubu'nda en üst sırayı garantiledi ve Estadio Azteca'da rüya gibi bir 32. Tur maçına çıktı."
+    },
+    {
+      "title": "Arsenal's first bid for Monga rejected - Friday's gossip",
+      "summary": "Arsenal's opening bid for Jeremy Monga rejected by Leicester, Gunners also preparing bid for Bradley Barcola, RB Leipzig make contact with Everton over Barry.",
+      "url": "https://www.bbc.com/sport/football/articles/c3ey5155309o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-18T21:44:35",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-19T00:19:42.280656",
+      "fetched_at": "2026-06-19T06:07:42.662495",
       "priority_score": 65,
       "categories": [
-        "match_results",
         "breaking_news",
-        "world_cup"
+        "premier_league",
+        "bundesliga"
       ],
-      "processed_at": "2026-06-19T00:23:33.891032",
-      "title_tr": "Gana geç gol atarak Panama'nın kalbini kırdı",
-      "summary_tr": "Gana'lı Caleb Yirenkyi, 95. dakikada attığı golle Panama'nın Kanada'nın Toronto kentindeki ilk Dünya Kupası puanını almasını engelledi."
-    },
-    {
-      "title": "VI Live: voormalig Ajacieden staan tegenover Feyenoorder Hwang",
-      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Mexico en Zuid-Korea. In aanloop naar en vanaf de aftrap om 03.00 uur blijf je volledig op de hoogte van dit duel.",
-      "url": "https://www.vi.nl/nieuws/vi-live-mexico-en-zuid-korea-strijden-om-koppositie-in-groep-a",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/038917b7cbce6a36a13fa846195297655f1ed6cd.jpg?width=1200",
-      "published": "2026-06-19T00:16:45",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:23:30.059630",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-19T00:23:34.822172",
-      "title_tr": "VI Live: Eski Ajax oyuncuları Feyenoord oyuncusu Hwang ile karşılaşıyor",
-      "summary_tr": "Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında Voetbal International, 104 maçın tamamını kendi VI Live'ında takip edecek. Bu baskı Meksika ve Güney Kore'ye odaklanıyor. Saat 03:00'teki başlama vuruşuna kadar olan süreçte, bu maç hakkında tam olarak bilgi sahibi olacaksınız."
-    },
-    {
-      "title": "Canada schrijft historie met eerste WK-zege ooit",
-      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Canada en Qatar. In aanloop naar en vanaf de aftrap om 00.00 uur blijf je volledig op de hoogte van dit duel.",
-      "url": "https://www.vi.nl/nieuws/vi-live-canada-en-qatar-jagen-op-eerste-wk-zege",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/af6c63b827bad41536761098f50ae1dedbf238d2.jpg?width=1200",
-      "published": "2026-06-19T00:10:17",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:23:30.059710",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-19T00:23:34.834331",
-      "title_tr": "Kanada ilk Dünya Kupası zaferiyle tarih yazıyor",
-      "summary_tr": "Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında Voetbal International, 104 maçın tamamını kendi VI Live'ında takip edecek. Bu sayıda tüm dikkat Kanada ve Katar'a odaklanıyor. Saat 00:00'daki başlama vuruşu öncesinde ve sonrasında bu maç hakkında tam olarak bilgi sahibi olacaksınız."
+      "processed_at": "2026-06-19T06:11:45.732319",
+      "title_tr": "Arsenal'in Monga için yaptığı ilk teklif reddedildi - Cuma günkü dedikodular",
+      "summary_tr": "Arsenal'in Jeremy Monga için yaptığı açılış teklifi Leicester tarafından reddedilen Gunners, Bradley Barcola için de teklif hazırlarken, RB Leipzig Barry üzerinden Everton ile temasa geçti."
     },
     {
       "title": "Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
@@ -176,36 +322,53 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.744054",
-      "priority_score": 68,
+      "fetched_at": "2026-06-19T06:08:19.844362",
+      "priority_score": 63,
       "categories": [
         "transfers",
         "injuries"
       ],
-      "processed_at": "2026-06-19T00:23:33.944663",
+      "processed_at": "2026-06-19T06:11:45.854202",
       "title_tr": "Lionel Messi'nin ailesi tedavi gören babası için 'insanlık' istiyor",
       "summary_tr": "68 yaşındaki Jorge Messi, 'iyileşiyor ve olumlu bir şekilde ilerliyor' Ailesi şöyle diyor: 'Böyle zamanlarda sorumluluk istiyoruz'Lionel Messi'nin babası, açıklanmayan bir hastalık nedeniyle tedavi görüyor ve ailesi, Jorge Messi'nin sağlık durumuyla ilgili söylentilerin ortasında perşembe günü medyadan \"insanlık\" istedi."
     },
     {
-      "title": "Numbers game: stats that tell stories from the first 24 World Cup matches",
-      "summary": "All 48 teams have played their first matches. From xG to assists to transfer value, here’s some of the more revealing bits of dataThe first round of fixtures at the World Cup is in the bank so we’ve finally seen all 48 teams. But what have we learned? Who was good, bad, lucky or fired after one game",
-      "url": "https://www.theguardian.com/football/datablog/2026/jun/18/numbers-game-stats-that-tell-stories-from-the-first-24-world-cup-matches",
-      "image_url": null,
-      "published": "2026-06-18T14:34:40",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "London Marathon to expand to two-day record-setting event in 2027",
+      "summary": "The London Marathon for the first time will be held across two days next year.",
+      "url": "https://www.skysports.com/athletics/news/12040/13555499/london-marathon-to-expand-to-two-days-for-one-off-record-setting-event-next-year-our-most-ambitious-evolution-to-date",
+      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-london-marathon-tower-bridge_7277060.jpg?20260618195042",
+      "published": "2026-06-19T06:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.745141",
-      "priority_score": 68,
+      "fetched_at": "2026-06-19T06:07:54.247838",
+      "priority_score": 61,
       "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
+        "breaking_news"
       ],
-      "processed_at": "2026-06-19T00:23:33.954465",
-      "title_tr": "Sayı oyunu: İlk 24 Dünya Kupası karşılaşmasının hikayelerini anlatan istatistikler",
-      "summary_tr": "48 takımın tamamı ilk maçlarını oynadı. xG'den asistlere ve transfer değerine kadar, işte daha aydınlatıcı verilerden bazıları. Dünya Kupası'nın ilk tur fikstürleri hazırda ve sonunda 48 takımın tamamını gördük. Peki ne öğrendik? Kim iyi, kötü, şanslıydı ya da bir oyundan sonra kovuldu"
+      "processed_at": "2026-06-19T06:11:45.780191",
+      "title_tr": "Londra Maratonu 2027'de iki günlük rekor kırma etkinliğine genişletilecek",
+      "summary_tr": "Londra Maratonu gelecek yıl ilk kez iki gün boyunca düzenlenecek."
+    },
+    {
+      "title": "Trabzonspor'dan genç yıldıza teklif!",
+      "summary": "Transferin hızlı ekibi Trabzonspor, genç yıldız için yeniden masaya oturdu. Karadeniz devinin yaptığı teklife 19 yaşındaki futbolcunun da olumlu baktığı öğrenildi.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/06/19/trabzonspordan-genc-yildiza-teklif",
+      "image_url": "https://iasbh.tmgrup.com.tr/4d907a/1200/675/0/0/772/433?u=https://isbh.tmgrup.com.tr/sbh/2026/06/19/trabzonspordan-genc-yildiza-teklif-1781847048835.jpeg",
+      "published": "2026-06-19T05:31:03",
+      "source": "Sabah Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:09:54.884251",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-19T06:11:46.221447",
+      "title_tr": "Trabzonspor'dan genç yıldıza teklif!",
+      "summary_tr": "Transferin hızlı ekibi Trabzonspor, genç yıldız için yeniden masaya oturdu. Karadeniz devinin yaptığı teklife 19 yaşındaki futbolcunun da olumlu baktığı öğrenildi.Devamı için tıklayınız"
     },
     {
       "title": "SON DAKİKA | Vedat Muriqi, Fenerbahçe’de",
@@ -217,13 +380,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:22:02.863476",
-      "priority_score": 66,
+      "fetched_at": "2026-06-19T06:10:14.316436",
+      "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-19T00:23:34.444114",
+      "processed_at": "2026-06-19T06:11:46.385648",
       "title_tr": "SON DAKİKA | Vedat Muriqi, Fenerbahçe’de",
       "summary_tr": "Fenerbahçe, Vedat Muriqi transferini ve sürece dair detayları resmen duyurdu."
     },
@@ -237,14 +400,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.742836",
-      "priority_score": 63,
+      "fetched_at": "2026-06-19T06:08:19.842680",
+      "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-06-19T00:23:33.930726",
+      "processed_at": "2026-06-19T06:11:45.817906",
       "title_tr": "'Real senin için geldiğinde hayır demek çok zor': Cucurella Chelsea'den ayrılışını açıklıyor",
       "summary_tr": "Bek 52 milyon sterlinlik anlaşmayla İspanya'ya geri dönüyor Oyuncu, Mourinho ile telefon görüşmesi yaptığını açıkladı Marc Cucurella, Chelsea'den ayrılmayı beklemediğini ve 52 milyon sterlinlik Real Madrid transferinin bir buçuk günde tamamlandığını itiraf etti. İspanya'nın sol beki de tepkilere karşı kendini savundu."
     },
@@ -258,13 +421,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:21:28.156437",
-      "priority_score": 63,
+      "fetched_at": "2026-06-19T06:09:37.877339",
+      "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-06-19T00:23:34.106235",
+      "processed_at": "2026-06-19T06:11:46.034493",
       "title_tr": "Inter, Cristian Chivu'yla uzattı!",
       "summary_tr": "İtalya Serie A'da 2025-2026 sezonunu şampiyon olarak tamamlayan Inter, teknik direktör Cristian Chivu'nun sözleşmesini 2028'e kadar uzattığını açıkladı."
     },
@@ -278,138 +441,33 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-19T00:19:52.149615",
-      "priority_score": 61,
+      "fetched_at": "2026-06-19T06:07:54.247270",
+      "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-19T00:23:33.894862",
+      "processed_at": "2026-06-19T06:11:45.750712",
       "title_tr": "Makaleler: Liverpool'un hedefi 86 milyon £'luk yıldız",
       "summary_tr": "Cuma günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
-      "title": "David scores hat-trick as Canada thrash NINE-man Qatar",
-      "summary": "Canada are on the brink of qualifying for the World Cup knockout stages after a Jonathan David treble inspired 6-0 win over woeful nine-man Qatar - in a result marred by a serious leg injury for midfielder Ismael Kone.",
-      "url": "https://www.skysports.com/football/canada-vs-qatar/report/549792",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277256.jpg?20260618235349",
-      "published": "2026-06-19T00:45:00",
+      "title": "Clark surges ahead as McIlroy starts strong after brutal day at Shinnecock",
+      "summary": "Highlights from the opening round of the 2026 US Open at Shinnecock Hills, where strong winds made for a brutal test of golf.",
+      "url": "https://www.skysports.com/watch/video/13555590/us-open-round-one-highlights",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-us-open-highlights_7277300.jpg?20260619013209",
+      "published": "2026-06-19T01:49:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-19T00:19:52.150178",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "injuries",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:33.911922",
-      "title_tr": "Kanada, NINE-man Katar'ı mağlup ederken David hat-trick yaptı",
-      "summary_tr": "Kanada, Jonathan David'in dokuz kişilik Katar'ı 6-0'lık üçlük ile mağlup etmesinden sonra, Dünya Kupası eleme turlarına katılma hakkı kazanmanın eşiğinde; sonuçta orta saha oyuncusu Ismael Kone'nin ciddi bir bacak sakatlığı gölgelendi."
-    },
-    {
-      "title": "Harry Kane and Luis Díaz lead Bundesliga goalscorers at FIFA World Cup 2026",
-      "summary": "Harry Kane, Luis Díaz, Jamal Musiala and Gio Reyna are among the 11 Bundesliga-based players to have scored a goal so far at the FIFA World Cup 2026. Get a full breakdown of all the scorers and how they got their goals here throughout the tournament.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/goalscorers-2026-world-cup-kane-diaz-olise-musiala-undav-reyna-37883",
-      "image_url": null,
-      "published": "2026-06-18T10:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:20:40.013595",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "bundesliga",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:34.064589",
-      "title_tr": "Harry Kane ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
-      "summary_tr": "Harry Kane, Luis Díaz, Jamal Musiala ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 11 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
-    },
-    {
-      "title": "Messi's father dealing with 'health-related situation'",
-      "summary": "Lionel Messi's father is currently dealing with a \"health-related situation\", the family said in a statement on Thursday.",
-      "url": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-18T19:20:22",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:19:42.279576",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-19T00:23:33.884295",
-      "title_tr": "Messi'nin babası 'sağlıkla ilgili durumla' uğraşıyor",
-      "summary_tr": "Aile Perşembe günü yaptığı açıklamada, Lionel Messi'nin babasının şu anda \"sağlıkla ilgili bir durumla\" uğraştığını söyledi."
-    },
-    {
-      "title": "Michy Batshuayi Anadolu kulübüne geliyor: Sürpriz transferi duyurdular",
-      "summary": "Süper Lig'in yeni ekiplerinden Çorum FK, transfer çalışmalarında ses getirecek bir hamleye hazırlanıyor. Kırmızı-siyahl...",
-      "url": "https://www.yenisafak.com/spor/michy-batshuayi-anadolu-kulubune-geliyor-surpriz-transferi-duyurdular-4833518",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/6/18/c4786030-michy-batshuayi-anadolu-kulubune-geliyor-surpriz-transferi-duyurdular.webp",
-      "published": "2026-06-18T09:53:42",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:22:53.154850",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-19T00:23:34.783448",
-      "title_tr": "Michy Batshuayi Anadolu kulübüne geliyor: Sürpriz transferi duyurdular",
-      "summary_tr": "Süper Lig'in yeni ekiplerinden Çorum FK, transfer çalışmalarında ses getirecek bir hamleye hazırlanıyor. Kırmızı-siyahl..."
-    },
-    {
-      "title": "Cucurella belde al met Mourinho: 'Maar wil hem zo laat mogelijk zien'",
-      "summary": "Marc Cucurella maakte afgelopen week de transfer van Chelsea naar Real Madrid. José Mourinho, de nieuwe trainer bij De Koninklijke , ziet het wel zitten in de Spaanse linksback. Desondanks hoopt Cucurella Mourinho nog een tijdje niet te zien.",
-      "url": "https://www.vi.nl/video/cucurella-belde-al-met-mourinho-maar-wil-hem-zo-laat-mogelijk-zien",
-      "image_url": "https://images.performgroup.com/transcoded/20260618/180626_EN_SPN_WC_CUCURELLA_ON_MOURINHO_RD_1781811455903-1_2847_1.jpeg",
-      "published": "2026-06-18T21:46:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:23:30.060004",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-06-19T00:23:34.900052",
-      "title_tr": "Cucurella zaten Mourinho'yu aradı: 'Ama onu mümkün olduğu kadar geç görmek istiyor'",
-      "summary_tr": "Marc Cucurella geçen hafta Chelsea'den Real Madrid'e transfer olmuştu. De Koninklijke'nin yeni antrenörü José Mourinho, İspanyol sol bekten hoşlanıyor. Buna rağmen Cucurella, Mourinho'yu bir süre daha görmemeyi umuyor."
-    },
-    {
-      "title": "Johan Manzambi fires Switzerland to stunning 4-1 win over Bosnia and Herzegovina in Group B",
-      "summary": "Switzerland beat Bosnia and Herzegovina 4-1 in their FIFA World Cup 2026 Group B match in Los Angeles, in a game with significant Bundesliga interest. Super-sub Johan Manzambi scored twice, with Rubén Vargas and Granit Xhaka also on target in a thrilling second-half display.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/switzerland-bosnia-herzegovina-match-report-highlights-matchday-2-37891",
-      "image_url": null,
-      "published": "2026-06-18T21:52:52",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:20:40.001499",
+      "fetched_at": "2026-06-19T06:07:54.247890",
       "priority_score": 56,
       "categories": [
-        "match_results",
-        "serie_a",
-        "bundesliga",
-        "world_cup"
+        "match_results"
       ],
-      "processed_at": "2026-06-19T00:23:33.993036",
-      "title_tr": "Johan Manzambi, B Grubu'nda Bosna-Hersek'i 4-1 yenerek İsviçre'yi kovdu",
-      "summary_tr": "İsviçre, Los Angeles'ta oynanan 2026 FIFA Dünya Kupası B Grubu karşılaşmasında Bundesliga'da büyük ilgi gören maçta Bosna-Hersek'i 4-1 mağlup etti. Süper yedek Johan Manzambi iki gol atarken, heyecan verici ikinci yarı gösterisinde Rubén Vargas ve Granit Xhaka da hedefteydi."
+      "processed_at": "2026-06-19T06:11:45.785619",
+      "title_tr": "McIlroy, Shinnecock'taki acımasız günün ardından güçlü bir başlangıç ​​yaparken Clark öne geçiyor",
+      "summary_tr": "Güçlü rüzgarların zorlu bir golf sınavına yol açtığı Shinnecock Hills'teki 2026 ABD Açık açılış turundan öne çıkanlar."
     },
     {
       "title": "Borussia Mönchengladbach sign Japanese international midfielder Zento Uno",
@@ -421,13 +479,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-19T00:20:40.012062",
+      "fetched_at": "2026-06-19T06:08:43.227465",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-06-19T00:23:34.049523",
+      "processed_at": "2026-06-19T06:11:45.962047",
       "title_tr": "Borussia Mönchengladbach, Japon milli orta saha oyuncusu Zento Uno'yu kadrosuna kattı",
       "summary_tr": "Borussia Mönchengladbach, Shimizu S-Pulse'tan 22 yaşındaki Japon uluslararası orta saha oyuncusu Zento Uno ile 2030 yılına kadar sözleşme imzaladı."
     },
@@ -441,176 +499,116 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-19T00:22:02.864000",
+      "fetched_at": "2026-06-19T06:10:14.316838",
       "priority_score": 56,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-19T00:23:34.483869",
+      "processed_at": "2026-06-19T06:11:46.428125",
       "title_tr": "Süper Lig ekibi, golcüsüyle yollarını ayırdı",
       "summary_tr": "Gençlerbirliği, deneyimli futbolcusu M'Baye Niang’ın sözleşmesinin feshedildiğini duyurdu."
     },
     {
-      "title": "Trabzonspor'a servet akacak! Avrupa devi Oulai için geliyor...",
-      "summary": "Süper Lig’de başarılı bir sezon geçiren ve transfer döneminde etkili hamleler yapan Trabzonspor’da, Christ Oulai Avrupa’nın dev kulüplerinin radarına girdi.",
-      "url": "https://www.cnnturk.com/spor/futbol/trabzonspora-servet-akacak-avrupa-devi-oulai-icin-geliyor-3432407",
+      "title": "Sources: Real Madrid admire Chelsea's Fernández",
+      "summary": "Real Madrid are looking to continue their summer rebuild by signing a midfielder and a centre-back, a source has told ESPN, with Chelsea's Enzo Fernández being one of the options highly rated by the club.",
+      "url": "https://www.espn.com/soccer/story/_/id/49108882/fernandez-real-madrid-chelsea",
       "image_url": null,
-      "published": "2026-06-18T13:57:47",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "published": "2026-06-19T06:22:02",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-19T00:22:02.865197",
-      "priority_score": 56,
+      "fetched_at": "2026-06-19T06:07:35.794389",
+      "priority_score": 55,
       "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-19T00:23:34.580825",
-      "title_tr": "Trabzonspor'a servet akacak! Avrupa devi Oulai için geliyor...",
-      "summary_tr": "Süper Lig’de başarılı bir sezon geçiren ve transfer döneminde etkili hamleler yapan Trabzonspor’da, Christ Oulai Avrupa’nın dev kulüplerinin radarına girdi."
-    },
-    {
-      "title": "Canada v Qatar: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: 3pm local/6pm EDT/11pm BST/8am AEST⚽️ Player guide | Bracketology | Golden Boot Switzerland have several toes in the knockout stage after overwhelming Bosnia and Herzegovina in the last 20 minutes in LA. Freiburg’s Johan Manzambi, aged 20, came off the bench to score twice.Canada’s",
-      "url": "https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-canada-v-qatar-updates-can-vs-qat-group-b-match-score-latest",
-      "image_url": null,
-      "published": "2026-06-19T00:07:49",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.741943",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:33.921834",
-      "title_tr": "Kanada v Katar: 2026 Dünya Kupası – canlı",
-      "summary_tr": "⚽️ Başlama zamanı: 15:00 yerel/18:00 EDT/23:00 BST/8:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Ayakkabı İsviçre, Los Angeles'ta son 20 dakikada Bosna-Hersek'i mağlup ettikten sonra eleme aşamasında birkaç adım attı. Freiburg'dan 20 yaşındaki Johan Manzambi yedek kulübesinden gelerek iki gol attı."
-    },
-    {
-      "title": "İsviçre, Bosna Hersek'i 4 golle geçti",
-      "summary": "2026 Dünya Kupası B Grubu ikinci maçında İsviçre, Bosna Hersek’i 4-1 mağlup etti. Mücadeleye ilk 11'de başlayan Dzeko; Roger Milla, Luka Modric ve Cristiano Ronaldo'nun ardından Dünya Kupası'nda forma giyen 40 yaş ve üzeri dördüncü oyuncu oldu.",
-      "url": "https://www.haberturk.com/isvicre-4-bosna-hersek-1-mac-sonucu-3892696-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/19/ver1781817269/3892696/jpg/1280x1280",
-      "published": "2026-06-18T21:31:32",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:21:28.156366",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:34.102420",
-      "title_tr": "İsviçre, Bosna Hersek'i 4 golle geçti",
-      "summary_tr": "2026 Dünya Kupası B Grubu ikinci maçında İsviçre, Bosna Hersek’i 4-1 mağlup etti. Mücadeleye ilk 11'de başlayan Dzeko; Roger Milla, Luka Modric ve Cristiano Ronaldo'nun ardından Dünya Kupası'nda forma giyen 40 yaş ve üzeri dördüncü oyuncu oldu."
-    },
-    {
-      "title": "Güney Afrika'dan Çekya'ya çelme!",
-      "summary": "2026 Dünya Kupası A Grubu ikinci haftasında Çekya ile Güney Afrika 1-1 berabere kaldı. Çekler, 6. dakikada Michal Sadilek ile 1-0 öne geçti. Afrika temsilcisi ise 83. dakikada Teboho Mokoena'nın penaltında kaydettiği gol ile beraberliği yakaladı. Karşılaşma ardından iki takım da A Grubu'nda 1 puana ",
-      "url": "https://www.haberturk.com/cekya-1-guney-afrika-1-mac-sonucu-3892671-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/18/ver1781806731/3892671/jpg/1280x1280",
-      "published": "2026-06-18T18:20:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:21:28.156863",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:34.138028",
-      "title_tr": "Güney Afrika'dan Çekya'ya çelme!",
-      "summary_tr": "2026 Dünya Kupası A Grubu ikinci haftasında Çekya ile Güney Afrika 1-1 berabere kaldı. Çekler, 6. dakikada Michal Sadilek ile 1-0 öne geçti. Afrika temsilcisi ise 83. dakikada Teboho Mokoena'nın penaltında kaydettiği gol ile beraberliği yakaladı. Karşılaşma ardından iki takım da A Grubu'nda 1 puana"
-    },
-    {
-      "title": "Van feestavond tot schrik: Canada wint van Qatar, maar verliest Koné",
-      "summary": "Canada is zo goed als zeker van de volgende ronde op het WK. Qatar werd eenvoudig en ruim aan de kant gezet, maar na afloop zal het vooral gaan over Ismaël Koné. De middenvelder van Canada liep een ogenschijnlijk zware blessure op.",
-      "url": "https://www.vi.nl/nieuws/van-feestavond-tot-schrik-canada-wint-van-qatar-maar-verliest-kone",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/19/50785732ed475e99daa7883f8483bb923e7d65ad.jpg?width=1200",
-      "published": "2026-06-19T00:07:18",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:23:30.059790",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-19T00:23:34.850831",
-      "title_tr": "Parti gecesinden şoka: Kanada Katar'a karşı kazandı ancak Koné'ye yenildi",
-      "summary_tr": "Kanada'nın Dünya Kupası'nın bir sonraki turuna çıkması neredeyse kesin. Katar kolayca ve kapsamlı bir şekilde bir kenara bırakıldı, ancak sonrasında esas olarak Ismaël Koné ile ilgili olacak. Kanadalı orta saha oyuncusu görünüşe göre ciddi bir sakatlık geçirdi."
-    },
-    {
-      "title": "England finally exorcise the Southgate era and unleash fun football | Barney Ronay",
-      "summary": "You don’t win World Cups by running riot for 10 minutes in mid-June but this felt like the start of something newWalking away from Dallas Stadium, feet throbbing in the heat of the late-evening Texas tarmac, it was tempting to picture the scene inside England’s dressing room three hours earlier, the",
-      "url": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
-      "image_url": null,
-      "published": "2026-06-18T21:59:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.742375",
-      "priority_score": 48,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-19T00:23:33.926034",
-      "title_tr": "İngiltere nihayet Southgate dönemini defetti ve eğlenceli futbolu serbest bıraktı | Barney Ronay",
-      "summary_tr": "Haziran ortasında 10 dakika isyan ederek Dünya Kupası'nı kazanamazsınız ama bu yeni bir şeyin başlangıcı gibi geldi Dallas Stadyumu'ndan uzaklaşırken, ayaklar akşam geç saatlerde Teksas asfaltının sıcağında zonklarken, üç saat önce İngiltere'nin soyunma odasındaki sahneyi hayal etmek cazip geliyordu."
-    },
-    {
-      "title": "Clarke warns Scotland: ‘We must be at our best – Morocco are the real deal’",
-      "summary": "Head coach says 2022 semi-finalists are now even betterScotland could deploy back three against Group C rivalsSteve Clarke has warned Scotland the Morocco team they will face on Friday are superior to the one that reached the semi-finals of the World Cup in 2022.Scotland kicked off their tournament ",
-      "url": "https://www.theguardian.com/football/2026/jun/18/clarke-warns-scotland-morocco-real-deal-world-cup",
-      "image_url": null,
-      "published": "2026-06-18T18:55:29",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-19T00:20:17.744646",
-      "priority_score": 48,
-      "categories": [
-        "transfers",
         "premier_league",
-        "world_cup"
+        "la_liga"
       ],
-      "processed_at": "2026-06-19T00:23:33.949635",
-      "title_tr": "Clarke İskoçya'yı uyardı: 'Elimizden gelenin en iyisini yapmalıyız, gerçek Fas'tır'",
-      "summary_tr": "Baş antrenör, 2022 yarı finalistlerinin artık daha iyi olduğunu söyledi İskoçya'nın C Grubu rakiplerine karşı üç takıma geri dönebileceği Steve Clarke, İskoçya'yı Cuma günü karşılaşacakları Fas takımının 2022 Dünya Kupası'nda yarı finale yükselen takımdan daha üstün olduğu konusunda uyardı.İskoçya turnuvaya başladı"
+      "processed_at": "2026-06-19T06:11:45.697851",
+      "title_tr": "Kaynaklar: Real Madrid, Chelsea'li Fernández'e hayran",
+      "summary_tr": "Bir kaynağın ESPN'e verdiği bilgiye göre Real Madrid, bir orta saha oyuncusu ve bir stoper ile sözleşme imzalayarak yazın yeniden yapılanmaya devam etmek istiyor; Chelsea'den Enzo Fernández, kulüp tarafından yüksek puan alan seçeneklerden biri."
     },
     {
-      "title": "Vedat Muriqi, Fenerbahçe için İstanbul'da!",
-      "summary": "Fenerbahçe'nin prensipte anlaşmaya vardığı Vedat Muriqi, sağlık kontrolünden geçmek ve transfer görüşmelerini sürdürmek için İstanbul'a geldi!",
-      "url": "https://www.haberturk.com/son-dakika-vedat-muriqi-fenerbahce-icin-istanbul-da-3892667-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/18/ver1781808693/3892667/jpg/1280x1280",
-      "published": "2026-06-18T18:52:37",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Co-hosts' historic win over Qatar could be a water...",
+      "summary": "Canada's first men's World Cup win was a historic moment for the sport in the country. Just don't think they're finished yet.",
+      "url": "https://www.espn.com/soccer/story/_/id/49113824/canada-historic-world-cup-win-qatar-turning-point-sport",
+      "image_url": null,
+      "published": "2026-06-19T05:00:43",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-19T00:21:28.156791",
-      "priority_score": 48,
+      "fetched_at": "2026-06-19T06:07:35.794917",
+      "priority_score": 55,
       "categories": [
-        "transfers",
-        "super_lig"
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-06-19T00:23:34.133241",
-      "title_tr": "Vedat Muriqi, Fenerbahçe için İstanbul'da!",
-      "summary_tr": "Fenerbahçe'nin prensipte anlaşmaya vardığı Vedat Muriqi, sağlık kontrolünden geçmek ve transfer görüşmelerini sürdürmek için İstanbul'a geldi!"
+      "processed_at": "2026-06-19T06:11:45.701792",
+      "title_tr": "Ev sahiplerinin Katar'a karşı tarihi galibiyeti su gibi bir sonuç olabilir...",
+      "summary_tr": "Kanada'nın erkeklerdeki ilk Dünya Kupası zaferi, ülkedeki spor açısından tarihi bir an oldu. Henüz bittiklerini düşünmeyin."
+    },
+    {
+      "title": "Tuchel throws first pitch as England enjoy downtime",
+      "summary": "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.",
+      "url": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-19T02:46:28",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:42.661719",
+      "priority_score": 55,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.719275",
+      "title_tr": "İngiltere kesintinin tadını çıkarırken Tuchel ilk atışı yapıyor",
+      "summary_tr": "İngiltere Dünya Kupası'nda bir süre dinlenmenin tadını çıkarırken Thomas Tuchel beyzbol maçına biraz ara veriyor - Ivan Toney ise MLS takımı Sporting KC'ye karşı hazırlık maçında hat-trick yapıyor."
+    },
+    {
+      "title": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+      "summary": "It wasn’t pretty, distinguished by little other than its black v lilac colour scheme, but Mexico became the first side at the 2026 World Cup to secure their place in the knockout stage. They are sure to top their group and stay in Mexico City, opening the path for an apocalyptic meeting at the Aztec",
+      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+      "image_url": null,
+      "published": "2026-06-19T03:06:51",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:08:19.841805",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.803810",
+      "title_tr": "Güney Kore, Dünya Kupası'nın ortak ev sahiplerinin eleme aşamasına ulaşmasıyla Meksika'ya zafer hediye etti",
+      "summary_tr": "Siyah v leylak rengi dışında çok az özelliğiyle pek hoş değildi ama Meksika, 2026 Dünya Kupası'nda eleme aşamasındaki yerini garantileyen ilk takım oldu. Kesinlikle gruplarının zirvesine çıkacaklar ve Mexico City'de kalacaklar ve Aztek'te kıyamet gibi bir toplantının yolunu açacaklar."
+    },
+    {
+      "title": "Mexico beat South Korea to earn first World Cup knockout spot",
+      "summary": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara.",
+      "url": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
+      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-romo-south-korea_7277344.jpg?20260619032135",
+      "published": "2026-06-19T04:10:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-19T06:07:54.247100",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-19T06:11:45.742112",
+      "title_tr": "Meksika, Güney Kore'yi yenerek ilk Dünya Kupası eleme pozisyonunu kazandı",
+      "summary_tr": "Meksika, Dünya Kupası'nın son 32 turunda yer almayı başaran ilk ülke oldu ve Güney Kore'nin Guadalajara'da 1-0 mağlup olması nedeniyle Seung-Gyu Kim'in kalecilik hatasına teşekkür edebilirler."
     }
   ]
 }
