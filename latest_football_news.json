@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T16:24:57.291409",
+  "timestamp": "2026-06-20T18:10:11.316258",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-20T16:20:12.343716",
+      "fetched_at": "2026-06-20T18:05:46.812693",
       "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-06-20T16:23:42.542559",
+      "processed_at": "2026-06-20T18:08:52.941420",
       "title_tr": "Uno, Gotō, Yamamoto: Bundesliga'nın Japon yıldız adaylarıyla simbiyotik ilişkisi gelişmeye devam ediyor",
       "summary_tr": "Yaz transfer dönemi henüz resmi olarak açılmamış olabilir ancak Almanya'nın en iyi takımına, çoğu Japonya'dan gelen sürekli yeni transferler gelmeye başladı."
     },
@@ -33,13 +33,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:31.188489",
+      "fetched_at": "2026-06-20T18:07:18.512002",
       "priority_score": 86,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-06-20T16:23:42.889171",
+      "processed_at": "2026-06-20T18:08:53.271797",
       "title_tr": "Trabzonspor'dan Onuachu'yu isteyen kulüplere net cevap",
       "summary_tr": "Trabzonspor, yaz transfer döneminin en çok konuşulan isimlerinden Nijeryalı golcü Paul Onuachu’ya gelen tekliflere ret yanıtı vermeye devam ediyor."
     },
@@ -53,15 +53,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:31.189251",
+      "fetched_at": "2026-06-20T18:07:18.512757",
       "priority_score": 86,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.930171",
+      "processed_at": "2026-06-20T18:08:53.312015",
       "title_tr": "Dinamo Zagreb, Livakovic'in bonservisini istiyor! İşte teklif...",
       "summary_tr": "Dinamo Zagreb, devre arasında Fenerbahçe’den kiraladığı Dominik Livakovic’in kalıcı transferi için harekete geçti."
+    },
+    {
+      "title": "Brobbey scores twice against Sweden",
+      "summary": "Brian Brobbey scores twice in the first half in Netherland's World Cup match with Sweden.",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-20T17:57:23",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:04:51.248760",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-20T18:08:52.832164",
+      "title_tr": "Brobbey İsveç'e iki gol attı",
+      "summary_tr": "Brian Brobbey, Hollanda'nın İsveç ile oynadığı Dünya Kupası karşılaşmasının ilk yarısında iki gol attı."
     },
     {
       "title": "Cunha scores twice as Brazil beat Haiti",
@@ -73,16 +93,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.354184",
+      "fetched_at": "2026-06-20T18:04:51.250272",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:42.436399",
+      "processed_at": "2026-06-20T18:08:52.841185",
       "title_tr": "Brezilya Haiti'yi yenerken Cunha iki gol attı",
       "summary_tr": "Manchester United'ın forveti Matheus Cunha, Brezilya'nın 2026 Dünya Kupası'ndan elenen ilk takım olan Haiti'yi rahatça yenmesini sağlayan iki gol attı."
+    },
+    {
+      "title": "England two down after Scotland take first ball wicket LIVE!",
+      "summary": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13556133/england-vs-scotland-live-cricket-score-updates-video-and-analysis-from-icc-womens-t20-world-cup-group-b-clash",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-danni-wyatt-hodge_7278726.jpg?20260620182203",
+      "published": "2026-06-20T17:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:05:02.205277",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-20T18:08:52.881227",
+      "title_tr": "İngiltere, İskoçya'nın CANLI ilk topu almasının ardından iki mağlup!",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Harry Kane and Luis Díaz lead Bundesliga goalscorers at FIFA World Cup 2026",
@@ -94,56 +133,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-20T16:20:12.346935",
+      "fetched_at": "2026-06-20T18:05:46.815885",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:42.566540",
+      "processed_at": "2026-06-20T18:08:52.965024",
       "title_tr": "Harry Kane ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
       "summary_tr": "Harry Kane, Luis Díaz, Jamal Musiala ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 12 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
-    },
-    {
-      "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
-      "summary": "Tournament has completed its first week and while the logistics have sometimes been challenging, the people and the football have been goodIt was quite a contrast touching down in sleepy Kansas City hours after having witnessed the bedlam on the streets of New York when the Knicks won the NBA Finals",
-      "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
-      "image_url": null,
-      "published": "2026-06-20T07:00:02",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:19:50.732110",
-      "priority_score": 58,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-20T16:23:42.498534",
-      "title_tr": "Uzay gemisi stadyumları ve Ronaldo çılgınlığı: Guardian yazarlarının Dünya Kupası'na ilişkin ilk izlenimleri",
-      "summary_tr": "Turnuva ilk haftasını tamamladı ve lojistik bazen zorlu olsa da, insanlar ve futbol iyiydi. Knicks'in NBA Finallerini kazandığında New York sokaklarında yaşanan kargaşaya tanık olduktan sonra, Kansas City'nin uykulu ortamında oldukça zıt bir durum vardı."
     },
     {
       "title": "Netherlands v Sweden: World Cup 2026 – live",
       "summary": "⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST⚽️ Player guide | Bracketology | Golden Boot | Email JohnNetherlands: Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. Subs: Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang,",
       "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
       "image_url": null,
-      "published": "2026-06-20T16:08:46",
+      "published": "2026-06-20T17:52:26",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-20T16:19:50.730376",
+      "fetched_at": "2026-06-20T18:05:24.777750",
       "priority_score": 53,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:42.483295",
+      "processed_at": "2026-06-20T18:08:52.888240",
       "title_tr": "Hollanda v İsveç: 2026 Dünya Kupası – canlı",
       "summary_tr": "⚽️ Dünya Kupası başlama saati: 13:00 ET/18:00 BST/03:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | JohnHollanda'ya e-posta gönderin: Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. Yedekler: Flokken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang,"
+    },
+    {
+      "title": "Trabzonspor, yeni sezon formalarını tanıttı!",
+      "summary": "Trabzonspor Kulübü, sosyal medya hesabında yeni sezonda giyeceği formaların tanıtımını yaptı.",
+      "url": "https://www.haberturk.com/trabzonspor-2026-2027-sezonunda-giyecegi-formalari-tanitti-3893044-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/20/ver1781977860/3893044/jpg/1280x1280",
+      "published": "2026-06-20T17:51:16",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:06:41.229228",
+      "priority_score": 53,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-06-20T18:08:52.969438",
+      "title_tr": "Trabzonspor, yeni sezon formalarını tanıttı!",
+      "summary_tr": "Trabzonspor Kulübü, sosyal medya hesabında yeni sezonda giyeceği formaların tanıtımını yaptı."
     },
     {
       "title": "Dünya başımıza yıkıldı!",
@@ -155,73 +193,53 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:20:58.170502",
+      "fetched_at": "2026-06-20T18:06:41.230229",
       "priority_score": 53,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:42.619410",
+      "processed_at": "2026-06-20T18:08:53.026261",
       "title_tr": "Dünya başımıza yıkıldı!",
       "summary_tr": "A Milli Takım'ın 24 yıl sonra sahne aldığı Dünya Kupası macerası kısa sürdü... Ay-yıldızlılar, 2026 Dünya Kupası D Grubu'ndaki ikinci maçında Paraguay'a 1-0 yenildi. Yaklaşık 45 dakika 10 kişi oynayan rakibine gol atma başarısı gösteremeyen Milliler, iki maç sonunda 0 puanda kalıp bitime 1 maça kala"
     },
     {
-      "title": "Almiron first player sent off for covering mouth",
-      "summary": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-20T04:45:25",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.353456",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-20T16:23:42.433013",
-      "title_tr": "Almiron'un ilk oyuncusu ağzını kapattığı için ihraç edildi",
-      "summary_tr": "Paraguaylı Miguel Almiron, Türkiye ile oynanan Dünya Kupası maçında rakibiyle konuşurken ağzını kapattığı için kırmızı kart gören ilk oyuncu oldu."
-    },
-    {
-      "title": "Drie Oranje-internationals staan op scherp in tweede WK-duel met Zweden",
-      "summary": "In het tweede groepsduel met Zweden van komende zaterdag staan drie spelers van het Nederlands elftal op scherp. Zij zijn bij een gele kaart geschorst voor het laatste groepsduel met Tunesië.",
-      "url": "https://www.vi.nl/nieuws/drie-oranje-internationals-staan-op-scherp-in-tweede-wk-duel-met-zweden",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/18/66ba0a7e6bd5d3432c3016acd35501490938fd8f.jpg?width=1200",
-      "published": "2026-06-20T15:50:00",
+      "title": "VI Live: Koninklijk Paar en prinses bezoeken ook WK-duel Curaçao",
+      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Ecuador en Curaçao. In aanloop naar en vanaf de aftrap om 02.00 uur blijf je volledig op de hoogte van dit duel.",
+      "url": "https://www.vi.nl/nieuws/vi-live-volg-hier-alles-van-ecuador-curacao",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/b9349c297919da8fa6dcb05bf69b3e0e4268fcff.jpg?width=1200",
+      "published": "2026-06-20T18:02:32",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-20T16:23:39.293386",
+      "fetched_at": "2026-06-20T18:08:49.463158",
       "priority_score": 47,
       "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-06-20T16:23:43.263776",
-      "title_tr": "İsveç'e karşı oynanan ikinci Dünya Kupası maçında üç Hollandalı milli oyuncu gergin durumda",
-      "summary_tr": "Gelecek Cumartesi günü İsveç'e karşı oynanacak ikinci grup maçında Hollanda milli takımının üç oyuncusu gergin durumda. Tunus ile oynayacağı son grup maçında sarı karttan cezalı duruma düştüler."
+      "processed_at": "2026-06-20T18:08:53.855952",
+      "title_tr": "VI Live: Kraliyet Çifti ve Prenses Curaçao Dünya Kupası maçını da ziyaret etti",
+      "summary_tr": "Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında Voetbal International, 104 maçın tamamını kendi VI Live'ında takip edecek. Bu baskıda tüm dikkat Ekvador ve Curaçao'ya odaklanmıştır. Sabah saat 2'deki başlama vuruşuna kadar olan süreçte, bu maç hakkında tam olarak bilgi sahibi olacaksınız."
     },
     {
-      "title": "Tien ex-ploeggenoten over het moment dat Frenkie de Jong ze betoverde",
-      "summary": "Frenkie de Jong moet het Nederlands elftal dit WK vleugels geven. Tijdens interviews door de jaren heen begonnen tien oud-teamgenoten vol bewondering te vertellen over hun eerste ervaringen met het blonde mannetje uit Arkel. Hun mond viel spontaan wijdopen toen ze de miniatuurversie van de huidige B",
-      "url": "https://www.vi.nl/pro/tien-ex-ploeggenoten-over-het-moment-dat-frenkie-de-jong-ze-betoverde",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/15/7466272f982784ee3b538cb52dccf12976dcd7d6.jpg?width=1200",
-      "published": "2026-06-20T15:40:00",
+      "title": "VI Live: Duitsland - Ivoorkust in het kleinste stadion van dit WK",
+      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Duitsland en Ivoorkust. In aanloop naar en vanaf de aftrap om 22.00 uur blijf je volledig op de hoogte van dit duel.",
+      "url": "https://www.vi.nl/nieuws/vi-live-volg-hier-duitsland-ivoorkust",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/676f5ad706293ea9f5c26cc1b60287c95d6ccfd9.jpg?width=1200",
+      "published": "2026-06-20T17:15:46",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-20T16:23:39.293548",
+      "fetched_at": "2026-06-20T18:08:49.463299",
       "priority_score": 47,
       "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-06-20T16:23:43.296186",
-      "title_tr": "On eski takım arkadaşı Frenkie de Jong'un onları büyülediği anı anlatıyor",
-      "summary_tr": "Frenkie de Jong bu Dünya Kupası'nda Hollanda takımına kanat vermeli. Yıllar süren röportajlar sırasında, on eski takım arkadaşı Arkel'den gelen sarışın adamla ilk deneyimlerini hayranlıkla anlatmaya başladı. Mevcut B'nin minyatür versiyonunu gördüklerinde ağızları kendiliğinden açıldı."
+      "processed_at": "2026-06-20T18:08:53.887597",
+      "title_tr": "VI Canlı: Almanya - Fildişi Sahili bu Dünya Kupası'nın en küçük stadyumunda",
+      "summary_tr": "Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında Voetbal International, 104 maçın tamamını kendi VI Live'ında takip edecek. Bu sayımızda tüm dikkat Almanya ve Fildişi Sahili'ne odaklanıyor. Saat 22.00'deki başlama vuruşuna kadar ve sonrasında. Bu maç hakkında tam olarak bilgi sahibi olacaksınız."
     },
     {
       "title": "Göztepe'de golcü bereketi!",
@@ -233,57 +251,38 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.058641",
+      "fetched_at": "2026-06-20T18:06:51.634299",
       "priority_score": 81,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.655439",
+      "processed_at": "2026-06-20T18:08:53.061263",
       "title_tr": "Göztepe'de golcü bereketi!",
       "summary_tr": "Transferde İrlandalı golcü Sinclair Armstrong'un ardından Brezilyalı forvet Andre Henrique ile 4+1 yıllık sözleşme imzalayan Süper Lig ekibi Göztepe'de hücum bolluğu yaşanıyor."
     },
     {
-      "title": "Adil Demirbağ transferinde Trabzonspor ve Beşiktaş'a yeni rakip!",
-      "summary": "Adil Demirbağ için Trabzonspor ve Beşiktaş'ın ardından İstanbul ekibi de devreye girdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/adil-demirbag-transferinde-trabzonspor-ve-besiktasa-yeni-rakip-43212371",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a3658dcb472538661b03890.jpg",
-      "published": "2026-06-20T09:13:55",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Fenerbahçe'ye 24'lük stoper! Oosterwolde'nin yerine gelecek",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde ilk takviyesini hücum hattına yapan ve eski golcüsü Vedat Muriqi'yi renklerine bağlayan Fenerbahçe'de gözler stoper transferine çevrildi....Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/06/20/fenerbahceye-24luk-stoper-oosterwoldenin-yerine-gelecek",
+      "image_url": "https://iaftm.tmgrup.com.tr/798423/1200/675/0/0/786/442?u=https://iftm.tmgrup.com.tr/2026/06/20/fenerbahceye-24luk-stoper-oosterwoldenin-yerine-gelecek-1781949930635.jpg",
+      "published": "2026-06-20T10:06:03",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.059576",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-20T16:23:42.755526",
-      "title_tr": "Adil Demirbağ transferinde Trabzonspor ve Beşiktaş'a yeni rakip!",
-      "summary_tr": "Adil Demirbağ için Trabzonspor ve Beşiktaş'ın ardından İstanbul ekibi de devreye girdi."
-    },
-    {
-      "title": "Beşiktaş, Benfica'nın golcüsü için gemileri yaktı! Orkun Kökçü devrede...",
-      "summary": "Gelecek sezon şampiyonluk için iddialı bir kadro kurmayı hedefleyen Beşiktaş, transfer çalışmalarını hızlandırdı. Siyah-Beyazlılar, özellikle golcü mevkiine kaliteli bir takviye yapmak için kolları sıvadı.",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktas-benficanin-golcusu-icin-gemileri-yakti-orkun-kokcu-devrede-3433281",
-      "image_url": null,
-      "published": "2026-06-20T16:46:34",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:21:31.188670",
-      "priority_score": 71,
+      "fetched_at": "2026-06-20T18:07:30.638934",
+      "priority_score": 69,
       "categories": [
         "transfers",
         "match_results",
+        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.901202",
-      "title_tr": "Beşiktaş, Benfica'nın golcüsü için gemileri yaktı! Orkun Kökçü devrede...",
-      "summary_tr": "Gelecek sezon şampiyonluk için iddialı bir kadro kurmayı hedefleyen Beşiktaş, transfer çalışmalarını hızlandırdı. Siyah-Beyazlılar, özellikle golcü mevkiine kaliteli bir takviye yapmak için kolları sıvadı."
+      "processed_at": "2026-06-20T18:08:53.539297",
+      "title_tr": "Fenerbahçe'ye 24'lük stoper! Oosterwolde'nin yerine gelecek",
+      "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde ilk takviyesini hücum hattına yapan ve eski golcüsü Vedat Muriqi'yi renklerine bağlayan Fenerbahçe'de gözler stoper transferine çevrildi....Devamı için tıklayınız"
     },
     {
       "title": "Fenerbahçe, Şampiyonlar Ligi savunması kuruyor! Maliyeti dudak uçuklattı",
@@ -295,15 +294,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.059506",
+      "fetched_at": "2026-06-20T18:06:51.635198",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.746134",
+      "processed_at": "2026-06-20T18:08:53.150597",
       "title_tr": "Fenerbahçe, Şampiyonlar Ligi savunması kuruyor! Maliyeti dudak uçuklattı",
       "summary_tr": "Teknik direktörlük koltuğuna İsmail Kartal'ın oturmasının ardından Vedat Muriqi transferiyle forvet hattını güçlendiren Fenerbahçe, savunmasına geçtiğimiz sezon Fransa Ligi'nde yıldızlaşan ismi alıyor."
+    },
+    {
+      "title": "Beşiktaş, Benfica'nın golcüsü için gemileri yaktı! Orkun Kökçü devrede...",
+      "summary": "Gelecek sezon şampiyonluk için iddialı bir kadro kurmayı hedefleyen Beşiktaş, transfer çalışmalarını hızlandırdı. Siyah-Beyazlılar, özellikle golcü mevkiine kaliteli bir takviye yapmak için kolları sıvadı.",
+      "url": "https://www.cnnturk.com/spor/futbol/besiktas-benficanin-golcusu-icin-gemileri-yakti-orkun-kokcu-devrede-3433281",
+      "image_url": null,
+      "published": "2026-06-20T16:46:34",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:07:18.512185",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-20T18:08:53.283608",
+      "title_tr": "Beşiktaş, Benfica'nın golcüsü için gemileri yaktı! Orkun Kökçü devrede...",
+      "summary_tr": "Gelecek sezon şampiyonluk için iddialı bir kadro kurmayı hedefleyen Beşiktaş, transfer çalışmalarını hızlandırdı. Siyah-Beyazlılar, özellikle golcü mevkiine kaliteli bir takviye yapmak için kolları sıvadı."
     },
     {
       "title": "Galatasaray, Can Uzun operasyonunu yeniden başlattı",
@@ -315,13 +335,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:31.189429",
+      "fetched_at": "2026-06-20T18:07:18.512934",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.939948",
+      "processed_at": "2026-06-20T18:08:53.321338",
       "title_tr": "Galatasaray, Can Uzun operasyonunu yeniden başlattı",
       "summary_tr": "Trendyol Süper Lig’de üst üste 4. kez, toplamda 26. şampiyonluğunu elde eden Galatasaray, yeni sezon öncesi transfer çalışmalarına hız verdi. Sarı-kırmızılılar, kadro planlamasında yerli yıldız Can Uzun’u öncelikli hedefleri arasına yeniden koydu."
     },
@@ -335,16 +355,57 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.352163",
+      "fetched_at": "2026-06-20T18:04:51.248265",
       "priority_score": 60,
       "categories": [
         "transfers",
         "injuries",
         "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:42.429135",
+      "processed_at": "2026-06-20T18:08:52.831192",
       "title_tr": "Curacao'nun öncü doktoru futbolun büyük sahnesinde",
       "summary_tr": "Dr Suzanne Huurman, Curacao'nun nüfus ve büyüklük bakımından Dünya Kupası'nın şimdiye kadarki en küçük takımı olan ulusal erkekler takımının tıbbi personelinin başkanıdır."
+    },
+    {
+      "title": "Galatasaray'ın yeni transferi Süper Lig'den! Cimbom'a gelmek için can atıyor",
+      "summary": "Galatasaray'da yeni sezonun transfer planlamaları hız kazandı. Sarı kırmızılılar özellikle temmuz ayının başına kadar en az 1-2 transferi bitirmek istiyor. Bu doğrultuda temaslarını sürdüren Cimbom, Süper...Devamı için tıklayınız",
+      "url": "https://www.aspor.com.tr/galatasaray/2026/06/20/galatasarayin-yeni-transferi-super-ligden-cimboma-gelmek-icin-can-atiyor",
+      "image_url": "https://iaftm.tmgrup.com.tr/b6e625/1200/675/0/105/1500/948?u=https://iftm.tmgrup.com.tr/2026/06/20/1781937454597.jpeg",
+      "published": "2026-06-20T06:44:06",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:07:30.637533",
+      "priority_score": 59,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-20T18:08:53.425334",
+      "title_tr": "Galatasaray'ın yeni transferi Süper Lig'den! Cimbom'a gelmek için can atıyor",
+      "summary_tr": "Galatasaray'da yeni sezonun transfer planlamaları hız kazandı. Sarı kırmızılılar özellikle temmuz ayının başına kadar en az 1-2 transferi bitirmek istiyor. Bu doğrultuda temaslarını sürdüren Cimbom, Süper...Devamı için tıklayınız"
+    },
+    {
+      "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
+      "summary": "Tournament has completed its first week and while the logistics have sometimes been challenging, the people and the football have been goodIt was quite a contrast touching down in sleepy Kansas City hours after having witnessed the bedlam on the streets of New York when the Knicks won the NBA Finals",
+      "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
+      "image_url": null,
+      "published": "2026-06-20T07:00:02",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:05:24.779476",
+      "priority_score": 58,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-20T18:08:52.903682",
+      "title_tr": "Uzay gemisi stadyumları ve Ronaldo çılgınlığı: Guardian yazarlarının Dünya Kupası'na ilişkin ilk izlenimleri",
+      "summary_tr": "Turnuva ilk haftasını tamamladı ve lojistik bazen zorlu olsa da, insanlar ve futbol iyiydi. Knicks'in NBA Finallerini kazandığında New York sokaklarında yaşanan kargaşaya tanık olduktan sonra, Kansas City'nin uykulu ortamında oldukça zıt bir durum vardı."
     },
     {
       "title": "Manchester City close to financial settlement with Chelsea to appoint Enzo Maresca",
@@ -356,53 +417,75 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-20T16:19:50.733398",
+      "fetched_at": "2026-06-20T18:05:24.780589",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-06-20T16:23:42.516701",
+      "processed_at": "2026-06-20T18:08:52.922797",
       "title_tr": "Manchester City, Enzo Maresca'yı atamak için Chelsea ile mali anlaşmaya yakın",
       "summary_tr": "Chelsea, eski teknik direktör için tazminat talep ediyorBatı Londra kulübü, İtalya'nın sözleşmeyi ihlal ettiği konusunda ısrar ediyorManchester City, Chelsea ile, Enzo Maresca'yı menajer olarak atamalarını sağlayacak mali bir anlaşmaya varmaya yakın.Chelsea, Maresca'nın serbest bırakılması için City'den tazminat talep ediyor."
     },
     {
-      "title": "Van Hecke dankt Koeman voor transfer naar Spurs",
-      "summary": "Het zijn bijzondere weken voor Jan Paul van Hecke. De verdediger van Oranje is niet meer weg te denken uit het hart van de defensie op het WK na het wegvallen van Jurriën Timber en heeft een miljoenentransfer gemaakt naar Tottenham Hotspur. Van Hecke dankt ook bondscoach Ronald Koeman daarvoor, die ",
-      "url": "https://www.vi.nl/video/van-hecke-dankt-koeman-voor-transfer-naar-spurs",
-      "image_url": "https://vod.performgroup.com/transcoded/20260620/190626_EN_SPN_FOOTBALL_WC_NETHERLANDS_VAN_HECKE_CLEAN_1781961043884-1_685_1.jpeg",
-      "published": "2026-06-20T14:30:08",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Erzincanspor, Alperen Aydın’ı transfer etti!",
+      "summary": "Erzincanspor, 25 yaşındaki orta saha Alperen Aydın ile sözleşme imzaladı.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/06/20/erzincanspor-alperen-aydini-transfer-etti",
+      "image_url": "https://iasbh.tmgrup.com.tr/9cb06c/1200/675/0/19/800/469?u=https://isbh.tmgrup.com.tr/sbh/2026/06/20/erzincanspor-alperen-aydini-transfer-etti-1781972909966.jpg",
+      "published": "2026-06-20T16:28:39",
+      "source": "Sabah Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:23:39.294218",
-      "priority_score": 57,
+      "fetched_at": "2026-06-20T18:06:57.945737",
+      "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-20T16:23:43.425423",
-      "title_tr": "Van Hecke, Spurs'a transferi için Koeman'a teşekkür etti",
-      "summary_tr": "Bunlar Jan Paul van Hecke için özel haftalar. Hollandalı savunma oyuncusu, Jurriën Timber'ı mağlup ettikten sonra Dünya Kupası'nda savunmanın kalbinin vazgeçilmez bir parçası haline geldi ve Tottenham Hotspur'a multi milyonluk bir transfer yaptı. Van Hecke ayrıca milli antrenör Ronald Koeman'a da teşekkür ediyor."
+      "processed_at": "2026-06-20T18:08:53.176664",
+      "title_tr": "Erzincanspor, Alperen Aydın’ı transfer etti!",
+      "summary_tr": "Erzincanspor, 25 yaşındaki orta saha Alperen Aydın ile sözleşme imzaladı.Devamı için tıklayınız"
     },
     {
-      "title": "SC Heerenveen moet waken voor leegloop van begeerde sterkhouders",
-      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
-      "url": "https://www.vi.nl/nieuws/sc-heerenveen-moet-waken-voor-leegloop-van-begeerde-sterkhouders",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
-      "published": "2026-06-20T16:12:11",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "World Cup first sees Almiron sent off for covering mouth",
+      "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
+      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-20T05:05:57",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-20T16:23:39.293309",
-      "priority_score": 52,
+      "fetched_at": "2026-06-20T18:04:51.249916",
+      "priority_score": 50,
       "categories": [
-        "transfers"
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-06-20T16:23:43.248032",
-      "title_tr": "SC Heerenveen, imrenilen kalelerin göçüne karşı korunmalı",
-      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
+      "processed_at": "2026-06-20T18:08:52.838817",
+      "title_tr": "Dünya Kupası'nda ilk kez Almiron ağzını kapattığı için ihraç edildi",
+      "summary_tr": "Miguel Almiron'un, 2026 Dünya Kupası'ndaki bir maç sırasında oyuncuların ağızlarını kapatmasını engelleyen yeni kurallar uyarınca ihraç edilen ilk oyuncu olmasını ve Paraguaylı orta saha oyuncusunun Türkiye karşısında kazandığı galibiyette kırmızı görünmesini izleyin."
+    },
+    {
+      "title": "Galatasaray'dan Bursaspor'a sürpriz transfer! Başkandan bizzat istedi",
+      "summary": "Son dakika Galatasaray transfer haberleri: Yeni sezonda 1. Lig'de mücadele edecek olan Bursaspor'dan flaş bir transfer hamlesi geldi. Yeşil-beyazlı kulübün başkanı Enes Çelik'in Galatasaray Başkanı Dursun...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/06/20/galatasaraydan-bursaspora-surpriz-transfer-baskandan-bizzat-istedi",
+      "image_url": "https://iaftm.tmgrup.com.tr/5eb67d/1200/675/0/0/1127/634?u=https://iftm.tmgrup.com.tr/2026/06/20/galatasaraydan-bursaspora-surpriz-transfer-baskandan-bizzat-istedi-1781957141016.jpg",
+      "published": "2026-06-20T12:06:09",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-20T18:07:30.638783",
+      "priority_score": 49,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-20T18:08:53.527496",
+      "title_tr": "Galatasaray'dan Bursaspor'a sürpriz transfer! Başkandan bizzat istedi",
+      "summary_tr": "Son dakika Galatasaray transfer haberleri: Yeni sezonda 1. Lig'de mücadele edecek olan Bursaspor'dan flaş bir transfer hamlesi geldi. Yeşil-beyazlı kulübün başkanı Enes Çelik'in Galatasaray Başkanı Dursun...Devamı için tıklayınız"
     },
     {
       "title": "Gençlerbirliği, Fıratcan Üzüm ile sözleşme uzattı!",
@@ -414,33 +497,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:20:58.169900",
+      "fetched_at": "2026-06-20T18:06:41.229651",
       "priority_score": 48,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-20T16:23:42.582583",
+      "processed_at": "2026-06-20T18:08:52.989213",
       "title_tr": "Gençlerbirliği, Fıratcan Üzüm ile sözleşme uzattı!",
       "summary_tr": "Gençlerbirliği, Fıratcan Üzüm'ün sözleşmesini 1 yıl uzattı"
-    },
-    {
-      "title": "Inter Miami rekent op komst Casemiro: 'Een geweldige speler'",
-      "summary": "De toekomst van Casemiro lijkt bij Inter Miami te liggen. Terwijl de 34-jarige Braziliaan actief is op het WK, lopen de spelers alvast vooruit op zijn komst.",
-      "url": "https://www.vi.nl/nieuws/inter-miami-rekent-op-komst-casemiro-een-geweldige-speler",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/20/130a116cacc5092225f06c9ad74c93f6ac97dae5.jpg?width=1200",
-      "published": "2026-06-20T15:35:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:23:39.293618",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-20T16:23:43.310300",
-      "title_tr": "Inter Miami, Casemiro'nun gelişine güveniyor: 'Harika bir oyuncu'",
-      "summary_tr": "Casemiro'nun geleceği Inter Miami'de görünüyor. 34 yaşındaki Brezilyalı, Dünya Kupası'nda aktif olarak yer alırken, oyuncular şimdiden onun gelişini bekliyor."
     },
     {
       "title": "USA cruise into the round of 32 with dominant win over Australia",
@@ -452,12 +516,12 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-20T16:20:12.344557",
+      "fetched_at": "2026-06-20T18:05:46.813421",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-06-20T16:23:42.548458",
+      "processed_at": "2026-06-20T18:08:52.947298",
       "title_tr": "ABD, Avustralya'yı mağlup ederek son 32'ye yükseldi",
       "summary_tr": "Bayer Leverkusen'den Malik Tillman baştan sona oynadı ve ABD, Seattle Stadyumu'nda Avustralya'yı 2-0 yenmek için ilk yarıda üstün bir performans sergilerken, Cameron Burgess'in kendi kalesine attığı gol ve Alex Freeman'ın kafa vuruşu art arda ikinci bir D Grubu zaferini ve tura erken geçişi garantiledi."
     },
@@ -471,13 +535,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.058713",
+      "fetched_at": "2026-06-20T18:06:51.634401",
       "priority_score": 46,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.660563",
+      "processed_at": "2026-06-20T18:08:53.066311",
       "title_tr": "Beşiktaş’ta 3 isme transfer kancası!",
       "summary_tr": "Beşiktaş’ta resmi teklif alan isimler belli oldu. Siyah beyazlıların kapısı Wilfred Ndidi, Milot Rashica ve Mustafa Erhan Hekimoğlu için çalındı."
     },
@@ -491,13 +555,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.058784",
+      "fetched_at": "2026-06-20T18:06:51.634566",
       "priority_score": 46,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-20T16:23:42.667634",
+      "processed_at": "2026-06-20T18:08:53.073087",
       "title_tr": "Fenerbahçe'ye yeni Ferdi Kadıoğlu! Transfer açıklanıyor",
       "summary_tr": "Fenerbahçe, gelecek sezonun transfer planlaması doğrultusunda çalışmalarını sürdürüyor. Kanarya bu bağlamda rotasını, PSV'nin kaptanına çevirdi."
     },
@@ -511,94 +575,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.353273",
+      "fetched_at": "2026-06-20T18:04:51.249737",
       "priority_score": 45,
       "categories": [
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-06-20T16:23:42.432214",
+      "processed_at": "2026-06-20T18:08:52.837568",
       "title_tr": "'Yıldız yapım aşamasında' - Manchester City'nin unutulmuş adam Reis için planı ne?",
       "summary_tr": "Manchester City hâlâ yeni menajerinin gelişini bekliyor ancak unutulmuş defans oyuncusu Vitor Reis, La Liga'da sezonluk kiralık döneminin ardından binaya geri dönecek."
     },
     {
-      "title": "Paraguay’ın golünü atan Galarza: 'Unutulmaz bir maç oldu!'",
-      "summary": "Türkiye'yi 2. dakikada attığı golle Dünya Kupasının dışında bırakan Matias Galarza, galibiyetin kendileri için tarihi ve unutulmaz olduğunu belirtti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/paraguayin-golunu-atan-galarza-unutulmaz-bir-mac-oldu-43212526",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a36701ab472538661b038c7.jpg",
-      "published": "2026-06-20T10:49:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "SC Heerenveen moet waken voor leegloop van begeerde sterkhouders",
+      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
+      "url": "https://www.vi.nl/nieuws/sc-heerenveen-moet-waken-voor-leegloop-van-begeerde-sterkhouders",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
+      "published": "2026-06-20T16:12:11",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-20T16:21:11.059045",
-      "priority_score": 41,
+      "fetched_at": "2026-06-20T18:08:49.463682",
+      "priority_score": 42,
       "categories": [
-        "match_results",
-        "world_cup"
+        "transfers"
       ],
-      "processed_at": "2026-06-20T16:23:42.690913",
-      "title_tr": "Paraguay’ın golünü atan Galarza: 'Unutulmaz bir maç oldu!'",
-      "summary_tr": "Türkiye'yi 2. dakikada attığı golle Dünya Kupasının dışında bırakan Matias Galarza, galibiyetin kendileri için tarihi ve unutulmaz olduğunu belirtti."
-    },
-    {
-      "title": "Paraguay Teknik Direktörü Alfaro: Türkiye’ye karşı nasıl kazanabileceğimizi biliyorduk ve kazandık",
-      "summary": "2026 FIFA Dünya Kupası D Grubu ikinci maçında Türkiye'yi 1-0 mağlup eden Paraguay Milli Takımı'nın teknik direktörü Gustavo Alfaro, Türkiye'ye karşı nasıl kazanacaklarını bildiklerini ve bunu sahada uyguladıklarını söyledi.",
-      "url": "https://www.cnnturk.com/spor/dunya-kupasi/paraguay-teknik-direktoru-alfaro-turkiyeye-karsi-nasil-kazanabilecegimizi-biliyorduk-ve-kazandik-3433170",
-      "image_url": null,
-      "published": "2026-06-20T11:35:23",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:21:31.189978",
-      "priority_score": 41,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-20T16:23:42.973137",
-      "title_tr": "Paraguay Teknik Direktörü Alfaro: Türkiye’ye karşı nasıl kazanabileceğimizi biliyorduk ve kazandık",
-      "summary_tr": "2026 FIFA Dünya Kupası D Grubu ikinci maçında Türkiye'yi 1-0 mağlup eden Paraguay Milli Takımı'nın teknik direktörü Gustavo Alfaro, Türkiye'ye karşı nasıl kazanacaklarını bildiklerini ve bunu sahada uyguladıklarını söyledi."
-    },
-    {
-      "title": "Why Kane is different at this World Cup - Shearer",
-      "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
-      "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-20T13:24:12",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.351897",
-      "priority_score": 40,
-      "categories": [
-        "world_cup"
-      ],
-      "processed_at": "2026-06-20T16:23:42.428776",
-      "title_tr": "Kane bu Dünya Kupası'nda neden farklı? - Shearer",
-      "summary_tr": "Eski İngiltere kaptanı Alan Shearer, Katar'daki 2022 Dünya Kupası'ndaki mücadelesinden bu yana Harry Kane için nelerin değiştiğini açıklıyor."
-    },
-    {
-      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-20T05:49:51",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-20T16:19:16.354352",
-      "priority_score": 40,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-20T16:23:42.437638",
-      "title_tr": "10 kişilik Paraguay, Almiron'un kırmızı kartına rağmen Türkiye'yi nakavt etti",
-      "summary_tr": "Miguel Almiron'un kırmızı kartına rağmen 10 kişilik Paraguay'ın kazanması ve Türkiye'nin 2026 Dünya Kupası'ndan elenmesinin önemli anlarını izleyin."
+      "processed_at": "2026-06-20T18:08:53.976106",
+      "title_tr": "SC Heerenveen, imrenilen kalelerin göçüne karşı korunmalı",
+      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
     }
   ]
 }
