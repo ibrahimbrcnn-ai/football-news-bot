@@ -1,47 +1,50 @@
 {
-  "timestamp": "2026-06-27T02:13:27.157591",
+  "timestamp": "2026-06-27T06:25:57.482373",
   "total_items": 30,
   "news": [
     {
-      "title": "Tottenham latest: Striker exit confirmed",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "published": "2026-06-26T22:08:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "England qualify for World Cup knockout stage",
+      "summary": "England's place in the knockout stages of the World Cup is confirmed by other results before they face Panama in their final group game on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-27T02:47:52",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-27T02:08:43.627294",
-      "priority_score": 86,
+      "fetched_at": "2026-06-27T06:20:50.223954",
+      "priority_score": 90,
       "categories": [
         "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-27T02:12:08.817702",
-      "title_tr": "Tottenham'da son durum: Forvet çıkışı onaylandı",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
-      "summary": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-man Iraq in their Group I finale.Ismaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time f",
-      "url": "https://www.theguardian.com/football/2026/jun/26/senegal-iraq-world-cup-group-i-match-report",
-      "image_url": null,
-      "published": "2026-06-26T21:36:33",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.012166",
-      "priority_score": 83,
-      "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.864455",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.667732",
+      "title_tr": "İngiltere Dünya Kupası eleme turuna katılmaya hak kazandı",
+      "summary_tr": "İngiltere'nin Dünya Kupası'nda eleme turlarındaki yeri, Cumartesi günkü son grup maçında Panama ile karşılaşmadan önce alınan diğer sonuçlarla da doğrulandı."
+    },
+    {
+      "title": "England through to last 32 of the World Cup after Uruguay exit against Spain",
+      "summary": "Uruguay’s exit means England through to knockoutsThomas Tuchel’s side face Panama on SaturdayEngland’s place in the last 32 of the World Cup has been confirmed after results in Group H ensured Thomas Tuchel’s side would, at worst, qualify as one of the best third-placed teams.Uruguay’s defeat to Spa",
+      "url": "https://www.theguardian.com/football/2026/jun/27/england-through-to-last-32-of-the-world-cup-after-uruguay-exit-against-spain",
+      "image_url": null,
+      "published": "2026-06-27T02:09:20",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:21:27.387030",
+      "priority_score": 88,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.733768",
+      "title_tr": "İngiltere, Uruguay'ın İspanya karşısında elenmesinin ardından Dünya Kupası'nda son 32'ye kaldı",
+      "summary_tr": "Uruguay'ın ayrılması, İngiltere'nin nakavtla karşılaşması anlamına geliyorThomas Tuchel'in takımı Cumartesi günü Panama ile karşılaşacak İngiltere'nin Dünya Kupası'nda son 32'deki yeri, H Grubu'ndaki sonuçların Thomas Tuchel'in takımının en kötü ihtimalle en iyi üçüncü sıradaki takımlardan biri olmasını garantilemesinin ardından doğrulandı.Uruguay'ın Spa'ya yenilmesi"
     },
     {
       "title": "Borussia Dortmund announce pre-season friendly against Arsenal",
@@ -53,7 +56,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:25.217916",
+      "fetched_at": "2026-06-27T06:21:54.698646",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -61,50 +64,90 @@
         "premier_league",
         "bundesliga"
       ],
-      "processed_at": "2026-06-27T02:12:08.926312",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.802974",
+      "title_tr": "Borussia Dortmund, Arsenal ile sezon öncesi hazırlık hazırlıklarını duyurdu",
+      "summary_tr": "Kulüp, Borussia Dortmund'un 2026/27 sezonu öncesinde sondan bir önceki sezon öncesi hazırlık maçının, Emirates Stadyumu'nda İngiltere Premier Lig şampiyonu Arsenal'e karşı oynanacağını doğruladı."
     },
     {
-      "title": "Fenerbahçe'ye Greenwood transferinde teminat krizi: Marsilya'dan dikkat çeken talep! UEFA detayı...",
-      "summary": "Fenerbahçe'nin Mason Greenwood transferinde banka teminatı krizi yaşadığı iddia edildi. Marsilya'nın, UEFA cezasını gerekçe göstererek sarı-lacivertlilerden bonservis bedeli için teminat talep ettiği öne sürüldü.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-greenwood-transferinde-teminat-krizi-marsilyadan-dikkat-ceken-talep-uefa-detayi-43220018",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a3e9b41712c3a6c3dbdf5d8.jpg",
-      "published": "2026-06-26T15:31:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:10:31.444111",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-27T02:12:09.020955",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "England’s Reece James ruled out for at least two games with hamstring injury",
-      "summary": "Tuchel now left with limited regular full-back optionsChelsea defender sustained hamstring setback in MarchReece James will miss England’s next two World Cup matches at least as he fights to recover from a hamstring injury. The right-back, who has a history of problems in the muscle, reported tightn",
-      "url": "https://www.theguardian.com/football/2026/jun/26/england-reece-james-ruled-out-two-games-world-cup-hamstring-injury-panama",
+      "title": "Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
+      "summary": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-man Iraq in their Group I finale.Ismaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time f",
+      "url": "https://www.theguardian.com/football/2026/jun/26/senegal-iraq-world-cup-group-i-match-report",
       "image_url": null,
-      "published": "2026-06-26T19:55:14",
+      "published": "2026-06-26T21:36:33",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.011582",
-      "priority_score": 68,
+      "fetched_at": "2026-06-27T06:21:27.388393",
+      "priority_score": 78,
       "categories": [
-        "injuries",
-        "premier_league",
+        "match_results",
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.854702",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.753365",
+      "title_tr": "Senegal, 10 kişilik Irak'ı mağlup ederek Dünya Kupası'nda son 32'de kalmayı umut ediyor",
+      "summary_tr": "Yedek oyuncu Pape Gueye, ikinci yarıda uzun mesafeden bir çift sansasyonel gol attı ve Senegal, Grup I finalinde 10 kişilik Irak'ı 5-0 yenerek gol farkında çok ihtiyaç duyulan desteği elde etti. Ismaïla Sarr turnuvanın üçüncü golünü ekledi, ilk yarının ardından dört golün ilki"
+    },
+    {
+      "title": "Iran denied guaranteed spot in last 32 as VAR disallow injury-time winner",
+      "summary": "Shoja Khalilzadeh's goal is ruled out by VAR in injury-time denying Iran automatic qualification into the round of 32, meaning they will have to wait on other results to see if they go through as one of the best third-placed sides.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-27T05:45:25",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:20:50.224404",
+      "priority_score": 75,
+      "categories": [
+        "match_results",
+        "injuries"
+      ],
+      "processed_at": "2026-06-27T06:24:38.668709",
+      "title_tr": "VAR, uzatma anının galibine izin vermediğinden İran son 32'de yer garantisini reddetti",
+      "summary_tr": "Shoja Khalilzadeh'in golü, uzatma anında VAR tarafından iptal edildi ve İran'ın otomatik olarak son 32 turuna katılması engellendi, bu da onların en iyi üçüncü sıradaki takımlardan biri olup olmadıklarını görmek için diğer sonuçları beklemek zorunda kalacakları anlamına geliyor."
+    },
+    {
+      "title": "VI Live: Portugal en Colombia strijden om groepswinst, ook DR Congo kan nog door",
+      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor de ontknoping in Groep K met Colombia tegen Portugal en DR Congo tegen Oezbekistan. In aanloop naar en vanaf de aftrap om 01.30 uur blijf je",
+      "url": "https://www.vi.nl/nieuws/vi-live-portugal-en-colombia-strijden-om-groepswinst-ook-dr-congo-kan-nog-door",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/a53790ff65b32addef86b65202affbc788a504ca.jpg?width=1200",
+      "published": "2026-06-27T05:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:24:34.194442",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-06-27T06:24:39.729440",
+      "title_tr": "VI Live: Portekiz ve Kolombiya grup zaferi için savaşıyor, Kongo Demokratik Cumhuriyeti de devam edebilir",
+      "summary_tr": "Voetbal International, Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında 104 maçın tamamını kendi VI Live'ında takip edecek. Bu edisyonda tüm dikkatler K Grubu'nda Kolombiya'nın Portekiz'e karşı ve Kongo Demokratik Cumhuriyeti'nin Özbekistan'a karşı mücadelesine odaklanıyor. Sabah 1:30'daki başlama vuruşuna kadar ve başlama vuruşundan itibaren koşuda kalacaksınız"
+    },
+    {
+      "title": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
+      "summary": "Iran had a last-gasp goal overturned as they just missed out on grabbing second spot in Group G - but a first-ever progression to the World Cup knockouts could still be achieved after their dramatic 1-1 draw with Egypt.",
+      "url": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-egypt-world-cup-iran_7284030.jpg?20260627063725",
+      "published": "2026-06-27T06:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:21:04.736730",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.685844",
+      "title_tr": "İran ünlü galibiyete birkaç santim uzakta ama Mısır beraberliği sonrasında hala Dünya Kupası umudu var",
+      "summary_tr": "İran, G Grubu'nda ikinci sırayı kaçırdığı için son nefesinde attığı gol bozuldu; ancak Mısır'la 1-1'lik dramatik beraberliğin ardından Dünya Kupası'nda ilk kez nakavtla ilerleme kaydedilebildi."
     },
     {
       "title": "Kerim Alajbegović: Who is the Bayer Leverkusen teenager breaking World Cup records?",
@@ -116,76 +159,135 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:25.215205",
-      "priority_score": 66,
+      "fetched_at": "2026-06-27T06:21:54.695858",
+      "priority_score": 61,
       "categories": [
         "breaking_news",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.912019",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.788552",
+      "title_tr": "Kerim Alajbegović: Bayer Leverkusen'in Dünya Kupası rekorlarını kıran genci kim?",
+      "summary_tr": "Bosna-Hersekli milli oyuncu Kerim Alajbegović, Red Bull Salzburg'da geçirdiği sansasyonel atılım sezonunun ve 2026 FIFA Dünya Kupası'nda unutulmaz bir grup aşamasının ardından Bayer Leverkusen'e dönmeye hazırlanıyor."
     },
     {
-      "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
-      "summary": "Ousmane Dembele's first-half hat-trick helps France soundly defeat a Norway side without Erling Haaland 4-1 to top Group I at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-26T21:34:57",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "VI Live: Oostenrijk en Algerije strijden om plek twee, Messi gespaard",
+      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor de ontknoping van Groep J met Algerije tegen Oostenrijk en Jordanië tegen Argentinië. In aanloop naar en vanaf de aftrap om 04.00 uur blijf ",
+      "url": "https://www.vi.nl/nieuws/vi-live-oostenrijk-en-algerije-strijden-om-plek-twee-schittert-messi-opnieuw",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/16/2ee236dbb085fd9cc98dce8d43ee6f0ca65bcca2.jpg?width=1200",
+      "published": "2026-06-27T05:56:28",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-27T02:08:33.116518",
-      "priority_score": 65,
+      "fetched_at": "2026-06-27T06:24:34.194110",
+      "priority_score": 57,
       "categories": [
-        "breaking_news",
-        "world_cup"
+        "serie_a"
       ],
-      "processed_at": "2026-06-27T02:12:08.787017",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:39.665367",
+      "title_tr": "VI Canlı: Avusturya ve Cezayir ikincilik için mücadele ediyor, Messi kurtuldu",
+      "summary_tr": "Voetbal International, Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında 104 maçın tamamını kendi VI Live'ında takip edecek. Bu edisyonda tüm dikkatler J Grubu'nun Cezayir ile Avusturya ve Ürdün'ün Arjantin ile karşılaşmasına odaklanıyor. Sabah 4'teki başlama vuruşuna kadar ve sonrasında, kalın"
     },
     {
-      "title": "Dembele's 'magic' first-half hat-trick",
-      "summary": "France forward Ousmane Dembele stuns Norway with an incredible hat-trick in the opening 32 minutes of their Group I World Cup clash in Boston.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2jdw4xyxlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-26T20:59:23",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:08:33.118469",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-27T02:12:08.794296",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'dan 10+4 kuralına özel forvet: Icardi'nin alternatifi, Beşiktaş'ın rakibinde bulundu!",
-      "summary": "Sözleşmesi biten Mauro Icardi'ye yeni kontrat teklifini ileten Galatasaray'da bir yandan da transfer çalışmaları devam ediyor. Sarı-kırmızılılar, aradığı forveti Danimarka'da buldu. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-10-4-kuralina-ozel-forvet-icardinin-alternatifi-bulundu-43219119",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a3e3240830a571e18028c97.jpg",
-      "published": "2026-06-26T10:37:24",
+      "title": "Fenerbahçe'ye Greenwood transferinde teminat krizi: Marsilya'dan dikkat çeken talep! UEFA detayı...",
+      "summary": "Fenerbahçe'nin Mason Greenwood transferinde banka teminatı krizi yaşadığı iddia edildi. Marsilya'nın, UEFA cezasını gerekçe göstererek sarı-lacivertlilerden bonservis bedeli için teminat talep ettiği öne sürüldü.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-greenwood-transferinde-teminat-krizi-marsilyadan-dikkat-ceken-talep-uefa-detayi-43220018",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a3e9b41712c3a6c3dbdf5d8.jpg",
+      "published": "2026-06-26T15:31:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:31.444774",
-      "priority_score": 76,
+      "fetched_at": "2026-06-27T06:22:55.547232",
+      "priority_score": 81,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-27T02:12:09.102834",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.950732",
+      "title_tr": "Fenerbahçe'ye Greenwood transferinde teminat krizi: Marsilya'dan dikkat çeken talep! UEFA detayı...",
+      "summary_tr": "Fenerbahçe'nin Mason Greenwood transferinde banka teminatı krizi yaşadığı iddia edildi. Marsilya'nın, UEFA cezasını gerekçe göstererek sarı-lacivertlilerden bonservis bedeli için teminat talep ettiği öne sürüldü."
+    },
+    {
+      "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+      "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9v2jyl8ry1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-27T05:32:49",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:20:50.225761",
+      "priority_score": 75,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.676294",
+      "title_tr": "'Muhteşem!' - De Bruyne ticari marka greviyle hedefi tutturdu",
+      "summary_tr": "Kevin De Bruyne, 2026 Dünya Kupası'ndaki ilk golünü, Belçika'nın Yeni Zelanda'yı yenerek G Grubu'nda lider bitirmesiyle attı."
+    },
+    {
+      "title": "Cape Verde continue fairytale World Cup debut after Saudi Arabia draw books last-32 spot",
+      "summary": "After the full-time whistle Cape Verde’s players formed a huddle around their head coach, Bubista, eyes straining at the tiny moving images on a mobile phone. They sought the certainty that a dream had come true and, when the outcome nearly 1,000 miles away in Guadalajara was confirmed, erupted in u",
+      "url": "https://www.theguardian.com/football/2026/jun/27/cape-verde-saudi-arabia-world-cup-match-report",
+      "image_url": null,
+      "published": "2026-06-27T02:17:24",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:21:27.386157",
+      "priority_score": 73,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.724669",
+      "title_tr": "Yeşil Burun Adaları, Suudi Arabistan'ın son 32'de yer almasının ardından masalsı Dünya Kupası'ndaki ilk maçına devam ediyor",
+      "summary_tr": "Maçın bitmesinin ardından Yeşil Burun Adaları'nın oyuncuları başantrenör Bubista'nın etrafında toplandılar ve gözleri cep telefonundaki hareketli minik görüntülere dikildi. Bir rüyanın gerçekleştiğine dair kesinlik aradılar ve yaklaşık 1600 kilometre ötedeki Guadalajara'da sonuç doğrulandığında, bu rüya senin içinde patlak verdi."
+    },
+    {
+      "title": "Süper Lig'de transfer düellosu! Tam 4 takım...",
+      "summary": "Trendyol Süper Lig ekiplerinden Beşiktaş, Çorum FK, Fenerbahçe ve Trabzonspor; Pierre-Emerick Aubameyang'ın transferi için harekete geçti. Fransız basınında yer alan habere göre tecrübeli santrforun bonservisi...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/superlig/2026/06/26/super-ligde-transfer-duellosu-tam-4-takim",
+      "image_url": "https://iaftm.tmgrup.com.tr/def4a5/1200/675/0/57/2048/1210?u=https://iftm.tmgrup.com.tr/2026/06/26/super-ligde-transfer-duellosu-tam-4-takim-1782479007683.jpg",
+      "published": "2026-06-26T22:16:50",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:23:30.430025",
+      "priority_score": 64,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-27T06:24:39.360823",
+      "title_tr": "Süper Lig'de transfer düellosu! Tam 4 takım...",
+      "summary_tr": "Trendyol Süper Lig ekiplerinden Beşiktaş, Çorum FK, Fenerbahçe ve Trabzonspor; Pierre-Emerick Aubameyang'ın transferi için harekete geçti. Fransız basınında yer alan habere göre tecrübeli santrforun bonservisi...Devamı için tıklayınız"
+    },
+    {
+      "title": "Drama-laden draw leaves Iran in limbo as Egypt set up last-32 clash with Australia",
+      "summary": "“After review,” began the Polish referee Szymon Marciniak, those two words breaking the hearts of Iran after they thought they scrambled an unlikely 93rd-minute winner. Moments earlier, the 37-year-old Shoja Khalilzadeh fired in from the edge of the six-yard box, whipped off his No 4 shirt in double",
+      "url": "https://www.theguardian.com/football/2026/jun/27/egypt-iran-world-cup-group-g-match-report",
+      "image_url": null,
+      "published": "2026-06-27T05:29:47",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:21:27.387432",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-27T06:24:38.738741",
+      "title_tr": "Mısır, Avustralya ile son 32 karşılaşmasına hazırlanırken dramatik beraberlik İran'ı belirsizliğe sürükledi",
+      "summary_tr": "Polonyalı hakem Szymon Marciniak, \"İncelemeden sonra\" diye başladı ve bu iki kelime, 93. dakikada beklenmeyen bir galibiyetle karşılaştıklarını düşündükleri İran'ın kalbini kırdı. Birkaç dakika önce 37 yaşındaki Shoja Khalilzadeh, 6 yarda ceza sahasının kenarından ateş ederek 4 numaralı formasını ikiye ayırdı."
     },
     {
       "title": "Dembélé hat-trick fires France past Norway to seal top spot in World Cup group",
@@ -197,55 +299,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.011889",
-      "priority_score": 68,
+      "fetched_at": "2026-06-27T06:21:27.388084",
+      "priority_score": 63,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.859779",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Is a former England striker right about reasons for Scottish football's ills?",
-      "summary": "From undervalued broadcasting deals to unfulfilled potential, Ian Wright says he feels sorry for Scottish football fans - but is the former England striker right?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-26T16:26:04",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:08:33.116748",
-      "priority_score": 65,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-27T02:12:08.787622",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Süper Lig'de transfer düellosu! Tam 4 takım...",
-      "summary": "Trendyol Süper Lig ekiplerinden Beşiktaş, Çorum FK, Fenerbahçe ve Trabzonspor; Pierre-Emerick Aubameyang'ın transferi için harekete geçti. Fransız basınında yer alan habere göre tecrübeli santrforun bonservisi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/superlig/2026/06/26/super-ligde-transfer-duellosu-tam-4-takim",
-      "image_url": "https://iaftm.tmgrup.com.tr/def4a5/1200/675/0/57/2048/1210?u=https://iftm.tmgrup.com.tr/2026/06/26/super-ligde-transfer-duellosu-tam-4-takim-1782479007683.jpg",
-      "published": "2026-06-26T13:01:22",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:11:07.998303",
-      "priority_score": 64,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-27T02:12:09.505598",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.748267",
+      "title_tr": "Dembélé hat-trick yaparak Fransa'yı Norveç'i geçerek Dünya Kupası grubunda zirveye taşıdı",
+      "summary_tr": "Dünya Kupası'nda bu aşırı hareketli, son derece çeşitli Fransız saldırısını reddedecek savunma gücüne sahip olan var mı? Görünen o ki, Boston'un ilk yarısında Ousmane Dembélé 4-1'lik galibiyete giden yolda 25 dakikada güzel bir hat-trick yaptığında parçalanan ikinci sıradaki Norveç değil. F"
     },
     {
       "title": "Kayserispor'dan 6 imza birden!",
@@ -257,33 +320,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.152006",
+      "fetched_at": "2026-06-27T06:22:43.231739",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:08.969775",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Antalyaspor'da Bülent Korkmaz dönemi",
-      "summary": "1'inci Lig ekiplerinden Antalyaspor, teknik direktör Bülent Korkmaz ile 1 yıllık sözleşme imzaladı.",
-      "url": "https://www.haberturk.com/antalyaspor-da-bulent-korkmaz-donemi-3894423-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/26/ver1782479311/3894423/jpg/1280x1280",
-      "published": "2026-06-26T13:08:34",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.152212",
-      "priority_score": 63,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-27T02:12:08.985305",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.848799",
+      "title_tr": "Kayserispor'dan 6 imza birden!",
+      "summary_tr": "Kayserispor alt yapısında forma giyen 6 futbolcusu ile profesyonel sözleşme imzaladığını duyurdu."
     },
     {
       "title": "Amed Sportif Faaliyetler transferi resmen açıkladı!",
@@ -295,14 +339,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:31.444038",
+      "fetched_at": "2026-06-27T06:22:55.547140",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:09.009186",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.937899",
+      "title_tr": "Amed Sportif Faaliyetler transferi resmen açıkladı!",
+      "summary_tr": "Amed Sportif Faaliyetler Ermal Krasniqi transferini açıkladı."
     },
     {
       "title": "Vedat Muriqi'ten itiraf: 'Dönmeyi hep hayal ediyordum'",
@@ -314,34 +358,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:31.444357",
+      "fetched_at": "2026-06-27T06:22:55.547457",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-27T02:12:09.051203",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Antalyaspor'un yeni teknik direktörü Bülent Korkmaz oldu",
-      "summary": "1'inci Lig ekiplerinden Antalyaspor, teknik direktör Bülent Korkmaz ile 1 yıllık sözleşme imzaladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/antalyasporun-yeni-teknik-direktoru-bulent-korkmaz-oldu-43219834",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a3e7da9ec06ede62b458ba1.jpg",
-      "published": "2026-06-26T13:25:05",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:10:31.444427",
-      "priority_score": 61,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-27T02:12:09.058684",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.983314",
+      "title_tr": "Vedat Muriqi'ten itiraf: 'Dönmeyi hep hayal ediyordum'",
+      "summary_tr": "Fenerbahçe'nin yeni transferi Vedat Muriqi, kulübün kanalına açıklamalarda bulundu."
     },
     {
       "title": "Bülent Korkmaz, Antalyaspor'a imzayı attı",
@@ -353,35 +378,95 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:57.247860",
+      "fetched_at": "2026-06-27T06:23:18.285098",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:09.257767",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:39.148085",
+      "title_tr": "Bülent Korkmaz, Antalyaspor'a imzayı attı",
+      "summary_tr": "Trendyol 1. Lig ekiplerinden Antalyaspor, teknik direktör Bülent Korkmaz ile 1 yıllık sözleşme imzaladı."
     },
     {
-      "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
-      "summary": "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club interestMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said",
-      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
+      "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+      "summary": "Ousmane Dembele's first-half hat-trick helps France soundly defeat a Norway side without Erling Haaland 4-1 to top Group I at the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-06-26T20:02:34",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-06-26T21:34:57",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.012579",
-      "priority_score": 58,
+      "fetched_at": "2026-06-27T06:20:50.225929",
+      "priority_score": 60,
       "categories": [
-        "transfers",
-        "serie_a",
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.869627",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.678158",
+      "title_tr": "Dembele'nin muhteşem hat-trick'i Fransa'nın Norveç'i lider grupta mağlup etmesine yardımcı oldu",
+      "summary_tr": "Ousmane Dembele'nin ilk yarıdaki hat-trick'i, Fransa'nın Erling Haaland'sız Norveç takımını 4-1 yenerek Dünya Kupası'nda Grup I'in zirvesine çıkmasına yardımcı oldu."
+    },
+    {
+      "title": "Galatasaray'a 20'lik golcü! İşte kulübünün bonservis talebi",
+      "summary": "Galatasaray'da gelecek sezonun transfer çalışmaları başladı. Sarı-kırmzılılar, 10+4 kuralı sebebiyle rotasını genç yıldızlara çevirirken bu doğrultuda gündemine aldığı isim ise ortaya çıktı. İşte detaylar......Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/06/27/galatasaraya-20lik-golcu-iste-kulubunun-bonservis-talebi",
+      "image_url": "https://iaftm.tmgrup.com.tr/c108bf/1200/675/0/0/829/465?u=https://iftm.tmgrup.com.tr/2026/06/27/galatasaraya-20lik-golcu-iste-kulubunun-bonservis-talebi-1782511987772.jpeg",
+      "published": "2026-06-26T22:14:09",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:23:30.429066",
+      "priority_score": 59,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-27T06:24:39.289649",
+      "title_tr": "Galatasaray'a 20'lik golcü! İşte kulübünün bonservis talebi",
+      "summary_tr": "Galatasaray'da gelecek sezonun transfer çalışmaları başladı. Sarı-kırmzılılar, 10+4 kuralı sebebiyle rotasını genç yıldızlara çevirirken bu doğrultuda gündemine aldığı isim ise ortaya çıktı. İşte detaylar......Devamı için tıklayınız"
+    },
+    {
+      "title": "Yeşil Burun Adaları tarih yazdı",
+      "summary": "FIFA 2026 Dünya Kupası H Grubunda Yeşil Burun Adaları ve Suudi Arabistan takımları, Teksas eyaletindeki Houston şehrinde bulunan Houston Stadyumunda karşılaştı. Suudi Arabistan, Yeşil Burun Adaları ile oynadığı maçta golsüz berabere kalarak 2026 Dünya Kupası'ndaki turnuvadan ilk turda resmen elendi.",
+      "url": "https://www.haberturk.com/yesil-burun-adalari-suudi-arabistan-mac-sonucu-ozeti-ve-golleri-yesil-burun-adalari-suudi-arabistan-dunya-kupasi-grup-maci-kac-kac-bitti-3894504-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/27/ver1782530085/3894504/jpg/1280x1280",
+      "published": "2026-06-27T04:05:32",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:22:43.230831",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.806427",
+      "title_tr": "Yeşil Burun Adaları tarih yazdı",
+      "summary_tr": "FIFA 2026 Dünya Kupası H Grubunda Yeşil Burun Adaları ve Suudi Arabistan takımları, Teksas eyaletindeki Houston şehrinde bulunan Houston Stadyumunda karşılaştı. Suudi Arabistan, Yeşil Burun Adaları ile oynadığı maçta golsüz berabere kalarak 2026 Dünya Kupası'ndaki turnuvadan ilk turda resmen elendi."
+    },
+    {
+      "title": "İspanya tek golle kazandı",
+      "summary": "2026 FIFA Dünya Kupası H Grubunda Uruguay ve İspanya takımları, Meksika’nın Guadalajara kentindeki Guadalajara Stadyumu’nda karşılaştı. İspanya, Uruguay'ı 1-0 mağlup ederek H Grubu'nu 7 puanla lider tamamladı. İspanya grup lideri olarak son 32 turuna yükseldi. Yeşil Burun Adaları, Suudi Arabistan il",
+      "url": "https://www.haberturk.com/uruguay-ispanya-mac-sonucu-ozeti-ve-golleri-uruguay-ispanya-dunya-kupasi-grup-maci-kac-kac-bitti-3894505-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/27/ver1782529495/3894505/jpg/1280x1280",
+      "published": "2026-06-27T03:52:18",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-27T06:22:43.230927",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T06:24:38.809412",
+      "title_tr": "İspanya tek golle kazandı",
+      "summary_tr": "2026 FIFA Dünya Kupası H Grubunda Uruguay ve İspanya takımları, Meksika’nın Guadalajara kentindeki Guadalajara Stadyumu’nda karşılaştı. İspanya, Uruguay'ı 1-0 mağlup ederek H Grubu'nu 7 puanla lider tamamladı. İspanya grup lideri olarak son 32 turuna yükseldi. Yeşil Burun Adaları, Suudi Arabistan il"
     },
     {
       "title": "Augusto'da anlaşma tamam!",
@@ -393,14 +478,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.151522",
+      "fetched_at": "2026-06-27T06:22:43.231321",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:08.941098",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.824037",
+      "title_tr": "Augusto'da anlaşma tamam!",
+      "summary_tr": "Transferde hızlı bir dönem geçiren Trabzonspor'da bir de ayrılık yaşandı... Bordo-mavililer, Felipe Augusto için Rus temsilcisi Zenit'le anlaşmaya vardı."
     },
     {
       "title": "Trabzonspor'da transferde mutlu son!",
@@ -412,14 +497,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.151732",
+      "fetched_at": "2026-06-27T06:22:43.231463",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:08.952861",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.832445",
+      "title_tr": "Trabzonspor'da transferde mutlu son!",
+      "summary_tr": "Transfer dönemine hızlı bir giriş yapan Trabzonspor, bir isimde daha mutlu sona ulaştı... Bordo-mavililer Gençlerbirliği'nden Metehan Mimaroğlu ile 1 yıllık anlaşma sağladı."
     },
     {
       "title": "G.Saray, Can Korkmaz'la sözleşme yeniledi!",
@@ -431,15 +516,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.151870",
+      "fetched_at": "2026-06-27T06:22:43.231603",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-27T02:12:08.962149",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.841510",
+      "title_tr": "G.Saray, Can Korkmaz'la sözleşme yeniledi!",
+      "summary_tr": "Galatasaray MCT Technic Erkek Basketbol Takımı, oyun kurucu Can Korkmaz ile 1 yıllık sözleşme imzalandığını açıkladı."
     },
     {
       "title": "\"İsmail Kartal önderliğinde şampiyonluğa ulaşacağız\"",
@@ -451,16 +536,16 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:10:20.152146",
+      "fetched_at": "2026-06-27T06:22:43.231879",
       "priority_score": 58,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-27T02:12:08.980651",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.859253",
+      "title_tr": "\"İsmail Kartal önderliğinde şampiyonluğa ulaşacağız\"",
+      "summary_tr": "Fenerbahçe'ye geri dönen Vedat Muriqi, transfer süreci, şampiyonluk ve Avrupa deneyimi hakkında FB TV'ye dikkat çeken açıklamalarda bulundu. Yeni teknik direktörleri İsmail Kartal'dan da övgüyle bahseden Kosovalı golcü, Kader yıllar sonra tekrar bizi bir araya getirdi. İdmanlarımız da dişe diş geçiy"
     },
     {
       "title": "Amedspor ilk transferini duyurdu",
@@ -472,135 +557,53 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-27T02:11:27.486350",
+      "fetched_at": "2026-06-27T06:23:48.530789",
       "priority_score": 57,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:09.631056",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:39.523379",
+      "title_tr": "Amedspor ilk transferini duyurdu",
+      "summary_tr": "Amed Sportif Faaliyetler, Kosovalı futbolcu Krasniqi'yi transfer etti.Kulübün açıklamasında, orta saha ve sağ kanat mev..."
     },
     {
-      "title": "'Manchester City mengt zich in strijd om WK-revelatie Bouaddi'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/manchester-city-mengt-zich-in-strijd-om-wk-revelatie-bouaddi",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-06-26T23:15:18",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:12:05.050343",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-06-27T02:12:09.785537",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "New Zealand v Belgium: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT⚽️ Third-place table | Player guide | Golden Boot | Mail Sam⚽️ Egypt v Iran – follow live with Jonathan HowcroftIn a nerve-jangling stalemate playing out at the moment, Cape Verde have leapfrogged Uruguay and landed in second spot in Group H while",
-      "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest",
+      "title": "Scotland's World Cup hopes at 0.42% - these are results they need",
+      "summary": "Defeat against Brazil left Scotland in a precarious position, but little has gone their way since either.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-06-27T01:46:26",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-06-27T05:38:01",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.011125",
-      "priority_score": 53,
+      "fetched_at": "2026-06-27T06:20:50.224772",
+      "priority_score": 55,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-27T02:12:08.849744",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:38.670127",
+      "title_tr": "İskoçya'nın Dünya Kupası yüzde 0,42'yi umuyor - bunlar ihtiyaç duydukları sonuçlar",
+      "summary_tr": "Brezilya'ya karşı alınan yenilgi İskoçya'yı istikrarsız bir durumda bıraktı, ancak her ikisinden de bu yana pek bir şey yolunda gitmedi."
     },
     {
-      "title": "How content creators are bringing fans an added dimension to this World Cup",
-      "summary": "YouTubers reveal how they are challenging traditional broadcast coverage of the tournament with their own audience interactionFor decades, the World Cup belonged to broadcasters. Fans gathered around the television, watched the game live or caught the highlights later that evening. In the UK, BBC an",
-      "url": "https://www.theguardian.com/football/2026/jun/26/influencers-content-creators-world-cup-2026-broadcasting-youtube",
-      "image_url": null,
-      "published": "2026-06-26T15:59:56",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:09:05.013697",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-27T02:12:08.887551",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Real Madrid bevestigt: contract van aan Ajax gelinkte Ceballos ontbonden",
-      "summary": "Real Madrid heeft bevestigd dat Dani Ceballos de club verlaat. De speler trekt na negen jaar de deur van het Santiago Bernabéu achter zich dicht. 'Het was geen makkelijk jaar en geen makkelijke beslissing.'",
-      "url": "https://www.vi.nl/nieuws/real-madrid-bevestigt-contract-van-aan-ajax-gelinkte-ceballos-ontbonden",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/26/9a9f8b82a5614f4688bb7edabd4edac833acd622.jpg?width=1200",
-      "published": "2026-06-26T18:25:36",
+      "title": "Transfervrije Clement duikt op bij FC Groningen",
+      "summary": "Blijf via dit blog op de hoogte van alle transfers en transfergeruchten bij en rond clubs in de Eredivisie en de Keuken Kampioen Divisie. Bekijk hier ons blog voor de transferperikelen in het buitenland .",
+      "url": "https://www.vi.nl/nieuws/transfervrije-clement-duikt-op-bij-fc-groningen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/04/3565db48b43ee9ce01dfece23d9672d8f9a89606.jpg?width=1200",
+      "published": "2026-06-27T06:11:22",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-27T02:12:05.075997",
+      "fetched_at": "2026-06-27T06:24:34.193859",
       "priority_score": 52,
       "categories": [
-        "transfers",
-        "la_liga"
+        "transfers"
       ],
-      "processed_at": "2026-06-27T02:12:09.937747",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Sri Lanka keep Women's T20 World Cup semi-finals hopes alive with Scotland win",
-      "summary": "Sri Lanka kept alive their slim hopes of making the Women's T20 World Cup semi-finals for the first time after a dramatic last-over win over Scotland at Old Trafford.",
-      "url": "https://www.skysports.com/cricket/news/12040/13558169/sri-lanka-keep-alive-womens-t20-world-cup-semi-finals-hopes-after-beating-scotland-at-old-trafford",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-sri-lanka-t20-world-cup_7283947.jpg?20260626224156",
-      "published": "2026-06-26T22:49:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:08:43.627031",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-27T02:12:08.807506",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Dembele's first-half hat-trick sees France beat Norway's reserves",
-      "summary": "Ousmane Dembele's 25-minute hat-trick allowed France to comfortably beat Norway's second string 4-1 and complete a perfect Group I campaign.",
-      "url": "https://www.skysports.com/football/norway-vs-france/report/549831",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-france-norway_7283920.jpg?20260626214202",
-      "published": "2026-06-26T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-27T02:08:43.627252",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-27T02:12:08.815766",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-06-27T06:24:39.618203",
+      "title_tr": "Transfersiz Clement, FC Groningen'de",
+      "summary_tr": "Bu blog aracılığıyla Eredivisie ve Kitchen Champion Division'daki kulüplerdeki ve çevresindeki tüm transferler ve transfer söylentilerinden haberdar olun. Yurt dışı transfer sorunları için buradaki blogumuza göz atın."
     }
   ]
 }
