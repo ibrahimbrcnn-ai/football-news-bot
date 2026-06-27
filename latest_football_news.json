@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T23:59:25.526230",
+  "timestamp": "2026-06-27T02:13:27.157591",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:27.616848",
+      "fetched_at": "2026-06-27T02:08:43.627294",
       "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-06-26T23:57:55.391292",
+      "processed_at": "2026-06-27T02:12:08.817702",
       "title_tr": "Tottenham'da son durum: Forvet çıkışı onaylandı",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
@@ -32,14 +32,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.791809",
+      "fetched_at": "2026-06-27T02:09:05.012166",
       "priority_score": 83,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.428702",
+      "processed_at": "2026-06-27T02:12:08.864455",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -53,7 +53,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-26T23:55:16.911949",
+      "fetched_at": "2026-06-27T02:09:25.217916",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -61,7 +61,7 @@
         "premier_league",
         "bundesliga"
       ],
-      "processed_at": "2026-06-26T23:57:55.510984",
+      "processed_at": "2026-06-27T02:12:08.926312",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -75,13 +75,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:17.198576",
+      "fetched_at": "2026-06-27T02:10:31.444111",
       "priority_score": 81,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:55.609022",
+      "processed_at": "2026-06-27T02:12:09.020955",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -95,14 +95,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.792671",
-      "priority_score": 73,
+      "fetched_at": "2026-06-27T02:09:05.011582",
+      "priority_score": 68,
       "categories": [
         "injuries",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.439108",
+      "processed_at": "2026-06-27T02:12:08.854702",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -116,14 +116,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-26T23:55:16.909189",
+      "fetched_at": "2026-06-27T02:09:25.215205",
       "priority_score": 66,
       "categories": [
         "breaking_news",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.495898",
+      "processed_at": "2026-06-27T02:12:08.912019",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -137,13 +137,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:13.820280",
+      "fetched_at": "2026-06-27T02:08:33.116518",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.359305",
+      "processed_at": "2026-06-27T02:12:08.787017",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -157,13 +157,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:13.822133",
+      "fetched_at": "2026-06-27T02:08:33.118469",
       "priority_score": 55,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.366652",
+      "processed_at": "2026-06-27T02:12:08.794296",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -177,13 +177,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:17.199207",
+      "fetched_at": "2026-06-27T02:10:31.444774",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:55.693161",
+      "processed_at": "2026-06-27T02:12:09.102834",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -197,56 +197,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.791522",
+      "fetched_at": "2026-06-27T02:09:05.011889",
       "priority_score": 68,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.424230",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Algeria eye revenge in first match against Austria since ‘shame of Gijón’",
-      "summary": "Group J game recalls the 1982 World Cup, when Austria and West Germany played out a mutually beneficial resultHow long do football grudges last? It has long been argued that Brazil never truly recovered from the Maracanazo, or, if they did, it took decades. The same might be said of the English foot",
-      "url": "https://www.theguardian.com/football/2026/jun/26/algeria-austria-1982-world-cup-shame-of-gijon-west-germany",
-      "image_url": null,
-      "published": "2026-06-26T18:26:03",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.793552",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-26T23:57:55.451109",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Manchester City mengt zich in strijd om WK-revelatie Bouaddi'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/manchester-city-mengt-zich-in-strijd-om-wk-revelatie-bouaddi",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-06-26T23:15:18",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-26T23:57:51.329721",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-06-26T23:57:56.353609",
+      "processed_at": "2026-06-27T02:12:08.859779",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -260,12 +218,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:13.820560",
+      "fetched_at": "2026-06-27T02:08:33.116748",
       "priority_score": 65,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.359832",
+      "processed_at": "2026-06-27T02:12:08.787622",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -279,73 +237,13 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:55.970105",
+      "fetched_at": "2026-06-27T02:11:07.998303",
       "priority_score": 64,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:56.082312",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Davinson Sanchez için dev pazarlık! Galatasaray'ın istediği rakam...",
-      "summary": "Geçtiğimiz sezon transferi gerçekleşmeyen Davinson Sanchez için Como yeniden devreye girdi. İtalyan ekibinin yıldız stoper için yüksek bir bonservis bedelini gözden çıkardığı öne sürülürken Galatasaray'ın...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/06/26/davinson-sanchez-icin-dev-pazarlik-galatasarayin-istedigi-rakam",
-      "image_url": "https://iaftm.tmgrup.com.tr/2d1139/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/06/26/davinson-sanchez-icin-dev-pazarlik-galatasarayin-istedigi-rakam-1782479854254.jpeg",
-      "published": "2026-06-26T13:19:36",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-26T23:56:55.971033",
-      "priority_score": 64,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-26T23:57:56.147076",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
-      "summary": "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club interestMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said",
-      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
-      "image_url": null,
-      "published": "2026-06-26T20:02:34",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.792206",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-26T23:57:55.433606",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Augusto'da anlaşma tamam!",
-      "summary": "Transferde hızlı bir dönem geçiren Trabzonspor'da bir de ayrılık yaşandı... Bordo-mavililer, Felipe Augusto için Rus temsilcisi Zenit'le anlaşmaya vardı.",
-      "url": "https://www.haberturk.com/felipe-augusto-zenit-e-transfer-oldu-trabzonspor-transfer-haberleri-3894482-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/26/ver1782502078/3894482/jpg/1280x1280",
-      "published": "2026-06-26T19:32:20",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.291771",
-      "priority_score": 63,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-26T23:57:55.526424",
+      "processed_at": "2026-06-27T02:12:09.505598",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -359,12 +257,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.292253",
+      "fetched_at": "2026-06-27T02:10:20.152006",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.556107",
+      "processed_at": "2026-06-27T02:12:08.969775",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -378,12 +276,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.292482",
+      "fetched_at": "2026-06-27T02:10:20.152212",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.572013",
+      "processed_at": "2026-06-27T02:12:08.985305",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -397,12 +295,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:17.198500",
+      "fetched_at": "2026-06-27T02:10:31.444038",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.596553",
+      "processed_at": "2026-06-27T02:12:09.009186",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -416,13 +314,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:17.198786",
+      "fetched_at": "2026-06-27T02:10:31.444357",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:55.640188",
+      "processed_at": "2026-06-27T02:12:09.051203",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -436,12 +334,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:17.198852",
+      "fetched_at": "2026-06-27T02:10:31.444427",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.647808",
+      "processed_at": "2026-06-27T02:12:09.058684",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -455,12 +353,52 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:42.131950",
+      "fetched_at": "2026-06-27T02:10:57.247860",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.854732",
+      "processed_at": "2026-06-27T02:12:09.257767",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
+      "summary": "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club interestMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said",
+      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
+      "image_url": null,
+      "published": "2026-06-26T20:02:34",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-27T02:09:05.012579",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T02:12:08.869627",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Augusto'da anlaşma tamam!",
+      "summary": "Transferde hızlı bir dönem geçiren Trabzonspor'da bir de ayrılık yaşandı... Bordo-mavililer, Felipe Augusto için Rus temsilcisi Zenit'le anlaşmaya vardı.",
+      "url": "https://www.haberturk.com/felipe-augusto-zenit-e-transfer-oldu-trabzonspor-transfer-haberleri-3894482-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/26/ver1782502078/3894482/jpg/1280x1280",
+      "published": "2026-06-26T19:32:20",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-27T02:10:20.151522",
+      "priority_score": 58,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-27T02:12:08.941098",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -474,12 +412,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.291978",
+      "fetched_at": "2026-06-27T02:10:20.151732",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:55.538669",
+      "processed_at": "2026-06-27T02:12:08.952861",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -493,13 +431,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.292119",
+      "fetched_at": "2026-06-27T02:10:20.151870",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:55.548289",
+      "processed_at": "2026-06-27T02:12:08.962149",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -513,14 +451,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:56:02.292411",
+      "fetched_at": "2026-06-27T02:10:20.152146",
       "priority_score": 58,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-26T23:57:55.567302",
+      "processed_at": "2026-06-27T02:12:08.980651",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -534,32 +472,53 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-26T23:57:15.874266",
+      "fetched_at": "2026-06-27T02:11:27.486350",
       "priority_score": 57,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-26T23:57:56.240587",
+      "processed_at": "2026-06-27T02:12:09.631056",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Real Madrid bevestigt: contract van aan Ajax gelinkte Ceballos ontbonden",
-      "summary": "Real Madrid heeft bevestigd dat Dani Ceballos de club verlaat. De speler trekt na negen jaar de deur van het Santiago Bernabéu achter zich dicht. 'Het was geen makkelijk jaar en geen makkelijke beslissing.'",
-      "url": "https://www.vi.nl/nieuws/real-madrid-bevestigt-contract-van-aan-ajax-gelinkte-ceballos-ontbonden",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/26/9a9f8b82a5614f4688bb7edabd4edac833acd622.jpg?width=1200",
-      "published": "2026-06-26T18:25:36",
+      "title": "'Manchester City mengt zich in strijd om WK-revelatie Bouaddi'",
+      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/manchester-city-mengt-zich-in-strijd-om-wk-revelatie-bouaddi",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-06-26T23:15:18",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-26T23:57:51.354997",
+      "fetched_at": "2026-06-27T02:12:05.050343",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "la_liga"
+        "premier_league",
+        "serie_a"
       ],
-      "processed_at": "2026-06-26T23:57:56.524180",
+      "processed_at": "2026-06-27T02:12:09.785537",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "New Zealand v Belgium: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT⚽️ Third-place table | Player guide | Golden Boot | Mail Sam⚽️ Egypt v Iran – follow live with Jonathan HowcroftIn a nerve-jangling stalemate playing out at the moment, Cape Verde have leapfrogged Uruguay and landed in second spot in Group H while",
+      "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest",
+      "image_url": null,
+      "published": "2026-06-27T01:46:26",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-27T02:09:05.011125",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-27T02:12:08.849744",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -573,14 +532,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:52.794522",
+      "fetched_at": "2026-06-27T02:09:05.013697",
       "priority_score": 53,
       "categories": [
         "match_results",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.470126",
+      "processed_at": "2026-06-27T02:12:08.887551",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Real Madrid bevestigt: contract van aan Ajax gelinkte Ceballos ontbonden",
+      "summary": "Real Madrid heeft bevestigd dat Dani Ceballos de club verlaat. De speler trekt na negen jaar de deur van het Santiago Bernabéu achter zich dicht. 'Het was geen makkelijk jaar en geen makkelijke beslissing.'",
+      "url": "https://www.vi.nl/nieuws/real-madrid-bevestigt-contract-van-aan-ajax-gelinkte-ceballos-ontbonden",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/26/9a9f8b82a5614f4688bb7edabd4edac833acd622.jpg?width=1200",
+      "published": "2026-06-26T18:25:36",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-27T02:12:05.075997",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-06-27T02:12:09.937747",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -594,13 +573,32 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-26T23:54:27.616602",
+      "fetched_at": "2026-06-27T02:08:43.627031",
       "priority_score": 51,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-26T23:57:55.380741",
+      "processed_at": "2026-06-27T02:12:08.807506",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Dembele's first-half hat-trick sees France beat Norway's reserves",
+      "summary": "Ousmane Dembele's 25-minute hat-trick allowed France to comfortably beat Norway's second string 4-1 and complete a perfect Group I campaign.",
+      "url": "https://www.skysports.com/football/norway-vs-france/report/549831",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-france-norway_7283920.jpg?20260626214202",
+      "published": "2026-06-26T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-27T02:08:43.627252",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-27T02:12:08.815766",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
