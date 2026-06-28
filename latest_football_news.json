@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T20:10:11.101462",
+  "timestamp": "2026-06-28T21:58:38.942074",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:17.906640",
+      "fetched_at": "2026-06-28T21:53:30.430627",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -21,9 +21,9 @@
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.005738",
-      "title_tr": "Ugarte 'bir futbolcunun karşılaşabileceği en ciddi sakatlığa sahip'",
-      "summary_tr": "Manchester United, Uruguay'ın İspanya'ya karşı oynadığı Dünya Kupası maçında orta saha oyuncusu Manuel Ugarte'nin diz bağında hasar oluştuğunu doğruladı."
+      "processed_at": "2026-06-28T21:57:09.342600",
+      "title_tr": "Ugarte'nin 'bir futbolcunun karşılaşabileceği en ciddi sakatlığı' var",
+      "summary_tr": "Manchester United, Uruguay'ın İspanya'ya karşı kazandığı Dünya Kupası maçında orta saha oyuncusu Manuel Ugarte'nin diz bağında hasar oluştuğunu doğruladı."
     },
     {
       "title": "‘Street football on world stage’: Morocco and Netherlands face off in last-32 tie with a backstory",
@@ -35,13 +35,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:54.609050",
+      "fetched_at": "2026-06-28T21:54:06.971819",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-06-28T20:08:53.101317",
+      "processed_at": "2026-06-28T21:57:09.446051",
       "title_tr": "'Sokak futbolu dünya sahnesinde': Fas ve Hollanda son 32 maçında arka planda karşı karşıya geliyor",
       "summary_tr": "Faslılar 1960'larda Hollanda'ya taşınmaya başladı ve Meksika'daki maça 'derbi' hissi verdi. İlk resmi karşılaşmalarının üzerinden otuz iki yıl geçtikten sonra Fas ve Hollanda, gişe rekorları kıran bir son 32 maçına dönüşecek bir karşılaşmayla karşı karşıya geliyor. O günden bugüne pek çok şey değişti"
     },
@@ -55,16 +55,58 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:20.350251",
-      "priority_score": 100,
+      "fetched_at": "2026-06-28T21:55:39.323507",
+      "priority_score": 96,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-06-28T20:08:53.282257",
+      "processed_at": "2026-06-28T21:57:09.642845",
       "title_tr": "Davinson Sanchez’e İtalyan kancası! Galatasaray'ın beklentisi ortaya çıktı",
       "summary_tr": "Como’nun Chelsea’den Trevoh Chalobah transferinden vazgeçmesinin ardından Galatasaraylı Davinson Sánchez’i gündemine aldığı ve sarı-kırmızılıların 18 milyon euro bonservis talep ettiği iddia edildi."
+    },
+    {
+      "title": "Canada secure last-16 place after dramatic late winner vs South Africa",
+      "summary": "Stephen Eustaquio scored a dramatic stoppage-time winner for co-hosts Canada as they beat South Africa 1-0 to become the first team to book their place in the last 16 of the World Cup.",
+      "url": "https://www.skysports.com/football/south-africa-vs-canada/report/549838",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-stephen-eustaquio_7285295.jpg?20260628220446",
+      "published": "2026-06-28T22:07:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:53:42.469347",
+      "priority_score": 76,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.356613",
+      "title_tr": "Kanada, Güney Afrika karşısında dramatik geç galibiyetin ardından son 16'da yer almayı garantiledi",
+      "summary_tr": "Stephen Eustaquio, Güney Afrika'yı 1-0 yenerek Dünya Kupası'nın son 16'sında yer alan ilk takım olan ev sahibi Kanada'ya dramatik bir uzatma süresi kazandırdı."
+    },
+    {
+      "title": "Canada into last 16 with late winner against South Africa",
+      "summary": "Stephen Eustaquio scores a dramatic winner in the second minute of injury time as co-hosts Canada beat South Africa to move into the last 16 of the World Cup for the first time.",
+      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-28T21:49:24",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:53:30.429526",
+      "priority_score": 75,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.340440",
+      "title_tr": "Kanada, Güney Afrika karşısında geç galibiyetle son 16'ya kaldı",
+      "summary_tr": "Stephen Eustaquio, sakatlığın ikinci dakikasında dramatik bir galibiyet elde ederken, ev sahibi Kanada, Güney Afrika'yı yenerek ilk kez Dünya Kupası'nda son 16'ya girdi."
     },
     {
       "title": "Harry Kane fires England to Group L glory after breaking World Cup record",
@@ -76,153 +118,95 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-28T20:06:19.385786",
+      "fetched_at": "2026-06-28T21:54:30.509221",
       "priority_score": 71,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.157459",
+      "processed_at": "2026-06-28T21:57:09.511318",
       "title_tr": "Harry Kane, Dünya Kupası rekorunu kırdıktan sonra İngiltere'yi L Grubu zaferine taşıdı",
-      "summary_tr": "İngiltere, New Jersey'de Panama'yı 2-0 yenerek L Grubu'nun zirvesine yerleşti. Jude Bellingham, Harry Kane'in Gary Lineker'in İngiltere Dünya Kupası skor rekorunu kırmak için fileyi bulmasından önce açılış golünü attı."
+      "summary_tr": "İngiltere, New Jersey'de Panama'yı 2-0 yenerek L Grubu'nun zirvesinde yer aldı. Jude Bellingham, Harry Kane'in Gary Lineker'in İngiltere Dünya Kupası skor rekorunu kırmak için fileyi bulmasından önce açılış golünü attı."
     },
     {
       "title": "Lewandowski için MLS iddiası!",
       "summary": "Barcelona ile yolları ayrılan Polonyalı golcü Robert Lewandowski'nin MLS ekibi Chicago Fire'la anlaşmaya vardığı ileri sürüldü.",
       "url": "https://www.haberturk.com/robert-lewandowski-icin-mls-iddiasi-3894759-spor",
       "image_url": "https://im.haberturk.com/l/2026/06/28/ver1782670342/3894759/jpg/1280x1280",
-      "published": "2026-06-28T18:13:06",
+      "published": "2026-06-28T20:11:31",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:08.445161",
+      "fetched_at": "2026-06-28T21:55:23.367609",
       "priority_score": 68,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-06-28T20:08:53.184731",
+      "processed_at": "2026-06-28T21:57:09.538920",
       "title_tr": "Lewandowski için MLS iddiası!",
       "summary_tr": "Barcelona ile yolları ayrılan Polonyalı golcü Robert Lewandowski'nin MLS ekibi Chicago Fire'la anlaşmaya vardığı ileri sürüldü."
     },
     {
-      "title": "Son Dakika: 100. Gazi Koşusu'nu Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı!",
-      "summary": "100. Gazi Koşusu, İstanbul Veliefendi Hipodromu’nda koşuldu. Spor Smart'tan canlı yayınlanan yarışı Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/son-dakika-100-gazi-kosusunu-halis-karatasin-jokeyligini-yaptigi-bay-nalcakan-kazandi-43221835",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4131fc712c3a6c3dbe01e6.jpg",
-      "published": "2026-06-28T14:25:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:07:20.350405",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-28T20:08:53.299946",
-      "title_tr": "Son Dakika: 100. Gazi Koşusu'nu Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı!",
-      "summary_tr": "100. Gazi Koşusu, İstanbul Veliefendi Hipodromu’nda koşuldu. Spor Smart'tan canlı yayınlanan yarışı Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı."
-    },
-    {
-      "title": "Maestro Messi scores again and breaks another record in the process",
-      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada first into last 16 as Stephen Eustáquio scores in stoppage time against South Africa",
+      "summary": "Jesse Marsch clenched both fists and, for a split second, seemed to resist the temptation to charge on to the pitch to celebrate the goal that sent Canada into the last 16 of the World Cup. But then all hell broke loose, Marsch, some of his Canada staff and a raft of unused substitutes emptied on to",
+      "url": "https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report",
       "image_url": null,
-      "published": "2026-06-28T04:06:58",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:05:17.908214",
-      "priority_score": 60,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-28T20:08:53.013437",
-      "title_tr": "Maestro Messi yine gol atarak bu süreçte bir rekor daha kırdı",
-      "summary_tr": "Arjantin, Dallas'ta Jordan'ı 3-1 yenerken Lionel Messi yedek kulübesinden çıkarak 2026 Dünya Kupası'ndaki altıncı golünü attı ve art arda yedi Dünya Kupası maçında gol atan ilk oyuncu oldu."
-    },
-    {
-      "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
-      "summary": "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penaltiesJordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goa",
-      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
-      "image_url": null,
-      "published": "2026-06-28T18:00:15",
+      "published": "2026-06-28T21:23:01",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:54.590943",
-      "priority_score": 53,
+      "fetched_at": "2026-06-28T21:54:06.953067",
+      "priority_score": 63,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.071128",
-      "title_tr": "'Penaltı istemiyoruz': Pickford İngiltere'nin hücum yaklaşımını destekliyor",
-      "summary_tr": "Jordan Pickford penaltı atışlarında başarı elde etti ancak İngiltere takımının penaltılar olmadan Dünya Kupası'nda zafere ulaşacağına inanıyor Jordan Pickford, 2009'da 16 yaş altı İngiltere'de ilk kez forma giydiğinden beri her şeyi gördü."
+      "processed_at": "2026-06-28T21:57:09.403841",
+      "title_tr": "Stephen Eustáquio'nun Güney Afrika'ya karşı duraklama süresinde attığı golle Kanada son 16'ya ilk girdi",
+      "summary_tr": "Jesse Marsch iki yumruğunu da sıktı ve bir anlığına Kanada'yı Dünya Kupası'nda son 16'ya gönderen golü kutlamak için sahaya çıkma isteğine direniyor gibi göründü. Ama sonra kıyamet koptu, Marsch, Kanadalı çalışanlarından bazıları ve kullanılmayan bir sürü yedek oyuncu,"
     },
     {
-      "title": "'Best thing for me' - Stokes reveals decisions behind dramatic retirement",
-      "summary": "Ben Stokes insists retiring from international cricket is the “best thing” for him after sensationally confirming mid-match that England’s series decider with New Zealand would be his last.",
-      "url": "https://www.skysports.com/cricket/news/12040/13558674/ben-stokes-england-captain-reveals-tough-decisions-behind-international-retirement-and-why-it-is-best-thing-for-him",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-ben-stokes-cricket_7285144.jpg?20260628172805",
-      "published": "2026-06-28T20:15:00",
+      "title": "Did 'crazy' cricket deny Stokes 'extraordinary' end to England career?",
+      "summary": "Ben Stokes was unable to produce the fairytale ending to his time as England's captain, having played the hero at numerous points during his glittering international career.",
+      "url": "https://www.skysports.com/cricket/news/12040/13558678/ben-stokes-england-captain-delivers-drama-but-did-crazy-cricket-deny-him-dream-end-to-extraordinary-test-career",
+      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-ben-stokes-england_7284806.jpg?20260628112621",
+      "published": "2026-06-28T21:25:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:29.434923",
+      "fetched_at": "2026-06-28T21:53:42.469454",
       "priority_score": 51,
       "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-06-28T20:08:53.048441",
-      "title_tr": "'Benim için en iyi şey' - Stokes dramatik emekliliğin ardındaki kararları açıklıyor",
-      "summary_tr": "Ben Stokes, maçın ortasında İngiltere'nin Yeni Zelanda ile seriyi belirleyeceği son maçın son maçı olacağını doğruladıktan sonra, uluslararası kriketten emekli olmanın kendisi için \"en iyi şey\" olduğunda ısrar ediyor."
+      "processed_at": "2026-06-28T21:57:09.361475",
+      "title_tr": "'Çılgın' kriket Stokes'un İngiltere kariyerinin 'olağanüstü' sonunu inkar mı etti?",
+      "summary_tr": "Ben Stokes, parlak uluslararası kariyeri boyunca pek çok noktada kahramanı canlandırdığı için, İngiltere'nin kaptanı olarak geçirdiği dönemin masalsı sonunu anlatamadı."
     },
     {
-      "title": "'I could have kept Russell behind' - Verstappen says strategy denied him chance of win",
-      "summary": "Max Verstappen has suggested Red Bull missed an opportunity to beat George Russell in Austria and win their first race of the 2026 Formula 1 season.",
-      "url": "https://www.skysports.com/f1/news/12040/13558495/max-verstappen-red-bull-driver-says-strategy-denied-him-chance-of-austrian-gp-win-against-george-russell",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-f1-max-verstappen_7285176.jpg?20260628181727",
-      "published": "2026-06-28T18:35:00",
-      "source": "Sky Sports Football",
+      "title": "City Challenge: Can you guess the 2026/27 fixture?",
+      "summary": "The fixture lists for the 2026/27 Bundesliga and Bundesliga 2 seasons come out on Thursday, but this year fans have the exclusive chance to learn details of some key matches in advance via the Bundesliga app with our City Challenge scavenger hunt.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/city-challenge-can-you-guess-the-2026-27-fixture-37981",
+      "image_url": null,
+      "published": "2026-06-28T16:00:00",
+      "source": "Bundesliga Official",
       "source_priority": 8,
-      "region": "europe",
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:29.434991",
+      "fetched_at": "2026-06-28T21:54:30.507555",
       "priority_score": 51,
       "categories": [
-        "breaking_news"
+        "breaking_news",
+        "bundesliga"
       ],
-      "processed_at": "2026-06-28T20:08:53.052907",
-      "title_tr": "\"Russell'ı geride tutabilirdim\" - Verstappen, stratejisinin onun kazanma şansını engellediğini söyledi",
-      "summary_tr": "Max Verstappen, Red Bull'un Avusturya'da George Russell'ı yenme ve 2026 Formula 1 sezonunun ilk yarışını kazanma fırsatını kaçırdığını söyledi."
-    },
-    {
-      "title": "VI Live: Canada dicht bij openingstreffer tegen Zuid-Afrika",
-      "summary": "Tijdens het WK 2026 in Canada, Mexico en de Verenigde Staten volgt Voetbal International alle 104 duels in een eigen VI Live. In deze editie alle aandacht voor Zuid-Afrika en Canada. In aanloop naar en vanaf de aftrap om 21.00 uur blijf je volledig op de hoogte van dit duel.",
-      "url": "https://www.vi.nl/nieuws/vi-live-zuid-afrika-en-canada-starten-knock-outfase-oranje-kijkt-aandachtig-mee",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/27/d2601f3def281e071c7cc5743c19bceeddbcd0f7.jpg?width=1200",
-      "published": "2026-06-28T20:05:44",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:08:49.340244",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-06-28T20:08:53.869161",
-      "title_tr": "VI Live: Kanada, Güney Afrika'ya karşı açılış golüne yaklaştı",
-      "summary_tr": "Voetbal International, Kanada, Meksika ve Amerika Birleşik Devletleri'nde düzenlenecek 2026 Dünya Kupası sırasında 104 maçın tamamını kendi VI Live'ında takip edecek. Bu baskı Güney Afrika ve Kanada'ya odaklanmaktadır. Saat 21.00'deki başlama vuruşuna kadar ve sonrasında. Bu maç hakkında tam olarak bilgi sahibi olacaksınız."
+      "processed_at": "2026-06-28T21:57:09.495881",
+      "title_tr": "City Challenge: 2026/27 fikstürünü tahmin edebilir misiniz?",
+      "summary_tr": "2026/27 Bundesliga ve Bundesliga 2 sezonlarının fikstür listeleri Perşembe günü çıkıyor, ancak bu yıl taraftarlar City Challenge çöpçü avımızla Bundesliga uygulaması aracılığıyla bazı önemli maçların ayrıntılarını önceden öğrenme şansına sahip olacak."
     },
     {
       "title": "'Lewandowski tekent tweejarig contract in Verenigde Staten'",
@@ -234,35 +218,56 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-28T20:08:49.340326",
-      "priority_score": 97,
+      "fetched_at": "2026-06-28T21:57:06.324599",
+      "priority_score": 87,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-06-28T20:08:53.883254",
+      "processed_at": "2026-06-28T21:57:10.385676",
       "title_tr": "'Lewandowski, ABD'yle 2 yıllık sözleşme imzaladı'",
-      "summary_tr": "Robert Lewandowski, Chicago Fire ile anlaşmaya vardı. Pazar günü çeşitli önde gelen yabancı medya bunu bildirdi. Polonyalı forvet, Barcelona'yı geride bırakarak MLS'ye bedelsiz transfer oldu."
+      "summary_tr": "Robert Lewandowski, Chicago Fire ile anlaşmaya vardı. Pazar günü çeşitli önde gelen yabancı medya kuruluşları bunu bildirdi. Polonyalı forvet, Barcelona'yı geride bırakarak MLS'ye bedelsiz transfer oldu."
     },
     {
-      "title": "'Diomande heeft zinnen gezet op transfer naar Paris Saint-Germain'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/lewandowski-hakt-knoop-door-over-toekomst-en-kiest-voor-de-mls",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-06-28T19:18:25",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Harry Kane, Deniz Undav and Luis Díaz lead Bundesliga goalscorers at FIFA World Cup 2026",
+      "summary": "Harry Kane, Deniz Undav, Luis Díaz and Gio Reyna are among the 13 Bundesliga-based players to have scored a goal so far at the FIFA World Cup 2026. Get a full breakdown of all the scorers and how they got their goals here throughout the tournament.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/goalscorers-2026-world-cup-kane-diaz-olise-musiala-undav-reyna-37883",
+      "image_url": null,
+      "published": "2026-06-28T06:31:43",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-28T20:08:49.340400",
-      "priority_score": 67,
+      "fetched_at": "2026-06-28T21:54:30.508528",
+      "priority_score": 61,
       "categories": [
-        "transfers",
-        "serie_a"
+        "match_results",
+        "bundesliga",
+        "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.898863",
-      "title_tr": "'Diomande gözünü Paris Saint-Germain'e transfer etmeye dikti'",
-      "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-06-28T21:57:09.504111",
+      "title_tr": "Harry Kane, Deniz Undav ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
+      "summary_tr": "Harry Kane, Deniz Undav, Luis Díaz ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 13 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
+    },
+    {
+      "title": "Son Dakika: 100. Gazi Koşusu'nu Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı!",
+      "summary": "100. Gazi Koşusu, İstanbul Veliefendi Hipodromu’nda koşuldu. Spor Smart'tan canlı yayınlanan yarışı Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/son-dakika-100-gazi-kosusunu-halis-karatasin-jokeyligini-yaptigi-bay-nalcakan-kazandi-43221835",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4131fc712c3a6c3dbe01e6.jpg",
+      "published": "2026-06-28T14:25:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:55:39.323652",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-28T21:57:09.660892",
+      "title_tr": "Son Dakika: 100. Gazi Koşusu'nu Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı!",
+      "summary_tr": "100. Gazi Koşusu, İstanbul Veliefendi Hipodromu’nda koşuldu. Spor Smart'tan canlı yayınlanan yarışı Halis Karataş'ın jokeyliğini yaptığı 'Bay Nalçakan' kazandı."
     },
     {
       "title": "Fenerbahçe'den ayrılan Bonzie Colson, Maccabi Tel Aviv'e döndü",
@@ -274,78 +279,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:43.932691",
-      "priority_score": 66,
+      "fetched_at": "2026-06-28T21:56:00.584519",
+      "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-28T20:08:53.537205",
+      "processed_at": "2026-06-28T21:57:09.891790",
       "title_tr": "Fenerbahçe'den ayrılan Bonzie Colson, Maccabi Tel Aviv'e döndü",
       "summary_tr": "Maccabi Tel Aviv, Fenerbahçe Beko’dan ayrılan Amerikalı forvet Bonzie Colson ile 2 yıllık sözleşme imzaladığını resmen açıkladı."
-    },
-    {
-      "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-      "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-28T05:00:13",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:05:17.908571",
-      "priority_score": 65,
-      "categories": [
-        "match_results",
-        "injuries",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-28T20:08:53.017151",
-      "title_tr": "Cezayir ve Avusturya, uzatma anlarındaki dramatik gollerin ardından son 32'ye kaldı",
-      "summary_tr": "Cezayir ve Avusturya, uzatma anlarında 3-3'lük beraberlikle gol atıyor; bu sonuç, her iki tarafın da J Grubundan FIFA Dünya Kupası'nda son 32'ye katılma hakkı kazandığını gösteriyor."
-    },
-    {
-      "title": "Harry Kane, Deniz Undav and Luis Díaz lead Bundesliga goalscorers at FIFA World Cup 2026",
-      "summary": "Harry Kane, Deniz Undav, Luis Díaz and Gio Reyna are among the 12 Bundesliga-based players to have scored a goal so far at the FIFA World Cup 2026. Get a full breakdown of all the scorers and how they got their goals here throughout the tournament.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/goalscorers-2026-world-cup-kane-diaz-olise-musiala-undav-reyna-37883",
-      "image_url": null,
-      "published": "2026-06-28T06:31:43",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:06:19.385073",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "bundesliga",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-28T20:08:53.150529",
-      "title_tr": "Harry Kane, Deniz Undav ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
-      "summary_tr": "Harry Kane, Deniz Undav, Luis Díaz ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 12 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
-    },
-    {
-      "title": "Galatasaray’ın Manzambi hayali zorlaştı! Dünya Kupası performansı değeri uçurdu",
-      "summary": "Galatasaray’ın yaz transfer döneminde öncelikli hedeflerinden biri olan İsviçreli yıldız Johan Manzambi’nin piyasa değeri, 2026 Dünya Kupası’ndaki performansıyla adeta roketlendi.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-manzambi-hayali-zorlasti-dunya-kupasi-performansi-degeri-ucurdu-3436369",
-      "image_url": null,
-      "published": "2026-06-28T14:14:20",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:07:43.932506",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-28T20:08:53.526245",
-      "title_tr": "Galatasaray’ın Manzambi hayali zorlaştı! Dünya Kupası performansı değeri uçurdu",
-      "summary_tr": "Galatasaray’ın yaz transfer döneminde öncelikli hedeflerinden biri olan İsviçreli yıldız Johan Manzambi’nin piyasa değeri, 2026 Dünya Kupası’ndaki performansıyla adeta roketlendi."
     },
     {
       "title": "Göztepe, Alex Matos transferini bitiriyor",
@@ -357,34 +299,75 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:43.933197",
+      "fetched_at": "2026-06-28T21:56:00.585046",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-28T20:08:53.563424",
+      "processed_at": "2026-06-28T21:57:09.918700",
       "title_tr": "Göztepe, Alex Matos transferini bitiriyor",
       "summary_tr": "Göztepe, Sheffield United forması giyen 21 yaşındaki orta saha oyuncusu Alex Matos'un transferi için İngiliz kulübüyle prensip anlaşmasına vardı."
     },
     {
-      "title": "Messi comes off the bench to score as Argentina beat Jordan",
-      "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy49de3rp12o?at_medium=RSS&at_campaign=rss",
+      "title": "Maestro Messi scores again and breaks another record in the process",
+      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-06-28T04:43:18",
+      "published": "2026-06-28T04:06:58",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:17.908770",
+      "fetched_at": "2026-06-28T21:53:30.432124",
       "priority_score": 60,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.018797",
-      "title_tr": "Arjantin, Jordan'ı yenerken Messi yedek kulübesinden çıkıp gol attı",
-      "summary_tr": "Arjantin, J Grubu'ndaki son maçında Jordan'ı 3-1 mağlup ederken, Lionel Messi yedek kulübesinden çıkarak FIFA Dünya Kupası tarihinde arka arkaya yedi maçta gol atan ilk oyuncu oldu."
+      "processed_at": "2026-06-28T21:57:09.352475",
+      "title_tr": "Maestro Messi yine gol atarak bu süreçte bir rekor daha kırdı",
+      "summary_tr": "Arjantin, Dallas'ta Jordan'ı 3-1 yenerken Lionel Messi yedek kulübesinden çıkarak 2026 Dünya Kupası'ndaki altıncı golünü attı ve art arda yedi Dünya Kupası maçında gol atan ilk oyuncu oldu."
+    },
+    {
+      "title": "'Diomande heeft zinnen gezet op transfer naar Paris Saint-Germain'",
+      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/lewandowski-hakt-knoop-door-over-toekomst-en-kiest-voor-de-mls",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-06-28T19:18:25",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:57:06.324665",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-06-28T21:57:10.402690",
+      "title_tr": "'Diomande gözünü Paris Saint-Germain'e transfer etmeye dikmiş'",
+      "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Galatasaray’ın Manzambi hayali zorlaştı! Dünya Kupası performansı değeri uçurdu",
+      "summary": "Galatasaray’ın yaz transfer döneminde öncelikli hedeflerinden biri olan İsviçreli yıldız Johan Manzambi’nin piyasa değeri, 2026 Dünya Kupası’ndaki performansıyla adeta roketlendi.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-manzambi-hayali-zorlasti-dunya-kupasi-performansi-degeri-ucurdu-3436369",
+      "image_url": null,
+      "published": "2026-06-28T14:14:20",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:56:00.584352",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "super_lig",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.880422",
+      "title_tr": "Galatasaray’ın Manzambi hayali zorlaştı! Dünya Kupası performansı değeri uçurdu",
+      "summary_tr": "Galatasaray’ın yaz transfer döneminde öncelikli hedeflerinden biri olan İsviçreli yıldız Johan Manzambi’nin piyasa değeri, 2026 Dünya Kupası’ndaki performansıyla adeta roketlendi."
     },
     {
       "title": "Trabzonspor’dan büyük kazanç! 4 katına sattı...",
@@ -396,12 +379,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:43.932865",
+      "fetched_at": "2026-06-28T21:56:00.584688",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-28T20:08:53.546398",
+      "processed_at": "2026-06-28T21:57:09.901168",
       "title_tr": "Trabzonspor’dan büyük kazanç! 4 katına sattı...",
       "summary_tr": "Son yıllarda yaptığı scout transferleri ve oyuncu satışlarıyla dikkat çeken Trabzonspor, Brezilyalı forvet Felipe Augusto’yu rekor kârla elden çıkardı."
     },
@@ -415,94 +398,116 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:54.378136",
+      "fetched_at": "2026-06-28T21:56:13.970070",
       "priority_score": 54,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-06-28T20:08:53.703424",
+      "processed_at": "2026-06-28T21:57:10.061009",
       "title_tr": "Fenerbahçe bir transferi daha bitiriyor! İmza an meselesi",
       "summary_tr": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer dönemine hızlı bir giriş yapan Fenerbahçe, Vedat Muriqi ve Amara Diouf transferlerini açıklamıştı. Kadrosunu güçlendirmek için arayışlarını sürdüren...Devamı için tıklayınız"
     },
     {
-      "title": "South Africa v Canada: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off: 8pm BST/3pm EDT/5am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail DanielOh man, my eyeballs are sweating and we’re 45 minutes away from watching the teams come out. Can Stokes play football?Oh my goodness. Nothing to do with football, but everything to do with humanity: Ben St",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live",
+      "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
+      "summary": "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penaltiesJordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goa",
+      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
       "image_url": null,
-      "published": "2026-06-28T19:59:28",
+      "published": "2026-06-28T18:00:15",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:54.590533",
+      "fetched_at": "2026-06-28T21:54:06.953508",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.408189",
+      "title_tr": "'Penaltı istemiyoruz': Pickford İngiltere'nin hücum yaklaşımını destekliyor",
+      "summary_tr": "Jordan Pickford penaltı atışlarında başarı elde etti ancak İngiltere takımının penaltılar olmadan Dünya Kupası zaferini elde edebileceğine inanıyor Jordan Pickford, 2009 yılında 16 yaş altı İngiltere'de ilk kez forma giydiğinden beri her şeyi gördü."
+    },
+    {
+      "title": "Manchester United’s Manuel Ugarte set for spell on sidelines with knee injury",
+      "summary": "Injury occurred in Uruguay’s World Cup clash with Spain‘Assessment of the injury is ongoing’Manuel Ugarte could be facing a long spell ⁠on the sidelines after sustaining a knee ligament injury during Uruguay’s 1-0 World Cup defeat ⁠by Spain.The ​25-year-old Manchester United player was carried off o",
+      "url": "https://www.theguardian.com/football/2026/jun/28/manchester-united-knee-ligament-manuel-ugarte-uruguay-world-cup",
+      "image_url": null,
+      "published": "2026-06-28T20:56:44",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:54:06.970379",
+      "priority_score": 53,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.418958",
+      "title_tr": "Manchester United'lı Manuel Ugarte dizinden sakatlanarak kenarda kalmaya hazırlanıyor",
+      "summary_tr": "Uruguay'ın İspanya ile oynadığı Dünya Kupası karşılaşmasında sakatlık meydana geldi'Sakatlık değerlendirmesi sürüyor'Manuel Ugarte, Uruguay'ın İspanya'ya karşı 1-0'lık Dünya Kupası yenilgisi sırasında diz bağından sakatlanan Manuel Ugarte'nin uzun bir süre kenarda kalabilir."
+    },
+    {
+      "title": "Kanada, 90+2'de son 16 biletini aldı!",
+      "summary": "2026 FIFA Dünya Kupası son 32 turunda Kanada, Güney Afrika'yı 1-0 mağlup etti. 90+2. dakikada Stephen Eustaquio'nun kaydettiği golle kazanan Kanada, adını son 16 turuna yazdırdı. Güney Afrika ise organizasyondan elendi.",
+      "url": "https://www.haberturk.com/guney-afrika-0-kanada-1-mac-sonucu-ve-ozeti-2026-fifa-dunya-kupasi-son-32-turu-mac-sonucu-skor-bilgisi-3894776-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/28/ver1782682012/3894776/jpg/1280x1280",
+      "published": "2026-06-28T21:27:36",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:55:23.367452",
       "priority_score": 53,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.066602",
-      "title_tr": "Güney Afrika - Kanada: 2026 Dünya Kupası son 32 – canlı",
-      "summary_tr": "⚽️ Başlama vuruşu: 20:00 BST/15:00 EDT/5:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | Mail DanielOh dostum, gözlerim terliyor ve takımların çıkışını izlemeye 45 dakikamız kaldı. Stokes futbol oynayabilir mi? Aman Tanrım. Futbolla ilgisi yok ama her şeyin insanlıkla alakası var: Ben St"
+      "processed_at": "2026-06-28T21:57:09.530369",
+      "title_tr": "Kanada, 90+2'de son 16 biletini aldı!",
+      "summary_tr": "2026 FIFA Dünya Kupası son 32 turunda Kanada, Güney Afrika'yı 1-0 mağlup etti. 90+2. dakikada Stephen Eustaquio'nun kaydettiği golle kazanan Kanada, adını son 16 turuna yazdırdı. Güney Afrika ise organizasyondan elendi."
     },
     {
-      "title": "Yıldız ile Bektaş, İtalya'da 3. oldu!",
-      "summary": "İtalya Açık Badminton Turnuvası'na katılan milli sporculardan Sinem Yıldız ile Yasemen Bektaş, çift kadınlar kategorisinde bronz madalya kazandı.",
-      "url": "https://www.haberturk.com/milli-badmintoncular-sinem-yildiz-ile-yasemen-bektas-italya-daki-turnuvada-3-oldu-3894767-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/28/ver1782674535/3894767/jpg/1280x1280",
-      "published": "2026-06-28T19:22:54",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:07:08.445086",
-      "priority_score": 53,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-28T20:08:53.181040",
-      "title_tr": "Yıldız ile Bektaş, İtalya'da 3. oldu!",
-      "summary_tr": "İtalya Açık Badminton Turnuvası'na katılan milli sporculardan Sinem Yıldız ile Yasemen Bektaş, çift kadınlar kategorisinde bronz madalya kazandı."
-    },
-    {
-      "title": "Russell holds off Verstappen to win Austrian GP",
-      "summary": "George Russell held off Max Verstappen at the Austrian Grand Prix to reinvigorate his championship challenge with a first victory since the opening round of the season.",
-      "url": "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-geroge-russell-george_7285058.jpg?20260628160954",
-      "published": "2026-06-28T15:30:00",
+      "title": "PSG in talks to sign Liverpool target Diomande",
+      "summary": "Paris Saint-Germain are in talks with RB Leipzig over a move for Liverpool target Yan Diomande.",
+      "url": "https://www.skysports.com/football/news/12040/13558694/yan-diomande-transfer-news-psg-in-talks-to-sign-liverpool-target-and-ivory-coast-international",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-yan-diomande-ivory-coast_7275679.jpg?20260617103242",
+      "published": "2026-06-28T21:13:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:29.435142",
+      "fetched_at": "2026-06-28T21:53:42.469664",
       "priority_score": 51,
       "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-06-28T20:08:53.063313",
-      "title_tr": "Russell, Avusturya GP'sini kazanmak için Verstappen'i geride bıraktı",
-      "summary_tr": "George Russell, sezonun açılış turundan bu yana kazandığı ilk zaferle şampiyonluk mücadelesini yeniden canlandırmak için Avusturya Grand Prix'sinde Max Verstappen'i geride bıraktı."
-    },
-    {
-      "title": "City Challenge: Can you guess the 2026/27 fixture?",
-      "summary": "The fixture lists for the 2026/27 Bundesliga and Bundesliga 2 seasons come out on Thursday, but this year fans have the exclusive chance to learn details of some key matches in advance via the Bundesliga app with our City Challenge scavenger hunt.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/city-challenge-can-you-guess-the-2026-27-fixture-37981",
-      "image_url": null,
-      "published": "2026-06-28T16:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-06-28T20:06:19.383691",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-06-28T20:08:53.136713",
-      "title_tr": "City Challenge: 2026/27 fikstürünü tahmin edebilir misiniz?",
-      "summary_tr": "2026/27 Bundesliga ve Bundesliga 2 sezonlarının fikstür listeleri Perşembe günü çıkıyor, ancak bu yıl taraftarlar City Challenge çöpçü avımızla Bundesliga uygulaması aracılığıyla bazı önemli maçların ayrıntılarını önceden öğrenme şansına sahip olacak."
+      "processed_at": "2026-06-28T21:57:09.367474",
+      "title_tr": "PSG, Liverpool'un hedefi Diomande ile sözleşme imzalamak için görüşmelerde bulunuyor",
+      "summary_tr": "Paris Saint-Germain, Liverpool'un hedefi Yan Diomande için RB Leipzig ile görüşüyor."
+    },
+    {
+      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-28T21:24:53",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-28T21:53:30.431764",
+      "priority_score": 50,
+      "categories": [
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-28T21:57:09.348986",
+      "title_tr": "Eustaquio sakatlık anında attığı golle Kanada'yı son 16'ya taşıdı",
+      "summary_tr": "Kanada, 2026 Dünya Kupası'nda son 16'ya kalırken, maçın tek golünü Stephen Eustaquio Güney Afrika'ya attı."
     },
     {
       "title": "England labour past Panama to qualify for last 32 as group winners",
@@ -514,13 +519,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:17.907037",
+      "fetched_at": "2026-06-28T21:53:30.431930",
       "priority_score": 50,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.006941",
+      "processed_at": "2026-06-28T21:57:09.350669",
       "title_tr": "İngiltere, Panama'yı geçerek grup birincisi olarak son 32'ye kaldı",
       "summary_tr": "Jude Bellingham ve Harry Kane'in golleri İngiltere'nin Panama karşısında 2-0 galibiyet almasına yardımcı olurken, Thomas Tuchel'in takımı L Grubu'nun galibi olarak Dünya Kupası'nda son 32'ye kaldı."
     },
@@ -534,7 +539,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:54.377496",
+      "fetched_at": "2026-06-28T21:56:13.969154",
       "priority_score": 49,
       "categories": [
         "transfers",
@@ -542,7 +547,7 @@
         "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-06-28T20:08:53.656403",
+      "processed_at": "2026-06-28T21:57:09.986088",
       "title_tr": "Fenerbahçe ve Galatasaray'dan Kim Min-Jae savaşı! Yer yerinden oynayacak",
       "summary_tr": "Son dakika transfer haberleri: Kadrosunu güçlendirmek için çalışmalarını sürdüren Fenerbahçe, Bayern Münih forması giyen eski yıldızı Kim Min-Jae'yi gündemine almıştı. Sarı-lacivertlilerin ardından Galatasaray'ın...Devamı için tıklayınız"
     },
@@ -556,14 +561,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:54.607532",
+      "fetched_at": "2026-06-28T21:54:06.969892",
       "priority_score": 48,
       "categories": [
         "transfers",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.076380",
+      "processed_at": "2026-06-28T21:57:09.413683",
       "title_tr": "İskoçya'nın gelişmesi için dar görüşlü SFA dar görüşlü zihniyeti terk etmeli | Ewan Murray",
       "summary_tr": "Gelecekteki Dünya Kupası hayal kırıklığını önlemek için Steve Clarke'ın yerine geçecek kişiyi aramak ülke sınırlarının dışına bakmalı İskoç Futbol Federasyonu'nun, Dünya Kupası topu atılmadan haftalar önce Steve Clarke'a dört yıllık bir anlaşma verme yönündeki kafa karıştırıcı kararında bir unsur vardı;"
     },
@@ -577,13 +582,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-28T20:05:54.610990",
+      "fetched_at": "2026-06-28T21:54:06.973584",
       "priority_score": 48,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-28T20:08:53.132308",
+      "processed_at": "2026-06-28T21:57:09.478618",
       "title_tr": "İngiltere'nin gıcırdayan savunması Dünya Kupası endişesi yaratıyor ve Rice'ın karşılık vermesi gerekiyor | Jacob Steinberg",
       "summary_tr": "Panama'yı yenmek arkadaki eksiklikleri gizlemeyi başaramadı ve Tuchel'in adamları üst takıma karşı hırslı bir şekilde hayatta kalamayacaklar. Alçak bloğa ne olduğunu bilen var mı? Korkunç bir yediliyi kırmanın zorlukları hakkındaki tüm konuşmalardan sonra, New Jer'de Thomas Tuchel için daha büyük endişe var"
     },
@@ -597,13 +602,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-28T20:07:08.445377",
+      "fetched_at": "2026-06-28T21:55:23.368057",
       "priority_score": 48,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-28T20:08:53.198238",
+      "processed_at": "2026-06-28T21:57:09.567736",
       "title_tr": "Önder Özen'den transfer açıklaması!",
       "summary_tr": "Beşiktaş Futbol Direktörü Önder Özen, transfer çalışmalarını üç başlık altında yürüttüklerini ve ilk aşamada takımın zorunlu ihtiyaçlarını karşılamaya odaklandıklarını belirterek, \"Transferde finale yaklaştığımız üç tane isim var\" dedi."
     }
