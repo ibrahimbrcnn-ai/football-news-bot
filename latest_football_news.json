@@ -1,47 +1,7 @@
 {
-  "timestamp": "2026-06-30T20:55:36.390512",
+  "timestamp": "2026-06-30T22:12:39.147651",
   "total_items": 30,
   "news": [
-    {
-      "title": "Sources: Spurs, Fernandes agree to $112m deal",
-      "summary": "Tottenham have agreed a club-record £85 million ($112m) deal with West Ham to sign Mateus Fernandes, sources have told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/49226868/tottenham-mateus-fernandes-west-ham-man-united-club-record-deal-sources",
-      "image_url": null,
-      "published": "2026-06-30T21:33:04",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.484795",
-      "priority_score": 100,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-30T20:53:54.789000",
-      "title_tr": "Kaynaklar: Spurs ve Fernandes 112 milyon dolarlık anlaşmayı kabul etti",
-      "summary_tr": "Kaynakların ESPN'e aktardığı bilgiye göre Tottenham, Mateus Fernandes'i imzalamak için West Ham ile kulüp rekoru olan 85 milyon £ (112 milyon $) değerinde bir anlaşma imzaladı."
-    },
-    {
-      "title": "AC Milan sign Portugal's Gonçalo Ramos from PSG",
-      "summary": "AC Milan have confirmed the signing of Portugal forward Gonçalo Ramos from Paris Saint-Germain, the Italian club has announced.",
-      "url": "https://www.espn.com/soccer/story/_/id/49226010/ac-milan-sign-portugal-forward-goncalo-ramos-psg",
-      "image_url": null,
-      "published": "2026-06-30T21:33:04",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.485090",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-06-30T20:53:54.789522",
-      "title_tr": "AC Milan, PSG'den Portekizli Gonçalo Ramos'u kadrosuna kattı",
-      "summary_tr": "İtalyan kulübü, AC Milan'ın Paris Saint-Germain'den Portekizli forvet Gonçalo Ramos'u transfer ettiğini doğruladığını duyurdu."
-    },
     {
       "title": "Lampard signs new Coventry deal after summer interest",
       "summary": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
@@ -52,115 +12,15 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T20:50:43.052266",
+      "fetched_at": "2026-06-30T22:08:12.874335",
       "priority_score": 100,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:54.853554",
+      "processed_at": "2026-06-30T22:11:25.394174",
       "title_tr": "Lampard yaz ilgisinin ardından yeni Coventry anlaşması imzaladı",
       "summary_tr": "Frank Lampard, Coventry City baş antrenörü olarak 2029 yılına kadar yeni bir sözleşme imzaladı."
-    },
-    {
-      "title": "Newcastle, Chelsea and Aston Villa fined for breaching European financial rules",
-      "summary": "Uefa fines Newcastle £5.2m for first breach of squad cost rulesChelsea and Villa hit with penalties for second year in a rowNewcastle have been fined €6m (£5.2m) by Uefa for breaching its financial sustainability regulations, while Aston Villa and Chelsea have also been given fines for overspending ",
-      "url": "https://www.theguardian.com/football/2026/jun/30/newcastle-chelsea-and-aston-villa-fined-for-breaching-european-financial-rules",
-      "image_url": null,
-      "published": "2026-06-30T19:48:03",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:51:06.479310",
-      "priority_score": 68,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-06-30T20:53:54.943844",
-      "title_tr": "Newcastle, Chelsea ve Aston Villa'ya Avrupa mali kurallarını ihlal etmeleri nedeniyle para cezası verildi",
-      "summary_tr": "UEFA, kadro maliyeti kurallarının ilk ihlali nedeniyle Newcastle'a 5,2 milyon £ para cezası verdiChelsea ve Villa üst üste ikinci kez ceza aldıNewcastle, mali sürdürülebilirlik düzenlemelerini ihlal ettiği için UEFA tarafından 6 milyon € (5,2 milyon £) para cezasına çarptırılırken, Aston Villa ve Chelsea'ye de aşırı harcama nedeniyle para cezası verildi"
-    },
-    {
-      "title": "Norveç'te son sözü Haaland söyledi!",
-      "summary": "2026 Dünya Kupası son 32 turunda Fildişi Sahili ile Norveç karşı karşıya geldi. 3 golün çıktığı mücadeleyi Vikingler 2-1 kazandı ve son 16'ya adını yazdırdı.",
-      "url": "https://www.haberturk.com/fildisi-sahili-norvec-mac-sonucu-ozeti-ve-golleri-fildisi-sahili-norvec-dunya-kupasi-grup-maci-kac-kac-bitti-3895264-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782846102/3895264/jpg/1280x1280",
-      "published": "2026-06-30T19:02:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:52:15.574136",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:55.110518",
-      "title_tr": "Norveç'te son sözü Haaland söyledi!",
-      "summary_tr": "2026 Dünya Kupası son 32 turunda Fildişi Sahili ile Norveç karşı karşıya geldi. 3 golün çıktığı mücadeleyi Vikingler 2-1 kazandı ve son 16'ya adını yazdırdı."
-    },
-    {
-      "title": "France v Sweden: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off time: 5pm local/10pm BST/7am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail WillWrap your eyeballs around Football Daily.France (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe Continue reading...",
-      "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
-      "image_url": null,
-      "published": "2026-06-30T20:41:31",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:51:06.476209",
-      "priority_score": 63,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:54.893702",
-      "title_tr": "Fransa - İsveç: 2026 Dünya Kupası son 32 – canlı",
-      "summary_tr": "⚽️ Başlama zamanı: 17:00 yerel/22:00 BST/7:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | Mail Will Gözlerinizi Football Daily'nin etrafına saracak. Fransa (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe Okumaya devam et..."
-    },
-    {
-      "title": "Haaland scores late winner to set up Norway vs Brazil",
-      "summary": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
-      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
-      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-erling-haaland-norway_7286897.jpg?20260630205502",
-      "published": "2026-06-30T19:58:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:43.051910",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:54.831355",
-      "title_tr": "Haaland, Norveç-Brezilya karşılaşmasını geç de olsa kazandı",
-      "summary_tr": "Erling Haaland, 86. dakikada attığı golle Norveç'i Fildişi Sahili karşısında 2-1'lik dramatik bir galibiyete taşıdı ve Brezilya ile Dünya Kupası'nda ağız sulandıran bir son 16 maçına imza attı."
-    },
-    {
-      "title": "Ansu Fati joins Monaco on permanent deal",
-      "summary": "Monaco have completed the signing of Barcelona forward Ansu Fati on a permanent deal for a fee in the region of £9.5 million ($12.5m/€11m).",
-      "url": "https://www.espn.com/soccer/story/_/id/49214885/ansu-fati-monaco-barcelona-transfers",
-      "image_url": null,
-      "published": "2026-06-30T21:33:04",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.485463",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-06-30T20:53:54.790759",
-      "title_tr": "Ansu Fati kalıcı sözleşmeyle Monaco'da",
-      "summary_tr": "Monaco, Barselona'nın forvet oyuncusu Ansu Fati'yi 9,5 milyon £ (12,5 milyon $/11 milyon €) civarında bir ücret karşılığında kalıcı bir anlaşmayla imzaladı."
     },
     {
       "title": "Tottenham win race to sign West Ham’s Mateus Fernandes for club record £85m",
@@ -172,7 +32,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T20:51:06.477243",
+      "fetched_at": "2026-06-30T22:08:33.805008",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -180,7 +40,7 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:54.907229",
+      "processed_at": "2026-06-30T22:11:25.422223",
       "title_tr": "Tottenham, West Ham'dan Mateus Fernandes'i 85 milyon £'luk kulüp rekoru karşılığında imzalama yarışını kazandı",
       "summary_tr": "Spurs, orta saha oyuncusu Fernandes'i transfer ederken Manchester United'ı yendi, anlaşmayı tamamlamadan önce sağlık kontrolünden geçti. Tottenham, Mateus Fernandes'i 85 milyon £ karşılığında Manchester United'ı yenerek transfer rekorunu kırmaya hazırlanıyor. Portekizli milli oyuncu, Wes'in ardından yeni bir mücadeleye doğru ilerliyor"
     },
@@ -194,78 +54,96 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-30T20:50:31.729049",
+      "fetched_at": "2026-06-30T22:08:01.201283",
       "priority_score": 95,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-06-30T20:53:54.804972",
+      "processed_at": "2026-06-30T22:11:25.355213",
       "title_tr": "Coventry patronu Lampard 2029'a kadar yeni sözleşme imzaladı",
       "summary_tr": "Coventry City menajeri Frank Lampard, kulübün 25 yıl aradan sonra ilk Premier Lig kampanyasına başlamadan önce 2029 yılına kadar yeni bir sözleşme imzaladı."
     },
     {
-      "title": "Top U.S. official 'so happy' at Iran WC exit",
-      "summary": "U.S. Department of Homeland Security Secretary Markwayne Mullin has said he is \"so happy\" that Iran are out of the World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49224162/top-us-government-official-happy-iran-made-world-cup-exit",
+      "title": "Defying logic - how Haaland could end up with 260 international goals",
+      "summary": "Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-06-30T21:33:04",
-      "source": "ESPN FC",
+      "published": "2026-06-30T21:18:45",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.485629",
-      "priority_score": 85,
+      "fetched_at": "2026-06-30T22:08:01.199911",
+      "priority_score": 80,
       "categories": [
-        "transfers",
-        "breaking_news",
-        "world_cup"
+        "match_results",
+        "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:54.791412",
-      "title_tr": "Üst düzey ABD'li yetkili İran Dünya Kupası çıkışından 'çok mutlu'",
-      "summary_tr": "ABD İç Güvenlik Bakanlığı Sekreteri Markwayne Mullin, İran'ın Dünya Kupası'ndan elenmesinden \"çok mutlu\" olduğunu söyledi."
+      "processed_at": "2026-06-30T22:11:25.352402",
+      "title_tr": "Mantığa meydan okuyan: Haaland nasıl 260 uluslararası gol atabildi?",
+      "summary_tr": "Erling Haaland, Norveç adına şimdiye kadarki en büyük sahneye çıkıyor - peki uluslararası futbolda kaç gol atabilir?"
     },
     {
-      "title": "Milan'dan rekor transfer!",
-      "summary": "İtalya Serie A ekiplerinden Milan, Paris Saint-Germain (PSG) forması giyen Gonçalo Ramos'u renklerine bağladığını açıkladı. Bu imzayla birlikte kulüp tarihinin en yüksek bonservis bedeli ödendi.",
-      "url": "https://www.haberturk.com/milan-dan-rekor-transfer-goncalo-ramos-3895235-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782834114/3895235/jpg/1280x1280",
-      "published": "2026-06-30T15:42:24",
+      "title": "Newcastle, Chelsea and Aston Villa fined for breaching European financial rules",
+      "summary": "Uefa fines Newcastle £5.2m for first breach of squad cost rulesChelsea and Villa hit with penalties for second year in a rowNewcastle have been fined €6m (£5.2m) by Uefa for breaching its financial sustainability regulations, while Aston Villa and Chelsea have also been given fines for overspending ",
+      "url": "https://www.theguardian.com/football/2026/jun/30/newcastle-chelsea-and-aston-villa-fined-for-breaching-european-financial-rules",
+      "image_url": null,
+      "published": "2026-06-30T19:48:03",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:33.807049",
+      "priority_score": 68,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-06-30T22:11:25.451265",
+      "title_tr": "Newcastle, Chelsea ve Aston Villa'ya Avrupa mali kurallarını ihlal etmeleri nedeniyle para cezası verildi",
+      "summary_tr": "UEFA, kadro maliyeti kurallarının ilk ihlali nedeniyle Newcastle'a 5,2 milyon £ para cezası verdiChelsea ve Villa üst üste ikinci kez ceza aldıNewcastle, mali sürdürülebilirlik düzenlemelerini ihlal ettiği için UEFA tarafından 6 milyon € (5,2 milyon £) para cezasına çarptırılırken, Aston Villa ve Chelsea'ye de aşırı harcama nedeniyle para cezası verildi"
+    },
+    {
+      "title": "Norveç'te son sözü Haaland söyledi!",
+      "summary": "2026 Dünya Kupası son 32 turunda Fildişi Sahili ile Norveç karşı karşıya geldi. 3 golün çıktığı mücadeleyi Vikingler 2-1 kazandı ve son 16'ya adını yazdırdı.",
+      "url": "https://www.haberturk.com/fildisi-sahili-norvec-mac-sonucu-ozeti-ve-golleri-fildisi-sahili-norvec-dunya-kupasi-grup-maci-kac-kac-bitti-3895264-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782846102/3895264/jpg/1280x1280",
+      "published": "2026-06-30T19:02:11",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:15.574429",
-      "priority_score": 83,
+      "fetched_at": "2026-06-30T22:09:39.917151",
+      "priority_score": 68,
       "categories": [
-        "transfers",
-        "serie_a"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-06-30T20:53:55.131546",
-      "title_tr": "Milan'ın transfer rekoru!",
-      "summary_tr": "İtalya Serie A ekiplerinden Milan, Paris Saint-Germain (PSG) forması giyen Gonçalo Ramos'u renklerine bağladığını açıkladı. Bu imzayla birlikte kulüp tarihinin en yüksek bonservis bedeli ödendi."
+      "processed_at": "2026-06-30T22:11:25.624784",
+      "title_tr": "Norveç'te son sözü Haaland söyledi!",
+      "summary_tr": "2026 Dünya Kupası son 32 turunda Fildişi Sahili ile Norveç karşı karşıya geldi. 3 golün çıktığı mücadeleyi Vikingler 2-1 kazandı ve son 16'ya adını yazdırdı."
     },
     {
-      "title": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
-      "summary": "LeBron James will play a record-extending 24th NBA season with a new team after it was confirmed he would not be returning to the Los Angeles Lakers.",
-      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
-      "image_url": "https://e0.365dm.com/26/02/1920x1080/skysports-lebron-james-nba_7155046.jpg?20260204064034",
-      "published": "2026-06-30T18:15:00",
+      "title": "Haaland scores late winner to set up Norway vs Brazil",
+      "summary": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
+      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
+      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-erling-haaland-norway_7286897.jpg?20260630205502",
+      "published": "2026-06-30T19:58:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T20:50:43.052112",
-      "priority_score": 81,
+      "fetched_at": "2026-06-30T22:08:12.873858",
+      "priority_score": 51,
       "categories": [
-        "transfers",
-        "breaking_news",
-        "injuries"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-06-30T20:53:54.841623",
-      "title_tr": "LeBron, Lakers'ın dönüşü ekarte edildiğinden 24. NBA sezonunda başka bir yerde yarışacak",
-      "summary_tr": "LeBron James, Los Angeles Lakers'a dönmeyeceği kesinleştikten sonra yeni bir takımla rekor kıran 24. NBA sezonunu oynayacak."
+      "processed_at": "2026-06-30T22:11:25.372324",
+      "title_tr": "Haaland, Norveç-Brezilya karşılaşmasını geç de olsa kazandı",
+      "summary_tr": "Erling Haaland, 86. dakikada attığı golle Norveç'i Fildişi Sahili karşısında 2-1'lik dramatik bir galibiyete taşıdı ve Brezilya ile Dünya Kupası'nda ağız sulandıran bir son 16 maçına imza attı."
     },
     {
       "title": "Milan, PSG'den Gonçalo Ramos'u transfer etti! Dev bonservis...",
@@ -277,13 +155,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:28.476998",
+      "fetched_at": "2026-06-30T22:09:53.376874",
       "priority_score": 81,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:55.222415",
+      "processed_at": "2026-06-30T22:11:25.690392",
       "title_tr": "Milan, PSG'den Gonçalo Ramos'u transfer etti! Dev bonservis...",
       "summary_tr": "Milan, PSG'den Portekizli milli futbolcu Gonçalo Ramos'u renklerine bağladı."
     },
@@ -297,36 +175,56 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:28.477147",
+      "fetched_at": "2026-06-30T22:09:53.377026",
       "priority_score": 81,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-06-30T20:53:55.238817",
+      "processed_at": "2026-06-30T22:11:25.705089",
       "title_tr": "Atletico Madrid, Grimaldo transferini duyurdu!",
       "summary_tr": "LaLiga ekiplerinden Atletico Madrid, Bayer Leverkusen'den İspanyol sol bek Alejandro Grimaldo'yu kadrosuna kattığını açıkladı."
     },
     {
-      "title": "Erzurumspor FK'da iç transfer hareketliliği!",
-      "summary": "Süper Lig temsilcisi Erzurumspor FK'da yeni sezon öncesi iç transfer çalışmaları hız kazandı. Türkiye Futbol Federasyonu’ndan alınan bilgilere göre, mavi-beyazlı ekip geçtiğimiz sezon kadrosunda yer alan Amar Gerxhaliu ve Sefa Akgün'ün sözleşmesini uzattı.",
-      "url": "https://www.haberturk.com/erzurumspor-fk-da-amar-gerxhaliu-ve-sefa-akgun-le-yola-devam-3895216-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782828174/3895216/jpg/1280x1280",
-      "published": "2026-06-30T14:03:46",
+      "title": "Galatasaray ilk transferini bitiriyor! İşte transferin maliyeti ve oyuncunun geleceği tarih",
+      "summary": "Galatasaray son dakika haberleri | Yaz transfer dönemine hızlı bir giriş yapmaya hazırlanan Galatasaray, kadrosunu güçlendirmek adına önemli bir hamle yapmaya hazırlanıyor. Sarı-kırmızılılar, Victor Osimhen'in...Devamı için tıklayınız",
+      "url": "https://www.aspor.com.tr/galatasaray/2026/06/30/galatasaray-ilk-transferini-bitiriyor-iste-transferin-maliyeti-ve-oyuncunun-gelecegi-tarih",
+      "image_url": "https://iaftm.tmgrup.com.tr/5d39da/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/06/30/galatasaray-ilk-transferini-bitiriyor-iste-transferin-maliyeti-ve-oyuncunun-gelecegi-tarih-1782802552793.jpeg",
+      "published": "2026-06-29T22:20:02",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:10:28.034880",
+      "priority_score": 79,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-30T22:11:26.139480",
+      "title_tr": "Galatasaray ilk transferini bitiriyor! İşte transferin maliyeti ve oyuncunun geleceği tarih",
+      "summary_tr": "Galatasaray son dakika haberleri | Yaz transfer dönemine hızlı bir giriş yapmaya hazırlanan Galatasaray, kadrosunu güçlendirmek adına önemli bir hamle yapmaya hazırlanıyor. Sarı-kırmızılılar, Victor Osimhen'in...Devamı için tıklayınız"
+    },
+    {
+      "title": "Milan'dan rekor transfer!",
+      "summary": "İtalya Serie A ekiplerinden Milan, Paris Saint-Germain (PSG) forması giyen Gonçalo Ramos'u renklerine bağladığını açıkladı. Bu imzayla birlikte kulüp tarihinin en yüksek bonservis bedeli ödendi.",
+      "url": "https://www.haberturk.com/milan-dan-rekor-transfer-goncalo-ramos-3895235-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782834114/3895235/jpg/1280x1280",
+      "published": "2026-06-30T15:42:24",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:15.574862",
+      "fetched_at": "2026-06-30T22:09:39.917425",
       "priority_score": 78,
       "categories": [
         "transfers",
-        "match_results",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:55.168089",
-      "title_tr": "Erzurumspor FK'da iç transfer hareketliliği!",
-      "summary_tr": "Süper Lig temsilcisi Erzurumspor FK'da yeni sezon öncesi iç transfer çalışmaları hız kazandı. Türkiye Futbol Federasyonu’ndan alınan bilgilere göre, mavi-beyazlı ekip geçtiğimiz sezon kadrosunda yer alan Amar Gerxhaliu ve Sefa Akgün'ün sözleşmesini uzattı."
+      "processed_at": "2026-06-30T22:11:25.644230",
+      "title_tr": "Milan'ın transfer rekoru!",
+      "summary_tr": "İtalya Serie A ekiplerinden Milan, Paris Saint-Germain (PSG) forması giyen Gonçalo Ramos'u renklerine bağladığını açıkladı. Bu imzayla birlikte kulüp tarihinin en yüksek bonservis bedeli ödendi."
     },
     {
       "title": "Bodrum FK, Burhan Eşer ile sözleşme uzattı",
@@ -338,14 +236,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:47.147335",
+      "fetched_at": "2026-06-30T22:10:12.273845",
       "priority_score": 76,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-30T20:53:55.445601",
+      "processed_at": "2026-06-30T22:11:25.894870",
       "title_tr": "Bodrum FK, Burhan Eşer ile sözleşme uzattı",
       "summary_tr": "Burhan Eşer, Bodrum FK ile yeni kontrat imzaladı."
+    },
+    {
+      "title": "Trossard adım adım Beşiktaş'a!",
+      "summary": "Beşiktaş'ın uzun süredir transfer gündeminde olan Leandro Trossard'ın transferi için kulübü Arsenal ile büyük oranda anlaşma sağladığı öğrenildi. İşte detaylar... | Son dakika Beşiktaş haberleriDevamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/besiktas/2026/06/30/trossard-adim-adim-besiktasa",
+      "image_url": "https://iaftm.tmgrup.com.tr/e841ca/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/07/01/trossard-adim-adim-besiktasa-1782853885479.jpeg",
+      "published": "2026-06-30T21:04:24",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:10:28.035191",
+      "priority_score": 74,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-30T22:11:26.151743",
+      "title_tr": "Trossard adım adım Beşiktaş'a!",
+      "summary_tr": "Beşiktaş'ın uzun süredir transfer gündeminde olan Leandro Trossard'ın transferi için kulübü Arsenal ile büyük oranda anlaşma sağladığı öğrenildi. İşte detaylar... | Son dakika Beşiktaş haberleriDevamı için tıklayınız"
     },
     {
       "title": "Iran hit out at ‘lies and mistreatment’ following US official’s joy at team’s exit",
@@ -357,118 +277,55 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T20:51:06.480150",
+      "fetched_at": "2026-06-30T22:08:33.808354",
       "priority_score": 73,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T20:53:54.952335",
+      "processed_at": "2026-06-30T22:11:25.466301",
       "title_tr": "İran, ABD'li yetkilinin takımın ayrılmasından duyduğu sevincin ardından \"yalan ve kötü muameleye\" sert tepki gösterdi",
       "summary_tr": "İran, ABD iç güvenlik bakanının \"ABD topraklarını terk edebileceklerini söylediğimizde çok mutlu oldum\" yorumlarına yanıt verdi İran futbol federasyonu, Dünya Kupası'ndan çıkışlarını kutlayan üst düzey bir ABD'li yetkiliye, ev sahiplerini \"yalan\" satmakla suçlayarak yanıt verdi ve \"kötü muameleye alışık olduklarını\" söyledi"
     },
     {
-      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-      "summary": "Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spotGermany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. Para",
-      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
-      "image_url": null,
-      "published": "2026-06-30T14:15:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:51:06.481491",
-      "priority_score": 73,
-      "categories": [
-        "transfers",
-        "match_results",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:54.976985",
-      "title_tr": "Panenka'dan Paraguay'a: Almanya'nın 50 yıllık penaltı serisi sona erdi",
-      "summary_tr": "Almanya bir kez büyük turnuva penaltı atışlarında art arda 22 penaltı attı. Üçünü kaçırdılar ve Paraguay penaltılarla 4-3 kazandı. Almanya penaltılarla 2026 Dünya Kupası'ndan elendi; bu, son 50 yılda uluslararası futbolu izleyen birine inanılmaz gelen bir sonuçtu. paragraf"
-    },
-    {
-      "title": "Icardi'nin Galatasaray'daki akıbeti ne olacak? Menajerinden sözleşme açıklaması!",
-      "summary": "Icardi'nin Galatasaray'daki geleceği belirsizliğini koruyor. Menajeri Elio Pino, yeni sözleşme görüşmelerine dair açıklama yaptı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/icardinin-galatasaraydaki-akibeti-ne-olacak-menajerinden-sozlesme-aciklamasi-43224513",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4428f75625e6181d3f8afb.jpg",
-      "published": "2026-06-30T20:38:36",
-      "source": "Hürriyet Spor",
+      "title": "LeBron confirms Lakers exit with search for new club for 24th season under way",
+      "summary": "LeBron James will play a record-extending 24th NBA season with a new team after he confirmed he would not be returning to the Los Angeles Lakers.",
+      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
+      "image_url": "https://e0.365dm.com/26/02/1920x1080/skysports-lebron-james-nba_7155046.jpg?20260204064034",
+      "published": "2026-06-30T18:15:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:28.476754",
+      "fetched_at": "2026-06-30T22:08:12.874074",
       "priority_score": 71,
       "categories": [
         "transfers",
-        "super_lig"
+        "breaking_news"
       ],
-      "processed_at": "2026-06-30T20:53:55.203404",
-      "title_tr": "Icardi'nin Galatasaray'daki akıbeti ne olacak? Menajerinden sözleşme açıklaması!",
-      "summary_tr": "Icardi'nin Galatasaray'daki geleceği belirsizliğini koruyor. Menajeri Elio Pino, yeni sözleşme görüşmelerine dair açıklama yaptı."
+      "processed_at": "2026-06-30T22:11:25.380640",
+      "title_tr": "LeBron, Lakers'tan ayrıldığını doğruladı ve 24. sezon için yeni kulüp arayışı sürüyor",
+      "summary_tr": "LeBron James, Los Angeles Lakers'a dönmeyeceğini açıkladıktan sonra yeni bir takımla rekor kıran 24. NBA sezonunu oynayacak."
     },
     {
-      "title": "Transfers Ajax: drie huurlingen worden uitgezwaaid",
-      "summary": "VI volgt het transfernieuws bij Ajax op de voet, ook nu de winterse transferwindow gesloten is. De doelwitten van de Amsterdammers, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
-      "url": "https://www.vi.nl/nieuws/transfers-ajax-drie-huurlingen-worden-uitgezwaaid",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/02/72337f50631e66f027af605f1b8681ad73b235ab.jpg?width=1200",
-      "published": "2026-06-30T20:19:39",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Coventry City'den Lampard'a yeni sözleşme!",
+      "summary": "İngiltere Premier Lig'in yeni ekiplerinden Coventry City, teknik direktör Frank Lampard ile yeni sözleşme imzaladı.",
+      "url": "https://www.haberturk.com/coventry-city-den-frank-lampard-a-yeni-sozlesme-3895277-spor",
+      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782851696/3895277/jpg/1280x1280",
+      "published": "2026-06-30T20:35:18",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:53:50.441880",
-      "priority_score": 67,
+      "fetched_at": "2026-06-30T22:09:39.916935",
+      "priority_score": 68,
       "categories": [
-        "transfers",
-        "serie_a"
+        "transfers"
       ],
-      "processed_at": "2026-06-30T20:53:55.904570",
-      "title_tr": "Ajax transferleri: Üç paralı askere veda edildi",
-      "summary_tr": "VI, kış transfer döneminin kapalı olmasına rağmen Ajax'taki transfer haberlerini yakından takip ediyor. Amsterdamlıların hedefleri, kulüp gözlemcilerinin yorumu veya yabancı medyadaki ilgi. Her şeyi burada topluyoruz."
-    },
-    {
-      "title": "Nagelsmann: Germany no longer 'first-class team'",
-      "summary": "ulian Nagelsmann said Germany are no longer a \"first-class team\" after another early World Cup exit, but added he wants to stay on as head coach following their penalty shootout defeat to Paraguay.",
-      "url": "https://www.espn.com/soccer/story/_/id/49220370/nagelsmann-germany-not-first-class-team-wc-exit",
-      "image_url": null,
-      "published": "2026-06-30T21:33:03",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.484606",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:54.788538",
-      "title_tr": "Nagelsmann: Almanya artık 'birinci sınıf takım' değil",
-      "summary_tr": "Ulian Nagelsmann, Almanya'nın Dünya Kupası'ndan bir kez daha erken ayrılmasının ardından artık \"birinci sınıf bir takım\" olmadığını, ancak Paraguay'a karşı penaltı atışları yenilgisinin ardından baş antrenör olarak kalmak istediğini söyledi."
-    },
-    {
-      "title": "When it comes to Norway's World Cup dreams, it's a...",
-      "summary": "While he has a very talented and capable supporting cast, Norway's dreams of World Cup glory rest on the shoulders, and goals, of Erling Haaland.",
-      "url": "https://www.espn.com/soccer/story/_/id/49228507/norway-ivory-coast-erling-haaland-fifa-world-cup-round-32-analysis",
-      "image_url": null,
-      "published": "2026-06-30T21:25:02",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:50:26.485988",
-      "priority_score": 65,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T20:53:54.793259",
-      "title_tr": "Norveç'in Dünya Kupası hayallerine gelince, bu...",
-      "summary_tr": "Çok yetenekli ve yetenekli bir yardımcı oyuncu kadrosuna sahip olmasına rağmen, Norveç'in Dünya Kupası zaferine dair hayalleri Erling Haaland'ın omuzlarına ve gollerine dayanıyor."
+      "processed_at": "2026-06-30T22:11:25.610967",
+      "title_tr": "Coventry City'den Lampard'a yeni sözleşme!",
+      "summary_tr": "İngiltere Premier Lig'in yeni ekiplerinden Coventry City, teknik direktör Frank Lampard ile yeni sözleşme imzaladı."
     },
     {
       "title": "Spurs agree £85m deal for West Ham's Fernandes",
@@ -480,15 +337,95 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-30T20:50:31.728676",
+      "fetched_at": "2026-06-30T22:08:01.200834",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-06-30T20:53:54.801765",
+      "processed_at": "2026-06-30T22:11:25.353985",
       "title_tr": "Spurs, West Ham'lı Fernandes için 85 milyon £'luk anlaşmaya vardı",
       "summary_tr": "Manchester United orta saha yarışından çekilirken Tottenham, West Ham'dan Mateus Fernandes ile sözleşme imzalamak için anlaşmaya vardı."
+    },
+    {
+      "title": "France v Sweden: World Cup 2026 last 32 – live",
+      "summary": "⚽️ Kick-off time: 5pm local/10pm BST/7am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail WillWrap your eyeballs around Football Daily.France (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe Continue reading...",
+      "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
+      "image_url": null,
+      "published": "2026-06-30T21:57:16",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:33.804192",
+      "priority_score": 63,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.412038",
+      "title_tr": "Fransa - İsveç: 2026 Dünya Kupası son 32 – canlı",
+      "summary_tr": "⚽️ Başlama zamanı: 17:00 yerel/22:00 BST/7:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | Mail Will Gözlerinizi Football Daily'nin etrafına saracak. Fransa (4-2-3-1): Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe Okumaya devam et..."
+    },
+    {
+      "title": "Icardi'nin Galatasaray'daki akıbeti ne olacak? Menajerinden sözleşme açıklaması!",
+      "summary": "Icardi'nin Galatasaray'daki geleceği belirsizliğini koruyor. Menajeri Elio Pino, yeni sözleşme görüşmelerine dair açıklama yaptı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/icardinin-galatasaraydaki-akibeti-ne-olacak-menajerinden-sozlesme-aciklamasi-43224513",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4428f75625e6181d3f8afb.jpg",
+      "published": "2026-06-30T20:38:36",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:09:53.376643",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-30T22:11:25.674086",
+      "title_tr": "Icardi'nin Galatasaray'daki akıbeti ne olacak? Menajerinden sözleşme açıklaması!",
+      "summary_tr": "Icardi'nin Galatasaray'daki geleceği belirsizliğini koruyor. Menajeri Elio Pino, yeni sözleşme görüşmelerine dair açıklama yaptı."
+    },
+    {
+      "title": "Koeman resigns, while Netherlands report racist abuse",
+      "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-30T21:42:42",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:01.200179",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.352670",
+      "title_tr": "Koeman istifa etti, Hollanda ırkçı tacizi bildirdi",
+      "summary_tr": "Ronald Koeman, Hollanda'nın Dünya Kupası'ndan ayrılmasının ardından teknik direktörlük görevinden istifa etti ve bu, penaltıları kaçıran oyunculara yönelik \"korkunç\" ırkçı tacize yol açtı."
+    },
+    {
+      "title": "Ronald Koeman resigns as Netherlands head coach after World Cup loss to Morocco",
+      "summary": "‘We fell short. Responsibility rests with me’ he saysNetherlands players subject to online racist abuseRonald Koeman has resigned as Netherlands head coach in the wake of their World Cup last-32 defeat to Morocco on Monday.“Last night I took the decision to end my stint as head coach of the Dutch na",
+      "url": "https://www.theguardian.com/football/2026/jun/30/ronald-koeman-resigns-as-netherlands-head-coach-after-world-cup-loss-to-morocco",
+      "image_url": null,
+      "published": "2026-06-30T21:43:49",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:33.807443",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.457717",
+      "title_tr": "Ronald Koeman, Dünya Kupası'nda Fas'a yenilmesinin ardından Hollanda teknik direktörlüğünden istifa etti",
+      "summary_tr": "‘Yetersiz kaldık. Sorumluluk bana aittir' diyor Hollandalı oyuncular çevrimiçi ırkçı tacize maruz kalıyorRonald Koeman, Pazartesi günü Dünya Kupası'nda son 32'de Fas'a yenilmelerinin ardından Hollanda baş antrenörlüğünden istifa etti."
     },
     {
       "title": "Yıldız oyuncunun Süper Lig ekibine transferi iptal oldu: Sağlık kontrollerinden geçemedi",
@@ -500,13 +437,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:53:15.304076",
+      "fetched_at": "2026-06-30T22:10:44.096139",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T20:53:55.748455",
+      "processed_at": "2026-06-30T22:11:26.373318",
       "title_tr": "Yıldız oyuncunun Süper Lig ekibine transferi iptal oldu: Sağlık kontrollerinden geçemedi",
       "summary_tr": "Çorum FK, orta saha oyuncusu Matus Bero transferinden vazgeçti. Yapılan sağlık kontrollerinde ortaya çıkan olumsuz bulg..."
     },
@@ -520,34 +457,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:53:15.305219",
+      "fetched_at": "2026-06-30T22:10:44.097304",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T20:53:55.776092",
+      "processed_at": "2026-06-30T22:11:26.401279",
       "title_tr": "Süper Lig'de şoke eden olay! Sözleşmesini feshedip başka takımla anlaştı",
       "summary_tr": "Gaziantep FK cephesinde Christopher Lungoyi’nin ani ayrılığı büyük bir krize neden oldu.Kulüp tarafından yapılan resmi ..."
-    },
-    {
-      "title": "Econoom die WK-winst Oranje voorspelde, zegt sorry: 'Misschien op het EK'",
-      "summary": "De Duitse econoom Joachim Klement die viraal ging met zijn voorspelling dat Nederland dit jaar wereldkampioen zou worden , heeft zich met een m ea culpa tot de voetbalwereld gericht. Ook reageerde hij op een tweet van Neymar.",
-      "url": "https://www.vi.nl/nieuws/econoom-die-wk-winst-oranje-voorspelde-zegt-sorry-misschien-op-het-ek",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/30/2aaa26a29a02f9ec526d0e458476c9353f83f36f.jpg?width=1200",
-      "published": "2026-06-30T20:49:52",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-06-30T20:53:50.441721",
-      "priority_score": 57,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-06-30T20:53:55.874384",
-      "title_tr": "Hollanda'nın Dünya Kupası'nı kazanacağını tahmin eden ekonomist üzgün: 'Belki Avrupa Şampiyonası'nda'",
-      "summary_tr": "Hollanda'nın bu yıl dünya şampiyonu olacağı öngörüsüyle viral olan Alman ekonomist Joachim Klement, futbol dünyasına bir m ea culpa ile seslendi. Ayrıca Neymar'ın tweet'ine de yanıt verdi."
     },
     {
       "title": "Timber krijgt nieuwe trainer bij Marseille, Arsenal gelinkt aan Barcola",
@@ -559,16 +477,35 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-06-30T20:53:50.442047",
+      "fetched_at": "2026-06-30T22:11:20.732018",
       "priority_score": 57,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-06-30T20:53:55.942599",
+      "processed_at": "2026-06-30T22:11:26.681792",
       "title_tr": "Timber, Barcola'ya bağlı Marsilya ve Arsenal'de yeni antrenöre kavuştu",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Rangers sign Pandur from Hull as Butland nears Tigers move",
+      "summary": "Rangers have signed goalkeeper Ivor Pandur from Hull City in a £6m deal.",
+      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-ivor-ivor-pandur_7285612.jpg?20260629115157",
+      "published": "2026-06-30T22:05:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:12.873693",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-30T22:11:25.368406",
+      "title_tr": "Butland, Tigers'ın hamlesine yaklaşırken Rangers, Hull'dan Pandur'u imzaladı",
+      "summary_tr": "Rangers, Hull City'den kaleci Ivor Pandur'u 6 milyon £ karşılığında kadrosuna kattı."
     },
     {
       "title": "RB Leipzig clarify Yan Diomande future",
@@ -580,13 +517,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-30T20:51:30.773599",
+      "fetched_at": "2026-06-30T22:08:54.527795",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-06-30T20:53:55.002024",
+      "processed_at": "2026-06-30T22:11:25.500950",
       "title_tr": "RB Leipzig, Yan Diomande'nin geleceğini açıkladı",
       "summary_tr": "RB Leipzig sportif direktörü Marcel Schäfer, artan yaz transfer spekülasyonları nedeniyle Yan Diomande'nin gelecek sezon kulüpte kalacağını söyledi."
     },
@@ -600,16 +537,77 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T20:52:28.477564",
+      "fetched_at": "2026-06-30T22:09:53.377440",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T20:53:55.297729",
+      "processed_at": "2026-06-30T22:11:25.758316",
       "title_tr": "Galatasaray'da Bruno Fernandes için tarih belli oldu! Dünya Kupası kritik",
       "summary_tr": "Galatasaray, 2026 FIFA Dünya Kupası sırasında transferde sesiz kalırken, turnuva sonrası bombayı patlatmaya hazırlanıyor."
+    },
+    {
+      "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+      "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-30T19:40:52",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:01.200645",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.353571",
+      "title_tr": "Norveç dirençli Fildişi Sahili'ni devirirken son kahraman Haaland",
+      "summary_tr": "Manchester City'nin golcüsü Erling Haaland, Norveç'in Fildişi Sahili'ni 2-1 yenerek 2026 Dünya Kupası'nda son 16'ya kalmayı garantileyen maçta son golü attı."
+    },
+    {
+      "title": "Why Michael Olise can win the FIFA World Cup Golden Ball",
+      "summary": "Michael Olise could hardly have chosen a better time to hit top form. After lighting up the Bundesliga with Bayern Munich and signing off France's FIFA World Cup 2026 preparations with a stunning hat-trick against Northern Ireland, he currently sits joint second in the tournament's assist charts and",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/why-olise-wins-golden-ball-world-cup-26-france-bayern-37746",
+      "image_url": null,
+      "published": "2026-06-30T04:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:54.535483",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "bundesliga",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.570236",
+      "title_tr": "Michael Olise neden FIFA Dünya Kupası Altın Topunu kazanabilir?",
+      "summary_tr": "Michael Olise en iyi forma ulaşmak için bundan daha iyi bir zaman seçemezdi. Bayern Münih ile Bundesliga'yı aydınlatan ve Fransa'nın 2026 FIFA Dünya Kupası hazırlıklarına Kuzey İrlanda'ya karşı muhteşem bir hat-trick yaparak imza atan oyuncu, şu anda turnuvanın asist listelerinde ikinci sırada yer alıyor ve"
+    },
+    {
+      "title": "Mexico face up to their most terrifying opponent: the ghost of World Cup game four",
+      "summary": "El Tri have made a habit of qualifying from the group stage and then falling at the first hurdle. They are hoping the memory of 1986 will help end the curseIn Mexico, the phrase ya merito (“almost there”) is closely linked to the country’s men’s football team.In Mexican Spanish, it’s a colloquial, a",
+      "url": "https://www.theguardian.com/football/2026/jun/30/mexico-ecuador-world-cup-2026",
+      "image_url": null,
+      "published": "2026-06-30T13:00:07",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-06-30T22:08:33.808748",
+      "priority_score": 48,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T22:11:25.473194",
+      "title_tr": "Meksika en korkunç rakibiyle karşı karşıya: Dünya Kupası dördüncü maçının hayaleti",
+      "summary_tr": "El Tri, grup aşamasından itibaren sıralamalara girmeyi ve ardından ilk engelde düşmeyi alışkanlık haline getirdi. 1986'nın hatırasının lanetin sona ermesine yardımcı olacağını umuyorlar. Meksika'da ya merito (\"neredeyse orada\") ifadesi ülkenin erkek futbol takımıyla yakından bağlantılıdır."
     }
   ]
 }
