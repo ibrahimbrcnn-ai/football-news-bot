@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T02:18:51.339492",
+  "timestamp": "2026-06-30T06:50:36.559661",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.453104",
+      "fetched_at": "2026-06-30T06:46:08.114612",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,7 +20,7 @@
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-06-30T02:17:41.494763",
+      "processed_at": "2026-06-30T06:49:16.994678",
       "title_tr": "Robert Lewandowski, MLS'nin 2028'e kadar Chicago Fire'a geçmesini istiyor",
       "summary_tr": "Barcelona'nın eski forveti iki buçuk sezondur forma giyiyor37 yaşındaki futbolcunun 697 golü mevcut oyuncular arasında en iyi üçüncü toplam. Chicago Fire, Pazartesi günü Robert Lewandowski'yi 2027-28 sezonuna kadar satın aldığını resmen duyurdu. Polonya'nın rekor golcüsü belirlenmiş bir oyuncu kadrosunda yer alacak"
     },
@@ -34,14 +34,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.454627",
+      "fetched_at": "2026-06-30T06:46:08.116172",
       "priority_score": 93,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.518995",
+      "processed_at": "2026-06-30T06:49:17.021689",
       "title_tr": "Kanada futbolu için Dünya Kupası'na ev sahipliği yapmak ne anlama geliyor: 'Riskler kesinlikle çok büyük'",
       "summary_tr": "Dünya Kupası'na ev sahipliği yapan üçlüden yalnızca Kanada turnuvaya ilk kez ev sahipliği yapıyor - yerel futbol yetkilileri bunun dönüştürücü olabileceğini umuyor Toronto'nun Front Street'i, şehrin merkez istasyonunu ve bazı önemli noktalarını sahilin taraftar festivaline ev sahipliği yapan kısmına gevşek bir şekilde bağlıyor ve"
     },
@@ -55,15 +55,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:47.801119",
-      "priority_score": 88,
+      "fetched_at": "2026-06-30T06:47:22.267175",
+      "priority_score": 83,
       "categories": [
         "transfers",
         "match_results",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T02:17:41.634745",
+      "processed_at": "2026-06-30T06:49:17.122096",
       "title_tr": "Lewandowski'nin Chicago Fire'daki yeni adresi!",
       "summary_tr": "Barcelona'yla yolları ayrılan ve bir ara Fenerbahçe'yle ismi anılan Polonyalı golcü Robert Lewandowski, kendisini MLS ekibi Chicago Fire'a bağlayan sözleşmeye imza attı."
     },
@@ -77,16 +77,57 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:01.712847",
-      "priority_score": 76,
+      "fetched_at": "2026-06-30T06:46:32.761775",
+      "priority_score": 66,
       "categories": [
         "match_results",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.549625",
+      "processed_at": "2026-06-30T06:49:17.069478",
       "title_tr": "Harry Kane, Deniz Undav ve Luis Díaz, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
       "summary_tr": "Harry Kane, Deniz Undav, Luis Díaz ve Gio Reyna, 2026 FIFA Dünya Kupası'nda şu ana kadar gol atan 14 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve turnuva boyunca gollerine nasıl ulaştıklarını buradan öğrenin."
+    },
+    {
+      "title": "Galatasaray, Jhon Duran’la el sıkıştı",
+      "summary": "Galatasaray, Mauro Icardi’nin geleceğindeki belirsizliği alternatif golcü hamleleriyle çözmeye çalışıyor. Sarı-kırmızılı yönetim, Kolombiyalı santrfor Jhon Duran konusunda anlaşmaya vardı.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-jhon-duranla-el-sikisti-3437009",
+      "image_url": null,
+      "published": "2026-06-30T09:06:20",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:48:01.120300",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-30T06:49:17.417629",
+      "title_tr": "Galatasaray, Jhon Duran’la el sıkıştı",
+      "summary_tr": "Galatasaray, Mauro Icardi’nin geleceğindeki belirsizliği alternatif golcü hamleleriyle çözmeye çalışıyor. Sarı-kırmızılı yönetim, Kolombiyalı santrfor Jhon Duran konusunda anlaşmaya vardı."
+    },
+    {
+      "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+      "summary": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-30T02:38:35",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:45:32.308898",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "injuries",
+        "world_cup"
+      ],
+      "processed_at": "2026-06-30T06:49:16.890939",
+      "title_tr": "Nagelsmann'ın sonu mu? Almanya 'bir sonraki futbol kabusunu' yaşıyor",
+      "summary_tr": "Almanya, Paraguay'a karşı son 32'den şok bir çıkış yaparak, patron Julian Nagelsmann'ın üzerindeki baskıyı artırmak için ilk kez Dünya Kupası'nda penaltı atışlarını kaybetti."
     },
     {
       "title": "Germany crash out of World Cup on penalties to Paraguay",
@@ -98,197 +139,93 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.471888",
-      "priority_score": 61,
+      "fetched_at": "2026-06-30T06:45:42.687309",
+      "priority_score": 56,
       "categories": [
         "breaking_news",
         "injuries",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.421833",
+      "processed_at": "2026-06-30T06:49:16.922742",
       "title_tr": "Almanya, Paraguay'a penaltılar nedeniyle Dünya Kupası'ndan elendi",
       "summary_tr": "Almanya, son 32'de zayıf durumdaki Paraguay'a yenilerek ilk kez Dünya Kupası'nda penaltı atışlarını kaybetti."
     },
     {
-      "title": "Nijerya'da Osimhen izdihamı! Çılgına döndü, arabasından çıktı",
-      "summary": "Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, ülkesi Nijerya'da izdihama neden oldu. Golcü futbolcuya dair yoğun ilgiden dolayı trafik tıkandı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/nijeryada-osimhen-izdihami-cilgina-dondu-arabasindan-cikti-43222795",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a42691bec06ede62b459460.jpg",
-      "published": "2026-06-29T12:47:56",
+      "title": "Galatasaray, Fenerbahçe'nin eski yıldızıyla el sıkıştı!",
+      "summary": "Kolombiyalı golcünün yoğun presi sonrası taraflar el sıkıştı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahcenin-eski-yildiziyla-el-sikisti-43223330",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a434ea5ec06ede62b45978d.jpg",
+      "published": "2026-06-30T04:00:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:59.907251",
-      "priority_score": 61,
+      "fetched_at": "2026-06-30T06:47:35.812607",
+      "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T02:17:41.792668",
-      "title_tr": "Nijerya'da Osimhen izdihamı! Çılgına döndü, arabasından çıktı",
-      "summary_tr": "Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, ülkesi Nijerya'da izdihama neden oldu. Golcü futbolcuya dair yoğun ilgiden dolayı trafik tıkandı."
+      "processed_at": "2026-06-30T06:49:17.205385",
+      "title_tr": "Galatasaray, Fenerbahçe'nin eski yıldızıyla el sıkıştı!",
+      "summary_tr": "Kolombiyalı golcünün yoğun presi sonrası taraflar el sıkıştı."
     },
     {
-      "title": "Djokovic and Sinner survive first-round scares to progress at Wimbledon",
-      "summary": "Seven-time winner Novak Djokovic and defending champion Jannik Sinner both came through first-round scares to progress at Wimbledon on a day where 10 Brits were sent tumbling.",
-      "url": "https://www.skysports.com/tennis/news/12040/13558903/wimbledon-novak-djokovic-and-jannik-sinner-survive-scares-while-aryna-sabalenka-strolls-into-second-round",
-      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-novak-djokovic-wimbledon_7286116.jpg?20260629224518",
-      "published": "2026-06-29T22:00:00",
+      "title": "England vs NZ player ratings: Archer impresses in Stokes' farewell Test",
+      "summary": "England suffered a 160-run defeat to New Zealand in the series-deciding third Test against New Zealand at Trent Bridge, Ben Stokes' last match as an international cricketer following his shock retirement mid-game - here's how the players rated...",
+      "url": "https://www.skysports.com/cricket/news/12040/13558972/england-vs-new-zealand-third-test-player-ratings-jofra-archer-and-ben-duckett-impress-in-ben-stokes-farewell-test",
+      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-jofra-archer-england_7286081.jpg?20260629213652",
+      "published": "2026-06-30T06:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.471967",
+      "fetched_at": "2026-06-30T06:45:42.686846",
       "priority_score": 51,
       "categories": [
-        "breaking_news"
+        "serie_a"
       ],
-      "processed_at": "2026-06-30T02:17:41.423996",
-      "title_tr": "Djokovic ve Sinner ilk tur korkularından kurtularak Wimbledon'da ilerleme kaydetti",
-      "summary_tr": "Yedi kez kazanan Novak Djokovic ve son şampiyon Jannik Sinner, 10 İngiliz'in takla attığı bir günde Wimbledon'da ilk tur korkularını atlatarak ilerlemeyi başardılar."
+      "processed_at": "2026-06-30T06:49:16.907588",
+      "title_tr": "İngiltere vs Yeni Zelanda oyuncu derecelendirmeleri: Archer, Stokes'un veda testinde etkileyici",
+      "summary_tr": "Ben Stokes'un uluslararası bir kriket oyuncusu olarak oyunun ortasında şok emekliliğinin ardından oynadığı son maç olan Trent Bridge'de Yeni Zelanda'ya karşı yapılan ve seriyi belirleyen üçüncü Testte İngiltere, Yeni Zelanda'ya 160 turluk bir yenilgi aldı - işte oyuncuların değerlendirmeleri..."
     },
     {
-      "title": "Trabzonspor’un golcüsü Felipe Augusto Zenit’te!",
-      "summary": "Rusya Premier Lig ekiplerinden Zenit, Trabzonspor forması giyen Brezilyalı golcü Felipe Augusto'yu kadrosuna kattığını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-golcusu-felipe-augusto-zenitte-43223154",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a42a01437270d1563cfb6c6.jpg",
-      "published": "2026-06-29T16:40:00",
+      "title": "Okan Buruk müjdesi! İmzaladı",
+      "summary": "Galatasaray'da teknik direktör Okan Buruk'a ilişin yeni gelişme yaşandı. Şampiyon teknik direktöre dair sis perdesi aralandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruk-mujdesi-imzaladi-43223389",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a43613eec06ede62b45989a.jpg",
+      "published": "2026-06-30T06:26:56",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:59.906762",
+      "fetched_at": "2026-06-30T06:47:35.812460",
       "priority_score": 51,
       "categories": [
-        "match_results"
+        "super_lig"
       ],
-      "processed_at": "2026-06-30T02:17:41.722991",
-      "title_tr": "Trabzonspor’un golcüsü Felipe Augusto Zenit’te!",
-      "summary_tr": "Rusya Premier Lig ekiplerinden Zenit, Trabzonspor forması giyen Brezilyalı golcü Felipe Augusto'yu kadrosuna kattığını açıkladı."
+      "processed_at": "2026-06-30T06:49:17.187433",
+      "title_tr": "Okan Buruk müjdesi! İmzaladı",
+      "summary_tr": "Galatasaray'da teknik direktör Okan Buruk'a ilişin yeni gelişme yaşandı. Şampiyon teknik direktöre dair sis perdesi aralandı."
     },
     {
-      "title": "Polonyalı yıldız futbolcu Robert Lewandowski'nin yeni rotası ABD oldu",
-      "summary": "Amerikan Futbol Ligi (MLS) ekiplerinden Chicago Fire, Polonyalı yıldız futbolcu Robert Lewandowski'yi kadrosuna kattı.",
-      "url": "https://www.haberturk.com/polonyali-yildiz-futbolcu-robert-lewandowski-nin-yeni-rotasi-abd-oldu-3895026-spor",
-      "image_url": "https://im.haberturk.com/l/2026/06/30/ver1782783088/3895026/jpg/1280x1280",
-      "published": "2026-06-30T01:36:56",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:15:47.800874",
-      "priority_score": 48,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-06-30T02:17:41.621649",
-      "title_tr": "Polonyalı yıldız futbolcu Robert Lewandowski'nin yeni rotası ABD oldu",
-      "summary_tr": "Amerikan Futbol Ligi (MLS) ekiplerinden Chicago Fire, Polonyalı yıldız futbolcu Robert Lewandowski'yi kadrosuna kattı."
-    },
-    {
-      "title": "Barcelona, Lewandowski'nin boşluğunu Harry Kane ile doldurmak istiyor",
-      "summary": "Barcelona, Bayern Münih’in yıldız golcüsü Harry Kane için sürpriz bir transfer hamlesi yapmaya hazırlanıyor.",
-      "url": "https://www.cnnturk.com/spor/futbol/barcelona-lewandowskinin-boslugunu-harry-kane-ile-doldurmak-istiyor-3436793",
+      "title": "Emotional Gakpo scores days after loss of unborn son",
+      "summary": "Liverpool forward Cody Gakpo scores for the Netherlands days after the loss of his unborn son, as they are knocked out on penalties by Morocco.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-06-29T15:07:29",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:25.703040",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "match_results",
-        "la_liga",
-        "bundesliga"
-      ],
-      "processed_at": "2026-06-30T02:17:42.100996",
-      "title_tr": "Barcelona, Lewandowski'nin boşluğunu Harry Kane ile doldurmak istiyor",
-      "summary_tr": "Barcelona, Bayern Münih’in yıldız golcüsü Harry Kane için sürpriz bir transfer hamlesi yapmaya hazırlanıyor."
-    },
-    {
-      "title": "Maresca to pay Chelsea compensation - but why?",
-      "summary": "Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-29T15:50:14",
+      "published": "2026-06-30T05:10:38",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-30T02:13:59.024037",
-      "priority_score": 80,
+      "fetched_at": "2026-06-30T06:45:32.309141",
+      "priority_score": 45,
       "categories": [
-        "transfers",
-        "premier_league"
+        "general"
       ],
-      "processed_at": "2026-06-30T02:17:41.418662",
-      "title_tr": "Maresca Chelsea'ye tazminat ödeyecek - ama neden?",
-      "summary_tr": "Enzo Maresca, eski kulübü Chelsea'ye tazminat ödemeyi kabul ettikten sonra üç yıllık Manchester City anlaşması imzaladı."
-    },
-    {
-      "title": "TRANSFER | Robert Lewandowski’nin yeni adresi açıklandı",
-      "summary": "Deneyimli golcü Robert Lewandowski, Chicago Fire’a transfer oldu.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-robert-lewandowskinin-yeni-adresi-aciklandi-3436977",
-      "image_url": null,
-      "published": "2026-06-29T23:43:07",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:25.700956",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-06-30T02:17:41.955747",
-      "title_tr": "TRANSFER | Robert Lewandowski’nin yeni adresi açıklandı",
-      "summary_tr": "Deneyimli golcü Robert Lewandowski, Chicago Fire’a transfer oldu."
-    },
-    {
-      "title": "Manchester United ve Osimhen! Rekor bonservis ortaya çıktı",
-      "summary": "Avrupa devlerinin radarında yer alan Victor Osimhen için Galatasaray'ın rekor bonservis beklentisi transfer gündemini hareketlendirirken, yıldız golcünün geleceğine dair belirsizlik futbol kamuoyunda merak...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/06/29/manchester-united-ve-osimhen-rekor-bonservis-ortaya-cikti",
-      "image_url": "https://iaftm.tmgrup.com.tr/87f08e/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/29/manchester-united-ve-osimhen-rekor-bonservis-ortaya-cikti-1782717679974.jpeg",
-      "published": "2026-06-29T07:21:45",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:37.507997",
-      "priority_score": 69,
-      "categories": [
-        "transfers",
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-30T02:17:42.249086",
-      "title_tr": "Manchester United ve Osimhen! Rekor bonservis ortaya çıktı",
-      "summary_tr": "Avrupa devlerinin radarında yer alan Victor Osimhen için Galatasaray'ın rekor bonservis beklentisi transfer gündemini hareketlendirirken, yıldız golcünün geleceğine dair belirsizlik futbol kamuoyunda merak...Devamı için tıklayınız"
-    },
-    {
-      "title": "Netherlands v Morocco: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail EllaMary Waltz writes in on the back of that Germany v Paraguay shootout: “All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”The lack of a clinical goalscore",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live",
-      "image_url": null,
-      "published": "2026-06-30T02:05:51",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.434612",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-06-30T02:17:41.458944",
-      "title_tr": "Hollanda - Fas: 2026 Dünya Kupası son 32 – canlı",
-      "summary_tr": "⚽️ Başlama zamanı: 19:00 yerel/21:00 EDT/02:00 BST/11:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Altın Çizme | Mail EllaMary Waltz, Almanya-Paraguay çatışması hakkında şunları yazıyor: \"İngiltere'deki tüm taraftarlar bunu kabul ediyor. Almanya'nın penaltılarla kaybetmesi, Schadenfreud'un son noktasıdır.\""
+      "processed_at": "2026-06-30T06:49:16.891382",
+      "title_tr": "Duygusal Gakpo, doğmamış oğlunu kaybettikten günler sonra gol attı",
+      "summary_tr": "Liverpool forveti Cody Gakpo, doğmamış oğlunu kaybettikten birkaç gün sonra Fas'a penaltılarla elenen Hollanda adına gol attı."
     },
     {
       "title": "Kane likely to sign new Bayern deal despite Barcelona interest",
@@ -300,7 +237,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.472252",
+      "fetched_at": "2026-06-30T06:45:42.687845",
       "priority_score": 66,
       "categories": [
         "transfers",
@@ -308,9 +245,29 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-06-30T02:17:41.433698",
+      "processed_at": "2026-06-30T06:49:16.950209",
       "title_tr": "Kane, Barcelona'nın ilgisine rağmen yeni Bayern anlaşması imzalayacak gibi görünüyor",
       "summary_tr": "İngiltere kaptanı Harry Kane'in, Barcelona'nın ilgisine rağmen Bayern Münih'teki kalış süresini uzatmak için yeni bir anlaşma imzalaması bekleniyor."
+    },
+    {
+      "title": "TRANSFER | Robert Lewandowski’nin yeni adresi açıklandı",
+      "summary": "Deneyimli golcü Robert Lewandowski, Chicago Fire’a transfer oldu.",
+      "url": "https://www.cnnturk.com/spor/futbol/transfer-robert-lewandowskinin-yeni-adresi-aciklandi-3436977",
+      "image_url": null,
+      "published": "2026-06-29T23:43:07",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:48:01.121617",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-06-30T06:49:17.506805",
+      "title_tr": "TRANSFER | Robert Lewandowski’nin yeni adresi açıklandı",
+      "summary_tr": "Deneyimli golcü Robert Lewandowski, Chicago Fire’a transfer oldu."
     },
     {
       "title": "Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
@@ -322,19 +279,39 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.451030",
+      "fetched_at": "2026-06-30T06:46:08.112534",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-06-30T02:17:41.468846",
+      "processed_at": "2026-06-30T06:49:16.965946",
       "title_tr": "Brezilya son 16'da Martinelli'nin uzatma dakikalarında attığı gol Japonya'nın kalbini kırıyor",
       "summary_tr": "Bu turnuvada ilk defa olmamakla birlikte, Brezilya'nın etkilemediği uzun dönemler yaşandı. Ve bu turnuvada ilk kez değil, bundan paçayı sıyırdılar. Açıklanamaz olabilir ama Real Madrid'de işe yarayan Carlo Ancelotti yöntemi yeniden işe yarıyor: Oyunda kalın ve sonunda ya"
     },
     {
+      "title": "Trabzonspor'dan bir scout transferi daha! 18'lik gol makinesi gündemde",
+      "summary": "Son yıllarda genç oyuncuları alıp parlatmasıyla dikkat çeken Trabzonspor'un son olarak gündemine yeni bir genç yetenek daha geldi. İşte o isim ve detaylar...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/trabzonspor/2026/06/30/trabzonspordan-bir-scout-transferi-daha-18lik-gol-makinesi-gundemde",
+      "image_url": "https://iaftm.tmgrup.com.tr/6142d9/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/06/29/gol-makinesi-junior-diouf-1782765568442.jpg",
+      "published": "2026-06-29T18:24:41",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:48:14.412984",
+      "priority_score": 59,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-06-30T06:49:17.721258",
+      "title_tr": "Trabzonspor'dan bir scout transferi daha! 18'lik gol makinesi gündemde",
+      "summary_tr": "Son yıllarda genç oyuncuları alıp parlatmasıyla dikkat çeken Trabzonspor'un son olarak gündemine yeni bir genç yetenek daha geldi. İşte o isim ve detaylar...Devamı için tıklayınız"
+    },
+    {
       "title": "‘One of our own’: Cristian Volpato flourishes after Socceroos switch",
-      "summary": "Junior Italy international feels he can develop more as a player after late inclusion to the World Cup squadCristian Volpato is Italian football’s make-good to Australia, a peace offering set to soothe 20 years of pain. The winger flipped allegiances so he could represent the Socceroos on the eve of",
+      "summary": "Former junior Italy international feels he can develop more as a player after late inclusion to the World Cup squadCristian Volpato is Italian football’s make-good to Australia, a peace offering set to soothe 20 years of pain. The winger flipped allegiances so he could represent the Socceroos on the",
       "url": "https://www.theguardian.com/football/2026/jun/29/cristian-volpato-socceroos-australia-italy-egypt-2026-world-cup",
       "image_url": null,
       "published": "2026-06-29T22:51:53",
@@ -342,55 +319,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.453859",
-      "priority_score": 63,
+      "fetched_at": "2026-06-30T06:46:08.115375",
+      "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.505766",
+      "processed_at": "2026-06-30T06:49:17.006736",
       "title_tr": "'Bizden biri': Cristian Volpato, Socceroos'un değişiminden sonra gelişiyor",
-      "summary_tr": "Junior İtalya milli takımı, Dünya Kupası kadrosuna geç dahil olduktan sonra bir oyuncu olarak daha fazla gelişebileceğini düşünüyor Cristian Volpato, İtalyan futbolunun Avustralya'ya yaptığı iyilik, 20 yıllık acıyı dindirmeye yönelik bir barış teklifi. Kanat oyuncusu, futbol arifesinde Socceroos'u temsil edebilmek için bağlılıklarını değiştirdi"
-    },
-    {
-      "title": "'A joke' - how a 'terrible' VAR disallowed goal cost Germany",
-      "summary": "Alan Shearer, Jurgen Klopp, Pat Nevin and Darren Cann feel Germany were hard done by as a VAR call rules out a potential winning goal before they lose on penalties to Paraguay.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-30T01:42:03",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:13:59.021358",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-06-30T02:17:41.406756",
-      "title_tr": "'Şaka' - VAR'ın izin vermediği golün Almanya'ya maliyeti ne kadar 'korkunç'",
-      "summary_tr": "Alan Shearer, Jürgen Klopp, Pat Nevin ve Darren Cann, Paraguay'a penaltılarda kaybetmeden önce VAR çağrısının olası bir galibiyet golünü devre dışı bırakması nedeniyle Almanya'nın zor durumda olduğunu düşünüyor."
-    },
-    {
-      "title": "Liverpool target Diomande would prefer to join PSG",
-      "summary": "Liverpool target Yan Diomande would prefer to join Paris St-Germain, as the French club aim to agree a deal with RB Leipzig for the Ivory Coast winger.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-06-29T17:41:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:13:59.023874",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-06-30T02:17:41.417366",
-      "title_tr": "Liverpool'un hedefi Diomande PSG'ye katılmayı tercih ediyor",
-      "summary_tr": "Liverpool'un hedefi Yan Diomande, Paris St-Germain'e katılmayı tercih edecek çünkü Fransız kulübü, Fildişi Sahili kanat oyuncusu için RB Leipzig ile anlaşma yapmayı hedefliyor."
+      "summary_tr": "Eski genç İtalyan milli takımı, Dünya Kupası kadrosuna geç dahil olduktan sonra bir oyuncu olarak daha fazla gelişebileceğini düşünüyor Cristian Volpato, İtalyan futbolunun Avustralya'ya yaptığı iyilik, 20 yıllık acıyı dindirmeye yönelik bir barış teklifi. Kanat oyuncusu, Socceroos'u sahada temsil edebilmek için bağlılıklarını değiştirdi"
     },
     {
       "title": "Felipe Augusto, Zenit'e transfer oldu!",
@@ -402,55 +340,112 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:47.801431",
+      "fetched_at": "2026-06-30T06:47:22.267463",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-06-30T02:17:41.654223",
+      "processed_at": "2026-06-30T06:49:17.142193",
       "title_tr": "Felipe Augusto, Zenit'e transfer oldu!",
       "summary_tr": "Rusya ekibi Zenit, geçtiğimiz sezon Trabzonspor forması giyen 22 yaşındaki futbolcu Felipe Augusto'yu kadrosuna kattığını açıkladı."
     },
     {
-      "title": "Galatasaray MCT Technic Buğrahan Tuncer'in sözleşmesini uzattı!",
-      "summary": "Galatasaray MCT Technic'te Buğrahan Tuncer'in sözleşmesi uzatıldı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-mct-technic-bugrahan-tuncerin-sozlesmesini-uzatti-43222856",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4266d1ec06ede62b45943a.jpg",
-      "published": "2026-06-29T12:37:49",
+      "title": "Önder Özen açıklamıştı! Beşiktaş'ın anlaşma sağladığı 3 oyuncu belli oldu",
+      "summary": "Transfer çalışmalarını sürdüren Beşiktaş'ta Futbol Direktörü Önder Özen'in \"transferlerini bitirmek üzereyiz\" dediği 3 oyuncu belli oldu. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/onder-ozen-aciklamisti-besiktasin-anlasma-sagladigi-3-oyuncu-belli-oldu-43223392",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a435f81ec06ede62b459884.jpg",
+      "published": "2026-06-30T06:26:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:15:59.907406",
+      "fetched_at": "2026-06-30T06:47:35.812538",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T02:17:41.807806",
-      "title_tr": "Galatasaray MCT Technic Buğrahan Tuncer'in sözleşmesini uzattı!",
-      "summary_tr": "Galatasaray MCT Technic'te Buğrahan Tuncer'in sözleşmesi uzatıldı."
+      "processed_at": "2026-06-30T06:49:17.197601",
+      "title_tr": "Önder Özen açıklamıştı! Beşiktaş'ın anlaşma sağladığı 3 oyuncu belli oldu",
+      "summary_tr": "Transfer çalışmalarını sürdüren Beşiktaş'ta Futbol Direktörü Önder Özen'in \"transferlerini bitirmek üzereyiz\" dediği 3 oyuncu belli oldu. İşte detaylar..."
     },
     {
       "title": "Fenerbahçe'de Vedat Muriqi sakatlandı!",
       "summary": "Fenerbahçe'nin yeni transferi Vedat Muriqi, hissettiği ağrı üzerine antrenmanı sedye ile terk etti. İşte detaylar... | Son dakika FB spor haberleriDevamı için tıklayınız",
       "url": "https://www.fotomac.com.tr/fenerbahce/2026/06/29/fenerbahcede-vedat-muriqi-sakatlandi",
       "image_url": "https://iaftm.tmgrup.com.tr/9dd377/1200/675/0/0/2048/1152?u=https://iftm.tmgrup.com.tr/2026/06/29/fenerbahcede-vedat-muriqi-sakatlandi-1782739971331.jpg",
-      "published": "2026-06-29T11:12:17",
+      "published": "2026-06-29T22:20:00",
       "source": "Fotomac",
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:16:37.506769",
+      "fetched_at": "2026-06-30T06:48:14.413915",
       "priority_score": 54,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-06-30T02:17:42.152194",
+      "processed_at": "2026-06-30T06:49:17.810043",
       "title_tr": "Fenerbahçe'de Vedat Muriqi sakatlandı!",
       "summary_tr": "Fenerbahçe'nin yeni transferi Vedat Muriqi, hissettiği ağrı üzerine antrenmanı sedye ile terk etti. İşte detaylar... | Son dakika FB spor haberleriDevamı için tıklayınız"
+    },
+    {
+      "title": "Trabzonspor’un golcüsü Felipe Augusto Zenit’te!",
+      "summary": "Rusya Premier Lig ekiplerinden Zenit, Trabzonspor forması giyen Brezilyalı golcü Felipe Augusto'yu kadrosuna kattığını açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-golcusu-felipe-augusto-zenitte-43223154",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a42a01437270d1563cfb6c6.jpg",
+      "published": "2026-06-29T16:40:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:47:35.813123",
+      "priority_score": 51,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-06-30T06:49:17.252310",
+      "title_tr": "Trabzonspor’un golcüsü Felipe Augusto Zenit’te!",
+      "summary_tr": "Rusya Premier Lig ekiplerinden Zenit, Trabzonspor forması giyen Brezilyalı golcü Felipe Augusto'yu kadrosuna kattığını açıkladı."
+    },
+    {
+      "title": "Trabzonspor'dan 2 isme kanca! A ve B planı belli oldu...",
+      "summary": "Kadrosuna bir sağ kanat transferi yapmak isteyen Trabzonspor, iki ismi birden gündemine aldı. İşte ayrıntılar...Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/06/30/trabzonspordan-2-isme-kanca-a-ve-b-plani-belli-oldu",
+      "image_url": "https://iasbh.tmgrup.com.tr/050816/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/30/trabzonspordan-2-isme-kanca-a-ve-b-plani-belli-oldu-1782794705595.jpeg",
+      "published": "2026-06-30T04:45:46",
+      "source": "Sabah Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:47:42.901276",
+      "priority_score": 51,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-30T06:49:17.334282",
+      "title_tr": "Trabzonspor'dan 2 isme kanca! A ve B planı belli oldu...",
+      "summary_tr": "Kadrosuna bir sağ kanat transferi yapmak isteyen Trabzonspor, iki ismi birden gündemine aldı. İşte ayrıntılar...Devamı için tıklayınız"
+    },
+    {
+      "title": "'A joke' - how a 'terrible' VAR disallowed goal cost Germany",
+      "summary": "Alan Shearer, Jurgen Klopp, Pat Nevin and Darren Cann feel Germany were hard done by as a VAR call rules out a potential winning goal before they lose on penalties to Paraguay.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-30T01:42:03",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:45:32.309766",
+      "priority_score": 50,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-06-30T06:49:16.893242",
+      "title_tr": "'Şaka' - VAR'ın izin vermediği golün Almanya'ya maliyeti ne kadar 'korkunç'",
+      "summary_tr": "Alan Shearer, Jürgen Klopp, Pat Nevin ve Darren Cann, Paraguay'a penaltılarda kaybetmeden önce VAR çağrısının olası bir galibiyet golünü devre dışı bırakması nedeniyle Almanya'nın zor durumda olduğunu düşünüyor."
     },
     {
       "title": "Canale and Gill the heroes as Paraguay hand Germany first World Cup shootout defeat",
@@ -462,15 +457,53 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:35.434919",
-      "priority_score": 53,
+      "fetched_at": "2026-06-30T06:46:08.096076",
+      "priority_score": 48,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.463707",
+      "processed_at": "2026-06-30T06:49:16.960441",
       "title_tr": "Kahramanlar Canale ve Gill, Paraguay'ın Almanya'ya ilk Dünya Kupası penaltı yenilgisini vermesiyle",
       "summary_tr": "Almanya, Boston'daki Dünya Kupası'ndan ne bir sızlanmayla, ne de bir acı çığlığıyla çıktı; yalnızca heyecan verici derecede inatçı Paraguay'ın elinde uzun bir mücadele ve ardından en sıra dışı penaltı atışları yapıldı. Almanya, orijinal Panenka'dan bu yana ilk penaltı atışlarını kaybetmekle kalmadı."
+    },
+    {
+      "title": "Mazraoui dolblij na zege op Oranje: 'Alsof we de finale hebben gewonnen'",
+      "summary": "Als onderdeel van een sterk Marokko bereikte ex-Ajacied Noussair Mazraoui de achtste finale van het WK ten koste van Nederland . De back was trots op het resultaat, dat werd gevierd alsof het hele WK werd gewonnen.",
+      "url": "https://www.vi.nl/nieuws/mazraoui-dolblij-na-zege-op-oranje-alsof-we-de-finale-hebben-gewonnen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/30/51628fe190d839e96d10cd841febd9f7fe133562.jpg?width=1200",
+      "published": "2026-06-30T06:13:24",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:49:13.223086",
+      "priority_score": 47,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-06-30T06:49:17.988984",
+      "title_tr": "Mazraoui, Hollandalılara karşı kazandığı zaferin ardından çok sevindi: 'Sanki finali kazanmışız gibi'",
+      "summary_tr": "Güçlü Fas'ın bir parçası olarak eski Ajax oyuncusu Noussair Mazraoui, Hollanda'yı yenerek Dünya Kupası'nın sekizinci finaline ulaştı. Sırt, sanki tüm Dünya Kupası kazanılmış gibi kutlanan sonuçtan gurur duyuyordu."
+    },
+    {
+      "title": "Djokovic and Sinner survive Wimbledon first-round scares",
+      "summary": "Seven-time winner Novak Djokovic and defending champion Jannik Sinner both came through first-round scares to progress at Wimbledon on a day where 10 Brits were sent tumbling.",
+      "url": "https://www.skysports.com/tennis/news/12040/13558903/wimbledon-novak-djokovic-and-jannik-sinner-survive-scares-while-aryna-sabalenka-strolls-into-second-round",
+      "image_url": "https://e1.365dm.com/26/06/1920x1080/skysports-novak-djokovic-wimbledon_7286116.jpg?20260629224518",
+      "published": "2026-06-29T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:45:42.687443",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-06-30T06:49:16.928819",
+      "title_tr": "Djokovic ve Sinner Wimbledon ilk tur korkularından sağ kurtuldu",
+      "summary_tr": "Yedi kez kazanan Novak Djokovic ve son şampiyon Jannik Sinner, 10 İngiliz'in takla attığı bir günde Wimbledon'da ilk tur korkularını atlatarak ilerlemeyi başardılar."
     },
     {
       "title": "Gardner: Australia must be wary of Matthews in T20 World Cup semi-final",
@@ -482,75 +515,15 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.472043",
-      "priority_score": 51,
+      "fetched_at": "2026-06-30T06:45:42.687514",
+      "priority_score": 46,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.426180",
+      "processed_at": "2026-06-30T06:49:16.932244",
       "title_tr": "Gardner: Avustralya, T20 Dünya Kupası yarı finalinde Matthews'a karşı dikkatli olmalı",
       "summary_tr": "Ashleigh Gardner, Avustralya'nın Salı günü Sky Sports'tan canlı olarak The Oval'de yapılacak ilk ICC Kadınlar T20 Dünya Kupası yarı finaline hazırlanırken Hayley Matthews ve Deandra Dottin'in de dahil olduğu tehlikeli bir Batı Hint Adaları takımına karşı dikkatli olması gerektiğini söyledi."
-    },
-    {
-      "title": "Nico Paz, Como’da kaldı! Real Madrid açıkladı",
-      "summary": "Real Madrid, Nico Paz transferi için Como ile anlaşma sağladı.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/06/29/nico-paz-comoda-kaldi-real-madrid-acikladi",
-      "image_url": "https://iasbh.tmgrup.com.tr/fed46f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/29/nico-paz-comoda-kaldi-real-madrid-acikladi-1782764693123.jpeg",
-      "published": "2026-06-29T20:24:57",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:07.899236",
-      "priority_score": 51,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-06-30T02:17:41.839385",
-      "title_tr": "Nico Paz, Como’da kaldı! Real Madrid açıkladı",
-      "summary_tr": "Real Madrid, Nico Paz transferi için Como ile anlaşma sağladı.Devamı için tıklayınız"
-    },
-    {
-      "title": "Beşiktaş'tan Nuno Tavares'e teklif! Lazio'nun bonservis beklentisi ortaya çıktı",
-      "summary": "Transfer çalışmalarını sürdüren Beşiktaş, sol bek takviyesi için Nuno Tavares'i yeniden gündemine aldı. Siyah-beyazlıların, Portekizli futbolcunun transferi için girişimlerini sürdürdüğü ve oyuncuya resmi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/besiktas/2026/06/29/besiktastan-nuno-tavarese-teklif-lazionun-bonservis-beklentisi-ortaya-cikti",
-      "image_url": "https://iaftm.tmgrup.com.tr/d2779e/1200/675/0/0/1405/789?u=https://iftm.tmgrup.com.tr/2026/06/29/besiktastan-nuno-tavarese-teklif-lazionun-bonservis-beklentisi-ortaya-cikti-1782725741608.jpeg",
-      "published": "2026-06-29T09:36:07",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:37.507849",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-30T02:17:42.236047",
-      "title_tr": "Beşiktaş'tan Nuno Tavares'e teklif! Lazio'nun bonservis beklentisi ortaya çıktı",
-      "summary_tr": "Transfer çalışmalarını sürdüren Beşiktaş, sol bek takviyesi için Nuno Tavares'i yeniden gündemine aldı. Siyah-beyazlıların, Portekizli futbolcunun transferi için girişimlerini sürdürdüğü ve oyuncuya resmi...Devamı için tıklayınız"
-    },
-    {
-      "title": "Fenerbahçe'de Alejandro Grimaldo gelişmesi! 4 yıllık imza",
-      "summary": "Fenerbahçe'nin sol bek transferi doğrultusunda listesinin üst sıralarına yazdığı Alejandro Grimaldo dikkat çeken bir gelişme yaşandı. İtalyan gazeteci, yıldız oyuncunun transferini duyururken sözleşmesine...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/06/29/fenerbahcede-alejandro-grimaldo-gelismesi-4-yillik-imza",
-      "image_url": "https://iaftm.tmgrup.com.tr/cb62ec/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/29/fenerbahcede-alejandro-grimaldo-gelismesi-4-yillik-imza-1782719710303.jpg",
-      "published": "2026-06-29T07:55:32",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-06-30T02:16:37.508289",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-06-30T02:17:42.276252",
-      "title_tr": "Fenerbahçe'de Alejandro Grimaldo gelişmesi! 4 yıllık imza",
-      "summary_tr": "Fenerbahçe'nin sol bek transferi doğrultusunda listesinin üst sıralarına yazdığı Alejandro Grimaldo dikkat çeken bir gelişme yaşandı. İtalyan gazeteci, yıldız oyuncunun transferini duyururken sözleşmesine...Devamı için tıklayınız"
     },
     {
       "title": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
@@ -562,53 +535,75 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.472113",
+      "fetched_at": "2026-06-30T06:45:42.687645",
       "priority_score": 46,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.428475",
+      "processed_at": "2026-06-30T06:49:16.939105",
       "title_tr": "90+5! Martinelli, Japonya'ya karşı geri dönüş galibiyetinde Brezilya'yı gönderdi",
       "summary_tr": "Gabriel Martinelli'nin 95. dakikadaki galibiyeti, Brezilya'nın dramatik bir şekilde geriden gelerek 2-1 kazandığını ve Dünya Kupası'nda son 16'ya yükseldiğini gördü ve Japonya'nın turnuvada ilk eleme turu zaferini acımasızca engelledi."
     },
     {
-      "title": "Papers: Villa value Rogers at British-record £130m",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13559016/morgan-rogers-arsenal-target-valued-at-british-record-130m-by-aston-villa-paper-talk",
-      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "published": "2026-06-29T23:00:00",
-      "source": "Sky Sports Football",
+      "title": "Nico Paz, Como’da kaldı! Real Madrid açıkladı",
+      "summary": "Real Madrid, Nico Paz transferi için Como ile anlaşma sağladı.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/06/29/nico-paz-comoda-kaldi-real-madrid-acikladi",
+      "image_url": "https://iasbh.tmgrup.com.tr/fed46f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/29/nico-paz-comoda-kaldi-real-madrid-acikladi-1782764693123.jpeg",
+      "published": "2026-06-29T20:24:57",
+      "source": "Sabah Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.472645",
+      "fetched_at": "2026-06-30T06:47:42.902200",
       "priority_score": 46,
       "categories": [
-        "transfers"
+        "transfers",
+        "la_liga"
       ],
-      "processed_at": "2026-06-30T02:17:41.448560",
-      "title_tr": "Makaleler: Villa'nın değeri Rogers'a 130 milyon £ ile İngiliz rekoru kırıldı",
-      "summary_tr": "Salı günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
+      "processed_at": "2026-06-30T06:49:17.389390",
+      "title_tr": "Nico Paz, Como’da kaldı! Real Madrid açıkladı",
+      "summary_tr": "Real Madrid, Nico Paz transferi için Como ile anlaşma sağladı.Devamı için tıklayınız"
     },
     {
-      "title": "Grizzlies trade two-time NBA All-Star Morant to Trail Blazers",
-      "summary": "Ja Morant is headed to Portland, after the Trail Blazers and Memphis Grizzlies agreed on a trade on Monday.",
-      "url": "https://www.skysports.com/nba/news/12040/13559044/nba-memphis-grizzlies-trade-two-time-all-star-ja-morant-to-the-portland-trail-blazers",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-ja-morant_7286095.jpg?20260629233205",
-      "published": "2026-06-29T21:48:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Inside Paraguay's tears of joy over their seismic World Cup shock",
+      "summary": "How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-06-30T03:00:39",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-06-30T02:14:13.472773",
-      "priority_score": 46,
+      "fetched_at": "2026-06-30T06:45:32.309577",
+      "priority_score": 45,
       "categories": [
-        "transfers"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-06-30T02:17:41.455959",
-      "title_tr": "Grizzlies, iki kez NBA All-Star Morant'ı Trail Blazers'a takas etti",
-      "summary_tr": "Ja Morant, Trail Blazers ve Memphis Grizzlies'in Pazartesi günü takas konusunda anlaşmasının ardından Portland'a gidiyor."
+      "processed_at": "2026-06-30T06:49:16.892595",
+      "title_tr": "Paraguay'ın sismik Dünya Kupası şoku nedeniyle sevinç gözyaşları içinde",
+      "summary_tr": "Paraguay, futbol tarihinin en büyük galibiyetlerinden birini coşkulu kutlamalarla nasıl kutladı?"
+    },
+    {
+      "title": "Can Uzun adım adım Galatasaray'a! İşte bonservis pazarlıklarında son durum",
+      "summary": "Galatasaray'ın uzun süredir transfer gündeminde olan Can Uzun hakkında flaş bir gelişme yaşandı. Sarı-kırmızılıların oyuncu ile her konuda anlaşmaya vardığı öğrenilirken milli futbolcunun kulübü Eintracht...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/06/30/can-uzun-adim-adim-galatasaraya-iste-bonservis-pazarliklarinda-son-durum",
+      "image_url": "https://iaftm.tmgrup.com.tr/9c861f/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/29/can-atiyor-1782758103639.jpeg",
+      "published": "2026-06-29T18:35:27",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-06-30T06:48:14.411694",
+      "priority_score": 44,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-06-30T06:49:17.601864",
+      "title_tr": "Can Uzun adım adım Galatasaray'a! İşte bonservis pazarlıklarında son durum",
+      "summary_tr": "Galatasaray'ın uzun süredir transfer gündeminde olan Can Uzun hakkında flaş bir gelişme yaşandı. Sarı-kırmızılıların oyuncu ile her konuda anlaşmaya vardığı öğrenilirken milli futbolcunun kulübü Eintracht...Devamı için tıklayınız"
     }
   ]
 }
