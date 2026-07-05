@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T18:00:13.173721",
+  "timestamp": "2026-07-05T19:05:19.747584",
   "total_items": 30,
   "news": [
     {
@@ -12,34 +12,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123775",
+      "fetched_at": "2026-07-05T19:02:24.277047",
       "priority_score": 100,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-05T17:58:38.489167",
+      "processed_at": "2026-07-05T19:04:04.185696",
       "title_tr": "Trabzonspor, Aral Şimşir'le anlaştı!",
       "summary_tr": "Transfer döneminde adından söz ettiren hamlelere imza atan Trabzonspor, Aral Şimşir konusunda da mutlu sona ulaştı. Bordo-mavililer bu transferi gerçekleştirmesi halinde, bonservis rekoru kıracak."
-    },
-    {
-      "title": "Galatasaray'da kanat transferinde rota yine Hollanda Milli Takımı!",
-      "summary": "Kiralık sözleşmesi biten Noa Lang'ın satın alma opsiyonunu kullanmayan ve yollarını ayıran Galatasaray, kanat transferinde gözüne yine Hollanda Milli Takımı forması terleten bir oyuncuyu kestirdi. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-kanat-transferinde-rota-yine-hollanda-milli-takimi-43229620",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a4b915625e6181d3fa016.jpg",
-      "published": "2026-07-05T12:18:34",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.893147",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-05T17:58:38.542554",
-      "title_tr": "Galatasaray'da kanat transferinde rota yine Hollanda Milli Takımı!",
-      "summary_tr": "Kiralık sözleşmesi biten Noa Lang'ın satın alma opsiyonunu kullanmayan ve yollarını ayıran Galatasaray, kanat transferinde gözüne yine Hollanda Milli Takımı forması terleten bir oyuncuyu kestirdi. İşte detaylar..."
     },
     {
       "title": "Can uzun kararını verdi! İşte Galatasaray ile anlaşmasının detayları...",
@@ -51,15 +31,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:29.108085",
+      "fetched_at": "2026-07-05T19:02:58.349266",
       "priority_score": 100,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.858470",
+      "processed_at": "2026-07-05T19:04:04.624680",
       "title_tr": "Can uzun kararını verdi! İşte Galatasaray ile anlaşmasının detayları...",
       "summary_tr": "Süper Lig'de şampiyonluğa ulaşan Galatasaray, 10+4 kontenjanını Can Uzun transferiyle çözecek. Sarı-kırmızılı kulübün teklif ettiği sözleşmenin detayları ortaya çıktı."
+    },
+    {
+      "title": "Galatasaray'da kanat transferinde rota yine Hollanda Milli Takımı!",
+      "summary": "Kiralık sözleşmesi biten Noa Lang'ın satın alma opsiyonunu kullanmayan ve yollarını ayıran Galatasaray, kanat transferinde gözüne yine Hollanda Milli Takımı forması terleten bir oyuncuyu kestirdi. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-kanat-transferinde-rota-yine-hollanda-milli-takimi-43229620",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a4b915625e6181d3fa016.jpg",
+      "published": "2026-07-05T12:18:34",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:02:36.703672",
+      "priority_score": 96,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-05T19:04:04.295369",
+      "title_tr": "Galatasaray'da kanat transferinde rota yine Hollanda Milli Takımı!",
+      "summary_tr": "Kiralık sözleşmesi biten Noa Lang'ın satın alma opsiyonunu kullanmayan ve yollarını ayıran Galatasaray, kanat transferinde gözüne yine Hollanda Milli Takımı forması terleten bir oyuncuyu kestirdi. İşte detaylar..."
     },
     {
       "title": "Erling Haaland: Man City's world-class goal machine, made in the Bundesliga",
@@ -71,96 +71,136 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:59.923832",
+      "fetched_at": "2026-07-05T19:01:34.268891",
       "priority_score": 76,
       "categories": [
         "match_results",
         "premier_league",
         "bundesliga"
       ],
-      "processed_at": "2026-07-05T17:58:38.389449",
+      "processed_at": "2026-07-05T19:04:04.060827",
       "title_tr": "Erling Haaland: Manchester City'nin Bundesliga'da üretilen birinci sınıf gol makinesi",
       "summary_tr": "Manchester City'nin golcüsü Erling Haaland, Borussia Dortmund'la Bundesliga'da çıktığı 67 maçta 62 gol attı. İşte onun Almanya'nın en iyi uçuşlarındaki biçimlendirici büyüsü hakkında daha fazla bilgi."
     },
     {
-      "title": "Vincenzo Italiano: 'Daha acımasız olmalıyız!'",
-      "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Macaristan ekibi Mosonmagyar ile golsüz berabere kaldıkları hazırlık maçının ardından açıklamalarda bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-acimasiz-olmaliyiz-43229903",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a93fbd76e93b6a8a9f0cd.jpg",
-      "published": "2026-07-05T17:32:17",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.892756",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-05T17:58:38.494648",
-      "title_tr": "Vincenzo Italiano: 'Daha acımasız olmalıyız!'",
-      "summary_tr": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Macaristan ekibi Mosonmagyar ile golsüz berabere kaldıkları hazırlık maçının ardından açıklamalarda bulundu."
-    },
-    {
-      "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-      "summary": "⚽ All the latest news and reaction from the World Cup⚽ Player guide | Bracketology | Knockout draw | Email usKylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts. Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.Erling Haalan",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
+      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
+      "summary": "Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worthI would be shocked if the record for the most goals scored by a player in a World Cup – Just Fontaine’s 13 in 1958 – is not broken this summer. That is how elite the world’s",
+      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
       "image_url": null,
-      "published": "2026-07-05T17:40:19",
+      "published": "2026-07-05T07:00:20",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:34.579553",
+      "fetched_at": "2026-07-05T19:01:10.028363",
       "priority_score": 63,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-07-05T17:58:38.284714",
-      "title_tr": "2026 Dünya Kupası: Meksikalı taraftarlar İngiltere'nin uykusunu bölmeye çalışıyor, Fransa ve Fas canlı yayında yürüyor",
-      "summary_tr": "⚽ Dünya Kupası'ndan en son haberler ve tepkiler⚽ Oyuncu rehberi | Braketoloji | Nakavt kuraları | Bize e-posta gönderin Kylian Mbappe, Altın Ayakkabı listelerinin zirvesinde Lionel Messi ile aynı seviyeye geldi. Fransız oyuncu Paraguay'a karşı galibiyet penaltısını sakladıktan sonra her iki ikonun da yedi puanı var.Erling Haalan"
+      "processed_at": "2026-07-05T19:04:03.935642",
+      "title_tr": "Lionel Messi ve futbolun eskimeyen harikaları 40'lı yaşlarına kadar yükselebilir | Emma Hayes",
+      "summary_tr": "Arjantin'in kaptanı, Dünya Kupası'nda tecrübeli forvetlerin yolunu açıyor. Farklı tarzları var ama hepsi değerini gösterdi. Bir Dünya Kupası'nda bir oyuncunun attığı en fazla gol rekoru (Just Fontaine'in 1958'deki 13 golü) bu yaz kırılmasaydı şok olurdum. İşte dünyanın elitleri"
     },
     {
-      "title": "Calandagan bounces back in style at Saint-Cloud",
-      "summary": "Calandagan went from last to first to win the Grand Prix de Saint-Cloud for the second year in a row.",
-      "url": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
-      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-calandagan-saint-cloud_7290428.jpg?20260705171930",
-      "published": "2026-07-05T17:18:00",
+      "title": "Australia romp past England to secure seventh Women's T20 World Cup title",
+      "summary": "Australia dashed England's hopes of a first Women's T20 World Cup win in 17 years and second overall as they romped to a seven-wicket victory at Lord's to secure a record-extending seventh title.",
+      "url": "https://www.skysports.com/cricket/news/12040/13560599/womens-t20-world-cup-final-england-overpowered-by-australia-at-lords-as-southern-stars-win-record-extending-seventh-title",
+      "image_url": "https://e2.365dm.com/26/07/1920x1080/skysports-sophie-ecclestone_7290517.jpg?20260705183857",
+      "published": "2026-07-05T18:48:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:11.187930",
+      "fetched_at": "2026-07-05T19:00:43.988418",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-05T19:04:03.836525",
+      "title_tr": "Avustralya, İngiltere'yi geçerek yedinci Kadınlar T20 Dünya Kupası şampiyonluğunu garantiledi",
+      "summary_tr": "Avustralya, İngiltere'nin 17 yıl aradan sonra ilk kez Kadınlar T20 Dünya Kupası'nı kazanma ve genel klasmanda ikinci olma umutlarını suya düşürdü ve Lord's'ta yedi kalelik zafere ulaşarak rekoru genişleten yedinci şampiyonluğu garantiledi."
+    },
+    {
+      "title": "Ecclestone FURIOUS after being denied Australian wicket!",
+      "summary": "Sophie Ecclestone was denied a catch after a lengthy check deemed that the ball touched the ground first.",
+      "url": "https://www.skysports.com/watch/video/13560745/sophie-ecclestone-furious-after-being-denied-australian-wicket",
+      "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-e-f_7290526.jpg?20260705185230",
+      "published": "2026-07-05T18:49:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:00:43.988559",
       "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-07-05T17:58:38.248391",
-      "title_tr": "Calandagan, Saint-Cloud'da şık bir şekilde geri dönüyor",
-      "summary_tr": "Calandagan, üst üste ikinci yıl Grand Prix de Saint-Cloud'u kazanmak için sondan birinciye geçti."
+      "processed_at": "2026-07-05T19:04:03.844196",
+      "title_tr": "Ecclestone, Avustralya'ya wicket talebi reddedildikten sonra öfkeli!",
+      "summary_tr": "Sophie Ecclestone'un, uzun bir kontrolün ardından topun yere ilk temas ettiği sonucuna varılmasının ardından yakalaması reddedildi."
     },
     {
-      "title": "NATHAN AKE KİMDİR? Fenerbahçe'nin Yeni Transferi Nathan Ake Hangi Pozisyonda Oynuyor, Kaç Yaşında, Nereli?",
-      "summary": "Fenerbahçe Nathan Ake transferini açıkladı. Fenerbahçe tarafından yapılan açıklamada, \"\"Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımı",
-      "url": "https://www.cnnturk.com/spor/futbol/nathan-ake-kimdir-fenerbahcenin-yeni-transferi-nathan-ake-hangi-pozisyonda-oynuyor-kac-yasinda-nereli-3438614",
+      "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+      "summary": "⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST⚽️ Player guide | Bracketology | Full bracket | Mail TomNorway and Brazil make one change each. Julian Ryerson is back from injury to slot in at full-back for the Norwegians while the injured Lucas Paqueta is replaced by Gabriel Martinelli for Brazil.Brazil:",
+      "url": "https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
       "image_url": null,
-      "published": "2026-07-05T17:46:29",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "published": "2026-07-05T18:50:27",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:29.107274",
-      "priority_score": 96,
+      "fetched_at": "2026-07-05T19:01:10.026599",
+      "priority_score": 58,
       "categories": [
-        "transfers",
-        "super_lig",
+        "injuries",
+        "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-07-05T17:58:38.775008",
-      "title_tr": "NATHAN AKE KİMDİR? Fenerbahçe'nin Yeni Transferi Nathan Ake Hangi Pozisyonda Oynuyor, Kaç Yaşında, Nereli?",
-      "summary_tr": "Fenerbahçe Nathan Ake transferini açıkladı. Fenerbahçe tarafından yapılan açıklamada, \"\"Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımı"
+      "processed_at": "2026-07-05T19:04:03.903225",
+      "title_tr": "Brezilya v Norveç: 2026 Dünya Kupası son 16 – canlı",
+      "summary_tr": "⚽️ Başlama zamanı: 16:00 EDT/21:00 BST/6:00 AEST⚽️ Oyuncu rehberi | Braketoloji | Tam braket | Mail Tom Norveç ve Brezilya birer değişiklik yapıyor. Julian Ryerson sakatlıktan döndü ve Norveçlilerin bek pozisyonuna geri dönerken, sakatlanan Lucas Paqueta'nın yerini Brezilya adına Gabriel Martinelli aldı.Brezilya:"
+    },
+    {
+      "title": "Beşiktaş'tan golsüz prova!",
+      "summary": "Yeni sezon öncesi Slovakya'da kamp yapan Beşiktaş, ikinci hazırlık maçında Macaristan ekibi Mosonmagyarovari TE'yle 0-0 berabere kaldı.",
+      "url": "https://www.haberturk.com/mosonmagyarovari-te-0-besiktas-0-mac-sonucu-3896391-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/05/ver1783270627/3896391/jpg/1280x1280",
+      "published": "2026-07-05T16:57:51",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:02:24.276198",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-05T19:04:04.117254",
+      "title_tr": "Beşiktaş'tan golsüz prova!",
+      "summary_tr": "Yeni sezon öncesi Slovakya'da kamp yapan Beşiktaş, ikinci hazırlık maçında Macaristan ekibi Mosonmagyarovari TE'yle 0-0 berabere kaldı."
+    },
+    {
+      "title": "Ounahi brace for Morocco eliminates Canada",
+      "summary": "A second-half brace from Azzedine Ounahi and a third from Soufiane Rahimi saw Morocco become the first nation to make the quarterfinals of the World Cup with a 3-0 win over co-hosts Canada.",
+      "url": "https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi",
+      "image_url": null,
+      "published": "2026-07-05T17:56:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:00:26.826635",
+      "priority_score": 55,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-05T19:04:03.783586",
+      "title_tr": "Fas'ın Ounahi takımı Kanada'yı eledi",
+      "summary_tr": "İkinci yarıda Azzedine Ounahi ve üçüncü yarıda Soufiane Rahimi'nin attığı gollerle Fas, ev sahibi Kanada'yı 3-0 yenerek Dünya Kupası'nda çeyrek finale yükselen ilk ülke oldu."
     },
     {
       "title": "2 dev, Sırp golcünün peşinde: BJK'den sonra FB de devrede!",
@@ -172,14 +212,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:29.108241",
+      "fetched_at": "2026-07-05T19:02:58.349437",
       "priority_score": 96,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.869149",
+      "processed_at": "2026-07-05T19:04:04.637918",
       "title_tr": "2 dev, Sırp golcünün peşinde: BJK'den sonra FB de devrede!",
       "summary_tr": "Aziz Yıldırım'ın kulüp başkanlığına dönmesinin ardından yeni sezon hazırlıklarını sürdüren Fenerbahçe, menajerlerden gelen Dusan Vlahovic önerisi sonrasında bonservis problemi bulunmayan Sırp golcünün transferini gündemine aldı. İşte detaylar..."
     },
@@ -193,15 +233,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.892960",
+      "fetched_at": "2026-07-05T19:02:36.703449",
       "priority_score": 86,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.518878",
+      "processed_at": "2026-07-05T19:04:04.262218",
       "title_tr": "Beşiktaş'ta Salih Özcan transferinde mutlu son! Anlaşma sağlandı, imza an meselesi",
       "summary_tr": "Beşiktaş'ın Salih Özcan transferinde mutlu sona ulaştığı iddia edildi. Siyah beyazlılar, 28 yaşındaki orta saha oyuncusu ile 3 yıllık sözleşme imzalayacak."
+    },
+    {
+      "title": "NATHAN AKE KİMDİR? Fenerbahçe'nin Yeni Transferi Nathan Ake Hangi Pozisyonda Oynuyor, Kaç Yaşında, Nereli?",
+      "summary": "Fenerbahçe Nathan Ake transferini açıkladı. Fenerbahçe tarafından yapılan açıklamada, \"\"Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımı",
+      "url": "https://www.cnnturk.com/spor/futbol/nathan-ake-kimdir-fenerbahcenin-yeni-transferi-nathan-ake-hangi-pozisyonda-oynuyor-kac-yasinda-nereli-3438614",
+      "image_url": null,
+      "published": "2026-07-05T17:46:29",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:02:58.348342",
+      "priority_score": 86,
+      "categories": [
+        "transfers",
+        "super_lig",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-05T19:04:04.521540",
+      "title_tr": "NATHAN AKE KİMDİR? Fenerbahçe'nin Yeni Transferi Nathan Ake Hangi Pozisyonda Oynuyor, Kaç Yaşında, Nereli?",
+      "summary_tr": "Fenerbahçe Nathan Ake transferini açıkladı. Fenerbahçe tarafından yapılan açıklamada, \"\"Kulübümüz, Hollanda Milli Takımı oyuncusu Nathan Aké ile anlaşmaya varmış ve futbolcu ile sözleşme imzalamıştır. 2026 FIFA Dünya Kupası'nda forma giyen oyuncumuz, izin sürecinin ardından Avusturya kampında takımı"
     },
     {
       "title": "Galatasaray'da kanat harekâtı!",
@@ -213,13 +274,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123157",
+      "fetched_at": "2026-07-05T19:02:24.276343",
       "priority_score": 83,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.444393",
+      "processed_at": "2026-07-05T19:04:04.127335",
       "title_tr": "Galatasaray'da kanat harekâtı!",
       "summary_tr": "Yeni sezon öncesi transfer çalışmaları için kolları sıvayan Galatasaray, West Ham United forması giyen sol kanat oyuncusu Crysencio Summerville'i gözüne kestirdi. Sarı Kırmızılı ekibin Hollandalı oyuncusu kiralık olarak kadrosuna katmak istemediği ve fazla bonservis bedeli ödemeyi düşünmediği öne sü"
     },
@@ -233,97 +294,57 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123396",
+      "fetched_at": "2026-07-05T19:02:24.276618",
       "priority_score": 83,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.462654",
+      "processed_at": "2026-07-05T19:04:04.149670",
       "title_tr": "Galatasaray'dan Marmoush bombası!",
       "summary_tr": "Mauro Icardi ile yeni sözleşme konusunda anlaşamayan Galatasaray'ın, Manchester City forması giyen Omar Marmoush konusunda görüşmelerini hızlandırdığı iddia edildi. Sarı-kırmızılılar bu transferde Avrupa'nın devleriyle yarışıyor..."
     },
     {
-      "title": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor",
-      "summary": "Midtjylland formasıyla Danimarka'da harika bir sezonu geride bırakan ve transferin gözdesi haline gelen Aral Şimşir, Süper Lig devi Trabzonspor'a imza atmak üzere. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/aral-simsirde-islem-tamam-milli-futbolcu-super-lige-rekor-kirarak-geliyor-43229503",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a28445625e6181d3f9f03.jpg",
-      "published": "2026-07-05T09:48:00",
+      "title": "Beşiktaş, İlhan Fakılı'yı resmen açıkladı!",
+      "summary": "Beşiktaş, Clermont forması giyen İlhan Fakılı ile 4 yıllık sözleşme imzaladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-ilhan-fakiliyi-resmen-acikladi-43229974",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4aa596d76e93b6a8a9f0fc.jpg",
+      "published": "2026-07-05T18:43:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.893460",
+      "fetched_at": "2026-07-05T19:02:36.702914",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.588217",
-      "title_tr": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor",
-      "summary_tr": "Midtjylland formasıyla Danimarka'da harika bir sezonu geride bırakan ve transferin gözdesi haline gelen Aral Şimşir, Süper Lig devi Trabzonspor'a imza atmak üzere. İşte detaylar..."
+      "processed_at": "2026-07-05T19:04:04.192838",
+      "title_tr": "Beşiktaş, İlhan Fakılı'yı resmen açıkladı!",
+      "summary_tr": "Beşiktaş, Clermont forması giyen İlhan Fakılı ile 4 yıllık sözleşme imzaladı."
     },
     {
-      "title": "Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!",
-      "summary": "Fenerbahçe, Galatasaray altyapısında forma giyen 18 yaşındaki sol kanat oyuncusu Yiğit Çolak ile sözleşme imzaladığını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-ayrildi-fenerbahceye-imza-atti-43229474",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a212f5625e6181d3f9eb7.jpg",
-      "published": "2026-07-05T09:17:41",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Beşiktaş'ta son dakika transfer gelişmesi! Yıldız isimle anlaşma sağlandı",
+      "summary": "Yeni sezon yapılanması doğrultusunda kadrosunu derinleştirmek isteyen Beşiktaş, aradığı orta saha takviyesini milli fut...",
+      "url": "https://www.yenisafak.com/spor/besiktasta-son-dakika-transfer-gelismesi-yildiz-isimle-anlasma-saglandi-4838028",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/7/5/557f4cde-besiktasta-son-dakika-transfer-gelismesi-yildiz-isimle-anlasma-saglandi.webp",
+      "published": "2026-07-05T17:07:51",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.893602",
-      "priority_score": 76,
+      "fetched_at": "2026-07-05T19:03:23.356487",
+      "priority_score": 67,
       "categories": [
         "transfers",
+        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.610829",
-      "title_tr": "Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!",
-      "summary_tr": "Fenerbahçe, Galatasaray altyapısında forma giyen 18 yaşındaki sol kanat oyuncusu Yiğit Çolak ile sözleşme imzaladığını açıkladı."
-    },
-    {
-      "title": "Italiano'dan transfer açıklaması!",
-      "summary": "Yeni sezon öncesi Slovakya'da kamp yapan ve ikinci hazırlık maçında Macar ekibi Mosonmagyar'la 0-0 berabere kalan Beşiktaş'ın teknik direktörü Vincenzo Italiano, açıklamalarda bulundu. Transfer konusuyla konuşan İtalyan çalıştırıcı, \"Biliyorsunuz transfer dönemi devam ediyor. Bize gerçekten yardımcı",
-      "url": "https://www.haberturk.com/vincenzo-italiano-dan-transfer-aciklamasi-3896394-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/05/ver1783273556/3896394/jpg/1280x1280",
-      "published": "2026-07-05T17:47:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.122889",
-      "priority_score": 73,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-05T17:58:38.429438",
-      "title_tr": "Italiano'dan transfer açıklaması!",
-      "summary_tr": "Yeni sezon öncesi Slovakya'da kamp yapan ve ikinci hazırlık maçında Macar ekibi Mosonmagyar'la 0-0 berabere kalan Beşiktaş'ın teknik direktörü Vincenzo Italiano, açıklamalarda bulundu. Transfer konusuyla konuşan İtalyan çalıştırıcı, \"Biliyorsunuz transfer dönemi devam ediyor. Bize gerçekten yardımcı"
-    },
-    {
-      "title": "Tchouameni, Bouaddi and Santos being eyed by Man Utd",
-      "summary": "Chelsea's Andrey Santos has become a transfer target for Manchester United, who are looking to add more players to their midfield this summer transfer window.",
-      "url": "https://www.skysports.com/watch/video/13560731/transfer-talk-chelseas-andrey-santos-emerges-on-man-united-radar-as-they-look-to-bolster-midfield-options",
-      "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-football_7290485.jpg?20260705175017",
-      "published": "2026-07-05T17:43:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:55:11.188230",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-07-05T17:58:38.269207",
-      "title_tr": "Man Utd Tchouameni, Bouaddi ve Santos'u izliyor",
-      "summary_tr": "Chelsea'li Andrey Santos, bu yaz transfer döneminde orta sahasına daha fazla oyuncu katmak isteyen Manchester United'ın transfer hedefi haline geldi."
+      "processed_at": "2026-07-05T19:04:04.961175",
+      "title_tr": "Beşiktaş'ta son dakika transfer gelişmesi! Yıldız isimle anlaşma sağlandı",
+      "summary_tr": "Yeni sezon yapılanması doğrultusunda kadrosunu derinleştirmek isteyen Beşiktaş, aradığı orta saha takviyesini milli fut..."
     },
     {
       "title": "Beşiktaş'tan Nübel operasyonu: Gözler Bayern Münih'te!",
@@ -335,57 +356,37 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:57:03.892831",
+      "fetched_at": "2026-07-05T19:02:36.703310",
       "priority_score": 66,
       "categories": [
         "transfers",
         "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.501401",
+      "processed_at": "2026-07-05T19:04:04.237337",
       "title_tr": "Beşiktaş'tan Nübel operasyonu: Gözler Bayern Münih'te!",
       "summary_tr": "Yeni sezon öncesi kaleye takviye yapmak isteyen Beşiktaş, Alexander Nübel'in menajeri ile İstanbul'da kritik bir görüşme gerçekleştirdiği iddia edildi. Transferi sonuçlandırmak isteyen siyah-beyazlılar, yapılan toplantının ardından Bayern Münih'in kararını beklemeye geçtiği öne sürüldü."
     },
     {
-      "title": "Real Madrid sign defender Dumfries from Inter Milan",
-      "summary": "Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-05T12:23:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:54:59.980676",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-05T17:58:38.232255",
-      "title_tr": "Real Madrid, Inter'den defans oyuncusu Dumfries'i transfer etti",
-      "summary_tr": "Real Madrid, Inter Milan'dan Hollandalı bek Denzel Dumfries ile dört yıllık sözleşme imzaladı."
-    },
-    {
-      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
-      "summary": "Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worthI would be shocked if the record for the most goals scored by a player in a World Cup – Just Fontaine’s 13 in 1958 – is not broken this summer. That is how elite the world’s",
-      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
-      "image_url": null,
-      "published": "2026-07-05T07:00:20",
-      "source": "Guardian Football",
+      "title": "Italiano'dan transfer açıklaması!",
+      "summary": "Yeni sezon öncesi Slovakya'da kamp yapan ve ikinci hazırlık maçında Macar ekibi Mosonmagyar'la 0-0 berabere kalan Beşiktaş'ın teknik direktörü Vincenzo Italiano, açıklamalarda bulundu. Transfer konusuyla konuşan İtalyan çalıştırıcı, \"Biliyorsunuz transfer dönemi devam ediyor. Bize gerçekten yardımcı",
+      "url": "https://www.haberturk.com/vincenzo-italiano-dan-transfer-aciklamasi-3896394-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/05/ver1783273556/3896394/jpg/1280x1280",
+      "published": "2026-07-05T17:47:11",
+      "source": "Habertürk Spor",
       "source_priority": 9,
-      "region": "england",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:34.581184",
+      "fetched_at": "2026-07-05T19:02:24.276015",
       "priority_score": 63,
       "categories": [
+        "transfers",
         "match_results",
-        "world_cup"
+        "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.307259",
-      "title_tr": "Lionel Messi ve futbolun eskimeyen harikaları 40'lı yaşlarına kadar yükselebilir | Emma Hayes",
-      "summary_tr": "Arjantin'in kaptanı, Dünya Kupası'nda tecrübeli forvetlerin yolunu açıyor. Farklı tarzları var ama hepsi değerini gösterdi. Bir Dünya Kupası'nda bir oyuncunun attığı en fazla gol rekoru (Just Fontaine'in 1958'deki 13 golü) bu yaz kırılmasaydı şok olurdum. İşte dünyanın elitleri"
+      "processed_at": "2026-07-05T19:04:04.107606",
+      "title_tr": "Italiano'dan transfer açıklaması!",
+      "summary_tr": "Yeni sezon öncesi Slovakya'da kamp yapan ve ikinci hazırlık maçında Macar ekibi Mosonmagyar'la 0-0 berabere kalan Beşiktaş'ın teknik direktörü Vincenzo Italiano, açıklamalarda bulundu. Transfer konusuyla konuşan İtalyan çalıştırıcı, \"Biliyorsunuz transfer dönemi devam ediyor. Bize gerçekten yardımcı"
     },
     {
       "title": "Mert Hakan'ın sözleşmesi uzatıldı!",
@@ -397,35 +398,76 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123519",
+      "fetched_at": "2026-07-05T19:02:24.276757",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.471155",
+      "processed_at": "2026-07-05T19:04:04.160691",
       "title_tr": "Mert Hakan'ın sözleşmesi uzatıldı!",
       "summary_tr": "Transfer çalışmalarını sürdüren Fenerbahçe, takım kaptanlarından Mert Hakan Yandaş'ın sözleşmesini 1 yıl daha uzattığını açıkladı. 31 yaşındaki futbolcu, sarı-lacivertlilerden asgari ücret kazanacak."
     },
     {
-      "title": "Beşiktaş'tan golsüz prova!",
-      "summary": "Yeni sezon öncesi Slovakya'da kamp yapan Beşiktaş, ikinci hazırlık maçında Macaristan ekibi Mosonmagyarovari TE'yle 0-0 berabere kaldı.",
-      "url": "https://www.haberturk.com/mosonmagyarovari-te-0-besiktas-0-mac-sonucu-3896391-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/05/ver1783270627/3896391/jpg/1280x1280",
-      "published": "2026-07-05T16:57:51",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Tchouameni, Bouaddi and Santos being eyed by Man Utd",
+      "summary": "Chelsea's Andrey Santos has become a transfer target for Manchester United, who are looking to add more players to their midfield this summer transfer window.",
+      "url": "https://www.skysports.com/watch/video/13560731/transfer-talk-chelseas-andrey-santos-emerges-on-man-united-radar-as-they-look-to-bolster-midfield-options",
+      "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-football_7290485.jpg?20260705175017",
+      "published": "2026-07-05T17:43:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123029",
-      "priority_score": 58,
+      "fetched_at": "2026-07-05T19:00:43.989202",
+      "priority_score": 61,
       "categories": [
-        "match_results",
-        "super_lig"
+        "transfers",
+        "premier_league"
       ],
-      "processed_at": "2026-07-05T17:58:38.436469",
-      "title_tr": "Beşiktaş'tan golsüz prova!",
-      "summary_tr": "Yeni sezon öncesi Slovakya'da kamp yapan Beşiktaş, ikinci hazırlık maçında Macaristan ekibi Mosonmagyarovari TE'yle 0-0 berabere kaldı."
+      "processed_at": "2026-07-05T19:04:03.898835",
+      "title_tr": "Man Utd Tchouameni, Bouaddi ve Santos'u izliyor",
+      "summary_tr": "Chelsea'li Andrey Santos, bu yaz transfer döneminde orta sahasına daha fazla oyuncu katmak isteyen Manchester United'ın transfer hedefi haline geldi."
+    },
+    {
+      "title": "Niklas Süle joins German amateur football team SV Tiefenbach",
+      "summary": "Having announced his retirement from the professional game at the end of the 2025/26 Bundesliga season, former Bayern Munich, Borussia Dortmund and Germany defender Niklas Süle has now joined amateur club SV Tiefenbach.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/nikas-sule-bayern-munich-dortmund-germany-amateur-tiefenbach-38108",
+      "image_url": null,
+      "published": "2026-07-05T17:03:27",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:01:34.254958",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "bundesliga"
+      ],
+      "processed_at": "2026-07-05T19:04:04.010897",
+      "title_tr": "Niklas Süle, Alman amatör futbol takımı SV Tiefenbach'a katıldı",
+      "summary_tr": "2025/26 Bundesliga sezonu sonunda profesyonel futbolu bıraktığını açıklayan Bayern Münih, Borussia Dortmund ve Almanya'nın eski defans oyuncusu Niklas Süle, şimdi de amatör kulüp SV Tiefenbach'a katıldı."
+    },
+    {
+      "title": "Real Madrid sign defender Dumfries from Inter Milan",
+      "summary": "Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-05T12:23:41",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-05T19:00:32.681449",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-05T19:04:03.816631",
+      "title_tr": "Real Madrid, Inter'den defans oyuncusu Dumfries'i transfer etti",
+      "summary_tr": "Real Madrid, Inter Milan'dan Hollandalı bek Denzel Dumfries ile dört yıllık sözleşme imzaladı."
     },
     {
       "title": "Dumfries resmen Real Madrid'de!",
@@ -437,14 +479,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.123653",
+      "fetched_at": "2026-07-05T19:02:24.276889",
       "priority_score": 58,
       "categories": [
         "transfers",
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-07-05T17:58:38.480091",
+      "processed_at": "2026-07-05T19:04:04.173129",
       "title_tr": "Dumfries resmen Real Madrid'de!",
       "summary_tr": "İspanya La Liga ekiplerinden Real Madrid, Inter'den Denzel Dumfries'i transfer ettiğini resmen açıkladı."
     },
@@ -458,13 +500,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-05T17:58:35.667832",
+      "fetched_at": "2026-07-05T19:04:00.031540",
       "priority_score": 57,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-07-05T17:58:39.207697",
+      "processed_at": "2026-07-05T19:04:05.244243",
       "title_tr": "'Man Utd, Chelsea'nin yetenekli oyuncusu Santos için büyük bir teklif hazırlıyor'",
       "summary_tr": "Birçok İngiliz kaynağının bu Pazar günü bildirdiğine göre Andrey Santos, Manchester United'ın dikkat çekici bir şekilde radarında yer alıyor. 22 yaşındaki Brezilyalı futbolcunun transferi, Chelsea'de yeni teknik direktör Xabi Alonso'nun transfer isteklerini karşılamak için daha fazla alan yaratacak."
     },
@@ -478,133 +520,93 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-05T17:58:35.668268",
+      "fetched_at": "2026-07-05T19:04:00.031954",
       "priority_score": 57,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-07-05T17:58:39.323724",
+      "processed_at": "2026-07-05T19:04:05.366525",
       "title_tr": "'Trincão Suudi Arabistan'a gidiyor, Man United Chelsea orta saha oyuncusunu istiyor'",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
-      "title": "Hollick wins BMW International Open as YouTube star Dalke fades",
-      "summary": "Michael Hollick produced a sensational eagle on the final hole to win the DP World Tour's BMW International Open on Sunday, as YouTuber Brad Dalke sealed a credible top-30 finish.",
-      "url": "https://www.skysports.com/golf/news/12040/13560585/dp-world-tour-michael-hollick-wins-bmw-international-open-as-youtube-star-brad-dalke-secures-top-30-finish",
-      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-michael-hollick_7290245.jpg?20260705145535",
-      "published": "2026-07-05T13:00:00",
-      "source": "Sky Sports Football",
+      "title": "Vincenzo Italiano: 'Daha acımasız olmalıyız!'",
+      "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Macaristan ekibi Mosonmagyar ile golsüz berabere kaldıkları hazırlık maçının ardından açıklamalarda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-acimasiz-olmaliyiz-43229903",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a4a93fbd76e93b6a8a9f0cd.jpg",
+      "published": "2026-07-05T17:32:17",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:11.188063",
+      "fetched_at": "2026-07-05T19:02:36.703237",
       "priority_score": 56,
       "categories": [
         "match_results",
-        "serie_a"
+        "super_lig"
       ],
-      "processed_at": "2026-07-05T17:58:38.253721",
-      "title_tr": "Hollick, YouTube yıldızı Dalke'nin kaybolmasıyla BMW Uluslararası Açık'ı kazandı",
-      "summary_tr": "Michael Hollick, Pazar günü DP Dünya Turu'nun BMW Uluslararası Açık yarışını kazanmak için son delikte sansasyonel bir kartal ortaya koyarken, YouTuber Brad Dalke güvenilir bir şekilde ilk 30'da yer aldı."
+      "processed_at": "2026-07-05T19:04:04.227866",
+      "title_tr": "Vincenzo Italiano: 'Daha acımasız olmalıyız!'",
+      "summary_tr": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Macaristan ekibi Mosonmagyar ile golsüz berabere kaldıkları hazırlık maçının ardından açıklamalarda bulundu."
     },
     {
-      "title": "Büyük Britanya'da zafer Leclerc'in!",
-      "summary": "Formula 1 Dünya Şampiyonası'nda sezonun 9. etabı Büyük Britanya Grand Prix'sini Ferrari'nin Monakolu pilotu Charles Leclerc kazandı.",
-      "url": "https://www.haberturk.com/formula-1-de-sezonun-9-yarisi-buyuk-britanya-grand-prix-sini-charles-leclerc-kazandi-3896389-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/05/ver1783271640/3896389/jpg/1280x1280",
-      "published": "2026-07-05T17:14:26",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "⚾ Pochettino is latest WC star to throw first pitc...",
+      "summary": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "url": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "image_url": null,
+      "published": "2026-07-05T17:56:01",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-05T17:56:52.122965",
-      "priority_score": 53,
+      "fetched_at": "2026-07-05T19:00:26.827001",
+      "priority_score": 55,
       "categories": [
-        "match_results"
+        "breaking_news"
       ],
-      "processed_at": "2026-07-05T17:58:38.433349",
-      "title_tr": "Büyük Britanya'da zafer Leclerc'in!",
-      "summary_tr": "Formula 1 Dünya Şampiyonası'nda sezonun 9. etabı Büyük Britanya Grand Prix'sini Ferrari'nin Monakolu pilotu Charles Leclerc kazandı."
+      "processed_at": "2026-07-05T19:04:03.785307",
+      "title_tr": "⚾ Pochettino ilk sahayı atan son WC yıldızı...",
+      "summary_tr": "ABD'li teknik direktör Mauricio Pochettino, bu yaz MLB maçında ilk atışı yapan son futbol yıldızıydı. O ve diğer futbolcular nasıldı?"
     },
     {
-      "title": "AZ-directeur Zeeman over PSV-transfer Mijnans: 'Ik denk dat het gaat gebeuren'",
-      "summary": "Merijn Zeeman verwacht dat Sven Mijnans de overstap van AZ naar PSV gaat maken. De algemeen directeur van de Alkmaarders was te gast in De Avondetappe en bevestigde de gesprekken. Al kon hij er niet al te veel over kwijt.",
-      "url": "https://www.vi.nl/nieuws/az-directeur-zeeman-over-psv-transfer-mijnans-ik-denk-dat-het-gaat-gebeuren",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/05/15f9b925f2fa21142936a97759e52331dcba3dd9.jpg?width=1200",
-      "published": "2026-07-05T17:28:15",
+      "title": "Vloet gaat weer voetballen en tekent in Zuid-Afrika",
+      "summary": "Rai Vloet mag zich weer profvoetballer noemen. De 31-jarige speler gaat aan de slag bij Cape Town City FC. Vloet heeft een contract voor één seizoen getekend met een optie voor nog een jaar.",
+      "url": "https://www.vi.nl/nieuws/vloet-gaat-weer-voetballen-en-tekent-in-zuid-afrika",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/05/a82ac241875651ed30eb773c7e025ecd82535d79.jpg?width=1200",
+      "published": "2026-07-05T18:22:30",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-05T17:58:35.667648",
+      "fetched_at": "2026-07-05T19:04:00.031118",
       "priority_score": 52,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-05T17:58:39.167381",
-      "title_tr": "AZ direktörü Zeeman, Mijnans'ın PSV transferi hakkında: 'Bunun olacağını düşünüyorum'",
-      "summary_tr": "Merijn Zeeman, Sven Mijnans'ın A'dan Z'ye PSV'ye geçiş yapmasını bekliyor. Alkmaarders'ın genel menajeri De Avondetappe'ye konuk oldu ve görüşmeleri doğruladı. Gerçi bu konuda çok fazla şey söyleyemedi."
+      "processed_at": "2026-07-05T19:04:05.131420",
+      "title_tr": "Vloet yeniden futbol oynamaya başladı ve Güney Afrika'da sözleşme imzaladı",
+      "summary_tr": "Rai Vloet kendisine yeniden profesyonel futbolcu diyebilir. 31 yaşındaki oyuncu Cape Town City FC'de çalışmaya başlayacak. Vloet, bir yıl daha opsiyonlu bir sezonluk sözleşme imzaladı."
     },
     {
-      "title": "Dumfries dankt 'familie' Inter: 'Dit is geen afscheid, maar een tot ziens'",
-      "summary": "Denzel Dumfries heeft een dankwoord gericht aan Internazionale. De kersverse aanwinst van Real Madrid wil niet spreken van een afscheid, maar van een tot ziens.",
-      "url": "https://www.vi.nl/nieuws/dumfries-dankt-familie-inter-dit-is-geen-afscheid-maar-een-tot-ziens",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/05/67c5ad8cec5656f861bee9ee83ddae840a65fdb2.jpg?width=1200",
-      "published": "2026-07-05T14:35:21",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:58:35.668381",
-      "priority_score": 52,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-05T17:58:39.360805",
-      "title_tr": "Dumfries 'aile' Inter'e teşekkür etti: 'Bu bir veda değil, yakında görüşürüz'",
-      "summary_tr": "Denzel Dumfries Internazionale'ye teşekkür mesajı gönderdi. Real Madrid'in yeni satın alınması bir vedadan değil, yakında görüşürüzden bahsetmek istiyor."
-    },
-    {
-      "title": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
-      "summary": "Ash Handley scored a hat-trick of tries and set up two others as Leeds Rhinos ran riot against rivals Bradford Bulls to secure a 50-16 victory at Hill Dickinson Stadium.",
-      "url": "https://www.skysports.com/rugby-league/leeds-vs-bradford/report/63273",
-      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-ash-handley_7290423.jpg?20260705171426",
-      "published": "2026-07-05T17:20:00",
+      "title": "Calandagan bounces back in style at Saint-Cloud",
+      "summary": "Calandagan went from last to first to win the Grand Prix de Saint-Cloud for the second year in a row.",
+      "url": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
+      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-calandagan-saint-cloud_7290428.jpg?20260705171930",
+      "published": "2026-07-05T17:18:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-05T17:55:11.187801",
+      "fetched_at": "2026-07-05T19:00:43.988830",
       "priority_score": 51,
       "categories": [
-        "match_results"
+        "breaking_news"
       ],
-      "processed_at": "2026-07-05T17:58:38.244622",
-      "title_tr": "Leeds, Magic Weekend'de Bradford'a karşı ayaklanırken Handley başrolde",
-      "summary_tr": "Leeds Rhinos, Hill Dickinson Stadyumu'nda rakipleri Bradford Bulls'a karşı isyan çıkararak Hill Dickinson Stadyumu'nda 50-16 galibiyet elde ederken, Ash Handley hat-trick yaptı ve iki deneme daha yaptı."
-    },
-    {
-      "title": "Leeds Rhinos continue winning ways with 50-16 victory over Bradford Bulls",
-      "summary": "Highlights of the Super League match between Leeds Rhinos and Bradford Bulls.",
-      "url": "https://www.skysports.com/watch/video/13560704/leeds-rhinos-50-16-bradford-bulls-super-league-highlights",
-      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-super-league-leeds-rhinos_7290413.jpg?20260705170606",
-      "published": "2026-07-05T17:03:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-07-05T17:55:11.187987",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-07-05T17:58:38.250868",
-      "title_tr": "Leeds Rhinos, Bradford Bulls'a karşı 50-16 galibiyetle kazanmaya devam ediyor",
-      "summary_tr": "Leeds Rhinos ile Bradford Bulls arasındaki Süper Lig karşılaşmasından öne çıkanlar."
+      "processed_at": "2026-07-05T19:04:03.861341",
+      "title_tr": "Calandagan, Saint-Cloud'da şık bir şekilde geri dönüyor",
+      "summary_tr": "Calandagan, üst üste ikinci yıl Grand Prix de Saint-Cloud'u kazanmak için sondan birinciye geçti."
     }
   ]
 }
