@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T20:05:45.625181",
+  "timestamp": "2026-07-12T21:43:53.206681",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:35.757109",
+      "fetched_at": "2026-07-12T21:40:02.948570",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-07-12T20:04:18.862038",
+      "processed_at": "2026-07-12T21:42:40.254361",
       "title_tr": "Borussia Dortmund'lu Karim Adeyemi'ye transfer görüşmelerine başlama izni verildi",
       "summary_tr": "Borussia Dortmund, Karim Adeyemi'ye olası transfer konusunda başka bir kulüple görüşme izni verildiğini doğruladı."
     },
@@ -33,13 +33,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:13.163962",
+      "fetched_at": "2026-07-12T21:39:38.655351",
       "priority_score": 98,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-07-12T20:04:18.743140",
+      "processed_at": "2026-07-12T21:42:40.156679",
       "title_tr": "Cablegate: Jude Bellingham'ın Norveç'e attığı ilk golün reddedilmesi mi gerekiyordu?",
       "summary_tr": "Orta saha oyuncusu İngiltere'yi iyi bir şekilde dengeye kavuşturdu ancak resimler, yapılanmaya kural dışı müdahaleyi gösteriyor Norveç'in kalecisi Ørjan Håskjold Nyland, ilk yarının sonunda duraklama süresinin iki dakikasında kaleye doğru bir kale vuruşu yapıyor. Top İngiltere'nin yarı sahasının hemen içine düşüyor, n"
     },
@@ -53,7 +53,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:13.163615",
+      "fetched_at": "2026-07-12T21:39:38.655025",
       "priority_score": 93,
       "categories": [
         "match_results",
@@ -61,9 +61,51 @@
         "la_liga",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.735855",
+      "processed_at": "2026-07-12T21:42:40.149395",
       "title_tr": "Büyük maç Bellingham, İngiltere adına muhteşem Dünya Kupası koşusu ile yeniden güçleniyor | Andrew Beasley",
       "summary_tr": "Real Madrid forveti, 1986'daki Maradona'dan bu yana turnuvada art arda eleme maçlarında iki gol atan ilk oyuncu olarak küresel sahnede gelişiyor. İngiltere'nin Dünya Kupası yolculuğu hızla Jude Bellingham'ın gösterisine dönüştü. Cumartesi günü Norveç'i uğurlamak için iki gol attı ve aynı zamanda bir d'yi de paketledi."
+    },
+    {
+      "title": "Infantino: 64-team World Cup will be 'looked at'",
+      "summary": "Gianni Infantino has confirmed FIFA will discuss expanding the men's World Cup to 64 teams after the 2026 tournament, saying every nation should have the chance to dream of playing at football's biggest event.",
+      "url": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
+      "image_url": null,
+      "published": "2026-07-12T21:58:33",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:39:00.553302",
+      "priority_score": 85,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-12T21:42:40.019914",
+      "title_tr": "Infantino: 64 takımlı Dünya Kupası'na 'bakılacak'",
+      "summary_tr": "Gianni Infantino, FIFA'nın 2026 turnuvasından sonra erkekler Dünya Kupası'nı 64 takıma genişletmeyi tartışacağını doğruladı ve her ülkenin futbolun en büyük etkinliğinde oynamanın hayalini kurma şansına sahip olması gerektiğini söyledi."
+    },
+    {
+      "title": "A-List: FIFA's top-4 make WC semis for first time",
+      "summary": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
+      "url": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
+      "image_url": null,
+      "published": "2026-07-12T21:58:33",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:39:00.552798",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-12T21:42:40.019388",
+      "title_tr": "A Listesi: FIFA'nın ilk 4'ü ilk kez Dünya Kupası yarı finaline çıkıyor",
+      "summary_tr": "Arjantin, İspanya, Fransa ve İngiltere, FIFA sıralamasında ilk dörde girerek turnuvaya girdiler ve yeniden şampiyon olmaya iki galibiyet kaldı."
     },
     {
       "title": "Galatasaray'da 10 numara harekatı: Hedef Julio Enciso!",
@@ -75,56 +117,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-12T20:02:40.872630",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-12T20:04:19.011452",
-      "title_tr": "Galatasaray'da 10 numara harekatı: Hedef Julio Enciso!",
-      "summary_tr": "Galatasaray, 10 numara transferi için Strasbourg'un Paraguaylı yıldızı Julio Enciso'yu gündemine aldı. Sarı-kırmızılıların, 22 yaşındaki futbolcuyu transfer listesinin ilk sırasına yazdığı öne sürüldü."
-    },
-    {
-      "title": "A-List: FIFA's top-4 make WC semis for first time",
-      "summary": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
-      "url": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
-      "image_url": null,
-      "published": "2026-07-12T20:42:50",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.902244",
-      "priority_score": 80,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-07-12T20:04:18.602489",
-      "title_tr": "A Listesi: FIFA'nın ilk 4'ü ilk kez Dünya Kupası yarı finaline çıkıyor",
-      "summary_tr": "Arjantin, İspanya, Fransa ve İngiltere, FIFA sıralamasında ilk dörde girerek turnuvaya girdiler ve yeniden şampiyon olmaya iki galibiyet kaldı."
-    },
-    {
-      "title": "TRANSFER | Beşiktaş’tan ayrılan Ersin Destanoğlu, imzayı attı",
-      "summary": "Beşiktaş’a veda eden Ersin Destanoğlu’nun transferini resmen açıkladılar.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-besiktastan-ayrilan-ersin-destanoglu-imzayi-atti-3441660",
-      "image_url": null,
-      "published": "2026-07-12T19:31:56",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:03:03.430745",
+      "fetched_at": "2026-07-12T21:41:02.646700",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-12T20:04:19.205587",
-      "title_tr": "TRANSFER | Beşiktaş’tan ayrılan Ersin Destanoğlu, imzayı attı",
-      "summary_tr": "Beşiktaş’a veda eden Ersin Destanoğlu’nun transferini resmen açıkladılar."
+      "processed_at": "2026-07-12T21:42:40.394510",
+      "title_tr": "Galatasaray'da 10 numara harekatı: Hedef Julio Enciso!",
+      "summary_tr": "Galatasaray, 10 numara transferi için Strasbourg'un Paraguaylı yıldızı Julio Enciso'yu gündemine aldı. Sarı-kırmızılıların, 22 yaşındaki futbolcuyu transfer listesinin ilk sırasına yazdığı öne sürüldü."
     },
     {
       "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
@@ -136,13 +137,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:38.511046",
+      "fetched_at": "2026-07-12T21:39:06.153070",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.616495",
+      "processed_at": "2026-07-12T21:42:40.033047",
       "title_tr": "'Ulaşabileceğimiz bir seviye daha var' - Kane hayal kırıklığına uğramış Tuchel'i savunuyor",
       "summary_tr": "Kaptan Harry Kane, İngiltere'nin 1966'dan bu yana ilk kez Dünya Kupası'nı kazanmak için \"ulaşabileceğimiz başka bir seviyeye sahip olduğunu\" söyledi."
     },
@@ -156,14 +157,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:35.757865",
+      "fetched_at": "2026-07-12T21:40:02.949344",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.869786",
+      "processed_at": "2026-07-12T21:42:40.261623",
       "title_tr": "Jude Bellingham'ın korsesi İngiltere'yi Dünya Kupası'nda yarı finale taşıdı",
       "summary_tr": "Miami'de oynanan 2026 FIFA Dünya Kupası çeyrek finalinde İngiltere, uzatmalar sonrasında Norveç'i 2-1 mağlup etti. Eski Borussia Dortmund yıldızı Jude Bellingham, Bayern Münih'ten Harry Kane'in kaptanlığını yaptığı takımı yarı finale çıkarmak için uzatmaların kesin galibi de dahil olmak üzere iki gol attı."
     },
@@ -177,34 +178,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:38.511604",
+      "fetched_at": "2026-07-12T21:39:06.153659",
       "priority_score": 60,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.621899",
+      "processed_at": "2026-07-12T21:42:40.038275",
       "title_tr": "'Hepimiz heyecanlanmalıyız' - Messi, İngiltere'deki ilk toplantısına hazırlanıyor",
       "summary_tr": "Lionel Messi, Dünya Kupası çeyrek finalinde Arjantin'in İsviçre'yi mağlup etmesinden sonra İngiltere'ye karşı ilk maçına çıkacak."
-    },
-    {
-      "title": "Messi praises 'not normal' Argentina in WC defense...",
-      "summary": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
-      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
-      "image_url": null,
-      "published": "2026-07-12T20:42:38",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.902469",
-      "priority_score": 50,
-      "categories": [
-        "world_cup"
-      ],
-      "processed_at": "2026-07-12T20:04:18.602960",
-      "title_tr": "Messi, Arjantin'in Dünya Kupası savunmasında 'normal olmadığını' övdü",
-      "summary_tr": "Lionel Messi, son dünya şampiyonunun İsviçre'yi yenerek İngiltere ile karşılaşacakları Dünya Kupası yarı finaline yükseldikten sonra Arjantin'in dikkat çekici başarısının \"normal olmadığını\" söyledi."
     },
     {
       "title": "Gianni Infantino hints at expansion to 64-team World Cup before 2030 event",
@@ -216,17 +198,38 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:13.145371",
-      "priority_score": 88,
+      "fetched_at": "2026-07-12T21:39:38.638356",
+      "priority_score": 83,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.728661",
+      "processed_at": "2026-07-12T21:42:40.142241",
       "title_tr": "Gianni Infantino, 2030 etkinliğinden önce 64 takımlı Dünya Kupası'na genişlemeyi ima ediyor",
       "summary_tr": "Gianni Infantino bir röportajında, \"Kesinlikle incelenecek ve tartışılacak bir konu\" FIFA başkanı 48 takımlı turnuvayı \"büyük bir başarı\" olarak nitelendirdi Gianni Infantino, FIFA yetkililerinin 2030 etkinliğinden önce Dünya Kupası'nı 16 takım daha genişletme olasılığına bakacaklarını söyledi. FIFA başkanı Bluewin'e şunları söyledi:"
+    },
+    {
+      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+      "summary": "First competitive game between teams since 2002 World CupGeorgia braced for potential flashpoints in Atlanta buildupIt has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck against Erling Haaland’s Norway on a steamy ni",
+      "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
+      "image_url": null,
+      "published": "2026-07-12T19:51:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:39:38.637463",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-12T21:42:40.130691",
+      "title_tr": "İngiltere, Dünya Kupası yarı final kin maçında Messi ve Arjantin ile çarpışma rotasında",
+      "summary_tr": "2002 Dünya Kupası'ndan bu yana takımlar arasındaki ilk rekabetçi maç Georgia, Atlanta'daki potansiyel parlama noktalarına hazırlanıyor. Uluslararası futbol tarihindeki en büyük kin maçlarından biri olarak anılıyor. İngiltere'nin oyuncuları, Erling Haaland'ın Norveç'ine karşı hararetli bir yarışta şanslarını sürdükten sonra"
     },
     {
       "title": "Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
@@ -238,36 +241,77 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:13.166822",
+      "fetched_at": "2026-07-12T21:39:38.657317",
       "priority_score": 78,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.799073",
+      "processed_at": "2026-07-12T21:42:40.195711",
       "title_tr": "Jude Bellingham paralel Dünya Kupası'nda başarılı ama kupayı tek başına kazanamıyor | Barney Ronay",
       "summary_tr": "Norveç'in yüreğine, becerisine ve Florida'nın sıcağına karşı, tılsım İngiltere'yi geçmeyi başardı - ama Jude'u güneşe karşı koruyacak çok şey var. Bu oyunun büyük bölümünde, Miami Gardens'ın ağır havasında kendi iradelerini savunmaya çalışan üç ayrı varlığın olduğu hissi vardı. İlk olarak Norveç, ilk W'sinde"
     },
     {
-      "title": "Sources: Chelsea prioritise exit for Garnacho",
-      "summary": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
-      "image_url": null,
-      "published": "2026-07-12T20:42:39",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Can Uzun transferinde sıcak gelişme! Galatasaray...",
+      "summary": "Son dakika Galatasaray transfer haberleri: Transfer çalışmalarını sürdüren Galatasaray, Can Uzun'u kadrosuna katmak için düğmeye bastı. Alman basını, milli futbolcunun sarı-kırmızılı takıma transferine...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/12/can-uzun-transferinde-sicak-gelisme-galatasaray",
+      "image_url": "https://iaftm.tmgrup.com.tr/0fb9d6/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/07/12/can-uzun-transferinde-sicak-gelisme-galatasaray-1783874069149.jpeg",
+      "published": "2026-07-12T16:34:56",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.903738",
-      "priority_score": 75,
+      "fetched_at": "2026-07-12T21:41:39.481755",
+      "priority_score": 74,
       "categories": [
         "transfers",
-        "premier_league"
+        "breaking_news",
+        "super_lig"
       ],
-      "processed_at": "2026-07-12T20:04:18.606723",
-      "title_tr": "Kaynaklar: Chelsea, Garnacho için çıkışa öncelik veriyor",
-      "summary_tr": "Kaynakların ESPN'e verdiği bilgiye göre Chelsea, Alejandro Garnacho'nun sezon öncesi antrenman için kulübe rapor vermemesi üzerine onun için 50 milyon euro (57 milyon dolar) talep etti."
+      "processed_at": "2026-07-12T21:42:40.832838",
+      "title_tr": "Can Uzun transferinde sıcak gelişme! Galatasaray...",
+      "summary_tr": "Son dakika Galatasaray transfer haberleri: Transfer çalışmalarını sürdüren Galatasaray, Can Uzun'u kadrosuna katmak için düğmeye bastı. Alman basını, milli futbolcunun sarı-kırmızılı takıma transferine...Devamı için tıklayınız"
+    },
+    {
+      "title": "Rodri heeft tip voor Lamine Yamal: 'Soms wat rustiger aan doen'",
+      "summary": "Rodri heeft een tip voor Lamine Yamal. Volgens de Spaans international zou het voor de negentienjarige buitenspeler goed zijn als hij soms wat rustiger aan doet in het veld. 'Hij moet meer het ideale moment zien te vinden.'",
+      "url": "https://www.vi.nl/video/rodri-heeft-tip-voor-lamine-yamal-soms-wat-rustiger-aan-doen",
+      "image_url": "https://images.performgroup.com/transcoded/20260712/120726_EN_SPN_WC_RODRI_ON_YAMAL_RD_1783881856252-1_2847_1.jpeg",
+      "published": "2026-07-12T21:06:53",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:42:37.214357",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-12T21:42:41.066229",
+      "title_tr": "Rodri'nin Lamine Yamal'a tüyosu var: 'Bazen biraz daha sakin ol'",
+      "summary_tr": "Rodri'nin Lamine Yamal'a bir tüyosu var. İspanyol milli oyuncuya göre, 19 yaşındaki kanat oyuncusunun sahada ara sıra sakin davranması onun için iyi olurdu. 'İdeal anı bulması gerekiyor.'"
+    },
+    {
+      "title": "TRANSFER | Beşiktaş’tan ayrılan Ersin Destanoğlu, imzayı attı",
+      "summary": "Beşiktaş’a veda eden Ersin Destanoğlu’nun transferini resmen açıkladılar.",
+      "url": "https://www.cnnturk.com/spor/futbol/transfer-besiktastan-ayrilan-ersin-destanoglu-imzayi-atti-3441660",
+      "image_url": null,
+      "published": "2026-07-12T19:31:56",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:41:27.679179",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-12T21:42:40.587750",
+      "title_tr": "TRANSFER | Beşiktaş’tan ayrılan Ersin Destanoğlu, imzayı attı",
+      "summary_tr": "Beşiktaş’a veda eden Ersin Destanoğlu’nun transferini resmen açıkladılar."
     },
     {
       "title": "Copy of Transfer rumors, news: Man United, Liverpool turn ...",
@@ -279,34 +323,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.904477",
-      "priority_score": 75,
+      "fetched_at": "2026-07-12T21:39:00.555267",
+      "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-07-12T20:04:18.611565",
+      "processed_at": "2026-07-12T21:42:40.028328",
       "title_tr": "Transfer söylentilerinin kopyası, haberler: Manchester United, Liverpool dönüş...",
       "summary_tr": "Chelsea, hücum takviyesi arayışının bir parçası olarak Bologna'lı kanat oyuncusu Jonathan Rowe'u düşünüyor Transfer konuşmalarında son gelişmeler var."
     },
     {
-      "title": "Al-Jazira, kaleci Ersin Destanoğlu'nun transferini açıkladı!",
-      "summary": "Birleşik Arap Emirlikleri ekibi Al Jazira, Ersin Destanoğlu'nu kadrosuna kattığını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/al-jazira-kaleci-ersin-destanoglunun-transferini-acikladi-43237446",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a53ae365625e6181d3fc188.jpg",
-      "published": "2026-07-12T15:09:44",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Galatasaray sezonun ilk imzasını attırmak üzere! İşte sözleşme detayları",
+      "summary": "Transferin sessiz takımı Galatasaray bir süredir gündeminde olan Lesley Ugochukwu'nun transferinde mutlu sona ulaşmak üzere. Sözleşmenin detaylarını ise İtalyan Gazeteci duyurdu. İşte detaylar... (GS SPOR...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/12/galatasaray-sezonun-ilk-imzasini-attirmak-uzere-iste-sozlesme-detaylari",
+      "image_url": "https://iaftm.tmgrup.com.tr/16e5ac/1200/675/0/22/493/299?u=https://iftm.tmgrup.com.tr/2026/07/12/galatasaray-sezonun-ilk-imzasini-attirmak-uzere-iste-sozlesme-detaylari-1783847246179.jpg",
+      "published": "2026-07-12T09:14:29",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-12T20:02:40.872774",
-      "priority_score": 66,
+      "fetched_at": "2026-07-12T21:41:39.482838",
+      "priority_score": 64,
       "categories": [
-        "transfers"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-07-12T20:04:19.026258",
-      "title_tr": "Al-Jazira, kaleci Ersin Destanoğlu'nun transferini açıkladı!",
-      "summary_tr": "Birleşik Arap Emirlikleri ekibi Al Jazira, Ersin Destanoğlu'nu kadrosuna kattığını açıkladı."
+      "processed_at": "2026-07-12T21:42:40.933631",
+      "title_tr": "Galatasaray sezonun ilk imzasını attırmak üzere! İşte sözleşme detayları",
+      "summary_tr": "Transferin sessiz takımı Galatasaray bir süredir gündeminde olan Lesley Ugochukwu'nun transferinde mutlu sona ulaşmak üzere. Sözleşmenin detaylarını ise İtalyan Gazeteci duyurdu. İşte detaylar... (GS SPOR...Devamı için tıklayınız"
     },
     {
       "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
@@ -318,14 +363,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:13.166011",
+      "fetched_at": "2026-07-12T21:39:38.656478",
       "priority_score": 63,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.782426",
+      "processed_at": "2026-07-12T21:42:40.180009",
       "title_tr": "Arjantin'in 'acı' üzerine kurulu Dünya Kupası en büyük sınavıyla İngiltere'de karşı karşıya | Pablo Iglesias Maurer",
       "summary_tr": "Son şampiyonlar, eleme turlarındaki üç karşılaşmanın ikisini uzatmalara götürdü. İngiltere, Arjantin'in İsviçre'yi uzatmalarda iki golle devirmesini bekliyorİsviçre, 'yanlış kimlik' kontrolünün ardından VAR'a çıktı Dünya Kupası turnuvası boyunca - ilk maçtan 3-1 çeyreğine kadar"
     },
@@ -339,13 +384,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-12T20:02:28.789821",
+      "fetched_at": "2026-07-12T21:40:51.551058",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-12T20:04:18.930007",
+      "processed_at": "2026-07-12T21:42:40.324462",
       "title_tr": "\"İlk amacımız Şampiyonlar Ligi\"",
       "summary_tr": "Fenerbahçe'nin yeni transferi Nathan Ake, kulüp televizyonuna yaptığı açıklamada Şampiyonlar Ligi'ne katılmanın önemine değindi. Hollandalı savunma oyuncusu, \"Takımımızın uzun yıllardır şampiyon olmadığını biliyorum ve aynı zamanda uzun zamandır Şampiyonlar Ligi'nde yokuz. İlk amacımız öncelikle Şam"
     },
@@ -359,15 +404,34 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:49.971784",
+      "fetched_at": "2026-07-12T21:39:16.860270",
       "priority_score": 61,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-07-12T20:04:18.704539",
+      "processed_at": "2026-07-12T21:42:40.118025",
       "title_tr": "'Golfte çok kötüyüm!' - McIlroy, The Open'dan önce 'düzeltilmesi' gereken sorunu tespit etti",
       "summary_tr": "Rory McIlroy, Genesis İskoç Açık'ta güçlü bir sonuçla 'olumlu işaretler' bulmasına rağmen, The Open'a girerken oyununda düzeltmesi gereken sorunlar olduğunu kabul ediyor."
+    },
+    {
+      "title": "Al-Jazira, kaleci Ersin Destanoğlu'nun transferini açıkladı!",
+      "summary": "Birleşik Arap Emirlikleri ekibi Al Jazira, Ersin Destanoğlu'nu kadrosuna kattığını açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/al-jazira-kaleci-ersin-destanoglunun-transferini-acikladi-43237446",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a53ae365625e6181d3fc188.jpg",
+      "published": "2026-07-12T15:09:44",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:41:02.646837",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-12T21:42:40.408381",
+      "title_tr": "Al-Jazira, kaleci Ersin Destanoğlu'nun transferini açıkladı!",
+      "summary_tr": "Birleşik Arap Emirlikleri ekibi Al Jazira, Ersin Destanoğlu'nu kadrosuna kattığını açıkladı."
     },
     {
       "title": "Nathan Ake'den transfer itirafı: 'Ederson ile konuştum!'",
@@ -379,34 +443,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-12T20:02:40.873305",
+      "fetched_at": "2026-07-12T21:41:02.647356",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-12T20:04:19.093059",
+      "processed_at": "2026-07-12T21:42:40.471387",
       "title_tr": "Nathan Ake'den transfer itirafı: 'Ederson ile konuştum!'",
       "summary_tr": "Fenerbahçe'nin yeni transferi Hollandalı savunma oyuncusu Nathan Ake, kulüp televizyonuna açıklamalarda bulundu."
-    },
-    {
-      "title": "Copy of What it's like to transfer clubs during a World Cu...",
-      "summary": "Plenty of players have moved clubs during a major tournament, but what is that experience like and how much does it impact negotiations?",
-      "url": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
-      "image_url": null,
-      "published": "2026-07-12T19:49:23",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.904649",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-12T20:04:18.613084",
-      "title_tr": "Dünya Kupası'nda kulüp transfer etmenin nasıl bir şey olduğunun kopyası...",
-      "summary_tr": "Büyük bir turnuva sırasında çok sayıda oyuncu kulüp değiştirdi, ancak bu nasıl bir deneyim ve müzakereleri ne kadar etkiliyor?"
     },
     {
       "title": "Japanse doelman heeft clubs voor het uitkiezen, Mazraoui gelinkt aan AC Milan",
@@ -418,55 +463,34 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-12T20:04:15.097629",
+      "fetched_at": "2026-07-12T21:42:37.214643",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-12T20:04:19.528082",
+      "processed_at": "2026-07-12T21:42:41.131509",
       "title_tr": "Japon kalecinin seçebileceği kulüpler var, Mazraoui AC Milan'a bağlı",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Transfervrije Doekhi op weg naar Lazio",
-      "summary": "Danilho Doekhi (28) heeft een aanbieding gehad van Lazio. De Italiaanse topclub wil de transfervrije verdediger dolgraag strikken. Daar staat de international van Suriname zelf ook open voor.",
+      "summary": "Danilho Doekhi (28) heeft een aanbieding gehad van Lazio. De Italiaanse topclub wil de transfervrije verdediger dolgraag strikken. Daar staat hij ook open voor.",
       "url": "https://www.vi.nl/nieuws/transfervrije-doekhi-op-weg-naar-lazio",
       "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/12/cf3a3437e52e22c2d8f05811b1ae443a2f8f0ba8.jpg?width=1200",
-      "published": "2026-07-12T16:14:00",
+      "published": "2026-07-12T21:08:08",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-12T20:04:15.098185",
-      "priority_score": 57,
+      "fetched_at": "2026-07-12T21:42:37.215167",
+      "priority_score": 52,
       "categories": [
-        "transfers",
-        "serie_a"
+        "transfers"
       ],
-      "processed_at": "2026-07-12T20:04:19.628354",
+      "processed_at": "2026-07-12T21:42:41.240523",
       "title_tr": "Transfersiz Doekhi Lazio'ya gidiyor",
-      "summary_tr": "Danilho Doekhi (28), Lazio'dan teklif aldı. İtalya'nın en iyi kulübü, serbest defans oyuncusunu kadrosuna katmak için sabırsızlanıyor. Surinam uluslararası takımı da buna açık."
-    },
-    {
-      "title": "Arsenal want Argentina's Alvarez - Monday's gossip",
-      "summary": "Arsenal want to sign Atletico Madrid's Julian Alvarez, Aston Villa hijack Newcastle's move for Johan Manzambi, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1myd53vgvno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-12T19:41:32",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:38.512674",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-07-12T20:04:18.636386",
-      "title_tr": "Arsenal Arjantinli Alvarez'i istiyor - Pazartesi günkü dedikodu",
-      "summary_tr": "Arsenal, Atletico Madrid'den Julian Alvarez ile sözleşme imzalamak istiyor, Aston Villa, Newcastle'ın Johan Manzambi için yaptığı hamleyi kaçırdı ve daha fazlasını istiyor."
+      "summary_tr": "Danilho Doekhi (28), Lazio'dan teklif aldı. İtalya'nın en iyi kulübü, serbest defans oyuncusunu kadrosuna katmak için sabırsızlanıyor. O da buna açık."
     },
     {
       "title": "How England star Jude Bellingham became one of the world's best midfielders at Borussia Dortmund",
@@ -478,13 +502,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:35.753579",
+      "fetched_at": "2026-07-12T21:40:02.945024",
       "priority_score": 51,
       "categories": [
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-07-12T20:04:18.819613",
+      "processed_at": "2026-07-12T21:42:40.215019",
       "title_tr": "İngiltere'nin yıldızı Jude Bellingham, Borussia Dortmund'da nasıl dünyanın en iyi orta saha oyuncularından biri oldu?",
       "summary_tr": "Jude Bellingham, üç yıl boyunca Bundesliga'da kariyerini şekillendiren bir görevin ardından henüz 19 yaşındayken Borussia Dortmund'dan Real Madrid'e transfer oldu."
     },
@@ -498,32 +522,51 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-12T20:01:35.754237",
+      "fetched_at": "2026-07-12T21:40:02.945750",
       "priority_score": 51,
       "categories": [
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.826777",
+      "processed_at": "2026-07-12T21:42:40.221602",
       "title_tr": "Harry Kane, İngiltere'nin en çok forma giyen dış saha oyuncusu oldu",
       "summary_tr": "Bayern Münihli Harry Kane, 2026 FIFA Dünya Kupası'nda Norveç'e karşı forma giydikten sonra İngiltere'nin ülke tarihinde en çok forma giyen dış saha oyuncusu oldu."
+    },
+    {
+      "title": "Messi praises 'not normal' Argentina in WC defense...",
+      "summary": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
+      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
+      "image_url": null,
+      "published": "2026-07-12T21:58:17",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-12T21:39:00.553066",
+      "priority_score": 50,
+      "categories": [
+        "world_cup"
+      ],
+      "processed_at": "2026-07-12T21:42:40.019648",
+      "title_tr": "Messi, Arjantin'in Dünya Kupası savunmasında 'normal olmadığını' övdü",
+      "summary_tr": "Lionel Messi, son dünya şampiyonunun İsviçre'yi yenerek İngiltere ile karşılaşacakları Dünya Kupası yarı finaline yükseldikten sonra Arjantin'in dikkat çekici başarısının \"normal olmadığını\" söyledi."
     },
     {
       "title": "Haaland Sr: Norway 'robbed' in QF, 'well done ref'...",
       "summary": "Alf-Inge Haaland claims Norway were \"robbed\" in their World Cup quarterfinal but hopes England go on to win the tournament after knocking out his homeland.",
       "url": "https://www.espn.com/soccer/story/_/id/49341900/alf-inge-haaland-norway-robbed-world-cup-2026-england-well-done-referee-erling-haaland",
       "image_url": null,
-      "published": "2026-07-12T20:42:39",
+      "published": "2026-07-12T21:58:17",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.902886",
+      "fetched_at": "2026-07-12T21:39:00.553713",
       "priority_score": 50,
       "categories": [
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.604009",
+      "processed_at": "2026-07-12T21:42:40.020868",
       "title_tr": "Haaland Sr: Norveç, QF'de 'soyuldu', 'aferin hakem'...",
       "summary_tr": "Alf-Inge Haaland, Norveç'in Dünya Kupası çeyrek finalinde \"soyulduğunu\" iddia ediyor, ancak İngiltere'nin anavatanını eledikten sonra turnuvayı kazanmaya devam etmesini umuyor."
     },
@@ -532,17 +575,17 @@
       "summary": "Jude Bellingham praised England's fighting spirit and ability to \"win dirty\" after coach Thomas Tuchel criticized their performance in beating Norway on Saturday.",
       "url": "https://www.espn.com/soccer/story/_/id/49338957/jude-bellingham-england-thomas-tuchel-criticism",
       "image_url": null,
-      "published": "2026-07-12T20:42:38",
+      "published": "2026-07-12T21:58:17",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.903558",
+      "fetched_at": "2026-07-12T21:39:00.554377",
       "priority_score": 50,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-07-12T20:04:18.605942",
+      "processed_at": "2026-07-12T21:42:40.022732",
       "title_tr": "Bellingham, Tuchel öfkesinden sonra İngiltere yıldızlarını destekliyor",
       "summary_tr": "Jude Bellingham, teknik direktör Thomas Tuchel'in Cumartesi günü Norveç'i yenme performansını eleştirmesinin ardından İngiltere'nin mücadele ruhunu ve \"kirli kazanma\" yeteneğini övdü."
     },
@@ -556,54 +599,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.904293",
+      "fetched_at": "2026-07-12T21:39:00.555074",
       "priority_score": 50,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-12T20:04:18.610064",
+      "processed_at": "2026-07-12T21:42:40.026849",
       "title_tr": "2026 Dünya Kupası'nın çıkış yapan yıldızları: Diomande, Freeman, Manzambi ve diğerleri",
       "summary_tr": "2026 Dünya Kupası, tüm süperstarların nasıl ortaya çıkıp galip geldiğiyle hatırlanacak, ancak aynı zamanda birkaç genç yeteneğin de çıkış yaptığı oldu. İşte 2026-27 sezonuna girerken hatırlayacağımız en iyi dört oyuncu."
-    },
-    {
-      "title": "Norway and Haaland are rowing home, but this World...",
-      "summary": "Erling Haaland couldn't lift Norway past England into the World Cup semifinals. But the Scandinavian side had a memorable tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49342621/norway-haaland-rowing-home-world-cup-cemented-superstars",
-      "image_url": null,
-      "published": "2026-07-12T19:41:43",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:34.904824",
-      "priority_score": 50,
-      "categories": [
-        "world_cup"
-      ],
-      "processed_at": "2026-07-12T20:04:18.614514",
-      "title_tr": "Norveç ve Haaland kürek çekerek evlerine dönüyor ama bu Dünya...",
-      "summary_tr": "Erling Haaland, Norveç'i İngiltere'yi geçerek Dünya Kupası yarı finaline taşıyamadı. Ancak İskandinav tarafı unutulmaz bir turnuva yaşadı."
-    },
-    {
-      "title": "Top four ranked teams make semi-finals for first time",
-      "summary": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-12T04:26:44",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-12T20:00:38.512151",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-07-12T20:04:18.629387",
-      "title_tr": "İlk dört sırada yer alan takımlar ilk kez yarı finale yükseldi",
-      "summary_tr": "FIFA sıralamalarının açıklanmasından bu yana ilk kez ilk dört sırada yer alan takımlar Dünya Kupası'nda yarı final oynadı."
     }
   ]
 }
