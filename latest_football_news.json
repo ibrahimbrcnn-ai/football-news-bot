@@ -1,27 +1,7 @@
 {
-  "timestamp": "2026-07-14T15:20:41.084334",
+  "timestamp": "2026-07-14T17:07:18.234862",
   "total_items": 30,
   "news": [
-    {
-      "title": "Arsenal agree fee for Trossard move to Besiktas",
-      "summary": "Arsenal have agreed a transfer fee to sell Belgium forward Leandro Trossard to Beskitas.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-14T14:11:47",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:15:29.170177",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-07-14T15:19:11.530801",
-      "title_tr": "Arsenal, Trossard'ın Beşiktaş'a transferi için bonservis bedelini kabul etti",
-      "summary_tr": "Arsenal, Belçikalı forvet Leandro Trossard'ı Beşiktaş'a satmak için bonservis bedeli konusunda anlaştı."
-    },
     {
       "title": "Leandro Trossard set for Besiktas move after Arsenal agree deal with Turkish side",
       "summary": "Winger to depart after three and a half seasons at clubTrossard played 174 times and scored 36 goals for ArsenalArsenal have agreed a deal to sell Leandro Trossard to Besiktas, paving the way for the 31-year-old to depart the club after three-and-a-half years.Trossard, who moved to Arsenal from Brig",
@@ -32,16 +12,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:07.068288",
+      "fetched_at": "2026-07-14T17:02:33.333062",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-07-14T15:19:11.583223",
+      "processed_at": "2026-07-14T17:05:36.234350",
       "title_tr": "Leandro Trossard, Arsenal'in Türk tarafıyla anlaşmasının ardından Beşiktaş'a transfer oldu",
-      "summary_tr": "Kanat oyuncusu 3 buçuk sezon sonra kulüpten ayrılıyorTrossard, Arsenal'de 174 kez forma giydi ve 36 gol attıArsenal, Leandro Trossard'ın Beşiktaş'a satışı konusunda anlaşma sağladı ve 31 yaşındaki futbolcunun 3,5 yıl sonra kulüpten ayrılmasının önü açıldı.Brig'den Arsenal'e transfer olan Trossard,"
+      "summary_tr": "Kanat oyuncusu 3 buçuk sezon sonra kulüpten ayrılacakTrossard, Arsenal'de 174 kez forma giydi ve 36 gol attıArsenal, Leandro Trossard'ın Beşiktaş'a satışı konusunda anlaşma sağladı ve 31 yaşındaki futbolcunun 3,5 yıl sonra kulüpten ayrılmasının önü açıldı. Brig'den Arsenal'e transfer olan Trossard,"
+    },
+    {
+      "title": "Besiktas, Arsenal agree $22.8M deal for Trossard",
+      "summary": "Besiktas have agreed a deal with Arsenal for winger Leandro Trossard, the north London club have announced.",
+      "url": "https://www.espn.com/soccer/story/_/id/49357898/besiktas-agree-deal-arsenal-winger-leandro-trossard",
+      "image_url": null,
+      "published": "2026-07-14T17:48:12",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:01:53.341265",
+      "priority_score": 95,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-07-14T17:05:36.096153",
+      "title_tr": "Beşiktaş ve Arsenal, Trossard için 22,8 milyon dolara anlaştı",
+      "summary_tr": "Kuzey Londra kulübü, Beşiktaş'ın kanat oyuncusu Leandro Trossard için Arsenal ile anlaşmaya vardığını duyurdu."
     },
     {
       "title": "Konyaspor'dan transfer!",
@@ -53,12 +53,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:29.824966",
+      "fetched_at": "2026-07-14T17:03:49.148629",
       "priority_score": 88,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-14T15:19:11.694157",
+      "processed_at": "2026-07-14T17:05:36.399029",
       "title_tr": "Konyaspor'dan transfer!",
       "summary_tr": "Konyaspor, Brezilyalı stoper Joao Pedro Da Mata ile 3 yıllık sözleşme imzaladı."
     },
@@ -67,12 +67,12 @@
       "summary": "⚽️ Latest news before first of the semi-finals in Dallas⚽️ Player guide | Golden Boot | Football Daily | Email usAtlanta police are increasing staffing and resources for Wednesday’s World Cup semi-final between England and Argentina.The department says additional officers will be deployed around the",
       "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
       "image_url": null,
-      "published": "2026-07-14T15:05:11",
+      "published": "2026-07-14T16:51:12",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:07.067340",
+      "fetched_at": "2026-07-14T17:02:33.330406",
       "priority_score": 78,
       "categories": [
         "match_results",
@@ -80,9 +80,48 @@
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-07-14T15:19:11.570230",
-      "title_tr": "2026 Dünya Kupası: Fransa - İspanya yarı final hazırlıkları; Atlanta polisi canlı yayında İngiltere-Arjantin karşılaşmasında güvenliği artırdı",
+      "processed_at": "2026-07-14T17:05:36.193033",
+      "title_tr": "2026 Dünya Kupası: Fransa - İspanya yarı final hazırlıkları; Atlanta polisi İngiltere-Arjantin karşılaşmasında canlı yayında güvenliği artırdı",
       "summary_tr": "⚽️ Dallas'taki ilk yarı final öncesi son haberler⚽️ Oyuncu rehberi | Altın Çizme | Futbol Günlük | Bize e-posta gönderinAtlanta polisi, Çarşamba günü İngiltere ile Arjantin arasında oynanacak Dünya Kupası yarı finali için personel sayısını ve kaynaklarını artırıyor.Bakanlık, olay yerine ek memurların görevlendirileceğini açıkladı"
+    },
+    {
+      "title": "World Cup Daily live: Haaland latest star to inspi...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we build up to the first semifinal -- France vs. Spain.",
+      "url": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
+      "image_url": null,
+      "published": "2026-07-14T15:10:41",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:01:53.342672",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-14T17:05:36.105201",
+      "title_tr": "Dünya Kupası Günlük Canlı: Haaland'ın son yıldızı ilham veriyor",
+      "summary_tr": "İlk yarı finale (Fransa-İspanya) hazırlanırken 2026 Dünya Kupası'na ilişkin tüm özelliklerin, haberlerin, video analizlerinin ve renklerin keyfini çıkarın."
+    },
+    {
+      "title": "Dettori back on track after Newmarket car crash",
+      "summary": "Frankie Dettori was all smiles as he made his return to the racecourse for the first time since a car crash in Newmarket left him in hospital with a broken thumb and fractured ribs.",
+      "url": "https://www.skysports.com/watch/video/13563460/frankie-dettori-back-on-track-after-newmarket-car-crash",
+      "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-frankie-dettori-racing_7297621.jpg?20260714175214",
+      "published": "2026-07-14T17:22:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:02:11.818923",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-07-14T17:05:36.146399",
+      "title_tr": "Dettori, Newmarket'taki araba kazasının ardından yoluna devam etti",
+      "summary_tr": "Frankie Dettori, Newmarket'taki bir araba kazası sonucu baş parmağının kırılması ve kaburgalarının kırılmasıyla hastaneye kaldırılmasından bu yana ilk kez yarış pistine dönerken gülümsüyordu."
     },
     {
       "title": "Lennart Karl back training with the ball at Bayern Munich",
@@ -94,14 +133,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:32.952841",
+      "fetched_at": "2026-07-14T17:02:59.719841",
       "priority_score": 61,
       "categories": [
         "injuries",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-14T15:19:11.633169",
+      "processed_at": "2026-07-14T17:05:36.289816",
       "title_tr": "Lennart Karl, Bayern Münih'te topla antrenmana çıktı",
       "summary_tr": "Bayern Münihli Lennart Karl, Almanya'nın 2026 FIFA Dünya Kupası kampanyasının dışında kalmasına neden olan uyluk kasındaki sakatlığın iyileşme sürecini hızlandırdı."
     },
@@ -115,7 +154,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:32.955004",
+      "fetched_at": "2026-07-14T17:02:59.722768",
       "priority_score": 61,
       "categories": [
         "breaking_news",
@@ -123,68 +162,29 @@
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-14T15:19:11.659616",
+      "processed_at": "2026-07-14T17:05:36.333660",
       "title_tr": "Michael Olise, Fransa-İspanya FIFA Dünya Kupası 2026 yarı finalinde Lamine Yamal'ı gölgede bırakabilecek mi?",
       "summary_tr": "Fransa ve İspanya, 2026 FIFA Dünya Kupası'nın ilk yarı finalinde mücadele ederken tüm gözler Dallas'ta olacak; her iki ülkenin süperstarı Bayern Münih'ten Michael Olise ve Barselona'dan Lamine Yamal'a özellikle dikkat edilecek."
     },
     {
-      "title": "All the goals from France's run to semi-finals",
-      "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c23yj388pryo?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal agree fee for Trossard move to Besiktas",
+      "summary": "Arsenal agree a transfer fee of about £17m (20m euros) to sell Belgium forward Leandro Trossard to Beskitas.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-07-14T05:11:18",
+      "published": "2026-07-14T14:11:47",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-14T15:15:29.171666",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-07-14T15:19:11.539031",
-      "title_tr": "Fransa'nın yarı finale kadar attığı tüm goller",
-      "summary_tr": "Fransa'nın 2026 Dünya Kupası yarı finallerine giderken attığı her golü ve İspanya ile ağız sulandıran beraberliğini izleyin."
-    },
-    {
-      "title": "Doekhi rondt transfer naar Lazio af",
-      "summary": "Danilho Doekhi (28) gaat zijn carrière vervolgen bij Lazio. De verdediger arriveerde maandag in Rome om zijn transfer naar Italië af te ronden. De international van Suriname komt transfervrij over, nadat zijn contract bij 1. FC Union Berlin afliep.",
-      "url": "https://www.vi.nl/nieuws/doekhi-rondt-transfer-naar-lazio-af",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/13/7b492cd9007646fe3f672a8bce7631ec515f15f0.jpg?width=1200",
-      "published": "2026-07-14T14:30:22",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:19:06.715101",
-      "priority_score": 87,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-14T15:19:12.482926",
-      "title_tr": "Doekhi Lazio'ya transferini tamamladı",
-      "summary_tr": "Danilho Doekhi (28) kariyerine Lazio'da devam edecek. Savunmacı, İtalya'ya transferini tamamlamak için Pazartesi günü Roma'ya geldi. Surinamlı milli oyuncu, 1. FC Union Berlin ile olan sözleşmesinin sona ermesinin ardından bonservis bedeli ödemeden geliyor."
-    },
-    {
-      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
-      "summary": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-14T10:08:08",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:15:29.170848",
+      "fetched_at": "2026-07-14T17:02:00.495876",
       "priority_score": 85,
       "categories": [
-        "transfers"
+        "transfers",
+        "premier_league"
       ],
-      "processed_at": "2026-07-14T15:19:11.532865",
-      "title_tr": "Brighton, kulüp rekoru olan 46 milyon £'a Spurs'tan Vuskovic'i transfer etti",
-      "summary_tr": "Brighton, Tottenham'dan Hırvat defans oyuncusu Luka Vuskovic'i 46 milyon £'luk rekor bir ücret karşılığında, bir yıl daha opsiyonlu beş yıllık sözleşmeyle imzaladı."
+      "processed_at": "2026-07-14T17:05:36.110025",
+      "title_tr": "Arsenal, Trossard'ın Beşiktaş'a transferi için bonservis bedelini kabul etti",
+      "summary_tr": "Arsenal, Belçikalı forvet Leandro Trossard'ı Beşiktaş'a satmak için yaklaşık 17 milyon £ (20 milyon euro) tutarında bir transfer ücreti üzerinde anlaştı."
     },
     {
       "title": "Beşiktaş, Trossard'ı KAP'a bildirdi!",
@@ -196,14 +196,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:29.825025",
+      "fetched_at": "2026-07-14T17:03:49.148697",
       "priority_score": 83,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.698256",
+      "processed_at": "2026-07-14T17:05:36.404741",
       "title_tr": "Beşiktaş, Trossard'ı KAP'a bildirdi!",
       "summary_tr": "Beşiktaş, Arsenal'den Leandro Trossard transferini KAP'a bildirdi! Belçikalı yıldızı taşıyan uçak 19.30'da İstanbul’da olacak"
     },
@@ -217,14 +217,73 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:29.825134",
+      "fetched_at": "2026-07-14T17:03:49.148835",
       "priority_score": 83,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-14T15:19:11.706986",
+      "processed_at": "2026-07-14T17:05:36.416767",
       "title_tr": "Yüksel Yıldırım'dan Drongelen açıklaması!",
       "summary_tr": "Samsunspor Başkanı Yüksel Yıldırım, Trabzonspor'un kadrosuna katmak istediği Hollanda'lı stoperi Rick van Drongelen'in transferi hakkında açıklamalarda bulundu. Yıldırım, yürüttükleri transfer çalışmalarının bu hafta sonuna kadar sonuçlanabileceğini ifade etti."
+    },
+    {
+      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "summary": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-14T10:08:08",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:02:00.496992",
+      "priority_score": 80,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-14T17:05:36.122757",
+      "title_tr": "Brighton, kulüp rekoru olan 46 milyon £'a Spurs'tan Vuskovic'i transfer etti",
+      "summary_tr": "Brighton, Tottenham'dan Hırvat defans oyuncusu Luka Vuskovic'i 46 milyon £'luk rekor bir ücret karşılığında, bir yıl daha opsiyonlu beş yıllık sözleşmeyle imzaladı."
+    },
+    {
+      "title": "Doekhi rondt transfer naar Lazio af",
+      "summary": "Danilho Doekhi (28) gaat zijn carrière vervolgen bij Lazio. De verdediger arriveerde maandag in Rome om zijn transfer naar Italië af te ronden. De international van Suriname komt transfervrij over, nadat zijn contract bij 1. FC Union Berlin afliep.",
+      "url": "https://www.vi.nl/nieuws/doekhi-rondt-transfer-naar-lazio-af",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/13/7b492cd9007646fe3f672a8bce7631ec515f15f0.jpg?width=1200",
+      "published": "2026-07-14T14:30:22",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:05:33.837791",
+      "priority_score": 77,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-14T17:05:37.443477",
+      "title_tr": "Doekhi Lazio'ya transferini tamamladı",
+      "summary_tr": "Danilho Doekhi (28) kariyerine Lazio'da devam edecek. Savunmacı, İtalya'ya transferini tamamlamak için Pazartesi günü Roma'ya geldi. Surinamlı milli oyuncu, 1. FC Union Berlin ile olan sözleşmesinin sona ermesinin ardından bonservis bedeli ödemeden geliyor."
+    },
+    {
+      "title": "Mason Greenwood, Fenerbahçe formasını sırtına geçirdi! İşte ilk sözleri",
+      "summary": "Fenerbahçe, uzun süredir transferi için uğraş verdiği Mason Greenwoord transferinde mutlu sona ulaştı. Sarı-Lacivertli formayı sırtına geçiren oyuncu bu akşam İstanbul'da olacak.",
+      "url": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-fenerbahce-formasini-sirtina-gecirdi-iste-ilk-sozleri-43239878",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5656c57c43e629aa256e6b.jpg",
+      "published": "2026-07-14T16:10:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:04:01.077585",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-14T17:05:36.453809",
+      "title_tr": "Mason Greenwood, Fenerbahçe formasını sırtına geçirdi! İşte ilk sözleri",
+      "summary_tr": "Fenerbahçe, uzun süredir transferi için uğraş verdiği Mason Greenwoord transferinde mutlu sona ulaştı. Sarı-Lacivertli formayı sırtına geçiren oyuncu bu akşam İstanbul'da olacak."
     },
     {
       "title": "Son dakika transfer haberi: Beşiktaş, Leandro Trossard'ı açıkladı!",
@@ -236,7 +295,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:44.166311",
+      "fetched_at": "2026-07-14T17:04:06.258901",
       "priority_score": 76,
       "categories": [
         "transfers",
@@ -244,7 +303,7 @@
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.902687",
+      "processed_at": "2026-07-14T17:05:36.681290",
       "title_tr": "Son dakika transfer haberi: Beşiktaş, Leandro Trossard'ı açıkladı!",
       "summary_tr": "Son dakika transfer haberi: Beşiktaş, Leandro Trossard transferi için Arsenal ile görüşmelere başlandığını Kamuoyu Aydınlatma Platformu'na bildirdi.Devamı için tıklayınız"
     },
@@ -258,15 +317,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:18:00.495226",
+      "fetched_at": "2026-07-14T17:04:22.023716",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:12.091193",
+      "processed_at": "2026-07-14T17:05:36.892204",
       "title_tr": "TROSSARD SAAT KAÇTA İSTANBUL'A GELECEK? Leandro Trossard Beşiktaş Transferini KAP'a Bildirdi! Trossard Kimdir, Kaç Yaşında, Hangi Mevkide Oynuyor? Trossard İstatistik Verileri...",
       "summary_tr": "Leandro Trossard Beşiktaş transferi iddiaları transfer döneminin en dikkat çeken gelişmeleri arasında yer alırken, siyah-beyazlı taraftarlar deneyimli yıldızın geleceğine ilişkin son gelişmeleri yakından takip ediyor. Avrupa futbolunda istikrarlı performansıyla öne çıkan Leandro Trossard’ın adı son"
+    },
+    {
+      "title": "Infantino reported to IOC over Trump ties at WC",
+      "summary": "A complaint alleging FIFA president Gianni Infantino has breached rules on political neutrality in his dealings with President Donald Trump has been submitted to the International Olympic Committee.",
+      "url": "https://www.espn.com/soccer/story/_/id/49357803/gianni-infantino-reported-ioc-donald-trump-ties-world-cup",
+      "image_url": null,
+      "published": "2026-07-14T17:20:00",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:01:53.340723",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-14T17:05:36.094647",
+      "title_tr": "Infantino, Trump'ın Dünya Kupası'ndaki bağlarını IOC'ye bildirdi",
+      "summary_tr": "FIFA başkanı Gianni Infantino'nun, Başkan Donald Trump ile olan ilişkilerinde siyasi tarafsızlık kurallarını ihlal ettiğini iddia eden şikayet, Uluslararası Olimpiyat Komitesi'ne sunuldu."
     },
     {
       "title": "Man Utd seek another midfielder as Tielemans has medical",
@@ -278,16 +358,77 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-14T15:15:29.170542",
+      "fetched_at": "2026-07-14T17:02:00.496639",
       "priority_score": 75,
       "categories": [
         "transfers",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-07-14T15:19:11.531618",
+      "processed_at": "2026-07-14T17:05:36.117892",
       "title_tr": "Man Utd, Tielemans'ın sağlık sorunları nedeniyle başka bir orta saha oyuncusu arıyor",
       "summary_tr": "Manchester United, Andrey Santos'un transferine ve Youri Tielemans'ın yaklaşmakta olan gelişine rağmen hâlâ başka bir orta saha oyuncusu arayışında."
+    },
+    {
+      "title": "United profiteert mee van miljoenentransfer Greenwood naar Turkije",
+      "summary": "Mason Greenwood is hard op weg naar Fenerbahçe. De Engelse aanvaller helpt zo niet alleen Olympique Marseille aan miljoeneninkomsten, ook zijn oude club Manchester United profiteert mee.",
+      "url": "https://www.vi.nl/nieuws/united-profiteert-mee-van-miljoenentransfer-greenwood-naar-turkije",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/14/cc62633dd1cd763d9b584813d5c8824528b2e489.jpg?width=1200",
+      "published": "2026-07-14T16:16:51",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:05:33.837406",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-14T17:05:37.358154",
+      "title_tr": "United, Greenwood'un Türkiye'ye milyonlarca dolarlık transferinden faydalanıyor",
+      "summary_tr": "Mason Greenwood, Fenerbahce'ye doğru yolda. İngiliz hücum oyuncusu sadece Olympique Marsilya'nın milyonlarca gelir elde etmesine yardımcı olmakla kalmıyor, aynı zamanda eski kulübü Manchester United'a da fayda sağlıyor."
+    },
+    {
+      "title": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
+      "summary": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam imza için İstanbul'a geldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-leandro-trossard-transferini-resmen-acikladi-43239582",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a56320d7c43e629aa256d0e.jpg",
+      "published": "2026-07-14T12:36:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:04:01.077954",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-14T17:05:36.504288",
+      "title_tr": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
+      "summary_tr": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam imza için İstanbul'a geldi."
+    },
+    {
+      "title": "Inside Man United's summer rebuild, as Santos and ...",
+      "summary": "Manchester United have had to adapt their summer transfer window plans, but the club continue to be active and more signings are expected.",
+      "url": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield",
+      "image_url": null,
+      "published": "2026-07-14T13:23:49",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-14T17:01:53.342504",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-07-14T17:05:36.103755",
+      "title_tr": "Manchester United'ın yazın yeniden yapılanması içinde, Santos ve...",
+      "summary_tr": "Manchester United yaz transfer dönemi planlarını uyarlamak zorunda kaldı ancak kulüp aktif olmaya devam ediyor ve daha fazla transfer bekleniyor."
     },
     {
       "title": "Lionel Messi’s first meeting with England will be a contest of will and aura",
@@ -299,34 +440,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:07.067675",
-      "priority_score": 73,
+      "fetched_at": "2026-07-14T17:02:33.330790",
+      "priority_score": 63,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-07-14T15:19:11.574207",
+      "processed_at": "2026-07-14T17:05:36.199236",
       "title_tr": "Lionel Messi'nin İngiltere ile ilk karşılaşması bir irade ve aura yarışması olacak",
-      "summary_tr": "Messi eğrisi Atlanta'da belirleyici bir noktaya ulaşıyor; üçüncü bir finale geçiş veya Arjantin'in mütevazı sporcu dehasına olan sevgisinin sınırlarını test etmek için bir çıkış Çarşamba gecesi, Atlanta Stadyumu, 101 maç geride, oynanacak üç maç kaldı ve sonunda bu mantıklı geliyor. Geri Sayımı başlatın, o an"
-    },
-    {
-      "title": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
-      "summary": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam İstanbul'da olacak.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-leandro-trossard-transferini-resmen-acikladi-43239582",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a56320d7c43e629aa256d0e.jpg",
-      "published": "2026-07-14T12:36:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:17:38.550980",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-14T15:19:11.789119",
-      "title_tr": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
-      "summary_tr": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam İstanbul'da olacak."
+      "summary_tr": "Messi eğrisi Atlanta'da belirleyici bir noktaya ulaşıyor; üçüncü bir finale geçiş veya Arjantin'in mütevazı sporcu dehasına olan sevgisinin sınırlarını test etmek için bir çıkış Çarşamba gecesi, Atlanta Stadyumu, 101 maç geride, oynanacak üç maç kaldı ve sonunda bu mantıklı geliyor. Geri Sayımı getirin, o an"
     },
     {
       "title": "Okan Buruk'tan transfer sözleri!",
@@ -338,35 +459,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:29.824904",
+      "fetched_at": "2026-07-14T17:03:49.148561",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.691305",
+      "processed_at": "2026-07-14T17:05:36.395077",
       "title_tr": "Okan Buruk'tan transfer sözleri!",
       "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, DHA'ya özel çarpıcı açıklamalarda bulundu. En zor şampiyonluğun son sene elde edilen şampiyonluk olduğunu söyleyen Okan Buruk, Mauro Icardi'nin durumu ve genel transfer süreciyle ilgili konuştu."
     },
     {
-      "title": "Beşiktaş ile G.Saray'ın transfer yarışı!",
-      "summary": "Yeni sezon öncesi transfer çalışmalarına hız veren Beşiktaş ile Galatasaray, Alman ekibi Eintracht Frankfurt forması giyen Arthur Theate'i kadrosuna katmak istiyor.",
-      "url": "https://www.haberturk.com/besiktas-ile-galatasaray-arthur-theate-i-gozune-kestirdi-3898411-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/14/ver1784028066/3898411/jpg/1280x1280",
-      "published": "2026-07-14T11:23:44",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Geen transfers en late salarissen: 'Financiële crisis bij Al-Nassr van Cristiano Ronaldo'",
+      "summary": "Het gaat niet goed met Al-Nassr, de club van Cristiano Ronaldo. Al-Riyadiyah schrijft dat de club uit Saoedi-Arabië er financieel slecht voor staat, wat grote gevolgen heeft voor de spelers.",
+      "url": "https://www.vi.nl/nieuws/financiele-crisis-bij-al-nassr-van-cristiano-ronaldo",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/14/20dded2c3fe4e13901575234263dbb93be8fa195.jpg?width=1200",
+      "published": "2026-07-14T16:59:05",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:29.825503",
-      "priority_score": 63,
+      "fetched_at": "2026-07-14T17:05:33.837263",
+      "priority_score": 62,
       "categories": [
-        "transfers",
-        "super_lig"
+        "transfers"
       ],
-      "processed_at": "2026-07-14T15:19:11.735095",
-      "title_tr": "Beşiktaş ile G.Saray'ın transfer yarışı!",
-      "summary_tr": "Yeni sezon öncesi transfer çalışmalarına hız veren Beşiktaş ile Galatasaray, Alman ekibi Eintracht Frankfurt forması giyen Arthur Theate'i kadrosuna katmak istiyor."
+      "processed_at": "2026-07-14T17:05:37.321436",
+      "title_tr": "Transfer yok ve maaşlar gecikiyor: 'Cristiano Ronaldo'nun Al-Nassr'ında mali kriz'",
+      "summary_tr": "Cristiano Ronaldo'nun kulübü Al-Nassr için işler pek iyi gitmiyor. Al-Riyadiyah, Suudi Arabistanlı kulübün mali durumunun kötü olduğunu ve bunun oyuncular için büyük sonuçlar doğurduğunu yazıyor."
     },
     {
       "title": "England vs. Argentina: Will Harry Kane or Lionel Messi star in FIFA World Cup 2026 semi-finals?",
@@ -378,14 +498,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-14T15:16:32.955748",
+      "fetched_at": "2026-07-14T17:02:59.723733",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-14T15:19:11.673842",
+      "processed_at": "2026-07-14T17:05:36.352868",
       "title_tr": "İngiltere - Arjantin: 2026 FIFA Dünya Kupası yarı finalinde Harry Kane mi yoksa Lionel Messi mi oynayacak?",
       "summary_tr": "Harry Kane, geçtiğimiz sezon Bayern Münih ve İngiltere formasıyla dünyanın en üretken golcüsü oldu. Şimdi, Üç Aslan, Atalanta'da heyecanla beklenen 2026 FIFA Dünya Kupası yarı finalinde Arjantin ile karşı karşıya gelirken, Lionel Messi gibi tarihin en iyi oyuncularından biriyle karşı karşıya geliyor."
     },
@@ -399,13 +519,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:38.550859",
+      "fetched_at": "2026-07-14T17:04:01.077813",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.774261",
+      "processed_at": "2026-07-14T17:05:36.485605",
       "title_tr": "Beşiktaş ve Galatasaray istiyor! Transferde ilk temas",
       "summary_tr": "Süper Lig’in iki devi Beşiktaş ve Galatasaray, yeşil sahaların ardından bu kez de transferde karşı karşıya geldi. Beşiktaş, oyuncu ile ilk teması kurarken Galatasaray’ın da takipte olduğu ifade edildi."
     },
@@ -419,35 +539,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:38.551038",
+      "fetched_at": "2026-07-14T17:04:01.078023",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.800552",
+      "processed_at": "2026-07-14T17:05:36.518866",
       "title_tr": "Okan Buruk'tan transfer itirafı: 'Olmadı, Premier Lig'e gitti, parayı verseniz de gelmiyorlar!'",
       "summary_tr": "Galatasaray teknik direktörü Okan Buruk, sarı-kırmızılı takımın gündemine ve transfer çalışmalarına dair DHA'ya özel açıklamalarda bulundu. İşte detaylar..."
     },
     {
-      "title": "Beşiktaş, Vlahovic'e teklif yaptı! İşte maaşı",
-      "summary": "Beşiktaş, Dusan Vlahovic transferi için görüşmelerde bulunuyor. Siyah beyazlıların Vlahovic transferinde son durum belli oldu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktas-valhovice-tekli-yapti-iste-maasi-43239145",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a55f6ced76e93b6a8aa1688.jpg",
-      "published": "2026-07-14T08:44:00",
+      "title": "Sertaç Şanlı, yeniden Fenerbahçe'de",
+      "summary": "Fenerbahçe, milli basketbolcu Sertaç Şanlı ile 1 yıllık sözleşme imzaladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/sertac-sanli-yeniden-fenerbahcede-43239341",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a560f9b882d575f4baba0cb.jpg",
+      "published": "2026-07-14T10:31:18",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:17:38.551538",
+      "fetched_at": "2026-07-14T17:04:01.078230",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:11.879854",
-      "title_tr": "Beşiktaş, Vlahovic'e teklif yaptı! İşte maaşı",
-      "summary_tr": "Beşiktaş, Dusan Vlahovic transferi için görüşmelerde bulunuyor. Siyah beyazlıların Vlahovic transferinde son durum belli oldu."
+      "processed_at": "2026-07-14T17:05:36.548777",
+      "title_tr": "Sertaç Şanlı, yeniden Fenerbahçe'de",
+      "summary_tr": "Fenerbahçe, milli basketbolcu Sertaç Şanlı ile 1 yıllık sözleşme imzaladı."
     },
     {
       "title": "Galatasaray, Kaan Ayhan'a kolaylık sağlayacak",
@@ -459,155 +579,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-14T15:18:00.495991",
+      "fetched_at": "2026-07-14T17:04:22.031783",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-14T15:19:12.166651",
+      "processed_at": "2026-07-14T17:05:36.978088",
       "title_tr": "Galatasaray, Kaan Ayhan'a kolaylık sağlayacak",
       "summary_tr": "Galatasaray’da transfer hamleleri sürerken, kadrodan ayrılması beklenen isimler de netleşmeye başladı. Sarı-kırmızılı yönetimin, deneyimli stoper Kaan Ayhan’ın geleceği konusunda ilk adımı attığı öğrenildi."
     },
     {
-      "title": "Besiktas doet zaken met Arsenal en versterkt voorhoede",
-      "summary": "Voormalig Eredivisie-spelers Orkun Kökcü, Vacláv Cerny en Milot Rashica krijgen er een teamgenoot van formaat bij. Leandro Trossard, afgelopen seizoen kampioen met Arsenal, is onderweg naar Istanbul om zijn transfer af te ronden. Dit meldde Besiktas dinsdagmiddag.",
-      "url": "https://www.vi.nl/nieuws/besiktas-doet-zaken-met-arsenal-en-versterkt-voorhoede",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/14/691893c999d7cbb6fe1e3df7738cf9778a904d10.jpg?width=1200",
-      "published": "2026-07-14T14:08:26",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:19:06.715338",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-07-14T15:19:12.549096",
-      "title_tr": "Beşiktaş, Arsenal'le iş birliği yaparak öncüyü güçlendiriyor",
-      "summary_tr": "Eski Eredivisie oyuncuları Orkun Kökcü, Vacláv Cerny ve Milot Rashica harika bir takım arkadaşı kazanacak. Arsenal'de geçen sezon şampiyon olan Leandro Trossard, transferini tamamlamak üzere İstanbul'a gidiyor. Beşiktaş bunu Salı öğleden sonra bildirdi."
-    },
-    {
-      "title": "Iraola legt uit waarom hij geen langlopend contract bij Liverpool wil",
-      "summary": "Andoni Iraola, de opvolger van Arne Slot bij Liverpool, is wellicht de droompartij om tegenover te zitten aan de onderhandelingstafel. De Spaanse coach is namelijk niet geïnteresseerd in langlopende contracten. Hij tekende voor twee jaar op Anfield en dat vindt hij meer dan prima. Op een persmoment ",
-      "url": "https://www.vi.nl/video/iraola-legt-uit-waarom-hij-geen-langlopend-contract-bij-liverpool-wil",
-      "image_url": "https://images.performgroup.com/transcoded/20260714/130726_EN_SPN_LIVERPOOL_IRAOLA_READY_1783984176121-1_2847_1.jpeg",
-      "published": "2026-07-14T13:20:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:19:06.715399",
-      "priority_score": 57,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-14T15:19:12.566950",
-      "title_tr": "Iraola, Liverpool'la neden uzun vadeli sözleşme istemediğini açıkladı",
-      "summary_tr": "Arne Slot'un Liverpool'daki halefi Andoni Iraola, müzakere masasında karşılıklı oturmak için rüya gibi bir oyuncu olabilir. İspanyol teknik adam uzun vadeli sözleşmelerle ilgilenmiyor. Anfield'da iki yıllığına sözleşme imzaladı ve bunda fazlasıyla sorun yok. Bir basın anında"
-    },
-    {
-      "title": "Summerville genoemd bij Roma, United trekt nieuwe doelman aan",
+      "title": "'City maakt werk van Bouaddi, Summerville toptarget van AS Roma'",
       "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/arsenal-gaat-concurrentiestrijd-met-barcelona-aan-voor-alvarez",
+      "url": "https://www.vi.nl/nieuws/city-maakt-werk-van-bouaddi-summerville-toptarget-van-as-roma",
       "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-07-14T12:37:00",
+      "published": "2026-07-14T15:23:26",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-14T15:19:06.715647",
+      "fetched_at": "2026-07-14T17:05:33.837573",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-14T15:19:12.642253",
-      "title_tr": "Summerville, Roma, United'da yeni kaleciyle sözleşme imzaladı",
+      "processed_at": "2026-07-14T17:05:37.395315",
+      "title_tr": "'Şehir, AS Roma'nın Summerville hedefi Bouaddi üzerinde çalışıyor'",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Martin Adeline joins Hamburg from Troyes",
-      "summary": "France youth international Martin Adeline has completed a move to Hamburg, signing a long-term contract with the Bundesliga club.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/martin-adeline-joins-hamburg-troyes-38199",
-      "image_url": null,
-      "published": "2026-07-13T19:39:24",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:16:32.956081",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-07-14T15:19:11.678197",
-      "title_tr": "Martin Adeline Troyes'tan Hamburg'a transfer oldu",
-      "summary_tr": "Fransa genç milli takımı Martin Adeline, Bundesliga kulübüyle uzun vadeli bir sözleşme imzalayarak Hamburg'a transferini tamamladı."
-    },
-    {
-      "title": "LASK FENERBAHÇE HAZIRLIK MAÇI SAAT KAÇTA? Fenerbahçe Lask Maçı Hangi Kanalda Canlı Yayınlanacak? Sarı-Lacivertliler Son Durumunu Test Edecek",
-      "summary": "LASK-Fenerbahçe hazırlık maçı futbolseverlerin gündeminde ilk sıralarda yer alırken, yeni sezon öncesi sarı-lacivertli ekibin Avusturya kampındaki performansı büyük merak uyandırıyor. Teknik heyetin son hazırlıklarını sahaya yansıtacağı mücadelede Fenerbahçe’nin yeni transferleri, genç oyuncuları ve",
-      "url": "https://www.cnnturk.com/spor/futbol/lask-fenerbahce-hazirlik-maci-saat-kacta-fenerbahce-lask-maci-hangi-kanalda-canli-yayinlanacak-sari-lacivertliler-son-durumunu-3442268",
-      "image_url": null,
-      "published": "2026-07-14T17:26:42",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:18:00.494941",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-14T15:19:12.039497",
-      "title_tr": "LASK FENERBAHÇE HAZIRLIK MAÇI SAAT KAÇTA? Fenerbahçe Lask Maçı Hangi Kanalda Canlı Yayınlanacak? Sarı-Lacivertliler Son Durumunu Test Edecek",
-      "summary_tr": "LASK-Fenerbahçe hazırlık maçı futbolseverlerin gündeminde ilk sıralarda yer alırken, yeni sezon öncesi sarı-lacivertli ekibin Avusturya kampındaki performansı büyük merak uyandırıyor. Teknik heyetin son hazırlıklarını sahaya yansıtacağı mücadelede Fenerbahçe’nin yeni transferleri, genç oyuncuları ve"
-    },
-    {
-      "title": "TRANSFER | Da Mata, Konyaspor’da",
-      "summary": "Konyaspor, genç stoper Joao Pedro Da Mata’yı kadrosuna kattığını duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-da-mata-konyasporda-3442535",
-      "image_url": null,
-      "published": "2026-07-14T17:03:27",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:18:00.495355",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-14T15:19:12.098020",
-      "title_tr": "TRANSFER | Da Mata, Konyaspor’da",
-      "summary_tr": "Konyaspor, genç stoper Joao Pedro Da Mata’yı kadrosuna kattığını duyurdu."
-    },
-    {
-      "title": "Beşiktaş ve Galatasaray arasında transfer savaşı! İşte gündemdeki isim",
-      "summary": "Beşiktaş ve Galatasaray için dikkat çeken bir transfer iddiası gündeme geldi. Siyah-beyazlıların ve sarı-kırmızılıların aynı savunma oyuncusunu gündemine aldığı öğrenildi. İşte detaylar... | Son dakika...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/besiktas/2026/07/14/besiktas-ve-galatasaray-arasinda-transfer-savasi-iste-gundemdeki-isim",
-      "image_url": "https://iaftm.tmgrup.com.tr/da7dc6/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/07/14/besiktas-ve-galatasaray-arasinda-transfer-savasi-iste-gundemdeki-isim-1784035536257.jpg",
-      "published": "2026-07-14T13:26:42",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-14T15:18:14.658013",
-      "priority_score": 54,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-14T15:19:12.204158",
-      "title_tr": "Beşiktaş ve Galatasaray arasında transfer savaşı! İşte gündemdeki isim",
-      "summary_tr": "Beşiktaş ve Galatasaray için dikkat çeken bir transfer iddiası gündeme geldi. Siyah-beyazlıların ve sarı-kırmızılıların aynı savunma oyuncusunu gündemine aldığı öğrenildi. İşte detaylar... | Son dakika...Devamı için tıklayınız"
     }
   ]
 }
