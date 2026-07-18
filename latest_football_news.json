@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T22:43:18.859627",
+  "timestamp": "2026-07-17T23:46:22.303913",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-17T22:39:17.033635",
+      "fetched_at": "2026-07-17T23:42:40.542996",
       "priority_score": 96,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-07-17T22:41:57.210863",
+      "processed_at": "2026-07-17T23:45:07.306033",
       "title_tr": "Köln, Reigan Heskey'i transfer etti",
       "summary_tr": "Kulüp, Köln'ün Manchester City'den Reigan Heskey'i transfer ettiğini doğruladı."
     },
@@ -33,13 +33,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:45.959438",
+      "fetched_at": "2026-07-17T23:44:02.025121",
       "priority_score": 96,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-17T22:41:57.692249",
+      "processed_at": "2026-07-17T23:45:07.762546",
       "title_tr": "Zeki Çelik'in Juventus'tan alacağı maaş belli oldu",
       "summary_tr": "Temmuz ayının başında AS Roma ile sözleşmesi sona eren milli futbolcu Zeki Çelik, Serie A devi Juventus ile anlaştı. 29 yaşındaki sağ bek, Torino ekibiyle 3 yıllık sözleşme imzaladı ve yeni takımının kamp çalışmalarına katıldı. Zeki Çelik, Juventus’ta milli takım arkadaşı Kenan Yıldız ile aynı forma"
     },
@@ -53,35 +53,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.426900",
+      "fetched_at": "2026-07-17T23:43:26.591169",
       "priority_score": 83,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-07-17T22:41:57.279089",
+      "processed_at": "2026-07-17T23:45:07.370574",
       "title_tr": "\"Trabzonspor benim için doğru adresti\"",
       "summary_tr": "Trabzonspor'un yeni transferi Sidny Lopes Cabral, yeni sezon hazırlıkları kapsamında Trabzon'a geldi. Yeşil Burun Adaları Milli Takımı ile 2026 Dünya Kupası'nda mücadele eden genç futbolcu, turnuvanın ardından verilen iznin sona ermesiyle bordo-mavili ekibe katılmak üzere Trabzon’a geldi."
-    },
-    {
-      "title": "Arsenal want Villa's Rogers - Saturday's gossip",
-      "summary": "Arsenal want Morgan Rogers, Mohamed Salah is set to join Besiktas, Manchester United are interested in Neco Williams, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-17T21:42:18",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-17T22:38:20.706660",
-      "priority_score": 65,
-      "categories": [
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-17T22:41:57.102784",
-      "title_tr": "Arsenal, Villa'dan Rogers'ı istiyor - Cumartesi günkü dedikodu",
-      "summary_tr": "Arsenal Morgan Rogers'ı istiyor, Mohamed Salah Beşiktaş'a katılmaya hazırlanıyor, Manchester United Neco Williams'la ilgileniyor ve daha fazlası."
     },
     {
       "title": "G.Saray'dan Ümraniye'ye farklı tarife!",
@@ -93,15 +73,55 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.426757",
+      "fetched_at": "2026-07-17T23:43:26.591051",
       "priority_score": 58,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.270633",
+      "processed_at": "2026-07-17T23:45:07.362695",
       "title_tr": "G.Saray'dan Ümraniye'ye farklı tarife!",
       "summary_tr": "Galatasaray, yeni sezon çalışmaları kapsamında ilk hazırlık maçında Trendyol 1. Lig ekibi Ümraniyespor'u 5-1'lik skorla mağlup etti."
+    },
+    {
+      "title": "Arsenal want Villa's Rogers - Saturday's gossip",
+      "summary": "Arsenal want Morgan Rogers, Mohamed Salah is set to join Besiktas, Manchester United are interested in Neco Williams, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-17T21:42:18",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-17T23:41:46.747258",
+      "priority_score": 55,
+      "categories": [
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-17T23:45:07.207921",
+      "title_tr": "Arsenal, Villa'dan Rogers'ı istiyor - Cumartesi günkü dedikodu",
+      "summary_tr": "Arsenal Morgan Rogers'ı istiyor, Mohamed Salah Beşiktaş'a katılmaya hazırlanıyor, Manchester United Neco Williams'la ilgileniyor ve daha fazlası."
+    },
+    {
+      "title": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final",
+      "summary": "The boy in the baby bath has unbelievably become the successor to Messi at Barcelona and now, maybe, on the world stage too“Maybe Lionel Messi has picked up lots of babies, maybe it’s chance, but for those of us who have faith, who believe in something beyond, ‘chance’ is God’s pseudonym when he doe",
+      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
+      "image_url": null,
+      "published": "2026-07-17T19:00:36",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-07-17T23:42:20.589590",
+      "priority_score": 53,
+      "categories": [
+        "la_liga",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-17T23:45:07.247458",
+      "title_tr": "Tanrı'nın isteği mi? Kader? Lionel Messi, Lamine Yamal, o fotoğraf ve Dünya Kupası finali",
+      "summary_tr": "Bebek banyosundaki çocuk inanılmaz bir şekilde Barselona'da Messi'nin varisi oldu ve şimdi, belki de dünya sahnesinde. \"Belki Lionel Messi bir sürü bebek kucağına aldı, belki bu bir şanstır, ama inancı olan, ötesinde bir şeye inanan bizler için 'şans', Tanrı'nın takma adıdır.\""
     },
     {
       "title": "Sidny Lopes Cabral imza için Trabzon'da!",
@@ -113,13 +133,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.886287",
+      "fetched_at": "2026-07-17T23:43:39.456475",
       "priority_score": 81,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-07-17T22:41:57.345415",
+      "processed_at": "2026-07-17T23:45:07.432935",
       "title_tr": "Sidny Lopes Cabral imza için Trabzon'da!",
       "summary_tr": "Trabzonspor'un yeni transferi Sidny Lopes Cabral, yeni sezon hazırlıkları kapsamında Trabzon'a geldi. Yeşil Burun Adaları Milli Takımı ile 2026 Dünya Kupası'nda mücadele eden genç futbolcu, turnuvanın ardından verilen iznin sona ermesiyle bordo-mavili ekibe katılmak üzere Trabzon’a geldi."
     },
@@ -133,13 +153,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.887053",
+      "fetched_at": "2026-07-17T23:43:39.457082",
       "priority_score": 81,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.433978",
+      "processed_at": "2026-07-17T23:45:07.516328",
       "title_tr": "Fenerbahçe Muriqi, Ake ve Greenwood ile sözleşme imzaladı: 'Şampiyon olup tarih yazabiliriz!'",
       "summary_tr": "Fenerbahçe'nin yeni transferleri Mason Greenwood, Nathan Ake ve Vedat Muriqi için Chobani Stadı'nda imza töreni düzenlendi."
     },
@@ -153,13 +173,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.427085",
+      "fetched_at": "2026-07-17T23:43:26.591333",
       "priority_score": 78,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.289265",
+      "processed_at": "2026-07-17T23:45:07.380055",
       "title_tr": "Beşiktaş ile Salah anlaştı iddiası!",
       "summary_tr": "Transfer çalışmalarını sürdüren Beşiktaş'ta, Mısırlı yıldız Mohamed Salah'ın transfer durumu merak ediliyor... Fransız basını siyah-beyazlıların deneyimli oyuncuyla anlaştığını açıklarken, alacağı maaşı da duyurdu. İşte tüm detaylar..."
     },
@@ -173,13 +193,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-17T22:41:53.369179",
+      "fetched_at": "2026-07-17T23:45:03.736150",
       "priority_score": 77,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-17T22:41:58.193878",
+      "processed_at": "2026-07-17T23:45:08.243330",
       "title_tr": "Başarısız transferin ardından Ederson'la yeni sözleşme, Hatzidiakos'un transferi tamamlandı",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
@@ -193,12 +213,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-17T22:38:32.474218",
+      "fetched_at": "2026-07-17T23:41:59.781288",
       "priority_score": 76,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-17T22:41:57.121583",
+      "processed_at": "2026-07-17T23:45:07.225694",
       "title_tr": "Szoboszlai Liverpool'la uzun vadeli yeni anlaşma imzaladı",
       "summary_tr": "Dominik Szoboszlai, Liverpool'la uzun vadeli yeni bir sözleşme imzaladı."
     },
@@ -212,14 +232,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:45.958315",
+      "fetched_at": "2026-07-17T23:44:02.024259",
       "priority_score": 76,
       "categories": [
         "transfers",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.627872",
+      "processed_at": "2026-07-17T23:45:07.700781",
       "title_tr": "Fenerbahçe, Anadolu Efes'in eski yıldızını kadrosuna kattı",
       "summary_tr": "Fenerbahçe Erkek Basketbol Takımı, son olarak Barcelona forması giyen ABD’li basketbolcu Will Clyburn ile 1 yıllık sözleşme imzaladı."
     },
@@ -233,34 +253,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:45.959174",
+      "fetched_at": "2026-07-17T23:44:02.024896",
       "priority_score": 76,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-17T22:41:57.681778",
+      "processed_at": "2026-07-17T23:45:07.752705",
       "title_tr": "Trabzonspor anlaşması yatmıştı, Yunan ekibine transfer oluyor! Yüksel Yıldırım'dan açıklama...",
       "summary_tr": "Samsunspor Başkanı Yüksel Yıldırım, Hollandalı stoper Rick van Drongelen’in transferi konusunda Panathinaikos ile görüşmelerin devam ettiğini açıkladı."
-    },
-    {
-      "title": "Villa complete club record Manzambi signing",
-      "summary": "Unai Emery makes his first summer signing by bringing in Johan Manzambi for a club record fee of just over £50m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-07-17T17:25:24",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-07-17T22:38:20.705724",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-07-17T22:41:57.100709",
-      "title_tr": "Villa Manzambi'deki kulüp rekorunu tamamladı",
-      "summary_tr": "Unai Emery, Johan Manzambi'yi 50 milyon £'un biraz üzerinde bir kulüp rekor ücreti karşılığında transfer ederek ilk yaz imzasını attı."
     },
     {
       "title": "Herkes Roma'da kalacak diye bekliyordu! Zeki Çelik dev kulübe imzayı attı",
@@ -272,35 +272,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:41:15.175236",
+      "fetched_at": "2026-07-17T23:44:26.641056",
       "priority_score": 72,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-17T22:41:58.006436",
+      "processed_at": "2026-07-17T23:45:08.062948",
       "title_tr": "Herkes Roma'da kalacak diye bekliyordu! Zeki Çelik dev kulübe imzayı attı",
       "summary_tr": "Temmuz ayının başında Roma ile sözleşmesi sona eren milli futbolcu Zeki Çelik, Juventus’a transfer oldu. Torino ekibi, ..."
-    },
-    {
-      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "published": "2026-07-17T22:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-07-17T22:38:32.473951",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-07-17T22:41:57.113031",
-      "title_tr": "Makaleler: Arsenal, Aston Villa defans oyuncusu Konsa için teklif hazırlıyor",
-      "summary_tr": "Cumartesi günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
       "title": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu",
@@ -312,16 +292,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.886645",
+      "fetched_at": "2026-07-17T23:43:39.456766",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.382377",
+      "processed_at": "2026-07-17T23:45:07.467597",
       "title_tr": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu",
       "summary_tr": "Transferde adı Galatasaray ile anılan eski Fenerbahçeli Jhon Duran'ın akıbeti belli oldu. Kolombiyalı golcü, Benfica'nın projesini tercih ederek Portekiz ekibiyle anlaşma sağladı."
+    },
+    {
+      "title": "Villa complete club record Manzambi signing",
+      "summary": "Unai Emery makes his first summer signing by bringing in Johan Manzambi for a club record fee of just over £50m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-17T17:25:24",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-17T23:41:46.746812",
+      "priority_score": 70,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-07-17T23:45:07.205762",
+      "title_tr": "Villa Manzambi'deki kulüp rekorunu tamamladı",
+      "summary_tr": "Unai Emery, Johan Manzambi'yi 50 milyon £'un biraz üzerinde bir kulüp rekor ücreti karşılığında transfer ederek ilk yaz imzasını attı."
     },
     {
       "title": "Mert Müldür'e Çizme kancası!",
@@ -333,13 +333,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.426610",
+      "fetched_at": "2026-07-17T23:43:26.590925",
       "priority_score": 68,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.262007",
+      "processed_at": "2026-07-17T23:45:07.354568",
       "title_tr": "Mert Müldür'e Çizme danteli!",
       "summary_tr": "Fenerbahçe ile sözleşmesinin bitimine 1 yıl kalan milli sağ bek Mert Müldür'ün, Çizme temsilcisinin transfer listesine girdiği iddia edildi."
     },
@@ -353,13 +353,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.426686",
+      "fetched_at": "2026-07-17T23:43:26.590991",
       "priority_score": 68,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.266196",
+      "processed_at": "2026-07-17T23:45:07.358524",
       "title_tr": "İşte Ertuğrul Taşkıran'ın yeni takımı!",
       "summary_tr": "Trendyol Süper Lig'in yeni temsilcisi Erzurumspor, Alanyaspor ile sözleşmesi biten ve bonservisi elinde olan Ertuğrul Taşkıran'la 2 yıllık sözleşme imzalandığını açıkladı."
     },
@@ -373,12 +373,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-17T22:38:32.474238",
+      "fetched_at": "2026-07-17T23:41:59.781308",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-17T22:41:57.123613",
+      "processed_at": "2026-07-17T23:45:07.227827",
       "title_tr": "Man Utd'da son durum: Ederson yeni Atalanta anlaşmasını imzaladı",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
@@ -392,14 +392,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-17T22:39:17.038331",
+      "fetched_at": "2026-07-17T23:42:40.546739",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-07-17T22:41:57.254419",
+      "processed_at": "2026-07-17T23:45:07.347438",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -413,12 +413,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.886212",
+      "fetched_at": "2026-07-17T23:43:39.456413",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-17T22:41:57.339630",
+      "processed_at": "2026-07-17T23:45:07.427449",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -432,13 +432,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-17T22:38:20.706368",
+      "fetched_at": "2026-07-17T23:41:46.746953",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-07-17T22:41:57.102141",
+      "processed_at": "2026-07-17T23:45:07.206462",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -452,55 +452,33 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:12.426987",
+      "fetched_at": "2026-07-17T23:43:26.591268",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.284539",
+      "processed_at": "2026-07-17T23:45:07.375722",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok",
-      "summary": "Fenerbahçe, Gornik Zabrze maçları için kadrosunu UEFA'ya bildirdi. Yeni transferler Nathan Ake, Mason Greenwood, Vedat Muriqi ve Fransa ile Dünya Kupası'nda boy gösteren N'Golo Kante kadroda yer almadı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gornik-zabrze-maclarinin-kadrosunu-uefaya-bildirdi-yeni-transferler-yok-43243341",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5a5e4bbc416976d1ca1bcd.jpg",
-      "published": "2026-07-17T16:51:00",
-      "source": "Hürriyet Spor",
+      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
+      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published": "2026-07-17T22:45:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.886506",
+      "fetched_at": "2026-07-17T23:41:59.781069",
       "priority_score": 61,
       "categories": [
         "transfers",
-        "match_results",
-        "super_lig",
-        "world_cup"
+        "premier_league"
       ],
-      "processed_at": "2026-07-17T22:41:57.366843",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bursaspor'a dünyaca ünlü golcü: 3 yıllık anlaşma tamam",
-      "summary": "Trendyol 1. Lig takımlarından Bursaspor, transferde ses getiren bir hamle yaptı.Uzun süredir forvet hattını dünya stand...",
-      "url": "https://www.yenisafak.com/spor/bursaspora-dunyaca-unlu-golcu-3-yillik-anlasma-tamam-4841128",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/7/17/17696c0b-bursaspora-dunyaca-unlu-golcu-3-yillik-anlasma-tamam.webp",
-      "published": "2026-07-17T17:20:23",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-17T22:41:15.171232",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-07-17T22:41:57.919020",
+      "processed_at": "2026-07-17T23:45:07.217193",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -514,12 +492,12 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:41:15.173452",
+      "fetched_at": "2026-07-17T23:44:26.639601",
       "priority_score": 57,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-17T22:41:57.964422",
+      "processed_at": "2026-07-17T23:45:08.022855",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -533,7 +511,7 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-17T22:41:53.343842",
+      "fetched_at": "2026-07-17T23:45:03.711385",
       "priority_score": 57,
       "categories": [
         "transfers",
@@ -541,7 +519,7 @@
         "la_liga",
         "bundesliga"
       ],
-      "processed_at": "2026-07-17T22:41:58.046296",
+      "processed_at": "2026-07-17T23:45:08.101132",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -555,14 +533,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-17T22:39:17.035897",
+      "fetched_at": "2026-07-17T23:42:40.544804",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-07-17T22:41:57.229739",
+      "processed_at": "2026-07-17T23:45:07.323747",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok",
+      "summary": "Fenerbahçe, Gornik Zabrze maçları için kadrosunu UEFA'ya bildirdi. Yeni transferler Nathan Ake, Mason Greenwood, Vedat Muriqi ve Fransa ile Dünya Kupası'nda boy gösteren N'Golo Kante kadroda yer almadı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gornik-zabrze-maclarinin-kadrosunu-uefaya-bildirdi-yeni-transferler-yok-43243341",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5a5e4bbc416976d1ca1bcd.jpg",
+      "published": "2026-07-17T16:51:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-17T23:43:39.456656",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-17T23:45:07.452921",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -576,13 +576,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:22.886780",
+      "fetched_at": "2026-07-17T23:43:39.456873",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.395363",
+      "processed_at": "2026-07-17T23:45:07.479964",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -596,13 +596,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-17T22:40:45.957561",
+      "fetched_at": "2026-07-17T23:44:02.023691",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-17T22:41:57.571910",
+      "processed_at": "2026-07-17T23:45:07.647107",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
