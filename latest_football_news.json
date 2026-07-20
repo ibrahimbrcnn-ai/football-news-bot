@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-07-20T05:39:25.555016",
+  "timestamp": "2026-07-20T08:43:53.621777",
   "total_items": 30,
   "news": [
+    {
+      "title": "Mbappe wins race for the 2026 World Cup golden boot",
+      "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-20T08:03:37",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:38:30.172447",
+      "priority_score": 95,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-20T08:42:20.117547",
+      "title_tr": "Mbappe, 2026 Dünya Kupası'nda altın ayakkabı yarışını kazandı",
+      "summary_tr": "Kylian Mbappe'nin liderliğini yaptığı 2026 Dünya Kupası altın ayakkabı yarışının tüm golleri Lionel Messi, Jude Bellingham ve Erling Haaland'dan geliyor."
+    },
     {
       "title": "Beşiktaş'ta Mohamed Salah sonrası sıradaki hedef Virgil Van Dijk!",
       "summary": "Mohamed Salah transferini menajer engeline rağmen bitirmeyi amaçlayan Beşiktaş'ta, Mısırlı yıldızın Liverpool'dan takım arkadaşı olan Virgil Van Dijk için de düğmeye basıldı. İşte detaylar...",
@@ -12,37 +32,58 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:36:42.434150",
+      "fetched_at": "2026-07-20T08:40:40.204956",
       "priority_score": 91,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-20T05:38:17.510992",
+      "processed_at": "2026-07-20T08:42:20.435983",
       "title_tr": "Beşiktaş'ta Mohamed Salah sonrası sıradaki hedef Virgil Van Dijk!",
       "summary_tr": "Mohamed Salah transferini menajer engeline rağmen bitirmeyi amaçlayan Beşiktaş'ta, Mısırlı yıldızın Liverpool'dan takım arkadaşı olan Virgil Van Dijk için de düğmeye basıldı. İşte detaylar..."
     },
     {
-      "title": "Christ Oulai resmen Fiorentina'da!",
-      "summary": "Trabzonspor, Christ Oulai'nin 26+4 milyon Euro bonservis bedeli ve sonraki satıştan %10 payla Fiorentina'ya transfer olduğunu açıkladı.",
-      "url": "https://www.haberturk.com/son-dakika-christ-oulai-resmen-fiorentina-da-3899560-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/19/ver1784488703/3899560/jpg/1280x1280",
-      "published": "2026-07-19T20:22:48",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Galatasaray, Can Uzun transferinde teklifini arttırdı",
+      "summary": "Mauro Icardi’nin ayrılığının ardından hücum hattını güçlendirmek isteyen Galatasaray, 10 numara transferi için harekete geçti. Sarı-kırmızılı yönetim, çok yönlü yetenekleriyle dikkat çeken milli yıldız Can Uzun için teklifini yükseltti.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-can-uzun-transferinde-teklifini-arttirdi-3444632",
+      "image_url": null,
+      "published": "2026-07-20T10:16:10",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:36:32.204131",
-      "priority_score": 78,
+      "fetched_at": "2026-07-20T08:41:02.704921",
+      "priority_score": 91,
       "categories": [
-        "transfers"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-07-20T05:38:17.468373",
-      "title_tr": "Christ Oulai resmen Fiorentina'da!",
-      "summary_tr": "Trabzonspor, Christ Oulai'nin 26+4 milyon Euro bonservis bedeli ve sonraki satıştan %10 payla Fiorentina'ya transfer olduğunu açıkladı."
+      "processed_at": "2026-07-20T08:42:20.632278",
+      "title_tr": "Galatasaray, Can Uzun transferinde teklifini arttırdı",
+      "summary_tr": "Mauro Icardi’nin ayrılığının ardından hücum hattını güçlendirmek isteyen Galatasaray, 10 numara transferi için harekete geçti. Sarı-kırmızılı yönetim, çok yönlü yetenekleriyle dikkat çeken milli yıldız Can Uzun için teklifini yükseltti."
     },
     {
-      "title": "Mbappe first to win Golden Boot twice as Rodri named World Cup's best player",
+      "title": "Galatasaray'da gündem 10 numara transferi! Okan Buruk bizzat görüşecek",
+      "summary": "10 numara transferinde ses getirecek bir operasyona imza atmak isteyen Galatasaray, gözünü kararttı. Teknik direktör Okan Buruk’un dünyaca ünlü isimle bizzat görüşeceği öğrenildi. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-gundem-10-numara-transferi-okan-buruk-bizzat-gorusecek-43245279",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5db59ebc416976d1ca24fa.jpg",
+      "published": "2026-07-20T05:44:03",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:40:40.204739",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-20T08:42:20.400219",
+      "title_tr": "Galatasaray'da gündem 10 numara transferi! Okan Buruk bizzat görüşecek",
+      "summary_tr": "10 numara transferinde ses getirecek bir operasyona imza atmak isteyen Galatasaray, gözünü kararttı. Teknik direktör Okan Buruk’un dünyaca ünlü isimle bizzat görüşeceği öğrenildi. İşte detaylar..."
+    },
+    {
+      "title": "Mbappe first to win Golden Boot twice as Rodri named best player",
       "summary": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best player.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
@@ -51,74 +92,57 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-20T05:34:42.478301",
+      "fetched_at": "2026-07-20T08:38:30.171133",
       "priority_score": 75,
       "categories": [
         "match_results",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.276906",
-      "title_tr": "Rodri Dünya Kupası'nın en iyi oyuncusu seçilirken, Mbappe iki kez Altın Ayakkabı'yı kazanan ilk isim oldu",
+      "processed_at": "2026-07-20T08:42:20.109978",
+      "title_tr": "Rodri en iyi oyuncu seçilirken, Mbappe iki kez Altın Ayakkabı kazanan ilk oyuncu oldu",
       "summary_tr": "Kylian Mbappe, 2026 turnuvasında en golcü oyuncu ödülünü kazandıktan sonra Dünya Kupası Altın Ayakkabı ödülünü iki kez kazanan ilk oyuncu olurken, İspanyol Rodri de en iyi oyuncu olarak Altın Top'u aldı."
     },
     {
-      "title": "Oulai rekor bonservisle Fiorentina'da: Trabzonspor'un '61' detayı dikkat çekti",
-      "summary": "Trabzonspor, yaz transfer döneminin en önemli satışlarından birini resmileştirdi. Bordo-mavili kulüp, Fildişi Sahilli g...",
-      "url": "https://www.yenisafak.com/spor/oulai-rekor-bonservisle-fiorentinada-trabzonsporun-61-detayi-dikkat-cekti-4841523",
-      "image_url": "https://image.piri.net/piri/upload/3/2026/7/19/6beeb2b7-oulai-rekor-bonservisle-fiorentinada-trabzonsporun-61-detayi-dikkat-cekti.webp",
-      "published": "2026-07-19T22:16:53",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "title": "Harry Kane, Johan Manzambi and Deniz Undav lead Bundesliga goalscorers at FIFA World Cup 2026",
+      "summary": "Harry Kane, Deniz Undav, Johan Manzambi, Luis Díaz and Malik Tillman are among the 16 Bundesliga-based players to have scored a goal at the FIFA World Cup 2026. Get a full breakdown of all the scorers and how they got their goals here...",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/goalscorers-2026-world-cup-kane-diaz-olise-musiala-undav-reyna-37883",
+      "image_url": null,
+      "published": "2026-07-20T04:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:33.320619",
-      "priority_score": 72,
+      "fetched_at": "2026-07-20T08:39:35.573911",
+      "priority_score": 66,
       "categories": [
-        "transfers"
+        "match_results",
+        "bundesliga",
+        "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:18.049816",
-      "title_tr": "Oulai rekor bonservisle Fiorentina'da: Trabzonspor'un '61' detayı dikkat çekti",
-      "summary_tr": "Trabzonspor, yaz transfer döneminin en önemli satışlarından birini resmileştirdi. Bordo-mavili kulüp, Fildişi Sahilli g..."
+      "processed_at": "2026-07-20T08:42:20.246717",
+      "title_tr": "Harry Kane, Johan Manzambi ve Deniz Undav, 2026 FIFA Dünya Kupası'nda Bundesliga'nın golcülerine liderlik ediyor",
+      "summary_tr": "Harry Kane, Deniz Undav, Johan Manzambi, Luis Díaz ve Malik Tillman, 2026 FIFA Dünya Kupası'nda gol atan 16 Bundesliga oyuncusu arasında yer alıyor. Tüm golcülerin tam dökümünü ve gollerine nasıl ulaştıklarını buradan öğrenin..."
     },
     {
-      "title": "Bay Bridge's full brother set for first start at Windsor",
-      "summary": "All eyes will be on Windsor at 6.50pm when Bay Bridge's brother Castlemont makes his first start in the Godolphin blue for Charlie Appleby.",
-      "url": "https://www.skysports.com/racing/news/12040/13564745/today-on-sky-sports-racing-bay-bridges-full-brother-castlemont-set-for-first-start-at-windsor",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7251848.jpg?20260517211644",
-      "published": "2026-07-20T06:00:00",
+      "title": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
+      "summary": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tournament.",
+      "url": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
+      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7302048.jpg?20260720084220",
+      "published": "2026-07-20T06:58:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-20T05:34:54.124441",
+      "fetched_at": "2026-07-20T08:38:43.212917",
       "priority_score": 61,
       "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-07-20T05:38:17.287064",
-      "title_tr": "Bay Bridge'in öz kardeşi Windsor'da ilk starta hazır",
-      "summary_tr": "Bay Bridge'in kardeşi Castlemont, Charlie Appleby için Godolphin mavisinde ilk startını yaptığında tüm gözler saat 18.50'de Windsor'da olacak."
-    },
-    {
-      "title": "İspanya'nın Dünya Kupası zaferi sonrasında övgü yağdı: 'Messi’yi neredeyse hiç göremedik, Arjantin’in oynayabilmesi için ikinci bir top gerekiyordu adeta!'",
-      "summary": "2026 Dünya Kupası finalinde Arjantin'e karşı maç boyunca oyun üstünlüğünü elinde bulunduran İspanya, uzatma dakikalarında bulduğu golle kupayı tarihinde ikinci kez müzesine götürmeyi başardı. İspanya'nın dominant oyununu ve her iki takımın performanslarını Hürriyet yazarları Uğur Meleke ve Güntekin ",
-      "url": "https://www.hurriyet.com.tr/sporarena/ispanyanin-dunya-kupasi-zaferi-sonrasinda-ovgu-yagdi-messiyi-neredeyse-hic-goremedik-arjantinin-oynayabilmesi-icin-ikinci-43245252",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5da71bbc416976d1ca24b1.jpg",
-      "published": "2026-07-20T04:42:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:36:42.433988",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
+        "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.496805",
-      "title_tr": "İspanya'nın Dünya Kupası zaferi sonrasında övgü yağdı: 'Messi’yi neredeyse hiç göremedik, Arjantin’in oynayabilmesi için ikinci bir top gerekiyordu adeta!'",
-      "summary_tr": "2026 Dünya Kupası finalinde Arjantin'e karşı maç boyunca oyun üstünlüğünü elinde bulunduran İspanya, uzatma dakikalarında bulduğu golle kupayı tarihinde ikinci kez müzesine götürmeyi başardı. İspanya'nın dominant oyununu ve her iki takımın performanslarını Hürriyet yazarları Uğur Meleke ve Güntekin"
+      "processed_at": "2026-07-20T08:42:20.126387",
+      "title_tr": "Karar: İspanya ikinci Dünya Kupası'nı kazanırken Messi için 'peri masalı finali' yok",
+      "summary_tr": "Sky Sports futbol muhabiri Rob Dorsett, İspanya'nın Dünya Kupası finalinde Arjantin'e karşı kazandığı zaferi ve ayrıca turnuva tarihindeki ilk devre gösterisini analiz ediyor."
     },
     {
       "title": "Patience beats overreliance on Messi: how the final was won and lost",
@@ -130,115 +154,209 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-20T05:35:19.234033",
+      "fetched_at": "2026-07-20T08:39:07.244926",
       "priority_score": 58,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-07-20T05:38:17.372961",
+      "processed_at": "2026-07-20T08:42:20.206238",
       "title_tr": "Sabır, Messi'ye aşırı güvenmeyi yendi: Final nasıl kazanıldı ve kaybedildi",
       "summary_tr": "Arjantin gösteriyi öldürmeye ve fiziksel bir mücadeleye dönüştürmeye çalıştı ama İspanya yemi yutmayı reddetti ve geçmeye devam etti Ilık bir ilk yarı sona yaklaşırken endişe verici bir düşünce: Devre arası şovu futboldan daha iyi olacak mıydı? Bu bir zorluktu. Arjantin, İspanya'nın pozisyonuna yetişemedi"
     },
     {
-      "title": "İspanya - Arjantin Maçı Kaç Kaç Bitti? Kupayı Kim Kazandı? Dünya Kupası Şampiyonu Kim Oldu?",
-      "summary": "İspanya ile Arjantin 19 Temmuz 2026 Pazar günü karşı karşıya geldi. 48 takımın karşı karşıya geldiği ve finale iki takımın kaldığı 2026 Dünya Kupası finalinde bu akşam İspanya ile Arjantin kozlarını paylaştı. Futbolseverler \"İspanya – Arjantin Dünya Kupası maç sonucu ne oldu?\" sorusunun yanıtını sor",
-      "url": "https://www.cnnturk.com/spor/futbol/ispanya-arjantin-final-maci-canli-izle-ispanya-arjantin-final-maci-nereden-ve-nasil-izlenir-ispanya-arjantin-final-maci-ne-zaman-3444406",
-      "image_url": null,
-      "published": "2026-07-20T01:07:06",
-      "source": "CNN Türk Spor",
+      "title": "Bay Bridge's full brother set for first start at Windsor",
+      "summary": "All eyes will be on Windsor at 6.50pm when Bay Bridge's brother Castlemont makes his first start in the Godolphin blue for Charlie Appleby.",
+      "url": "https://www.skysports.com/racing/news/12040/13564745/today-on-sky-sports-racing-bay-bridges-full-brother-castlemont-set-for-first-start-at-windsor",
+      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7251848.jpg?20260517211644",
+      "published": "2026-07-20T06:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:06.632072",
-      "priority_score": 56,
+      "fetched_at": "2026-07-20T08:38:43.212757",
+      "priority_score": 51,
       "categories": [
-        "match_results",
-        "world_cup"
+        "breaking_news"
       ],
-      "processed_at": "2026-07-20T05:38:17.726026",
-      "title_tr": "İspanya - Arjantin Maçı Kaç Kaç Bitti? Kupayı Kim Kazandı? Dünya Kupası Şampiyonu Kim Oldu?",
-      "summary_tr": "İspanya ile Arjantin 19 Temmuz 2026 Pazar günü karşı karşıya geldi. 48 takımın karşı karşıya geldiği ve finale iki takımın kaldığı 2026 Dünya Kupası finalinde bu akşam İspanya ile Arjantin kozlarını paylaştı. Futbolseverler \"İspanya – Arjantin Dünya Kupası maç sonucu ne oldu?\" sorusunun yanıtını sor"
+      "processed_at": "2026-07-20T08:42:20.122076",
+      "title_tr": "Bay Bridge'in öz kardeşi Windsor'da ilk starta hazır",
+      "summary_tr": "Bay Bridge'in kardeşi Castlemont, Charlie Appleby için Godolphin mavisinde ilk startını yaptığında tüm gözler saat 18.50'de Windsor'da olacak."
     },
     {
-      "title": "Sixteen titles in five years - why Spain are a dominant force",
-      "summary": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
+      "title": "All the new Bundesliga jerseys for the 2026/27 season",
+      "summary": "Bayern Munich and Borussia Dortmund are among the Bundesliga clubs to release their jerseys for the 2026/27 season. Stay ahead of every new kit drop and find out how to grab yours...",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/new-jerseys-home-away-2026-27-season-bayern-munich-borussia-dortmund-buy-online-37262",
       "image_url": null,
-      "published": "2026-07-20T01:19:50",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-07-20T08:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-20T05:34:42.477463",
-      "priority_score": 55,
+      "fetched_at": "2026-07-20T08:39:35.572835",
+      "priority_score": 51,
       "categories": [
-        "breaking_news",
-        "world_cup"
+        "bundesliga"
       ],
-      "processed_at": "2026-07-20T05:38:17.274468",
-      "title_tr": "Beş yılda on altı şampiyonluk: İspanya neden baskın bir güç?",
-      "summary_tr": "Erkeklerde ve kadınlarda aynı anda Dünya Kupası şampiyonu olan ilk ülke olan İspanya'nın üstünlüğünün arkasında ne olduğuna bakıyoruz."
+      "processed_at": "2026-07-20T08:42:20.238990",
+      "title_tr": "2026/27 sezonunun tüm yeni Bundesliga formaları",
+      "summary_tr": "Bayern Münih ve Borussia Dortmund, 2026/27 sezonu için formalarını çıkaracak Bundesliga kulüpleri arasında yer alıyor. Düşen her yeni kitten bir adım önde olun ve kendinizinkini nasıl alacağınızı öğrenin..."
     },
     {
-      "title": "Lionel Messi, madalya töreninin ardından gözyaşlarını tutamadı",
-      "summary": "New York New Jersey Stadı’nda oynanan 2026 FIFA Dünya Kupası finalinde Arjantin, İspanya’ya uzatmalarda 1-0 mağlup olarak kupayı koruyamadı. Karşılaşmanın en duygusal anları ise maç bitiş düdüğünün ardından yaşandı. 39 yaşındaki Lionel Messi, saha içinde çimlerin üzerine oturup gözyaşlarına hakim ol",
-      "url": "https://www.cnnturk.com/spor/dunya-kupasi/lionel-messi-madalya-toreninin-ardindan-gozyaslarini-tutamadi-3444587",
-      "image_url": null,
-      "published": "2026-07-20T07:40:00",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "Spaanse rondo wint van Argentijns geweld: 'Messi zat in Rodri-gevangenis'",
+      "summary": "Kenner buitenlands voetbal Süleyman Öztürk en Sjoerd Keizer blikken in deze VI ZSM terug op de WK-finale tussen Spanje en Argentinië. De mannen zoomen in op Rodri, Messi, de rondo van Spanje en de knokploeg Argentinië. Daarnaast gaat het ook over wie de speler van het toernooi is én een felbegeerde ",
+      "url": "https://www.vi.nl/video/spaanse-rondo-wint-van-argentijns-geweld-messi-zat-in-rodri-gevangenis",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-07-20t102527-spaanse-rondo-wint-van-argentijns-geweld-messi-zat-in-rodri-gevangenis.jpg?width=1200",
+      "published": "2026-07-20T08:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:06.631505",
-      "priority_score": 46,
+      "fetched_at": "2026-07-20T08:42:15.643000",
+      "priority_score": 42,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-07-20T08:42:20.878959",
+      "title_tr": "Arjantin'deki şiddete karşı İspanyol Rondo kazandı: 'Messi Rodri hapishanesindeydi'",
+      "summary_tr": "Bu VI ZSM'de yabancı futbol uzmanı Süleyman Öztürk ve Sjoerd Keizer, İspanya ile Arjantin arasındaki Dünya Kupası finaline bakıyor. Adamlar Rodri'ye, Messi'ye, İspanya'nın Rondo'suna ve Arjantin takımına odaklanıyor. Ayrıca turnuvanın oyuncusunun kim olduğu ve imrenilen oyuncuyla da ilgili."
+    },
+    {
+      "title": "Stembussen geopend: welke speler was volgens de VI-lezer de ster van het WK?",
+      "summary": "Nu het WK 2026 erop zit, is het tijd om de balans op te maken. De FIFA verkoos Rodri tot beste speler van het toernooi, maar wij zijn vooral benieuwd wie volgens de VI-lezers de allerbeste was. De uitblinkende Lionel Messi, topscorer Kylian Mbappé, of toch gewoon Rodri?",
+      "url": "https://www.vi.nl/nieuws/stembussen-geopend-welke-speler-was-volgens-de-vi-lezer-de-ster-van-het-wk",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/20/0d60ee0c61b4ab4e9cf22d276a0f41e4a2a46afc.jpg?width=1200",
+      "published": "2026-07-20T08:15:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:42:15.643141",
+      "priority_score": 42,
       "categories": [
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.697156",
-      "title_tr": "Lionel Messi, madalya töreninin ardından gözyaşlarını tutamadı",
-      "summary_tr": "New York New Jersey Stadı’nda oynanan 2026 FIFA Dünya Kupası finalinde Arjantin, İspanya’ya uzatmalarda 1-0 mağlup olarak kupayı koruyamadı. Karşılaşmanın en duygusal anları ise maç bitiş düdüğünün ardından yaşandı. 39 yaşındaki Lionel Messi, saha içinde çimlerin üzerine oturup gözyaşlarına hakim ol"
+      "processed_at": "2026-07-20T08:42:20.906970",
+      "title_tr": "Oy sandıkları açıldı: VI okuyucusuna göre Dünya Kupası'nın yıldızı hangi oyuncuydu?",
+      "summary_tr": "2026 Dünya Kupası bittiğine göre artık değerlendirme yapma zamanı geldi. FIFA, Rodri'yi turnuvanın en iyi oyuncusu seçti, ancak özellikle VI okuyucularının kimin en iyi oyuncu olduğunu düşündüğünü merak ediyoruz. Olağanüstü Lionel Messi, gol kralı Kylian Mbappé mi yoksa sadece Rodri mi?"
     },
     {
       "title": "Arsenal line up Stones free transfer - Monday's gossip",
       "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-07-19T20:48:37",
+      "published": "2026-07-20T05:59:22",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-20T05:34:42.478490",
-      "priority_score": 70,
+      "fetched_at": "2026-07-20T08:38:30.171311",
+      "priority_score": 75,
       "categories": [
         "transfers",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-07-20T05:38:17.277699",
+      "processed_at": "2026-07-20T08:42:20.110702",
       "title_tr": "Arsenal, Stones'un bedelsiz transferini ayarladı - Pazartesi günkü dedikodu",
       "summary_tr": "Arsenal, sakatlanan William Saliba'nın yerine John Stones'u geçirmeyi değerlendiriyor, Chelsea, Maxence Lacroix ve daha fazlası için resmi görüşmelerde bulunuyor."
     },
     {
-      "title": "Galatasaray'da şaşırtan ayrılık yolda! Transferiyle büyük ses getirmişti",
-      "summary": "Son dakika Galatasaray transfer haberleri: Yeni sezon öncesi kadrosunu güçlendirmek için çalışmalarını sürdüren Galatasaray ile ilgili flaş bir iddia ortaya atıldı. Portekiz basını, sarı-kırmızılı takıma...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/19/galatasarayda-sasirtan-ayrilik-yolda-transferiyle-buyuk-ses-getirmisti",
-      "image_url": "https://iaftm.tmgrup.com.tr/beceaa/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/07/19/galatasarayda-sasirtan-ayrilik-yolda-transferiyle-buyuk-ses-getirmisti-1784466082088.jpeg",
-      "published": "2026-07-19T22:32:59",
-      "source": "Fotomac",
-      "source_priority": 7,
+      "title": "Maliyetleri dudak uçuklattı!",
+      "summary": "Galatasaray, önümüzdeki sezon hem ligde hem de Avrupa'da mutlak başarı hedefiyle transfer pazarını sallamaya hazırlanıyor. Ancak sarı-kırmızılı yönetimin listesindeki dünya yıldızlarının maliyetleri adeta dudak uçuklatıyor.",
+      "url": "https://www.haberturk.com/galatasaray-in-istedigi-oyuncularin-maliyetleri-dudak-ucuklatti-3899651-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/20/ver1784535231/3899651/jpg/1280x1280",
+      "published": "2026-07-20T08:14:01",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.881188",
-      "priority_score": 69,
+      "fetched_at": "2026-07-20T08:40:28.898250",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-07-20T05:38:18.018668",
-      "title_tr": "Galatasaray'da şaşırtan ayrılık yolda! Transferiyle büyük ses getirmişti",
-      "summary_tr": "Son dakika Galatasaray transfer haberleri: Yeni sezon öncesi kadrosunu güçlendirmek için çalışmalarını sürdüren Galatasaray ile ilgili flaş bir iddia ortaya atıldı. Portekiz basını, sarı-kırmızılı takıma...Devamı için tıklayınız"
+      "processed_at": "2026-07-20T08:42:20.267473",
+      "title_tr": "Maliyetleri dudak uçuklattı!",
+      "summary_tr": "Galatasaray, önümüzdeki sezon hem ligde hem de Avrupa'da mutlak başarı hedefiyle transfer pazarını sallamaya hazırlanıyor. Ancak sarı-kırmızılı yönetimin listesindeki dünya yıldızlarının maliyetleri adeta dudak uçuklatıyor."
+    },
+    {
+      "title": "Oulai rekor bonservisle Fiorentina'da: Trabzonspor'un '61' detayı dikkat çekti",
+      "summary": "Trabzonspor, yaz transfer döneminin en önemli satışlarından birini resmileştirdi. Bordo-mavili kulüp, Fildişi Sahilli g...",
+      "url": "https://www.yenisafak.com/spor/oulai-rekor-bonservisle-fiorentinada-trabzonsporun-61-detayi-dikkat-cekti-4841523",
+      "image_url": "https://image.piri.net/piri/upload/3/2026/7/19/6beeb2b7-oulai-rekor-bonservisle-fiorentinada-trabzonsporun-61-detayi-dikkat-cekti.webp",
+      "published": "2026-07-19T22:16:53",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:41:31.769280",
+      "priority_score": 72,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-20T08:42:20.771709",
+      "title_tr": "Oulai rekor bonservisle Fiorentina'da: Trabzonspor'un '61' detayı dikkat çekti",
+      "summary_tr": "Trabzonspor, yaz transfer döneminin en önemli satışlarından birini resmileştirdi. Bordo-mavili kulüp, Fildişi Sahilli g..."
+    },
+    {
+      "title": "İspanya - Arjantin Maçı Kaç Kaç Bitti? Kupayı Kim Kazandı? Dünya Kupası Şampiyonu Kim Oldu?",
+      "summary": "İspanya ile Arjantin 19 Temmuz 2026 Pazar günü karşı karşıya geldi. 48 takımın karşı karşıya geldiği ve finale iki takımın kaldığı 2026 Dünya Kupası finalinde bu akşam İspanya ile Arjantin kozlarını paylaştı. Futbolseverler \"İspanya – Arjantin Dünya Kupası maç sonucu ne oldu?\" sorusunun yanıtını sor",
+      "url": "https://www.cnnturk.com/spor/futbol/ispanya-arjantin-final-maci-canli-izle-ispanya-arjantin-final-maci-nereden-ve-nasil-izlenir-ispanya-arjantin-final-maci-ne-zaman-3444406",
+      "image_url": null,
+      "published": "2026-07-20T09:14:20",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:41:02.705453",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-20T08:42:20.673469",
+      "title_tr": "İspanya - Arjantin Maçı Kaç Kaç Bitti? Kupayı Kim Kazandı? Dünya Kupası Şampiyonu Kim Oldu?",
+      "summary_tr": "İspanya ile Arjantin 19 Temmuz 2026 Pazar günü karşı karşıya geldi. 48 takımın karşı karşıya geldiği ve finale iki takımın kaldığı 2026 Dünya Kupası finalinde bu akşam İspanya ile Arjantin kozlarını paylaştı. Futbolseverler \"İspanya – Arjantin Dünya Kupası maç sonucu ne oldu?\" sorusunun yanıtını sor"
+    },
+    {
+      "title": "Miljoenentransfer: Panathinaikos presenteert Van Drongelen",
+      "summary": "Rick van Drongelen maakt de overstap van Samsunspor naar Panathinaikos. De Nederlander (27) heeft een vierjarig contract bij de Griekse topclub getekend.",
+      "url": "https://www.vi.nl/nieuws/miljoenentransfer-van-drongelen-van-samsunspor-naar-panathinaikos",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/18/78b66e827f2dac9428289cbcc9543c508984aa22.jpg?width=1200",
+      "published": "2026-07-20T07:07:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:42:15.643499",
+      "priority_score": 62,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-20T08:42:20.972884",
+      "title_tr": "Milyon dolarlık transfer: Panathinaikos, Van Drongelen'i takdim etti",
+      "summary_tr": "Rick van Drongelen, Samsunspor'dan Panathinaikos'a transfer oldu. Hollandalı oyuncu (27), Yunanistan'ın üst düzey kulübüyle 4 yıllık sözleşme imzaladı."
+    },
+    {
+      "title": "Top 30: from half a million World Cup photos, why I love these the most",
+      "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling scene in GazaWhat makes a great World Cup photograph? Now there’s a question with myriad answers. Composition, newsworthiness, emot",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery",
+      "image_url": null,
+      "published": "2026-07-20T07:00:49",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:39:07.243787",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-20T08:42:20.191303",
+      "title_tr": "İlk 30: Yarım milyon Dünya Kupası fotoğrafından en çok bunları neden seviyorum?",
+      "summary_tr": "Resim editörümüz, aralarında Lionel Messi'nin katedrali, Jude Bellingham'ın o lezzetli dalış başlığı ve Gazze'deki mütevazı bir sahnenin de bulunduğu turnuvadan en sevdiği fotoğrafları seçiyor. Bir Dünya Kupası fotoğrafını harika yapan şey nedir? Şimdi sayısız cevabı olan bir soru var. Kompozisyon, haber değeri, duygu"
     },
     {
       "title": "Justin Lerma: Who is Borussia Dortmund's latest exciting youngster?",
@@ -250,78 +368,59 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-20T05:35:44.000774",
+      "fetched_at": "2026-07-20T08:39:35.575844",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-07-20T05:38:17.422941",
+      "processed_at": "2026-07-20T08:42:20.264232",
       "title_tr": "Justin Lerma: Borussia Dortmund'un son heyecan verici genci kim?",
       "summary_tr": "Justin Lerma bu yaz Independiente del Valle'den Borussia Dortmund'a katıldı. Yeni kulübünde şimdiden etkileyici olmaya başlayan Ekvadorlu genç hakkında bilmeniz gereken her şeyi öğrenin..."
     },
     {
-      "title": "TRANSFER | Christ Oulai, Trabzonspor’dan ayrıldı! Fiorentina…",
-      "summary": "Fiorentina, Trabzonspor’dan Christ Oulai’yi kadrosuna kattı.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-christ-oulai-trabzonspordan-ayrildi-fiorentina-3444567",
+      "title": "Stay or go - at 28, Rashford faces big Man Utd call",
+      "summary": "The World Cup is over, and Marcus Rashford returns home not knowing if his future at club level lies with Manchester United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-07-19T23:10:05",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "published": "2026-07-20T08:26:36",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:06.632948",
-      "priority_score": 56,
+      "fetched_at": "2026-07-20T08:38:30.170519",
+      "priority_score": 55,
       "categories": [
-        "transfers"
+        "premier_league",
+        "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.796435",
-      "title_tr": "TRANSFER | Christ Oulai, Trabzonspor’dan ayrıldı! Fiorentina…",
-      "summary_tr": "Fiorentina, Trabzonspor’dan Christ Oulai’yi kadrosuna kattı."
+      "processed_at": "2026-07-20T08:42:20.108124",
+      "title_tr": "Kal ya da git; 28 yaşındaki Rashford, Man Utd'dan büyük bir çağrıyla karşı karşıya",
+      "summary_tr": "Dünya Kupası sona erdi ve Marcus Rashford, kulüp düzeyindeki geleceğinin Manchester United'da olup olmadığını bilmeden evine döndü."
     },
     {
-      "title": "TRANSFER | Ahmed Kutucu, Çaykur Rizespor’da",
-      "summary": "Çaykur Rizespor, Galatasaray’dan Ahmed Kutucu’yu kiralık olarak renklerine bağladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-ahmed-kutucu-caykur-rizesporda-3444546",
-      "image_url": null,
-      "published": "2026-07-19T19:30:10",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:06.633753",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.848015",
-      "title_tr": "TRANSFER | Ahmed Kutucu, Çaykur Rizespor’da",
-      "summary_tr": "Çaykur Rizespor, Galatasaray’dan Ahmed Kutucu’yu kiralık olarak renklerine bağladı."
-    },
-    {
-      "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy",
-      "summary": "⚽ Latest World Cup news as tournament comes to close⚽ Player guide | Golden Boot | Follow on TikTok | Mail usAs Spain began to celebrate their second World Cup victory, Leandro Paredes decided to continue his game after the final whistle, making sure the ending was as sour as it possibly could be. T",
+      "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
+      "summary": "⚽ Latest World Cup news as tournament comes to close⚽ Player guide | Golden Boot | Follow on TikTok | Mail usBack to the action on the field, or rather slightly adjacent to it. A lacklustre “closing ceremony” in which Tom Cruise was drowned out by the crowd got proceedings under way in New Jersey. A",
       "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
       "image_url": null,
-      "published": "2026-07-20T05:28:22",
+      "published": "2026-07-20T08:30:52",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-20T05:35:19.230466",
+      "fetched_at": "2026-07-20T08:39:07.241886",
       "priority_score": 53,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.325544",
-      "title_tr": "2026 Dünya Kupası: İspanya'nın kupayı kazanmak için Arjantin'i mağlup etmesinden sonraki son haberler ve tepkiler",
-      "summary_tr": "⚽ Turnuva sona ererken en son Dünya Kupası haberleri⚽ Oyuncu rehberi | Altın Çizme | TikTok'ta takip edin | Bize mail atın İspanya ikinci Dünya Kupası zaferini kutlamaya başladığında, Leandro Paredes son düdükten sonra oyununa devam etmeye karar verdi ve sonun olabildiğince kötü olmasını sağladı. T"
+      "processed_at": "2026-07-20T08:42:20.164231",
+      "title_tr": "2026 Dünya Kupası: İspanya'nın Arjantin'i yenerek kupayı kazanmasının ardından en son haberler ve tepkiler - canlı",
+      "summary_tr": "⚽ Turnuva sona ererken en son Dünya Kupası haberleri⚽ Oyuncu rehberi | Altın Çizme | TikTok'ta takip edin | Bize e-posta gönderinSahadaki eyleme geri dönün veya daha doğrusu ona biraz bitişik olun. Tom Cruise'un kalabalığın arasında boğulduğu sönük bir \"kapanış töreni\" New Jersey'de duruşmaları başlattı. A"
     },
     {
       "title": "‘It was crap’: Wayne Rooney’s candour helps BBC in World Cup final TV battle",
-      "summary": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final“I thought it was crap,” Wayne Rooney surmised on BBC after enduring the half-time show. Amid a tense final, the interval was always going to be prominent, theoretically bringing light to the shad",
+      "summary": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final“I thought it was crap,” Wayne Rooney surmised on BBC One after enduring the half-time show. Amid a tense final, the interval was always going to be prominent, theoretically bringing light to the ",
       "url": "https://www.theguardian.com/football/2026/jul/19/world-cup-2026-final-tv-review-bbc-itv-wayne-rooney",
       "image_url": null,
       "published": "2026-07-19T22:32:52",
@@ -329,16 +428,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-20T05:35:19.234704",
+      "fetched_at": "2026-07-20T08:39:07.245751",
       "priority_score": 53,
       "categories": [
         "match_results",
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.383058",
+      "processed_at": "2026-07-20T08:42:20.216344",
       "title_tr": "'Berbattı': Wayne Rooney'nin açık sözlülüğü BBC'ye Dünya Kupası finali TV mücadelesinde yardımcı oldu",
-      "summary_tr": "BBC, final için stadyumda bulunarak Dünya Kupası'nda ITV ile kafa kafaya geç bir gol attı Wayne Rooney devre arası gösterisini izledikten sonra BBC'de \"Bunun saçmalık olduğunu düşündüm\" diye tahminde bulundu. Gergin bir finalin ortasında, aralık her zaman belirgin olacak ve teorik olarak gölgeye ışık tutacaktı."
+      "summary_tr": "BBC, final için stadyumda bulunarak Dünya Kupası'nda ITV ile kafa kafaya geç bir gol attı Wayne Rooney devre arası gösterisini izledikten sonra BBC One'da \"Bunun saçmalık olduğunu düşündüm\" diye tahminde bulundu. Gergin bir finalin ortasında, aralık her zaman öne çıkacak ve teorik olarak konuya ışık tutacaktı."
     },
     {
       "title": "Dünyanın en büyüğü İspanya!",
@@ -350,35 +449,74 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:36:32.203615",
+      "fetched_at": "2026-07-20T08:40:28.899027",
       "priority_score": 53,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.441022",
+      "processed_at": "2026-07-20T08:42:20.307957",
       "title_tr": "Dünyanın en büyüğü İspanya!",
       "summary_tr": "İspanya - Arjantin maçının dakika dakika özeti HT SPOR'da... 2026 Dünya Kupası finali nefesleri kesti, kazanan ise uzatmalar sonucu İspanya oldu! Normal süresi 0-0 biten mücadeleyi Matadorlar, Ferran Torres'in golüyle 1-0 kazandı ve 16 yıl sonra Dünya Kupası'nı bir kez daha müzesine götürdü!"
     },
     {
-      "title": "Lionel Messi, krallık yarışında Kylian Mbappe’ye geçildi",
-      "summary": "Kylian Mbappe, Dünya Kupası’nda gol krallığında Lionel Messi’yi geride bıraktı.",
-      "url": "https://www.cnnturk.com/spor/dunya-kupasi/lionel-messi-krallik-yarisinda-kylian-mbappeye-gecildi-3444582",
-      "image_url": null,
-      "published": "2026-07-20T02:06:21",
-      "source": "CNN Türk Spor",
+      "title": "İsveç ve Finlandiya liginde gollü karşılaşmalar bekleniyor! İşte Misli’den Günün Tüyoları",
+      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/isvec-ve-finlandiya-liginde-gollu-karsilasmalar-bekleniyor-iste-misliden-gunun-tuyolari-43245535",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5ddd0abc416976d1ca25bd.jpg",
+      "published": "2026-07-20T08:33:40",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:37:06.631881",
+      "fetched_at": "2026-07-20T08:40:40.204178",
+      "priority_score": 51,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-07-20T08:42:20.336776",
+      "title_tr": "İsveç ve Finlandiya liginde gollü karşılaşmalar bekleniyor! İşte Misli’den Günün Tüyoları",
+      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor."
+    },
+    {
+      "title": "İspanya'nın Dünya Kupası zaferi sonrasında övgü yağdı: 'Messi’yi neredeyse hiç göremedik, Arjantin’in oynayabilmesi için ikinci bir top gerekiyordu adeta!'",
+      "summary": "2026 Dünya Kupası finalinde Arjantin'e karşı maç boyunca oyun üstünlüğünü elinde bulunduran İspanya, uzatma dakikalarında bulduğu golle kupayı tarihinde ikinci kez müzesine götürmeyi başardı. İspanya'nın dominant oyununu ve her iki takımın performanslarını Hürriyet yazarları Uğur Meleke ve Güntekin ",
+      "url": "https://www.hurriyet.com.tr/sporarena/ispanyanin-dunya-kupasi-zaferi-sonrasinda-ovgu-yagdi-messiyi-neredeyse-hic-goremedik-arjantinin-oynayabilmesi-icin-ikinci-43245252",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5da71bbc416976d1ca24b1.jpg",
+      "published": "2026-07-20T04:42:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:40:40.204819",
       "priority_score": 51,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.712210",
-      "title_tr": "Lionel Messi, krallık yarışında Kylian Mbappe’ye geçildi",
-      "summary_tr": "Kylian Mbappe, Dünya Kupası’nda gol krallığında Lionel Messi’yi geride bıraktı."
+      "processed_at": "2026-07-20T08:42:20.419112",
+      "title_tr": "İspanya'nın Dünya Kupası zaferi sonrasında övgü yağdı: 'Messi’yi neredeyse hiç göremedik, Arjantin’in oynayabilmesi için ikinci bir top gerekiyordu adeta!'",
+      "summary_tr": "2026 Dünya Kupası finalinde Arjantin'e karşı maç boyunca oyun üstünlüğünü elinde bulunduran İspanya, uzatma dakikalarında bulduğu golle kupayı tarihinde ikinci kez müzesine götürmeyi başardı. İspanya'nın dominant oyununu ve her iki takımın performanslarını Hürriyet yazarları Uğur Meleke ve Güntekin"
+    },
+    {
+      "title": "Sixteen titles in five years - why Spain are a dominant force",
+      "summary": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-20T01:19:50",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-20T08:38:30.170954",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-07-20T08:42:20.109182",
+      "title_tr": "Beş yılda on altı şampiyonluk: İspanya neden baskın bir güç?",
+      "summary_tr": "Erkeklerde ve kadınlarda aynı anda Dünya Kupası şampiyonu olan ilk ülke olan İspanya'nın üstünlüğünün arkasında ne olduğuna bakıyoruz."
     },
     {
       "title": "Altın ayakkabı Mbappe'nin!",
@@ -390,34 +528,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:36:32.203778",
+      "fetched_at": "2026-07-20T08:40:28.899180",
       "priority_score": 48,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.447592",
+      "processed_at": "2026-07-20T08:42:20.315490",
       "title_tr": "Altın ayakkabı Mbappe'nin!",
       "summary_tr": "2026 FIFA Dünya Kupası'nın gol krallığı yarışında Lionel Messi ve Kylian Mbappe'nin rekabeti nefesleri kesti... İki yıldız en çok gol atan Miroslav Klose'yi geride bırakırken; Fransız oyuncu bu turnuvayı gol kralı olarak tamamlayarak FIFA Dünya Kupası Altın Ayakkabı ödülünün sahibi oldu."
     },
     {
-      "title": "Argentinië keert Spanje de rug toe bij prijsuitreiking, Olmo sneert",
-      "summary": "Dani Olmo veroordeelt het gedrag van Argentinië na de winst van Spanje in de WK-finale . Tijdens de prijsuitreiking besloot vrijwel de hele selectie van Argentinië met de rug naar de Spanjaarden te staan. Olmo en de Spaanse pers vinden het van weinig respect getuigen.",
-      "url": "https://www.vi.nl/nieuws/argentinie-keert-spanje-de-rug-toe-bij-prijsuitreiking-olmo-sneert",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/20/54ec405aaa1cbdfcce9d1040e973d80930bdc3a3.jpg?width=1200",
-      "published": "2026-07-20T04:59:50",
+      "title": "Amerikaanse president Trump pakt ongewenste hoofdrol bij WK-finale",
+      "summary": "Niet alleen de WK-winst van Spanje , maar ook Donald Trump zorgde zondag voor veel gespreksstof rond de finale tegen Argentinië. De Amerikaanse president werd samen met FIFA-voorzitter Gianni Infantino uitgefloten door een deel van het publiek, zag Cristian Romero demonstratief zijn hand negeren en ",
+      "url": "https://www.vi.nl/nieuws/amerikaanse-president-trump-pakt-ongewilde-hoofdrol-bij-wk-finale",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/20/9db08f0fd3be7c2a6c7e972f07acaec0183443cb.jpg?width=1200",
+      "published": "2026-07-20T08:16:29",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-20T05:38:12.896440",
+      "fetched_at": "2026-07-20T08:42:15.643365",
       "priority_score": 47,
       "categories": [
-        "match_results"
+        "match_results",
+        "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:18.140471",
-      "title_tr": "Arjantin ödül töreninde İspanya'ya sırtını döndü, Olmo alay etti",
-      "summary_tr": "Dani Olmo, Arjantin'in İspanya'nın Dünya Kupası final galibiyetinden sonraki davranışını kınıyor. Ödül töreni sırasında Arjantin kadrosunun neredeyse tamamı İspanyollara sırtını dönme kararı aldı. Olmo ve İspanyol basını bunun çok az saygı gösterdiğini düşünüyor."
+      "processed_at": "2026-07-20T08:42:20.940014",
+      "title_tr": "Amerikan Başkanı Trump, Dünya Kupası finalinde istenmeyen bir lider rol üstleniyor",
+      "summary_tr": "Sadece İspanya'nın Dünya Kupası zaferi değil, aynı zamanda Donald Trump da Pazar günü Arjantin'e karşı oynanan final hakkında birçok konuşma yaptı. Kalabalığın bir kısmı, FIFA başkanı Gianni Infantino ile birlikte Amerikan başkanına ıslık çaldı, Cristian Romero'nun meydan okurcasına elini görmezden geldiğini gördü ve"
     },
     {
       "title": "Vote for the best Bundesliga player at FIFA World Cup 2026!",
@@ -429,177 +568,35 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-20T05:35:43.999290",
+      "fetched_at": "2026-07-20T08:39:35.574637",
       "priority_score": 46,
       "categories": [
         "match_results",
         "bundesliga",
         "world_cup"
       ],
-      "processed_at": "2026-07-20T05:38:17.410885",
+      "processed_at": "2026-07-20T08:42:20.257809",
       "title_tr": "FIFA Dünya Kupası 2026'da en iyi Bundesliga oyuncusuna oy verin!",
       "summary_tr": "Harry Kane'in golleri, ipleri elinde tutan Michael Olise ve Gregor Kobel ve Johan Manzambi gibi isimlerin unutulmaz performansları, 2026 FIFA Dünya Kupası'nı aydınlattı. En büyük sahnede bu kadar çok Bundesliga yıldızı parlarken, turnuvada en sevdiğiniz oyuncu kim oldu?"
     },
     {
-      "title": "Trabzonspor açıkladı! Oulai rekor bedelle ayrıldı",
-      "summary": "Trabzonspor, Christ Oulai’nin transferi konusunda Fiorentina ile anlaşma sağlandığını açıkladı.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/07/19/son-dakika-trabzonspor-acikladi-oulai-rekor-bedelle-ayrildi",
-      "image_url": "https://iasbh.tmgrup.com.tr/af322d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/son-dakika-trabzonspor-acikladi-oulai-rekor-bedelle-ayrildi-1784487822811.jpeg",
-      "published": "2026-07-19T19:03:38",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:36:47.672664",
-      "priority_score": 46,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-20T05:38:17.671271",
-      "title_tr": "Trabzonspor açıkladı! Oulai rekor bedelle ayrıldı",
-      "summary_tr": "Trabzonspor, Christ Oulai’nin transferi konusunda Fiorentina ile anlaşma sağlandığını açıkladı.Devamı için tıklayınız"
-    },
-    {
-      "title": "Galatasaray'da rota yeniden Thiago Almada!",
-      "summary": "Kanat transferi çalışmalarını sürdüren Galatasaray'da listenin üst sıralarında Thiago Almada yer alıyor. Teknik direktör Okan Buruk'un çok istediği Arjantinli yıldız için sarı-kırmızılılar, ocak ayının...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/20/galatasarayda-rota-yeniden-thiago-almada",
-      "image_url": "https://iaftm.tmgrup.com.tr/daabfc/1200/675/0/57/2048/1209?u=https://iftm.tmgrup.com.tr/2026/07/20/galatasarayda-rota-yeniden-thiago-almada-1784499315926.jpg",
-      "published": "2026-07-19T22:15:44",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.879167",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.867106",
-      "title_tr": "Galatasaray'da rota yeniden Thiago Almada!",
-      "summary_tr": "Kanat transferi çalışmalarını sürdüren Galatasaray'da listenin üst sıralarında Thiago Almada yer alıyor. Teknik direktör Okan Buruk'un çok istediği Arjantinli yıldız için sarı-kırmızılılar, ocak ayının...Devamı için tıklayınız"
-    },
-    {
-      "title": "Fenerbahçe'den Ada'ya golcü çıkarması! 2 yıldız için resmi hamle...",
-      "summary": "Vedat Muriqi'nin yaşadığı sakatlığın ardından santrfor transferi çalışmalarını hızlandıran Fenerbahçe, aday listesini iki isme kadar daralttı. Sarı-lacivertli yönetimin, Premier Lig'de forma giyen iki...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/07/20/fenerbahceden-adaya-golcu-cikarmasi-2-yildiz-icin-resmi-hamle",
-      "image_url": "https://iaftm.tmgrup.com.tr/29b0b4/1200/675/0/0/2048/1151?u=https://iftm.tmgrup.com.tr/2026/07/19/fenerbahceden-adaya-golcu-cikarmasi-2-yildiz-icin-resmi-hamle-1784492321654.jpg",
-      "published": "2026-07-19T20:19:35",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.879327",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.879681",
-      "title_tr": "Fenerbahçe'den Ada'ya golcü çıkarması! 2 yıldız için resmi hamle...",
-      "summary_tr": "Vedat Muriqi'nin yaşadığı sakatlığın ardından santrfor transferi çalışmalarını hızlandıran Fenerbahçe, aday listesini iki isme kadar daralttı. Sarı-lacivertli yönetimin, Premier Lig'de forma giyen iki...Devamı için tıklayınız"
-    },
-    {
-      "title": "Galatasaray'a Rafael Leao transferinde dev müjde!",
-      "summary": "Süper Lig devlerinden Galatasaray'da flaş gelişmeler yaşanmaya devam ediyor. Cimbom'a son olarak transfer gündeminde yer alan Rafael Leao'dan müjdeli haber geldi. İşte haberin tüm detayları...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/20/leao-israri",
-      "image_url": "https://iaftm.tmgrup.com.tr/65ebbf/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/19/galatasaraya-rafael-leao-transferinde-dev-mujde-1784489885087.jpg",
-      "published": "2026-07-19T18:14:41",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.879483",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.890082",
-      "title_tr": "Galatasaray'a Rafael Leao transferinde dev müjde!",
-      "summary_tr": "Süper Lig devlerinden Galatasaray'da flaş gelişmeler yaşanmaya devam ediyor. Cimbom'a son olarak transfer gündeminde yer alan Rafael Leao'dan müjdeli haber geldi. İşte haberin tüm detayları...Devamı için tıklayınız"
-    },
-    {
-      "title": "Galatasaray transferi böyle bitirecek! Cole Palmer ve Bruno Fernandes...",
-      "summary": "Galatasaray, dünyaca ünlü orta saha Bruno Fernandes'i kadrosuna katmak için girişimlere hazırlanıyor. Manchester United'ın transfer planlaması sonrası geleceği belirsizleşen Portekizli yıldız için sarı-kırmızılıların...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/20/galatasaray-transferi-boyle-bitirecek-cole-palmer-ve-bruno-fernandes",
-      "image_url": "https://iaftm.tmgrup.com.tr/f4fc8c/1200/675/0/123/1500/966?u=https://iftm.tmgrup.com.tr/2026/07/20/galatasaray-transferi-boyle-bitirecek-cole-palmer-ve-bruno-fernandes-1784499910332.jpg",
-      "published": "2026-07-19T22:25:55",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.879818",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.904659",
-      "title_tr": "Galatasaray transferi böyle bitirecek! Cole Palmer ve Bruno Fernandes...",
-      "summary_tr": "Galatasaray, dünyaca ünlü orta saha Bruno Fernandes'i kadrosuna katmak için girişimlere hazırlanıyor. Manchester United'ın transfer planlaması sonrası geleceği belirsizleşen Portekizli yıldız için sarı-kırmızılıların...Devamı için tıklayınız"
-    },
-    {
-      "title": "Galatasaray'da Ponomarenko'nun transferi için flaş karar!",
-      "summary": "Galatasaray'da transfer gündeminde yer alan Matviy Ponomarenko ile ilgili sıcak gelişmeler yaşanıyor. Son olarak yönetimden Ukraynalı yıldız hakkında flaş bir karar geldi. İşte haberin detayları...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/20/ponomarenko-formulu",
-      "image_url": "https://iaftm.tmgrup.com.tr/24e324/1200/675/0/12/800/462?u=https://iftm.tmgrup.com.tr/2026/07/19/galatasarayda-ponomarenkonun-transferi-icin-flas-karar-1784491776557.jpg",
-      "published": "2026-07-19T18:22:31",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:37:15.880128",
-      "priority_score": 44,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-20T05:38:17.931869",
-      "title_tr": "Galatasaray'da Ponomarenko'nun transferi için flaş karar!",
-      "summary_tr": "Galatasaray'da transfer gündeminde yer alan Matviy Ponomarenko ile ilgili sıcak gelişmeler yaşanıyor. Son olarak yönetimden Ukraynalı yıldız hakkında flaş bir karar geldi. İşte haberin detayları...Devamı için tıklayınız"
-    },
-    {
-      "title": "Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
-      "summary": "Fifa deal with prediction market company under fireBalogun reprieve showed ‘rules bend under pressure’Fifa has been accused of providing an “open door to fraud” and allowing political influence to cast doubt on the integrity of the World Cup in a stinging rebuke by the Council of Europe’s secretary ",
-      "url": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup",
-      "image_url": null,
-      "published": "2026-07-19T09:00:22",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-07-20T05:35:19.233238",
-      "priority_score": 43,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-07-20T05:38:17.361920",
-      "title_tr": "Avrupa Konseyi başkanı, FIFA'nın bahis yoluyla dolandırıcılığa 'açık kapı' verdiğini söyledi",
-      "summary_tr": "Fifa'nın tahmin piyasası şirketiyle anlaşması ateş altındaBalogun ertelemesi, kuralların baskı altında esnediğini gösterdiFifa, Avrupa Konseyi sekreteri tarafından sert bir şekilde kınanarak, \"dolandırıcılığa açık bir kapı\" sağlamak ve siyasi nüfuzun Dünya Kupası'nın bütünlüğü konusunda şüphe yaratmasına izin vermekle suçlandı"
-    },
-    {
-      "title": "Beşiktaş'ta Tayyip Talha Sanuç Rizespor'a transfer oldu!",
-      "summary": "Beşiktaş, Tayyip Talha Sanuç'un Çaykur Rizespor'a transfer olduğunu duyurdu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktasta-tayyip-talha-sanuc-rizespora-transfer-oldu-43244902",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cc9ef1703371280700eca.jpg",
-      "published": "2026-07-19T12:49:00",
+      "title": "Mauro Icardi için Meksika iddiası! İki kulüp devrede",
+      "summary": "4 yıllık Galatasaray macerası sona eren Mauro Icardi’ye Meksika’dan iki kulübün talip olduğu öne sürüldü.",
+      "url": "https://www.hurriyet.com.tr/sporarena/mauro-icardi-icin-meksika-iddiasi-iki-kulup-devrede-43245318",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5dc42017033712807012c7.jpg",
+      "published": "2026-07-20T06:47:24",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-20T05:36:42.435009",
+      "fetched_at": "2026-07-20T08:40:40.204636",
       "priority_score": 41,
       "categories": [
-        "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-20T05:38:17.596960",
-      "title_tr": "Beşiktaş'ta Tayyip Talha Sanuç Rizespor'a transfer oldu!",
-      "summary_tr": "Beşiktaş, Tayyip Talha Sanuç'un Çaykur Rizespor'a transfer olduğunu duyurdu."
+      "processed_at": "2026-07-20T08:42:20.390662",
+      "title_tr": "Mauro Icardi için Meksika iddiası! İki kulüp devrede",
+      "summary_tr": "4 yıllık Galatasaray macerası sona eren Mauro Icardi’ye Meksika’dan iki kulübün talip olduğu öne sürüldü."
     }
   ]
 }
