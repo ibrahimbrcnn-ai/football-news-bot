@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-21T18:13:58.826868",
+  "timestamp": "2026-07-21T20:18:05.755125",
   "total_items": 30,
   "news": [
     {
       "title": "Manchester United supporters groups in uproar over suspension of season tickets",
-      "summary": "Fans claim they are being ‘treated as suspects’Club planning to reinstate tickets before season beginsManchester United’s official Fans’ Forum, Manchester United Supporters Trust (Must), The 1958 and five other such groups have complained to the club over supporters being “treated as suspects” after",
+      "summary": "Fans claim they are being ‘treated as suspects’Club planning to reinstate tickets before season beginsManchester United’s official Fans’ Forum, Manchester United Suppor­ters Trust (Must), The 1958 and five other such groups have complained to the club over supporters being “treated as suspects” afte",
       "url": "https://www.theguardian.com/football/2026/jul/21/manchester-united-supporters-groups-suspension-of-season-tickets",
       "image_url": null,
       "published": "2026-07-21T18:00:52",
@@ -12,16 +12,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.575115",
-      "priority_score": 98,
+      "fetched_at": "2026-07-21T20:13:24.838817",
+      "priority_score": 88,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-07-21T18:12:29.698481",
+      "processed_at": "2026-07-21T20:16:28.165786",
       "title_tr": "Manchester United taraftar grupları, sezonluk biletlerin askıya alınması nedeniyle isyanda",
-      "summary_tr": "Taraftarlar kendilerine 'şüpheli muamelesi' yapıldığını iddia ediyor Kulüp, biletleri sezon başlamadan önce eski durumuna döndürmeyi planlıyor Manchester United'ın resmi Taraftar Forumu, Manchester United Taraftarlar Vakfı (Zorunlu), The 1958 ve benzeri diğer beş grup, taraftarların sezon başlamadan önce \"şüpheli muamelesi\" görmesi nedeniyle kulübe şikayette bulundu."
+      "summary_tr": "Taraftarlar kendilerine 'şüpheli muamelesi' yapıldığını iddia ediyor Kulüp, biletleri sezon başlamadan önce eski durumuna döndürmeyi planlıyor Manchester United'ın resmi Taraftar Forumu, Manchester United Taraftarlar Vakfı (Zorunlu), The 1958 ve buna benzer diğer beş grup, taraftarların sezon başlamadan önce \"şüpheli muamelesi\" görmesi nedeniyle kulübe şikayette bulundu."
     },
     {
       "title": "Galatasaray yeni golcüsünü buldu: Icardi yerine o geliyor",
@@ -33,14 +33,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:44.880482",
+      "fetched_at": "2026-07-21T20:15:48.263802",
       "priority_score": 87,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.473656",
+      "processed_at": "2026-07-21T20:16:28.927740",
       "title_tr": "Galatasaray yeni golcüsünü buldu: Icardi yerine o geliyor",
       "summary_tr": "Galatasaray, hücum hattına takviye için Amine Gouiri transferinde harekete geçti. Akşam'ın haberine göre sarı-kırmızılı..."
     },
@@ -54,15 +54,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:10:36.882695",
+      "fetched_at": "2026-07-21T20:14:38.267611",
       "priority_score": 83,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:29.786493",
+      "processed_at": "2026-07-21T20:16:28.249388",
       "title_tr": "G.Saray, Lemina'yla uzattı!",
       "summary_tr": "Transfer çalışmalarını sürdüren Galatasaray, 33 yaşındaki Gabonlu orta saha Mario Lemina'nın sözleşmesinin 2 yıl daha uzatıldığını açıkladı."
+    },
+    {
+      "title": "Fenerbahçe avantajı kaptı!",
+      "summary": "UEFA Şampiyonlar Ligi 2. eleme turu ilk maçında Fenerbahçe sahasında Gornik Zabrze'yi ağırladı. Mücadeleyi sarı-lacivertliler Anderson Talisca'nın golüyle 1-0 kazandı ve rövanş maçı öncesi avantajı kaptı.",
+      "url": "https://www.haberturk.com/fenerbahce-gornik-zabrze-mac-sonucu-ozeti-ve-golleri-fenerbahce-gornik-zabrze-ozet-izle-3899893-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/21/ver1784663733/3899893/jpg/1280x1280",
+      "published": "2026-07-21T19:56:08",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:14:38.267339",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-21T20:16:28.237460",
+      "title_tr": "Fenerbahçe avantajı kaptı!",
+      "summary_tr": "UEFA Şampiyonlar Ligi 2. eleme turu ilk maçında Fenerbahçe sahasında Gornik Zabrze'yi ağırladı. Mücadeleyi sarı-lacivertliler Anderson Talisca'nın golüyle 1-0 kazandı ve rövanş maçı öncesi avantajı kaptı."
     },
     {
       "title": "Stokes scores century in first match for Durham after England retirement",
@@ -74,55 +94,73 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-21T18:08:58.533525",
-      "priority_score": 76,
+      "fetched_at": "2026-07-21T20:13:00.031252",
+      "priority_score": 66,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-07-21T18:12:29.667212",
+      "processed_at": "2026-07-21T20:16:28.127723",
       "title_tr": "Stokes, İngiltere'nin emekli olmasının ardından Durham formasıyla ilk maçında asırlık gol attı",
       "summary_tr": "Eski İngiltere kaptanı Ben Stokes, milli takımdan emekli olmasının ardından Durham formasıyla çıktığı ilk karşılaşmada yüz maç kazandıran bir sayıya ulaştı."
     },
     {
-      "title": "Neuer to Neymar: 11 World Cup players who retired from international football",
-      "summary": "Germany’s 2014 World Cup winning goalkeeper and a Brazilian icon are among those who have have called time after the 2026 tournamentFirst participated in the World Cup in 2010 before winning the trophy four years later. Germany have had little success since and their penalty shootout defeat by Parag",
-      "url": "https://www.theguardian.com/football/2026/jul/21/neuer-to-neymar-11-world-cup-players-who-retired-from-international-football",
-      "image_url": null,
-      "published": "2026-07-21T07:00:04",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "'Modric (40) is er nog niet klaar mee en gaat door bij AC Milan'",
+      "summary": "Er was een tijdje vrees dat Luka Modric zijn schoenen aan de wilgen zou hangen na het teleurstellende WK, maar volgens Italiaanse media plakt de 41-jarige middenvelder er nog een jaartje aan vast. Daarbij blijft de Kroaat bij AC Milan ook onder de nieuwe trainer Ruben Amorim actief.",
+      "url": "https://www.vi.nl/nieuws/modric-is-er-niet-klaar-mee-en-gaat-nog-een-jaar-door-bij-ac-milan",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/21/12f3fd481e340f852416425ea5d4e9d57a2bf16e.jpg?width=1200",
+      "published": "2026-07-21T19:25:51",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.596623",
-      "priority_score": 73,
+      "fetched_at": "2026-07-21T20:16:25.224429",
+      "priority_score": 57,
       "categories": [
-        "breaking_news",
-        "serie_a",
-        "world_cup"
+        "serie_a"
       ],
-      "processed_at": "2026-07-21T18:12:29.755381",
-      "title_tr": "Neuer'den Neymar'a: Uluslararası futboldan emekli olan 11 Dünya Kupası oyuncusu",
-      "summary_tr": "Almanya'nın 2014 Dünya Kupası'nı kazanan kalecisi ve Brezilyalı ikon, 2026 turnuvasının ardından ilk kez 2010 yılında Dünya Kupası'na katılan ve dört yıl sonra kupayı kazananlar arasında yer alıyor. Almanya o zamandan beri çok az başarı elde etti ve penaltı atışlarında Parag'a yenildi."
+      "processed_at": "2026-07-21T20:16:29.014811",
+      "title_tr": "'Modric'in (40) henüz işi bitmedi ve AC Milan'da devam edecek'",
+      "summary_tr": "Bir süredir hayal kırıklığı yaratan Dünya Kupası'nın ardından Luka Modric'in kramponlarını asacağı korkusu vardı ancak İtalyan medyasına göre 41 yaşındaki orta saha oyuncusu bir yıl daha bu görevi sürdürecek. Hırvat oyuncu aynı zamanda yeni teknik direktör Ruben Amorim'in yönetimi altında AC Milan'da da aktif kalacak."
     },
     {
-      "title": "Why Newcastle are changing club badge",
-      "summary": "Newcastle United supporters are set to vote on a new crest as the club look to change their badge for the first time since 1988.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyex91dwqlo?at_medium=RSS&at_campaign=rss",
+      "title": "The defining moments of the 2026 World Cup",
+      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-07-21T12:34:13",
+      "published": "2026-07-21T15:45:11",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-21T18:08:44.525414",
+      "fetched_at": "2026-07-21T20:12:49.509672",
       "priority_score": 55,
       "categories": [
-        "breaking_news"
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-07-21T18:12:29.663204",
-      "title_tr": "Newcastle neden kulüp rozetini değiştiriyor?",
-      "summary_tr": "Newcastle United taraftarları, kulübün 1988'den bu yana ilk kez rozetini değiştirmeyi planladığı yeni arma için oy kullanmaya hazırlanıyor."
+      "processed_at": "2026-07-21T20:16:28.124936",
+      "title_tr": "2026 Dünya Kupası'nın belirleyici anları",
+      "summary_tr": "Dünya Kupası'ndaki tarihi ilk maçlardan duygusal ilk zaferlere, yeni yıldızlardan efsanelere kadar, 2026 Fifa Dünya Kupası'nın belirleyici anlarını yeniden yaşayın."
+    },
+    {
+      "title": "Mario Götze praises Jürgen Klopp's man-management skills",
+      "summary": "Mario Götze has praised Jürgen Klopp's ability to manage players and expectations as the former Liverpool boss edges closer to a return to management, with talks ongoing over replacing Julian Nagelsmann as Germany head coach.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/mario-gotze-praises-jurgen-klopp-people-skills-germany-38322",
+      "image_url": null,
+      "published": "2026-07-22T02:04:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:13:46.916026",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-07-21T20:16:28.220246",
+      "title_tr": "Mario Götze, Jürgen Klopp'un insan yönetimi becerilerini övüyor",
+      "summary_tr": "Mario Götze, Jürgen Klopp'un oyuncuları ve beklentileri yönetme yeteneğini övdü, eski Liverpool patronu yönetime geri dönmeye yaklaşırken Julian Nagelsmann'ın Almanya baş antrenörü olarak değiştirilmesine ilişkin görüşmeler devam ediyor."
     },
     {
       "title": "RB Leipzig and Germany defender David Raum launches fashion label",
@@ -134,58 +172,19 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:47.844625",
+      "fetched_at": "2026-07-21T20:13:46.916605",
       "priority_score": 51,
       "categories": [
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-07-21T18:12:29.768321",
-      "title_tr": "RB Leipzig ve Almanya'nın defans oyuncusu David Raum moda markasını kurdu",
-      "summary_tr": "RB Leipzig kaptanı David Raum, moda dünyasına adım atıyor ve Alman uluslararası oyuncu uzun süredir devam eden stil tutkusunu bir iş girişimine dönüştürürken kendi giyim markasını çıkarıyor."
-    },
-    {
-      "title": "Vesa Vasara: 'Başakşehir net favori!'",
-      "summary": "UEFA Konferans Ligi 2. eleme turu ilk maçında yarın deplasmanda İstanbul Başakşehir ile karşı karşıya gelecek Finlandiya ekibi Inter Turku'nun teknik direktörü Vesa Vasara, ellerinden geleni yaparak iyi bir sonuç almak istediklerini belirtti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/vesa-vasara-basaksehir-net-favori-43247266",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5fb1b91703371280702129.jpg",
-      "published": "2026-07-21T17:52:27",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:10:49.371950",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-21T18:12:29.836447",
-      "title_tr": "Vesa Vasara: 'Başakşehir net favori!'",
-      "summary_tr": "UEFA Konferans Ligi 2. eleme turu ilk maçında yarın deplasmanda İstanbul Başakşehir ile karşı karşıya gelecek Finlandiya ekibi Inter Turku'nun teknik direktörü Vesa Vasara, ellerinden geleni yaparak iyi bir sonuç almak istediklerini belirtti."
-    },
-    {
-      "title": "Nuri Şahin: 'Finlandiya'ya iyi bir skorla gitmek istiyoruz!'",
-      "summary": "Başakşehir Teknik Direktörü Nuri Şahin, yarın oynanacak karşılaşmada avantajlı bir skor elde ederek Finlandiya'daki rövanş öncesinde önemli bir üstünlük yakalamak istediklerini söyledi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-finlandiyaya-iyi-bir-skorla-gitmek-istiyoruz-43247263",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5fb0c11703371280702120.jpg",
-      "published": "2026-07-21T17:47:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:10:49.372039",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-07-21T18:12:29.842985",
-      "title_tr": "Nuri Şahin: 'Finlandiya'ya iyi bir skorla gitmek istiyoruz!'",
-      "summary_tr": "Başakşehir Teknik Direktörü Nuri Şahin, yarın oynanacak karşılaşmada avantajlı bir skor elde ederek Finlandiya'daki rövanş öncesinde önemli bir üstünlük yakalamak istediklerini söyledi."
+      "processed_at": "2026-07-21T20:16:28.225454",
+      "title_tr": "RB Leipzig ve Alman defans oyuncusu David Raum moda markasını kurdu",
+      "summary_tr": "RB Leipzig'in kaptanı David Raum, moda dünyasına adım atıyor ve Alman uluslararası oyuncu uzun süredir devam eden stil tutkusunu bir iş girişimine dönüştürürken kendi giyim markasını çıkarıyor."
     },
     {
       "title": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
-      "summary": "France defender is club’s sixth signing of the summerCoach Ho says she is aggressive and good on the ballTottenham have signed the France defender Alice Sombath from Lyonnes for a club record fee. The price paid for the 22-year-old has not been disclosed but the previous club record, paid for Signe ",
+      "summary": "France defender is club’s sixth signing of the summerCoach Ho says she is aggressive and good on the ballTottenham have signed the France defender Alice Sombath from OL Lyonnes for a club‑record fee. The price paid for the 22-year-old has not been disclosed but the previous club record, paid for Sig",
       "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record",
       "image_url": null,
       "published": "2026-07-21T08:47:31",
@@ -193,33 +192,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.595347",
+      "fetched_at": "2026-07-21T20:13:24.839868",
       "priority_score": 78,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-21T18:12:29.736044",
+      "processed_at": "2026-07-21T20:16:28.179187",
       "title_tr": "Spurs, Lyonnes'tan Alice Sombath'ı kadrosuna katarak kadınlar transfer rekorunu kırdı",
-      "summary_tr": "Fransız defans oyuncusu kulübün bu yaz altıncı transferi oldu Koç Ho, agresif ve topa iyi hakim olduğunu söylüyor Tottenham, Lyonnes'tan Fransız defans oyuncusu Alice Sombath'ı kulüp rekoru karşılığında transfer etti. 22 yaşındaki oyuncu için ödenen fiyat açıklanmadı ancak Signe için ödenen önceki kulüp rekoru açıklandı."
-    },
-    {
-      "title": "Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
-      "summary": "Bhatia backed by father-in-law Lakshmi MittalMinority stake deal values the club at £4.5bnLiverpool’s owner is in talks over selling a significant minority stake to a consortium led by the Queens Park Rangers co-owner Amit Bhatia and backed by his father-in-law Lakshmi Mittal, the billionaire Indian",
-      "url": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia",
-      "image_url": null,
-      "published": "2026-07-21T17:20:59",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.575648",
-      "priority_score": 73,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-21T18:12:29.702024",
-      "title_tr": "Liverpool'un sahibi hisselerini QPR'ın ortak sahibi Amit Bhatia'ya satmak için görüşmelerde bulunuyor",
-      "summary_tr": "Bhatia, kayınpederi Lakshmi Mittal tarafından destekleniyor Azınlık hissesi anlaşması kulübe 4,5 milyar £ değer veriyor Liverpool'un sahibi, Queens Park Rangers'ın ortak sahibi Amit Bhatia liderliğindeki ve kayınpederi milyarder Hintli Lakshmi Mittal tarafından desteklenen bir konsorsiyuma önemli bir azınlık hissesi satma konusunda görüşmelerde bulunuyor"
+      "summary_tr": "Fransız defans oyuncusu kulübün bu yaz altıncı transferi oldu Koç Ho, agresif ve topa iyi hakim olduğunu söylüyor Tottenham, OL Lyonnes'tan Fransız defans oyuncusu Alice Sombath'ı kulüp rekoru bir ücret karşılığında imzaladı. 22 yaşındaki oyuncu için ödenen fiyat açıklanmadı ancak Sig için ödenen önceki kulüp rekoru açıklandı."
     },
     {
       "title": "‘The scrutiny is constant’: referee Anthony Taylor retires from football",
@@ -231,7 +211,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.576439",
+      "fetched_at": "2026-07-21T20:13:24.839184",
       "priority_score": 73,
       "categories": [
         "transfers",
@@ -239,7 +219,7 @@
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-07-21T18:12:29.710238",
+      "processed_at": "2026-07-21T20:16:28.169994",
       "title_tr": "'İnceleme süreklidir': Hakem Anthony Taylor futbolu bırakıyor",
       "summary_tr": "47 yaşındaki oyuncu, Dünya Kupası'nda beş maçın sorumluluğunu üstlendi Taylor, 16 yıldır Premier Lig'de hakemlik yapıyor Anthony Taylor, yirmi yılı aşkın süredir devam eden ve 831 maça yayılan seçkin kariyerinin ardından elit hakemlikten emekli olduğunu açıkladı. İngiltere'nin en başarılı hakemlerinden biri olan 4."
     },
@@ -253,14 +233,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:44.881389",
+      "fetched_at": "2026-07-21T20:15:48.264524",
       "priority_score": 72,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.489199",
+      "processed_at": "2026-07-21T20:16:28.943529",
       "title_tr": "İngiliz devi Fenerbahçeli yıldızın peşinde: İsmini ilk sıraya yazdılar",
       "summary_tr": "Chelsea, sol bek transferi için rotasını Archie Brown’a çevirdi. İngiliz basınında yer alan haberlere göre, Fenerbahçe ..."
     },
@@ -274,76 +254,56 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:44.882429",
+      "fetched_at": "2026-07-21T20:15:48.265388",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.511808",
+      "processed_at": "2026-07-21T20:16:28.966413",
       "title_tr": "Fenerbahçe’den sürpriz transfer hamlesi: Tecrübeli teknik adam yıldız oyuncunun transferi için devreye girdi",
       "summary_tr": "Fenerbahçe, golcü transferinde önceliğini Serhou Guirassy olarak belirledi. Spor X’te yer alan habere göre; sarı-lacive..."
     },
     {
-      "title": "Galatasaray Kadın Futbol Takımı, Aude Gbedjissi'yi transfer etti",
-      "summary": "Galatasaray Kadın Futbol Takımı, Beninli hücum oyuncusu Aude Gbedjissi'yi kadrosuna kattı.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-kadin-futbol-takimi-aude-gbedjissiyi-transfer-etti-3445267",
-      "image_url": null,
-      "published": "2026-07-21T19:03:24",
-      "source": "CNN Türk Spor",
+      "title": "Stones emerges as potential Chelsea target",
+      "summary": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
+      "url": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
+      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-john-stones-england_7294374.jpg?20260710100903",
+      "published": "2026-07-21T19:27:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:13.271527",
+      "fetched_at": "2026-07-21T20:13:00.031406",
       "priority_score": 71,
       "categories": [
         "transfers",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-07-21T18:12:30.103718",
-      "title_tr": "Galatasaray Kadın Futbol Takımı, Aude Gbedjissi'yi transfer etti",
-      "summary_tr": "Galatasaray Kadın Futbol Takımı, Beninli hücum oyuncusu Aude Gbedjissi'yi kadrosuna kattı."
+      "processed_at": "2026-07-21T20:16:28.132912",
+      "title_tr": "Stones potansiyel Chelsea hedefi olarak ortaya çıkıyor",
+      "summary_tr": "Serbest oyuncu defans oyuncusu John Stones, bu transfer döneminde Chelsea için potansiyel bir seçenek olarak ortaya çıktı."
     },
     {
-      "title": "Galatasaray, Janset Cemre Erkul'u transfer etti",
-      "summary": "Galatasaray Daikin Kadın Voleybol Takımı, yeni sezon transfer çalışmaları kapsamında orta oyuncu Janset Cemre Erkul'u kadrosuna kattığını açıkladı.",
-      "url": "https://www.cnnturk.com/spor/voleybol/galatasaray-janset-cemre-erkulu-transfer-etti-3445255",
-      "image_url": null,
-      "published": "2026-07-21T18:13:57",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "'Matthaüs verklapt details over Mora (17), Memphis wil salaris inleveren'",
+      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/wk-held-torres-kan-naar-psg-en-real-memphis-bereidt-om-salaris-in-te-leveren",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-07-21T19:50:02",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:13.271860",
-      "priority_score": 71,
+      "fetched_at": "2026-07-21T20:16:25.224364",
+      "priority_score": 67,
       "categories": [
         "transfers",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-07-21T18:12:30.118195",
-      "title_tr": "Galatasaray, Janset Cemre Erkul'u transfer etti",
-      "summary_tr": "Galatasaray Daikin Kadın Voleybol Takımı, yeni sezon transfer çalışmaları kapsamında orta oyuncu Janset Cemre Erkul'u kadrosuna kattığını açıkladı."
-    },
-    {
-      "title": "Melih Mahmutoğlu 1 yıl daha F.Bahçe'de",
-      "summary": "Fenerbahçe, 2013 yılından bu yana takımın formasını giyen kaptan Melih Mahmutoğlu ile 1 yıllık yeni sözleşme imzaladı.",
-      "url": "https://www.haberturk.com/melih-mahmutoglu-1-yil-daha-fenerbahce-de-3900033-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/21/ver1784640946/3900033/jpg/1280x1280",
-      "published": "2026-07-21T13:35:31",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:10:36.883214",
-      "priority_score": 68,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-21T18:12:29.811749",
-      "title_tr": "Melih Mahmutoğlu 1 yıl daha F.Bahçe'de",
-      "summary_tr": "Fenerbahçe, 2013 yılından bu yana takımın formasını giyen kaptan Melih Mahmutoğlu ile 1 yıllık yeni sözleşme imzaladı."
+      "processed_at": "2026-07-21T20:16:28.999139",
+      "title_tr": "'Matthaüs Mora (17) ile ilgili ayrıntıları açıkladı, Memphis maaşını vermek istiyor'",
+      "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Bundesliga Fantasy Manager: what's new for 2026/27?",
@@ -355,14 +315,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:47.845863",
+      "fetched_at": "2026-07-21T20:13:46.933684",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-07-21T18:12:29.777973",
+      "processed_at": "2026-07-21T20:16:28.234928",
       "title_tr": "Bundesliga Fantasy Manager: 2026/27'deki yenilikler neler?",
       "summary_tr": "Esnek kadro oluşturma, genişletilmiş puan kataloğu ve çok daha fazlası! 2026/27 sezonu için Resmi Bundesliga Fantezi Teknik Direktöründeki önemli değişiklikleri açıklıyoruz."
     },
@@ -376,15 +336,75 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-21T18:08:44.523353",
+      "fetched_at": "2026-07-21T20:12:49.507946",
       "priority_score": 65,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-07-21T18:12:29.657072",
+      "processed_at": "2026-07-21T20:16:28.118641",
       "title_tr": "Konsorsiyum Liverpool'un azınlık hissesini satın almak için görüşmelerde bulunuyor",
       "summary_tr": "İngiliz-Hintli milyoner işadamı Amit Bhatia liderliğindeki bir konsorsiyum, Liverpool'un azınlık hissesini satın almakla ilgilendiğini açıkladı."
+    },
+    {
+      "title": "Chelsea interested in former Man City defender Stones",
+      "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-21T18:57:34",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:12:49.508921",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-21T20:16:28.120661",
+      "title_tr": "Chelsea, Manchester City'nin eski defans oyuncusu Stones'la ilgileniyor",
+      "summary_tr": "Chelsea, Manchester City'den ayrılan İngiliz defans oyuncusu John Stones'u bedelsiz transfer etmekle ilgileniyor."
+    },
+    {
+      "title": "Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
+      "summary": "Bhatia backed by father-in-law Lakshmi MittalMinority stake deal values the club at £4.5bnLiverpool’s owner is in talks over selling a significant minority stake to a consortium led by the Queens Park Rangers co-owner Amit Bhatia and backed by his father-in-law Lakshmi Mittal, the billionaire Indian",
+      "url": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia",
+      "image_url": null,
+      "published": "2026-07-21T17:20:59",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:13:24.838482",
+      "priority_score": 63,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-21T20:16:28.161531",
+      "title_tr": "Liverpool'un sahibi hisselerini QPR'ın ortak sahibi Amit Bhatia'ya satmak için görüşmelerde bulunuyor",
+      "summary_tr": "Bhatia, kayınpederi Lakshmi Mittal tarafından destekleniyor Azınlık hissesi anlaşması kulübe 4,5 milyar £ değer veriyorLiverpool'un sahibi, Queens Park Rangers'ın ortak sahibi Amit Bhatia liderliğindeki ve kayınpederi milyarder Hintli Lakshmi Mittal tarafından desteklenen bir konsorsiyuma önemli bir azınlık hissesi satma konusunda görüşmelerde bulunuyor"
+    },
+    {
+      "title": "Melih Mahmutoğlu 1 yıl daha F.Bahçe'de",
+      "summary": "Fenerbahçe, 2013 yılından bu yana takımın formasını giyen kaptan Melih Mahmutoğlu ile 1 yıllık yeni sözleşme imzaladı.",
+      "url": "https://www.haberturk.com/melih-mahmutoglu-1-yil-daha-fenerbahce-de-3900033-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/21/ver1784640946/3900033/jpg/1280x1280",
+      "published": "2026-07-21T13:35:31",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:14:38.267946",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-21T20:16:28.270487",
+      "title_tr": "Melih Mahmutoğlu 1 yıl daha F.Bahçe'de",
+      "summary_tr": "Fenerbahçe, 2013 yılından bu yana takımın formasını giyen kaptan Melih Mahmutoğlu ile 1 yıllık yeni sözleşme imzaladı."
     },
     {
       "title": "Galatasaray, Lemina ile nikah tazeledi!",
@@ -396,112 +416,74 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:10:49.372112",
+      "fetched_at": "2026-07-21T20:14:52.349643",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:29.847959",
+      "processed_at": "2026-07-21T20:16:28.307894",
       "title_tr": "Galatasaray, Lemina ile nikah tazeledi!",
       "summary_tr": "Galatasaray, Gabonlu oyuncu Mario Lemina'nın sözleşmesini iki yıl daha uzattığını açıkladı."
     },
     {
-      "title": "'WK-held Torres kan naar PSG en Real, Memphis bereid om salaris in te leveren'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/wk-held-torres-kan-naar-psg-en-real-memphis-bereidt-om-salaris-in-te-leveren",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-07-21T16:49:39",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Galatasaray Kadın Futbol Takımı, Aude Gbedjissi'yi transfer etti",
+      "summary": "Galatasaray Kadın Futbol Takımı, Beninli hücum oyuncusu Aude Gbedjissi'yi kadrosuna kattı.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-kadin-futbol-takimi-aude-gbedjissiyi-transfer-etti-3445267",
+      "image_url": null,
+      "published": "2026-07-21T19:03:24",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:12:26.337809",
-      "priority_score": 57,
+      "fetched_at": "2026-07-21T20:15:16.682024",
+      "priority_score": 61,
       "categories": [
         "transfers",
-        "serie_a"
+        "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.580441",
-      "title_tr": "'Dünya Kupası kahramanı Torres PSG ve Real'e gidebilir, Memphis maaşını vermeye hazır'",
-      "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-07-21T20:16:28.603647",
+      "title_tr": "Galatasaray Kadın Futbol Takımı, Aude Gbedjissi'yi transfer etti",
+      "summary_tr": "Galatasaray Kadın Futbol Takımı, Beninli hücum oyuncusu Aude Gbedjissi'yi kadrosuna kattı."
     },
     {
-      "title": "West Ham agree big-money deal with Al Hilal for Summerville",
-      "summary": "West Ham have reached an agreement with Al Hilal for the sale of Crysencio Summerville.",
-      "url": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
-      "image_url": "https://e0.365dm.com/26/06/1920x1080/skysports-crysencio-summerville_7286595.jpg?20260630141233",
-      "published": "2026-07-21T17:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:08:58.533818",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-21T18:12:29.676681",
-      "title_tr": "West Ham, Summerville için Al Hilal ile büyük paralı bir anlaşmaya vardı",
-      "summary_tr": "West Ham, Crysencio Summerville'in satışı için Al Hilal ile anlaşmaya vardı."
-    },
-    {
-      "title": "The defining moments of the 2026 World Cup",
-      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
+      "title": "Galatasaray, Janset Cemre Erkul'u transfer etti",
+      "summary": "Galatasaray Daikin Kadın Voleybol Takımı, yeni sezon transfer çalışmaları kapsamında orta oyuncu Janset Cemre Erkul'u kadrosuna kattığını açıkladı.",
+      "url": "https://www.cnnturk.com/spor/voleybol/galatasaray-janset-cemre-erkulu-transfer-etti-3445255",
       "image_url": null,
-      "published": "2026-07-21T15:45:11",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-07-21T18:13:57",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:08:44.525654",
-      "priority_score": 55,
+      "fetched_at": "2026-07-21T20:15:16.682293",
+      "priority_score": 61,
       "categories": [
-        "breaking_news",
-        "world_cup"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:29.664143",
-      "title_tr": "2026 Dünya Kupası'nın belirleyici anları",
-      "summary_tr": "Dünya Kupası'ndaki tarihi ilk maçlardan duygusal ilk zaferlere, yeni yıldızlardan efsanelerin dehasına kadar, 2026 Fifa Dünya Kupası'nın belirleyici anlarını yeniden yaşayın."
+      "processed_at": "2026-07-21T20:16:28.618516",
+      "title_tr": "Galatasaray, Janset Cemre Erkul'u transfer etti",
+      "summary_tr": "Galatasaray Daikin Kadın Voleybol Takımı, yeni sezon transfer çalışmaları kapsamında orta oyuncu Janset Cemre Erkul'u kadrosuna kattığını açıkladı."
     },
     {
-      "title": "Zomertransfers Eredivisie seizoen 2026/27: alle clubs op een rij",
-      "summary": "De transferperiode is weer losgebarsten. In dit overzicht van VI vind je alle afgeronde zomertransfers van de achttien Eredivisie-clubs. Transfers komen pas in dit overzicht als ze zijn bevestigd door de betreffende clubs.",
-      "url": "https://www.vi.nl/nieuws/zomertransfers-eredivisie-seizoen-2026-27-alle-clubs-op-een-rij",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/08/eba412dead26cbdf67ec82003f878f124aafdf34.jpg?width=1200",
-      "published": "2026-07-21T17:13:01",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Galatasaray'da yeni sezon mesaisi!",
+      "summary": "Yeni sezona hazırlıklarını Kemerburgaz Metin Oktay Tesisleri'nde sürdüren Galatasaray, çalışmalarına çift idmanla devam etti.",
+      "url": "https://www.haberturk.com/galatasaray-yeni-sezon-hazirliklarini-surdurdu-3900098-spor",
+      "image_url": "https://im.haberturk.com/l/2026/07/21/ver1784662270/3900098/jpg/1280x1280",
+      "published": "2026-07-21T19:31:42",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:12:26.337665",
-      "priority_score": 52,
+      "fetched_at": "2026-07-21T20:14:38.267415",
+      "priority_score": 53,
       "categories": [
-        "transfers"
+        "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.550447",
-      "title_tr": "Eredivisie 2026/27 sezonu yaz transferleri: bir bakışta tüm kulüpler",
-      "summary_tr": "Transfer dönemi yeniden başladı. Bu VI genel bakışında on sekiz Eredivisie kulübünün tamamlanan tüm yaz transferlerini bulacaksınız. Transferler ancak ilgili kulüpler tarafından onaylandıktan sonra bu genel bakışta görünecektir."
-    },
-    {
-      "title": "Lewis Holtby kondigt einde van profcarrière aan",
-      "summary": "Lewis Holtby heeft een punt gezet achter zijn loopbaan als profvoetballer. De 35-jarige Duitser maakte maandag via Instagram bekend dat hij stopt, nadat eerder al duidelijk was geworden dat zijn contract bij NAC Breda in onderling overleg was ontbonden . Daarmee komt een einde aan een carrière van b",
-      "url": "https://www.vi.nl/nieuws/lewis-holtby-beeindigt-loopbaan-dit-is-mijn-afscheid-van-het-voetbal",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/21/afa9e99244b01cffbec5f0163a246979b8b337a7.jpg?width=1200",
-      "published": "2026-07-21T17:21:15",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-21T18:12:26.337740",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-21T18:12:30.562337",
-      "title_tr": "Lewis Holtby profesyonel kariyerinin sona erdiğini duyurdu",
-      "summary_tr": "Lewis Holtby, profesyonel futbolculuk kariyerine son verdi. 35 yaşındaki Alman, NAC Breda ile olan sözleşmesinin karşılıklı anlaşmayla feshedildiğinin daha önce netleşmesinin ardından Pazartesi günü Instagram aracılığıyla istifa ettiğini duyurdu. Bu, B'nin kariyerine son verir"
+      "processed_at": "2026-07-21T20:16:28.240685",
+      "title_tr": "Galatasaray'da yeni sezon mesaisi!",
+      "summary_tr": "Yeni sezona hazırlıklarını Kemerburgaz Metin Oktay Tesisleri'nde sürdüren Galatasaray, çalışmalarına çift idmanla devam etti."
     },
     {
       "title": "Beşiktaş'tan Salah'a son teklif ve ültimatom!",
@@ -513,13 +495,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:10:49.372568",
+      "fetched_at": "2026-07-21T20:14:52.350016",
       "priority_score": 51,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:29.891978",
+      "processed_at": "2026-07-21T20:16:28.351773",
       "title_tr": "Beşiktaş'tan Salah'a son teklif ve ültimatom!",
       "summary_tr": "Beşiktaş, dünya futbolunun en önemli yıldızlarından Mohamed Salah için yürüttüğü transfer operasyonunda kritik aşamaya geldi. Siyah-beyazlı yönetim, Mısırlı yıldız için son hamlesini yaptı."
     },
@@ -533,15 +515,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:10:54.009829",
+      "fetched_at": "2026-07-21T20:14:58.196481",
       "priority_score": 51,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:29.973346",
+      "processed_at": "2026-07-21T20:16:28.428664",
       "title_tr": "Galatasaray, Mario Lemina ile sözleşme uzattı!",
       "summary_tr": "Galatasaray, sözleşmesi sona eren Mario Lemina ile 2 yıllık yeni sözleşme imzaladı.Devamı için tıklayınız"
+    },
+    {
+      "title": "Al-Hilal agree £60m deal for West Ham's Summerville",
+      "summary": "Saudi club Al Hilal agree a £68.3m deal to sign winger Crysencio Summerville from West Ham.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg91k07gr9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-21T16:31:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-21T20:12:49.508623",
+      "priority_score": 50,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-21T20:16:28.119610",
+      "title_tr": "Al-Hilal, West Ham'ın Summerville'i için 60 milyon sterlinlik anlaşmaya vardı",
+      "summary_tr": "Suudi kulübü Al Hilal, West Ham'dan kanat oyuncusu Crysencio Summerville'i imzalamak için 68,3 milyon sterlinlik bir anlaşma imzaladı."
     },
     {
       "title": "Galatasaray'da 30 milyon euro'luk ayrılık planı! Menajeriyle temasa geçildi",
@@ -553,37 +554,36 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:28.304407",
+      "fetched_at": "2026-07-21T20:15:29.272026",
       "priority_score": 49,
       "categories": [
         "transfers",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-07-21T18:12:30.257999",
+      "processed_at": "2026-07-21T20:16:28.711954",
       "title_tr": "Galatasaray'da 30 milyon euro'luk ayrılık planı! Menajeriyle temasa geçildi",
       "summary_tr": "Son dakika Galatasaray transfer haberleri | Galatasaray'da transfer döneminin en dikkat çeken ayrılık gelişmelerinden biri yaşanabilir. Avrupa'dan talipleri olan yıldız isim için menajeriyle görüşmelerin...Devamı için tıklayınız"
     },
     {
-      "title": "İngilizlerden Altay Bayındır için flaş iddia! Beşiktaş'a transferi...",
-      "summary": "Manchester United'dan ayrılması beklenen A Milli Takım'ın file bekçilerinden Altay Bayındır ile ilgili flaş gelişmeler yaşanıyor. Son olarak İngiliz basını tecrübeli eldivenin Süper Lig devlerinden Beşiktaş'a...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/besiktas/2026/07/21/ingilizlerden-altay-bayindir-icin-flas-iddia-besiktasa-transferi",
-      "image_url": "https://iaftm.tmgrup.com.tr/c169e4/1200/675/0/0/1080/606?u=https://iftm.tmgrup.com.tr/2026/07/21/ingilizlerden-altay-bayindir-icin-flas-iddia-besiktasa-transferi-1784636298178.jpeg",
-      "published": "2026-07-21T12:20:29",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
+      "title": "Could the World Cup be back in the US as soon as 2038? Absolutely",
+      "summary": "Explosion in ticketing and hospitality revenue goes along with a Fifa desire to recoup lost TV income in future dealsAs is often the case, it has been left to Donald Trump to say the quiet bit out loud. “We have to do this again and we have to do it while I’m around, you hear that Gianni?” the US pr",
+      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
+      "image_url": null,
+      "published": "2026-07-21T19:00:53",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-21T18:11:28.305476",
-      "priority_score": 49,
+      "fetched_at": "2026-07-21T20:13:24.838028",
+      "priority_score": 48,
       "categories": [
         "transfers",
-        "premier_league",
-        "super_lig"
+        "world_cup"
       ],
-      "processed_at": "2026-07-21T18:12:30.328271",
-      "title_tr": "İngilizlerden Altay Bayındır için flaş iddia! Beşiktaş'a transferi...",
-      "summary_tr": "Manchester United'dan ayrılması beklenen A Milli Takım'ın file bekçilerinden Altay Bayındır ile ilgili flaş gelişmeler yaşanıyor. Son olarak İngiliz basını tecrübeli eldivenin Süper Lig devlerinden Beşiktaş'a...Devamı için tıklayınız"
+      "processed_at": "2026-07-21T20:16:28.158137",
+      "title_tr": "Dünya Kupası 2038'de ABD'ye geri dönebilir mi? Kesinlikle",
+      "summary_tr": "Bilet ve konaklama gelirlerindeki patlama, Fifa'nın gelecekteki anlaşmalarda kaybedilen TV gelirini telafi etme arzusuyla birlikte gidiyor. Çoğu zaman olduğu gibi, sessiz kalan kısmı yüksek sesle söylemek Donald Trump'a bırakıldı. \"Bunu tekrar yapmalıyız ve ben buralardayken yapmalıyız, duydun mu Gianni?\" ABD pr"
     },
     {
       "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
@@ -595,14 +595,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-21T18:09:22.575997",
+      "fetched_at": "2026-07-21T20:13:24.840140",
       "priority_score": 48,
       "categories": [
         "transfers",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-07-21T18:12:29.706048",
+      "processed_at": "2026-07-21T20:16:28.183790",
       "title_tr": "Futbol Günlük | İşte Dünya Kupası'nı kutlamak için 48 neden (Jeopolitik hariç)",
       "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Şimdi kaydolun! Jeopolitik Dünya Kupası şimdiden gözden kayboluyor, yerini sezon öncesi hazırlık maçları ve transfer hikayeleriyle dolu Temmuz ayı yulaf lapası alıyor. Ancak 48 takımlı, 104 maçlık, 308 gollü dev takıma bir kez daha bakmak için hala zamanımız var."
     }
