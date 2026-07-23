@@ -1,25 +1,45 @@
 {
-  "timestamp": "2026-07-23T08:15:25.043938",
+  "timestamp": "2026-07-23T11:04:10.287849",
   "total_items": 30,
   "news": [
+    {
+      "title": "Newcastle agree £34m deal for Monaco's Bamba",
+      "summary": "Midfielder Aladji Bamba is due to arrive on Thursday for a medical and to sign a long-term contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-07-23T10:33:28",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-07-23T10:59:09.414087",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "injuries"
+      ],
+      "processed_at": "2026-07-23T11:02:48.852961",
+      "title_tr": "Newcastle, Monaco'lu Bamba için 34 milyon £'luk anlaşmaya vardı",
+      "summary_tr": "Orta saha oyuncusu Aladji Bamba perşembe günü sağlık kontrolü için gelecek ve uzun vadeli bir sözleşme imzalayacak."
+    },
     {
       "title": "Galatasaray'a transferde Bruno Fernandes müjdesi!",
       "summary": "Manchester United, Galatasaray'ın 10 numara transferindeki bir numaralı hedefi olan Bruno Fernandes ile yaptığı sözleşme yenileme görüşmelerinden sonuç alamadı. İşte detaylar...",
       "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-transferde-bruno-fernandes-mujdesi-43248688",
       "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61b541fb32054b4956f63d.jpg",
-      "published": "2026-07-23T06:32:26",
+      "published": "2026-07-23T08:25:31",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340650",
+      "fetched_at": "2026-07-23T11:01:11.291951",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.545369",
+      "processed_at": "2026-07-23T11:02:49.042152",
       "title_tr": "Galatasaray'a transferde Bruno Fernandes müjdesi!",
       "summary_tr": "Manchester United, Galatasaray'ın 10 numara transferindeki bir numaralı hedefi olan Bruno Fernandes ile yaptığı sözleşme yenileme görüşmelerinden sonuç alamadı. İşte detaylar..."
     },
@@ -33,36 +53,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340751",
+      "fetched_at": "2026-07-23T11:01:11.292668",
       "priority_score": 100,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.560539",
+      "processed_at": "2026-07-23T11:02:49.118393",
       "title_tr": "Suudiler talip oldu: Galatasaray, Davinson Sanchez için çıtayı yükseltti!",
       "summary_tr": "Galatasaray, Avrupa kulüplerinin ardından Suudi Arabistan ekiplerinin de transferi için devreye girdiği Davinson Sanchez için daha önce belirlediği bonservis bedelinde artırıma gitti. İşte detaylar..."
-    },
-    {
-      "title": "2026/27 Bundesliga Fantasy Manager: New points from more match events",
-      "summary": "A new season brings changes to how points can be earned in Bundesliga Fantasy Manager for 2026/27 - available exclusively in the official Bundesliga app - now better reflecting a player’s impact on a match.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/2026-27-fantasy-manager-updated-points-scoring-38329",
-      "image_url": null,
-      "published": "2026-07-23T07:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:11:23.179524",
-      "priority_score": 96,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-07-23T08:14:04.451762",
-      "title_tr": "2026/27 Bundesliga Fantasy Manager: Daha fazla maç etkinliğinden yeni puanlar",
-      "summary_tr": "Yeni sezon, 2026/27 için Bundesliga Fantasy Manager'da puanların nasıl kazanılacağına ilişkin değişiklikler getiriyor - yalnızca resmi Bundesliga uygulamasında mevcut - artık oyuncunun maç üzerindeki etkisini daha iyi yansıtıyor."
     },
     {
       "title": "How LNZ Cherkasy become a wartime success story with few modern parallels",
@@ -74,55 +73,57 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-23T08:11:00.226508",
+      "fetched_at": "2026-07-23T10:59:43.583101",
       "priority_score": 93,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-07-23T08:14:04.405421",
+      "processed_at": "2026-07-23T11:02:48.906468",
       "title_tr": "LNZ Cherkasy, birkaç modern paralellik ile nasıl bir savaş zamanı başarı öyküsü haline geldi?",
       "summary_tr": "Ukrayna kulübü 2021'de dördüncü sırada yer aldı ancak Rusya ile olan savaşa rağmen ilk kez Avrupa elemelerinde mücadele edecek. LNZ Cherkasy'nin akıllı, parlak antrenman tesisinde sabit antrenman zamanı geldi. \"Cephanelik!\" Bir köşede boğuşma başlarken oyunculardan biri gülerek şakanın yayıldığını söylüyor:"
     },
     {
-      "title": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
-      "summary": "The best games, goals and personal highlights – from a magical Azteca to Erling Haaland breaking AmericaParaguay 1-1 Germany. There were plenty more games with more goals but none could match the drama of the penalty shootout in this last-32 tie. Germany aren’t supposed to lose in them but they did ",
-      "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
+      "title": "Blow for Manchester City with Rodri out for extended period due to back injury",
+      "summary": "Spain’s World Cup-winning captain may require surgeryLatest injury setback for midfielder in recent seasonsRodri could face an extended period of time out with a back injury, which may require surgery.The 30-year-old Manchester City midfielder returned to his finest form at the World Cup following t",
+      "url": "https://www.theguardian.com/football/2026/jul/23/blow-for-manchester-city-with-rodri-out-for-extended-period-due-to-back-injury",
       "image_url": null,
-      "published": "2026-07-22T09:01:34",
+      "published": "2026-07-23T09:10:48",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-23T08:11:00.228477",
-      "priority_score": 88,
+      "fetched_at": "2026-07-23T10:59:43.582384",
+      "priority_score": 73,
       "categories": [
-        "match_results",
-        "breaking_news",
+        "injuries",
+        "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-07-23T08:14:04.429096",
-      "title_tr": "2026 Dünya Kupası ödülleri: Guardian ekibi turnuvayla ilgili son kararını verdi",
-      "summary_tr": "Büyülü Azteca'dan Erling Haaland'ın AmerikaParaguay'ı 1-1 Almanya'yla mağlup etmesine kadar en iyi oyunlar, goller ve kişisel önemli anlar. Daha fazla golün olduğu pek çok maç vardı ama hiçbiri bu son 32 beraberliğindeki penaltı atışlarının dramasıyla boy ölçüşemezdi. Almanya'nın kaybetmemesi gerekiyordu ama kaybettiler"
+      "processed_at": "2026-07-23T11:02:48.897036",
+      "title_tr": "Rodri'nin sırtındaki sakatlık nedeniyle uzun süre sahalardan uzak kalmasıyla Manchester City'ye darbe",
+      "summary_tr": "İspanya'nın Dünya Kupasını kazanan kaptanı ameliyata ihtiyaç duyabilir Orta saha oyuncusunun son sezonlardaki son sakatlığı Rodri, ameliyat gerektirebilecek sırtından sakatlanarak uzun bir molayla karşı karşıya kalabilir. 30 yaşındaki Manchester City orta saha oyuncusu, 2017'nin ardından Dünya Kupası'ndaki en iyi formuna geri döndü"
     },
     {
-      "title": "Fernandes SCREAMER seals Spurs' winning start to pre-season",
-      "summary": "Watch highlights of the pre-season friendly between Tottenham and MK Dons. Credit: SPURSPLAY.",
-      "url": "https://www.skysports.com/watch/video/13566172/tottenham-1-0-mk-dons-pre-season-highlights",
-      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-tottenham-mk-dons_7304688.jpg?20260723072805",
-      "published": "2026-07-23T07:20:00",
+      "title": "Arsenal interested in Stones, Konsa after Saliba injury blow",
+      "summary": "Arsenal hold an interest in John Stones and Ezri Konsa as they look to sign a centre-back this summer following news of an extended period on the sidelines for William Saliba.",
+      "url": "https://www.skysports.com/football/news/12040/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow",
+      "image_url": "https://e2.365dm.com/26/07/1920x1080/skysports-ezri-konsa-john-stones_7304797.jpg?20260723103056",
+      "published": "2026-07-23T10:30:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:32.699976",
-      "priority_score": 66,
+      "fetched_at": "2026-07-23T10:59:21.269568",
+      "priority_score": 61,
       "categories": [
-        "match_results"
+        "injuries",
+        "premier_league",
+        "serie_a"
       ],
-      "processed_at": "2026-07-23T08:14:04.380157",
-      "title_tr": "Fernandes SCREAMER, Spurs'un sezon öncesine galibiyetle başlamasını sağladı",
-      "summary_tr": "Tottenham ile MK Dons arasındaki sezon öncesi hazırlık maçının önemli anlarını izleyin. Kredi bilgileri: SPURSPLAY."
+      "processed_at": "2026-07-23T11:02:48.868577",
+      "title_tr": "Arsenal, Saliba'nın sakatlığı sonrası Stones ve Konsa'yla ilgileniyor",
+      "summary_tr": "Arsenal, William Saliba'nın uzun süre kenarda kalacağı haberlerinin ardından bu yaz bir stoperle sözleşme imzalamayı planlayan John Stones ve Ezri Konsa ile ilgileniyor."
     },
     {
       "title": "Bayern Munich's Tom Bischof: 'I want to take the next step'",
@@ -134,13 +135,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-23T08:11:23.181203",
+      "fetched_at": "2026-07-23T11:00:09.923267",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-07-23T08:14:04.461665",
+      "processed_at": "2026-07-23T11:02:48.958255",
       "title_tr": "Bayern Münihli Tom Bischof: 'Bir sonraki adımı atmak istiyorum'",
       "summary_tr": "Tom Bischof, Bayern Münih'te geçirdiği etkileyici ilk sezonun ardından A takımda daha da büyük bir rol oynamaya kararlı."
     },
@@ -154,7 +155,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340805",
+      "fetched_at": "2026-07-23T11:01:11.292742",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -162,29 +163,70 @@
         "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.570332",
+      "processed_at": "2026-07-23T11:02:49.129611",
       "title_tr": "Dortmund'un inadı kırıldı: Fenerbahçe, Guirassy'e kavuşuyor! Dev transferin detayları ortaya çıktı",
       "summary_tr": "Fenerbahçe, uzun süredir transferi için uğraş verdiği Gineli santrfor Serhou Guirassy için Borussia Dortmund'un bonservis inadını kırdı. Sarı-lacivertliler, golcü futbolcunun ardından Alman deviyle de anlaşmaya vardı. İşte detaylar..."
     },
     {
+      "title": "2026/27 Bundesliga Fantasy Manager: New points from more match events",
+      "summary": "A new season brings changes to how points can be earned in Bundesliga Fantasy Manager for 2026/27 - available exclusively in the official Bundesliga app - now better reflecting a player’s impact on a match.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/2026-27-fantasy-manager-updated-points-scoring-38329",
+      "image_url": null,
+      "published": "2026-07-23T07:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-07-23T11:00:09.921098",
+      "priority_score": 96,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-07-23T11:02:48.945974",
+      "title_tr": "2026/27 Bundesliga Fantasy Manager: Daha fazla maç etkinliğinden yeni puanlar",
+      "summary_tr": "Yeni sezon, 2026/27 için Bundesliga Fantasy Manager'da puanların nasıl kazanılacağına ilişkin değişiklikler getiriyor - yalnızca resmi Bundesliga uygulamasında mevcut - artık oyuncunun maç üzerindeki etkisini daha iyi yansıtıyor."
+    },
+    {
+      "title": "Why do Chelsea want to sign Lacroix from Palace?",
+      "summary": "Chelsea have not paid a transfer fee for a player aged 26 or over since the summer of 2022 with the ill-fated acquisitions of Raheem Sterling and Kalidou Koulibaly. But Crystal Palace’s Maxence Lacroix is a player worth relaxing the policy for.",
+      "url": "https://www.skysports.com/football/news/12040/13557656/maxence-lacroix-to-chelsea-crystal-palace-defender-is-quick-excels-when-one-on-one-and-is-a-leader-now-too",
+      "image_url": "https://e2.365dm.com/26/06/1920x1080/skysports-maxence-lacroix-france_7282528.jpg?20260625112257",
+      "published": "2026-07-23T10:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-07-23T10:59:21.270165",
+      "priority_score": 91,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-07-23T11:02:48.886178",
+      "title_tr": "Chelsea neden Palace'tan Lacroix'i transfer etmek istiyor?",
+      "summary_tr": "Chelsea, Raheem Sterling ve Kalidou Koulibaly'nin talihsiz bir şekilde satın alındığı 2022 yazından bu yana 26 yaş ve üzeri bir oyuncuya transfer ücreti ödemedi. Ancak Crystal Palace'tan Maxence Lacroix politikayı gevşetmeye değer bir oyuncu."
+    },
+    {
       "title": "Davinson Sanchez'e teklif yağıyor: Galatasaray fiyat artırdı!",
-      "summary": "Galatasaray'da Avrupa ve Suudi Arabistan kulüplerinin transfer listesinde yer alan Davinson Sanchez için yönetim bonservis beklentisini yükseltti. Sarı-kırmızılıların, Kolombiyalı stoper için daha önce 35 milyon euro olarak belirlediği rakamı 45 milyon euroya çıkardığı öne sürüldü.",
+      "summary": "Galatasaray'da Avrupa ve Suudi Arabistan kulüplerinin transfer listesinde yer alan Davinson Sanchez için yönetim bonservis beklentisini yükseltti.",
       "url": "https://www.cnnturk.com/spor/futbol/davinson-sancheze-teklif-yagiyor-galatasaray-fiyat-artirdi-3445824",
       "image_url": null,
-      "published": "2026-07-23T10:52:33",
+      "published": "2026-07-23T11:32:33",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:53.017383",
+      "fetched_at": "2026-07-23T11:01:35.680382",
       "priority_score": 91,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.698331",
+      "processed_at": "2026-07-23T11:02:49.290806",
       "title_tr": "Davinson Sanchez'e teklif yağıyor: Galatasaray fiyat artırdı!",
-      "summary_tr": "Galatasaray'da Avrupa ve Suudi Arabistan kulüplerinin transfer listesinde yer alan Davinson Sanchez için yönetim bonservis beklentisini yükseltti. Sarı-kırmızılıların, Kolombiyalı stoper için daha önce 35 milyon euro olarak belirlediği rakamı 45 milyon euroya çıkardığı öne sürüldü."
+      "summary_tr": "Galatasaray'da Avrupa ve Suudi Arabistan kulüplerinin transfer listesinde yer alan Davinson Sanchez için yönetim bonservis beklentisini yükseltti."
     },
     {
       "title": "Schalke sign defender Maximilian Wöber",
@@ -196,55 +238,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-07-23T08:11:23.180534",
+      "fetched_at": "2026-07-23T11:00:09.922311",
       "priority_score": 81,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-23T08:14:04.457677",
+      "processed_at": "2026-07-23T11:02:48.953512",
       "title_tr": "Schalke defans oyuncusu Maximilian Wöber'i transfer etti",
       "summary_tr": "Maximilian Wöber, Avusturyalı yıldızın Leeds United ile olan sözleşmesini karşılıklı olarak feshetme kararı almasının ardından Schalke'ye serbest oyuncu olarak katıldı."
     },
     {
-      "title": "Barcelona'da Sekulic dönemi!",
-      "summary": "Barcelona Erkek Basketbol Takımı, Sloven başantrenör Aleksander Sekulic ile 2 yıllık sözleşme imzaladığını açıkladı.",
-      "url": "https://www.haberturk.com/barcelona-da-aleksander-sekulic-donemi-3900353-spor",
-      "image_url": "https://im.haberturk.com/l/2026/07/22/ver1784743537/3900353/jpg/1280x1280",
-      "published": "2026-07-22T18:06:12",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Galatasaray'ın istediği Ponomarenko imzayı attı!",
+      "summary": "Galatasaray'ın kadrosuna katmak istediği Ukraynalı genç santrfor Matviy Ponomarenko, kulübü Dinamo Kiev'le yeni sözleşme imzaladı. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-ponomarenko-imzayi-atti-43248898",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61cf34fb32054b4956f729.jpg",
+      "published": "2026-07-23T08:23:01",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:11.252722",
-      "priority_score": 78,
+      "fetched_at": "2026-07-23T11:01:11.292023",
+      "priority_score": 81,
       "categories": [
         "transfers",
-        "la_liga"
+        "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.502862",
-      "title_tr": "Barcelona'da Sekulic dönemi!",
-      "summary_tr": "Barcelona Erkek Basketbol Takımı, Sloven başantrenör Aleksander Sekulic ile 2 yıllık sözleşme imzaladığını açıkladı."
-    },
-    {
-      "title": "Casemiro verklaart keuze voor Inter Miami",
-      "summary": "Inter Miami wordt steeds meer een sterrenteam, nu ook Casemiro voor de club uit Florida heeft gekozen . De 34-jarige Braziliaan, transfervrij na het aflopen van zijn contract met Manchester United, legt uit dat hij nog steeds extreem hongerig is.",
-      "url": "https://www.vi.nl/video/casemiro-verklaart-keuze-voor-inter-miami",
-      "image_url": "https://images.performgroup.com/transcoded/20260723/220726_EN_SPN_MLS_MIAMI_CASEMIRO_ON_MESSI_RV_1784777450994-1_2847_1.jpeg",
-      "published": "2026-07-23T06:15:33",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:14:01.311136",
-      "priority_score": 77,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-07-23T08:14:05.222011",
-      "title_tr": "Casemiro Inter Miami seçimini açıklıyor",
-      "summary_tr": "Inter Miami, Casemiro'nun da Florida'daki kulübü seçmesiyle birlikte giderek yıldız bir takım haline geliyor. Manchester United ile sözleşmesinin sona ermesinin ardından bedelsiz transfer olan 34 yaşındaki Brezilyalı, hâlâ aç olduğunu açıkladı."
+      "processed_at": "2026-07-23T11:02:49.047713",
+      "title_tr": "Galatasaray'ın istediği Ponomarenko imzayı attı!",
+      "summary_tr": "Galatasaray'ın kadrosuna katmak istediği Ukraynalı genç santrfor Matviy Ponomarenko, kulübü Dinamo Kiev'le yeni sözleşme imzaladı. İşte detaylar..."
     },
     {
       "title": "Villa agree deal to sign Garnacho...but it's complicated",
@@ -256,13 +277,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:32.700155",
+      "fetched_at": "2026-07-23T10:59:21.269995",
       "priority_score": 76,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-07-23T08:14:04.383589",
+      "processed_at": "2026-07-23T11:02:48.881089",
       "title_tr": "Villa, Garnacho'yu imzalamak için anlaştı... ancak durum karmaşık",
       "summary_tr": "Aston Villa, Chelsea'den Alejandro Garnacho'yu transfer etmek için anlaşmaya vardı."
     },
@@ -276,35 +297,37 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:32.700267",
+      "fetched_at": "2026-07-23T10:59:21.270253",
       "priority_score": 76,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-07-23T08:14:04.387063",
+      "processed_at": "2026-07-23T11:02:48.889289",
       "title_tr": "Casemiro Inter Miami'ye katıldı ancak kulüp 'kurcalama' soruşturmasıyla karşı karşıya",
       "summary_tr": "Casemiro, Manchester United'dan ayrıldıktan sonra bedelsiz olarak Inter Miami'ye katıldı."
     },
     {
-      "title": "Acun Ilıcalı'nın Hull City'si, Japon yıldızı kaptı! Premier Lig'deki 4. transferleri...",
-      "summary": "Türk iş insanı Acun Ilıcalı'nın sahibi olduğu İngiltere Premier Lig ekiplerinden Hull City, yaz transfer dönemindeki 4. takviyesini yapmaya hazırlanıyor. Turuncu-siyahlılar, Sporting ile sözleşmesi sona eren Japon orta saha oyuncusu Hidemasa Morita ile anlaşmaya vardı. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/acun-ilicalinin-hull-citysi-japon-yildizi-kapti-premier-ligdeki-4-transferleri-43248788",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61c5a7fb32054b4956f6bd.jpg",
-      "published": "2026-07-23T07:42:28",
-      "source": "Hürriyet Spor",
+      "title": "Cengiz Ünder, Fenerbahçe'den ayrılıyor: İtalya iddiası",
+      "summary": "Fenerbahçe forması giyen milli futbolcu Cengiz Ünder'in, İtalya Serie A ekiplerinden Torino'ya kiralık transferi gündeme geldi.",
+      "url": "https://www.cnnturk.com/spor/futbol/cengiz-under-fenerbahceden-ayriliyor-italya-iddiasi-3445848",
+      "image_url": null,
+      "published": "2026-07-23T11:40:29",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340446",
+      "fetched_at": "2026-07-23T11:01:35.679805",
       "priority_score": 76,
       "categories": [
-        "transfers"
+        "transfers",
+        "serie_a",
+        "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.524016",
-      "title_tr": "Acun Ilıcalı'nın Hull City'si, Japon yıldızı kaptı! Premier Lig'deki 4. transferleri...",
-      "summary_tr": "Türk iş insanı Acun Ilıcalı'nın sahibi olduğu İngiltere Premier Lig ekiplerinden Hull City, yaz transfer dönemindeki 4. takviyesini yapmaya hazırlanıyor. Turuncu-siyahlılar, Sporting ile sözleşmesi sona eren Japon orta saha oyuncusu Hidemasa Morita ile anlaşmaya vardı. İşte detaylar..."
+      "processed_at": "2026-07-23T11:02:49.251200",
+      "title_tr": "Cengiz Ünder, Fenerbahçe'den ayrılıyor: İtalya iddiası",
+      "summary_tr": "Fenerbahçe forması giyen milli futbolcu Cengiz Ünder'in, İtalya Serie A ekiplerinden Torino'ya kiralık transferi gündeme geldi."
     },
     {
       "title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
@@ -316,14 +339,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-07-23T08:11:00.226183",
+      "fetched_at": "2026-07-23T10:59:43.581823",
       "priority_score": 73,
       "categories": [
         "transfers",
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-07-23T08:14:04.402023",
+      "processed_at": "2026-07-23T11:02:48.893027",
       "title_tr": "'Şaşırtıcı bir başarı': ABD, Meksika ve Kanada taraftarları Dünya Kupası'na ev sahipliği yapıyor",
       "summary_tr": "Hayranların sağladığı neşe, sevgi, umut ve eğlence, ticarileşmeye, fahiş fiyatlara ve çirkin politikalara ağır bastı. Bu yaz çok hareketli ve hayat dolu geçti. Şüphelerim vardı ama Dünya Kupası yaklaşırken ve Boston ilk maçına ev sahipliği yapmaya hazırlanırken heyecanı ve coşkuyu hissetmeye başladım."
     },
@@ -337,57 +360,35 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:32.699796",
+      "fetched_at": "2026-07-23T10:59:21.269097",
       "priority_score": 71,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-07-23T08:14:04.376119",
+      "processed_at": "2026-07-23T11:02:48.861257",
       "title_tr": "Miami Heat, LeBron'un 'tanıtım' videosunun yanlışlıkla yayınlandığını kabul etti",
       "summary_tr": "Miami Heat, LeBron James'in NBA takımına potansiyel dönüşünü anlatan bir videonun yanlışlıkla yayınlandığını doğruladı."
     },
     {
-      "title": "Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!",
-      "summary": "Real Madrid, Fenerbahçe'den ayrılan Mikael Jantunen'i kadrosuna kattığını açıkladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-ayrilan-jantunen-real-madride-transfer-oldu-43248810",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61c95417406fbcc1e2f964.jpg",
-      "published": "2026-07-23T08:00:01",
-      "source": "Hürriyet Spor",
+      "title": "Leeds in talks with Man City over deal for Trafford",
+      "summary": "Leeds United are in talks with Manchester City over a deal for goalkeeper James Trafford.",
+      "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
+      "image_url": "https://e1.365dm.com/26/07/1920x1080/skysports-james-trafford-man-city_7304893.jpg?20260723113918",
+      "published": "2026-07-23T11:40:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340322",
+      "fetched_at": "2026-07-23T10:59:21.269300",
       "priority_score": 71,
       "categories": [
         "transfers",
-        "la_liga",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-07-23T08:14:04.508037",
-      "title_tr": "Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!",
-      "summary_tr": "Real Madrid, Fenerbahçe'den ayrılan Mikael Jantunen'i kadrosuna kattığını açıkladı."
-    },
-    {
-      "title": "Fenerbahçe yeni golcüsüne kavuşuyor!",
-      "summary": "Transfer dönemine oldukça etkili bir giriş yapan Fenerbahçe çalışmalarına tüm hızıyla devam ediyor. Özellikle santrfor bölgesini güçlendirmek isteyen sarı-lacivertliler, mutlu sona çok yakın!",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-yeni-golcusune-kavusuyor-3445773",
-      "image_url": null,
-      "published": "2026-07-23T08:16:03",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:12:53.017979",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-23T08:14:04.754399",
-      "title_tr": "Fenerbahçe yeni golcüsüne kavuşuyor!",
-      "summary_tr": "Transfer dönemine oldukça etkili bir giriş yapan Fenerbahçe çalışmalarına tüm hızıyla devam ediyor. Özellikle santrfor bölgesini güçlendirmek isteyen sarı-lacivertliler, mutlu sona çok yakın!"
+      "processed_at": "2026-07-23T11:02:48.864726",
+      "title_tr": "Leeds, Trafford'un transferi için Man City ile görüşüyor",
+      "summary_tr": "Leeds United, kaleci James Trafford'un transferi için Manchester City ile görüşmelerde bulunuyor."
     },
     {
       "title": "One month, two record transfers - why English midfielders are in demand",
@@ -399,36 +400,73 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:23.066191",
+      "fetched_at": "2026-07-23T10:59:09.413795",
       "priority_score": 70,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-07-23T08:14:04.370110",
+      "processed_at": "2026-07-23T11:02:48.852674",
       "title_tr": "Bir ay, iki rekor transfer - İngiliz orta saha oyuncuları neden talep görüyor?",
       "summary_tr": "Elliot Anderson ve Morgan Rogers'ın ikisi de rekor transfer ücretleri karşılığında satıldı, peki İngiliz orta saha oyuncuları neden bu kadar talep görüyor?"
     },
     {
-      "title": "'Real Madrid twijfelt over Rodri, Bayern wil af van drietal'",
-      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/real-madrid-twijfelt-over-rodri-bayern-wil-af-van-drietal",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-07-23T07:35:19",
+      "title": "Telstar legt Feyenoord-talent vast na succesvolle proefperiode",
+      "summary": "Telstar heeft Fabiano Rust vastgelegd. De 21-jarige aanvaller trainde de afgelopen weken al mee met de selectie van trainer Henk Brugge en die proefperiode heeft nu geresulteerd in een contract tot medio 2028, met een optie voor nog een seizoen.",
+      "url": "https://www.vi.nl/nieuws/telstar-legt-feyenoord-talent-vast-na-succesvolle-proefperiode",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/23/c01627d1d16c2575d2ba3d156fcfdd29d25418b4.jpg?width=1200",
+      "published": "2026-07-23T10:54:54",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-23T08:14:01.310663",
+      "fetched_at": "2026-07-23T11:02:45.610381",
       "priority_score": 67,
       "categories": [
         "transfers",
-        "la_liga",
-        "serie_a",
-        "bundesliga"
+        "match_results"
       ],
-      "processed_at": "2026-07-23T08:14:05.110600",
-      "title_tr": "'Real Madrid'in Rodri konusunda şüpheleri var, Bayern üç kişiden kurtulmak istiyor'",
+      "processed_at": "2026-07-23T11:02:49.801720",
+      "title_tr": "Telstar, başarılı deneme sürecinin ardından Feyenoord'lu yetenekleri yakaladı",
+      "summary_tr": "Telstar, Fabiano Rust'la anlaştı. 21 yaşındaki hücum oyuncusu, son haftalarda antrenör Henk Brugge'nin seçimiyle antrenmanlara çıktı ve bu deneme süresi, bir sezon daha opsiyonlu olmak üzere 2028 ortasına kadar bir sözleşmeyle sonuçlandı."
+    },
+    {
+      "title": "'Newcastle United trekt portemonnee voor talent van AS Monaco'",
+      "summary": "De meeste transferwindows zijn geopend en dus neemt het transfernieuws weer toe. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/bayern-wil-af-van-drietal-vicario-mag-vertrekken-bij-spurs",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-07-23T10:10:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-07-23T11:02:45.610681",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-07-23T11:02:49.862814",
+      "title_tr": "'Newcastle United, AS Monaco'dan yetenekler için cüzdan açtı'",
       "summary_tr": "Transfer pencerelerinin çoğu açık olduğundan transfer haberleri yeniden artıyor. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+    },
+    {
+      "title": "Acun Ilıcalı'nın Hull City'si, Japon yıldızı kaptı! Premier Lig'deki 4. transferleri...",
+      "summary": "Türk iş insanı Acun Ilıcalı'nın sahibi olduğu İngiltere Premier Lig ekiplerinden Hull City, yaz transfer dönemindeki 4. takviyesini yapmaya hazırlanıyor. Turuncu-siyahlılar, Sporting ile sözleşmesi sona eren Japon orta saha oyuncusu Hidemasa Morita ile anlaşmaya vardı. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/acun-ilicalinin-hull-citysi-japon-yildizi-kapti-premier-ligdeki-4-transferleri-43248788",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61c5a7fb32054b4956f6bd.jpg",
+      "published": "2026-07-23T07:42:28",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-23T11:01:11.292289",
+      "priority_score": 66,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-07-23T11:02:49.076684",
+      "title_tr": "Acun Ilıcalı'nın Hull City'si, Japon yıldızı kaptı! Premier Lig'deki 4. transferleri...",
+      "summary_tr": "Türk iş insanı Acun Ilıcalı'nın sahibi olduğu İngiltere Premier Lig ekiplerinden Hull City, yaz transfer dönemindeki 4. takviyesini yapmaya hazırlanıyor. Turuncu-siyahlılar, Sporting ile sözleşmesi sona eren Japon orta saha oyuncusu Hidemasa Morita ile anlaşmaya vardı. İşte detaylar..."
     },
     {
       "title": "G.Saray'dan Raul Asencio harekatı!",
@@ -440,16 +478,37 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:11.252118",
+      "fetched_at": "2026-07-23T11:00:58.099503",
       "priority_score": 63,
       "categories": [
         "transfers",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.468508",
+      "processed_at": "2026-07-23T11:02:48.981131",
       "title_tr": "G.Saray'dan Raul Asencio harekatı!",
       "summary_tr": "Transfer çalışmalarını sürdüren ve savunma hattına takviye yapmak isteyen Galatasaray için flaş bir transfer iddiası ortaya atıldı. İspanyol basını, Real Madrid Teknik Direktörü Jose Mourinho'nun gelecek planlarında yer almayan genç stoper Raul Asencio'nun, sarı-kırmızılıların listesinde bulunduğunu"
+    },
+    {
+      "title": "Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!",
+      "summary": "Real Madrid, Fenerbahçe'den ayrılan Mikael Jantunen'i kadrosuna kattığını açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-ayrilan-jantunen-real-madride-transfer-oldu-43248810",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a61c95417406fbcc1e2f964.jpg",
+      "published": "2026-07-23T08:00:01",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-07-23T11:01:11.292091",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-07-23T11:02:49.054788",
+      "title_tr": "Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!",
+      "summary_tr": "Real Madrid, Fenerbahçe'den ayrılan Mikael Jantunen'i kadrosuna kattığını açıkladı."
     },
     {
       "title": "Galatasaray'da Can Uzun mesaisi! Transferde kritik aşama",
@@ -461,35 +520,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:25.340550",
+      "fetched_at": "2026-07-23T11:01:11.292453",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.533543",
+      "processed_at": "2026-07-23T11:02:49.089714",
       "title_tr": "Galatasaray'da Can Uzun mesaisi! Transferde kritik aşama",
       "summary_tr": "Yeni sezon öncesi transfer çalışmalarını tüm hızıyla sürdüren Galatasaray'ın gündemindeki Can Uzun ile ilgili önemli bir gelişme yaşandı."
     },
     {
-      "title": "Udinese, Nicolo Zaniolo ile yeni sözleşme imzaladı",
-      "summary": "İtalya Serie A ekibi Udinese, Nicolo Zaniolo'nun sözleşmesinin uzatıldığını duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/udinese-nicolo-zaniolo-ile-yeni-sozlesme-imzaladi-3445567",
+      "title": "Fenerbahçe yeni golcüsüne kavuşuyor!",
+      "summary": "Transfer dönemine oldukça etkili bir giriş yapan Fenerbahçe çalışmalarına tüm hızıyla devam ediyor. Özellikle santrfor bölgesini güçlendirmek isteyen sarı-lacivertliler, mutlu sona çok yakın!",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-yeni-golcusune-kavusuyor-3445773",
       "image_url": null,
-      "published": "2026-07-22T15:04:35",
+      "published": "2026-07-23T08:16:03",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:53.018916",
+      "fetched_at": "2026-07-23T11:01:35.681130",
       "priority_score": 61,
       "categories": [
         "transfers",
-        "serie_a"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.816138",
-      "title_tr": "Udinese, Nicolo Zaniolo ile yeni sözleşme imzaladı",
-      "summary_tr": "İtalya Serie A ekibi Udinese, Nicolo Zaniolo'nun sözleşmesinin uzatıldığını duyurdu."
+      "processed_at": "2026-07-23T11:02:49.361916",
+      "title_tr": "Fenerbahçe yeni golcüsüne kavuşuyor!",
+      "summary_tr": "Transfer dönemine oldukça etkili bir giriş yapan Fenerbahçe çalışmalarına tüm hızıyla devam ediyor. Özellikle santrfor bölgesini güçlendirmek isteyen sarı-lacivertliler, mutlu sona çok yakın!"
     },
     {
       "title": "Villa agree loan deal for Chelsea winger Garnacho",
@@ -501,56 +561,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-07-23T08:10:23.066764",
+      "fetched_at": "2026-07-23T10:59:09.414751",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-07-23T08:14:04.370922",
+      "processed_at": "2026-07-23T11:02:48.854123",
       "title_tr": "Villa, Chelsea'nin kanat oyuncusu Garnacho için kredi anlaşmasını kabul etti",
       "summary_tr": "Aston Villa, Chelsea'nin kanat oyuncusu Alejandro Garnacho'yu satın alma zorunluluğuyla 2026-27 sezonunun sonuna kadar kiralama konusunda anlaştı."
-    },
-    {
-      "title": "Galatasaray'da Bremer için kritik tarih! Serbest kalma maddesi...",
-      "summary": "Savunma hattını güçlendirmek isteyen Galatasaray, Juventus'un yıldız stoperi Bremer transferinde kritik bir sürece girdi. İtalyan basını, Brezilyalı savunmacının serbest kalma maddesinde dikkat çeken tarihi...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/07/23/galatasarayda-bremer-icin-kritik-tarih-serbest-kalma-maddesi",
-      "image_url": "https://iaftm.tmgrup.com.tr/aa4eac/1200/675/0/0/2048/1152?u=https://iftm.tmgrup.com.tr/2026/07/23/galatasarayda-bremer-icin-kritik-tarih-serbest-kalma-maddesi-1784793009775.jpg",
-      "published": "2026-07-23T07:50:28",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:13:03.930530",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-07-23T08:14:04.841766",
-      "title_tr": "Galatasaray'da Bremer için kritik tarih! Serbest kalma maddesi...",
-      "summary_tr": "Savunma hattını güçlendirmek isteyen Galatasaray, Juventus'un yıldız stoperi Bremer transferinde kritik bir sürece girdi. İtalyan basını, Brezilyalı savunmacının serbest kalma maddesinde dikkat çeken tarihi...Devamı için tıklayınız"
-    },
-    {
-      "title": "Trabzonspor'a transferde gün doğdu! Arokodare'den müjdeli haber",
-      "summary": "Trabzonspor'a Nijeryalı forvetin transferi için büyük bir şans doğdu. Championship temsilcisi Wolverhampton Wanderers'ta idmandan kovulan 25 yaşındaki golcünün tesislere girmemesi için önlem alındı. Fırtına...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/trabzonspor/2026/07/23/trabzonspora-transferde-gun-dogdu-arokodareden-mujdeli-haber",
-      "image_url": "https://iaftm.tmgrup.com.tr/ff9dad/1200/675/0/0/1280/719?u=https://iftm.tmgrup.com.tr/2026/07/22/arokodare-gelebilir-1784744268622.jpeg",
-      "published": "2026-07-22T18:17:59",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:13:03.932071",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-07-23T08:14:04.968012",
-      "title_tr": "Trabzonspor'a transferde gün doğdu! Arokodare'den müjdeli haber",
-      "summary_tr": "Trabzonspor'a Nijeryalı forvetin transferi için büyük bir şans doğdu. Championship temsilcisi Wolverhampton Wanderers'ta idmandan kovulan 25 yaşındaki golcünün tesislere girmemesi için önlem alındı. Fırtına...Devamı için tıklayınız"
     },
     {
       "title": "F.Bahçe ve G.Saray'ın Leao yarışı!",
@@ -562,55 +581,36 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-07-23T08:12:11.252496",
+      "fetched_at": "2026-07-23T11:00:58.100037",
       "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-07-23T08:14:04.488063",
+      "processed_at": "2026-07-23T11:02:49.005653",
       "title_tr": "F.Bahçe ve G.Saray'ın Leao yarışı!",
       "summary_tr": "Transfer çalışmalarına hız veren Fenerbahçe ve Galatasaray'ın, Milan'da kariyerini sürdüren Rafael Leao ile ilgilendiği iddia edilirken; iki takımın Portekizli yıldıza sunduğu teklifin detayları açıklandı."
     },
     {
-      "title": "MLS onderzoekt transfer Casemiro, Inter Miami overtrad mogelijk regels",
-      "summary": "De Major League Soccer doet onderzoek naar de transfer van Casemiro naar Inter Miami . Mogelijk heeft die club de regels van de Amerikaanse competitie overtreden, aangezien Los Angeles Galaxy de eerste club was die interesse had in de transfervrije Braziliaanse middenvelder.",
-      "url": "https://www.vi.nl/nieuws/mls-onderzoekt-transfer-casemiro-inter-miami-overtrad-mogelijk-regels",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/07/23/742bf9ac3008cda976b3ee7147be277bbd8601a3.jpg?width=1200",
-      "published": "2026-07-23T06:28:00",
+      "title": "Wouter Goes over leidersrol en transfer Parrott: 'Daar ga ik voor liggen'",
+      "summary": "Met de bekerwinst op zak begint AZ met een glimlach aan het nieuwe seizoen. Wouter Goes kijkt om zich heen en ziet veelal dezelfde namen, plus veel opkomend talent. In gesprek met verslaggever Kalum van Oudheusden blikt hij alvast vooruit, tipt hij het talent om in de gaten te houden en laat hij mer",
+      "url": "https://www.vi.nl/video/wouter-goes-over-leidersrol-en-transfer-parrott-daar-ga-ik-voor-liggen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-07-23t103133-wouter-goes-over-leidersrol-en-transfer-parrott-daar-ga-ik-voorliggen.jpg?width=1200",
+      "published": "2026-07-23T09:04:53",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-07-23T08:14:01.311030",
+      "fetched_at": "2026-07-23T11:02:45.635848",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "serie_a"
+        "match_results"
       ],
-      "processed_at": "2026-07-23T08:14:05.200440",
-      "title_tr": "MLS Casemiro transferini araştırıyor, Inter Miami kuralları ihlal etmiş olabilir",
-      "summary_tr": "Major League Soccer, Casemiro'nun Inter Miami'ye transferini araştırıyor. Los Angeles Galaxy, Brezilyalı serbest orta saha oyuncusuyla ilgilenen ilk kulüp olduğundan, bu kulüp Amerikan liginin kurallarını ihlal etmiş olabilir."
-    },
-    {
-      "title": "Trabzonspor, Onuachu için kararını verdi",
-      "summary": "Trabzonspor yönetimi, yaz transfer döneminin en çok konuşulan isimlerinden Paul Onuachu ile ilgili net kararını aldı.",
-      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-onuachu-icin-kararini-verdi-3445512",
-      "image_url": null,
-      "published": "2026-07-22T14:21:40",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-07-23T08:12:53.019061",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-07-23T08:14:04.822257",
-      "title_tr": "Trabzonspor, Onuachu için kararını verdi",
-      "summary_tr": "Trabzonspor yönetimi, yaz transfer döneminin en çok konuşulan isimlerinden Paul Onuachu ile ilgili net kararını aldı."
+      "processed_at": "2026-07-23T11:02:49.963474",
+      "title_tr": "Wouter liderlik rolünü üstleniyor ve Parrott'u transfer ediyor: 'Bunun için uzanacağım'",
+      "summary_tr": "AZ, kupa galibiyetiyle yeni sezona gülümseyerek başlıyor. Wouter Goes etrafına bakıyor ve birçok aynı ismin yanı sıra birçok yeni yeteneğin ortaya çıktığını görüyor. Muhabir Kalum van Oudheusden ile yaptığı sohbette ileriye bakıyor, göz kulak olmamız gereken yeteneklere dair ipuçları veriyor ve bize daha fazlasını anlatıyor"
     }
   ]
 }
