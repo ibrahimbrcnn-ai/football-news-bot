@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T20:58:47.853347",
+  "timestamp": "2026-08-03T22:03:00.813509",
   "total_items": 30,
   "news": [
     {
@@ -12,19 +12,19 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:03.088184",
+      "fetched_at": "2026-08-03T21:57:52.252342",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-03T20:57:31.000919",
+      "processed_at": "2026-08-03T22:01:38.572454",
       "title_tr": "İngiliz orta saha oyuncusu Henderson Chelsea'ye transfer oldu",
       "summary_tr": "Serbest oyuncu Jordan Henderson, Premier Lig'deki rakipleri Brentford ile olan sözleşmesinin karşılıklı olarak feshedilmesinin ardından Chelsea ile iki yıllık bir anlaşma imzaladı."
     },
     {
       "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5mHenderson adds experience to Xabi Alonso’s squadTrevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender’s departure was agreed on the same day the club completed the signing of J",
+      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTrevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender’s departure was agreed on the same day the club completed the signing of ",
       "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
       "image_url": null,
       "published": "2026-08-03T17:30:01",
@@ -32,15 +32,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:40.137959",
+      "fetched_at": "2026-08-03T21:58:29.705313",
       "priority_score": 100,
       "categories": [
         "transfers",
-        "premier_league"
+        "premier_league",
+        "la_liga"
       ],
-      "processed_at": "2026-08-03T20:57:31.064043",
+      "processed_at": "2026-08-03T22:01:38.635633",
       "title_tr": "Transfer özeti: Chelsea, Trevoh Chalobah'ı sattı ve Jordan Henderson'la anlaştı",
-      "summary_tr": "Chalobah, 27,5 milyon £ karşılığında Como'da Cesc Fàbregas'a katılacak Henderson, Xabi Alonso'nun kadrosuna tecrübe katıyorTrevoh Chalobah'ın Chelsea ile uzun süreli ilişkisi, Como'nun başlangıçta 25,7 milyon £ değerinde bir anlaşma yapmasının ardından sona erecek. İngiliz defans oyuncusunun ayrılışı, kulübün J ile sözleşme imzaladığı gün kabul edildi."
+      "summary_tr": "Chalobah, 27,5 milyon £ karşılığında Como'da Cesc Fàbregas'a katılacakFulham, Real Madrid'den Gonzalo García'yı 34 milyon £ karşılığında imzaladıTrevoh Chalobah'ın Chelsea ile uzun süreli ilişkisi, Como'nun başlangıçta 25,7 milyon £ değerinde bir anlaşma yapmasının ardından sona erecek. İngiliz defans oyuncusunun ayrılışı, kulübün sözleşme imzaladığı gün kararlaştırıldı."
     },
     {
       "title": "Bayer Leverkusen confirm Kerim Alajbegović transfer to Juventus",
@@ -52,35 +53,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-03T20:55:04.091895",
+      "fetched_at": "2026-08-03T21:58:54.206382",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-08-03T20:57:31.173292",
+      "processed_at": "2026-08-03T22:01:38.730985",
       "title_tr": "Bayer Leverkusen, Kerim Alajbegović'in Juventus'a transferini doğruladı",
       "summary_tr": "Bayer Leverkusen, Juventus'un yüksek reytingli genç transfer yarışını kazanmasının ardından Kerim Alajbegović'in ayrıldığını doğruladı."
-    },
-    {
-      "title": "'Perfect ball' | Nygren nods Celtic in front from Tierney's superb delivery",
-      "summary": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
-      "url": "https://www.skysports.com/watch/video/13569537/benjamin-nygren-puts-celtic-in-from-with-a-header-after-a-perfect-cross-from-kieran-tierney",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-celtic-nygren_7313249.jpg?20260803204939",
-      "published": "2026-08-03T20:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-03T20:54:13.460415",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-03T20:57:31.015932",
-      "title_tr": "'Mükemmel top' | Nygren, Tierney'nin muhteşem sunumu karşısında Celtic'i başıyla selamlıyor",
-      "summary_tr": "Benjamin Nygren, Celtic'in sezonun ilk golünü Kieran Tierney'in harika ortasıyla atarak ev sahibi takımın Dundee karşısında öne geçmesini sağladı."
     },
     {
       "title": "Maç sonucu: Shakhtar Donetsk 5-1 Kudrivka",
@@ -92,12 +74,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:02.505309",
+      "fetched_at": "2026-08-03T21:59:59.986744",
       "priority_score": 56,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-03T20:57:31.256530",
+      "processed_at": "2026-08-03T22:01:38.808327",
       "title_tr": "Maç sonucu: Shakhtar Donetsk 5-1 Kudrivka",
       "summary_tr": "Arda Turan'ın teknik direktörlüğünü yaptığı Ukrayna Ligi'nin son şampiyonu Shakhtar Donetsk, Kudrivka'ya gol oldu yağdı."
     },
@@ -111,38 +93,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:40.139649",
+      "fetched_at": "2026-08-03T21:58:29.721383",
       "priority_score": 98,
       "categories": [
         "transfers",
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-03T20:57:31.089481",
+      "processed_at": "2026-08-03T22:01:38.659572",
       "title_tr": "ABD'de yıpranmış: Liverpool'un sezon öncesi turunda yükselişler yaşandı ancak kadrodaki bariz boşluklar ortaya çıktı | Andy Avcısı",
       "summary_tr": "Genç Nyoni, Andoni Iraola'nın ilk sezon öncesi turunda başarılı oldu, ancak Liverpool baş antrenörü, Chicago'da Leeds'e karşı 4-2'lik bir yenilgiyle sonuçlanmadan önce, Nashville'de Sunderland ve New York'ta Wrexham'a karşı galibiyetler elde ettiğinden, baş antrenörün Andoni Iraola'nın ilk sezon öncesi turunu acilen transfere ihtiyacı var."
-    },
-    {
-      "title": "Aziz Yıldırım müjdeyi vermişti! Fenerbahçe yıldız golcüde sona yaklaştı",
-      "summary": "UEFA Şampiyonlar Ligi'nde 3. ön eleme turuna yükselen Fenerbahçe, forvet transferinde çalışmalarını hızlandırdı. Sarı-lacivertlilerin Borussia Dortmund forması giyen Serhou Guirassy transferinde sona yaklaştığı ve kalan pürüzleri gidermek için görüşmelerini sürdürdüğü öğrenildi.",
-      "url": "https://www.cnnturk.com/spor/futbol/aziz-yildirim-mujdeyi-vermisti-fenerbahce-yildiz-golcude-sona-yaklasti-3449622",
-      "image_url": null,
-      "published": "2026-08-03T10:24:01",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-03T20:56:25.502686",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "match_results",
-        "bundesliga",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-03T20:57:31.600534",
-      "title_tr": "Aziz Yıldırım müjdeyi vermişti! Fenerbahçe yıldız golcüde sona yaklaştı",
-      "summary_tr": "UEFA Şampiyonlar Ligi'nde 3. ön eleme turuna yükselen Fenerbahçe, forvet transferinde çalışmalarını hızlandırdı. Sarı-lacivertlilerin Borussia Dortmund forması giyen Serhou Guirassy transferinde sona yaklaştığı ve kalan pürüzleri gidermek için görüşmelerini sürdürdüğü öğrenildi."
     },
     {
       "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
@@ -154,14 +114,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:40.137478",
-      "priority_score": 88,
+      "fetched_at": "2026-08-03T21:58:29.704907",
+      "priority_score": 83,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-03T20:57:31.059587",
+      "processed_at": "2026-08-03T22:01:38.631360",
       "title_tr": "Newcastle, Arsenal'in kaptan Bruno Guimaraes için yaptığı ilk teklifi reddetti",
       "summary_tr": "Premier Lig şampiyonu 70 milyon sterlinlik teklifi geri çevirdiBrezilyalı orta saha oyuncusu Newcastle antrenman kampına geldiArsenal, sonunda resmi transfer görüşmelerine başlayarak ve Newcastle'ın reddettiği bir açılış teklifi yaparak Bruno Guimaråes'i imzalama girişimlerini hızlandırdı.Guimarão, Newcastle ile görüştü."
     },
@@ -175,14 +135,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:02.505598",
+      "fetched_at": "2026-08-03T21:59:59.986995",
       "priority_score": 81,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.285149",
+      "processed_at": "2026-08-03T22:01:38.834521",
       "title_tr": "Fenerbahçe'den Rashford bombası! 'Kesenin ağzını açmaya hazır'",
       "summary_tr": "Bir kanat forvet ve golcü transferi yapmak isteyen Fenerbahçe, listesini hazırladı. İngiliz basını, sarı lacivertlilerin Marcus Rashord ilgisini yazdı. İşte ayrıntılar..."
     },
@@ -196,13 +156,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:55:50.874728",
+      "fetched_at": "2026-08-03T21:59:49.522725",
       "priority_score": 78,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.216049",
+      "processed_at": "2026-08-03T22:01:38.770823",
       "title_tr": "G.Saray'a ABD'li pasör!",
       "summary_tr": "Galatasaray Erkek Voleybol Takımı, son olarak Fakel Yamal forması giyen ABD'li pasör Micah Ma'a ile 1+1 yıllık sözleşme imzaladı."
     },
@@ -216,13 +176,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-03T20:57:27.722585",
+      "fetched_at": "2026-08-03T22:01:34.494736",
       "priority_score": 77,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-03T20:57:31.661003",
+      "processed_at": "2026-08-03T22:01:39.420236",
       "title_tr": "Napoli, başarısız transferin ardından Schalke'yi işaret etti: 'Gerçek neden artık açık'",
       "summary_tr": "Jesper Lindstrøm'un Schalke 04'e transferi son anda iptal edildi ve büyük bir tartışmaya yol açtı. Napoli, yaptığı kapsamlı açıklamada anlaşmanın başarısızlığından Alman kulübünü sorumlu tuttu ve hatta dava açmakla tehdit etti."
     },
@@ -236,35 +196,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-03T20:55:04.070229",
+      "fetched_at": "2026-08-03T21:58:54.201681",
       "priority_score": 76,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-08-03T20:57:31.133875",
+      "processed_at": "2026-08-03T22:01:38.694737",
       "title_tr": "Edin Džeko Schalke'yle yeni sözleşme imzaladı",
       "summary_tr": "Edin Džeko, Royal Blues'un üç yıllık aradan sonra Bundesliga'ya ikinci lig şampiyonu olarak geri dönmesine yardımcı olduktan sonra Schalke'deki kalış süresini uzattı."
     },
     {
-      "title": "Çorum FK, Alexandre Penetra transferini açıkladı",
-      "summary": "Süper Lig'in yeni ekiplerinden Çorum FK, Alexandre Penetra'yı transfer ettiğini duyurdu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/corum-fk-alexandre-penetra-transferini-acikladi-43261274",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a70f457fb32054b495740d2.jpg",
-      "published": "2026-08-03T20:05:48",
-      "source": "Hürriyet Spor",
+      "title": "Çorum FK, yeni stoperini buldu! Alexandre Penetra…",
+      "summary": "Portekizli futbolcu Alexandre Penetra, Çorum FK ile sözleşme imzaladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/corum-fk-yeni-stoperini-buldu-alexandre-penetra-3449974",
+      "image_url": null,
+      "published": "2026-08-03T23:57:33",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:02.505151",
+      "fetched_at": "2026-08-03T22:00:24.089484",
       "priority_score": 76,
       "categories": [
-        "transfers",
-        "super_lig"
+        "transfers"
       ],
-      "processed_at": "2026-08-03T20:57:31.243822",
-      "title_tr": "Çorum FK, Alexandre Penetra transferini açıkladı",
-      "summary_tr": "Süper Lig'in yeni ekiplerinden Çorum FK, Alexandre Penetra'yı transfer ettiğini duyurdu."
+      "processed_at": "2026-08-03T22:01:38.980086",
+      "title_tr": "Çorum FK, yeni stoperini buldu! Alexandre Penetra…",
+      "summary_tr": "Portekizli futbolcu Alexandre Penetra, Çorum FK ile sözleşme imzaladı."
     },
     {
       "title": "Can Uzun transferinde sona doğru: Son viraj!",
@@ -276,57 +235,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:25.502433",
+      "fetched_at": "2026-08-03T22:00:24.091516",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.588061",
+      "processed_at": "2026-08-03T22:01:39.128022",
       "title_tr": "Can Uzun transferinde sona doğru: Son viraj!",
       "summary_tr": "10 numara pozisyonuna güç katmak isteyen Galatasaray, milli futbolcu Can Uzun transferinde sona yaklaştı. İşte detaylar..."
     },
     {
-      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
-      "summary": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
+      "title": "Fulham sign Garcia and Palacios from Real Madrid",
+      "summary": "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-03T20:26:32",
+      "published": "2026-08-03T21:18:39",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:03.089022",
+      "fetched_at": "2026-08-03T21:57:52.252159",
       "priority_score": 75,
       "categories": [
         "transfers",
-        "premier_league",
-        "la_liga",
-        "bundesliga"
+        "la_liga"
       ],
-      "processed_at": "2026-08-03T20:57:31.002637",
-      "title_tr": "Fenerbahce Rashford'a dev teklif hazırlıyor - Salı günkü dedikodular",
-      "summary_tr": "Fenerbahce Marcus Rashford için bütçeyi zorlamaya hazırlandı, RB Leipzig Yan Diomande anlaşması nedeniyle Real Madrid'e karşı çıktı, Arsenal Bruno Guimaraes için görüşmelere başladı"
+      "processed_at": "2026-08-03T22:01:38.572228",
+      "title_tr": "Fulham, Real Madrid'den Garcia ve Palacios'u transfer etti",
+      "summary_tr": "Fulham, Real Madrid'den Gonzalo Garcia ve Cesar Palacios ile 5 yıllık sözleşme imzaladı."
     },
     {
-      "title": "Chelsea, Jordan Henderson'ı transfer etti!",
-      "summary": "Brentford'dan ayrılan Jordan Henderson, Chelsea ile sözleşme imzaladı.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/03/chelsea-jordan-hendersoni-transfer-etti",
-      "image_url": "https://iasbh.tmgrup.com.tr/d37531/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/03/chelsea-jordan-hendersoni-transfer-etti-1785773787371.jpg",
-      "published": "2026-08-03T16:16:35",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "Benjamin Nygren edges Celtic past Dundee for winning start to title defence",
+      "summary": "Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership title with a 1-0 home win over Dundee. Before the game, Celtic fans cheered as the captain, Callum McGregor, unfurled the flag which confirmed again a 14th title win in 15 seasons.It was all a bit fla",
+      "url": "https://www.theguardian.com/football/2026/aug/03/celtic-dundee-scottish-premiership-match-report",
+      "image_url": null,
+      "published": "2026-08-03T20:58:25",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:07.216597",
-      "priority_score": 71,
+      "fetched_at": "2026-08-03T21:58:29.704157",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "premier_league"
+        "breaking_news"
       ],
-      "processed_at": "2026-08-03T20:57:31.411969",
-      "title_tr": "Chelsea, Jordan Henderson'ı transfer etti!",
-      "summary_tr": "Brentford'dan ayrılan Jordan Henderson, Chelsea ile sözleşme imzaladı.Devamı için tıklayınız"
+      "processed_at": "2026-08-03T22:01:38.622931",
+      "title_tr": "Benjamin Nygren, Celtic'i Dundee'yi geçerek şampiyonluk savunmasına galibiyetle başladı",
+      "summary_tr": "Celtic, evinde Dundee'yi 1-0 yenerek Premiership şampiyonluğunu savunmaya başlarken Benjamin Nygren hızla gol yoluna geri döndü. Maçtan önce Celtic taraftarları, kaptan Callum McGregor'un 15 sezonda 14. şampiyonluğunu bir kez daha teyit eden bayrağı açmasını alkışladı."
     },
     {
       "title": "TRANSFER | Jordan Henderson, Chelsea’de",
@@ -338,13 +295,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:25.500313",
+      "fetched_at": "2026-08-03T22:00:24.089650",
       "priority_score": 71,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-03T20:57:31.435639",
+      "processed_at": "2026-08-03T22:01:38.986867",
       "title_tr": "TRANSFER | Jordan Henderson, Chelsea'de",
       "summary_tr": "Chelsea, deneyimli orta saha Jordan Henderson’ı kadrosuna kattı."
     },
@@ -358,75 +315,56 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:25.500535",
+      "fetched_at": "2026-08-03T22:00:24.089797",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.447671",
+      "processed_at": "2026-08-03T22:01:38.997991",
       "title_tr": "Fenerbahçe’de transfer harekâtı başladı! İşte Cihan Kamer'in rotası",
       "summary_tr": "Fenerbahçe’de Yönetim Kurulu Üyesi Cihan Kamer, golcü için yurt dışına çıktı."
     },
     {
-      "title": "Fulham haalt spits weg bij Real Madrid en betaalt veertig miljoen euro",
-      "summary": "Fulham heeft zich versterkt met Gonzalo García. De 22-jarige aanvaller komt over van Real Madrid en heeft in Londen een contract tot de zomer van 2031 getekend. Volgens Engelse media betaalt Fulham veertig miljoen euro voor de spits.",
-      "url": "https://www.vi.nl/nieuws/fulham-haalt-spits-weg-bij-real-madrid-en-betaalt-veertig-miljoen-euro",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/954b5a6824b654b0acc005e60e59cc7636ac0331.jpg?width=1200",
-      "published": "2026-08-03T20:30:00",
+      "title": "Flick ziet geen noodzaak voor vervanger De Jong en dringt aan op nieuwe spits",
+      "summary": "Hansi Flick heeft zich uitgesproken over de transferplannen van Barcelona na de blessure van Frenkie de Jong. De Duitse trainer gaf aan voorlopig geen directe noodzaak te zien om een extra middenvelder aan te trekken, maar benadrukte wel dat de club werk moet maken van een nieuwe spits.",
+      "url": "https://www.vi.nl/nieuws/flick-ziet-geen-noodzaak-voor-vervanger-de-jong-en-dringt-aan-op-nieuwe-spits",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/1320ab52157b7792512ea10bf14f270987a3abec.jpg?width=1200",
+      "published": "2026-08-03T21:17:29",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-03T20:57:27.722340",
+      "fetched_at": "2026-08-03T22:01:34.494403",
       "priority_score": 67,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-08-03T20:57:31.624741",
-      "title_tr": "Fulham, Real Madrid'den forvetle anlaştı ve 40 milyon euro ödedi",
-      "summary_tr": "Fulham, Gonzalo García ile gücünü güçlendirdi. Real Madrid'den gelen 22 yaşındaki hücum oyuncusu, 2031 yazına kadar Londra'da sözleşme imzaladı. İngiliz medyasına göre Fulham, forvet için 40 milyon euro ödeyecek."
+      "processed_at": "2026-08-03T22:01:39.353697",
+      "title_tr": "Flick, De Jong'un değiştirilmesine gerek görmüyor ve yeni bir forvet almakta ısrar ediyor",
+      "summary_tr": "Hansi Flick, Frenkie de Jong'un sakatlığının ardından Barselona'nın transfer planları hakkında konuştu. Alman çalıştırıcı, şimdilik ekstra bir orta saha oyuncusuna ihtiyaç duymadığını belirtirken, kulübün yeni bir forvet üzerinde çalışması gerektiğini vurguladı."
     },
     {
-      "title": "Mechelen brengt tweede bod uit op Nederlandse verdediger",
-      "summary": "Luc Marijnissen kan een mooie transfer maken. De verdediger geniet interesse van KV Mechelen. De Belgische subtopper deed zelfs al meerdere biedingen.",
-      "url": "https://www.vi.nl/nieuws/mechelen-brengt-tweede-bod-uit-op-nederlandse-verdediger",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/02b0e227408741eb5190df2324afdfedb2e2caa3.jpg?width=1200",
-      "published": "2026-08-03T20:20:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-03T20:57:27.722421",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-03T20:57:31.636677",
-      "title_tr": "Mechelen Hollandalı defans oyuncusu için ikinci teklifini yaptı",
-      "summary_tr": "Luc Marijnissen güzel bir transfer yapabilir. Defans oyuncusu KV Mechelen'le ilgileniyor. Belçikalı alt üst oyuncu birçok teklif bile verdi."
-    },
-    {
-      "title": "Hearn wants £1m per-year deal for Pollock from Northampton",
-      "summary": "England star Henry Pollock is expected to seek a significant pay rise to remain at Northampton after agent Eddie Hearn said he is worth at least £1 million a year.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13569479/henry-pollock-eddie-hearn-says-england-star-is-worth-1m-per-year-deal-amid-contract-talks-with-northampton",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-henry-pollock-northampton_7313112.jpg?20260803172815",
-      "published": "2026-08-03T17:30:00",
-      "source": "Sky Sports Football",
+      "title": "Çorum FK, Alexandre Penetra transferini açıkladı",
+      "summary": "Süper Lig'in yeni ekiplerinden Çorum FK, Alexandre Penetra'yı transfer ettiğini duyurdu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/corum-fk-alexandre-penetra-transferini-acikladi-43261274",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a70f457fb32054b495740d2.jpg",
+      "published": "2026-08-03T20:05:48",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:13.460583",
+      "fetched_at": "2026-08-03T21:59:59.986597",
       "priority_score": 66,
       "categories": [
-        "transfers"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.020294",
-      "title_tr": "Hearn, Northampton'dan Pollock için yıllık 1 milyon sterlinlik anlaşma istiyor",
-      "summary_tr": "İngiliz yıldız Henry Pollock'un, menajeri Eddie Hearn'ün yıllık en az 1 milyon £ serveti olduğunu söylemesinin ardından Northampton'da kalabilmek için önemli bir ücret artışı istemesi bekleniyor."
+      "processed_at": "2026-08-03T22:01:38.796630",
+      "title_tr": "Çorum FK, Alexandre Penetra transferini açıkladı",
+      "summary_tr": "Süper Lig'in yeni ekiplerinden Çorum FK, Alexandre Penetra'yı transfer ettiğini duyurdu."
     },
     {
       "title": "ABD, Mauricio Pochettino ile nikâh tazeledi",
@@ -438,34 +376,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:25.500878",
+      "fetched_at": "2026-08-03T22:00:24.090079",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-03T20:57:31.464116",
+      "processed_at": "2026-08-03T22:01:39.013378",
       "title_tr": "ABD, Mauricio Pochettino ile nikâh tazeledi",
       "summary_tr": "ABD Millî Takımı Teknik Direktörü Mauricio Pochettino, yeni sözleşme imzaladı."
     },
     {
-      "title": "Como agree £31m deal to sign Chalobah from Chelsea",
-      "summary": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
+      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
+      "summary": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-03T15:39:32",
+      "published": "2026-08-03T20:26:32",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:03.088817",
+      "fetched_at": "2026-08-03T21:57:52.253047",
       "priority_score": 65,
       "categories": [
         "transfers",
-        "premier_league"
+        "premier_league",
+        "la_liga",
+        "bundesliga"
       ],
-      "processed_at": "2026-08-03T20:57:31.002116",
-      "title_tr": "Como, Chelsea'den Chalobah'ı transfer etmek için 31 milyon sterline anlaştı",
-      "summary_tr": "Como, Chelsea'nin defans oyuncusu Trevoh Chalobah'ı imzalamak için 30 milyon £'dan fazla değerde bir anlaşma yapmayı kabul etti."
+      "processed_at": "2026-08-03T22:01:38.574340",
+      "title_tr": "Fenerbahce Rashford'a dev teklif hazırlıyor - Salı günkü dedikodular",
+      "summary_tr": "Fenerbahce Marcus Rashford için bütçeyi zorlamaya hazırlandı, RB Leipzig Yan Diomande anlaşması nedeniyle Real Madrid'e karşı çıktı, Arsenal Bruno Guimaraes için görüşmelere başladı"
     },
     {
       "title": "Real to resume talks with Arsenal target Vinicius Jr",
@@ -477,14 +417,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:03.089207",
+      "fetched_at": "2026-08-03T21:57:52.253196",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-03T20:57:31.003256",
+      "processed_at": "2026-08-03T22:01:38.574969",
       "title_tr": "Real, Arsenal'in hedefi Vinicius Jr. ile görüşmelere devam edecek",
       "summary_tr": "Real Madrid ve Vinicius Jr, Arsenal kenarda beklerken bu hafta sözleşme görüşmelerine devam edecek."
     },
@@ -498,12 +438,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:54:03.089559",
+      "fetched_at": "2026-08-03T21:57:52.253511",
       "priority_score": 65,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-03T20:57:31.004991",
+      "processed_at": "2026-08-03T22:01:38.576772",
       "title_tr": "Pochettino, ABD'li menajerin sözleşmesinin uzatılmasını kabul etti",
       "summary_tr": "Mauricio Pochettino, Amerika Birleşik Devletleri erkek takımının teknik direktörü olarak 2030 yılına kadar devam etmek üzere bir anlaşma yapmayı kabul etti."
     },
@@ -517,13 +457,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:55:50.874247",
+      "fetched_at": "2026-08-03T21:59:49.522305",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.187037",
+      "processed_at": "2026-08-03T22:01:38.744059",
       "title_tr": "Galatasaray'dan Nathan Zeze için teklif!",
       "summary_tr": "Transfer çalışmalarını sürdüren Galatasaray'da stoper takviyesi için rota Suudi Arabistan'a çevrildi. Sarı kırmızılılar, NEOM forması giyen Nathan Zeze için ilk teklifini Arap ekibine iletti"
     },
@@ -537,14 +477,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:02.505666",
+      "fetched_at": "2026-08-03T21:59:59.987050",
       "priority_score": 61,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.292014",
+      "processed_at": "2026-08-03T22:01:38.840720",
       "title_tr": "Fenerbahçe'ye 45 milyonluk yıldız! 'Olumlu ilerliyor'",
       "summary_tr": "Fenerbahçe, transfer çalışmalarını sürdürürken golcü kanat arayışında son düzlüğe girdi."
     },
@@ -558,35 +498,94 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-03T20:56:02.506205",
+      "fetched_at": "2026-08-03T21:59:59.987494",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-03T20:57:31.353008",
+      "processed_at": "2026-08-03T22:01:38.896043",
       "title_tr": "Beşiktaş'ta Leandro Trossard ilk antrenmanına çıktı!",
       "summary_tr": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turunda Hradec Kralove ile oynayacağı maçın hazırlıklarına, bu sabah yaptığı antrenmanla devam etti. Siyah-beyazlıların yeni transferi Leandro Trossard da ilk antrenmanına çıktı."
     },
     {
-      "title": "Transfervrije Sancho duikt ineens op bij Engelse tiendeklasser",
-      "summary": "Jadon Sancho zit nog altijd zonder club, maar doet er alles aan om fit te blijven. De voormalig aanvaller van Chelsea en Manchester United dook de afgelopen dagen op bij Flixton FC, een amateurclub die uitkomt op het tiende niveau van Engeland.",
-      "url": "https://www.vi.nl/nieuws/transfervrije-sancho-duikt-ineens-op-bij-engelse-tiendeklasser",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/d5aa26d846faff41b0d83c8ee7da3fdab2055f17.jpg?width=1200",
-      "published": "2026-08-03T16:44:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Como agree £31m deal to sign Chalobah from Chelsea",
+      "summary": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-03T15:39:32",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-03T20:57:27.723298",
-      "priority_score": 57,
+      "fetched_at": "2026-08-03T21:57:52.252890",
+      "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-03T20:57:31.796809",
-      "title_tr": "Transfersiz Sancho bir anda İngiltere'nin onuncu ligine çıktı",
-      "summary_tr": "Jadon Sancho hâlâ kulüpsüz ama formda kalmak için elinden geleni yapıyor. Chelsea ve Manchester United'ın eski hücum oyuncusu, geçtiğimiz günlerde İngiltere'nin onuncu liginde oynayan amatör kulüp Flixton FC'de boy göstermişti."
+      "processed_at": "2026-08-03T22:01:38.573775",
+      "title_tr": "Como, Chelsea'den Chalobah'ı transfer etmek için 31 milyon sterline anlaştı",
+      "summary_tr": "Como, Chelsea'nin defans oyuncusu Trevoh Chalobah'ı imzalamak için 30 milyon £'dan fazla değerde bir anlaşma yapmayı kabul etti."
+    },
+    {
+      "title": "Fulham haalt spits weg bij Real Madrid en betaalt veertig miljoen euro",
+      "summary": "Fulham heeft zich versterkt met Gonzalo García. De 22-jarige aanvaller komt over van Real Madrid en heeft in Londen een contract tot de zomer van 2031 getekend. Volgens Engelse media betaalt Fulham veertig miljoen euro voor de spits.",
+      "url": "https://www.vi.nl/nieuws/fulham-haalt-spits-weg-bij-real-madrid-en-betaalt-veertig-miljoen-euro",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/954b5a6824b654b0acc005e60e59cc7636ac0331.jpg?width=1200",
+      "published": "2026-08-03T20:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-03T22:01:34.494546",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-08-03T22:01:39.381066",
+      "title_tr": "Fulham, Real Madrid'den forvetle anlaştı ve 40 milyon euro ödedi",
+      "summary_tr": "Fulham, Gonzalo García ile gücünü güçlendirdi. Real Madrid'den gelen 22 yaşındaki hücum oyuncusu, 2031 yazına kadar Londra'da sözleşme imzaladı. İngiliz medyasına göre Fulham, forvet için 40 milyon euro ödeyecek."
+    },
+    {
+      "title": "Mechelen brengt tweede bod uit op Nederlandse verdediger",
+      "summary": "Luc Marijnissen kan een mooie transfer maken. De verdediger geniet interesse van KV Mechelen. De Belgische subtopper deed zelfs al meerdere biedingen.",
+      "url": "https://www.vi.nl/nieuws/mechelen-brengt-tweede-bod-uit-op-nederlandse-verdediger",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/03/02b0e227408741eb5190df2324afdfedb2e2caa3.jpg?width=1200",
+      "published": "2026-08-03T20:20:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-03T22:01:34.494602",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-03T22:01:39.393946",
+      "title_tr": "Mechelen Hollandalı defans oyuncusu için ikinci teklifini yaptı",
+      "summary_tr": "Luc Marijnissen güzel bir transfer yapabilir. Defans oyuncusu KV Mechelen'le ilgileniyor. Belçikalı alt üst oyuncu birçok teklif bile verdi."
+    },
+    {
+      "title": "Papers: Turkish side eyeing shock Rashford move",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13569563/marcus-rashford-transfer-news-fenerbahce-eye-shock-move-for-manchester-united-forward-paper-talk",
+      "image_url": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published": "2026-08-03T22:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-03T21:58:05.012229",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-03T22:01:38.585262",
+      "title_tr": "Gazeteler: Türk tarafı şok edici Rashford hamlesini izliyor",
+      "summary_tr": "Salı günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
       "title": "Borussia Dortmund sign Konstantinos Karetsas from Genk",
@@ -598,14 +597,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-03T20:55:04.072043",
+      "fetched_at": "2026-08-03T21:58:54.203244",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-03T20:57:31.146474",
+      "processed_at": "2026-08-03T22:01:38.706395",
       "title_tr": "Borussia Dortmund, Genk'ten Konstantinos Karetsas'ı kadrosuna kattı",
       "summary_tr": "Borussia Dortmund, Belçika'nın Genk kentinden Konstantinos Karetsas'ı kadrosuna kattı ve Yunanistan'ın yüksek reytingli uluslararası genç oyuncusuyla Haziran 2031'e kadar uzun vadeli bir sözleşme imzalandı."
     }
