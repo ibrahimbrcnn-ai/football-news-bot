@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T21:32:26.592575",
+  "timestamp": "2026-08-07T22:31:16.326652",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:47.308711",
+      "fetched_at": "2026-08-07T22:28:25.814278",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-07T21:31:20.077851",
+      "processed_at": "2026-08-07T22:30:04.946283",
       "title_tr": "Trabzonspor'da Mohamed Salah bereketi: 3 günde servet kazandırdı!",
       "summary_tr": "Mohamed Salah transferiyle dünya çapında geniş yakın uyandıran Trabzonspor, Mısırlı yıldız daha resmi maça çıkmadan bu sükseli transferin meyvelerini toplamaya başladı. İşte detaylar..."
     },
@@ -32,7 +32,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:47.309004",
+      "fetched_at": "2026-08-07T22:28:25.814518",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -40,7 +40,7 @@
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.110579",
+      "processed_at": "2026-08-07T22:30:04.976805",
       "title_tr": "Trabzonspor'da Mohamed Salah sonrası bir bomba transfer daha! Sıra yıldız golcüde",
       "summary_tr": "Yaz transfer döneminde transferler art arda açıklanırken, Süper Lig'in dört büyük kulübü yeni sezon hazırlıkları kapsamında çalışmalarını sürdürüyor. Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor, kadrolarını güçlendirmek adına transfer mesaisine hız verdi. Kulüplerde yaşanan son dakika gelişmele"
     },
@@ -54,34 +54,54 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:07.141556",
+      "fetched_at": "2026-08-07T22:28:51.915221",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-07T21:31:20.358702",
+      "processed_at": "2026-08-07T22:30:05.215823",
       "title_tr": "RESMİLEŞTİ | Celta Vigo, Altay Bayındır’ı kiralık olarak kadrosuna kattı",
       "summary_tr": "Celta Vigo, Manchester United ile Altay Bayındır’ın kiralık transferi konusunda anlaşmaya vardı. İspanyol kulübü, milli kaleci için satın alma opsiyonlu bir sözleşme imzaladığını duyurdu."
     },
     {
-      "title": "Middlesbrough 1-0 Wrexham: Carabao Cup first round – live",
-      "summary": "⚽ League Cup updates, 8pm BST kick-off at the Riverside⚽ Follow on TikTok | Sign up for Football Daily | Mail Billy6 min: The whistle goes for a foul by Malanda, who was holding on to Hyam as the corner came in.Wolves have the lead against Port Vale, Adam Armstrong tucking home after Mateus Mane’s c",
-      "url": "https://www.theguardian.com/football/live/2026/aug/07/middlesbrough-v-wrexham-carabao-cup-first-round-live",
+      "title": "Will Lankshear starts off in style to see Middlesbrough past Wrexham",
+      "summary": "Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenham, scored the only goal of the game in the 61st minute as he hooked home an excellent first-time volley.Middle",
+      "url": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report",
       "image_url": null,
-      "published": "2026-08-07T21:07:10",
+      "published": "2026-08-07T21:20:40",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:29.433895",
-      "priority_score": 63,
+      "fetched_at": "2026-08-07T22:26:59.731535",
+      "priority_score": 83,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-07T22:30:04.780616",
+      "title_tr": "Will Lankshear, Middlesbrough'un Wrexham'ı geçmesini görmek için şık bir başlangıç ​​yapıyor",
+      "summary_tr": "Will Lankshear'ın ilk golü, Middlesbrough'un Carabao Kupası ilk turunda Wrexham'ı 1-0 yenerek sezona galibiyetle başlamasını sağladı. Tottenham'dan 10 milyon sterline transfer olan Lankshear, ilk seferinde mükemmel bir voleyle 61. dakikada maçın tek golünü attı."
+    },
+    {
+      "title": "Debut Lankshear goal sees Boro past Wrexham as Wolves & Stevenage progress",
+      "summary": "Will Lankshear's debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round.",
+      "url": "https://www.skysports.com/football/news/12040/13570859/carabao-cup-will-lankshear-strike-sees-middlesbrough-past-wrexham-as-wolves-beat-port-vale-and-stevenage-edge-wycombe",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7316474.jpg?20260807222608",
+      "published": "2026-08-07T22:05:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-07T22:26:36.775159",
+      "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-08-07T21:31:19.919096",
-      "title_tr": "Middlesbrough 1-0 Wrexham: Carabao Kupası ilk tur – canlı",
-      "summary_tr": "⚽ Lig Kupası güncellemeleri, Riverside'da saat 20:00'de BST başlama vuruşu⚽ TikTok'ta Takip Edin | Futbol Günlük'e kaydolun | Mail Billy6 dakika: Düdük, köşe vuruşunda Hyam'ı tutan Malanda'nın faulünü çaldı. Wolves, Port Vale karşısında öne geçti, Adam Armstrong, Mateus Mane'nin topuyla topu kaleye soktu."
+      "processed_at": "2026-08-07T22:30:04.742039",
+      "title_tr": "Lankshear'ın ilk golünde Wolves ve Stevenage ilerlerken Boro Wrexham'ı geçiyor",
+      "summary_tr": "Will Lankshear'ın ilk golü, Middlesbrough'un Carabao Kupası ilk turunda Wrexham'ı 1-0 yenerek sezona galibiyetle başlamasını sağladı."
     },
     {
       "title": "Boardroom struggle deepens gloom as West Ham prepare for life on the outside",
@@ -93,53 +113,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:29.435676",
+      "fetched_at": "2026-08-07T22:26:59.731958",
       "priority_score": 53,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-08-07T21:31:19.937852",
+      "processed_at": "2026-08-07T22:30:04.785101",
       "title_tr": "West Ham dışarıdaki hayata hazırlanırken toplantı odası mücadelesi kasveti derinleştiriyor",
       "summary_tr": "Vanessa Gold'un hisseleri üzerindeki güç savaşı ve David Sullivan Panorama iddiaları, Şampiyonada sezonun başlangıcını gölgede bırakıyor. West Ham'ın Londra Stadyumu'nda 10 yaz kiracılığı ve birkaç kış hoşnutsuzluk yaşandı. Hammers yeni sezona Cumartesi günü başlarken"
     },
     {
-      "title": "New Zealand begin South Africa tour with flattering win over Stormers",
-      "summary": "New Zealand's first full-scale tour of South Africa in 30 years began with an underwhelming 38-21 win over the Stormers.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13570742/new-zealands-tour-of-south-africa-all-blacks-pull-away-late-on-in-flattering-38-21-win-over-stormers",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-peter-lakai_7316368.jpg?20260807203743",
-      "published": "2026-08-07T16:42:00",
+      "title": "Late winner sees Leeds edge Wakefield",
+      "summary": "Highlights of Wakefield Trinity against Leeds Rhinos from the Super League.",
+      "url": "https://www.skysports.com/watch/video/13570851/wakefield-trinity-22-24-leeds-rhinos-super-league-highlights",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316464.jpg?20260807221227",
+      "published": "2026-08-07T22:00:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:06.991972",
+      "fetched_at": "2026-08-07T22:26:36.775095",
       "priority_score": 51,
       "categories": [
-        "breaking_news"
+        "match_results"
       ],
-      "processed_at": "2026-08-07T21:31:19.884536",
-      "title_tr": "Yeni Zelanda, Güney Afrika turnesine Stormers karşısında gurur verici bir galibiyetle başladı",
-      "summary_tr": "Yeni Zelanda'nın 30 yıldır ilk büyük çaplı Güney Afrika turu, Stormers'a karşı 38-21'lik ezici bir galibiyetle başladı."
-    },
-    {
-      "title": "Hull beats pro course record at Centurion! | Story of her round",
-      "summary": "The story of Charley Hull's record-breaking second round at the PIF London Championship from the Centurion Club.",
-      "url": "https://www.skysports.com/watch/video/13570772/charley-hull-beats-pro-course-record-at-centurion-story-of-her-round",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-charley-hull_7316261.jpg?20260807182130",
-      "published": "2026-08-07T18:12:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-07T21:28:06.992171",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-07T21:31:19.891406",
-      "title_tr": "Hull, Centurion'da profesyonel parkur rekorunu kırdı! | Onun turunun hikayesi",
-      "summary_tr": "Charley Hull'un Centurion Club'dan PIF Londra Şampiyonası'nda rekor kıran ikinci turunun hikayesi."
+      "processed_at": "2026-08-07T22:30:04.740066",
+      "title_tr": "Geç kazanan Leeds'in Wakefield'ı geride bıraktığını görüyor",
+      "summary_tr": "Süper Lig'de Wakefield Trinity'nin Leeds Rhinos'a karşı öne çıkan maçları."
     },
     {
       "title": "GALATASARAY VİLLARREAL MAÇI NEREDEN İZLENİR? Galatasaray Villarreal hazırlık maçı ne zaman saat kaçta hangi kanalda? Şifreli mi şifresiz mi?",
@@ -151,35 +152,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:07.139871",
+      "fetched_at": "2026-08-07T22:28:51.913970",
       "priority_score": 51,
       "categories": [
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.251596",
+      "processed_at": "2026-08-07T22:30:05.111748",
       "title_tr": "GALATASARAY VİLLARREAL MAÇI NEREDEN İZLENİR? Galatasaray Villarreal hazırlık maçı ne zaman saat kaçta hangi kanalda? Şifreli mi şifresiz mi?",
       "summary_tr": "Galatasaray Villarreal hazırlık maçı merakla bekleniyor. Avusturya kampından sonra İstanbul'a geri dönen Sarı Kırmızılı takım ilk hazırlık maçında Rennes ile karşılaşmış mücadele 3-3 beraberlikle sonuçlanmıştı. Galatasaray son hazırlık maçında Villarreal ile kozlarını paylaşacak. Futbolseverler iki"
     },
     {
-      "title": "Çorum'a Venezuelalı golcü!",
-      "summary": "Süper Lig ekiplerinden Arca Çorum FK, Portekiz Primeira Ligi ekiplerinden CD Nacional forması giyen santrfor Jesus Ramirez'i kadrosuna kattı. Kırmızı-siyahlı kulüp, 28 yaşındaki futbolcuyla 3+1 yıllık sözleşme imzaladı.",
-      "url": "https://www.haberturk.com/corum-fk-jesus-ramirez-i-transfer-etti-3904156-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/08/ver1786136480/3904156/jpg/1280x1280",
-      "published": "2026-08-07T21:01:27",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Araujo set for surprise Liverpool loan move",
+      "summary": "Liverpool have agreed a surprise deal for Barcelona defender Ronald Araujo to join on loan for the season.",
+      "url": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-ronald-araujo-barcelona_7316498.jpg?20260807230449",
+      "published": "2026-08-07T22:51:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.123758",
-      "priority_score": 93,
+      "fetched_at": "2026-08-07T22:26:36.775026",
+      "priority_score": 91,
       "categories": [
         "transfers",
-        "match_results",
-        "super_lig"
+        "la_liga"
       ],
-      "processed_at": "2026-08-07T21:31:20.002294",
-      "title_tr": "Çorum'a Venezuelalı golcü!",
-      "summary_tr": "Süper Lig ekiplerinden Arca Çorum FK, Portekiz Primeira Ligi ekiplerinden CD Nacional forması giyen santrfor Jesus Ramirez'i kadrosuna kattı. Kırmızı-siyahlı kulüp, 28 yaşındaki futbolcuyla 3+1 yıllık sözleşme imzaladı."
+      "processed_at": "2026-08-07T22:30:04.738993",
+      "title_tr": "Araujo Liverpool'a sürpriz bir kiralama hamlesine hazırlanıyor",
+      "summary_tr": "Liverpool, Barcelona'nın defans oyuncusu Ronald Araujo'nun bu sezon kiralık olarak katılması için sürpriz bir anlaşmaya vardı."
     },
     {
       "title": "Fisnik Asllani to stay at Hoffenheim after RB Leipzig transfer collapses",
@@ -191,16 +191,36 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:52.978135",
+      "fetched_at": "2026-08-07T22:27:27.562595",
       "priority_score": 91,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-07T21:31:19.970465",
+      "processed_at": "2026-08-07T22:30:04.827823",
       "title_tr": "Fisnik Asllani, RB Leipzig transferinin çökmesinin ardından Hoffenheim'da kalacak",
       "summary_tr": "Hoffenheim, hücum oyuncusu Fisnik Asllani'nin, ligdeki rakipleri RB Leipzig'e olası transferin çökmesinin ardından kulüpte kalacağını doğruladı."
+    },
+    {
+      "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
+      "summary": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
+      "url": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
+      "published": "2026-08-07T22:16:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-07T22:26:36.775287",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-07T22:30:04.748110",
+      "title_tr": "UEFA, Infantino'nun \"metresine\" kendisi için çalışırken para ödediği iddiasının farkında",
+      "summary_tr": "UEFA, Avrupa futbolunun yönetim organının Gianni Infantino'nun metresine rüşvet verdiği yönündeki iddialardan haberdar olduğunu doğruladı."
     },
     {
       "title": "Fenerbahçe'den Sörloth hamlesi!",
@@ -212,14 +232,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.124444",
+      "fetched_at": "2026-08-07T22:28:12.905088",
       "priority_score": 78,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.036641",
+      "processed_at": "2026-08-07T22:30:04.906664",
       "title_tr": "Fenerbahçe'den Sörloth hamlesi!",
       "summary_tr": "Transfer çalışmalarını sürdüren Fenerbahçe'de sıcak gelişmeler yaşanmaya devam ediyor. Sarı-lacivertlilerin golcü transferi için rotayı yeniden Alexander Sörloth'a çevirdiği ileri sürüldü. İşte detaylar..."
     },
@@ -233,35 +253,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.124583",
+      "fetched_at": "2026-08-07T22:28:12.905190",
       "priority_score": 78,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.044329",
+      "processed_at": "2026-08-07T22:30:04.913920",
       "title_tr": "Efe Mandıracı, Galatasaray'da!",
       "summary_tr": "Galatasaray, milli voleybolcu Efe Mandıracı ile 2 yıllık sözleşme imzaladı"
-    },
-    {
-      "title": "Man City explore Fernandez move - Saturday's gossip",
-      "summary": "Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-07T21:07:46",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-07T21:27:55.393517",
-      "priority_score": 75,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-07T21:31:19.878522",
-      "title_tr": "Manchester City Fernandez'in transferini araştırıyor - Cumartesi günkü dedikodular",
-      "summary_tr": "Manchester City, Enzo Fernandez'in hamlesini araştırıyor, Arsenal, Pio Esposito ve Liverpool için Manchester United ile mücadele edebilir ancak henüz Bradley Barcola'nın ücreti ve daha fazlasını kabul etmedi."
     },
     {
       "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
@@ -273,15 +273,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:29.434879",
+      "fetched_at": "2026-08-07T22:26:59.732292",
       "priority_score": 73,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-07T21:31:19.928432",
+      "processed_at": "2026-08-07T22:30:04.791406",
       "title_tr": "Jay-Z'nin Roc Nation Sports'u Avrupa futbol transfer pazarında ses getiriyor",
       "summary_tr": "Vinícius Júnior ve Yan Diomande, hip-hop efsanesine ait bir ajansta çalışan 100'den fazla oyuncu arasında yer alıyor. Sonunda açık bir kazanan ortaya çıktı. Ve Jay-Z'nin son zaferi, eşi Beyoncé'nin dört yıl boyunca rap yaptığını gösteren ilk albümün yayınlanmasından yalnızca 24 saat sonra geldi."
+    },
+    {
+      "title": "Erzurumspor Ebosele ile anlaştı",
+      "summary": "Transfer çalışmalarını sürdüren Süper Lig'in yeni ekibi Erzurumspor FK, son olarak Başakşehir forması giyen İrlandalı sağ bek Festy Ebosele ile prensipte anlaştı.",
+      "url": "https://www.haberturk.com/erzurumspor-ebosele-ile-anlasti-3904157-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/08/ver1786136835/3904157/jpg/1280x1280",
+      "published": "2026-08-07T21:06:38",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-07T22:28:12.904532",
+      "priority_score": 68,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-07T22:30:04.871126",
+      "title_tr": "Erzurumspor Ebosele ile anlaştı",
+      "summary_tr": "Transfer çalışmalarını sürdüren Süper Lig'in yeni ekibi Erzurumspor FK, son olarak Başakşehir forması giyen İrlandalı sağ bek Festy Ebosele ile prensipte anlaştı."
     },
     {
       "title": "Çorum FK, Jesus Ramirez transferini açıkladı",
@@ -293,13 +313,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:47.308550",
+      "fetched_at": "2026-08-07T22:28:25.814129",
       "priority_score": 66,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.064013",
+      "processed_at": "2026-08-07T22:30:04.933169",
       "title_tr": "Çorum FK, Jesus Ramirez transferini açıkladı",
       "summary_tr": "Süper Lig ekiplerinden Çorum FK, Venezuelalı santrfor Jesus Ramirez'i kadrosuna kattı."
     },
@@ -313,38 +333,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:47.308927",
+      "fetched_at": "2026-08-07T22:28:25.814455",
       "priority_score": 66,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.100640",
+      "processed_at": "2026-08-07T22:30:04.967547",
       "title_tr": "Fenerbahçe, Mason Greenwood'un eski takım arkadaşı için devrede! Transferde sürpriz hamle",
       "summary_tr": "Sol kanat ve santrfor arayışlarını sürdüren Fenerbahçe'nin Mason Greenwood'un Marsilya'dan takım arkadaşı olan Igor Paixao'nun transferi için devreye girdiği iddia edildi. İşte detaylar..."
     },
     {
-      "title": "Fenerbahçe'den Süper Lig'i karıştıracak hamle! Beşiktaş'ın Vlahovic planı bozulabilir",
-      "summary": "Son dakika transfer haberleri | Fenerbahçe'nin Alexander Sörloth için yeniden devreye girdiği iddia edildi. Norveçli golcünün Atletico Madrid'den ayrılması halinde İspanyol ekibi rotasını Dusan Vlahovic'e...Devamı için tıklayınız",
-      "url": "https://www.aspor.com.tr/fenerbahce/2026/08/07/fenerbahceden-super-ligi-karistiracak-hamle-besiktasin-vlahovic-plani-bozulabilir",
-      "image_url": "https://iaftm.tmgrup.com.tr/e10c28/1200/675/0/164/657/533?u=https://iftm.tmgrup.com.tr/2026/08/07/fenerbahceden-super-ligi-karistiracak-hamle-besiktasin-vlahovic-plani-bozulabilir-1786088030701.jpeg",
-      "published": "2026-08-06T22:08:09",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
+      "title": "Man City explore Fernandez move - Saturday's gossip",
+      "summary": "Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-07T21:07:46",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:22.272512",
-      "priority_score": 64,
+      "fetched_at": "2026-08-07T22:26:25.818280",
+      "priority_score": 65,
       "categories": [
         "transfers",
-        "match_results",
-        "breaking_news",
-        "la_liga",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-08-07T21:31:20.449654",
-      "title_tr": "Fenerbahçe'den Süper Lig'i karıştıracak hamle! Beşiktaş'ın Vlahovic planı bozulabilir",
-      "summary_tr": "Son dakika transfer haberleri | Fenerbahçe'nin Alexander Sörloth için yeniden devreye girdiği iddia edildi. Norveçli golcünün Atletico Madrid'den ayrılması halinde İspanyol ekibi rotasını Dusan Vlahovic'e...Devamı için tıklayınız"
+      "processed_at": "2026-08-07T22:30:04.733636",
+      "title_tr": "Manchester City Fernandez'in transferini araştırıyor - Cumartesi günkü dedikodular",
+      "summary_tr": "Manchester City, Enzo Fernandez'in hamlesini araştırıyor, Arsenal, Pio Esposito ve Liverpool için Manchester United ile mücadele edebilir ancak henüz Bradley Barcola'nın ücreti ve daha fazlasını kabul etmedi."
     },
     {
       "title": "Lukaku F.Bahçe'yi beğendi!",
@@ -356,14 +373,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.123995",
+      "fetched_at": "2026-08-07T22:28:12.904735",
       "priority_score": 63,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.011578",
+      "processed_at": "2026-08-07T22:30:04.882017",
       "title_tr": "Lukaku F.Bahçe'yi beğendi!",
       "summary_tr": "Fenerbahçe'nin forvet adayları arasında yer alan Romelu Lukaku, sarı-lacivertli taraftarları heyecanlandıran bir hamle yaptı. Belçikalı golcü, Fenerbahçe sosyal medya hesabından paylaşılan Sturm Graz maçı hikayesini beğendi. Bu gelişme, Lukaku'nun Fenerbahçe'ye transfer olmak istediği şeklinde yorum"
     },
@@ -377,12 +394,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:06.992238",
+      "fetched_at": "2026-08-07T22:26:36.775513",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-07T21:31:19.893649",
+      "processed_at": "2026-08-07T22:30:04.757795",
       "title_tr": "Liverpool Barcola'nın PSG ile yaptığı görüşmelerin ardından anlaşmayı tamamlamak zor",
       "summary_tr": "Liverpool, Bradley Barcola'yı transfer etme olasılığı konusunda Paris Saint-Germain ile ön görüşmelerde bulundu."
     },
@@ -396,12 +413,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:07.140685",
+      "fetched_at": "2026-08-07T22:28:51.914570",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-07T21:31:20.310259",
+      "processed_at": "2026-08-07T22:30:05.169485",
       "title_tr": "Samsunspor Başkanı Yüksel Yıldırım, yeni transferi duyurdu",
       "summary_tr": "Samsunspor Başkanı Yüksel Yıldırım, “Gabriele Guarino transferimiz, Samsunspor'umuza hayırlı olsun” dedi."
     },
@@ -415,12 +432,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:07.141378",
+      "fetched_at": "2026-08-07T22:28:51.915097",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-07T21:31:20.345990",
+      "processed_at": "2026-08-07T22:30:05.203609",
       "title_tr": "Gaziantep FK, Serdar Dursun'u duyurdu",
       "summary_tr": "Gaziantep Futbol Kulübü, son olarak Kocaelispor forması giyen milli futbolcu Serdar Dursun ile 1 yıllık sözleşme imzaladı."
     },
@@ -434,13 +451,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:29.435332",
+      "fetched_at": "2026-08-07T22:26:59.733638",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-07T21:31:19.933237",
+      "processed_at": "2026-08-07T22:30:04.810963",
       "title_tr": "Tottenham ve Atlético, Romero ile ilgili görüşmelerde bulunuyor ve Van de Ven yeni anlaşma imzalamaya hazırlanıyor",
       "summary_tr": "Simeone, Spurs defans oyuncusu için hamle konusunda istekli Van de Ven'in beş yıllık uzatma imzalaması bekleniyorTottenham, Arsenal'in Arjantinli defans oyuncusu için yaklaşımını kategorik olarak reddetmesinin ardından Cristian Romero'nun satışı konusunda Atlético Madrid ile görüşüyor ve Micky van ile beş yıllık yeni bir anlaşma yapması bekleniyor"
     },
@@ -454,13 +471,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.124519",
+      "fetched_at": "2026-08-07T22:28:12.905143",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.040817",
+      "processed_at": "2026-08-07T22:30:04.910613",
       "title_tr": "Gabriel Sara'dan 'kalıyorum' mesajı!",
       "summary_tr": "Galatasaray forması giyen Gabriel Sara, transfer iddialarına rağmen İstanbul'da yeni bir eve taşınarak mobilya siparişi verdi. Resmi teklif almayan Brezilyalı orta sahanın bu adımı, Galatasaray'da kalacağı yönünde değerlendiriliyor."
     },
@@ -474,14 +491,14 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-07T21:31:15.292858",
+      "fetched_at": "2026-08-07T22:30:01.505690",
       "priority_score": 57,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-08-07T21:31:20.631364",
+      "processed_at": "2026-08-07T22:30:05.481342",
       "title_tr": "'Liverpool, Manchester'a giden Barcola ve Rulli'nin bedelini ağır ödüyor'",
       "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
@@ -495,54 +512,73 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:07.142056",
+      "fetched_at": "2026-08-07T22:28:51.915590",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.392277",
+      "processed_at": "2026-08-07T22:30:05.248036",
       "title_tr": "Galatasaray, Milan'ın inadını kıramadı! Leao pazarlıkları sürüyor...",
       "summary_tr": "Galatasaray, Rafael Leao ile kişisel şartlarda anlaşmaya vardı ancak Milan ile yürütülen bonservis pazarlığında zorlu bir süreçle karşı karşıya. Sarı-kırmızılılar, 27 yaşındaki Portekizli yıldızla yıllık net 9 milyon euro maaş ve 3 milyon euroluk bonus maddesini içeren toplam 12 milyon euroluk bir p"
     },
     {
-      "title": "'Gegijzelde' ex-PSV'er Lozano vindt nieuwe club",
-      "summary": "Hirving Lozano heeft een nieuwe club gevonden. De Mexicaanse voormalige PSV'er heeft na een lastige periode San Diego verlaten en een contract getekend bij Los Angeles Galaxy.",
-      "url": "https://www.vi.nl/nieuws/gegijzelde-ex-psv-er-lozano-vindt-nieuwe-club",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/07/4baab557e2eef0f9dbcfd4302c3f224fd161f5ff.jpg?width=1200",
-      "published": "2026-08-07T21:08:35",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-07T21:31:15.293269",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-07T21:31:20.710993",
-      "title_tr": "'Rehin alınan' eski PSV oyuncusu Lozano yeni kulüp buldu",
-      "summary_tr": "Hirving Lozano yeni bir kulüp buldu. Meksikalı eski PSV oyuncusu, zorlu bir dönemin ardından San Diego'dan ayrıldı ve Los Angeles Galaxy ile sözleşme imzaladı."
-    },
-    {
-      "title": "'His dad is so proud!' | Sinfield scores in front of famous father",
-      "summary": "Jack Sinfield scored for Wakefield against his father's former side Leeds as rugby league legend Kevin watched on proudly.",
-      "url": "https://www.skysports.com/watch/video/13570827/super-league-jack-sinfield-scores-in-front-of-famous-father-kevin",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316401.jpg?20260807212046",
-      "published": "2026-08-07T21:12:00",
+      "title": "New Zealand begin South Africa tour with flattering win over Stormers",
+      "summary": "New Zealand's first full-scale tour of South Africa in 30 years began with an underwhelming 38-21 win over the Stormers.",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13570742/new-zealands-tour-of-south-africa-all-blacks-pull-away-late-on-in-flattering-38-21-win-over-stormers",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-peter-lakai_7316368.jpg?20260807203743",
+      "published": "2026-08-07T16:42:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-07T21:28:06.992494",
+      "fetched_at": "2026-08-07T22:26:36.775214",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-07T22:30:04.743980",
+      "title_tr": "Yeni Zelanda, Güney Afrika turnesine Stormers karşısında gurur verici bir galibiyetle başladı",
+      "summary_tr": "Yeni Zelanda'nın 30 yıldır ilk büyük çaplı Güney Afrika turu, Stormers'a karşı 38-21'lik ezici bir galibiyetle başladı."
+    },
+    {
+      "title": "Hull beats pro course record at Centurion! | Story of her round",
+      "summary": "The story of Charley Hull's record-breaking second round at the PIF London Championship from the Centurion Club.",
+      "url": "https://www.skysports.com/watch/video/13570772/charley-hull-beats-pro-course-record-at-centurion-story-of-her-round",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-charley-hull_7316261.jpg?20260807182130",
+      "published": "2026-08-07T18:12:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-07T22:26:36.775399",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-07T22:30:04.752230",
+      "title_tr": "Hull, Centurion'da profesyonel parkur rekorunu kırdı! | Onun turunun hikayesi",
+      "summary_tr": "Charley Hull'un Centurion Club'dan PIF Londra Şampiyonası'nda rekor kıran ikinci turunun hikayesi."
+    },
+    {
+      "title": "Leeds pull off comeback to beat Wakefield, KR and Leigh pick up crucial wins",
+      "summary": "Leeds underlined their Super League title credentials as Chris Hankinson's converted try capped a thrilling comeback 24-22 win over Wakefield at a packed-out DIY Kitchens Stadium.",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13570737/super-league-leeds-rhinos-secure-play-off-spot-with-comeback-win-over-wakefield-trinity-hull-kr-and-leigh-leopards-pick-up-crucial-victories",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7316463.jpg?20260807221006",
+      "published": "2026-08-07T23:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-07T22:26:36.775458",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-07T21:31:19.904090",
-      "title_tr": "'Babası çok gurur duyuyor!' | Sinfield ünlü babasının önünde gol attı",
-      "summary_tr": "Ragbi ligi efsanesi Kevin gururla izlerken Jack Sinfield, babasının eski takımı Leeds'e karşı Wakefield adına gol attı."
+      "processed_at": "2026-08-07T22:30:04.754937",
+      "title_tr": "Leeds, Wakefield'ı yenmek için geri dönüş yaptı, KR ve Leigh önemli galibiyetler aldı",
+      "summary_tr": "Leeds, Chris Hankinson'un dönüşüm denemesi ile tıka basa dolu DIY Kitchens Stadyumu'nda Wakefield'ı 24-22 yenerek heyecan verici bir geri dönüşe imza atarken, Süper Lig şampiyonluk iddiasının altını çizdi."
     },
     {
       "title": "İtalyan gazeteci duyurdu! Galatasaray ve Rafael Leao...",
@@ -554,55 +590,16 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-07T21:30:22.272164",
+      "fetched_at": "2026-08-07T22:29:07.160972",
       "priority_score": 49,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-07T21:31:20.428017",
+      "processed_at": "2026-08-07T22:30:05.282896",
       "title_tr": "İtalyan gazeteci duyurdu! Galatasaray ve Rafael Leao...",
       "summary_tr": "Galatasaray'ın transfer listesinde yer alan Rafael Leao için yürütülen görüşmelerde kritik bir dönemece girildi. Milan'ın 60 milyon euroluk bonservis talebinde indirime yanaşmaması ve Portekizli yıldızın...Devamı için tıklayınız"
-    },
-    {
-      "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
-      "summary": "‘There is no way back for him,’ says NFF presidentInfantino still battling for support around the worldThe Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed attempt to sell stakes in the World Cup to private investors.Norway is the first federation to call direc",
-      "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
-      "image_url": null,
-      "published": "2026-08-07T11:15:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-07T21:28:29.436490",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-08-07T21:31:19.948110",
-      "title_tr": "Norveçli Klaveness, FIFA Başkanı Infantino'ya istifasını söyledi: 'Artık güven yok'",
-      "summary_tr": "NFF başkanı İnfantino, \"Onun için geri dönüş yok\" diyor, dünya çapında destek için hâlâ mücadele ediyorNorveç Futbol Federasyonu, Dünya Kupası hisselerini özel yatırımcılara satmaya yönelik başarısız girişiminin ardından Gianni Infantino'dan derhal istifa etmesini isteyecek.Norveç, direktörlük çağrısı yapan ilk federasyon oldu"
-    },
-    {
-      "title": "\"Sanki Brad Pitt ile yürüyor gibiydim\"",
-      "summary": "Hull City Teknik Direktörü Sergej Jakirovic, HT Spor'a özel açıklamalarda bulundu. Bosna Hersekli teknik adam, Premier Lig'e yükseliş hikayesinden hedeflerine, transfer çalışmalarından Acun Ilıcalı'ya kadar birçok konu hakkında dikkat çeken ifadeler kullandı.",
-      "url": "https://www.haberturk.com/hull-city-teknik-direktoru-sergej-jakirovic-ht-spor-a-konustu-sanki-brad-pitt-ile-yuruyor-gibiydim-3904132-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/07/ver1786125108/3904132/jpg/1280x1280",
-      "published": "2026-08-07T17:56:00",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-07T21:29:36.124135",
-      "priority_score": 48,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-07T21:31:20.018422",
-      "title_tr": "\"Sanki Brad Pitt ile yürüyor gibiydim\"",
-      "summary_tr": "Hull City Teknik Direktörü Sergej Jakirovic, HT Spor'a özel açıklamalarda bulundu. Bosna Hersekli teknik adam, Premier Lig'e yükseliş hikayesinden hedeflerine, transfer çalışmalarından Acun Ilıcalı'ya kadar birçok konu hakkında dikkat çeken ifadeler kullandı."
     }
   ]
 }
