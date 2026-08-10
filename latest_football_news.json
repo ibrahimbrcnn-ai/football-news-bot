@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T18:46:19.724761",
+  "timestamp": "2026-08-10T19:51:22.638244",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:16.287724",
+      "fetched_at": "2026-08-10T19:48:21.852013",
       "priority_score": 100,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-10T18:45:05.337624",
+      "processed_at": "2026-08-10T19:50:12.747346",
       "title_tr": "Efe Mandıracı resmen Galatasaray'da!",
       "summary_tr": "Galatasaray Erkek Voleybol Takımı’nın yeni transferi Efe Mandıracı için imza töreni gerçekleştirildi. Mandıracı, kendisini iki yıllığına Sarı Kırmızılılar'a bağlayan sözleşmeyi imzaladı."
     },
@@ -32,14 +32,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:29.572163",
+      "fetched_at": "2026-08-10T19:48:36.066837",
       "priority_score": 96,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-10T18:45:05.441327",
+      "processed_at": "2026-08-10T19:50:12.873800",
       "title_tr": "Fenerbahçe'de Lukaku'dan sonra Gabriel Jesus sürprizi! Napoli indirime gitti",
       "summary_tr": "Fenerbahçe'nin uzun süredir transferi için mesai harcadığı Lukaku konusunda önemli bir gelişme yaşandı. Napoli, bonservis inadını kırdı. Bununla beraber Fenerbahçe adına Gabriel Jesus sürprizi yaşandı."
     },
@@ -53,15 +53,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.919178",
+      "fetched_at": "2026-08-10T19:46:38.457022",
       "priority_score": 95,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-10T18:45:05.231763",
+      "processed_at": "2026-08-10T19:50:12.615810",
       "title_tr": "Devralma anlaşması çökerken Derby 'piyasa dışı'",
       "summary_tr": "Suudi Arabistan hükümet yetkilisi Turki Alalshikh, Şampiyonluk kulübü Derby County'yi devralma teklifinden vazgeçti."
+    },
+    {
+      "title": "Bayern Munich's Harry Kane to receive second European Golden Shoe",
+      "summary": "Bayern Munich forward Harry Kane will be presented with the European Golden Shoe award on the 19 August after finishing as the continent's most prolific league goalscorer in 2025/26.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-bayern-munich-golden-shoe-europe-erling-haaland-kylian-mbappe-38565",
+      "image_url": null,
+      "published": "2026-08-10T17:51:46",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:47:34.934360",
+      "priority_score": 81,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-10T19:50:12.702244",
+      "title_tr": "Bayern Münih'ten Harry Kane Avrupa'nın ikinci Altın Ayakkabısını alacak",
+      "summary_tr": "Bayern Münih forveti Harry Kane, 2025/26 sezonunu kıtanın en üretken ligi golcüsü olarak bitirdikten sonra 19 Ağustos'ta Avrupa Altın Ayakkabı ödülüne layık görülecek."
     },
     {
       "title": "Has Arsenal's indifferent pre-season revealed a surprise weakness?",
@@ -73,112 +93,91 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:31.661425",
+      "fetched_at": "2026-08-10T19:46:49.523858",
       "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-10T18:45:05.264641",
+      "processed_at": "2026-08-10T19:50:12.651690",
       "title_tr": "Arsenal'in sezon öncesi kayıtsız performansı sürpriz bir zayıflığı mı ortaya çıkardı?",
       "summary_tr": "Arsenal sezon öncesinde endişe verici bir oranda gol yiyor. Üç maçta yedi. Geçen sezon Premier Lig'deki şampiyonluk başarılarına büyük katkı sağlayan en büyük güçleri, bir sonraki sezonun arifesinde sürpriz bir kırılganlık kaynağına mı dönüştü?"
     },
     {
-      "title": "Liverpool sign Araujo on loan from Barcelona",
-      "summary": "Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
+      "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
+      "summary": "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-10T18:04:38",
+      "published": "2026-08-10T14:54:09",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.918198",
+      "fetched_at": "2026-08-10T19:46:38.456359",
       "priority_score": 55,
       "categories": [
-        "la_liga"
+        "injuries"
       ],
-      "processed_at": "2026-08-10T18:45:05.227459",
-      "title_tr": "Liverpool, Araujo'yu Barcelona'dan kiraladı",
-      "summary_tr": "Liverpool, Uruguaylı defans oyuncusu Ronald Araujo'yu satın alma opsiyonuyla Barcelona'dan sezonluk kiralık olarak kadrosuna kattı."
+      "processed_at": "2026-08-10T19:50:12.611294",
+      "title_tr": "Liverpool taraftarları Iraola'nın fitness yorumları konusunda endişelenmeli mi?",
+      "summary_tr": "Liverpool taraftarları, Andoni Iraola'nın takımın kondisyonuyla ilgili yorumları konusunda endişelenmeli mi?"
     },
     {
-      "title": "Liverpool, Araujo'yu kiraladı",
-      "summary": "Liverpool, Barcelona'nın Uruguaylı savunma oyuncusu Ronald Araujo'yu sezon sonuna kadar kiraladı.",
-      "url": "https://www.haberturk.com/liverpool-araujo-yu-kiraladi-3904698-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/10/ver1786385777/3904698/jpg/1280x1280",
-      "published": "2026-08-10T18:16:27",
+      "title": "Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
+      "summary": "Spurs will play Charlton, Preston v EvertonBrentford away at Birmingham; Ipswich v LeicesterFive-time winners Chelsea have been handed a home draw against League One Luton in the second round of the Carabao Cup. Chelsea’s new manager, Xabi Alonso, will begin the club’s attempt to win the competition",
+      "url": "https://www.theguardian.com/football/2026/aug/10/carabao-cup-second-round-draw-chelsea-luton-nottingham-forest-leeds",
+      "image_url": null,
+      "published": "2026-08-10T19:32:36",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:47:12.219494",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-08-10T19:50:12.672490",
+      "title_tr": "Carabao Kupası ikinci tur kuraları: Chelsea, Luton'u, Forest ise Leeds'i ağırlıyor",
+      "summary_tr": "Spurs, Birmingham'da Charlton, Preston - EvertonBrentford deplasmanında karşılaşacak; Ipswich - LeicesterBeş kez kazanan Chelsea, Carabao Kupası'nın ikinci turunda League One Luton ile iç sahada berabere kaldı. Chelsea'nin yeni menajeri Xabi Alonso, kulübün rekabeti kazanma çabasına başlayacak"
+    },
+    {
+      "title": "Trabzonspor’dan dünyaya Salah daveti!",
+      "summary": "Trabzonspor, Mohamed Salah’ın bordo mavili takıma katılmasının ardından başta Mısır olmak üzere dünyanın dört bir yanından kulübe ulaşan mesajlara teşekkür ederek, futbolseverleri Trabzon ve Papara Park’a davet etti.",
+      "url": "https://www.haberturk.com/trabzonspordan-dunyaya-salah-daveti-kapimiz-sehrimiz-tribunlerimiz-acik-3904645-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/10/ver1786370883/3904645/jpg/1280x1280",
+      "published": "2026-08-10T14:27:50",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:16.287431",
+      "fetched_at": "2026-08-10T19:48:21.851955",
       "priority_score": 53,
       "categories": [
-        "la_liga"
+        "general"
       ],
-      "processed_at": "2026-08-10T18:45:05.321735",
-      "title_tr": "Liverpool, Araujo'yu kiraladı",
-      "summary_tr": "Liverpool, Barcelona'nın Uruguaylı savunma oyuncusu Ronald Araujo'yu sezon sonuna kadar kiraladı."
+      "processed_at": "2026-08-10T19:50:12.743561",
+      "title_tr": "Trabzonspor’dan dünyaya Salah daveti!",
+      "summary_tr": "Trabzonspor, Mohamed Salah’ın bordo mavili takıma katılmasının ardından başta Mısır olmak üzere dünyanın dört bir yanından kulübe ulaşan mesajlara teşekkür ederek, futbolseverleri Trabzon ve Papara Park’a davet etti."
     },
     {
-      "title": "Rugnummers Real Madrid bekend: Dumfries in voetsporen Huijsen en Makélélé",
-      "summary": "Real Madrid heeft zijn voorlopige rugnummers maandag bekendgemaakt. Zomeraanwinst Denzel Dumfries gaat in het Bernabéu spelen met rugnummer 24, zo blijkt daaruit.",
-      "url": "https://www.vi.nl/nieuws/rugnummers-real-madrid-bekend-dumfries-in-voetsporen-huijsen-en-makelele",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/10/c31757f9588d24f0bdb1192a97e7fbb4a840e45a.jpg?width=1200",
-      "published": "2026-08-10T15:06:57",
+      "title": "Krul vol lof over 'moderne keeper' Ter Stegen: 'DNA van Barcelona en Ajax heel belangrijk'",
+      "summary": "Marc ter Stegen maakte zondag zijn debuut voor Ajax op bezoek bij PEC Zwolle. Oud-doelman Tim Krul is complimenteus over de Duitser, die zich meteen liet zien.",
+      "url": "https://www.vi.nl/nieuws/krul-vol-lof-voor-ter-stegen-dna-van-barcelona-en-ajax-heel-belangrijk",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/10/cbbc32be5ce7cae63a4f79bb43d646361f178719.jpg?width=1200",
+      "published": "2026-08-10T19:39:33",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-10T18:45:02.445583",
-      "priority_score": 52,
+      "fetched_at": "2026-08-10T19:50:08.937218",
+      "priority_score": 47,
       "categories": [
-        "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-08-10T18:45:05.744030",
-      "title_tr": "Real Madrid forma numaraları açıklandı: Dumfries, Huijsen ve Makélélé'nin izinde",
-      "summary_tr": "Real Madrid, Pazartesi günü geçici kadro numaralarını açıkladı. Yaz transferinden Denzel Dumfries, Bernabéu'da 24 numaralı formayla forma giyecek gibi görünüyor."
-    },
-    {
-      "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
-      "summary": "Fresh bid expected for Villa’s KonsaArteta says existing players need to improveArsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed that Jurriën Timber is well away from returning to competitive action. Saliba will be out for an extended perio",
-      "url": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window",
-      "image_url": null,
-      "published": "2026-08-10T09:48:53",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:41:57.834413",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-10T18:45:05.299629",
-      "title_tr": "Arsenal, Timber ve Saliba'nın kenarda kalmasıyla savunmaya yönelik baskısını artırdı",
-      "summary_tr": "Villa'dan KonsaArteta için yeni teklif bekleniyor, mevcut oyuncuların iyileştirilmesi gerekiyor diyorArsenal, Mikel Arteta'nın Jurriën Timber'ın rekabetçi aksiyona dönmekten çok uzakta olduğunu açıklamasının ardından William Saliba için savunma koruması imzalama çabalarını hızlandırıyor. Saliba uzun süre sahalardan uzak kalacak"
-    },
-    {
-      "title": "Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal",
-      "summary": "Winger McNeil almost joined in JanuaryIsrael right-back Khalaili also on way to PalaceCrystal Palace and Everton have agreed a straight swap for Brennan Johnson and Dwight McNeil – six months after McNeil’s partner accused Palace of messing with his mental health after pulling out of a deal.McNeil a",
-      "url": "https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup",
-      "image_url": null,
-      "published": "2026-08-10T11:35:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:41:57.834121",
-      "priority_score": 93,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-10T18:45:05.295240",
-      "title_tr": "Crystal Palace ve Everton, Brennan Johnson-Dwight McNeil takas anlaşmasında anlaştı",
-      "summary_tr": "Winger McNeil Ocak ayında neredeyse İsrailli sağ bek Khalaili'ye katılıyordu ve Crystal Palace'a gidiyordu ve Everton, Brennan Johnson ve Dwight McNeil için doğrudan bir takas konusunda anlaştı; McNeil'in ortağı, Palace'ı anlaşmadan çekildikten sonra akıl sağlığını bozmakla suçlamasından altı ay sonra."
+      "processed_at": "2026-08-10T19:50:13.226375",
+      "title_tr": "Krul, 'modern kaleci' Ter Stegen'e övgü dolu: 'Barcelona ve Ajax'ın DNA'sı çok önemli'",
+      "summary_tr": "Marc ter Stegen, Pazar günü PEC Zwolle'u ziyaret ederek Ajax formasıyla ilk maçına çıktı. Eski kaleci Tim Krul, hemen kendini gösteren Alman futbolcuyu övdü."
     },
     {
       "title": "Trabzonspor transferde hız kesmiyor: Sırada Paredes var!",
@@ -190,12 +189,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:53.255187",
+      "fetched_at": "2026-08-10T19:48:59.185636",
       "priority_score": 91,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-10T18:45:05.507661",
+      "processed_at": "2026-08-10T19:50:12.955170",
       "title_tr": "Trabzonspor transferde hız kesmiyor: Sırada Paredes var!",
       "summary_tr": "Trabzonspor, Mohamed Salah transferinin ardından kadro yapılanmasına hız kesmeden devam ediyor. Bordo-Mavililer, orta saha hattını güçlendirmek için Arjantinli yıldız Leandro Paredes’i yeniden gündemine aldı."
     },
@@ -209,35 +208,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:29.571989",
+      "fetched_at": "2026-08-10T19:48:36.066627",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-10T18:45:05.414986",
+      "processed_at": "2026-08-10T19:50:12.841365",
       "title_tr": "Efe Mandıracı: 'Galatasaray'da oynayacak olmaktan çok mutluyum!'",
       "summary_tr": "Galatasaray Erkek Voleybol Takımı'nın yeni transferi Efe Mandıracı için imza töreni düzenlendi."
     },
     {
-      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
-      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss",
+      "title": "West Ham sign winger Solomon from Tottenham",
+      "summary": "West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-10T18:11:48",
+      "published": "2026-08-10T18:56:56",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.919078",
+      "fetched_at": "2026-08-10T19:46:38.456639",
       "priority_score": 75,
       "categories": [
-        "transfers",
-        "la_liga"
+        "transfers"
       ],
-      "processed_at": "2026-08-10T18:45:05.231087",
-      "title_tr": "Araujo neden Liverpool'a katıldı ve Barselona'da işler nerede ters gitti?",
-      "summary_tr": "Ronald Araujo, Barcelona'dan kiralık olarak Liverpool'a transfer oldu. Liverpool'un neden Uruguaylı defans oyuncusuna transfer olduğunu ve Barselona'da neyin yanlış gittiğini açıklıyoruz."
+      "processed_at": "2026-08-10T19:50:12.612591",
+      "title_tr": "West Ham, Tottenham'dan kanat oyuncusu Solomon'u kadrosuna kattı",
+      "summary_tr": "West Ham United, Tottenham'dan kanat oyuncusu Manor Solomon ile üç yıllık sözleşme imzaladı."
     },
     {
       "title": "Nunez adım adım Trabzonspor'a!",
@@ -249,74 +247,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:16.287864",
+      "fetched_at": "2026-08-10T19:48:21.852192",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-10T18:45:05.346181",
+      "processed_at": "2026-08-10T19:50:12.758190",
       "title_tr": "Nunez adım adım Trabzonspor'a!",
       "summary_tr": "Yeni sezon öncesi transfer dönemi için kolları sıvayan Trabzonspor, 27 yaşındaki golcü Darwin Nunez'i kiralık olarak kadrosuna katmak için Al Hilal'le anlaşmaya vardı."
     },
     {
-      "title": "'Endrick kan naar Premier League, Liverpool en Barcola akkoord'",
-      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/endrick-kan-naar-premier-league-liverpool-en-barcola-akkoord",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-08-10T18:08:09",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
+      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-10T18:11:48",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:45:02.445030",
-      "priority_score": 67,
+      "fetched_at": "2026-08-10T19:46:38.455661",
+      "priority_score": 65,
       "categories": [
         "transfers",
-        "premier_league",
-        "serie_a"
+        "la_liga"
       ],
-      "processed_at": "2026-08-10T18:45:05.626472",
-      "title_tr": "'Endrick Premier Lig, Liverpool ve Barcola'yla anlaşabilir'",
-      "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Konyaspor, Masuaku'yu transfer ediyor! Yönetici açıkladı",
-      "summary": "Konyaspor Futbol Şube Sorumlusu Ali Camgöz, “Masuaku şu an sağlık kontrolünde. Bir aksilik çıkmazsa sözleşmeyi imzalayacağız” dedi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/konyaspor-masuakuyu-transfer-ediyor-yonetici-acikladi-43268478",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a79c95aad3320b137e4c3d0.jpg",
-      "published": "2026-08-10T12:52:19",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:43:29.571946",
-      "priority_score": 66,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-10T18:45:05.409188",
-      "title_tr": "Konyaspor, Masuaku'yu transfer ediyor! Yönetici açıkladı",
-      "summary_tr": "Konyaspor Futbol Şube Sorumlusu Ali Camgöz, “Masuaku şu an sağlık kontrolünde. Bir aksilik çıkmazsa sözleşmeyi imzalayacağız” dedi."
-    },
-    {
-      "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
-      "summary": "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also involvedA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bh",
-      "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
-      "image_url": null,
-      "published": "2026-08-10T13:49:05",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:41:57.832110",
-      "priority_score": 63,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-10T18:45:05.271878",
-      "title_tr": "Liverpool'un sahipleri, Jeff Bezos'un da aralarında bulunduğu konsorsiyuma yaklaşık 1,35 milyar £'luk hissenin %30'unu satıyor",
-      "summary_tr": "Amazon kurucusunun da aralarında bulunduğu grup, FSGBhatia ve Facebook kurucu ortağı Saverin ile görüşmelerde bulundu. Amazon kurucusu Jeff Bezos'un da dahil olduğu bir konsorsiyum, Fenway Sports Group ile aylarca süren görüşmelerin ardından Liverpool'un %30 hissesi için bir anlaşmayı tamamlamaya yakın. Yatırımcılar Amit Bh tarafından yönetiliyor"
+      "processed_at": "2026-08-10T19:50:12.609424",
+      "title_tr": "Araujo neden Liverpool'a katıldı ve Barselona'da işler nerede ters gitti?",
+      "summary_tr": "Ronald Araujo, Barcelona'dan kiralık olarak Liverpool'a transfer oldu. Liverpool'un neden Uruguaylı defans oyuncusuna transfer olduğunu ve Barselona'da neyin yanlış gittiğini açıklıyoruz."
     },
     {
       "title": "Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson",
@@ -328,15 +287,54 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:57.832853",
+      "fetched_at": "2026-08-10T19:47:12.219959",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-10T18:45:05.278464",
+      "processed_at": "2026-08-10T19:50:12.677993",
       "title_tr": "Manchester United, Michael Carrick yönetiminde eski seviyesine geri mi dönüyor? | Jonathan Wilson",
       "summary_tr": "Jonathan Wilson, haber bülteninin posta çantası baskısında Michael Carrick, VAR ve Premier Lig'in yeni takımları hakkındaki soruları yanıtlıyor Ücretsiz haber bültenimize buradan kaydolun Manchester United sonunda Michael Carrick yönetimindeki soyunma odasında istikrara benzeyen bir şeye sahip görünüyor. ile hissediyorum"
+    },
+    {
+      "title": "Acun Ilıcalı, Türkiye'den transfer yapıyor! Anlaşma tamam",
+      "summary": "Süper Lig'de yeni sezonun başlamasına günler kala transfer piyasası alev almış durumda. Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor yeni sezonda şampiyonluk hedefleri için kadrolarını yıldızlarla güçlendirmek için çalışmalarını sürdürüyor. Süper Lig'de yaşanan tüm transfer gelişmelerini haberim",
+      "url": "https://www.hurriyet.com.tr/sporarena/live-acun-ilicali-turkiyeden-transfer-yapiyor-anlasma-tamam-43267920",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7a1a61dd4561c737f52064.jpg",
+      "published": "2026-08-10T18:37:53",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:48:36.066060",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-10T19:50:12.780728",
+      "title_tr": "Acun Ilıcalı, Türkiye'den transfer yapıyor! Anlaşma tamam",
+      "summary_tr": "Süper Lig'de yeni sezonun başlamasına günler kala transfer piyasası alev almış durumda. Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor yeni sezonda şampiyonluk hedefleri için kadrolarını yıldızlarla güçlendirmek için çalışmalarını sürdürüyor. Süper Lig'de yaşanan tüm transfer gelişmelerini haberim"
+    },
+    {
+      "title": "Konyaspor, Masuaku'yu transfer ediyor! Yönetici açıkladı",
+      "summary": "Konyaspor Futbol Şube Sorumlusu Ali Camgöz, “Masuaku şu an sağlık kontrolünde. Bir aksilik çıkmazsa sözleşmeyi imzalayacağız” dedi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/konyaspor-masuakuyu-transfer-ediyor-yonetici-acikladi-43268478",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a79c95aad3320b137e4c3d0.jpg",
+      "published": "2026-08-10T12:52:19",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:48:36.066576",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-10T19:50:12.834157",
+      "title_tr": "Konyaspor, Masuaku'yu transfer ediyor! Yönetici açıkladı",
+      "summary_tr": "Konyaspor Futbol Şube Sorumlusu Ali Camgöz, “Masuaku şu an sağlık kontrolünde. Bir aksilik çıkmazsa sözleşmeyi imzalayacağız” dedi."
     },
     {
       "title": "Baran Yılmaz'ın hedefi A Milli Takım! 'Türkiye’ye daha güçlü gelmek istiyorum'",
@@ -348,14 +346,33 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:29.572209",
+      "fetched_at": "2026-08-10T19:48:36.066896",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-10T18:45:05.449228",
+      "processed_at": "2026-08-10T19:50:12.883364",
       "title_tr": "Baran Yılmaz'ın hedefi A Milli Takım! 'Türkiye’ye daha güçlü gelmek istiyorum'",
       "summary_tr": "Hollanda’da kariyerini sürdüren genç sol bek Baran Yılmaz, Fortuna Sittard ile profesyonel sözleşme imzaladı. U21 takımıyla üst üste iki sezon şampiyonluk yaşayan genç futbolcu, yeni sezonda Eredivisie’de forma giymeyi hedefliyor. Türkiye’den teklifler aldığını açıklayan Yılmaz, kariyer planını ve A"
+    },
+    {
+      "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
+      "summary": "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also involvedA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bh",
+      "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
+      "image_url": null,
+      "published": "2026-08-10T13:49:05",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:47:12.218346",
+      "priority_score": 58,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-10T19:50:12.664526",
+      "title_tr": "Liverpool'un sahipleri, Jeff Bezos'un da aralarında bulunduğu konsorsiyuma yaklaşık 1,35 milyar £'luk hissenin %30'unu satıyor",
+      "summary_tr": "Amazon kurucusunun da aralarında bulunduğu grup, FSGBhatia ve Facebook kurucu ortağı Saverin ile görüşmelerde bulundu. Amazon kurucusu Jeff Bezos'un da dahil olduğu bir konsorsiyum, Fenway Sports Group ile aylarca süren görüşmelerin ardından Liverpool'un %30 hissesi için bir anlaşmayı tamamlamaya yakın. Yatırımcılar Amit Bh tarafından yönetiliyor"
     },
     {
       "title": "Manchester City closing in on £85m Bouaddi to soften blow of Rodri’s expected exit",
@@ -367,7 +384,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:57.833818",
+      "fetched_at": "2026-08-10T19:47:12.221138",
       "priority_score": 58,
       "categories": [
         "transfers",
@@ -375,9 +392,30 @@
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-08-10T18:45:05.291031",
+      "processed_at": "2026-08-10T19:50:12.694417",
       "title_tr": "Manchester City, Rodri'nin beklenen ayrılışını yumuşatmak için 85 milyon £'luk Bouaddi'ye yaklaşıyor",
       "summary_tr": "Faslı uluslararası orta saha oyuncusu, Barça'nın Rodri için daha iyi bir teklifle geri dönme şartlarını kabul etti Manchester City, Lille'den Ayyoub Bouaddi'yi imzalamaya yaklaşıyor ve orta saha oyuncusunun beklenen gelişi, Rodri'nin Barselona'ya katılmasının önünü açıyor. 18 yaşındaki oyuncu City ile kişisel anlaşmaya vardı."
+    },
+    {
+      "title": "'Endrick kan naar Premier League, Liverpool en Barcola akkoord'",
+      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/endrick-kan-naar-premier-league-liverpool-en-barcola-akkoord",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-08-10T18:08:09",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:50:08.937419",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-10T19:50:13.266591",
+      "title_tr": "'Endrick Premier Lig, Liverpool ve Barcola'ya gitmeyi kabul edebilir'",
+      "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Liverpool heeft beet: deal met Barcelona over Araújo",
@@ -389,13 +427,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-10T18:45:02.445081",
+      "fetched_at": "2026-08-10T19:50:08.937480",
       "priority_score": 57,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-08-10T18:45:05.634251",
+      "processed_at": "2026-08-10T19:50:13.277574",
       "title_tr": "Liverpool'un bir anlaşması var: Araújo için Barselona ile anlaşma",
       "summary_tr": "Barcelona ve Liverpool, Ronald Araújo için anlaşmaya vardı. Uruguaylı savunma oyuncusu bu sezon Anfield'da kiralık olarak forma giyiyor."
     },
@@ -409,34 +447,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-10T18:45:02.445362",
+      "fetched_at": "2026-08-10T19:50:08.937813",
       "priority_score": 57,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-10T18:45:05.689774",
+      "processed_at": "2026-08-10T19:50:13.355131",
       "title_tr": "Rangers ve PSV, Driouech konusunda geniş anlaşmaya vardı",
       "summary_tr": "Rangers FC ve PSV, Couhaib Driouech'in transferi konusunda prensipte anlaşmaya vardı. Kaynaklar bunu Voetbal International'a bildiriyor. İskoç kaynaklarına göre transfer ücreti 8 milyon euro civarında olacak."
-    },
-    {
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary": "",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "published": "2026-08-10T18:50:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:41:31.661023",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-10T18:45:05.243725",
-      "title_tr": "ÜCRETSİZ YAYIN: Sky Sports Haberlerinde Transfer Gösterisi",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Amazon founder Bezos nears deal to buy stake in Liverpool",
@@ -448,14 +467,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:31.661292",
+      "fetched_at": "2026-08-10T19:46:49.523689",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-10T18:45:05.256524",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.642095",
+      "title_tr": "Amazon'un kurucusu Bezos, Liverpool'dan hisse satın almak için anlaşmaya yaklaştı",
+      "summary_tr": "Sky News, Amazon'un kurucusu Jeff Bezos'un da aralarında bulunduğu bir konsorsiyumun, Liverpool'un yaklaşık üçte birini satın almak için bir anlaşmaya yaklaştığını öğrendi."
     },
     {
       "title": "Trabzonspor'un genç yıldızı Salih Malkoçoğlu, BAE Ligi'ne transfer oldu",
@@ -467,53 +486,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-10T18:43:53.255539",
+      "fetched_at": "2026-08-10T19:48:59.186077",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-10T18:45:05.527003",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-      "summary": "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-10T14:54:09",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.918509",
-      "priority_score": 55,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-08-10T18:45:05.227956",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor’dan dünyaya Salah daveti!",
-      "summary": "Trabzonspor, Mohamed Salah’ın bordo mavili takıma katılmasının ardından başta Mısır olmak üzere dünyanın dört bir yanından kulübe ulaşan mesajlara teşekkür ederek, futbolseverleri Trabzon ve Papara Park’a davet etti.",
-      "url": "https://www.haberturk.com/trabzonspordan-dunyaya-salah-daveti-kapimiz-sehrimiz-tribunlerimiz-acik-3904645-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/10/ver1786370883/3904645/jpg/1280x1280",
-      "published": "2026-08-10T14:27:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-10T18:43:16.287680",
-      "priority_score": 53,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-08-10T18:45:05.334695",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.978904",
+      "title_tr": "Trabzonspor'un genç yıldızı Salih Malkoçoğlu, BAE Ligi'ne transfer oldu",
+      "summary_tr": "Trabzonspor Kulübü, 21 yaşındaki genç futbolcusu Salih Malkoçoğlu'nun Birleşik Arap Emirlikleri ekibi Al Jazira'ya transfer olduğunu duyurdu. Al Jazira, sezon başında Beşiktaş'tan ayrılan kaleci Ersin Destanoğlu'nu da kadrosuna katmıştı."
     },
     {
       "title": "Infantino broke trust 'through deception' - confederation presidents",
@@ -525,15 +506,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.918868",
+      "fetched_at": "2026-08-10T19:46:38.456897",
       "priority_score": 50,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-08-10T18:45:05.229459",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.614883",
+      "title_tr": "Infantino konfederasyon başkanlarının güvenini 'aldatma yoluyla' kırdı",
+      "summary_tr": "FIFA, UEFA, Concacaf ve Asya Futbol Konfederasyonu tarafından yayınlanan açık mektupta \"aldatma yoluyla\" güveni sarsmakla suçlandı."
     },
     {
       "title": "Hibs stun Rangers with dramatic late winner",
@@ -545,14 +526,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.919386",
+      "fetched_at": "2026-08-10T19:46:38.457141",
       "priority_score": 50,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-08-10T18:45:05.233657",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.616833",
+      "title_tr": "Hibs dramatik son galibiyetiyle Rangers'ı şaşkına çevirdi",
+      "summary_tr": "Callum Wright'ın son dakikalardaki dramatik golü Hibernian'a Ibrox karşısında zafer kazandırdı ve Derek McInnes'i Rangers menajeri olarak ilk galibiyetini bekletti."
     },
     {
       "title": "Hearts thump Dundee United for Vrancken's first win",
@@ -564,14 +545,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-10T18:41:20.919582",
+      "fetched_at": "2026-08-10T19:46:38.457414",
       "priority_score": 50,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-08-10T18:45:05.235714",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.619311",
+      "title_tr": "Vrancken'in ilk galibiyeti Dundee United'a yürekleri hoplattı",
+      "summary_tr": "İskoçya Premier Ligi'nde kalpler Dundee United'ı dört kez geçerken, başantrenör Wouter Vrancken beşinci denemede ilk zaferini kazandı."
+    },
+    {
+      "title": "TRANSFER HABERİ: Galatasaray'da son dakika! Yunan yıldız Cimbom'a imza atabilir",
+      "summary": "Hazırlık maçlarında üst üste kötü sonuçlar alan ve transferde diğer rakiplerinin gerisinde kalan Galatasaray'da flaş gelişmeler yaşanıyor. Yönetim ligin başlamasına çok kısa bir süre kala transfer operasyonununda...Devamı için tıklayınız",
+      "url": "https://www.aspor.com.tr/galatasaray/2026/08/10/transfer-haberi-galatasarayda-son-dakika-yunan-yildiz-cimboma-imza-atabilir",
+      "image_url": "https://iaftm.tmgrup.com.tr/0ce71b/1200/675/0/312/744/731?u=https://iftm.tmgrup.com.tr/2026/08/10/1786343684449.jpeg",
+      "published": "2026-08-10T06:41:44",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-10T19:49:12.482919",
+      "priority_score": 49,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-10T19:50:13.114301",
+      "title_tr": "TRANSFER HABERİ: Galatasaray'da son dakika! Yunan yıldız Cimbom'a imza atabilir",
+      "summary_tr": "Hazırlık maçlarında üst üste kötü sonuçlar alan ve transferde diğer rakiplerinin gerisinde kalan Galatasaray'da flaş gelişmeler yaşanıyor. Yönetim ligin başlamasına çok kısa bir süre kala transfer operasyonununda...Devamı için tıklayınız"
     },
     {
       "title": "VfB Stuttgart sign Dženan Pejčinović from Wolfsburg",
@@ -583,14 +585,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-10T18:42:26.808806",
+      "fetched_at": "2026-08-10T19:47:34.936547",
       "priority_score": 46,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-10T18:45:05.313531",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-10T19:50:12.716967",
+      "title_tr": "VfB Stuttgart, Wolfsburg'dan Dženan Pejčinović'i transfer etti",
+      "summary_tr": "VfB Stuttgart, Wolfsburg'dan Dženan Pejčinović ile 2031 yılına kadar sözleşme imzaladı."
     }
   ]
 }
