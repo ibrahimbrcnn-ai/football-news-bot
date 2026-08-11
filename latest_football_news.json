@@ -1,26 +1,27 @@
 {
-  "timestamp": "2026-08-11T06:50:44.422933",
+  "timestamp": "2026-08-11T08:07:34.435970",
   "total_items": 30,
   "news": [
     {
-      "title": "Efe Mandıracı resmen Galatasaray'da!",
-      "summary": "Galatasaray Erkek Voleybol Takımı’nın yeni transferi Efe Mandıracı için imza töreni gerçekleştirildi. Mandıracı, kendisini iki yıllığına Sarı Kırmızılılar'a bağlayan sözleşmeyi imzaladı.",
-      "url": "https://www.haberturk.com/galatasaray-erkek-voleybol-takimi-ndan-efe-mandiraci-icin-imza-toreni-3904624-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/10/ver1786371134/3904624/jpg/1280x1280",
-      "published": "2026-08-10T14:13:00",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Fenerbahçe, Romelu Lukaku transferinde son aşamada",
+      "summary": "Fenerbahçe, Romelu Lukaku transferinde kritik aşamaya geldi. Sarı-lacivertli kulübün Napoli ile bonservis bedeli konusunda da anlaşmaya çok yaklaştığı belirtiliyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-romelu-lukaku-transferinde-son-asamada-3452840",
+      "image_url": null,
+      "published": "2026-08-11T10:17:48",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:47:51.891108",
+      "fetched_at": "2026-08-11T08:04:48.654790",
       "priority_score": 100,
       "categories": [
         "transfers",
+        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:37.952540",
-      "title_tr": "Efe Mandıracı resmen Galatasaray'da!",
-      "summary_tr": "Galatasaray Erkek Voleybol Takımı’nın yeni transferi Efe Mandıracı için imza töreni gerçekleştirildi. Mandıracı, kendisini iki yıllığına Sarı Kırmızılılar'a bağlayan sözleşmeyi imzaladı."
+      "processed_at": "2026-08-11T08:06:05.646555",
+      "title_tr": "Fenerbahçe, Romelu Lukaku transferinde son aşamada",
+      "summary_tr": "Fenerbahçe, Romelu Lukaku transferinde kritik aşamaya geldi. Sarı-lacivertli kulübün Napoli ile bonservis bedeli konusunda da anlaşmaya çok yaklaştığı belirtiliyor."
     },
     {
       "title": "Trabzonspor, Darwin Nunez transferinde mutlu sona yaklaşıyor",
@@ -32,13 +33,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:30.822703",
+      "fetched_at": "2026-08-11T08:04:48.655504",
       "priority_score": 100,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-11T06:49:38.157158",
+      "processed_at": "2026-08-11T08:06:05.674576",
       "title_tr": "Trabzonspor, Darwin Nunez transferinde mutlu sona yaklaşıyor",
       "summary_tr": "Transfer döneminde hareketli bir süreç yürüten Trabzonspor, santrfor hattına yıldız bir isim kazandırmak için çalışmalarını sürdürüyor. Bordo-mavililerin, Darwin Nunez konusunda önemli mesafe kat ettiği ve anlaşmaya çok yaklaştığı belirtiliyor."
     },
@@ -52,14 +53,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:33.233409",
+      "fetched_at": "2026-08-11T08:03:03.567944",
       "priority_score": 93,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-11T06:49:37.897895",
+      "processed_at": "2026-08-11T08:06:05.415343",
       "title_tr": "Crystal Palace ve Everton, Brennan Johnson-Dwight McNeil takas anlaşmasında anlaştı",
-      "summary_tr": "Winger McNeil Ocak ayında neredeyse İsrailli sağ bek Khalaili'ye katılıyordu ve Crystal Palace'a gidiyordu ve Everton, Brennan Johnson ve Dwight McNeil için doğrudan bir takas konusunda anlaştı; McNeil'in ortağı, Palace'ı anlaşmadan çekildikten sonra akıl sağlığını bozmakla suçlamasından altı ay sonra."
+      "summary_tr": "Winger McNeil Ocak ayında neredeyse İsrailli sağ bek Khalaili'ye katılıyordu ve Crystal Palace'a gidiyordu ve Everton, Brennan Johnson ve Dwight McNeil ile doğrudan takas konusunda anlaştı; McNeil'in ortağı, Palace'ı anlaşmadan çekildikten sonra akıl sağlığını bozmakla suçlamasından altı ay sonra."
     },
     {
       "title": "Bayern Munich's Harry Kane to receive second European Golden Shoe",
@@ -71,114 +72,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:59.290203",
+      "fetched_at": "2026-08-11T08:03:24.692792",
       "priority_score": 76,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-08-11T06:49:37.906842",
+      "processed_at": "2026-08-11T08:06:05.424067",
       "title_tr": "Bayern Münih'ten Harry Kane Avrupa'nın ikinci Altın Ayakkabısını alacak",
       "summary_tr": "Bayern Münih forveti Harry Kane, 2025/26 sezonunu kıtanın en üretken ligi golcüsü olarak bitirdikten sonra 19 Ağustos'ta Avrupa Altın Ayakkabı ödülüne layık görülecek."
     },
     {
-      "title": "Following Guardiola and captaincy dilemma - Maresca on life at Man City",
-      "summary": "New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss",
+      "title": "Meet Liverpool's rising star who can only play friendlies",
+      "summary": "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq569dvxg2yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-11T06:00:41",
+      "published": "2026-08-11T07:16:45",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-11T06:45:58.461409",
+      "fetched_at": "2026-08-11T08:02:22.387163",
       "priority_score": 55,
       "categories": [
-        "premier_league",
-        "serie_a"
+        "general"
       ],
-      "processed_at": "2026-08-11T06:49:37.828548",
-      "title_tr": "Guardiola ve kaptanlık ikileminin ardından - Maresca'nın Manchester City'deki hayatı hakkında",
-      "summary_tr": "Manchester City'nin yeni teknik direktörü Enzo Maresca, Pep Guardiola'nın yerini almasını, yapay zekaya olan ilgisini ve kaptanlık ikilemini anlatıyor."
+      "processed_at": "2026-08-11T08:06:05.349246",
+      "title_tr": "Liverpool'un yalnızca hazırlık maçlarında oynayabilen yükselen yıldızıyla tanışın",
+      "summary_tr": "Genç defans oyuncusu Ifeanyi Ndukwe'nin ortaya çıkışı, Liverpool'un sezon öncesi döneminin ana hikayelerinden biri oldu; peki 18 yaşındaki oyuncu neden sadece hazırlık maçlarında oynayabiliyor?"
     },
     {
-      "title": "Swiatek cruises into Canadian Open semi-finals in JUST 64 minutes!",
-      "summary": "Highlights of the Canadian Open match between Diana Shnaider and Iga Swiatek.",
-      "url": "https://www.skysports.com/watch/video/13571824/diana-shnaider-vs-iga-swiatek-canadian-open-highlights",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-canadian-open-tennis_7318643.png?20260811064750",
-      "published": "2026-08-11T06:39:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-11T06:46:10.003848",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-11T06:49:37.842107",
-      "title_tr": "Swiatek SADECE 64 dakika içinde Kanada Açık yarı finaline yükseldi!",
-      "summary_tr": "Diana Shnaider ve Iga Swiatek arasındaki Kanada Açık maçından öne çıkanlar."
-    },
-    {
-      "title": "Sky Sports Golf Podcast: Young talent shines again as PGA Tour playoffs loom",
-      "summary": "The Sky Sports Golf Podcast delivers the latest news from the golfing world, expert analysis and big-name interviews.",
-      "url": "https://www.skysports.com/golf/news/12040/11933264/sky-sports-golf-podcast",
-      "image_url": "https://e1.365dm.com/26/05/1920x1080/skysports-golf-podcast_7236075.png?20260501102738",
-      "published": "2026-08-10T22:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-11T06:46:10.004525",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-11T06:49:37.865316",
-      "title_tr": "Sky Sports Golf Podcast'i: PGA Tour play-off'ları yaklaşırken genç yetenek yeniden parlıyor",
-      "summary_tr": "Sky Sports Golf Podcast'i golf dünyasından en son haberleri, uzman analizlerini ve ünlü röportajları sunuyor."
-    },
-    {
-      "title": "Galatasaray'ın Nelsson'dan beklentisi gerçekleşmedi",
-      "summary": "Galatasaray, yeni sezon öncesi kadro planlamalarını sürdürürken bazı isimlerle yollarını ayırmaya hazırlanıyor. Sarı-kırmızılılarda özellikle Victor Nelsson’un durumu netleşmeye başladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-nelssondan-beklentisi-gerceklesmedi-3452809",
-      "image_url": null,
-      "published": "2026-08-11T09:09:46",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "title": "Vlahovic Kartal oluyor!",
+      "summary": "Beşiktaş'ın Dusan Vlahovic için Juventus ve oyuncuyla her konuda anlaştığı iddia edildi. İtalya basını, Sırp yıldızın 2 gün içerisinde İstanbul'a gelerek siyah-beyazlılarla 3 yıllık sözleşme imzalayacağını duyurdu.",
+      "url": "https://www.haberturk.com/son-dakika-italya-dan-bomba-iddia-vlahovic-besiktas-ta-3904764-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/11/ver1786432329/3904764/jpg/1280x1280",
+      "published": "2026-08-11T07:14:52",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:30.822304",
-      "priority_score": 51,
+      "fetched_at": "2026-08-11T08:04:14.013242",
+      "priority_score": 93,
       "categories": [
+        "transfers",
+        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.141645",
-      "title_tr": "Galatasaray'ın Nelsson'dan beklentisi gerçekleşmedi",
-      "summary_tr": "Galatasaray, yeni sezon öncesi kadro planlamalarını sürdürürken bazı isimlerle yollarını ayırmaya hazırlanıyor. Sarı-kırmızılılarda özellikle Victor Nelsson’un durumu netleşmeye başladı."
-    },
-    {
-      "title": "Man City close in on Bouaddi - Tuesday's gossip",
-      "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-10T20:30:44",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-11T06:45:58.462946",
-      "priority_score": 50,
-      "categories": [
-        "premier_league",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-11T06:49:37.833887",
-      "title_tr": "Manchester City Bouaddi'ye yaklaşıyor - Salı günkü dedikodu",
-      "summary_tr": "Manchester City, Ayyoub Bouaddi'yi imzalamanın eşiğinde, Serie A, Arsenal ikilisi Gabriel Jesus ve Gabriel Martinelli ile ilgileniyor ve Harry Kane, Barselona ve Tottenham'ın hedefi."
+      "processed_at": "2026-08-11T08:06:05.445741",
+      "title_tr": "Vlahovic Kartal oluyor!",
+      "summary_tr": "Beşiktaş'ın Dusan Vlahovic için Juventus ve oyuncuyla her konuda anlaştığı iddia edildi. İtalya basını, Sırp yıldızın 2 gün içerisinde İstanbul'a gelerek siyah-beyazlılarla 3 yıllık sözleşme imzalayacağını duyurdu."
     },
     {
       "title": "Lukaku bitti bitiyor!",
@@ -190,7 +132,7 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:47:51.890518",
+      "fetched_at": "2026-08-11T08:04:14.013373",
       "priority_score": 93,
       "categories": [
         "transfers",
@@ -198,7 +140,7 @@
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:37.926719",
+      "processed_at": "2026-08-11T08:06:05.449817",
       "title_tr": "Lukaku bitti bitiyor!",
       "summary_tr": "Transferde santrfor takviyesine yoğunlaşan Fenerbahçe, bir süredir görüşme halinde olduğu Romelu Lukaku'da mutlu sona çok yaklaştı. Belçikalı golcüyle her konuda anlaşan sarı-lacivertliler, Napoli ile de bonservis pazarlığında son aşamaya geldi."
     },
@@ -212,7 +154,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:05.150454",
+      "fetched_at": "2026-08-11T08:04:24.852251",
       "priority_score": 91,
       "categories": [
         "transfers",
@@ -220,7 +162,7 @@
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.020003",
+      "processed_at": "2026-08-11T08:06:05.527274",
       "title_tr": "İtalyanlar duyurdu: Fenerbahçe, Romelu Lukaku transferinde geri sayıma geçti!",
       "summary_tr": "Fenerbahçe, daha önce prensip anlaşmasına vardığı Belçikalı golcü Romelu Lukaku'nun transferi için kulübü Napoli ile de anlaşmak üzere. İşte detaylar..."
     },
@@ -234,12 +176,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:30.823779",
+      "fetched_at": "2026-08-11T08:04:48.656499",
       "priority_score": 86,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-11T06:49:38.217319",
+      "processed_at": "2026-08-11T08:06:05.734539",
       "title_tr": "Trabzonspor transferde hız kesmiyor: Sırada Paredes var!",
       "summary_tr": "Trabzonspor, Mohamed Salah transferinin ardından kadro yapılanmasına hız kesmeden devam ediyor. Bordo-Mavililer, orta saha hattını güçlendirmek için Arjantinli yıldız Leandro Paredes’i yeniden gündemine aldı."
     },
@@ -253,14 +195,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:10.004462",
+      "fetched_at": "2026-08-11T08:02:35.122455",
       "priority_score": 81,
       "categories": [
         "transfers",
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-08-11T06:49:37.861639",
+      "processed_at": "2026-08-11T08:06:05.390258",
       "title_tr": "Liverpool, Barcelona'dan Araujo'yu transfer etti",
       "summary_tr": "Liverpool, Barcelona'dan defans oyuncusu Ronald Araujo'yu transfer ettiğini doğruladı."
     },
@@ -274,14 +216,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:05.150043",
+      "fetched_at": "2026-08-11T08:04:24.851912",
       "priority_score": 81,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:37.989421",
+      "processed_at": "2026-08-11T08:06:05.498325",
       "title_tr": "Beşiktaş'ta Melo sesleri",
       "summary_tr": "Beşiktaş'ın Brezilyalı orta saha oyuncusu Arthur Melo'nun transferi için Juventus'la görüşmelere başladı öne sürüldü."
     },
@@ -295,13 +237,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:05.150381",
+      "fetched_at": "2026-08-11T08:04:24.852187",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.012091",
+      "processed_at": "2026-08-11T08:06:05.519672",
       "title_tr": "Gökhan Sazdağı: 'Galatasaray maçına iddialı gideceğiz'",
       "summary_tr": "Süper Lig ekiplerinden Çorum FK'nin yeni transferi Gökhan Sazdağı, sezonun açılış maçında karşılaşacakları Galatasaray'dan puan almayı hedeflediklerini söyledi."
     },
@@ -315,34 +257,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:47:51.891353",
+      "fetched_at": "2026-08-11T08:04:14.013967",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-11T06:49:37.963233",
+      "processed_at": "2026-08-11T08:06:05.478576",
       "title_tr": "Nunez adım adım Trabzonspor'a!",
       "summary_tr": "Yeni sezon öncesi transfer dönemi için kolları sıvayan Trabzonspor, 27 yaşındaki golcü Darwin Nunez'i kiralık olarak kadrosuna katmak için Al Hilal'le anlaşmaya vardı."
-    },
-    {
-      "title": "Van de Ven verlengt bij Spurs: 'Een van de beste verdedigers van Europa'",
-      "summary": "Tottenham Hotspur heeft maandagavond de contractverlenging van Micky van de Ven officieel bevestigd. De nieuwe deal werd eerder al bekend op deze site . De lengte van de contractverlenging van de Nederlander is niet bekend.",
-      "url": "https://www.vi.nl/nieuws/van-de-ven-verlengt-bij-spurs-een-van-de-beste-verdedigers-van-europa",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/10/c313f1f636c4ecfe0a0a6734834d7751c8a4b23f.jpg?width=1200",
-      "published": "2026-08-10T21:14:58",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-11T06:49:35.703411",
-      "priority_score": 72,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-11T06:49:38.445686",
-      "title_tr": "Van de Ven Spurs'la devam ediyor: 'Avrupa'nın en iyi savunmacılarından biri'",
-      "summary_tr": "Tottenham Hotspur, Pazartesi akşamı Micky van de Ven'in sözleşmesinin uzatıldığını resmen doğruladı. Yeni anlaşma daha önce bu sitede duyurulmuştu. Hollandalı'nın sözleşme uzatmasının ne kadar süreceği bilinmiyor."
     },
     {
       "title": "Beşiktaş, Arthur Melo için Juventus’la temasa geçti",
@@ -354,58 +277,56 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:30.822879",
+      "fetched_at": "2026-08-11T08:04:48.655675",
       "priority_score": 71,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.165137",
+      "processed_at": "2026-08-11T08:06:05.682438",
       "title_tr": "Beşiktaş, Arthur Melo için Juventus’la temasa geçti",
       "summary_tr": "Beşiktaş, teknik direktör Vincenzo Italiano’nun talebi doğrultusunda Juventus forması giyen Brezilyalı orta saha oyuncusu Arthur Melo için transfer görüşmelerine başladı."
     },
     {
-      "title": "'Dallinga op weg naar Bundesliga, eerste bod op Lukaku'",
-      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/endrick-kan-naar-premier-league-liverpool-en-barcola-akkoord",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-08-11T06:18:13",
+      "title": "Al-Ittihad werkt mee aan transfer van Bergwijn",
+      "summary": "Steven Bergwijn (28) maakt de komende weken mogelijk een transfer. Al-Ittihad werkt mee aan een vertrek. De 35-voudig international hoeft nog maar een fractie van zijn aankoopsom op te leveren.",
+      "url": "https://www.vi.nl/nieuws/al-ittihad-werkt-mee-aan-transfer-van-bergwijn",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/11/f87b1559a13bb218c67c7eb000a2fe3a2d3d0df5.jpg?width=1200",
+      "published": "2026-08-11T07:40:00",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-11T06:49:35.702516",
+      "fetched_at": "2026-08-11T08:06:03.129421",
       "priority_score": 67,
       "categories": [
         "transfers",
-        "serie_a",
-        "bundesliga"
+        "serie_a"
       ],
-      "processed_at": "2026-08-11T06:49:38.300046",
-      "title_tr": "'Dallinga Bundesliga yolunda Lukaku'ya ilk teklifini yaptı'",
-      "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
+      "processed_at": "2026-08-11T08:06:05.965616",
+      "title_tr": "Al-Ittihad, Bergwijn'in transferine katılıyor",
+      "summary_tr": "Steven Bergwijn (28) önümüzdeki haftalarda transfer olabilir. Al-Ittihad, ayrılma konusunda işbirliği yapıyor. 35 kez forma giyen milli futbolcunun satın alma bedelinin yalnızca küçük bir kısmını ödemesi gerekiyor."
     },
     {
-      "title": "Dit moet je weten over Araújo, de nieuwste aanwinst van Liverpool",
-      "summary": "Liverpool bevestigde maandag de huurtransfer van Ronald Araújo van Barcelona. De 27-jarige Uruguayaan wordt de nieuwe partner in de defensie van Virgil van Dijk en lijkt de opvolger van de naar Real Madrid vertrokken Ibrahima Konaté te zijn.",
-      "url": "https://www.vi.nl/video/dit-moet-je-weten-over-araujo-de-nieuwste-aanwinst-van-liverpool",
-      "image_url": "https://images.performgroup.com/transcoded/20260810/100826_EN_SPN_ARAUJO_LIVERPOOL_PROFILE_RD_1786386983303-1_2847_1.jpeg",
-      "published": "2026-08-10T20:45:16",
+      "title": "'Celtic gaat aan de haal met Egyptische WK-verrassing, eerste bod op Lukaku'",
+      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/celtic-gaat-aan-de-haal-met-egyptische-wk-verrassing-eerste-bod-op-lukaku",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-08-11T07:23:09",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-11T06:49:35.703318",
+      "fetched_at": "2026-08-11T08:06:03.129672",
       "priority_score": 67,
       "categories": [
         "transfers",
-        "match_results",
-        "la_liga"
+        "serie_a"
       ],
-      "processed_at": "2026-08-11T06:49:38.431765",
-      "title_tr": "Liverpool'un son transferi Araújo hakkında bilmeniz gerekenler",
-      "summary_tr": "Liverpool, Pazartesi günü Ronald Araújo'nun Barselona'dan kiralık transferini doğruladı. 27 yaşındaki Uruguaylı oyuncu, Virgil van Dijk'in savunmasının yeni ortağı olacak ve Real Madrid'e giden Ibrahima Konaté'nin halefi olacak gibi görünüyor."
+      "processed_at": "2026-08-11T08:06:06.015814",
+      "title_tr": "'Celtic, Lukaku için ilk teklif olan Mısır Dünya Kupası sürpriziyle yola çıktı'",
+      "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
     },
     {
       "title": "Konyaspor'dan Masuaku açıklaması!",
@@ -417,12 +338,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:47:51.891497",
+      "fetched_at": "2026-08-11T08:04:14.014091",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-11T06:49:37.970504",
+      "processed_at": "2026-08-11T08:06:05.485423",
       "title_tr": "Konyaspor'dan Masuaku açıklaması!",
       "summary_tr": "Konyaspor Futbol Şube Sorumlusu Ali Camgöz, kulübün transfer gündemine ilişkin, “Masuaku şu an sağlık kontrolünde. Bir aksilik çıkmazsa sözleşmeyi imzalayacağız” dedi."
     },
@@ -436,15 +357,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:05.149967",
+      "fetched_at": "2026-08-11T08:04:24.851815",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:37.986154",
+      "processed_at": "2026-08-11T08:06:05.495307",
       "title_tr": "Transferde Aslan'ın yüzü gülmüyor",
       "summary_tr": "Galatasaray'ın transfer gündemine aldığı oyunculardan art arda kötü haberler gelmeye devam ediyor. Transfer açıklanmazsa Villarreal önündeki protestoların Cuma günü ligin ilk maçında sürmesi bekleniyor."
+    },
+    {
+      "title": "Trabzonspor yeni transferini kiralık gönderdi",
+      "summary": "Trabzonspor, yaz transfer döneminde kadrosuna kattığı Thierry Karadeniz'i Sebat Gençlikspor'a kiraladı.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/11/trabzonspor-yeni-transferini-kiralik-gonderdi",
+      "image_url": "https://iasbh.tmgrup.com.tr/1d4696/1200/675/0/0/2048/1152?u=https://isbh.tmgrup.com.tr/sbh/2026/08/11/trabzonspor-yeni-transferini-kiralik-gonderdi-1786434096088.jpg",
+      "published": "2026-08-11T07:41:53",
+      "source": "Sabah Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-11T08:04:31.492904",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-11T08:06:05.594336",
+      "title_tr": "Trabzonspor yeni transferini kiralık gönderdi",
+      "summary_tr": "Trabzonspor, yaz transfer döneminde kadrosuna kattığı Thierry Karadeniz'i Sebat Gençlikspor'a kiraladı.Devamı için tıklayınız"
     },
     {
       "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
@@ -456,13 +396,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-11T06:45:58.461631",
+      "fetched_at": "2026-08-11T08:02:22.387539",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-11T06:49:37.828855",
+      "processed_at": "2026-08-11T08:06:05.350184",
       "title_tr": "Vinicius Jr'ı kaçıran Arsenal kiminle sözleşme imzalayabilir?",
       "summary_tr": "Büyük bir transfer kaçırıldı ama büyük bir transfer kapıda kaldı; Arsenal için karışık bir transfer dönemi oldu."
     },
@@ -476,34 +416,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-11T06:45:58.461859",
+      "fetched_at": "2026-08-11T08:02:22.387850",
       "priority_score": 60,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-08-11T06:49:37.829473",
+      "processed_at": "2026-08-11T08:06:05.352231",
       "title_tr": "Araujo neden Liverpool'a katıldı ve Barselona'da işler nerede ters gitti?",
       "summary_tr": "Ronald Araujo, Barcelona'dan kiralık olarak Liverpool'a transfer oldu. Liverpool'un neden Uruguaylı defans oyuncusuna transfer olduğunu ve Barselona'da neyin yanlış gittiğini açıklıyoruz."
-    },
-    {
-      "title": "West Ham sign winger Solomon from Tottenham",
-      "summary": "West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-10T18:56:56",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-11T06:45:58.463116",
-      "priority_score": 60,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-11T06:49:37.834867",
-      "title_tr": "West Ham, Tottenham'dan kanat oyuncusu Solomon'u kadrosuna kattı",
-      "summary_tr": "West Ham United, Tottenham'dan kanat oyuncusu Manor Solomon ile üç yıllık sözleşme imzaladı."
     },
     {
       "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
@@ -515,12 +436,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:33.231447",
+      "fetched_at": "2026-08-11T08:03:03.566242",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-11T06:49:37.882464",
+      "processed_at": "2026-08-11T08:06:05.400487",
       "title_tr": "Liverpool'un sahipleri, Jeff Bezos'un da aralarında bulunduğu konsorsiyuma yaklaşık 1,35 milyar £'luk hissenin %30'unu satıyor",
       "summary_tr": "Amazon kurucusunun da aralarında bulunduğu grup, FSGBhatia ve Facebook kurucu ortağı Saverin ile görüşmelerde bulundu. Amazon kurucusu Jeff Bezos'un da dahil olduğu bir konsorsiyum, Fenway Sports Group ile aylarca süren görüşmelerin ardından Liverpool'un %30 hissesi için bir anlaşmayı tamamlamaya yakın. Yatırımcılar Amit Bh tarafından yönetiliyor"
     },
@@ -534,7 +455,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:33.232298",
+      "fetched_at": "2026-08-11T08:03:03.566985",
       "priority_score": 58,
       "categories": [
         "transfers",
@@ -542,9 +463,9 @@
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-08-11T06:49:37.888227",
+      "processed_at": "2026-08-11T08:06:05.406008",
       "title_tr": "Manchester City, Rodri'nin beklenen ayrılışını yumuşatmak için 85 milyon £'luk Bouaddi'ye yaklaşıyor",
-      "summary_tr": "Faslı uluslararası orta saha oyuncusu, Barça'nın Rodri için daha iyi bir teklifle geri dönme şartlarını kabul etti Manchester City, Lille'den Ayyoub Bouaddi'yi imzalamaya yaklaşıyor ve orta saha oyuncusunun beklenen gelişi, Rodri'nin Barselona'ya katılmasının önünü açıyor. 18 yaşındaki oyuncu City ile kişisel anlaşmaya vardı."
+      "summary_tr": "Faslı uluslararası orta saha oyuncusu, Barça'nın Rodri için iyileştirilmiş teklifle geri dönme şartlarını kabul etti Manchester City, Lille'den Ayyoub Bouaddi'yi imzalamaya yaklaşıyor ve orta saha oyuncusunun beklenen gelişi, Rodri'nin Barselona'ya katılmasının önünü açıyor. 18 yaşındaki oyuncu City ile kişisel anlaşmaya vardı."
     },
     {
       "title": "Are Manchester United returning to relevance under Michael Carrick? | Jonathan Wilson",
@@ -556,15 +477,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-11T06:46:33.232877",
+      "fetched_at": "2026-08-11T08:03:03.567495",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-11T06:49:37.893078",
+      "processed_at": "2026-08-11T08:06:05.410718",
       "title_tr": "Manchester United, Michael Carrick yönetiminde eski seviyesine geri mi dönüyor? | Jonathan Wilson",
       "summary_tr": "Jonathan Wilson, haber bülteninin posta çantası baskısında Michael Carrick, VAR ve Premier Lig'in yeni takımları hakkındaki soruları yanıtlıyor Ücretsiz haber bültenimize buradan kaydolun Manchester United sonunda Michael Carrick yönetimindeki soyunma odasında istikrara benzeyen bir şeye sahip görünüyor. ile hissediyorum"
+    },
+    {
+      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "summary": "",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "published": "2026-08-11T08:50:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-11T08:02:35.121847",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-11T08:06:05.365898",
+      "title_tr": "ÜCRETSİZ YAYIN: Sky Sports Haberlerinde Transfer Gösterisi",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Acun Ilıcalı, Türkiye'den transfer yapıyor! Anlaşma tamam",
@@ -576,15 +516,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:05.150275",
+      "fetched_at": "2026-08-11T08:04:24.852121",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.006223",
-      "title_tr": "Acun Ilıcalı, Türkiye'den transfer yapıyor! Anlaşma tamam",
-      "summary_tr": "Süper Lig'de yeni sezonun başlamasına günler kala transfer piyasası alev almış durumda. Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor yeni sezonda şampiyonluk hedefleri için kadrolarını yıldızlarla güçlendirmek için çalışmalarını sürdürüyor. Süper Lig'de yaşanan tüm transfer gelişmelerini haberim"
+      "processed_at": "2026-08-11T08:06:05.514122",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Trabzonspor'un genç yıldızı Salih Malkoçoğlu, BAE Ligi'ne transfer oldu",
@@ -596,15 +536,72 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-11T06:48:30.824301",
+      "fetched_at": "2026-08-11T08:04:48.657064",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-11T06:49:38.242480",
-      "title_tr": "Trabzonspor'un genç yıldızı Salih Malkoçoğlu, BAE Ligi'ne transfer oldu",
-      "summary_tr": "Trabzonspor Kulübü, 21 yaşındaki genç futbolcusu Salih Malkoçoğlu'nun Birleşik Arap Emirlikleri ekibi Al Jazira'ya transfer olduğunu duyurdu. Al Jazira, sezon başında Beşiktaş'tan ayrılan kaleci Ersin Destanoğlu'nu da kadrosuna katmıştı."
+      "processed_at": "2026-08-11T08:06:05.763936",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Willem II en Go Ahead opnieuw in gesprek over transfer Twigt",
+      "summary": "Willem II heeft de hoop op een terugkeer van Calvin Twigt nog altijd niet opgegeven. De Tilburgers gaan opnieuw in gesprek met Go Ahead Eagles over een definitieve transfer van de 23-jarige middenvelder, die zaterdag nog tegenover zijn oude club stond.",
+      "url": "https://www.vi.nl/nieuws/willem-ii-en-go-ahead-opnieuw-in-gesprek-over-transfer-twigt",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/11/0033f6eb126b348e9757d5145cf74e0676965d1f.jpeg?width=1200",
+      "published": "2026-08-11T07:59:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-11T08:06:03.129347",
+      "priority_score": 52,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-11T08:06:05.956273",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'Onder de 25 miljoen gaat Parrott nergens heen'",
+      "summary": "In deze VI ZSM bespreken Tim Reedijk en Bart Frouws het laatste transfernieuws, met speciale aandacht voor Troy Parrott. De aanvaller van AZ staat in de belangstelling van West Ham United.",
+      "url": "https://www.vi.nl/video/onder-de-25-miljoen-gaat-parrott-nergens-heen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-08-10t220921--onder-de-25-miljoen-gaat-parrott-nergens-heen.jpg?width=1200",
+      "published": "2026-08-11T07:30:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-11T08:06:03.129612",
+      "priority_score": 52,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-11T08:06:06.000929",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'ın Nelsson'dan beklentisi gerçekleşmedi",
+      "summary": "Galatasaray, yeni sezon öncesi kadro planlamalarını sürdürürken bazı isimlerle yollarını ayırmaya hazırlanıyor. Sarı-kırmızılılarda özellikle Victor Nelsson’un durumu netleşmeye başladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-nelssondan-beklentisi-gerceklesmedi-3452809",
+      "image_url": null,
+      "published": "2026-08-11T09:09:46",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-11T08:04:48.655164",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-08-11T08:06:05.659550",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
