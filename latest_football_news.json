@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T10:14:02.978193",
+  "timestamp": "2026-08-12T11:43:25.053770",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-12T10:10:13.501127",
+      "fetched_at": "2026-08-12T11:39:22.280637",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-08-12T10:12:51.244889",
+      "processed_at": "2026-08-12T11:41:58.887064",
       "title_tr": "Bayer Leverkusen Marsilya'daki Facundo Medina ile savunmayı güçlendiriyor",
       "summary_tr": "Bayer Leverkusen, Marsilya'dan Arjantinli savunma oyuncusu Facundo Medina ile 30 Haziran 2031 tarihine kadar beş yıllık sözleşme imzaladığını doğruladı."
     },
@@ -33,14 +33,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:36.246357",
+      "fetched_at": "2026-08-12T11:40:48.937933",
       "priority_score": 96,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.516169",
+      "processed_at": "2026-08-12T11:41:59.185719",
       "title_tr": "Al-Hilal, Victor Osimhen için yeniden harekete geçti",
       "summary_tr": "Suudi Arabistan’ın güçlü ekiplerinden Al-Hilal, Galatasaray’ın Nijeryalı golcüsü Victor Osimhen’i transfer etmek için yeniden sahneye çıktı."
     },
@@ -54,35 +54,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:11.464700",
+      "fetched_at": "2026-08-12T11:40:22.517961",
       "priority_score": 91,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-12T10:12:51.384322",
+      "processed_at": "2026-08-12T11:41:59.051526",
       "title_tr": "Trabzonspor Darwin Nunez transferinde sona geldi!",
       "summary_tr": "Trabzonspor çalışmalarına tüm hızıyla devam ediyor. Mohammed Salah'ın ardından bir yıldız ismi daha kadrosuna katmak isteyen bordo-mavililer, Darwin Nunez transferinde sona geldi."
     },
     {
-      "title": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
-      "summary": "England defender keen on move to Italian championsUdogie and Porro set to be Spurs’ first-choice full-backsTottenham are prepared to allow Djed Spence to join Inter, with the England defender expected to cost around €30m (£25.6m).Spence – who started four games at the World Cup, including the semi-f",
-      "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move",
+      "title": "I owe Villa the world but Man Utd are above them - Tielemans",
+      "summary": "Manchester United new boy Youri Tielemans gives his first extended interview on his £35m dream move, making it third time lucky for the ex-Aston Villa man.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0z79l89go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-11T16:22:46",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-08-12T11:00:23",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:50.045709",
-      "priority_score": 63,
+      "fetched_at": "2026-08-12T11:38:21.133992",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
-        "serie_a",
-        "world_cup"
+        "premier_league",
+        "serie_a"
       ],
-      "processed_at": "2026-08-12T10:12:51.222657",
-      "title_tr": "Djed Spence, Inter ile Tottenham'dan ayrılmaya yaklaşıyor ve 25,6 milyon £'luk transfer için görüşmelerde bulunuyor",
-      "summary_tr": "İngiliz defans oyuncusu, İtalya şampiyonluğuna taşınmak istiyor Udogie ve Porro, Spurs'un ilk tercihi bek oyuncuları olacakTottenham, Djed Spence'in Inter'e katılmasına izin vermeye hazırlanıyor ve İngiliz defans oyuncusunun yaklaşık 30 milyon Euro'ya (25,6 milyon £) mal olması bekleniyor.Spence - yarı-f de dahil olmak üzere Dünya Kupası'nda dört maça başlayan"
+      "processed_at": "2026-08-12T11:41:58.791910",
+      "title_tr": "Villa'ya dünyalar borçluyum ama Man Utd onlardan üstün - Tielemans",
+      "summary_tr": "Manchester United'ın yeni oyuncusu Youri Tielemans, 35 milyon sterlinlik hayali hamlesiyle ilgili ilk uzun röportajını verdi ve bu, eski Aston Villa oyuncusu için üçüncü kez şanslı bir gelişme oldu."
+    },
+    {
+      "title": "Man Utd v Leeds - a historic pre-season encounter at Croke Park",
+      "summary": "Croke Park will host its first association football match between two English teams when Manchester United face Leeds in a pre-season game on Wednesday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy07d05ddr7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-12T08:20:19",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:21.135625",
+      "priority_score": 70,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-12T11:41:58.796419",
+      "title_tr": "Man Utd - Leeds - Croke Park'ta tarihi bir sezon öncesi karşılaşma",
+      "summary_tr": "Croke Park, iki İngiliz takımı arasındaki ilk futbol maçına, Çarşamba günü Manchester United'ın sezon öncesi maçında Leeds ile karşılaşmasıyla ev sahipliği yapacak."
     },
     {
       "title": "Sandro Trémoulet to make history as first Madagascar player in Germany’s top two divisions",
@@ -94,14 +114,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-12T10:10:13.502383",
+      "fetched_at": "2026-08-12T11:39:22.281964",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-12T10:12:51.259849",
+      "processed_at": "2026-08-12T11:41:58.901519",
       "title_tr": "Sandro Trémoulet, Almanya'nın en iyi iki ligindeki ilk Madagaskar oyuncusu olarak tarih yazacak",
       "summary_tr": "Madagaskarlı milli takım oyuncusu Sandro Trémoulet, Bundesliga 2 kulübüne transfer olduktan sonra Karlsruhe ile tarih yazmaya hazırlanıyor."
     },
@@ -115,74 +135,54 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:10:57.849248",
+      "fetched_at": "2026-08-12T11:40:10.827200",
       "priority_score": 58,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.292848",
+      "processed_at": "2026-08-12T11:41:58.954230",
       "title_tr": "\"Ligin en az gol yiyen takımı olacak\"",
       "summary_tr": "UEFA Şampiyonlar Ligi 3. eleme turu rövanş maçında Fenerbahçe, deplasmanda Sturm Graz'ı 1-0 mağlup ederek toplamda 3-0'lık skorla rakibini saf dışı bıraktı. Spor yazarları, Sturm Graz-Fenerbahçe maçını çarpıcı sözlerle değerlendirdi."
     },
     {
-      "title": "Emery chases first Super Cup - but does it matter?",
-      "summary": "Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss",
+      "title": "Premier League 2026-27 preview No 6: Chelsea",
+      "summary": "After a period of underachievement and upheaval for the Blues, the arrival of Xabi Alonso could signal a change in fortunesGuardian writers’ predicted position: 3rd (NB: this is not necessarily Billy Munday’s prediction but the average of our writers’ tips)Last season’s position: 10th Continue readi",
+      "url": "https://www.theguardian.com/football/2026/aug/12/premier-league-2026-27-preview-no-6-chelsea",
       "image_url": null,
-      "published": "2026-08-12T05:26:48",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.185863",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-12T10:12:51.146735",
-      "title_tr": "Emery ilk Süper Kupa'nın peşinde; peki bu önemli mi?",
-      "summary_tr": "Aston Villa, 1982'den bu yana ilk kez Süper Kupa'da mücadele ediyor ancak teknik direktör Unai Emery'nin bu maçla ilgili çok daha yeni bir deneyimi var."
-    },
-    {
-      "title": "Torres misses Barcelona training to finalise PSG move",
-      "summary": "Spain's World Cup hero Ferran Torres is given permission to miss Barcelona training to finalise a move to Paris St-Germain.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgljpye101xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-12T09:13:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.186511",
-      "priority_score": 55,
-      "categories": [
-        "la_liga",
-        "world_cup"
-      ],
-      "processed_at": "2026-08-12T10:12:51.148089",
-      "title_tr": "Torres, PSG transferini tamamlamak için Barselona antrenmanını kaçırdı",
-      "summary_tr": "İspanya'nın Dünya Kupası kahramanı Ferran Torres'e, Paris St-Germain'e transferini tamamlamak için Barselona antrenmanlarını kaçırma izni verildi."
-    },
-    {
-      "title": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom",
-      "summary": "As Ronaldo heads towards 1,000 career-goals, league plans to lift standard of Saudi Arabian football, not just the clubsThere’s no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the age of the ageing megastar is ending, there is still the strong chance that the",
-      "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment",
-      "image_url": null,
-      "published": "2026-08-12T09:05:29",
+      "published": "2026-08-12T11:00:27",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:50.042313",
+      "fetched_at": "2026-08-12T11:38:56.745351",
       "priority_score": 53,
       "categories": [
-        "match_results"
+        "premier_league"
       ],
-      "processed_at": "2026-08-12T10:12:51.192795",
-      "title_tr": "Suudi Pro Ligi yaşlanan megastar dönemini geride bırakmaya çalışıyor ancak büyük isimler hâlâ ufukta görünüyor",
-      "summary_tr": "Ronaldo 1000 kariyer hedefine doğru ilerlerken, ligler sadece kulüplerin değil, Suudi Arabistan futbolunun da standardını yükseltmeyi planlıyor Perşembe günü başlayacak yeni Suudi Pro Ligi sezonunda Mohamed Salah yok ve yaşlanan megastarın yaşı sona ererken, hâlâ Suudi Arabistan futbolunun standardını yükseltme şansı var."
+      "processed_at": "2026-08-12T11:41:58.836002",
+      "title_tr": "Premier Lig 2026-27 ön izleme Sayı 6: Chelsea",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "‘It’s a nice hobby’: Manchester United’s Janina Leitzig on goalkeeping and gardening",
+      "summary": "Former Leicester player’s focus has moved from runner beans to running drills as the season approachesWith some parts of England gearing up for a fifth heatwave of 2026, the new Manchester United goalkeeper Janina Leitzig, a keen gardener, is sympathetic to the precarious health of this reporter’s t",
+      "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-janina-leitzig-interview-on-goalkeeping-and-gardening",
+      "image_url": null,
+      "published": "2026-08-12T10:50:19",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:56.745750",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-08-12T11:41:58.840599",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "\"Turu geçtiğimiz için mutluyuz\"",
@@ -194,35 +194,76 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:10:57.849392",
+      "fetched_at": "2026-08-12T11:40:10.827358",
       "priority_score": 53,
       "categories": [
         "match_results",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.300026",
-      "title_tr": "\"Turu geçtiğimiz için mutluyuz\"",
-      "summary_tr": "Fenerbahçe'nin defans oyuncusu Milan Skriniar, UEFA Şampiyonlar Ligi 3. eleme turu rövanşında Sturm Graz'ı 1-0 yenerek Play-off'a yükseldikleri maçın ardından değerlendirmelerde bulundu. Karşılaşmanın zor geçeceğini tahmin ettiklerini söyleyen Skriniar, \"Eğer daha erken golü bulabilmiş olsaydık belk"
+      "processed_at": "2026-08-12T11:41:58.961905",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Arda Güler, Deportivo maçı öncesi AS'ın manşetinde: 'Real Madrid'de komuta Arda Güler'de! Boyu küçük ama bir Herkül gibi olması gerekiyor'",
-      "summary": "Yeni sezon hazırlıklarını sürdüren Real Madrid, bu akşam geleneksel Teresa Herrera Kupası'nda Deportivo ile karşı karşıya gelecek. Zorlu mücadele öncesinde İspanya'nın yüksek tirajlı spor gazetesi AS'ta kaleme alınan yazıda Eflatun-beyazlı takımda komutanın milli futbolcu Arda Güler'de olacağı belir",
-      "url": "https://www.hurriyet.com.tr/sporarena/arda-guler-deportivo-maci-oncesi-asin-mansetinde-real-madridde-komuta-arda-gulerde-boyu-kucuk-ama-bir-herkul-gibi-olmasi-gerekiyor-43270531",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7c41f0dd4561c737f52cc8.jpg",
-      "published": "2026-08-12T09:53:00",
-      "source": "Hürriyet Spor",
+      "title": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
+      "summary": "'Not really, no' - the perhaps surprising answer from Manchester United’s summer signing Youri Tielemans when asked whether he expected to leave his former club Aston Villa in this window.",
+      "url": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-youri-tielemans-man-utd_7319528.jpg?20260812101045",
+      "published": "2026-08-12T12:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:31.033235",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-08-12T11:41:58.800241",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "N’Golo Kante, gençlere taş çıkarttı",
+      "summary": "Fenerbahçe’nin tecrübeli Fransız yıldızı N’Golo Kanté, dünkü karşılaşmada ortaya koyduğu performansla sahadaki genç oyunculara adeta taş çıkardı.",
+      "url": "https://www.cnnturk.com/spor/futbol/ngolo-kante-genclere-tas-cikartti-3453476",
+      "image_url": null,
+      "published": "2026-08-12T14:03:57",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:11.464225",
+      "fetched_at": "2026-08-12T11:40:48.936996",
       "priority_score": 51,
       "categories": [
-        "la_liga"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.340246",
-      "title_tr": "Arda Güler, Deportivo maçı öncesi AS'ın manşetinde: 'Real Madrid'de komuta Arda Güler'de! Boyu küçük ama bir Herkül gibi olması gerekiyor'",
-      "summary_tr": "Yeni sezon hazırlıklarını sürdüren Real Madrid, bu akşam geleneksel Teresa Herrera Kupası'nda Deportivo ile karşı karşıya gelecek. Zorlu mücadele öncesinde İspanya'nın yüksek tirajlı spor gazetesi AS'ta kaleme alınan yazıda Eflatun-beyazlı takımda komutanın milli futbolcu Arda Güler'de olacağı belir"
+      "processed_at": "2026-08-12T11:41:59.155981",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'dan Balogun harekatı!",
+      "summary": "Transfer çalışmalarına hız veren Galatasaray, Mauro Icardi'nin ayrılığı sonrası Victor Osimhen'in yanına kaliteli bir golcü takviyesi yapmak istiyor... Bu kapsamda harekete geçen sarı-kırmızılıların, Monaco forması giyen Folarin Balogun'un şartlarını sorduğu iddia edildi.",
+      "url": "https://www.haberturk.com/galatasaray-dan-folarin-balogun-harekati-transfer-sartlari-soruldu-3905079-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/12/ver1786528313/3905079/jpg/1280x1280",
+      "published": "2026-08-12T09:52:07",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:40:10.826408",
+      "priority_score": 88,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-12T11:41:58.921254",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Fenerbahçe transferinin ardından, Lukaku'nun Ankara bağlantısı yeniden gündem oldu",
@@ -234,35 +275,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:36.246739",
-      "priority_score": 91,
+      "fetched_at": "2026-08-12T11:40:48.938274",
+      "priority_score": 81,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.538359",
-      "title_tr": "Fenerbahçe transferinin ardından, Lukaku'nun Ankara bağlantısı yeniden gündem oldu",
-      "summary_tr": "Fenerbahçe, Belçikalı forvet Romelu Lukaku’yu Napoli’den kadrosuna katıyor. Kulüpler arasında yaklaşık 6 milyon euro artı performans primleri karşılığında anlaşmaya varıldığı, oyuncunun da kişisel şartlarda mutabık kaldığı bildirildi. 33 yaşındaki yıldız, sağlık kontrollerini geçtikten sonra sarı-la"
-    },
-    {
-      "title": "Hamer rejoins Coventry City on 'long-term' deal",
-      "summary": "Coventry City re-sign midfielder Gustavo Hamer from Sheffield United on a \"long-term\" contract for an undisclosed fee.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c629lp48ykwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-11T22:18:07",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.187227",
-      "priority_score": 85,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-12T10:12:51.151228",
-      "title_tr": "Hamer 'uzun vadeli' anlaşmayla Coventry City'ye yeniden katıldı",
-      "summary_tr": "Coventry City, Sheffield United'dan orta saha oyuncusu Gustavo Hamer'ı açıklanmayan bir ücret karşılığında \"uzun vadeli\" bir sözleşmeyle yeniden imzaladı."
+      "processed_at": "2026-08-12T11:41:59.208846",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "'Fener verleidt Lukaku met riant salaris, PSG dicht bij deal met Barça'",
@@ -274,54 +296,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-12T10:12:46.705878",
+      "fetched_at": "2026-08-12T11:41:56.152250",
       "priority_score": 77,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-12T10:12:51.769929",
-      "title_tr": "'Fener cömert bir maaşla Lukaku'yu baştan çıkarıyor, PSG Barça'yla anlaşmaya yakın'",
-      "summary_tr": "Yine yılın transfer yağmurlarının yağdığı zamanı geldi. Voetbal International geleneksel olarak dış pazarı yakından takip ediyor. Hollanda'daki transfer sorunları için blogumuzu buradan görüntüleyin."
-    },
-    {
-      "title": "Sky Sports agrees deal to show Laver Cup from London's O2 in September",
-      "summary": "Sky Sports has agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 arena this September, as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' showdown.",
-      "url": "https://www.skysports.com/tennis/news/12040/13571896/laver-cup-sky-sports-to-show-europe-vs-rest-of-the-world-from-londons-o2-in-september",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-taylor-fritz-agassi_7318853.jpg?20260811115255",
-      "published": "2026-08-12T10:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:26.487948",
-      "priority_score": 76,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-12T10:12:51.158334",
-      "title_tr": "Sky Sports, Eylül ayında Londra O2'den Laver Cup'ı göstermek için anlaşmayı kabul etti",
-      "summary_tr": "Sky Sports, dünyanın en iyi 12 erkek oyuncusunun her yıl düzenlenen Avrupa ve 'Dünyanın Geri Kalanı' karşılaşmasında yarışacağı Laver Cup'ın üç gününün tamamını Londra'nın O2 arenasında göstermek üzere Trident8 ile bir anlaşma imzaladı."
-    },
-    {
-      "title": "Samsunspor, Gabriele Guarino ile 5 yıllık imzaladı",
-      "summary": "Süper Lig ekiplerinden Samsunspor, İtalya Serie B ekiplerinden Empoli forması giyen Gabriele Guarino ile 5 yıllık sözleşme imzaladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/samsunspor-gabriele-guarino-ile-5-yillik-imzaladi-3453317",
-      "image_url": null,
-      "published": "2026-08-12T10:07:45",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:11:36.246911",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-12T10:12:51.546827",
-      "title_tr": "Samsunspor, Gabriele Guarino ile 5 yıllık imzaladı",
-      "summary_tr": "Süper Lig ekiplerinden Samsunspor, İtalya Serie B ekiplerinden Empoli forması giyen Gabriele Guarino ile 5 yıllık sözleşme imzaladı."
+      "processed_at": "2026-08-12T11:41:59.445229",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
@@ -333,75 +316,75 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:50.043868",
+      "fetched_at": "2026-08-12T11:38:56.747665",
       "priority_score": 73,
       "categories": [
         "transfers",
         "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-08-12T10:12:51.204091",
-      "title_tr": "Futbol transfer söylentileri: Folarin Balogun Tottenham'a mı? Gabriel Jesus Napoli'ye mi gidiyor?",
-      "summary_tr": "Bugünün tüyleri daha iyi bir teklifle geri dönüyor Bradley Barcola, Muhammed Salah sonrası dönemde ataklarını yeniden inşa etmek isteyen Liverpool'un hedefinde. İki kez Şampiyonlar Ligi şampiyonu olan oyuncunun Paris Saint-Germain'den ayrılmak istediği ve tercih ettiği yerin Anfield olduğu bildiriliyor."
+      "processed_at": "2026-08-12T11:41:58.860713",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Clubloze Diemers heeft deur voor Cambuur nog altijd op een kier staan",
-      "summary": "Mark Diemers heeft de clubs voor het uitkiezen, maar wordt voorlopig nog niet warm van een buitenlands avontuur. De middenvelder is transfervrij na zijn vertrek bij promovendus Cambuur, waarmee hij geen overeenstemming over een nieuw contract bereikte. Toch heeft hij de deur voor 'zijn club' nog alt",
-      "url": "https://www.vi.nl/nieuws/clubloze-diemers-heeft-deur-voor-cambuur-nog-altijd-op-een-kier-staan",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/12/d86d5100a0022793dc4b3940f24951c4662979db.jpg?width=1200",
-      "published": "2026-08-12T09:42:03",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:12:46.705256",
-      "priority_score": 72,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-12T10:12:51.674180",
-      "title_tr": "Kulüpsüz Diemers'ın Cambuur için kapısı hala açık",
-      "summary_tr": "Mark Diemers'ın seçebileceği kulüpler var ancak yurt dışı macerası konusunda henüz heyecanlı değil. Orta saha oyuncusu, yeni sözleşme konusunda anlaşmaya varamadığı doktora öğrencisi Cambuur'dan ayrıldıktan sonra transferden muaf tutulacak. Ancak 'kulüpünün' kapısı hala açık"
-    },
-    {
-      "title": "Galatasaray'dan transferde Londra çıkarması! İki yıldız birden",
-      "summary": "Transfer döneminde sessiz kalan Galatasaray, taraftarını heyecanlandıracak dev bir operasyona başladı. Sarı-kırmızılılar, İngiliz devinin iki yıldızı hareketi geçti. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-transferde-londra-cikarmasi-iki-yildiz-birden-43270295",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7c1d14dd4561c737f52bd1.jpg",
-      "published": "2026-08-12T09:23:00",
-      "source": "Hürriyet Spor",
+      "title": "Chelsea, Rayo Vallecano'nun yıldızı Pep Chavarria'yı transfer etti",
+      "summary": "İngiltere Premier Lig ekiplerinden Chelsea, İspanyol futbolcu Pep Chavarria'yı kadrosuna kattı.",
+      "url": "https://www.cnnturk.com/spor/futbol/chelsea-rayo-vallecanonun-yildizi-pep-chavarriayi-transfer-etti-3453456",
+      "image_url": null,
+      "published": "2026-08-12T13:10:52",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:11.464306",
+      "fetched_at": "2026-08-12T11:40:48.937357",
       "priority_score": 71,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-12T10:12:51.346906",
-      "title_tr": "Galatasaray'dan transferde Londra çıkarması! İki yıldız birden",
-      "summary_tr": "Transfer döneminde sessiz kalan Galatasaray, taraftarını heyecanlandıracak dev bir operasyona başladı. Sarı-kırmızılılar, İngiliz devinin iki yıldızı hareketi geçti. İşte detaylar..."
-    },
-    {
-      "title": "Manchester City legt voormalig Ajax-doelman Rulli vast",
-      "summary": "Gerónimo Rulli (34) is speler van Manchester City. De Engelse club heeft de oud-keeper van Ajax overgenomen van Olympique Marseille. De Argentijn heeft een contract voor twee seizoenen getekend.",
-      "url": "https://www.vi.nl/nieuws/manchester-city-legt-voormalig-ajax-doelman-rulli-vast",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/08/30a2f050e43f2125a7c4b7ee8b21641a44db5142.jpg?width=1200",
-      "published": "2026-08-12T10:05:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:12:46.705095",
-      "priority_score": 67,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-12T10:12:51.651225",
-      "title_tr": "Manchester City, Ajax'ın eski kalecisi Rulli'yi kadrosuna kattı",
-      "summary_tr": "Gerónimo Rulli (34), Manchester City oyuncusu. İngiliz kulübü, Olympique Marsilya'dan Ajax'ın eski kalecisini kadrosuna kattı. Arjantinli oyuncu 2 yıllık sözleşme imzaladı."
+      "processed_at": "2026-08-12T11:41:59.165549",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Sky Sports agrees deal to show Laver Cup from London's O2 in September",
+      "summary": "Sky Sports has agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 arena this September, as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' showdown.",
+      "url": "https://www.skysports.com/tennis/news/12040/13571896/laver-cup-sky-sports-to-show-europe-vs-rest-of-the-world-from-londons-o2-in-september",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-taylor-fritz-agassi_7318853.jpg?20260811115255",
+      "published": "2026-08-12T10:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:31.033558",
+      "priority_score": 66,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-12T11:41:58.805638",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Samsunspor, Gabriele Guarino ile 5 yıllık imzaladı",
+      "summary": "Süper Lig ekiplerinden Samsunspor, İtalya Serie B ekiplerinden Empoli forması giyen Gabriele Guarino ile 5 yıllık sözleşme imzaladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/samsunspor-gabriele-guarino-ile-5-yillik-imzaladi-3453317",
+      "image_url": null,
+      "published": "2026-08-12T10:07:45",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:40:48.938441",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-12T11:41:59.217573",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "The late-bloomer left-back joining Chelsea for £16m",
@@ -413,36 +396,54 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.186073",
+      "fetched_at": "2026-08-12T11:38:21.134915",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-12T10:12:51.147078",
-      "title_tr": "Son dönemde forma giyen sol bek 16 milyon £ karşılığında Chelsea'ye transfer oldu",
-      "summary_tr": "Pep Chavarria, 24 yaşına kadar İspanya alt liglerinde forma giyen Pep Chavarria, beş yıllık sözleşmeyle Chelsea'ye katıldı."
+      "processed_at": "2026-08-12T11:41:58.793357",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Why 'wanted' Stanway wasted no time in getting Arsenal tattoo",
-      "summary": "England midfielder Georgia Stanway explains her latest tattoo and how Arsenal made her \"feel wanted\" before her move from Bayern Munich.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6n9g6wgo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-12T06:49:11",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Clubloze Diemers heeft deur voor Cambuur nog altijd op een kier staan",
+      "summary": "Mark Diemers heeft de clubs voor het uitkiezen, maar wordt voorlopig nog niet warm van een buitenlands avontuur. De middenvelder is transfervrij na zijn vertrek bij promovendus Cambuur, waarmee hij geen overeenstemming over een nieuw contract bereikte. Toch heeft hij de deur voor 'zijn club' nog alt",
+      "url": "https://www.vi.nl/nieuws/clubloze-diemers-heeft-deur-voor-cambuur-nog-altijd-op-een-kier-staan",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/12/d86d5100a0022793dc4b3940f24951c4662979db.jpg?width=1200",
+      "published": "2026-08-12T09:42:03",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.187398",
-      "priority_score": 65,
+      "fetched_at": "2026-08-12T11:41:56.151737",
+      "priority_score": 62,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-12T11:41:59.358485",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'dan transferde Londra çıkarması! İki yıldız birden",
+      "summary": "Transfer döneminde sessiz kalan Galatasaray, taraftarını heyecanlandıracak dev bir operasyona başladı. Sarı-kırmızılılar, İngiliz devinin iki yıldızı hareketi geçti. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-transferde-londra-cikarmasi-iki-yildiz-birden-43270295",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7c1d14dd4561c737f52bd1.jpg",
+      "published": "2026-08-12T09:23:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:40:22.517576",
+      "priority_score": 61,
       "categories": [
         "transfers",
-        "premier_league",
-        "bundesliga"
+        "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.152462",
-      "title_tr": "Neden 'aranıyordu' Stanway, Arsenal dövmesi yaptırmak için hiç vakit kaybetmedi",
-      "summary_tr": "İngiliz orta saha oyuncusu Georgia Stanway, son dövmesini ve Bayern Münih'ten ayrılmadan önce Arsenal'in kendisine nasıl \"istenildiğini\" hissettirdiğini anlatıyor."
+      "processed_at": "2026-08-12T11:41:59.012395",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Galatasaray’da transfer krizi: Okan Buruk’un canına tak etti!",
@@ -454,35 +455,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:11.464848",
+      "fetched_at": "2026-08-12T11:40:22.518107",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.401205",
-      "title_tr": "Galatasaray’da transfer krizi: Okan Buruk’un canına tak etti!",
-      "summary_tr": "Süper Lig'de yeni sezonun ilk maçına Cuma günü çıkacak olan Galatasaray'da transfer çalışmaları henüz istenen noktaya gelmezken, teknik direktör Okan Buruk’un kadronun dar kalmasından oldukça rahatsız olduğu öğrenildi. İşte detaylar..."
-    },
-    {
-      "title": "Rodrigo Mora’nın yeni takımı belli oluyor",
-      "summary": "Roma, Galatasaray’ın da istediği Rodrigo Mora transferinde sona geldi. İşte detaylar…Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/12/rodrigo-moranin-yeni-takimi-belli-oluyor",
-      "image_url": "https://iasbh.tmgrup.com.tr/f2111d/1200/675/0/10/600/348?u=https://isbh.tmgrup.com.tr/sbh/2026/08/12/rodrigo-moranin-yeni-takimi-belli-oluyor-1786526765291.jpeg",
-      "published": "2026-08-12T09:26:49",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:11:17.674211",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-12T10:12:51.442940",
-      "title_tr": "Rodrigo Mora’nın yeni takımı belli oluyor",
-      "summary_tr": "Roma, Galatasaray’ın da istediği Rodrigo Mora transferinde sona geldi. İşte detaylar…Devamı için tıklayınız"
+      "processed_at": "2026-08-12T11:41:59.069102",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
@@ -494,111 +475,131 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.186888",
+      "fetched_at": "2026-08-12T11:38:21.135986",
       "priority_score": 60,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-12T10:12:51.149511",
-      "title_tr": "Bezos için bir darbe ve FSG için beklenmedik bir gelişme; anlaşma Liverpool'u nereye götürüyor?",
-      "summary_tr": "Jeff Bezos'un da aralarında bulunduğu bir grubun yatırımı neden Liverpool'un harcama gücünde belirgin bir fark yaratmayacak ve taraftarlar arasında huzursuzluk yaratabilecek?"
+      "processed_at": "2026-08-12T11:41:58.798868",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe play-off'a yükseldi!",
-      "summary": "UEFA Şampiyonlar Ligi 3. eleme turu rövanş maçında Fenerbahçe deplasmanda Sturm Graz'ı Anderson Talisca'nın (p) golüyle 1-0 mağlup etti. İlk maçı 2-0 kazanan sarı-lacivertliler bu maçı da kazanarak toplam 3-0'lık skorla play-off'a yükseldi. Fenerbahçe'nin bu turdaki rakibi ise Fransız temsilcisi Lyo",
-      "url": "https://www.haberturk.com/sturm-graz-fenerbahce-maci-ozet-izle-sturm-graz-fenerbahce-mac-sonucu-golleri-3904752-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/11/ver1786481450/3904752/jpg/1280x1280",
-      "published": "2026-08-11T21:02:25",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:10:57.849836",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-12T10:12:51.316428",
-      "title_tr": "Fenerbahçe play-off'a yükseldi!",
-      "summary_tr": "UEFA Şampiyonlar Ligi 3. eleme turu rövanş maçında Fenerbahçe deplasmanda Sturm Graz'ı Anderson Talisca'nın (p) golüyle 1-0 mağlup etti. İlk maçı 2-0 kazanan sarı-lacivertliler bu maçı da kazanarak toplam 3-0'lık skorla play-off'a yükseldi. Fenerbahçe'nin bu turdaki rakibi ise Fransız temsilcisi Lyo"
-    },
-    {
-      "title": "Lazio moet lucratieve sponsordeal noodgedwongen beëindigen",
-      "summary": "Lazio moet op zoek naar een nieuwe shirtsponsor: de Romeinen hebben noodgedwongen een einde gemaakt aan een samenwerking met het Amerikaanse bedrijf Polymarket, dat sinds april van dit jaar op het shirt stond.",
-      "url": "https://www.vi.nl/nieuws/lazio-moet-lucratieve-sponsordeal-noodgedwongen-beeindigen",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/12/2de61d56debc02a0ac4d247bcae61e556c25dbe3.jpg?width=1200",
-      "published": "2026-08-12T09:56:41",
+      "title": "Manchester City legt voormalig Ajax-doelman Rulli vast",
+      "summary": "Gerónimo Rulli (34) is speler van Manchester City. De Engelse club heeft de oud-keeper van Ajax overgenomen van Olympique Marseille. De Argentijn heeft een contract voor twee seizoenen getekend.",
+      "url": "https://www.vi.nl/nieuws/manchester-city-legt-voormalig-ajax-doelman-rulli-vast",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/08/30a2f050e43f2125a7c4b7ee8b21641a44db5142.jpg?width=1200",
+      "published": "2026-08-12T10:22:08",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-12T10:12:46.705178",
+      "fetched_at": "2026-08-12T11:41:56.151572",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-12T11:41:59.334387",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Barcelona make improved £51m bid for Rodri as Manchester City target Fernández",
+      "summary": "Latest offer close to City’s valuation for Spain midfielderChelsea’s £120m price for Fernández may be too highBarcelona have made an improved bid to Manchester City of around €60m (£51m) for Rodri.This follows Barça’s initial offer of €45m that was rejected out of hand by City. The Spanish club’s ne",
+      "url": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
+      "image_url": null,
+      "published": "2026-08-12T10:57:58",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:56.746375",
+      "priority_score": 53,
+      "categories": [
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-08-12T11:41:58.844986",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "‘It is just smelling football’: Tielemans says adjusting to life at United has come naturally",
+      "summary": "Midfielder says experience has helped him settle in‘It’s what I’ve been doing from when I was young’Youri Tielemans has stated that adjusting to Michael Carrick’s vision for Manchester United has been as easy as “smelling football” for the vastly experienced £35m midfield signing.The 29-year-old, wh",
+      "url": "https://www.theguardian.com/football/2026/aug/12/youri-tielemans-manchester-united-smelling-football",
+      "image_url": null,
+      "published": "2026-08-12T11:00:26",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:56.746800",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-08-12T11:41:58.850139",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom",
+      "summary": "As Ronaldo heads towards 1,000 career-goals, league plans to lift standard of Saudi Arabian football, not just the clubsThere’s no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the age of the ageing megastar is ending, there is still the strong chance that the",
+      "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment",
+      "image_url": null,
+      "published": "2026-08-12T09:05:29",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:38:56.747156",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-08-12T11:41:58.855734",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Zomertransfers Eredivisie seizoen 2026/27: alle clubs op een rij",
+      "summary": "De transferperiode is weer losgebarsten. In dit overzicht van VI vind je alle afgeronde zomertransfers van de achttien Eredivisie-clubs. Transfers komen pas in dit overzicht als ze zijn bevestigd door de betreffende clubs.",
+      "url": "https://www.vi.nl/nieuws/zomertransfers-eredivisie-seizoen-2026-27-alle-clubs-op-een-rij",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/06/08/eba412dead26cbdf67ec82003f878f124aafdf34.jpg?width=1200",
+      "published": "2026-08-12T10:50:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-12T11:41:56.151356",
       "priority_score": 52,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-12T10:12:51.661634",
-      "title_tr": "Lazio kazançlı sponsorluk anlaşmasını bitirmek zorunda kaldı",
-      "summary_tr": "Lazio'nun yeni bir forma sponsoru araması gerekiyor: Romalılar, bu yılın Nisan ayından bu yana forma üzerinde faaliyet gösteren Amerikan şirketi Polymarket ile olan işbirliğini sonlandırmak zorunda kaldı."
+      "processed_at": "2026-08-12T11:41:59.299829",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Emre Mor’un uzatma dakikalarındaki golü NEC Nijmegen’e turu getirdi",
-      "summary": "UEFA Avrupa Ligi 3. ön eleme turu rövanşında NEC Nijmegen, Olympiakos’u 2-1 mağlup ederek bir üst tura yükseldi. İlk maç 0-0 sona ermişti.",
-      "url": "https://www.cnnturk.com/spor/futbol/emre-morun-uzatma-dakikalarindaki-golu-nec-nijmegene-turu-getirdi-3453295",
-      "image_url": null,
-      "published": "2026-08-12T09:32:16",
-      "source": "CNN Türk Spor",
+      "title": "Rodrigo Mora’nın yeni takımı belli oluyor",
+      "summary": "Roma, Galatasaray’ın da istediği Rodrigo Mora transferinde sona geldi. İşte detaylar…Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/12/rodrigo-moranin-yeni-takimi-belli-oluyor",
+      "image_url": "https://iasbh.tmgrup.com.tr/f2111d/1200/675/0/10/600/348?u=https://isbh.tmgrup.com.tr/sbh/2026/08/12/rodrigo-moranin-yeni-takimi-belli-oluyor-1786526765291.jpeg",
+      "published": "2026-08-12T09:26:49",
+      "source": "Sabah Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-12T10:11:36.247248",
+      "fetched_at": "2026-08-12T11:40:29.739880",
       "priority_score": 51,
       "categories": [
-        "match_results"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-08-12T10:12:51.567189",
-      "title_tr": "Emre Mor’un uzatma dakikalarındaki golü NEC Nijmegen’e turu getirdi",
-      "summary_tr": "UEFA Avrupa Ligi 3. ön eleme turu rövanşında NEC Nijmegen, Olympiakos’u 2-1 mağlup ederek bir üst tura yükseldi. İlk maç 0-0 sona ermişti."
-    },
-    {
-      "title": "Ipswich agree fee for Paraguay forward Enciso",
-      "summary": "Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj4zvdn0ko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-12T08:25:12",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.185586",
-      "priority_score": 50,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-12T10:12:51.146292",
-      "title_tr": "Ipswich, Paraguaylı forvet Enciso'nun ücretini kabul etti",
-      "summary_tr": "Ipswich Town, Paraguaylı forvet Strazburg'dan Julio Enciso'yu transfer etmek için anlaşmaya vardı."
-    },
-    {
-      "title": "Depay says Corinthians 'unacceptable' as contract ends",
-      "summary": "Memphis Depay accuses Corinthians of \"unacceptable behaviour\" and of breaching an agreement after the Brazilian club decide against renewing his contract.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-12T06:35:01",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-12T10:09:14.186701",
-      "priority_score": 50,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-12T10:12:51.148724",
-      "title_tr": "Depay, Corinthians'ın sözleşmesinin sona ermesi nedeniyle 'kabul edilemez' olduğunu söyledi",
-      "summary_tr": "Memphis Depay, Corinthians'ı \"kabul edilemez davranışla\" ve Brezilya kulübünün sözleşmesini yenilememeye karar vermesinin ardından anlaşmayı ihlal etmekle suçladı."
+      "processed_at": "2026-08-12T11:41:59.110789",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
