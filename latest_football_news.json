@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T05:20:45.145342",
+  "timestamp": "2026-08-15T06:23:41.778021",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:08.696858",
+      "fetched_at": "2026-08-15T06:19:17.303535",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "la_liga"
       ],
-      "processed_at": "2026-08-15T05:19:34.086533",
+      "processed_at": "2026-08-15T06:22:37.288356",
       "title_tr": "Romero, Atletico transferi öncesinde Spurs'un ayrılacağını duyurdu",
       "summary_tr": "Tottenham kaptanı Cristian Romero, Atletico Madrid'e transferinin açıklanmasından önce kulüpten ayrılacağını doğruladı."
     },
@@ -33,13 +33,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:28.875571",
+      "fetched_at": "2026-08-15T06:19:41.385905",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-15T05:19:34.097550",
+      "processed_at": "2026-08-15T06:22:37.296773",
       "title_tr": "Liverpool'un sahibi FSG, Jeff Bezos'un da aralarında bulunduğu konsorsiyuma 1,65 milyar sterlinlik %30 hisse satışı imzaladı",
       "summary_tr": "Amit Bhatia, kulübün yeni başkan yardımcısı olacakLiverpool'un sahibi Fenway Sports Group, kulübün %30'unun Amit Bhatia, Amazon kurucusu Jeff Bezos ve Facebook kurucu ortağı Eduardo Save'in de dahil olduğu bir konsorsiyuma satılması konusunda anlaştığını doğruladı"
     },
@@ -53,14 +53,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:54.435609",
+      "fetched_at": "2026-08-15T06:20:04.382561",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-15T05:19:34.157063",
+      "processed_at": "2026-08-15T06:22:37.361281",
       "title_tr": "Borussia Dortmund, Saïd El Mala transferi konusunda Köln ile müzakereleri sonlandırdı",
       "summary_tr": "Bir ileri bir geri transfer destanının ardından artık resmileşti: Saïd El Mala, Siyah-Sarılılardan gelen bir başka iyi teklife rağmen bu yaz Köln'den Borussia Dortmund'a transfer olmayacak."
     },
@@ -74,15 +74,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573219",
+      "fetched_at": "2026-08-15T06:20:51.898749",
       "priority_score": 78,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.181893",
+      "processed_at": "2026-08-15T06:22:37.392266",
       "title_tr": "Galatasaray'a Çorum FK engeli!",
       "summary_tr": "Süper Lig'de sezonun açılış maçında Galatasaray sahasında ligin yeni ekibi Çorum FK ile 2-2 berabere kaldı. Bu sonuçla Çorum FK, Süper Lig tarihindeki ilk puanını aldı. Galatasaray'ın golleri 53 ile 90. dakikada Victor Osimhen'den gelirken Çorum FK'nın golleri ise 59. dakikada Alexandros Kyziridis v"
+    },
+    {
+      "title": "Galatasaray-Çorum FK maçını Nihat Kahveci değerlendirdi: Mesaj alınmalı!",
+      "summary": "Galatasaray, Süper Lig'in açılış haftasında Çorum FK ile 2-2 berabere kaldı. Mücadele sonrası Nihat Kahveci, değerlendirmelerde bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-corum-fk-macini-nihat-kahveci-degerlendirdi-mesaj-alinmali-43273895",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7ffb23f1630442c3a1ce4f.jpg",
+      "published": "2026-08-15T05:40:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-15T06:21:04.250231",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-15T06:22:37.446724",
+      "title_tr": "Galatasaray-Çorum FK maçını Nihat Kahveci değerlendirdi: Mesaj alınmalı!",
+      "summary_tr": "Galatasaray, Süper Lig'in açılış haftasında Çorum FK ile 2-2 berabere kaldı. Mücadele sonrası Nihat Kahveci, değerlendirmelerde bulundu."
     },
     {
       "title": "Süper Lig'de sezonunun ilk golü Osimhen'den!",
@@ -94,56 +114,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573277",
+      "fetched_at": "2026-08-15T06:20:51.898812",
       "priority_score": 63,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.186141",
+      "processed_at": "2026-08-15T06:22:37.396869",
       "title_tr": "Süper Lig'de sezonunun ilk golü Osimhen'den!",
       "summary_tr": "Trendyol Süper Lig'de 2026-2027 sezonunun ilk golünü Galatasaray'ın Nijeryalı futbolcusu Victor Osimhen kaydetti."
-    },
-    {
-      "title": "Davinson tercihi Galatasaray'a pahalıya patladı!",
-      "summary": "Çorum FK maçına ilk 11'de başlayan Davinson Sanchez'in yaptığı hata 2. golü getirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/davinson-tercihi-galatasaraya-pahaliya-patladi-43273850",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7fa708de691a4aa8c63d44.jpg",
-      "published": "2026-08-15T04:00:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-15T05:17:56.807352",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-15T05:19:34.241874",
-      "title_tr": "Davinson tercihi Galatasaray'a pahalıya patladı!",
-      "summary_tr": "Çorum FK maçına ilk 11'de başlayan Davinson Sanchez'in yaptığı hata 2. golü getirdi."
-    },
-    {
-      "title": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer!",
-      "summary": "Galatasaray, Süper Lig'in yeni ekiplerinden Çorum FK ile evinde 2-2 berabere kaldı. Maç sonrası Banu Yelkovan ve Uğur Meleke, mücadeleyi değerlendirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-corum-maci-sonrasi-yazdilar-en-az-4-5-transfer-43273872",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7fef7cf1630442c3a1ce12.jpg",
-      "published": "2026-08-15T04:48:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-15T05:17:56.807281",
-      "priority_score": 86,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-15T05:19:34.236532",
-      "title_tr": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer!",
-      "summary_tr": "Galatasaray, Süper Lig'in yeni ekiplerinden Çorum FK ile evinde 2-2 berabere kaldı. Maç sonrası Banu Yelkovan ve Uğur Meleke, mücadeleyi değerlendirdi."
     },
     {
       "title": "Osimhen'den transfer sorusuna yanıt!",
@@ -155,14 +134,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573151",
+      "fetched_at": "2026-08-15T06:20:51.898678",
       "priority_score": 83,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.178773",
+      "processed_at": "2026-08-15T06:22:37.388976",
       "title_tr": "Osimhen'den transfer sorusuna yanıt!",
       "summary_tr": "Sezonun açılış maçında Çorum FK ile berabere kalan Galatasaray'da Victor Osimhen, transfer söylentileri hakkında gelen soruya yanıt verirken Galatasaray'daki geleceğine ilişkin dikkat çeken mesajlar verdi."
     },
@@ -176,7 +155,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:54.434531",
+      "fetched_at": "2026-08-15T06:20:04.381510",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -184,9 +163,9 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-15T05:19:34.145055",
+      "processed_at": "2026-08-15T06:22:37.348289",
       "title_tr": "Bayern Münih'ten Ismael Saibari: Favori pozisyonum 10 numara",
-      "summary_tr": "Bayern Münih'ten Ismael Saibari resmi olarak Cuma günü basına açıklandı ve Faslı milli oyuncu en sevdiği pozisyonun on numara olduğunu söyledi; bu rol genellikle Jamal Musiala tarafından üstlenildi."
+      "summary_tr": "Bayern Münih'ten Ismael Saibari resmi olarak Cuma günü basına açıklandı ve Faslı milli oyuncu favori pozisyonunun on numara olduğunu söyledi; bu rol genellikle Jamal Musiala tarafından üstlenildi."
     },
     {
       "title": "Victor Osimhen'den transfer yanıtı: 'Görür ve düşünürüz!'",
@@ -198,14 +177,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:56.807763",
+      "fetched_at": "2026-08-15T06:21:04.250790",
       "priority_score": 81,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.282379",
+      "processed_at": "2026-08-15T06:22:37.503544",
       "title_tr": "Victor Osimhen'den transfer yanıtı: 'Görür ve düşünürüz!'",
       "summary_tr": "Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, ligin ilk haftasında 2-2 berabere kaldıkları Çorum FK maçının ardından açıklamalarda bulundu."
     },
@@ -219,12 +198,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:18.727018",
+      "fetched_at": "2026-08-15T06:21:27.275955",
       "priority_score": 81,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-15T05:19:34.501093",
+      "processed_at": "2026-08-15T06:22:37.738977",
       "title_tr": "TRANSFER | Samsunspor, genç orta saha oyuncusunu açıkladı",
       "summary_tr": "Samsunspor, 18 yaşındaki futbolcu Mbaitoloum Daniel ile sözleşme imzaladı."
     },
@@ -238,13 +217,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-15T05:15:56.429306",
+      "fetched_at": "2026-08-15T06:19:08.582273",
       "priority_score": 80,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-15T05:19:34.053586",
+      "processed_at": "2026-08-15T06:22:37.251992",
       "title_tr": "Arteta, Arsenal'le sözleşme görüşmeleri konusunda endişeli değil",
       "summary_tr": "Mikel Arteta, taraftarlarının onun Arsenal'deki geleceği konusunda \"endişelenmelerine gerek olmadığını\", sözleşmesini uzatmak istediğini ve sözleşmesinde kalan sürenin \"sorun olmadığını\" söyledi."
     },
@@ -258,15 +237,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:28.876246",
+      "fetched_at": "2026-08-15T06:19:41.386531",
       "priority_score": 78,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-15T05:19:34.105588",
+      "processed_at": "2026-08-15T06:22:37.305621",
       "title_tr": "'Sorun olmayacak': Mikel Arteta, Arsenal'in sözleşme durumu konusunda rahatladı",
       "summary_tr": "Menajerin sözleşmesi yeni sezon sonunda sona eriyor'Endişelenmelerine gerek yok... Burada olmak istiyorum'Mikel Arteta, Arsenal sözleşmesinin yeni sezon sonunda sona ermesi konusunda rahat olduğunu ve takımının şampiyonluğunu başarılı bir şekilde korumak için geçen yıldan daha iyi olması gerektiğine inandığını söyledi."
+    },
+    {
+      "title": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer!",
+      "summary": "Galatasaray, Süper Lig'in yeni ekiplerinden Çorum FK ile evinde 2-2 berabere kaldı. Maç sonrası Banu Yelkovan ve Uğur Meleke, mücadeleyi değerlendirdi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-corum-maci-sonrasi-yazdilar-en-az-4-5-transfer-43273872",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7fef7cf1630442c3a1ce12.jpg",
+      "published": "2026-08-15T04:48:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-15T06:21:04.250310",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-15T06:22:37.453705",
+      "title_tr": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer!",
+      "summary_tr": "Galatasaray, Süper Lig'in yeni ekiplerinden Çorum FK ile evinde 2-2 berabere kaldı. Maç sonrası Banu Yelkovan ve Uğur Meleke, mücadeleyi değerlendirdi."
     },
     {
       "title": "Okan Buruk'tan flaş transfer sözleri!",
@@ -278,14 +278,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573081",
+      "fetched_at": "2026-08-15T06:20:51.898612",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.175340",
+      "processed_at": "2026-08-15T06:22:37.385283",
       "title_tr": "Okan Buruk'tan flaş transfer sözleri!",
       "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, Çorum FK ile 2-2 berabere kalınan maçın ardından açıklamalarda bulundu. Okan Buruk, transfer sorusunu da yanıt verdi. İşte Buruk'un açıklamaları..."
     },
@@ -299,13 +299,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.948212",
+      "fetched_at": "2026-08-15T06:22:00.353223",
       "priority_score": 72,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.643718",
+      "processed_at": "2026-08-15T06:22:38.054468",
       "title_tr": "Galatasaray'ın ilk transferi belli oldu: Formayı giyebilmek için alacağını yaktı!",
       "summary_tr": "Yaz transfer dönemini oldukça sessiz geçiren Galatasaray'da yönetime ciddi eleştiriler getiriliyor. Sarı Kırmızılılardaki bu sessizlik gelen son açıklamayla son bulacakmış gözüküyor."
     },
@@ -319,15 +319,36 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:56.807476",
+      "fetched_at": "2026-08-15T06:21:04.250498",
       "priority_score": 71,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-15T05:19:34.251117",
+      "processed_at": "2026-08-15T06:22:37.469654",
       "title_tr": "Salah'lı Trabzonspor, Kasımpaşa önünde!",
       "summary_tr": "Transferde bombaları üst üste patlatan Fırtına, ligdeki ilk sınavını 19.00'da deplasmanda verecek."
+    },
+    {
+      "title": "Galatasaray'da Victor Osimhen'den transfer iddialarına yanıt!",
+      "summary": "Galatasaray, Trendyol Süper Lig'in ilk hafta maçında sahasında Arca Çorum FK ile 2-2'lik skorla berabere kaldı. Maçın ardından sarı-kırmızılıların yıldız ismi Victor Osimhen'den flaş açıklamalar geldi....Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/14/galatasarayda-victor-osimhenden-transfer-iddialarina-yanit",
+      "image_url": "https://iaftm.tmgrup.com.tr/39a257/1200/675/0/65/800/515?u=https://iftm.tmgrup.com.tr/2026/08/15/galatasarayda-victor-osimhenden-transfer-iddialarina-yanit-1786741652689.jpeg",
+      "published": "2026-08-14T22:33:19",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-15T06:21:41.626322",
+      "priority_score": 64,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-15T06:22:37.808673",
+      "title_tr": "Galatasaray'da Victor Osimhen'den transfer iddialarına yanıt!",
+      "summary_tr": "Galatasaray, Trendyol Süper Lig'in ilk hafta maçında sahasında Arca Çorum FK ile 2-2'lik skorla berabere kaldı. Maçın ardından sarı-kırmızılıların yıldız ismi Victor Osimhen'den flaş açıklamalar geldi....Devamı için tıklayınız"
     },
     {
       "title": "Beşiktaş'tan Vlahovic için imza töreni!",
@@ -339,15 +360,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573526",
+      "fetched_at": "2026-08-15T06:20:51.899054",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.202244",
+      "processed_at": "2026-08-15T06:22:37.414327",
       "title_tr": "Beşiktaş'tan Vlahovic için imza töreni!",
       "summary_tr": "Beşiktaş, yeni transferi Dusan Vlahovic için Tüpraş Stadyumu'nda imza töreni düzenledi. Beşiktaş Başkanı Serdal Adalı ve Dusan Vlahovic, törende açıklamalarda bulundu. Başkan Adalı, \"Kimsenin aklına gelmeyecek futbolcular için verdiğimiz 'Gider, alır, geliriz' sözümüzü bir kez daha yerine getirdik."
+    },
+    {
+      "title": "Enis Destan, Konyaspor'da!",
+      "summary": "Konyaspor, genç forvet Enis Destan ile 3 yıllık sözleşme imzaladı.",
+      "url": "https://www.haberturk.com/konyaspor-enis-destan-transferini-acikladi-3905698-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/14/ver1786721494/3905698/jpg/1280x1280",
+      "published": "2026-08-14T15:31:57",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-15T06:20:51.899220",
+      "priority_score": 63,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-15T06:22:37.428130",
+      "title_tr": "Enis Destan, Konyaspor'da!",
+      "summary_tr": "Konyaspor, genç forvet Enis Destan ile 3 yıllık sözleşme imzaladı."
     },
     {
       "title": "Trabzonspor'un Kasımpaşa kafilesi belli oldu! Muhammed Salah...",
@@ -359,14 +399,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.948642",
+      "fetched_at": "2026-08-15T06:22:00.353653",
       "priority_score": 62,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.680307",
+      "processed_at": "2026-08-15T06:22:38.098189",
       "title_tr": "Trabzonspor'un Kasımpaşa kafilesi belli oldu! Muhammed Salah...",
       "summary_tr": "Süper Lig'in ilk haftasında Kasımpaşa ile deplasmanda karşılaşacak Trabzonspor'un kamp kadrosu belli oldu. Bordo-mavililerde yeni transfer Muhammed Salah kafilede yer aldı."
     },
@@ -380,12 +420,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-15T05:15:56.428904",
+      "fetched_at": "2026-08-15T06:19:08.581905",
       "priority_score": 60,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-15T05:19:34.052778",
+      "processed_at": "2026-08-15T06:22:37.250844",
       "title_tr": "Bezos destekli konsorsiyum Liverpool'un üçte birini satın aldı",
       "summary_tr": "Liverpool'un sahipleri, kulübün yaklaşık üçte birini Amazon'un milyarder kurucusu Jeff Bezos'un da aralarında bulunduğu bir konsorsiyuma satmayı kabul etti; bu anlaşma, Reds'e 5 milyar £'dan fazla değer biçecek."
     },
@@ -399,14 +439,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:28.876632",
+      "fetched_at": "2026-08-15T06:19:41.386923",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-08-15T05:19:34.110338",
+      "processed_at": "2026-08-15T06:22:37.310750",
       "title_tr": "Chelsea, Manchester City'nin son teslim tarihine uymamayı tercih etmesinden sonra Enzo Fernández'in kalmasını bekliyor",
       "summary_tr": "City, teklif eksikliğine rağmen ilgisini koruyabilir Maresca, transfer döneminin yoğun bir şekilde sona ermesini bekliyor Manchester City, Chelsea'nin Cuma günü saat 17:00'den önce Enzo Fernández için 120 milyon £'luk bir teklifte bulunmadı ancak Enzo Maresca, kulüp gelen ve gidenlerin peşinde olduğu için transfer döneminin yoğun bir şekilde sonlanmasını bekliyor."
     },
@@ -420,7 +460,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:28.890569",
+      "fetched_at": "2026-08-15T06:19:41.404199",
       "priority_score": 58,
       "categories": [
         "transfers",
@@ -428,7 +468,7 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-15T05:19:34.114708",
+      "processed_at": "2026-08-15T06:22:37.315417",
       "title_tr": "Arsenal, Jarell Quansah'ın transferi için Bayer Leverkusen ile görüşmelere başladı",
       "summary_tr": "Bundesliga kulübü, İngiliz defans oyuncusu için en az 50 milyon Euro istiyor Arsenal, Aston Villa'dan Ezri Konsa ile ilgilenmeye devam ediyor Arsenal, William Saliba ve Jurriën Timber'ı koruma altına alma çabalarını yoğunlaştırırken, Jarell Quansah'ın transferi için Bayer Leverkusen ile görüşmelere başladı."
     },
@@ -442,13 +482,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:17:43.573644",
+      "fetched_at": "2026-08-15T06:20:51.899169",
       "priority_score": 58,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.211733",
+      "processed_at": "2026-08-15T06:22:37.424796",
       "title_tr": "Martinelli kararını verdi: G.Saray'a kötü haber!",
       "summary_tr": "Transfer çalışmalarını sürdüren Galatasaray'ın gündemine gelen Gabriel Martinelli cephesinde dikkat çeken bir gelişme yaşandı. Brezilyalı futbolcunun, sarı-kırmızılı takıma transfer konusunda olumsuz yanıt verdiği ifade edildi. İşte detaylar..."
     },
@@ -462,13 +502,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.948056",
+      "fetched_at": "2026-08-15T06:22:00.353072",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.629522",
+      "processed_at": "2026-08-15T06:22:38.036955",
       "title_tr": "Enis Destan Süper Lig'e döndü",
       "summary_tr": "İngiltere Premier Lig ekiplerinden Hull City'de forma giyen Enis Destan, Süper Lig ekibi TÜMOSAN Konyaspor'la sözleşme imzaladı."
     },
@@ -482,13 +522,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.948357",
+      "fetched_at": "2026-08-15T06:22:00.353360",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.655462",
+      "processed_at": "2026-08-15T06:22:38.068478",
       "title_tr": "Beşiktaş'tan sürpriz transfer: Orkun Kökçü'nün kankası geliyor",
       "summary_tr": "Transfer çalışmalarında gaza basan Beşiktaş yönetimi, sürpriz bir ismi gündemine aldı. Siyah-beyazlıların kaptanı Orkun Kökçü de yakın arkadaşının transferi için olumlu rapor verdi."
     },
@@ -502,55 +542,56 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:08.696561",
+      "fetched_at": "2026-08-15T06:19:17.303272",
       "priority_score": 56,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-15T05:19:34.072958",
+      "processed_at": "2026-08-15T06:22:37.273113",
       "title_tr": "Arteta, yeni Arsenal sözleşmesini 'organik şekilde' imzalayacağını söyledi",
       "summary_tr": "Mikel Arteta, yeni bir Arsenal sözleşmesi imzalayacağını ve taraftarların onun geleceği konusunda endişelenmesine gerek olmadığını açıkladı."
     },
     {
-      "title": "Galatasaray 2-2 Çorum FK Maç Özeti | Süper Lig’de sezona gollü başlangıç",
-      "summary": "Son şampiyon Galatasaray, Trendyol Süper Lig'in ilk haftasında Arca Çorum FK'yi konuk etti. Bu mücadelenin canlı anlatımı burada.",
-      "url": "https://www.cnnturk.com/spor/futbol/live-galatasaray-2-2-corum-fk-mac-ozeti-super-ligde-sezona-gollu-baslangic-3454361",
-      "image_url": null,
-      "published": "2026-08-14T23:50:05",
-      "source": "CNN Türk Spor",
+      "title": "Davinson tercihi Galatasaray'a pahalıya patladı!",
+      "summary": "Çorum FK maçına ilk 11'de başlayan Davinson Sanchez'in yaptığı hata 2. golü getirdi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/davinson-tercihi-galatasaraya-pahaliya-patladi-43273850",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a7fa708de691a4aa8c63d44.jpg",
+      "published": "2026-08-15T04:00:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:18.725652",
+      "fetched_at": "2026-08-15T06:21:04.250373",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.411599",
-      "title_tr": "Galatasaray 2-2 Çorum FK Maç Özeti | Süper Lig’de sezona gollü başlangıç",
-      "summary_tr": "Son şampiyon Galatasaray, Trendyol Süper Lig'in ilk haftasında Arca Çorum FK'yi konuk etti. Bu mücadelenin canlı anlatımı burada."
+      "processed_at": "2026-08-15T06:22:37.459571",
+      "title_tr": "Davinson tercihi Galatasaray'a pahalıya patladı!",
+      "summary_tr": "Çorum FK maçına ilk 11'de başlayan Davinson Sanchez'in yaptığı hata 2. golü getirdi."
     },
     {
-      "title": "TRANSFER | Enis Destan, Konyaspor’da",
-      "summary": "Konyaspor, Hull City’den golcü futbolcu Enis Destan’ı renklerine bağladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-enis-destan-konyasporda-3454550",
-      "image_url": null,
-      "published": "2026-08-14T19:17:49",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "title": "Galatasaray'da Okan Buruk'tan Çorum FK maçı sonrası transfer açıklaması!",
+      "summary": "Galatasaray, Trendyol Süper Lig'de sezonun ilk haftasında sahasında Arca Çorum FK ile 2-2'lik skorla berabere kaldı. Maçın ardından sarı-kırmızılılarda teknik direktör Okan Buruk açıklamalarda bulundu....Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/14/galatasarayda-okan-buruktan-corum-fk-maci-sonrasi-transfer-aciklamasi",
+      "image_url": "https://iaftm.tmgrup.com.tr/e1597b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/15/galatasarayda-okan-buruktan-corum-fk-maci-sonrasi-transfer-aciklamasi-1786742581536.jpeg",
+      "published": "2026-08-14T22:33:21",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-15T05:18:18.726426",
-      "priority_score": 56,
+      "fetched_at": "2026-08-15T06:21:41.626442",
+      "priority_score": 54,
       "categories": [
         "transfers",
-        "match_results"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-08-15T05:19:34.458776",
-      "title_tr": "TRANSFER | Enis Destan, Konyaspor’da",
-      "summary_tr": "Konyaspor, Hull City’den golcü futbolcu Enis Destan’ı renklerine bağladı."
+      "processed_at": "2026-08-15T06:22:37.821520",
+      "title_tr": "Galatasaray'da Okan Buruk'tan Çorum FK maçı sonrası transfer açıklaması!",
+      "summary_tr": "Galatasaray, Trendyol Süper Lig'de sezonun ilk haftasında sahasında Arca Çorum FK ile 2-2'lik skorla berabere kaldı. Maçın ardından sarı-kırmızılılarda teknik direktör Okan Buruk açıklamalarda bulundu....Devamı için tıklayınız"
     },
     {
       "title": "Arsenal v Manchester City in Community Shield and athletics gold – follow with us",
@@ -562,56 +603,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-15T05:16:28.891908",
+      "fetched_at": "2026-08-15T06:19:41.405575",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-15T05:19:34.132102",
+      "processed_at": "2026-08-15T06:22:37.334506",
       "title_tr": "Community Shield'da Arsenal - Manchester City ve atletizmde altın – bizimle takip edin",
       "summary_tr": "İşte haberimizi nasıl takip edeceğiniz - en iyi yazılar ve en güncel raporlar Okumaya devam edin..."
-    },
-    {
-      "title": "Dünya yıldızı Galatasaray maçı oynanırken paylaşım yaptı: Taraftar heyecanlandı!",
-      "summary": "Galatasaray’da transfer çalışmaları devam ederken gündemin en dikkat çekici isimlerinden biri Rafael Leao oldu. Sarı-kırmızılıların uzun süredir kadrosuna katmak istediği Milan’ın Portekizli yıldızı, yaptığı sosyal medya paylaşımıyla transfer söylentilerini yeniden hareketlendirdi.",
-      "url": "https://www.yenisafak.com/galeri/spor/dunya-yildizi-galatasaray-maci-oynanirken-paylasim-yapti-taraftar-heyecanlandi-4848178",
-      "image_url": null,
-      "published": "2026-08-14T19:17:28",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.938306",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-15T05:19:34.578356",
-      "title_tr": "Dünya yıldızı Galatasaray maçı oynanırken paylaşım yaptı: Taraftar heyecanlandı!",
-      "summary_tr": "Galatasaray’da transfer çalışmaları devam ederken gündemin en dikkat çekici isimlerinden biri Rafael Leao oldu. Sarı-kırmızılıların uzun süredir kadrosuna katmak istediği Milan’ın Portekizli yıldızı, yaptığı sosyal medya paylaşımıyla transfer söylentilerini yeniden hareketlendirdi."
-    },
-    {
-      "title": "Galatasaray'ı yıkan haber! Yıldız futbolcu gelmek istemediğini bildirdi",
-      "summary": "Transfer çalışmalarına hız veren Galatasaray'ın kadrosuna katmak için uğraş verdiği yıldız isim, sarı-kırmızılılara gelmek istemediğini bildirdi. İşte ayrıntılar...",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayi-yikan-haber-yildiz-futbolcu-gelmek-istemedigini-bildirdi-4848138",
-      "image_url": null,
-      "published": "2026-08-14T16:10:02",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-15T05:18:50.947826",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-15T05:19:34.623327",
-      "title_tr": "Galatasaray'ı yıkan haber! Yıldız futbolcu gelmek istemediğini bildirdi",
-      "summary_tr": "Transfer çalışmalarına hız veren Galatasaray'ın kadrosuna katmak için uğraş verdiği yıldız isim, sarı-kırmızılılara gelmek istemediğini bildirdi. İşte ayrıntılar..."
     }
   ]
 }
