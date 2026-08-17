@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T07:47:35.549958",
+  "timestamp": "2026-08-17T08:35:14.749680",
   "total_items": 30,
   "news": [
     {
@@ -12,35 +12,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-17T07:43:37.346105",
+      "fetched_at": "2026-08-17T08:31:10.017839",
       "priority_score": 91,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-17T07:46:14.220415",
+      "processed_at": "2026-08-17T08:33:42.563062",
       "title_tr": "Jürgen Klopp, Almanya milli takım koçu olarak ilk gününü tamamladı",
       "summary_tr": "Almanya milli takım başantrenörü Jürgen Klopp, Temmuz ayı sonunda görevi Julian Nagelsmann'dan devralmasından bu yana yeni görevindeki ilk resmi çalışma gününü Cumartesi günü tamamladı."
-    },
-    {
-      "title": "Galatasaray, yeniden alıyor! Bonservisi belli oldu",
-      "summary": "Galatasaray, transfer sezonunun bitmesine kısa bir süre kala çalışmalarını hızlandırdı. Bu bağlamda Cimbom'da Noa Lang ismi yüksek sesle ifade edilmeye başlandı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-yeniden-aliyor-bonservisi-belli-oldu-43275659",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a82ae04f1630442c3a1d78a.jpg",
-      "published": "2026-08-17T06:46:52",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:44:38.566974",
-      "priority_score": 91,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-17T07:46:14.292748",
-      "title_tr": "Galatasaray, yeniden alıyor! Bonservisi belli oldu",
-      "summary_tr": "Galatasaray, transfer sezonunun bitmesine kısa bir süre kala çalışmalarını hızlandırdı. Bu bağlamda Cimbom'da Noa Lang ismi yüksek sesle ifade edilmeye başlandı."
     },
     {
       "title": "Galatasaray’da Batrakov transferinde mutlu sona bir adım kaldı",
@@ -52,13 +32,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:59.778794",
+      "fetched_at": "2026-08-17T08:32:32.350839",
       "priority_score": 91,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-17T07:46:14.502075",
+      "processed_at": "2026-08-17T08:33:42.887536",
       "title_tr": "Galatasaray’da Batrakov transferinde mutlu sona bir adım kaldı",
       "summary_tr": "Süper Lig’de üst üste beşinci şampiyonluğu hedefleyen Galatasaray’da transfer trafiği hız kesmiyor. Yönetim, özellikle 10 numara hattına kalıcı bir takviye için yoğun görüşmeler yürütürken, uzun süredir peşinde olduğu Aleksey Batrakov dosyasında kritik eşik aşıldı."
     },
@@ -72,15 +52,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:24.338713",
+      "fetched_at": "2026-08-17T08:31:59.181649",
       "priority_score": 83,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-08-17T07:46:14.252437",
+      "processed_at": "2026-08-17T08:33:42.596356",
       "title_tr": "Arda asist yaptı, R.Madrid farklı kazandı!",
       "summary_tr": "Yeni sezon öncesi son hazırlık maçında Schalke 04'le karşılaşan Real Madrid, mücadeleyi 3-0'lık skorla kazandı. Real Madrid'de forma giyen milli futbolcu Arda Güler, 2. golde Dean Huijsen'e asist yaparak farklı galibiyette önemli rol oynadı."
+    },
+    {
+      "title": "Galatasaray, yeniden alıyor! Bonservisi belli oldu",
+      "summary": "Galatasaray, transfer sezonunun bitmesine kısa bir süre kala çalışmalarını hızlandırdı. Bu bağlamda Cimbom'da Noa Lang ismi yüksek sesle ifade edilmeye başlandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-yeniden-aliyor-bonservisi-belli-oldu-43275659",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a82ae04f1630442c3a1d78a.jpg",
+      "published": "2026-08-17T06:46:52",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:32:10.175800",
+      "priority_score": 81,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-17T08:33:42.659387",
+      "title_tr": "Galatasaray, yeniden alıyor! Bonservisi belli oldu",
+      "summary_tr": "Galatasaray, transfer sezonunun bitmesine kısa bir süre kala çalışmalarını hızlandırdı. Bu bağlamda Cimbom'da Noa Lang ismi yüksek sesle ifade edilmeye başlandı."
     },
     {
       "title": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
@@ -92,15 +92,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-17T07:43:12.933628",
+      "fetched_at": "2026-08-17T08:30:47.318105",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:14.162434",
+      "processed_at": "2026-08-17T08:33:42.501837",
       "title_tr": "'Standart bu': Mikel Arteta, Arsenal'in mavi günde Maresca'ya olan arzusunu övdü",
-      "summary_tr": "Şampiyonlar, 'ilk kupayı kazanarak' menajeri sevindirdiMaresca, Manchester City transferlerinin bir an önce gelmesini istiyor Mikel Arteta, Arsenal oyuncularının Manchester City karşısında aldıkları Community Shield zaferinde Premier Lig şampiyonluğunu savunma açlığını gösterdiğini söyledi. Arsenal 22 yıllık bekleyişe son verdi"
+      "summary_tr": "Şampiyonlar, menajeri 'ilk kupayı kazanarak' sevindirdiMaresca, Manchester City transferlerinin bir an önce gelmesini istiyor Mikel Arteta, Arsenal oyuncularının Manchester City karşısında aldıkları Community Shield zaferinde Premier Lig şampiyonluğunu savunma açlığını gösterdiğini söyledi. Arsenal 22 yıllık bekleyişe son verdi"
     },
     {
       "title": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
@@ -112,15 +112,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-17T07:43:12.935948",
+      "fetched_at": "2026-08-17T08:30:47.321367",
       "priority_score": 63,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-08-17T07:46:14.191337",
+      "processed_at": "2026-08-17T08:33:42.534155",
       "title_tr": "Cristiano Ronaldo, bu yılın 'muhtemelen' futbolcu olarak son yılı olduğunu söyledi",
-      "summary_tr": "Al-Nassr ve Portekizli forvet yakında emekli olmayı bekliyorRonaldo'nun kulüp ve ülke adına 950'den fazla golü var 41 yaşındaki Portekiz kaptanı, Pazar günü Vogue dergisine verdiği röportajda Cristiano Ronaldo'nun bu yılın profesyonel futbolcu olarak \"muhtemelen\" son yılı olduğuna inandığını söyledi."
+      "summary_tr": "Al-Nassr ve Portekizli forvet yakında emekli olmayı bekliyorRonaldo'nun kulüp ve ülke adına 950'den fazla golü var 41 yaşındaki Portekizli kaptan, Pazar günü Vogue dergisine verdiği röportajda Cristiano Ronaldo'nun bu yılın \"muhtemelen\" profesyonel futbolcu olarak son yılı olduğuna inandığını söyledi."
     },
     {
       "title": "Super Giants edge Rockets in thriller to secure first Hundred title",
@@ -132,16 +132,35 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-17T07:42:49.883602",
+      "fetched_at": "2026-08-17T08:30:23.625087",
       "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:14.148419",
+      "processed_at": "2026-08-17T08:33:42.489914",
       "title_tr": "Süper Devler gerilimde Rockets'ı yenerek ilk Yüz şampiyonluğunu garantiledi",
       "summary_tr": "Lord's'ta Trent Rockets ile Manchester Super Giants arasında oynanan 100 erkekler finalinden öne çıkanlar."
+    },
+    {
+      "title": "Haaland geeft niet thuis in finales",
+      "summary": "Erling Haaland schiet record na record uit de boeken bij Manchester City. Toch kwam er ook wat kritiek na zijn optreden tegen Arsenal in de strijd om het Community Shield . En het moet gezegd: de Noor geeft niet thuis in finales.",
+      "url": "https://www.vi.nl/nieuws/haaland-geeft-niet-thuis-in-finales",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/17/ce56b4709a1d29ae3e18cf4426e8d06777aab5a1.jpg?width=1200",
+      "published": "2026-08-17T08:20:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:33:38.803217",
+      "priority_score": 57,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-08-17T08:33:43.203024",
+      "title_tr": "Haaland finalleri umursamıyor",
+      "summary_tr": "Erling Haaland, Manchester City'de rekor üstüne rekor kırıyor. Ancak Topluluk Kalkanı mücadelesinde Arsenal'e karşı gösterdiği performanstan sonra da bazı eleştiriler vardı. Şunu da söylemeliyim ki Norveçli finalleri umursamıyor."
     },
     {
       "title": "Have you say: Defeat to Arsenal and Rodri departing - should City be concerned?",
@@ -153,73 +172,112 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-17T07:42:49.882887",
+      "fetched_at": "2026-08-17T08:30:23.624317",
       "priority_score": 51,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:14.129158",
+      "processed_at": "2026-08-17T08:33:42.475674",
       "title_tr": "Arsenal'in yenilgisi ve Rodri'nin gidişi hakkında City'nin endişelenmesi gerektiğini mi söylediniz?",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
-      "title": "Fenerbahçe, Beşiktaş ve Trabzonspor’dan TFF’ye erteleme başvurusu",
-      "summary": "Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor, yoğun maç takvimi nedeniyle Süper Lig’in 2. hafta karşılaşmalarının ertelenmesi için Türkiye Futbol Federasyonu’na başvuruda bulunmaya hazırlanıyor. Üç kulüp, Avrupa play-off maçlarıyla lig programı arasındaki kısa süreyi gere",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-besiktas-ve-trabzonspordan-tffye-erteleme-basvurusu-3455372",
+      "title": "Fatih Tekke, teknik direktörlük kariyerinde bir ilki yaşayacak",
+      "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, teknik direktörlük kariyerinde Avrupa kupalarındaki ilk resmi maçına çıkmaya hazırlanıyor. Futbolculuk döneminde Zenit St. Petersburg ile UEFA Kupası ve UEFA Süper Kupa şampiyonluğu yaşayan Tekke, bordo-mavili takımın başında ilk Avrupa sınavını Macaristan t",
+      "url": "https://www.cnnturk.com/spor/futbol/fatih-tekke-teknik-direktorluk-kariyerinde-bir-ilki-yasayacak-3455395",
       "image_url": null,
-      "published": "2026-08-17T10:15:51",
+      "published": "2026-08-17T11:11:24",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:59.777856",
+      "fetched_at": "2026-08-17T08:32:32.349165",
       "priority_score": 51,
       "categories": [
-        "super_lig"
+        "general"
       ],
-      "processed_at": "2026-08-17T07:46:14.438649",
+      "processed_at": "2026-08-17T08:33:42.803646",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "'Bayern smeedt Haaland-plan, Chelsea-aanvaller naar Saoedi-Arabië'",
+      "title": "'Vicario naar Juventus, Bayern smeedt Haaland-plan'",
       "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/bouaddi-moet-rodri-vervangen-barcelona-presenteert-dinsdag-cancelo",
+      "url": "https://www.vi.nl/nieuws/vicario-naar-juventus-bayern-smeedt-haaland-plan",
       "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-08-17T07:43:20",
+      "published": "2026-08-17T08:29:00",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-17T07:46:09.119933",
+      "fetched_at": "2026-08-17T08:33:38.803071",
       "priority_score": 77,
       "categories": [
         "transfers",
-        "premier_league",
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-17T07:46:15.007239",
+      "processed_at": "2026-08-17T08:33:43.179736",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Veerman naar Dortmund: verlossing of moordende concurrentie?",
-      "summary": "In de nieuwe aflevering van VI ZSM gaan Pieter Zwart en Jarno Verweij dieper in op de transfer van Joey Veerman naar Borussia Dortmund. De 27-jarige middenvelder vertrekt naar de Duitse topclub, dat de clausule in zijn contract activeert en een bedrag van om en nabij 22 miljoen euro aan PSV betaalt.",
-      "url": "https://www.vi.nl/video/veerman-naar-dortmund-verlossing-of-moordende-concurrentie",
-      "image_url": "https://webp.vi.cdn.pxr.nl/videofeed/previews/2026-08-16t211543-veerman-naar-dortmund-verlossing-of-moordende-concurrentie.jpg?width=1200",
-      "published": "2026-08-17T05:30:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Bronze explains out-of-character contract extension",
+      "summary": "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-17T08:06:16",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-17T07:46:09.120662",
-      "priority_score": 77,
+      "fetched_at": "2026-08-17T08:30:10.121278",
+      "priority_score": 75,
       "categories": [
         "transfers",
-        "bundesliga"
+        "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:15.192184",
+      "processed_at": "2026-08-17T08:33:42.467884",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
+      "summary": "Today’s fluff lacks community spiritAfter looking a tad silly in the Community Shield loss to Arsenal, with not having a midfield being one problem for Enzo Maresca and the further blow of Rodri’s departure getting closer, Manchester City really need some new blood. A surprise name linked to them is",
+      "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
+      "image_url": null,
+      "published": "2026-08-17T07:42:16",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:30:47.319504",
+      "priority_score": 73,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-17T08:33:42.511852",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Transferi suya düştü! Fenerbahçe'de beklenmedik gelişme",
+      "summary": "Fenerbahçe'den ayrılmasına kesin gözüyle bakılan yıldız isimde beklenmedik bir gelişme yaşandı. Avrupa devi, sarı-lacivertli futbolcuyu almaktan vazgeçti.",
+      "url": "https://www.yenisafak.com/galeri/spor/transferi-suya-dustu-fenerbahcede-beklenmedik-gelisme-4848671",
+      "image_url": null,
+      "published": "2026-08-17T07:48:35",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:33:01.633848",
+      "priority_score": 72,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-17T08:33:42.959817",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -233,13 +291,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:24.338149",
-      "priority_score": 73,
+      "fetched_at": "2026-08-17T08:31:59.180988",
+      "priority_score": 63,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-17T07:46:14.222899",
+      "processed_at": "2026-08-17T08:33:42.567868",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -253,33 +311,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:38.566906",
-      "priority_score": 71,
+      "fetched_at": "2026-08-17T08:32:10.175732",
+      "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-17T07:46:14.287089",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'da kritik Darwin Nunez süreci!",
-      "summary": "Uruguaylı golcünün Darwin Nunez'in transferini bitirmeye çok yaklaşan Trabzonspor, dünyaca ünlü yıldız için geri sayıma geçti.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/17/trabzonsporda-kritik-darwin-nunez-sureci",
-      "image_url": "https://iasbh.tmgrup.com.tr/1ca2ab/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/17/trabzonsporda-kritik-darwin-nunez-sureci-1786948682378.jpeg",
-      "published": "2026-08-17T06:38:24",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:44:45.356163",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-08-17T07:46:14.394964",
+      "processed_at": "2026-08-17T08:33:42.653324",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -293,35 +331,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-17T07:42:38.778843",
+      "fetched_at": "2026-08-17T08:30:10.120377",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-17T07:46:14.119876",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da transferde Ponomarenko çılgınlığı!",
-      "summary": "Süper Lig devlerinden Galatasaray'da golcü transferi bir hayli gündemi meşgul ederken oldukça sıcak gelişmeler yaşanıyor. Sarı-kırmızılılarda ibre yeniden Matviy Ponomarenko'ya çevrildi. İşte tüm detaylar...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/17/ponomarenko-sirada",
-      "image_url": "https://iaftm.tmgrup.com.tr/9cc2b4/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/08/17/galatasarayda-transferde-ponomarenko-cilginligi-1786918312575.jpeg",
-      "published": "2026-08-16T18:35:50",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:45:15.931085",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-17T07:46:14.650228",
+      "processed_at": "2026-08-17T08:33:42.466534",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -335,7 +352,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-17T07:43:12.934120",
+      "fetched_at": "2026-08-17T08:30:47.318541",
       "priority_score": 58,
       "categories": [
         "transfers",
@@ -343,26 +360,7 @@
         "la_liga",
         "world_cup"
       ],
-      "processed_at": "2026-08-17T07:46:14.166261",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Brighton’s Emilie Joramo: ‘I feel like I’m now in the place I want to be’",
-      "summary": "She’s always been keen on the WSL, and the club have long had their eye on her – now the Norwegian midfielder feels ready to make an impactEmilie Joramo has long had her sights set on the Women’s Super League, but she held herself back from pushing for a move over from Scandinavia – until now.“I’d b",
-      "url": "https://www.theguardian.com/football/2026/aug/17/brightons-emilie-joramo-i-feel-like-im-now-in-the-place-i-want-to-be",
-      "image_url": null,
-      "published": "2026-08-17T07:00:48",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:43:12.934958",
-      "priority_score": 58,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-17T07:46:14.177159",
+      "processed_at": "2026-08-17T08:33:42.505416",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -376,34 +374,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:45:32.512882",
+      "fetched_at": "2026-08-17T08:33:01.634914",
       "priority_score": 57,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-17T07:46:14.852966",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Maresca reageert op 'pijnlijk' verlies en transferperikelen bij City",
-      "summary": "Manchester City-manager Enzo Maresca erkende zondag dat de nederlaag om het Community Shield tegen Arsenal pijn deed, maar wil er ook niet teveel conclusies aan verbinden.",
-      "url": "https://www.vi.nl/nieuws/maresca-reageert-op-pijnlijk-verlies-en-transferperikelen-bij-city",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/17/af7484f505f8e21444fe040553d929807c99b395.jpg?width=1200",
-      "published": "2026-08-17T06:08:28",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:46:09.120558",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-17T07:46:15.162581",
+      "processed_at": "2026-08-17T08:33:43.039671",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -417,13 +395,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-17T07:43:37.328796",
+      "fetched_at": "2026-08-17T08:31:10.000186",
       "priority_score": 56,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-08-17T07:46:14.210310",
+      "processed_at": "2026-08-17T08:33:42.553031",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -437,33 +415,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-17T07:42:38.780621",
+      "fetched_at": "2026-08-17T08:30:10.122518",
       "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:14.127397",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Kırmızı kart verilmeli miydi?",
-      "summary": "Trendyol Süper Lgi'in ilk haftasında Beşiktaş sahasında ikas Eyüpspor'u 1-0'lık skorla mağlup etti ve sezona galibiyetle başladı. Eski hakemler, Tiago Djalo'nun David Costa'nın saçını çektiği pozisyonu değerlendirdi.",
-      "url": "https://www.haberturk.com/besiktas-eyupspor-macina-damga-vurmustu-trio-dan-o-pozisyon-icin-carpici-yorum-3906125-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/17/ver1786949965/3906125/jpg/1280x1280",
-      "published": "2026-08-17T06:59:46",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:44:24.338241",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-17T07:46:14.225362",
+      "processed_at": "2026-08-17T08:33:42.473923",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -477,13 +435,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:24.338658",
+      "fetched_at": "2026-08-17T08:31:59.181576",
       "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-17T07:46:14.246246",
+      "processed_at": "2026-08-17T08:33:42.592050",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -497,12 +455,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:24.338872",
+      "fetched_at": "2026-08-17T08:31:59.181852",
       "priority_score": 53,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-17T07:46:14.262586",
+      "processed_at": "2026-08-17T08:33:42.606837",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -516,14 +474,33 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:45:32.521725",
+      "fetched_at": "2026-08-17T08:33:01.643208",
       "priority_score": 52,
       "categories": [
         "transfers",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-08-17T07:46:14.906879",
+      "processed_at": "2026-08-17T08:33:43.090005",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "AZ en FC Groningen akkoord over Stije Resink",
+      "summary": "Stije Resink is op weg naar AZ. De club meldde zich enkele dagen geleden al bij FC Groningen en inmiddels is er een akkoord bereikt over een transfersom van circa 4,5 miljoen euro.",
+      "url": "https://www.vi.nl/nieuws/az-en-fc-groningen-akkoord-over-stije-resink",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/15/95ebf7bc3817286fe0249ddb0f24b4c3aa9076b0.jpg?width=1200",
+      "published": "2026-08-17T08:18:53",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:33:38.803360",
+      "priority_score": 52,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-17T08:33:43.226627",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -537,53 +514,15 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-17T07:46:09.120450",
+      "fetched_at": "2026-08-17T08:33:38.803943",
       "priority_score": 52,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-17T07:46:15.131499",
+      "processed_at": "2026-08-17T08:33:43.340484",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fery wins on his return since Wimbledon to progress in Cincinnati",
-      "summary": "Highlights from the Cincinnati Open match between Arthur Fery and Jack Duckworth.",
-      "url": "https://www.skysports.com/watch/video/13573624/arthur-fery-vs-jack-duckworth-cincinnati-open-highlights",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-fery-tennis-highlights_7323014.jpg?20260816090016",
-      "published": "2026-08-16T08:17:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:42:49.883498",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-17T07:46:14.143052",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Göztepe’nin son maçlarda bileği bükülmüyor! Casa Pia AC - Benfica maçları gollü geçiyor… İşte Misli’den Günün Tüyoları!",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-      "url": "https://www.hurriyet.com.tr/sporarena/goztepenin-son-maclarda-bilegi-bukulmuyor-casa-pia-ac-benfica-maclari-gollu-geciyor-iste-misliden-gunun-tuyolari-43275715",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a82b919b506f6e33737e588.jpg",
-      "published": "2026-08-17T07:33:42",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-17T07:44:38.566826",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-17T07:46:14.281646",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "Arsenal menajeri Mikel Arteta, Community Shield mücadelesinde Manchester City'yi mağlup ettikten sonra takımının performansından çok memnun kaldı. Özellikle Martin Ødegaard ve Christos Tzolis'e imza atması İspanyol'u etkiledi."
     },
     {
       "title": "Muğla'da sessiz gece! Puanlar paylaşıldı",
@@ -595,14 +534,71 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-17T07:44:38.567487",
+      "fetched_at": "2026-08-17T08:32:10.176404",
       "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-17T07:46:14.343146",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-08-17T08:33:42.713187",
+      "title_tr": "Muğla'da sessiz gece! Puanlar paylaşıldı",
+      "summary_tr": "Muğlaspor ile Bandırmaspor, Trendyol 1. Lig'in 2. haftasında golsüz berabere kaldı."
+    },
+    {
+      "title": "Fenerbahçe, Beşiktaş ve Trabzonspor’dan TFF’ye erteleme başvurusu",
+      "summary": "Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor, yoğun maç takvimi nedeniyle Süper Lig’in 2. hafta karşılaşmalarının ertelenmesi için Türkiye Futbol Federasyonu’na başvuruda bulunmaya hazırlanıyor. Üç kulüp, Avrupa play-off maçlarıyla lig programı arasındaki kısa süreyi gere",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-besiktas-ve-trabzonspordan-tffye-erteleme-basvurusu-3455372",
+      "image_url": null,
+      "published": "2026-08-17T10:15:51",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:32:32.349704",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-08-17T08:33:42.820059",
+      "title_tr": "Fenerbahçe, Beşiktaş ve Trabzonspor’dan TFF’ye erteleme başvurusu",
+      "summary_tr": "Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor, yoğun maç takvimi nedeniyle Süper Lig’in 2. hafta karşılaşmalarının ertelenmesi için Türkiye Futbol Federasyonu’na başvuruda bulunmaya hazırlanıyor. Üç kulüp, Avrupa play-off maçlarıyla lig programı arasındaki kısa süreyi gere"
+    },
+    {
+      "title": "Brighton’s Emilie Joramo: ‘I feel like I’m now in the place I want to be’",
+      "summary": "She’s always been keen on the WSL, and the club have long had their eye on her – now the Norwegian midfielder feels ready to make an impactEmilie Joramo has long had her sights set on the Women’s Super League, but she held herself back from pushing for a move over from Scandinavia – until now.“I’d b",
+      "url": "https://www.theguardian.com/football/2026/aug/17/brightons-emilie-joramo-i-feel-like-im-now-in-the-place-i-want-to-be",
+      "image_url": null,
+      "published": "2026-08-17T07:00:48",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:30:47.319832",
+      "priority_score": 48,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-17T08:33:42.515880",
+      "title_tr": "Brighton'lı Emilie Joramo: 'Şu anda olmak istediğim yerde olduğumu hissediyorum'",
+      "summary_tr": "Her zaman WSL'ye meraklıydı ve kulübün gözü uzun zamandır onun üzerindeydi - Norveçli orta saha oyuncusu artık etki yaratmaya hazır hissediyor Emilie Joramo uzun süredir gözünü Kadınlar Süper Ligi'ne dikmişti ama şimdiye kadar İskandinavya'dan bir transfer için baskı yapmaktan kendini alıkoydu."
+    },
+    {
+      "title": "Scotland appoint Pocognoli as successor to Clarke in fresh approach",
+      "summary": "Belgian is the first non-Scot in role since Berti VogtsSFA welcomes ‘aggressive, front-foot style of play’The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in June, will become the co",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "image_url": null,
+      "published": "2026-08-16T17:46:42",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-17T08:30:47.320645",
+      "priority_score": 48,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-17T08:33:42.524257",
+      "title_tr": "İskoçya yeni bir yaklaşımla Pocognoli'yi Clarke'ın halefi olarak atadı",
+      "summary_tr": "Belçikalı, Berti Vogts'tan bu yana İskoç olmayan ilk oyuncu olduSFA \"agresif, ön ayak oyun tarzını\" memnuniyetle karşılıyor İskoç Futbol Federasyonu, Belçikalı Sébastien Pocognoli'yi teknik direktör Steve Clarke'ın halefi olarak atadı. Haziran ayında Monaco'dan kovulan 39 yaşındaki futbolcu, teknik direktör olacak."
     }
   ]
 }
