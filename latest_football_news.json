@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T17:22:28.530656",
+  "timestamp": "2026-08-18T18:26:02.512947",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:43.287108",
+      "fetched_at": "2026-08-18T18:21:06.307737",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -20,28 +20,30 @@
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-18T17:21:12.966988",
+      "processed_at": "2026-08-18T18:24:48.372652",
       "title_tr": "Rodri Barcelona'ya transferini tamamladı",
       "summary_tr": "Barcelona, ​​Manchester City'den Rodri'yi 65,4 milyon £ değerinde bir anlaşmayla transfer ettiğini doğruladı."
     },
     {
-      "title": "Newcastle United, Bosna Hersekli Amar Dedic'i transfer etti",
-      "summary": "Amar Dedic, Newcastle United ile 5 yıllık sözleşme imzaladı.",
-      "url": "https://www.cnnturk.com/spor/futbol/newcastle-united-bosna-hersekli-amar-dedici-transfer-etti-3456056",
-      "image_url": null,
-      "published": "2026-08-18T17:15:59",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "title": "İspanya'da yılın transferi gerçekleşti!",
+      "summary": "İspanya La Liga devi Barcelona, Manchester City'nin İspanyol orta sahası Rodri'yi transfer ettiğini resmen açıkladı!",
+      "url": "https://www.haberturk.com/rodri-resmen-barcelona-da-son-dakika-transfer-haberleri-3906518-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/18/ver1787072532/3906518/jpg/1280x1280",
+      "published": "2026-08-18T17:54:31",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:59.517958",
-      "priority_score": 96,
+      "fetched_at": "2026-08-18T18:22:51.455977",
+      "priority_score": 93,
       "categories": [
-        "transfers"
+        "transfers",
+        "premier_league",
+        "la_liga"
       ],
-      "processed_at": "2026-08-18T17:21:13.323978",
-      "title_tr": "Newcastle United, Bosna Hersekli Amar Dedic'i transfer etti",
-      "summary_tr": "Amar Dedic, Newcastle United ile 5 yıllık sözleşme imzaladı."
+      "processed_at": "2026-08-18T18:24:48.483683",
+      "title_tr": "İspanya'da yılın transferi gerçekleşti!",
+      "summary_tr": "İspanya La Liga devi Barcelona, Manchester City'nin İspanyol orta sahası Rodri'yi transfer ettiğini resmen açıkladı!"
     },
     {
       "title": "Niclas Füllkrug returns to Werder Bremen on loan from West Ham United",
@@ -53,13 +55,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-18T17:18:30.489572",
-      "priority_score": 91,
+      "fetched_at": "2026-08-18T18:21:56.571368",
+      "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-18T17:21:13.050238",
+      "processed_at": "2026-08-18T18:24:48.466765",
       "title_tr": "Niclas Füllkrug, West Ham United'dan kiralık olarak Werder Bremen'e geri döndü",
       "summary_tr": "Werder Bremen, West Ham United'dan forvet Niclas Füllkrug'u bir yıllığına kiraladığını doğruladı."
     },
@@ -73,13 +75,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:43.287184",
-      "priority_score": 76,
+      "fetched_at": "2026-08-18T18:21:06.307812",
+      "priority_score": 66,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-08-18T17:21:12.968194",
+      "processed_at": "2026-08-18T18:24:48.374281",
       "title_tr": "Maguire: Kupa kazanma konusunda açgözlü olmak istiyorum",
       "summary_tr": "Sezonun ilk röportajlarından biri için Harry Maguire ile otururken, düşünceli ama aynı zamanda gelecek ve gelecek konusunda da heyecan duyan bir oyuncu buldum."
     },
@@ -93,13 +95,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:59.519353",
+      "fetched_at": "2026-08-18T18:23:26.585122",
       "priority_score": 56,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.435466",
+      "processed_at": "2026-08-18T18:24:48.918471",
       "title_tr": "Paul Onuachu, Ferencvaros maçıyla suskunluğunu bozmak istiyor",
       "summary_tr": "Trabzonspor'un Nijeryalı golcüsü Paul Onuachu, bordo-mavili forma altında sezon başlangıçlarında ortaya koyduğu golcü kimliğini bu sezonun ilk maçına taşıyamadı. Hazırlık karşılaşmaları ve Süper Lig'in ilk haftasında gol sevinci yaşayamayan deneyimli forvet, gözünü Ferencvaros maçına çevirdi."
     },
@@ -113,15 +115,73 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:33.450221",
+      "fetched_at": "2026-08-18T18:20:54.795127",
       "priority_score": 55,
       "categories": [
         "breaking_news",
         "champions_league"
       ],
-      "processed_at": "2026-08-18T17:21:12.964653",
+      "processed_at": "2026-08-18T18:24:48.365983",
       "title_tr": "LASK beraberliğinden önce yeni Celtic transferi pek mümkün değil - O'Neill",
       "summary_tr": "Celtic menajeri Martin O'Neill, Çarşamba günü evinde LASK ile oynanacak Şampiyonlar Ligi play-off ilk maçı öncesinde herhangi bir yeni oyuncunun gelmesini beklemiyor ve Reo Hatate'nin kalmasından memnun olacağı konusunda ısrar ediyor."
+    },
+    {
+      "title": "PFDK sevkleri açıklandı! Mahmut Uslu, Fenerbahçe, Galatasaray, Beşiktaş, Trabzonspor…",
+      "summary": "Türkiye Futbol Federasyonu (TFF), Profesyonel Futbol Disiplin Kurulu (PFDK) sevklerini duyurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/pfdk-sevkleri-aciklandi-mahmut-uslu-fenerbahce-galatasaray-besiktas-trabzonspor-3456122",
+      "image_url": null,
+      "published": "2026-08-18T19:19:32",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-18T18:23:26.582765",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-08-18T18:24:48.757717",
+      "title_tr": "PFDK sevkleri açıklandı! Mahmut Uslu, Fenerbahçe, Galatasaray, Beşiktaş, Trabzonspor…",
+      "summary_tr": "Türkiye Futbol Federasyonu (TFF), Profesyonel Futbol Disiplin Kurulu (PFDK) sevklerini duyurdu."
+    },
+    {
+      "title": "Premier League to publish verdicts on referee and VAR decisions",
+      "summary": "The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-18T10:00:14",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-18T18:20:54.794780",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-18T18:24:48.363673",
+      "title_tr": "Premier Lig, hakem ve VAR kararlarına ilişkin kararları yayınlayacak",
+      "summary_tr": "Premier League, bu sezon ilk kez Önemli Maç Olayları Panelinin kararlarını yayınlayacak."
+    },
+    {
+      "title": "Newcastle United, Bosna Hersekli Amar Dedic'i transfer etti",
+      "summary": "Amar Dedic, Newcastle United ile 5 yıllık sözleşme imzaladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/newcastle-united-bosna-hersekli-amar-dedici-transfer-etti-3456056",
+      "image_url": null,
+      "published": "2026-08-18T17:15:59",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-18T18:23:26.583277",
+      "priority_score": 86,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-18T18:24:48.786270",
+      "title_tr": "Newcastle United, Bosna Hersekli Amar Dedic'i transfer etti",
+      "summary_tr": "Amar Dedic, Newcastle United ile 5 yıllık sözleşme imzaladı."
     },
     {
       "title": "Galatasaray'dan 2 transfer birden! Görüşmeler başladı",
@@ -133,13 +193,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:37.643001",
+      "fetched_at": "2026-08-18T18:23:05.257582",
       "priority_score": 81,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.125388",
+      "processed_at": "2026-08-18T18:24:48.558891",
       "title_tr": "Galatasaray'dan 2 transfer birden! Görüşmeler başladı",
       "summary_tr": "Transferin suskun takımı Galatasaray, 2 yıldız için temaslarda bulundu."
     },
@@ -153,58 +213,37 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:59.518572",
+      "fetched_at": "2026-08-18T18:23:26.584102",
       "priority_score": 81,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.383408",
+      "processed_at": "2026-08-18T18:24:48.854724",
       "title_tr": "Galatasaray, Oliwia Domin transferini duyurdu",
       "summary_tr": "Galatasaray Kadın Futbol Takımı, Polonyalı orta saha oyuncusu Oliwia Domin'i kadrosuna kattığını duyurdu."
     },
     {
-      "title": "Barcelona sign Rodri from Man City in £65m deal",
-      "summary": "Barcelona announce the signing of midfielder Rodri from Manchester City in a £65m deal.",
+      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-18T16:57:18",
+      "published": "2026-08-18T18:14:01",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:33.448507",
+      "fetched_at": "2026-08-18T18:20:54.792911",
       "priority_score": 75,
       "categories": [
         "transfers",
         "premier_league",
-        "la_liga"
+        "la_liga",
+        "world_cup"
       ],
-      "processed_at": "2026-08-18T17:21:12.958638",
-      "title_tr": "Barcelona, ​​Manchester City'den Rodri'yi 65 milyon sterline transfer etti",
-      "summary_tr": "Barcelona, ​​Manchester City'den orta saha oyuncusu Rodri'yi 65 milyon £ karşılığında transfer ettiğini duyurdu."
-    },
-    {
-      "title": "Galaasaray'dan sürpriz golcü hamlesi! İşte transfer formülü",
-      "summary": "Galatasaray, Osimhen'in alternatifi olabilecek bir santrforu kadrosuna katmak isterken gündemine gelen son isim ortaya çıktı. İşte detaylar... | Son dakika Galatasaray haberleriDevamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galaasaraydan-surpriz-golcu-hamlesi-iste-transfer-formulu",
-      "image_url": "https://iaftm.tmgrup.com.tr/3a4db8/1200/675/0/151/2048/1303?u=https://iftm.tmgrup.com.tr/2026/08/17/conrad-atagi-1786999031433.jpg",
-      "published": "2026-08-17T18:21:20",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-18T17:20:12.398673",
-      "priority_score": 74,
-      "categories": [
-        "transfers",
-        "match_results",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-18T17:21:13.610385",
-      "title_tr": "Galaasaray'dan sürpriz golcü hamlesi! İşte transfer formülü",
-      "summary_tr": "Galatasaray, Osimhen'in alternatifi olabilecek bir santrforu kadrosuna katmak isterken gündemine gelen son isim ortaya çıktı. İşte detaylar... | Son dakika Galatasaray haberleriDevamı için tıklayınız"
+      "processed_at": "2026-08-18T18:24:48.358277",
+      "title_tr": "Rodri, Barca'nın 65 milyon £'luk anlaşmasını tamamlamasının ardından 'yeniden heyecana' hazır",
+      "summary_tr": "Barcelona, ​​Premier Lig kulübüyle geçirdiği yedi kupa dolu yılın ardından Manchester City'den 2026 Dünya Kupası'nın oyuncusu İspanyol orta saha oyuncusu Rodri'yi kadrosuna kattı."
     },
     {
       "title": "Samsunspor Futbol Direktörü Çapa'dan transfer açıklaması",
@@ -216,57 +255,56 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.301176",
+      "fetched_at": "2026-08-18T18:24:01.052310",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-18T17:21:13.621275",
+      "processed_at": "2026-08-18T18:24:49.183902",
       "title_tr": "Samsunspor Futbol Direktörü Çapa'dan transfer açıklaması",
       "summary_tr": "Samsunspor'da Cherif Ndiaye'nin ayrılığı sonrası forvet arayışları hız kazandı. Futbol Direktörü Fuat Çapa, birkaç golcüyle temas halinde olduklarını açıklarken, yabancı oyuncu sınırı nedeniyle transferde dikkatli hareket ettiklerini söyledi. Çapa ayrıca kırmızı-beyazlıların sezon hedefini de açıkla"
     },
     {
-      "title": "Galatasaray’da Bruno Fernandes gerçeği ortaya çıktı: ‘Mayıs ayında…’",
-      "summary": "Galatasaray'ın transfer gündeminde olduğu iddia edilen Manchester United kaptanı Bruno Fernandes'in geleceğiyle ilgili çarpıcı bir iddia gündeme geldi. Portekizli yıldızın sarı-kırmızılı kulübe transfer olma gibi bir planının bulunmadığı ve Manchester United ile yeni sözleşme pazarlıklarını sürdürdü",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-bruno-fernandes-gercegi-ortaya-cikti-mayis-ayinda-4848947",
+      "title": "Flaş Osimhen gelişmesi: Arsenal ile Galatasaray arasında geçen görüşmeyi ifşaladılar",
+      "summary": "Yaz transfer döneminde kadrosunu dünya yıldızlarıyla güçlendirmeye devam eden Galatasaray ile İngiltere Premier Lig devi Arsenal arasındaki gizli temaslar İngiliz basını tarafından ifşa edildi.",
+      "url": "https://www.yenisafak.com/galeri/spor/flas-osimhen-gelismesi-arsenal-ile-galatasaray-arasinda-gecen-gorusmeyi-ifsaladilar-4849056",
       "image_url": null,
-      "published": "2026-08-18T10:04:19",
+      "published": "2026-08-18T17:24:47",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.312224",
-      "priority_score": 72,
+      "fetched_at": "2026-08-18T18:24:01.052133",
+      "priority_score": 67,
       "categories": [
         "transfers",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.810031",
-      "title_tr": "Galatasaray’da Bruno Fernandes gerçeği ortaya çıktı: ‘Mayıs ayında…’",
-      "summary_tr": "Galatasaray'ın transfer gündeminde olduğu iddia edilen Manchester United kaptanı Bruno Fernandes'in geleceğiyle ilgili çarpıcı bir iddia gündeme geldi. Portekizli yıldızın sarı-kırmızılı kulübe transfer olma gibi bir planının bulunmadığı ve Manchester United ile yeni sözleşme pazarlıklarını sürdürdü"
+      "processed_at": "2026-08-18T18:24:49.171252",
+      "title_tr": "Flaş Osimhen gelişmesi: Arsenal ile Galatasaray arasında geçen görüşmeyi ifşaladılar",
+      "summary_tr": "Yaz transfer döneminde kadrosunu dünya yıldızlarıyla güçlendirmeye devam eden Galatasaray ile İngiltere Premier Lig devi Arsenal arasındaki gizli temaslar İngiliz basını tarafından ifşa edildi."
     },
     {
-      "title": "Barça en Man City ronden megatransfer af: wereldkampioen Rodri terug in Spanje",
-      "summary": "Rodri heeft zijn transfer van Manchester City naar Barcelona afgerond. Barça betaalt tientallen miljoenen voor de wereldkampioen, die op het Catalaanse middenveld de concurrentie aangaat met onder anderen Frenkie de Jong.",
-      "url": "https://www.vi.nl/nieuws/barca-en-man-city-ronden-megatransfer-af-wereldkampioen-rodri-terug-in-spanje",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/18/43aa71b4670a466d4e22d3cd32c09ba36c0132c1.jpg?width=1200",
-      "published": "2026-08-18T16:42:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Root won't 'rip up' Bazball blueprint as Babar is ruled out for Pakistan",
+      "summary": "Returning England Test skipper Joe Root says he feels \"as ready as any other England captain\", adding he has no plans on \"ripping up\" the Bazball blueprint that preceded his second stint in charge.",
+      "url": "https://www.skysports.com/cricket/news/12040/13574451/joe-root-englands-returning-test-captain-says-bazball-blueprint-wont-be-ripped-up-ahead-of-pakistan-series",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-joe-root-england_7325022.jpg?20260818173750",
+      "published": "2026-08-18T17:19:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-18T17:21:08.161231",
-      "priority_score": 67,
+      "fetched_at": "2026-08-18T18:21:06.307646",
+      "priority_score": 66,
       "categories": [
         "transfers",
-        "premier_league",
-        "la_liga"
+        "injuries"
       ],
-      "processed_at": "2026-08-18T17:21:13.895637",
-      "title_tr": "Barça ve Man City mega transferi tamamladı: Dünya şampiyonu Rodri İspanya'ya geri döndü",
-      "summary_tr": "Rodri, Manchester City'den Barcelona'ya transferini tamamladı. Barça, Katalan orta sahasında Frenkie de Jong gibi isimlerle mücadele eden dünya şampiyonu için on milyonlarca dolar ödüyor."
+      "processed_at": "2026-08-18T18:24:48.371479",
+      "title_tr": "Babar'ın Pakistan'a katılmaması nedeniyle Root Bazball planını 'parçalamayacak'",
+      "summary_tr": "Geri dönen İngiltere Testi kaptanı Joe Root, kendisini \"diğer İngiltere kaptanları kadar hazır\" hissettiğini söyleyerek, ikinci görevinden önceki Bazball planını \"parçalamak\" gibi bir planının olmadığını ekledi."
     },
     {
       "title": "Albon signs one-year contract extension with Williams",
@@ -278,18 +316,18 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:43.287413",
+      "fetched_at": "2026-08-18T18:21:06.308091",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-18T17:21:12.976483",
+      "processed_at": "2026-08-18T18:24:48.385388",
       "title_tr": "Albon, Williams'la 1 yıllık sözleşme uzattı",
       "summary_tr": "Alex Albon, Williams ile 2027 Formula 1 sezonunun sonuna kadar takımda sürüşe devam etmek üzere bir yıllık sözleşme uzatması imzaladı."
     },
     {
       "title": "Transfer roundup: Dedic completes £29.5m Newcastle move, Vicario joins Juventus",
-      "summary": "Right-back worked with Matthias Jaissle at RB SalzburgSunderland to announce signing of Dayann MethalieThe chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside an",
+      "summary": "Right-back worked with Matthias Jaissle at RB SalzburgGuglielmo Vicario completes a loan move to JuventusThe chance to be reunited with ­Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside",
       "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window",
       "image_url": null,
       "published": "2026-08-18T14:44:44",
@@ -297,15 +335,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-18T17:18:06.935717",
+      "fetched_at": "2026-08-18T18:21:30.245675",
       "priority_score": 63,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-18T17:21:13.016162",
+      "processed_at": "2026-08-18T18:24:48.422254",
       "title_tr": "Transfer özeti: Dedic 29,5 milyon £'luk Newcastle transferini tamamladı, Vicario Juventus'a katıldı",
-      "summary_tr": "Sağ bek, Dayann Methalie'nin transferini duyurmak için RB SalzburgSunderland'de Matthias Jaissle ile çalıştı. Matthias Jaissle ile yeniden bir araya gelme şansı, Amar Dedic'i 29.5 milyon £'luk bir transferle Benfica'yı Newcastle'la değiştirmeye ikna etti. Dedic, Tyneside'da çalkantılı bir yaz geçiren Newcastle'ın altıncı transferi oldu."
+      "summary_tr": "Sağ bek, RB Salzburg'da Matthias Jaissle ile çalıştı Guglielmo Vicario, Juventus'a kiralık transferini tamamladı Matthias Jaissle ile yeniden bir araya gelme şansı, Amar Dedic'i 29,5 milyon £'luk bir transferle Benfica'yı Newcastle'la değiştirmeye ikna etti. Dedic, Tyneside'da çalkantılı bir yaz geçiren Newcastle'ın altıncı transferi oldu"
     },
     {
       "title": "Beşiktaş'tan sağ kanat harekatı!",
@@ -317,36 +355,16 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:23.314859",
+      "fetched_at": "2026-08-18T18:22:51.456761",
       "priority_score": 63,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.082705",
+      "processed_at": "2026-08-18T18:24:48.519122",
       "title_tr": "Beşiktaş'tan sağ kanat harekatı!",
       "summary_tr": "Transferde önceliğini sağ kanada veren Beşiktaş, Benfica'da Dody Lukebakio ve Napoli'den David Neres'i gündemine aldı. İki transferde de ilk plan; satın alma opsiyonlu kiralama modeli..."
-    },
-    {
-      "title": "F.Bahçe'ye basketbolda yeni isim sponsoru!",
-      "summary": "Fenerbahçe Kulübü, Tarfin ile erkek ve kadın basketbol takımının isim ve forma göğüs sponsorluğu konusunda sözleşme imzaladı.",
-      "url": "https://www.haberturk.com/fenerbahce-nin-basketbolda-yeni-isim-sponsoru-tarfin-oldu-3906439-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/18/ver1787051300/3906439/jpg/1280x1280",
-      "published": "2026-08-18T11:11:06",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-18T17:19:23.315269",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-18T17:21:13.104254",
-      "title_tr": "F.Bahçe'ye basketbolda yeni isim sponsoru!",
-      "summary_tr": "Fenerbahçe Kulübü, Tarfin ile erkek ve kadın basketbol takımının isim ve forma göğüs sponsorluğu konusunda sözleşme imzaladı."
     },
     {
       "title": "Fenerbahçe taraftarına saç baş yoldurmuştu: Yeni adresi herkesi şaşırttı!",
@@ -358,36 +376,35 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.301940",
+      "fetched_at": "2026-08-18T18:24:01.060729",
       "priority_score": 62,
       "categories": [
         "transfers",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.715027",
+      "processed_at": "2026-08-18T18:24:49.295745",
       "title_tr": "Fenerbahçe taraftarına saç baş yoldurmuştu: Yeni adresi herkesi şaşırttı!",
       "summary_tr": "İspanya La Liga ekiplerinden Real Sociedad, orta saha kurgusunu güçlendirmek için düğmeye bastı. İspanyol basınından Marca'nın haberine göre Bask temsilcisi, West Ham United forması giyen 28 yaşındaki Meksikalı futbolcu Edson Alvarez'in transferinde son aşamaya geldi."
     },
     {
-      "title": "Barcelona, Rodri transferini açıkladı!",
-      "summary": "Barcelona, 30 yaşındaki orta saha Rodri’yi kadrosuna kattı.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/18/barcelona-rodri-transferini-acikladi",
-      "image_url": "https://iasbh.tmgrup.com.tr/9ee006/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/18/barcelona-rodri-transferini-acikladi-1787073061846.jpeg",
-      "published": "2026-08-18T17:11:02",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
+      "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
+      "summary": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-18T17:56:13",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:42.239119",
-      "priority_score": 61,
+      "fetched_at": "2026-08-18T18:20:54.793660",
+      "priority_score": 60,
       "categories": [
-        "transfers",
-        "la_liga"
+        "transfers"
       ],
-      "processed_at": "2026-08-18T17:21:13.236240",
-      "title_tr": "Barcelona, Rodri transferini açıkladı!",
-      "summary_tr": "Barcelona, 30 yaşındaki orta saha Rodri’yi kadrosuna kattı.Devamı için tıklayınız"
+      "processed_at": "2026-08-18T18:24:48.359432",
+      "title_tr": "Aston Villa, West Ham'ın Wan-Bissaka'sı için anlaştı",
+      "summary_tr": "Aston Villa, West Ham'ın defans oyuncusu Aaron Wan-Bissaka'yı sezon sonunda satın alma zorunluluğuyla ilk kiralama anlaşmasıyla imzalamayı kabul etti."
     },
     {
       "title": "Why Fernandez uncertainty has echoes of Isak saga",
@@ -399,13 +416,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:33.449183",
+      "fetched_at": "2026-08-18T18:20:54.793853",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-18T17:21:12.959538",
+      "processed_at": "2026-08-18T18:24:48.360041",
       "title_tr": "Fernandez'in belirsizliği neden Isak destanını hatırlatıyor?",
       "summary_tr": "Enzo Fernandez'in olası Manchester City hamlesi, Alexander Isak'ın geçen yazki transferini takip ediyor ve Chelsea için baş ağrısı yaratıyor."
     },
@@ -419,15 +436,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-18T17:18:06.937547",
+      "fetched_at": "2026-08-18T18:21:30.247890",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-18T17:21:13.035236",
+      "processed_at": "2026-08-18T18:24:48.443685",
       "title_tr": "Futbol transfer söylentileri: Atletico, Alvarez'in Barça yerine Arsenal'e katılmasını mı istiyor?",
       "summary_tr": "Günümüzün dedikoduları yaratıcı yollarla duyuruluyor Yeni Premier Lig sezonuna yalnızca birkaç gün kaldı, bu nedenle transfer piyasasında birkaç kulübün paniğe kapılması mantıklı görünüyor. Newcastle'ın yazın başında baskınlara uğramasının ardından kesinlikle yeni yüzlere ihtiyacı var."
+    },
+    {
+      "title": "Fuat Çapa'dan transfer sözleri!",
+      "summary": "Samsunspor Futbol Direktörü Fuat Çapa, transfer çalışmalarına yönelik eleştirilere ilişkin, “Oyuncu transfer etmek çok kolay. İstenilen parayı verirseniz hemen getirebilirsiniz. Ama bu işin pazarlık kısmı var, ekonomik kısmı var. Bunu da yönetmeniz gerekiyor. Sezonu ilk 5 içerisinde tamamlamış olurs",
+      "url": "https://www.haberturk.com/fuat-capa-dan-transfer-sozleri-3906523-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/18/ver1787073471/3906523/jpg/1280x1280",
+      "published": "2026-08-18T17:31:35",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-18T18:22:51.456229",
+      "priority_score": 58,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-18T18:24:48.493472",
+      "title_tr": "Fuat Çapa'dan transfer sözleri!",
+      "summary_tr": "Samsunspor Futbol Direktörü Fuat Çapa, transfer çalışmalarına yönelik eleştirilere ilişkin, “Oyuncu transfer etmek çok kolay. İstenilen parayı verirseniz hemen getirebilirsiniz. Ama bu işin pazarlık kısmı var, ekonomik kısmı var. Bunu da yönetmeniz gerekiyor. Sezonu ilk 5 içerisinde tamamlamış olurs"
     },
     {
       "title": "Futbol dünyası bu iddiayı konuşuyor: Arsenal milli yıldız için düğmeye basıyor",
@@ -439,76 +475,36 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.311510",
+      "fetched_at": "2026-08-18T18:24:01.061096",
       "priority_score": 57,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-18T17:21:13.737329",
+      "processed_at": "2026-08-18T18:24:49.322327",
       "title_tr": "Futbol dünyası bu iddiayı konuşuyor: Arsenal milli yıldız için düğmeye basıyor",
       "summary_tr": "İki sezonda sergilediği performansla Avrupa'nın dikkatini çeken milli futbolcu için Premier Lig devi Arsenal devreye girdi. Londra ekibinin 20 yaşındaki hücum oyuncusunu uzun vadeli transfer hedefleri arasında bulundurduğunu aktardı."
     },
     {
-      "title": "Galatasaray’ın gizli yürüttüğü görüşme ortaya çıktı: Yıldız oyuncu için bütün şartlar zorlanıyor",
-      "summary": "Transfer çalışmalarına devam eden Galatasaray’da sürpriz bir gelişme yaşandı. Sarı kırmızılı yönetimin, yıldız oyuncu için görüşmeler yaptığı ortaya çıktı.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayin-gizli-yuruttugu-gorusme-ortaya-cikti-yildiz-oyuncu-icin-butun-sartlar-zorlaniyor-4848982",
-      "image_url": null,
-      "published": "2026-08-18T12:15:49",
-      "source": "Yeni Şafak Spor",
+      "title": "Barça en Man City ronden megatransfer af: wereldkampioen Rodri terug in Spanje",
+      "summary": "Rodri heeft zijn transfer van Manchester City naar Barcelona afgerond. Barça betaalt tientallen miljoenen voor de wereldkampioen, die op het Catalaanse middenveld de concurrentie aangaat met onder anderen Frenkie de Jong.",
+      "url": "https://www.vi.nl/nieuws/barca-en-man-city-ronden-megatransfer-af-wereldkampioen-rodri-terug-in-spanje",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/18/43aa71b4670a466d4e22d3cd32c09ba36c0132c1.jpg?width=1200",
+      "published": "2026-08-18T16:42:00",
+      "source": "VI.nl",
       "source_priority": 6,
-      "region": "turkey",
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.311750",
+      "fetched_at": "2026-08-18T18:24:43.723038",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "super_lig"
+        "premier_league",
+        "la_liga"
       ],
-      "processed_at": "2026-08-18T17:21:13.756259",
-      "title_tr": "Galatasaray’ın gizli yürüttüğü görüşme ortaya çıktı: Yıldız oyuncu için bütün şartlar zorlanıyor",
-      "summary_tr": "Transfer çalışmalarına devam eden Galatasaray’da sürpriz bir gelişme yaşandı. Sarı kırmızılı yönetimin, yıldız oyuncu için görüşmeler yaptığı ortaya çıktı."
-    },
-    {
-      "title": "Yüksel Yıldırım'dan Göztepe maçı sonrası flaş açıklama: \"Bir tane santrfor kesin\"",
-      "summary": "Süper Lig’in yeni sezon ilk haftasında Samsunspor evinde Göztepe ile 3-3 berabere kaldı. Yüksel Yıldırım maçın ardından flaş transfer açıklamalarda bulundu.",
-      "url": "https://www.yenisafak.com/galeri/spor/yuksel-yildirimdan-goztepe-maci-sonrasi-flas-aciklama-bir-tane-santrfor-kesin-4848980",
-      "image_url": null,
-      "published": "2026-08-18T12:14:56",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-18T17:20:29.311934",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-18T17:21:13.772532",
-      "title_tr": "Yüksel Yıldırım'dan Göztepe maçı sonrası flaş açıklama: \"Bir tane santrfor kesin\"",
-      "summary_tr": "Süper Lig’in yeni sezon ilk haftasında Samsunspor evinde Göztepe ile 3-3 berabere kaldı. Yüksel Yıldırım maçın ardından flaş transfer açıklamalarda bulundu."
-    },
-    {
-      "title": "Watch out for Brentford's Sangare - he could be signing of the season",
-      "summary": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
-      "url": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706",
-      "published": "2026-08-18T08:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-18T17:17:43.288119",
-      "priority_score": 56,
-      "categories": [
-        "breaking_news",
-        "injuries"
-      ],
-      "processed_at": "2026-08-18T17:21:13.001276",
-      "title_tr": "Brentfordlu Sangare'ye dikkat edin, sezonun imzasını atabilir",
-      "summary_tr": "Eylül 2024'te Mamadou Sangare ilk kez Mali kadrosuna çağrıldı. Modern futbolda normal olduğu gibi, yeni oyuncuların bir sandalyenin üzerinde durarak başlangıç ​​şarkısını söylemeleri gerekiyor."
+      "processed_at": "2026-08-18T18:24:49.493570",
+      "title_tr": "Barça ve Man City mega transferi tamamladı: Dünya şampiyonu Rodri İspanya'ya geri döndü",
+      "summary_tr": "Rodri, Manchester City'den Barcelona'ya transferini tamamladı. Barça, Katalan orta sahasında Frenkie de Jong gibi isimlerle mücadele eden dünya şampiyonu için on milyonlarca dolar ödüyor."
     },
     {
       "title": "Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı",
@@ -520,14 +516,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:37.643646",
+      "fetched_at": "2026-08-18T18:23:05.258380",
       "priority_score": 56,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.212662",
+      "processed_at": "2026-08-18T18:24:48.659580",
       "title_tr": "Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı",
       "summary_tr": "Kadrosuna Trossard ve Vlahovic gibi yıldızları katan Beşiktaş'tan bir transfer bombası daha geliyor."
     },
@@ -541,73 +537,74 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:59.517562",
+      "fetched_at": "2026-08-18T18:23:26.582935",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-18T17:21:13.304706",
+      "processed_at": "2026-08-18T18:24:48.764335",
       "title_tr": "TRANSFER | Rajmund Toth, Konyaspor’da",
       "summary_tr": "Konyaspor, Macar ön libero Rajmund Toth’u kadrosuna kattığını duyurdu."
     },
     {
-      "title": "Yeniden Noa Lang!",
-      "summary": "Transfer çalışmalarını hız veren Galatasaray'ın, geçen sezon takımda kiralık olarak forma giyen Noa Lang için Napoli ile görüşmelere başladığı iddia edildi.",
-      "url": "https://www.haberturk.com/son-dakika-galatasaray-icin-yeniden-noa-lang-iddiasi-3906459-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/18/ver1787055689/3906459/jpg/1280x1280",
-      "published": "2026-08-18T12:21:37",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Galatasaray’ın gizli yürüttüğü görüşme ortaya çıktı: Yıldız oyuncu için bütün şartlar zorlanıyor",
+      "summary": "Transfer çalışmalarına devam eden Galatasaray’da sürpriz bir gelişme yaşandı. Sarı kırmızılı yönetimin, yıldız oyuncu için görüşmeler yaptığı ortaya çıktı.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayin-gizli-yuruttugu-gorusme-ortaya-cikti-yildiz-oyuncu-icin-butun-sartlar-zorlaniyor-4848982",
+      "image_url": null,
+      "published": "2026-08-18T12:15:49",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:19:23.315138",
-      "priority_score": 53,
+      "fetched_at": "2026-08-18T18:24:01.061269",
+      "priority_score": 52,
       "categories": [
         "transfers",
-        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-18T17:21:13.097664",
-      "title_tr": "Yeniden Noa Lang!",
-      "summary_tr": "Transfer çalışmalarını hız veren Galatasaray'ın, geçen sezon takımda kiralık olarak forma giyen Noa Lang için Napoli ile görüşmelere başladığı iddia edildi."
+      "processed_at": "2026-08-18T18:24:49.344784",
+      "title_tr": "Galatasaray’ın gizli yürüttüğü görüşme ortaya çıktı: Yıldız oyuncu için bütün şartlar zorlanıyor",
+      "summary_tr": "Transfer çalışmalarına devam eden Galatasaray’da sürpriz bir gelişme yaşandı. Sarı kırmızılı yönetimin, yıldız oyuncu için görüşmeler yaptığı ortaya çıktı."
     },
     {
-      "title": "'Nettosalarissen van ruim vijftien miljoen euro en meer zijn niet te weigeren'",
-      "summary": "Süleyman Öztürk over de factoren achter een geslaagde transfer.",
-      "url": "https://www.vi.nl/pro/nettosalarissen-van-ruim-vijftien-miljoen-euro-en-meer-zijn-niet-te-weigeren",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/17/381f177ce8b8ec06cd1c35e165341f69d75f3465.jpg?width=1200",
-      "published": "2026-08-18T17:00:00",
+      "title": "Champions League-gekte bij NEC: heel Nijmegen smacht naar hymne",
+      "summary": "NEC speelt woensdagavond in de play-offs voor de Champions League tegen Bodø/Glimt. Clubwatcher Sander Janssen bespreekt in Rondje Europa Extra de Champions League-gekte in Nijmegen, de fysieke staat van de ploeg van Dick Schreuder en de laatste ontwikkelingen op de transfermarkt.",
+      "url": "https://www.vi.nl/pro/champions-league-gekte-bij-nec-heel-nijmegen-smacht-naar-hymne",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/18/aaa5a779e8ed86f65ac73f598951031c13060b19.jpg?width=1200",
+      "published": "2026-08-18T17:30:00",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-18T17:21:08.161106",
+      "fetched_at": "2026-08-18T18:24:43.722766",
       "priority_score": 52,
       "categories": [
-        "transfers"
+        "transfers",
+        "champions_league"
       ],
-      "processed_at": "2026-08-18T17:21:13.864185",
-      "title_tr": "'On beş milyon euro ve üzeri net maaşlar reddedilemez'",
-      "summary_tr": "Süleyman Öztürk, başarılı transferin ardındaki faktörleri anlattı."
+      "processed_at": "2026-08-18T18:24:49.417717",
+      "title_tr": "NEC'de Şampiyonlar Ligi çılgınlığı: Nijmegen'in tamamı marşlara hasret",
+      "summary_tr": "NEC, Çarşamba akşamı Şampiyonlar Ligi play-off'larında Bodø/Glimt ile karşılaşacak. Rondje Europa Extra'da kulüp gözlemcisi Sander Janssen, Nijmegen'deki Şampiyonlar Ligi çılgınlığını, Dick Schreuder'in takımının fiziksel durumunu ve transfer pazarındaki son gelişmeleri anlatıyor."
     },
     {
-      "title": "Hollie Doyle blog: Constitution River can come of age in Juddmonte International showdown with Ombudsman",
-      "summary": "Sky Sports Racing ambassador Hollie Doyle runs the rule on day one of York's Ebor Festival on Wednesday, featuring the eagerly awaited clash between Ombudsman and Constitution River.",
-      "url": "https://www.skysports.com/racing/news/12040/13574440/hollie-doyle-constitution-river-can-come-of-age-in-juddmonte-showdown",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802",
-      "published": "2026-08-18T16:55:00",
-      "source": "Sky Sports Football",
+      "title": "Barcelona, Rodri transferini açıkladı!",
+      "summary": "Barcelona, 30 yaşındaki orta saha Rodri’yi kadrosuna kattı.Devamı için tıklayınız",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/08/18/barcelona-rodri-transferini-acikladi",
+      "image_url": "https://iasbh.tmgrup.com.tr/9ee006/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/18/barcelona-rodri-transferini-acikladi-1787073061846.jpeg",
+      "published": "2026-08-18T17:11:02",
+      "source": "Sabah Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-18T17:17:43.287248",
+      "fetched_at": "2026-08-18T18:23:12.259407",
       "priority_score": 51,
       "categories": [
-        "serie_a"
+        "transfers",
+        "la_liga"
       ],
-      "processed_at": "2026-08-18T17:21:12.970537",
-      "title_tr": "Hollie Doyle blogu: Anayasa Nehri, Juddmonte Uluslararası Ombudsman ile hesaplaşmada reşit olabilir",
-      "summary_tr": "Sky Sports Racing elçisi Hollie Doyle, Çarşamba günü York'taki Ebor Festivali'nin birinci gününde Ombudsman ile Anayasa Nehri arasındaki heyecanla beklenen çatışmayı yönetiyor."
+      "processed_at": "2026-08-18T18:24:48.697856",
+      "title_tr": "Barcelona, Rodri transferini açıkladı!",
+      "summary_tr": "Barcelona, 30 yaşındaki orta saha Rodri’yi kadrosuna kattı.Devamı için tıklayınız"
     }
   ]
 }
