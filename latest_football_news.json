@@ -1,25 +1,27 @@
 {
-  "timestamp": "2026-08-22T18:18:58.137349",
+  "timestamp": "2026-08-22T19:20:03.816301",
   "total_items": 30,
   "news": [
     {
-      "title": "Mateta claims final year of Palace deal is invalid",
-      "summary": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
+      "title": "Wasteful Palace punished by Everton in Sage's first game",
+      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T17:49:41",
+      "published": "2026-08-22T19:00:58",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.120556",
+      "fetched_at": "2026-08-22T19:15:04.826432",
       "priority_score": 80,
       "categories": [
-        "transfers"
+        "match_results",
+        "breaking_news",
+        "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.898621",
-      "title_tr": "Mateta, Palace'ın son yılındaki anlaşmasının geçersiz olduğunu iddia etti",
-      "summary_tr": "Jean-Philippe Mateta, Crystal Palace sözleşmesinin son 10 ayının geçerliliğine itiraz ediyor."
+      "processed_at": "2026-08-22T19:18:41.029714",
+      "title_tr": "Wasteful Palace, Sage'in ilk maçında Everton tarafından cezalandırıldı",
+      "summary_tr": "Everton, Kiernan Dewsbury‑Hall ve Thierno'nun golleriyle Crystal Palace'ı 2-0 yenerek Premier Lig sezonunun açılış maçını beş yıl aradan sonra ilk kez kazandı."
     },
     {
       "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
@@ -31,14 +33,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:35.171454",
+      "fetched_at": "2026-08-22T19:15:41.815242",
       "priority_score": 78,
       "categories": [
         "transfers",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.995252",
+      "processed_at": "2026-08-22T19:18:41.130604",
       "title_tr": "Martin Ødegaard, Arsenal'in yumuşatıcı menajeri ve pas ustası rolüne devam ediyor | Barney Ronay",
       "summary_tr": "Golü It's A Knockout'taki gibiydi ama Arsenal kaptanı sakatlıklarla dolu bir sezondan sonra iyileşme belirtileri gösterdi. Geri döndük bebeğim. İçerik bölgesine hoş geldiniz. Ve evet, aslında bir süreliğine uzaklaştık. Cidden. Tekrar kontrol edin. Gerçekten başardık. Premier Lig'in açılışına giderken"
     },
@@ -52,15 +54,34 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.126779",
+      "fetched_at": "2026-08-22T19:15:16.962529",
       "priority_score": 76,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-22T18:17:41.910601",
+      "processed_at": "2026-08-22T19:18:41.045755",
       "title_tr": "Ellis Park kalesindeki ilk Testte tüm Siyahlar Springbok'ları öldürdü",
       "summary_tr": "Yeni Zelanda, Cumartesi günü Ellis Park'ta yapılan ilk Testi 33-16 kazanmak ve dört maçlık seride bir üst sıralara çıkmak için beşe bir denemeyle ev sahibi Güney Afrika'yı geride bıraktı."
+    },
+    {
+      "title": "Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
+      "summary": "Every new season opens with talk of a team winning the transfer window. It is not the same as winning on the pitch and Tottenham found out the hard way after being run out of west London by Brentford, whose dominance made a mockery of suggestions that Spurs are about to take off after casting off th",
+      "url": "https://www.theguardian.com/football/2026/aug/22/brentford-tottenham-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-08-22T18:40:35",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:41.812467",
+      "priority_score": 73,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-22T19:18:41.084117",
+      "title_tr": "Kayode, üzgün Spurs için uyandırma çağrısıyla Brentford'un kesin zaferini mühürledi",
+      "summary_tr": "Her yeni sezon, transfer penceresini kazanacak bir takımın konuşulmasıyla başlar. Bu, sahada kazanmakla aynı şey değil ve Tottenham, Batı Londra'dan Brentford tarafından kovulduktan sonra bunu zor yoldan öğrendi; Brentford'un hakimiyeti, Spurs'un bu oyunu bıraktıktan sonra yola çıkmak üzere olduğu yönündeki önerilerle alay konusu oldu."
     },
     {
       "title": "Beşiktaş'tan Ghedjemis için yeni teklif! Sağ kanat operasyonu hız kazandı",
@@ -72,174 +93,55 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-22T18:16:05.916574",
-      "priority_score": 76,
+      "fetched_at": "2026-08-22T19:17:04.182352",
+      "priority_score": 71,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-22T18:17:42.151473",
+      "processed_at": "2026-08-22T19:18:41.315177",
       "title_tr": "Beşiktaş'tan Ghedjemis için yeni teklif! Sağ kanat operasyonu hız kazandı",
       "summary_tr": "Sezona hem Avrupa'da hem de Süper Lig'de müthiş bir başlangıç yapan ve oynadığı 6 resmi karşılaşmayı da gol yemeden kazanan Beşiktaş'ta transfer çalışmaları sürüyor."
     },
     {
-      "title": "2026/27 DFB Cup overview: Fixtures, results and draws",
-      "summary": "Bayern Munich lifted the DFB Cup for the 21st time last season. Who can challenge them for Germany's domestic cup competition in 2026/27?",
-      "url": "https://www.bundesliga.com/en/2bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+      "title": "Hull shock Man Utd with dream Premier League return",
+      "summary": "Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T13:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:57.740136",
-      "priority_score": 71,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-22T18:17:41.999196",
-      "title_tr": "2026/27 DFB Kupası'na genel bakış: Fikstür, sonuçlar ve eşleşmeler",
-      "summary_tr": "Bayern Münih geçen sezon 21. kez DFB Kupası'nı kaldırdı. 2026/27 sezonunda Almanya'nın yerel kupa müsabakasında onlara kim meydan okuyabilir?"
-    },
-    {
-      "title": "'We didn't click' - Carrick on Man Utd's loss",
-      "summary": "Manchester United head coach Michael Carrick says his side 'didn't click' as they suffered a 2-0 defeat at newly promoted Hull City in their first game of the 2026-27 Premier League season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-22T14:40:57",
+      "published": "2026-08-22T19:00:18",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.121755",
+      "fetched_at": "2026-08-22T19:15:04.825551",
       "priority_score": 70,
       "categories": [
-        "breaking_news",
+        "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.902805",
-      "title_tr": "'Tıklayamadık' - Man Utd'un kaybı üzerine Carrick",
-      "summary_tr": "Manchester United baş antrenörü Michael Carrick, 2026-27 Premier Lig sezonunun ilk maçında yeni yükselen Hull City'ye 2-0 yenildikleri için takımının 'tıklamadığını' söyledi."
+      "processed_at": "2026-08-22T19:18:41.028358",
+      "title_tr": "Hull, rüya gibi Premier Lig dönüşüyle ​​Man Utd'u şok etti",
+      "summary_tr": "Hull City'nin, MKM Stadyumu'nda açılış haftasonunda Manchester United'ı 2-0 yenerek Premier Lig'e dönüşüne rüya gibi bir başlangıç ​​yapmasının önemli anlarını izleyin."
     },
     {
-      "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
-      "summary": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ ParkWhen Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there ",
-      "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool",
-      "image_url": null,
-      "published": "2026-08-22T07:00:57",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:35.171119",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-22T18:17:41.988105",
-      "title_tr": "Alexander Isak, Newcastle'la zorlu yeniden bir araya gelmeye hazırlanıyor",
-      "summary_tr": "Forvet, Liverpool'daki zorlu ilk sezonun ardından yeni baş antrenörü kazanmak zorunda - Pazar günü, misafirperver olmayan St James' Park'ta başlayacak Liverpool'un takım otobüsü dar bir köşeyi dönüp Pazar günü Newcastle Milburn Standı'nın arkasındaki dar, üstü kapalı erişim yolundan birkaç santim aşağıya indiğinde, Alexander Isak bunu bilecek"
-    },
-    {
-      "title": "Janelt doubles Brentford's lead as Spurs struggle",
-      "summary": "Vitaly Janelt makes it two for the home side as Brentford lead Spurs 2-0 in the first half.",
-      "url": "https://www.skysports.com/watch/video/13576037/goal-v-janelt-33-brentford-2-0-tottenham-hotspur",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-football-premier-league_7328537.jpg?20260822181956",
-      "published": "2026-08-22T18:08:00",
+      "title": "Sherrock claims first Women's Series title of 2026 in the absence of Greaves",
+      "summary": "Lisa Ashton and Fallon Sherrock shared the spoils at Events 17-18 of the PDC Women’s Series on Saturday, as the duo scooped a title each to reinforce their positions of second and third in the rankings respectively.",
+      "url": "https://www.skysports.com/darts/news/12040/13576068/fallon-sherrock-sweeps-aside-lisa-ashton-5-0-to-claim-her-first-womens-series-title-of-2026",
+      "image_url": "https://e0.365dm.com/25/07/1920x1080/skysports-fallon-sherrock-darts_6965888.jpg?20250716090159",
+      "published": "2026-08-22T19:45:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127691",
+      "fetched_at": "2026-08-22T19:15:16.962315",
       "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-08-22T18:17:41.939030",
-      "title_tr": "Spurs mücadele ederken Janelt Brentford'un liderliğini ikiye katladı",
-      "summary_tr": "İlk yarıda Brentford Spurs'u 2-0 öne geçirirken Vitaly Janelt ev sahibi takım adına skoru ikiye çıkardı."
-    },
-    {
-      "title": "Hull City, M. United'ı devirdi!",
-      "summary": "İngiltere Premier Lig'in ilk haftasında Hull City sahasında Manchester United'ı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve sezona galibiyetle başladı.",
-      "url": "https://www.haberturk.com/hull-city-2-manchester-united-0-mac-sonucu-3907392-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/22/ver1787405024/3907392/jpg/1280x1280",
-      "published": "2026-08-22T14:07:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:15:54.986262",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-22T18:17:42.086408",
-      "title_tr": "Hull City, M. United'ı devirdi!",
-      "summary_tr": "İngiltere Premier Lig'in ilk haftasında Hull City sahasında Manchester United'ı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve sezona galibiyetle başladı."
-    },
-    {
-      "title": "TRANSFER | Metehan Baltacı, Gençlerbirliği’nde",
-      "summary": "Gençlerbirliği, Galatasaray’dan Metehan Baltacı’yı kadrosuna kattığını duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/transfer-metehan-baltaci-genclerbirliginde-3457648",
-      "image_url": null,
-      "published": "2026-08-22T18:17:41",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:16:28.523235",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-22T18:17:42.433765",
-      "title_tr": "TRANSFER | Metehan Baltacı, Gençlerbirliği’nde",
-      "summary_tr": "Gençlerbirliği, Galatasaray’dan Metehan Baltacı’yı kadrosuna kattığını duyurdu."
-    },
-    {
-      "title": "Fenerbahçe'den son dakika Talisca açıklaması! Kadroda olmama nedeni belli oldu",
-      "summary": "Fenerbahçe, Süper Lig'de TÜMOSAN Konyaspor ile oynayacağı maçın kadrosuna Anderson Talisca'yı almamıştı. Sarı-lacivertli kulüp hakkında transfer söylentileri de olan Brezilyalı yıldızın maç kadrosunda olmama nedenini duyurdu.",
-      "url": "https://www.yenisafak.com/spor/talisca-konyaspor-macinin-kadrosunda-neden-yok-4850140",
-      "image_url": null,
-      "published": "2026-08-22T15:25:04",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:17:05.337627",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-22T18:17:42.648472",
-      "title_tr": "Fenerbahçe'den son dakika Talisca açıklaması! Kadroda olmama nedeni belli oldu",
-      "summary_tr": "Fenerbahçe, Süper Lig'de TÜMOSAN Konyaspor ile oynayacağı maçın kadrosuna Anderson Talisca'yı almamıştı. Sarı-lacivertli kulüp hakkında transfer söylentileri de olan Brezilyalı yıldızın maç kadrosunda olmama nedenini duyurdu."
-    },
-    {
-      "title": "'No button to press' - Glasner and Forest must find stability",
-      "summary": "Anton Stach's late goal for Leeds hands Oliver Glasner a defeat in his first game at Nottingham Forest.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0vlngz2do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-22T17:43:18",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.121179",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-22T18:17:41.900334",
-      "title_tr": "'Basılacak düğme yok' - Glasner ve Forest istikrar bulmalı",
-      "summary_tr": "Anton Stach'ın Leeds adına son golü, Oliver Glasner'ı Nottingham Forest'taki ilk maçında yenilgiye uğrattı."
+      "processed_at": "2026-08-22T19:18:41.041482",
+      "title_tr": "Sherrock, Greaves'in yokluğunda 2026'nın ilk Kadın Serisi şampiyonluğunu elde etti",
+      "summary_tr": "Lisa Ashton ve Fallon Sherrock Cumartesi günü PDC Kadınlar Serisinin 17-18. Etkinliklerinde ganimeti paylaştılar ve ikili birer şampiyonluk elde ederek sıralamada sırasıyla ikinci ve üçüncü sıradaki konumlarını güçlendirdiler."
     },
     {
       "title": "Where Franz Beckenbauer Supercup between Bayern Munich and Borussia Dortmund will be won and lost",
@@ -251,13 +153,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:57.741706",
+      "fetched_at": "2026-08-22T19:16:06.394916",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-22T18:17:42.012092",
+      "processed_at": "2026-08-22T19:18:41.157216",
       "title_tr": "Bayern Münih ile Borussia Dortmund arasındaki Franz Beckenbauer Süper Kupası'nın kazanılacağı ve kaybedileceği yer",
       "summary_tr": "Bayern Münih ve Borussia Dortmund, yeni sezonun ilk yerli kupası için Franz Beckenbauer Süper Kupası'nda karşı karşıya geliyor ancak bu Klassiker finalini hangi önemli mücadeleler belirleyecek?"
     },
@@ -271,15 +173,294 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-22T18:16:28.522514",
+      "fetched_at": "2026-08-22T19:17:23.604179",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-22T18:17:42.394660",
+      "processed_at": "2026-08-22T19:18:41.547249",
       "title_tr": "FENERBAHÇE KONYASPOR HANGİ KANALDA? Trendyol Süper Lig Fenerbahçe Tümosan Konyaspor Maçı Saat Kaçta, Ne Zaman? İşte İlk 11'ler",
       "summary_tr": "Fenerbahçe Konyaspor maçı, Fenerbahçe Tümosan Konyaspor, Süper Lig Fenerbahçe, Kadıköy'de Fenerbahçe, Fenerbahçe son dakika başlıkları futbolseverlerin gündeminde yer almaya devam ediyor. Trendyol Süper Lig'de haftanın dikkat çeken karşılaşmalarından birinde Fenerbahçe, taraftarı önünde Tümosan Kony"
+    },
+    {
+      "title": "Mateta claims final year of Palace deal is invalid",
+      "summary": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-22T17:49:41",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:04.827172",
+      "priority_score": 70,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-22T19:18:41.033998",
+      "title_tr": "Mateta, Palace'ın son yılındaki anlaşmasının geçersiz olduğunu iddia etti",
+      "summary_tr": "Jean-Philippe Mateta, Crystal Palace sözleşmesinin son 10 ayının geçerliliğine itiraz ediyor."
+    },
+    {
+      "title": "Anton Stach snatches late Leeds winner to sour Glasner’s new dawn at Forest",
+      "summary": "For Anton Stach, another sweet direct free-kick to add to the back catalogue, this one souring Oliver Glasner’s first match in charge of Nottingham Forest. Only Dominik Szoboszlai eclipsed Stach’s record of three direct free-kick goals in the Premier League last season, one of those coming against G",
+      "url": "https://www.theguardian.com/football/2026/aug/22/nottingham-forest-leeds-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-08-22T16:13:13",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:41.813046",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-22T19:18:41.093372",
+      "title_tr": "Anton Stach, Glasner'ın Forest'taki yeni şafağının tadını kaçırmak için son Leeds galibini kaptı",
+      "summary_tr": "Anton Stach için arka kataloğa eklenecek bir başka tatlı direkt serbest vuruş, bu Oliver Glasner'ın Nottingham Forest'taki ilk maçını bozdu. Geçen sezon Premier Lig'de Stach'in üç direkt serbest vuruş golü rekorunu yalnızca Dominik Szoboszlai gölgede bıraktı; bu gollerden biri G'ye karşı geldi."
+    },
+    {
+      "title": "PSG nog niet klaar op transfermarkt: 'Houden onze ogen open'",
+      "summary": "Paris Saint-Germain gaf deze zomer al meer dan 150 miljoen euro uit aan onder anderen Mika Godts en Ferran Torres. De aanval van de club uit Parijs werd flink versterkt, maar op de vraag of zij klaar zijn op de transfermarkt, kan trainer Luis Enrique geen eenduidig antwoord geven.",
+      "url": "https://www.vi.nl/video/psg-nog-niet-klaar-op-transfermarkt-houden-onze-ogen-open",
+      "image_url": "https://images.performgroup.com/transcoded/20260822/220826_EN_SPN_FOOTBALL_LIGUE_1_PSG_ENRIQUE_RD_1787408443093-1_2847_1.jpeg",
+      "published": "2026-08-22T19:13:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:18:38.795428",
+      "priority_score": 67,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-22T19:18:42.188954",
+      "title_tr": "PSG henüz transfer pazarına hazır değil: 'Gözlerimizi açık tutun'",
+      "summary_tr": "Paris Saint-Germain bu yaz diğerlerinin yanı sıra Mika Godts ve Ferran Torres'e 150 milyon eurodan fazla para harcadı. Paris kulübünün atağı ciddi anlamda güçlendi ancak transfer piyasasına hazır olup olmadıkları sorulduğunda teknik direktör Luis Enrique net bir cevap veremiyor."
+    },
+    {
+      "title": "'Conflict dreigt tussen Mateta en Crystal Palace: FIFA ingeschakeld'",
+      "summary": "Crystal Palace-spits Jean-Philippe Mateta stelt volgens de BBC dat het resterende deel van zijn contract (tot medio 2027) bij de Premier League-club ongeldig verklaard moet worden. De Frans international heeft bezwaar aangetekend bij de FIFA.",
+      "url": "https://www.vi.nl/nieuws/conflict-dreigt-tussen-mateta-en-crystal-palace-fifa-ingeschakeld",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/22/4e83afd99e709ad046c183dea085a1fd3ffa7553.jpg?width=1200",
+      "published": "2026-08-22T19:09:49",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:18:38.795529",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-08-22T19:18:42.207239",
+      "title_tr": "'Mateta ve Crystal Palace arasında çatışma tehlikesi var: FIFA çağrıldı'",
+      "summary_tr": "BBC'nin haberine göre Crystal Palace'ın golcüsü Jean-Philippe Mateta, Premier Lig kulübüyle olan sözleşmesinin geri kalanının (2027 ortasına kadar) geçersiz ilan edilmesi gerektiğini belirtiyor. Fransız milli futbolcu FIFA'ya itirazda bulundu."
+    },
+    {
+      "title": "Pijnlijk debuut voor Van Hecke: Brentford vernedert Tottenham",
+      "summary": "Tottenham Hotspur is zaterdagavond met debutant Jan Paul van Hecke in de basis overklast door Brentford. Spurs, dat deze zomer al meer dan 250 miljoen euro investeerde op de transfermarkt, werd in de eerste competitiewedstrijd overrompeld door The Bees. Bij de thuisploeg kwamen Sep van den Berg en A",
+      "url": "https://www.vi.nl/nieuws/pijnlijk-debuut-voor-van-hecke-brentford-vernedert-tottenham",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/22/6feef5f65bce795cf783ad1e0238622b4d516e6c.jpg?width=1200",
+      "published": "2026-08-22T18:22:31",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:18:38.795930",
+      "priority_score": 67,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-22T19:18:42.320016",
+      "title_tr": "Van Hecke'nin ilk çıkışı acı verici: Brentford, Tottenham'ı küçük düşürdü",
+      "summary_tr": "Tottenham Hotspur, Cumartesi akşamı ilk 11'de ilk kez oynayan Jan Paul van Hecke ile Brentford'u geride bıraktı. Bu yaz transfer piyasasına 250 milyon Euro'dan fazla yatırım yapan Spurs, ilk müsabakasında The Bees karşısında mağlup oldu. Sep van den Berg ve A. ev sahibi takıma katıldı"
+    },
+    {
+      "title": "Spurs crumble as Brentford show brilliance in convincing win",
+      "summary": "Highlights from the Premier League match between Brentford and Tottenham Hotspur.",
+      "url": "https://www.skysports.com/watch/video/13576076/brentford-3-0-tottenham-hotspur-premier-league-highlights",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-football-premier-league_7328615.jpg?20260822192812",
+      "published": "2026-08-22T19:28:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:16.962389",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-22T19:18:41.043289",
+      "title_tr": "Brentford ikna edici galibiyette parlak bir performans sergilerken Spurs çöktü",
+      "summary_tr": "Brentford ile Tottenham Hotspur arasındaki Premier Lig maçından öne çıkanlar."
+    },
+    {
+      "title": "2026/27 DFB Cup overview: Fixtures, results and draws",
+      "summary": "Bayern Munich lifted the DFB Cup for the 21st time last season. Who can challenge them for Germany's domestic cup competition in 2026/27?",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+      "image_url": null,
+      "published": "2026-08-22T13:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:16:06.393711",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-22T19:18:41.143358",
+      "title_tr": "2026/27 DFB Kupası'na genel bakış: Fikstür, sonuçlar ve eşleşmeler",
+      "summary_tr": "Bayern Münih geçen sezon 21. kez DFB Kupası'nı kaldırdı. 2026/27 sezonunda Almanya'nın yerel kupa müsabakasında onlara kim meydan okuyabilir?"
+    },
+    {
+      "title": "Hakan Çalhanoğlu attı, Inter 4 gollü galibiyetle başladı!",
+      "summary": "İtalya Serie A'nın açılış haftasında son şampiyon Inter, Monza'yı evinde 4-1 mağlup etti. Karşılaşmanın ilk golü ise milli futbolcumuz Hakan Çalhanoğlu'ndan geldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/hakan-calhanoglu-atti-inter-4-gollu-galibiyetle-basladi-43281965",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a89e933de691a4aa8c65df3.jpg",
+      "published": "2026-08-22T18:24:44",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:17:04.182033",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-22T19:18:41.275133",
+      "title_tr": "Hakan Çalhanoğlu attı, Inter 4 gollü galibiyetle başladı!",
+      "summary_tr": "İtalya Serie A'nın açılış haftasında son şampiyon Inter, Monza'yı evinde 4-1 mağlup etti. Karşılaşmanın ilk golü ise milli futbolcumuz Hakan Çalhanoğlu'ndan geldi."
+    },
+    {
+      "title": "Leeds score late winner to silence Forest fans",
+      "summary": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-22T19:01:04",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:04.826249",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-22T19:18:41.029199",
+      "title_tr": "Leeds, Forest hayranlarını susturmak için geç gol attı",
+      "summary_tr": "Anton Stach, Oliver Glasner'ın Premier Lig'de Nottingham Forest'ı çalıştırdığı ilk maçında 88. dakikada attığı golle Leeds United'a galibiyeti getirdi."
+    },
+    {
+      "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
+      "summary": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ ParkWhen Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there ",
+      "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool",
+      "image_url": null,
+      "published": "2026-08-22T07:00:57",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:15:41.814973",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-22T19:18:41.123478",
+      "title_tr": "Alexander Isak, Newcastle'la zorlu yeniden bir araya gelmeye hazırlanıyor",
+      "summary_tr": "Forvet, Liverpool'daki zorlu ilk sezonun ardından yeni baş antrenörü kazanmak zorunda - Pazar günü, misafirperver olmayan St James' Park'ta başlayacak Liverpool'un takım otobüsü dar bir köşeyi dönüp Pazar günü Newcastle Milburn Standı'nın arkasındaki dar, üstü kapalı erişim yolundan birkaç santim aşağıya indiğinde, Alexander Isak bunu bilecek"
+    },
+    {
+      "title": "Inter Monza'yı farklı yendi! Hakan Çalhanoğlu'nun füzesi konuşuluyor | ÖZET",
+      "summary": "İtalya Serie A'nın ilk haftasında Inter sahasında konuk ettiği Monza'yı 4-1 mağlup etti. Inter forması giyen milli futbolcu Hakan Çalhanoğlu'nun golü ise sosyal medyada gündem oldu.",
+      "url": "https://www.yenisafak.com/spor/inter-monza-4-1-ozet-hakan-calhanoglunun-golunu-izle-4850172",
+      "image_url": null,
+      "published": "2026-08-22T18:37:42",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:17:57.711646",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-22T19:18:41.948656",
+      "title_tr": "Inter Monza'yı farklı yendi! Hakan Çalhanoğlu'nun füzesi konuşuluyor | ÖZET",
+      "summary_tr": "İtalya Serie A'nın ilk haftasında Inter sahasında konuk ettiği Monza'yı 4-1 mağlup etti. Inter forması giyen milli futbolcu Hakan Çalhanoğlu'nun golü ise sosyal medyada gündem oldu."
+    },
+    {
+      "title": "Wereldgoals bezorgen Inter droomstart in Serie A",
+      "summary": "Inter heeft gedaan wat het moest doen in de eerste wedstrijd van het nieuwe seizoen in de Serie A. In eigen huis werd promovendus Monza eenvoudig aan de kant gezet. Dat kwam mede door een fantastisch doelpunt van Hakan Calhanoglu.",
+      "url": "https://www.vi.nl/nieuws/wereldgoals-bezorgen-inter-droomstart-in-serie-a",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/22/61fe34abb61fe57d389c5a1a58e9629fa5d5f889.jpg?width=1200",
+      "published": "2026-08-22T18:26:29",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:18:38.795867",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-22T19:18:42.302868",
+      "title_tr": "Dünya golleri Inter'in Serie A'ya rüya gibi başlamasını sağladı",
+      "summary_tr": "Inter, Serie A'da yeni sezonun ilk maçında yapması gerekeni yaptı. İç sahada doktora adayı Monza kolaylıkla kenara itildi. Bunda kısmen Hakan Çalhanoğlu'nun muhteşem golü etkili oldu."
+    },
+    {
+      "title": "TRANSFER | Metehan Baltacı, Gençlerbirliği’nde",
+      "summary": "Gençlerbirliği, Galatasaray’dan Metehan Baltacı’yı kadrosuna kattığını duyurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/transfer-metehan-baltaci-genclerbirliginde-3457648",
+      "image_url": null,
+      "published": "2026-08-22T18:17:41",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:17:23.604629",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-22T19:18:41.574657",
+      "title_tr": "TRANSFER | Metehan Baltacı, Gençlerbirliği’nde",
+      "summary_tr": "Gençlerbirliği, Galatasaray’dan Metehan Baltacı’yı kadrosuna kattığını duyurdu."
+    },
+    {
+      "title": "Hull City, M. United'ı devirdi!",
+      "summary": "İngiltere Premier Lig'in ilk haftasında Hull City sahasında Manchester United'ı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve sezona galibiyetle başladı.",
+      "url": "https://www.haberturk.com/hull-city-2-manchester-united-0-mac-sonucu-3907392-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/22/ver1787405024/3907392/jpg/1280x1280",
+      "published": "2026-08-22T14:07:16",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-22T19:16:54.795183",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-22T19:18:41.232383",
+      "title_tr": "Hull City, M. United'ı devirdi!",
+      "summary_tr": "İngiltere Premier Lig'in ilk haftasında Hull City sahasında Manchester United'ı ağırladı. Mücadeleyi ev sahibi ekip 2-0 kazandı ve sezona galibiyetle başladı."
     },
     {
       "title": "Galatasaray'da transfer ateşi yandı: Maç kadrosuna alınmadı",
@@ -291,54 +472,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-22T18:17:05.337979",
+      "fetched_at": "2026-08-22T19:17:57.712755",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-22T18:17:42.677706",
+      "processed_at": "2026-08-22T19:18:42.065050",
       "title_tr": "Galatasaray'da transfer ateşi yandı: Maç kadrosuna alınmadı",
       "summary_tr": "Galatasaray’ın kadrosuna katmak için yoğun çaba sarf ettiği Crystal Palace’ın Senegalli yıldızı Ismaila Sarr hakkında sıcak gelişmeler yaşanıyor. İşte detaylar..."
-    },
-    {
-      "title": "Norris 'still believes' in title fightback after Dutch GP pole",
-      "summary": "Lando Norris feels it's \"nice to know there's a possibility\" he could stay in the battle to retain his Formula 1 world championship, after taking pole position for the Dutch Grand Prix.",
-      "url": "https://www.skysports.com/f1/news/12040/13575704/lando-norris-mclaren-driver-says-he-still-believes-title-fightback-is-possible-after-claiming-dutch-gp-pole",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-lando-norris-mclaren_7328536.jpg?20260822181840",
-      "published": "2026-08-22T18:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127112",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-22T18:17:41.918281",
-      "title_tr": "Norris, Hollanda GP'sinde pole pozisyonunun ardından şampiyonluk mücadelesine 'hala inanıyor'",
-      "summary_tr": "Lando Norris, Hollanda Grand Prix'sinde pole pozisyonunu aldıktan sonra Formula 1 dünya şampiyonluğunu koruma mücadelesinde kalabilme ihtimalinin olduğunu bilmenin güzel olduğunu düşünüyor."
-    },
-    {
-      "title": "Hull stun Man Utd in perfect Premier League return",
-      "summary": "Highlights from the Premier League match between Hull and Manchester United.",
-      "url": "https://www.skysports.com/watch/video/13575830/hull-2-0-manchester-united-premier-league-highlights",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-hull-man-utd-premier-league_7328187.jpg?20260822151854",
-      "published": "2026-08-22T17:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127832",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-22T18:17:41.945439",
-      "title_tr": "Hull, Premier Lig'e mükemmel dönüşüyle ​​Man Utd'u şaşkına çevirdi",
-      "summary_tr": "Hull ile Manchester United arasındaki Premier Lig maçından öne çıkanlar."
     },
     {
       "title": "Galatasaray'dan İngiltere çıkarması! 'Sarr' operasyonu",
@@ -350,55 +492,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-22T18:16:28.524193",
+      "fetched_at": "2026-08-22T19:17:23.605362",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-22T18:17:42.506568",
+      "processed_at": "2026-08-22T19:18:41.649700",
       "title_tr": "Galatasaray'dan İngiltere çıkarması! 'Sarr' operasyonu",
       "summary_tr": "Süper Lig'de üst üste 5. kez şampiyonluk hedefleyen Galatasaray transfer çalışmalarına tüm hızıyla devam ediyor. Özellikle kanat ve orta saha bölgesine yapmak isteyen sarı-kırmızılılar rotayı İngiltere'ye çevirdi."
     },
     {
-      "title": "Okan Buruk: Transfer dönemi bitene kadar…",
-      "summary": "Okan Buruk, takımı Galatasaray’ın Erzurumspor FK deplasmanındaki farklı galibiyeti sonrası yayıncı kuruluşa konuştu.",
-      "url": "https://www.cnnturk.com/spor/futbol/okan-buruk-transfer-donemi-bitene-kadar-3457539",
+      "title": "Brentford beat lacklustre Spurs in comfortable opening day win",
+      "summary": "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T00:36:29",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:16:28.525062",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-22T18:17:42.576016",
-      "title_tr": "Okan Buruk: Transfer dönemi bitene kadar…",
-      "summary_tr": "Okan Buruk, takımı Galatasaray’ın Erzurumspor FK deplasmanındaki farklı galibiyeti sonrası yayıncı kuruluşa konuştu."
-    },
-    {
-      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
-      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-22T17:35:09",
+      "published": "2026-08-22T19:02:31",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.120318",
+      "fetched_at": "2026-08-22T19:15:04.825859",
       "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.898197",
-      "title_tr": "'Belki insanlar bizim üzerimizde uyumayı bırakır' - Hull hayallerinin geri dönüşünün tadını çıkarıyor",
-      "summary_tr": "Küme düşme favorisi Hull City, sezona Manchester United'ı yenerek iyi başlıyor ve menajerleri \"insanların yanıldığını kanıtlamaya çalışıyoruz\" diyor."
+      "processed_at": "2026-08-22T19:18:41.028646",
+      "title_tr": "Brentford, rahat açılış günü galibiyetinde sönük Spurs'u yendi",
+      "summary_tr": "Tottenham Hotspur'un Roberto De Zerbi yönetimindeki Premier Lig sezonu, Gtech Community Stadyumu'nda baskın Brentford takımına 3-0 yenilerek kasvetli bir başlangıç ​​yapıyor."
     },
     {
       "title": "Arsenal start title defence with comfortable win over Coventry",
@@ -410,193 +531,72 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.122116",
+      "fetched_at": "2026-08-22T19:15:04.826622",
       "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.904796",
+      "processed_at": "2026-08-22T19:18:41.030337",
       "title_tr": "Arsenal şampiyonluk savunmasına Coventry karşısında rahat bir galibiyetle başladı",
-      "summary_tr": "Premier Lig sezonunun Emirates Stadyumu'ndaki açılış maçında Kai Havertz, Bukayo Saka ve Martin Odegaard'ın golleri, şampiyon Arsenal'e yeni gelen Coventry City'yi 3-0'lık rahat bir galibiyete taşıdı."
+      "summary_tr": "Premier Lig sezonunun Emirates Stadyumu'ndaki açılış maçında Kai Havertz, Bukayo Saka ve Martin Odegaard'ın golleri, şampiyon Arsenal'in yeni oyuncu Coventry City'yi 3-0'lık rahat bir galibiyetle geçmesini sağladı."
     },
     {
-      "title": "Can Pocognoli afford to continue McBurnie's Scotland exile?",
-      "summary": "With a fresh face in the Scotland dugout, are excuses running dry about whether Oli McBurnie should feature in Sebastien Pocognoli's first squad next month?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crrvr9xgqx5o?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+      "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T14:34:07",
+      "published": "2026-08-22T19:06:02",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:13:59.122716",
+      "fetched_at": "2026-08-22T19:15:04.826773",
       "priority_score": 55,
       "categories": [
-        "breaking_news"
+        "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.908625",
-      "title_tr": "Pocognoli, McBurnie'nin İskoçya'daki sürgününe devam edebilecek mi?",
-      "summary_tr": "İskoçya yedek kulübesinde yeni bir yüzle karşılaşan Oli McBurnie'nin önümüzdeki ay Sebastien Pocognoli'nin ilk kadrosunda yer alıp almayacağı konusunda bahaneler tükeniyor mu?"
+      "processed_at": "2026-08-22T19:18:41.031008",
+      "title_tr": "Man Utd 'hazır görünmüyordu' ama Carrick'e zarar vermek sakinliğini koruyor",
+      "summary_tr": "Manchester United patronu Michael Carrick, yeni yükselen Hull City'deki şok mağlubiyete rağmen paniğe kapılmayı reddediyor."
     },
     {
-      "title": "Brentford v Tottenham: Premier League – live",
-      "summary": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO⚽ Today’s scores | Sign up for Football Daily | Mail ScottThe teams are out! Brentford wear their red and white stripes, while Spurs are in their blue, pink, purple and many more colours away kit. According to the marketing blurb, which p",
-      "url": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live",
+      "title": "Tonali nightmare as Sangare stars - Brentford v Spurs player ratings",
+      "summary": "How Brentford and Tottenham's players rated following their Premier League match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp878q13v72o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T17:59:14",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-08-22T18:29:05",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:35.167780",
-      "priority_score": 53,
+      "fetched_at": "2026-08-22T19:15:04.826907",
+      "priority_score": 55,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.948174",
-      "title_tr": "Brentford - Tottenham: Premier Lig – canlı",
-      "summary_tr": "⚽ Yeni görünümlü Spurs, Brentford'a kısa bir yolculuk yapıyor. 17.30 (BST) KO⚽ Bugünün skorları | Futbol Günlük'e kaydolun | Mail ScottTakımlar çıktı! Brentford kırmızı ve beyaz şeritlerini giyerken, Spurs mavi, pembe, mor ve daha birçok renkteki deplasman formasını giyiyor. Pazarlama tanıtım yazısına göre, hangi p"
+      "processed_at": "2026-08-22T19:18:41.031920",
+      "title_tr": "Sangare yıldızları olarak Tonali kabusu - Brentford - Spurs oyuncu puanları",
+      "summary_tr": "Brentford ve Tottenham'ın oyuncuları Premier Lig karşılaşmasının ardından nasıl puan aldı?"
     },
     {
-      "title": "Jack Clarke’s last-minute strike secures Ipswich winning return against Sunderland",
-      "summary": "It would be fascinating to know which recruitment algorithms or eagle-eyed staff in Ipswich’s recruitment department spotted the potential in Emersonn to score the goals to keep them in the Premier League.Thirteen games, no goals and a serious knee injury at the Brazilian side Athletico Paranaense; ",
-      "url": "https://www.theguardian.com/football/2026/aug/22/ipswich-sunderland-premier-league-match-report",
+      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T16:23:36",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-08-22T19:07:15",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-22T18:14:35.169312",
-      "priority_score": 53,
+      "fetched_at": "2026-08-22T19:15:04.827039",
+      "priority_score": 55,
       "categories": [
-        "match_results",
-        "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-08-22T18:17:41.966778",
-      "title_tr": "Jack Clarke'ın son dakika vuruşu Ipswich'in Sunderland karşısında galibiyet almasını sağladı",
-      "summary_tr": "Ipswich'in işe alım departmanındaki hangi işe alım algoritmalarının veya keskin gözlü personelin, Emersonn'un onları Premier Lig'de tutacak golleri atma potansiyelini fark ettiğini bilmek büyüleyici olurdu. Brezilya ekibi Athletico Paranaense'de on üç maç, gol yok ve ciddi bir diz sakatlığı;"
-    },
-    {
-      "title": "Fenerbahçe’nin yeni yıldızı Barcelona’dan geliyor: Herkesi şaşırtan isim",
-      "summary": "Fenerbahçe’de transfer çalışmalarında gözler bu kez Barcelona’ya çevrildi. Sarı-lacivertli yönetimin, genç oyuncu için Barcelona ile görüşeceği ifade edildi.",
-      "url": "https://www.yenisafak.com/galeri/spor/fenerbahcenin-yeni-yildizi-barcelonadan-geliyor-herkesi-sasirtan-isim-4850076",
-      "image_url": null,
-      "published": "2026-08-22T07:52:20",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:17:05.338888",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "la_liga",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-22T18:17:42.769993",
-      "title_tr": "Fenerbahçe’nin yeni yıldızı Barcelona’dan geliyor: Herkesi şaşırtan isim",
-      "summary_tr": "Fenerbahçe’de transfer çalışmalarında gözler bu kez Barcelona’ya çevrildi. Sarı-lacivertli yönetimin, genç oyuncu için Barcelona ile görüşeceği ifade edildi."
-    },
-    {
-      "title": "Okan Buruk’tan Galatasaraylı taraftarları heyecanlandıran açıklama: Transfer için sayı verdi",
-      "summary": "Galatasaray’da transfer döneminin en hareketli günleri yaşanıyor. Erzurumspor karşılaşmasının ardından konuşan Okan Buruk, sarı-kırmızılı taraftarların merak ettiği soruya yanıt verdi. Tecrübeli teknik adamın kadro planlamasına ilişkin kullandığı ifadeler, önümüzdeki günlerde yeni transferlerin peş ",
-      "url": "https://www.yenisafak.com/galeri/spor/okan-buruktan-galatasarayli-taraftarlari-heyecanlandiran-aciklama-transfer-icin-sayi-verdi-4850061",
-      "image_url": null,
-      "published": "2026-08-22T06:57:22",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:17:05.339229",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-22T18:17:42.807671",
-      "title_tr": "Okan Buruk’tan Galatasaraylı taraftarları heyecanlandıran açıklama: Transfer için sayı verdi",
-      "summary_tr": "Galatasaray’da transfer döneminin en hareketli günleri yaşanıyor. Erzurumspor karşılaşmasının ardından konuşan Okan Buruk, sarı-kırmızılı taraftarların merak ettiği soruya yanıt verdi. Tecrübeli teknik adamın kadro planlamasına ilişkin kullandığı ifadeler, önümüzdeki günlerde yeni transferlerin peş"
-    },
-    {
-      "title": "Fer Lopez scores twice in Wolves win",
-      "summary": "Fer Lopez bagged a brace as Wolves secured their first victory of the Championship season with a convincing 3-1 success over Preston at Deepdale.",
-      "url": "https://www.skysports.com/football/preston-north-end-vs-wolverhampton-wanderers/report/560515",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-wolves-preston_7328252.jpg?20260822155831",
-      "published": "2026-08-22T17:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127398",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-22T18:17:41.927407",
-      "title_tr": "Fer Lopez, Wolves'un galibiyetinde iki gol attı",
-      "summary_tr": "Wolves, Deepdale'de Preston'a karşı 3-1'lik ikna edici bir galibiyetle Şampiyonluk sezonundaki ilk zaferini elde ederken, Fer Lopez de destek verdi."
-    },
-    {
-      "title": "Everton down Palace to spoil Sage’s Premier League welcome",
-      "summary": "Highlights from the Premier League match between Everton and Crystal Palace.",
-      "url": "https://www.skysports.com/watch/video/13575973/everton-2-0-crystal-palace-premier-league-highlights",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-everton_7328441.jpg?20260822172040",
-      "published": "2026-08-22T17:18:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127558",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-22T18:17:41.933087",
-      "title_tr": "Everton, Sage'in Premier Lig'deki karşılamasını bozmak için Saray'ı mağlup etti",
-      "summary_tr": "Everton ile Crystal Palace arasındaki Premier Lig maçından öne çıkanlar."
-    },
-    {
-      "title": "Clarke's late strike gives Ipswich winning return to the Premier League",
-      "summary": "FREE TO WATCH: Highlights from Ipswich's game against Sunderland in the Premier League.",
-      "url": "https://www.skysports.com/watch/video/13575982/ipswich-2-1-sunderland-premier-league-highlights",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-ipswich-sunderland_7328387.jpg?20260822165838",
-      "published": "2026-08-22T17:21:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:14:09.127625",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-22T18:17:41.936423",
-      "title_tr": "Clarke'ın geç vuruşu Ipswich'in Premier Lig'e galibiyetle dönmesini sağladı",
-      "summary_tr": "İZLEMESİ ÜCRETSİZ: Premier Lig'de Ipswich'in Sunderland'e karşı oynadığı maçtan önemli anlar."
-    },
-    {
-      "title": "Kayserispor, Iğdır'da tek golle galip!",
-      "summary": "Kayserispor, Trendyol 1. Lig’in 3. haftasında Iğdır FK'yı 1-0 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/kayserispor-igdirda-tek-golle-galip-43281947",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a89e45cde691a4aa8c65de8.jpg",
-      "published": "2026-08-22T18:03:47",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-22T18:16:05.916128",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-22T18:17:42.118651",
-      "title_tr": "Kayserispor, Iğdır'da tek golle galip!",
-      "summary_tr": "Kayserispor, Trendyol 1. Lig’in 3. haftasında Iğdır FK'yı 1-0 mağlup etti."
+      "processed_at": "2026-08-22T19:18:41.032988",
+      "title_tr": "'Belki insanlar bizim üzerimizde uyumayı bırakır' - Hull hayallerinin geri dönüşünün tadını çıkarıyor",
+      "summary_tr": "Küme düşme favorisi Hull City, sezona Manchester United'ı yenerek iyi başlıyor ve menajerleri \"insanların yanıldığını kanıtlamaya çalışıyoruz\" diyor."
     }
   ]
 }
