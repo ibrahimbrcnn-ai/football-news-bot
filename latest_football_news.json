@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-08-23T18:18:46.992420",
+  "timestamp": "2026-08-23T19:19:29.760321",
   "total_items": 30,
   "news": [
+    {
+      "title": "European football: Mohamed Salah scores first goals in Trabzonspor victory",
+      "summary": "Former Liverpool forward nets doubleHarry Kane named player of year in GermanyMohamed Salah scored his first goals for Trabzonspor with a brace in their 2-1 win over Istanbul Basaksehir.The former Liverpool forward joined the Super Lig side on a two-year deal at the start of August and made his debu",
+      "url": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "image_url": null,
+      "published": "2026-08-23T18:27:34",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:15:08.496760",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-23T19:18:08.121854",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
     {
       "title": "Harry Kane contract extension at Bayern Munich: 'Talks have begun'",
       "summary": "Bayern Munich's board member for sport Max Eberl has confirmed that talks over a potential contract extension for Harry Kane have begun.",
@@ -12,14 +33,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:47.454202",
+      "fetched_at": "2026-08-23T19:15:33.129220",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-23T18:17:20.407182",
+      "processed_at": "2026-08-23T19:18:08.158420",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -33,7 +54,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:47.453246",
+      "fetched_at": "2026-08-23T19:15:33.128341",
       "priority_score": 96,
       "categories": [
         "transfers",
@@ -41,28 +62,7 @@
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-08-23T18:17:20.397175",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "European football: Bayern Munich’s Harry Kane named player of the year in Germany",
-      "summary": "Striker becomes first Englishman to win the awardTeammate Michael Olise finishes secondBayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on Sunday, finishing ahead of teammate Michael Olise. Kicker magazine revealed the results ",
-      "url": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
-      "image_url": null,
-      "published": "2026-08-23T14:12:28",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:14:25.761277",
-      "priority_score": 93,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-23T18:17:20.380187",
+      "processed_at": "2026-08-23T19:18:08.149134",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -76,14 +76,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:54.478585",
+      "fetched_at": "2026-08-23T19:16:43.849612",
       "priority_score": 91,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-23T18:17:20.619184",
+      "processed_at": "2026-08-23T19:18:08.362526",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -97,12 +97,90 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:16:10.686114",
+      "fetched_at": "2026-08-23T19:16:56.939658",
       "priority_score": 91,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-23T18:17:20.695258",
+      "processed_at": "2026-08-23T19:18:08.450556",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'Up front next week?' Maresca's Guehi gamble pays off",
+      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T19:13:12",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:14:34.596580",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T19:18:08.050030",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Brighton dominate ten-man Villa",
+      "summary": "Brighton start their season with an emphatic win at home against Europa League winners Aston Villa, with four first-half goals.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T19:02:54",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:14:34.597561",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-23T19:18:08.054137",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "McIlroy makes dream start in two-shot swing with Clark!",
+      "summary": "Rory McIlroy makes a dream start on the final round of the BMW Championship to chase Wyndham Clark, who bogeyed at the first.",
+      "url": "https://www.skysports.com/watch/video/13576415/rory-mcilroy-makes-dream-start-with-birdie-to-chase-wyndham-clark-in-missouri",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-golf-clark-rory_7329505.jpg?20260823192613",
+      "published": "2026-08-23T19:18:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:14:45.036587",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-23T19:18:08.090891",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Nuri Şahin'den Salah yorumu: 'Çalıştık ama başarılı olamadık!'",
+      "summary": "RAMS Başakşehir Teknik Direktörü Nuri Şahin, Trabzonspor karşısında hak ettikleri bir mağlubiyet aldıklarını söyledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/nuri-sahinden-salah-yorumu-calistik-ama-basarili-olamadik-43282807",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8b4223b506f6e337380384.jpg",
+      "published": "2026-08-23T19:01:46",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:16:36.196270",
+      "priority_score": 61,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-08-23T19:18:08.232181",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -116,33 +194,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T18:13:50.438607",
-      "priority_score": 85,
+      "fetched_at": "2026-08-23T19:14:34.598069",
+      "priority_score": 80,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T18:17:20.289016",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Up front next week?' Maresca's Guehi gamble pays off",
-      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T16:26:44",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:13:50.437774",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T18:17:20.286080",
+      "processed_at": "2026-08-23T19:18:08.058912",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -156,32 +214,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:25.760158",
-      "priority_score": 83,
+      "fetched_at": "2026-08-23T19:15:08.496464",
+      "priority_score": 78,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T18:17:20.361766",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Liverpool 90+9'da golü buldu, sezona 1 puanla başladı!",
-      "summary": "Liverpool, İngiltere Premier Lig'in ilk haftasında Newcastle United ile 2-2 berabere kalırken, eşitlik golünü 90+9'da penaltıdan kaydetti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/liverpool-90-9da-golu-buldu-sezona-1-puanla-basladi-43282787",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8b373cb506f6e337380357.jpg",
-      "published": "2026-08-23T18:09:02",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:15:48.458873",
-      "priority_score": 81,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-23T18:17:20.490037",
+      "processed_at": "2026-08-23T19:18:08.117303",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -195,34 +234,34 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:25.760552",
+      "fetched_at": "2026-08-23T19:15:08.496989",
       "priority_score": 78,
       "categories": [
         "transfers",
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-08-23T18:17:20.366938",
+      "processed_at": "2026-08-23T19:18:08.126924",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Akyazı'da Salah fırtınası!",
-      "summary": "Trabzonspor, Süper Lig'in 2. haftasında ağırladığı Başakşehir'i 3-1 mağlup ederken, mücadeleye Muhammed Salah damgasını vurdu.. Mısırlı yıldız attığı 3 golle bordo-mavililere galibiyeti getiren isim oldu. Fırtına böylece ligde ilk galibiyetini alıp puanını 4'e çıkarırken, ilk yenilgisini alan Başakş",
-      "url": "https://www.haberturk.com/trabzonspor-basaksehir-maci-canli-anlatim-ts-basaksehir-super-lig-2-hafta-maci-kac-kac-mac-skoru-ve--3907360-spor",
+      "summary": "Trabzonspor, Süper Lig'in 2. haftasında ağırladığı Başakşehir'i 2-1 mağlup ederken, mücadeleye Muhammed Salah damgasını vurdu.. Mısırlı yıldız attığı 2 golle bordo-mavililere galibiyeti getiren isim oldu. Fırtına böylece ligde ilk galibiyetini alıp puanını 4'e çıkarırken, ilk yenilgisini alan Başakş",
+      "url": "https://www.haberturk.com/trabzonspor-basaksehir-2-1-mac-sonucu-ve-ozeti-ts-basaksehir-super-lig-2-hafta-maci-kac-kac-bitti-3907360-spor",
       "image_url": "https://im.haberturk.com/l/2026/08/22/ver1787507939/3907360/jpg/1280x1280",
-      "published": "2026-08-23T17:59:48",
+      "published": "2026-08-23T18:57:44",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:38.550988",
+      "fetched_at": "2026-08-23T19:16:21.472082",
       "priority_score": 78,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-23T18:17:20.429599",
+      "processed_at": "2026-08-23T19:18:08.177825",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -236,19 +275,19 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:48.459338",
+      "fetched_at": "2026-08-23T19:16:36.196735",
       "priority_score": 76,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-23T18:17:20.538841",
+      "processed_at": "2026-08-23T19:18:08.284615",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
-      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weaknessHull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday.It was a dis",
+      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weaknessHull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a victory over Manchester United on Saturday.It was a disastrous",
       "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
       "image_url": null,
       "published": "2026-08-23T15:07:39",
@@ -256,13 +295,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:25.760896",
+      "fetched_at": "2026-08-23T19:15:08.497286",
       "priority_score": 73,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T18:17:20.373821",
+      "processed_at": "2026-08-23T19:18:08.133691",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -276,13 +315,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:38.551721",
+      "fetched_at": "2026-08-23T19:16:21.472711",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-23T18:17:20.475426",
+      "processed_at": "2026-08-23T19:18:08.217761",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -296,14 +335,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:16:43.795290",
+      "fetched_at": "2026-08-23T19:17:29.551058",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-23T18:17:21.068960",
+      "processed_at": "2026-08-23T19:18:08.778259",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -317,33 +356,33 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:16:43.796366",
+      "fetched_at": "2026-08-23T19:17:29.551906",
       "priority_score": 72,
       "categories": [
         "match_results",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-23T18:17:21.145082",
+      "processed_at": "2026-08-23T19:18:08.842666",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Salah zorgt met eerste goals voor overwinning Trabzonspor",
-      "summary": "De eerste doelpunten van Mohamed Salah namens Trabzonspor zijn een feit. De 34-jarige aanvaller scoorde tegen Istanbul Basaksehir voor het eerst sinds zijn overstap naar Turkije.",
-      "url": "https://www.vi.nl/nieuws/salah-heeft-eerste-treffer-in-turkse-dienst-te-pakken",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/88eddbf0f342f9f1737c7b81663adbb875262ae7.jpg?width=1200",
-      "published": "2026-08-23T17:58:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Liverpool 90+9'da golü buldu, sezona 1 puanla başladı!",
+      "summary": "Liverpool, İngiltere Premier Lig'in ilk haftasında Newcastle United ile 2-2 berabere kalırken, eşitlik golünü 90+9'da penaltıdan kaydetti.",
+      "url": "https://www.hurriyet.com.tr/sporarena/liverpool-90-9da-golu-buldu-sezona-1-puanla-basladi-43282787",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8b373cb506f6e337380357.jpg",
+      "published": "2026-08-23T18:09:02",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:17:17.784383",
-      "priority_score": 72,
+      "fetched_at": "2026-08-23T19:16:36.196345",
+      "priority_score": 71,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-23T18:17:21.280993",
+      "processed_at": "2026-08-23T19:18:08.237886",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -357,13 +396,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:48.459216",
+      "fetched_at": "2026-08-23T19:16:36.196623",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-23T18:17:20.525099",
+      "processed_at": "2026-08-23T19:18:08.271275",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -377,13 +416,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T18:13:50.438748",
+      "fetched_at": "2026-08-23T19:14:34.597798",
       "priority_score": 70,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-23T18:17:20.290081",
+      "processed_at": "2026-08-23T19:18:08.056447",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -397,13 +436,33 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T18:13:50.438892",
+      "fetched_at": "2026-08-23T19:14:34.597924",
       "priority_score": 70,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T18:17:20.290939",
+      "processed_at": "2026-08-23T19:18:08.057525",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Embolo laat Europa achter zich voor avontuur in de MLS",
+      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/embolo-laat-europa-achter-zich-voor-avontuur-in-de-mls",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-08-23T18:54:34",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:18:03.144727",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-23T19:18:08.975956",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -417,34 +476,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:01.846648",
+      "fetched_at": "2026-08-23T19:14:45.036039",
       "priority_score": 66,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T18:17:20.302681",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Brighton blow Villa away in first-half masterclass at The Amex",
-      "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
-      "url": "https://www.skysports.com/watch/video/13576325/brighton-4-0-aston-villa-premier-league-highlights",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7329251.jpg?20260823161457",
-      "published": "2026-08-23T16:13:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:14:01.847265",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T18:17:20.333706",
+      "processed_at": "2026-08-23T19:18:08.063642",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -458,54 +496,31 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T18:15:48.458954",
+      "fetched_at": "2026-08-23T19:16:36.196409",
       "priority_score": 66,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-23T18:17:20.497134",
+      "processed_at": "2026-08-23T19:18:08.244614",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Wasteful Palace punished by Everton in Sage's first game",
-      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
+      "title": "Kane first Englishman to win Germany's player of the year award",
+      "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-22T19:00:58",
+      "published": "2026-08-23T14:16:55",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T18:13:50.439567",
+      "fetched_at": "2026-08-23T19:14:34.598191",
       "priority_score": 65,
       "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
+        "breaking_news"
       ],
-      "processed_at": "2026-08-23T18:17:20.297259",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'dan golcü transferinde Fabio Silva hamlesi!",
-      "summary": "Trabzonspor'da transferde sıcak gelişmeler yaşanmaya devam ediyor. Bordo-mavililerin son olarak Borussia Dortmund'un golcü oyuncularından Fabio Silva ile ilgilendiği A Spor muhabiri Yunus Emre Sel tarafından...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspordan-golcu-transferinde-fabio-silva-hamlesi",
-      "image_url": "https://iaftm.tmgrup.com.tr/3728c8/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/08/23/trabzonspordan-golcu-transferinde-fabio-silva-hamlesi-1787490030951.jpeg",
-      "published": "2026-08-23T13:01:03",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:16:22.810225",
-      "priority_score": 64,
-      "categories": [
-        "transfers",
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-23T18:17:21.003703",
+      "processed_at": "2026-08-23T19:18:08.060463",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -519,14 +534,33 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:25.761655",
+      "fetched_at": "2026-08-23T19:15:08.497631",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-08-23T18:17:20.386366",
+      "processed_at": "2026-08-23T19:18:08.139435",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Salah zorgt met eerste goals voor overwinning Trabzonspor",
+      "summary": "De eerste doelpunten van Mohamed Salah namens Trabzonspor zijn een feit. De 34-jarige aanvaller scoorde tegen Istanbul Basaksehir voor het eerst sinds zijn overstap naar Turkije.",
+      "url": "https://www.vi.nl/nieuws/salah-heeft-eerste-treffer-in-turkse-dienst-te-pakken",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/88eddbf0f342f9f1737c7b81663adbb875262ae7.jpg?width=1200",
+      "published": "2026-08-23T17:58:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-23T19:18:03.144999",
+      "priority_score": 62,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-08-23T19:18:09.053186",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -540,14 +574,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:01.846983",
+      "fetched_at": "2026-08-23T19:14:45.036481",
       "priority_score": 61,
       "categories": [
         "transfers",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-08-23T18:17:20.318616",
+      "processed_at": "2026-08-23T19:18:08.084508",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -561,52 +595,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-23T18:14:47.453775",
+      "fetched_at": "2026-08-23T19:15:33.128828",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-08-23T18:17:20.401526",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Anthony Dennis, Göztepe’den Birleşik Arap Emirlikleri’ne transfer oldu",
-      "summary": "Göztepe, Anthony Dennis için Al-Jazira Club ile anlaşmaya varıldığını duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/anthony-dennis-goztepeden-birlesik-arap-emirliklerine-transfer-oldu-3457929",
-      "image_url": null,
-      "published": "2026-08-23T17:38:28",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:16:10.686739",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-23T18:17:20.742861",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "TRABZONSPOR BAŞAKŞEHİR MAÇ KADROSU: Trabzonspor İstanbul Başakşehir maçı ne zaman, hangi kanalda, saat kaçta?",
-      "summary": "Trabzonspor İstanbul Başakşehir maçı hakkında detaylar sorgulanıyor. Süper Lig'in 2. haftasında Trabzonspor sahasında Başakşehir ile karşı karşıya gelecek. Ligin ilk haftasında Kasımpaşa ile berabere kalan bordo-mavililer mutlak galibiyeti hedefliyor. Futbolseverler Trabzonspor İstanbul Başakşehir m",
-      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-basaksehir-mac-kadrosu-trabzonspor-istanbul-basaksehir-maci-ne-zaman-hangi-kanalda-saat-kacta-3457913",
-      "image_url": null,
-      "published": "2026-08-23T16:43:54",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T18:16:10.687019",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-23T18:17:20.767587",
+      "processed_at": "2026-08-23T19:18:08.153188",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
