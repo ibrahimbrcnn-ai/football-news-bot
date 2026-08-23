@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T16:17:56.604234",
+  "timestamp": "2026-08-23T17:17:17.291252",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-23T16:13:43.328600",
+      "fetched_at": "2026-08-23T17:12:57.083280",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-23T16:16:26.755476",
+      "processed_at": "2026-08-23T17:15:49.614352",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -33,14 +33,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.643640",
+      "fetched_at": "2026-08-23T17:12:31.004844",
       "priority_score": 93,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-23T16:16:26.731061",
+      "processed_at": "2026-08-23T17:15:49.597603",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -54,13 +54,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.169644",
+      "fetched_at": "2026-08-23T17:11:53.766942",
       "priority_score": 85,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T16:16:26.671595",
+      "processed_at": "2026-08-23T17:15:49.527382",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -74,236 +74,52 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.643914",
+      "fetched_at": "2026-08-23T17:12:31.004009",
       "priority_score": 83,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T16:16:26.734732",
+      "processed_at": "2026-08-23T17:15:49.583414",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Man City 'completely deserved to win' - Maresca",
-      "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "title": "'Up front next week?' Guehi proves Maresca's midfield masterstroke",
+      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-23T15:52:45",
+      "published": "2026-08-23T16:26:44",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.170296",
+      "fetched_at": "2026-08-23T17:11:53.766453",
       "priority_score": 80,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-23T16:16:26.674190",
+      "processed_at": "2026-08-23T17:15:49.526173",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Brighton blow Villa away in first-half masterclass at The Amex",
-      "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
-      "url": "https://www.skysports.com/watch/video/13576325/brighton-4-0-aston-villa-premier-league-highlights",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7329251.jpg?20260823161457",
-      "published": "2026-08-23T16:13:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.296027",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.688802",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Nightmare start! Aston Villa concede four first-half goals in thumping by Brighton",
-      "summary": "Aston Villa produced one of the worst opening 45 minutes in Premier League history on their way to a heavy 4-0 defeat at Brighton.",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/report/559450",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-brighton_7329087.jpg?20260823141243",
-      "published": "2026-08-23T15:55:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.296111",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.692831",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Newcastle United v Liverpool: Premier League – live",
-      "summary": "⚽ Premier League updates from the 4.30pm (BST) kick-off⚽ Live scores | Get the Football Daily email | Drop us a lineDelving into the Liverpool XI, there are two eye-catching selections.Firstly, Rio Ngumoha: the 17-year-old looks like he is lining up on the right wing, with Cody Gakpo on the left. Af",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
-      "image_url": null,
-      "published": "2026-08-23T16:04:26",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.642505",
-      "priority_score": 78,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.713949",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
-      "summary": "West Brom’s head coach, James Morrison, insisted his side must “stay humble” after Isaac Price inspired them to a 3-1 comeback win against promotion favourites Burnley in the Championship at the Hawthorns. The Northern Ireland international scored twice in the second half after setting up Harry Whit",
-      "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
-      "image_url": null,
-      "published": "2026-08-23T13:24:14",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.644099",
-      "priority_score": 78,
-      "categories": [
-        "transfers",
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-23T16:16:26.739097",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'la anılan Nunez Al Diriyah'ta!",
-      "summary": "Suudi Arabistan ekibi Al Diriyah, Al Hilal'den Uruguaylı golcü futbolcu Darwin Nunez'i kiralık olarak renklerine bağladı. Darwin Nunez, geçtiğimiz günlerde Trabzonspor'un transfer listesinde yer almıştı.",
-      "url": "https://www.haberturk.com/trabzonspor-la-adi-anilan-darwin-nunez-al-diriyah-a-kiralandi-3907517-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/23/ver1787486913/3907517/jpg/1280x1280",
-      "published": "2026-08-23T12:09:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:14:33.848677",
-      "priority_score": 78,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-08-23T16:16:26.813819",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man City survive huge Bournemouth scare in Maresca's first game",
-      "summary": "Manchester City survived a serious scare in Enzo Maresca's first Premier League game in charge, forced to come from behind to earn a dramatic, late 2-1 victory over Bournemouth.",
-      "url": "https://www.skysports.com/football/manchester-city-vs-bournemouth/report/559451",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-josko-gvardiol-premier-league_7329227.jpg?20260823155933",
-      "published": "2026-08-23T16:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.296312",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.706043",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Darwin Nunez imzayı attı! Resmi açıklama",
-      "summary": "Trabzonspor'un uzun süredir transfer gündeminde olan Uruguaylı golcü Darwin Nunez'in yeni takımı belli oldu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/darwin-nunez-imzayi-atti-resmi-aciklama-43282534",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8adfbf9858e588ff03cf8f.jpg",
-      "published": "2026-08-23T11:58:32",
+      "title": "Dünya yıldızı Trabzon'da hesabı açtı! Mohamed Salah'dan ilk gol",
+      "summary": "Trabzonspor'un dünyaca ünlü yıldızı Mohamed Salah, hesabı Başakşehir karşısında açtı. Karşılaşmanın ilk golüne imza atan Mısırlı yıldız, bordo-mavili formayla ilk kez gol sevinci yaşadı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/dunya-yildizi-trabzonda-hesabi-acti-mohamed-salahdan-ilk-gol-43282732",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8b259db506f6e3373802f3.jpg",
+      "published": "2026-08-23T16:53:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T16:14:45.308035",
+      "fetched_at": "2026-08-23T17:14:08.723916",
       "priority_score": 76,
       "categories": [
-        "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-23T16:16:26.840495",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe’de ayrılık! Bonservisi belli oldu",
-      "summary": "Süper Lig’de transfer döneminin bitmesine kısa süre kala Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor çalışmalarına devam ediyor. 4 büyükler başta olmak üzere diğer Süper Lig ekipleri de, kadrosunu güçlendirmek için yoğun mesai harcıyor. Günün transfer gelişmelerini anbean haberimizden öğrenebil",
-      "url": "https://www.hurriyet.com.tr/sporarena/live-fenerbahcede-ayrilik-bonservisi-belli-oldu-43282424",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ac31f9858e588ff03cf2e.jpg",
-      "published": "2026-08-23T10:02:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:14:45.308141",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-23T16:16:26.850501",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
-      "summary": "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T06:31:21",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.170180",
-      "priority_score": 75,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.673622",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
-      "summary": "Manchester United again struggled against a back five as their newly promoted hosts exploited a set-piece weaknessHull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday.It w",
-      "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
-      "image_url": null,
-      "published": "2026-08-23T15:07:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.643326",
-      "priority_score": 73,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.726658",
+      "processed_at": "2026-08-23T17:15:49.688259",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -317,136 +133,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T16:15:39.517390",
+      "fetched_at": "2026-08-23T17:15:07.883256",
       "priority_score": 72,
       "categories": [
         "match_results",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-23T16:16:27.165029",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
-      "summary": "Unai Emery gave a coy and cryptic response to questions about Ollie Watkins' absence from Aston Villa's squad for their Premier League defeat at Brighton.",
-      "url": "https://www.skysports.com/football/news/12040/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-emery-watkins-aston_7329317.jpg?20260823165701",
-      "published": "2026-08-23T16:46:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.295866",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-23T16:16:26.682989",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
-      "summary": "Striker wants move and said final year of deal was invalid29-year-old took his case to tribunal and Fifa but lostJean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in an attempt to have it ruled invalid by an independent Premier League tribunal and ",
-      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
-      "image_url": null,
-      "published": "2026-08-23T10:49:06",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:13:17.644402",
-      "priority_score": 68,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "world_cup"
-      ],
-      "processed_at": "2026-08-23T16:16:26.743624",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Marmoush op het punt om Man City te verlaten voor Spurs'",
-      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/marmoush-op-het-punt-om-net-als-savinho-man-city-te-verlaten-voor-spurs",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-08-23T16:03:34",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:16:22.282522",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-23T16:16:27.269636",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "TRABZONSPOR BAŞAKŞEHİR MAÇ KADROSU: Trabzonspor İstanbul Başakşehir maçı ne zaman, hangi kanalda, saat kaçta?",
-      "summary": "Trabzonspor İstanbul Başakşehir maçı hakkında detaylar sorgulanıyor. Süper Lig'in 2. haftasında Trabzonspor sahasında Başakşehir ile karşı karşıya gelecek. Ligin ilk haftasında Kasımpaşa ile berabere kalan bordo-mavililer mutlak galibiyeti hedefliyor. Futbolseverler Trabzonspor İstanbul Başakşehir m",
-      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-basaksehir-mac-kadrosu-trabzonspor-istanbul-basaksehir-maci-ne-zaman-hangi-kanalda-saat-kacta-3457913",
-      "image_url": null,
-      "published": "2026-08-23T16:43:54",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:15:08.611785",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-23T16:16:27.013526",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Kane first Englishman to win Germany's player of the year award",
-      "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T14:16:55",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.170029",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-23T16:16:26.672981",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Wasteful Palace punished by Everton in Sage's first game",
-      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-22T19:00:58",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.170840",
-      "priority_score": 65,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.678602",
+      "processed_at": "2026-08-23T17:15:50.184130",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -460,71 +154,417 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.295771",
+      "fetched_at": "2026-08-23T17:12:05.286476",
       "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-08-23T16:16:26.681464",
+      "processed_at": "2026-08-23T17:15:49.541369",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Aventure ends Diamond Necklace's unbeaten record",
-      "summary": "Diamond Necklace tasted defeat for the first time as Aventure served up a reminder of her top-class credentials in the Sumbe Prix Jean et Louis Romanet at Deauville.",
-      "url": "https://www.skysports.com/racing/news/12040/13576310/deauville-aventure-ends-diamond-necklaces-unbeaten-record-with-sumbe-prix-jean-et-louis-romanet-win",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-aventure-racing_7329230.jpg?20260823160133",
-      "published": "2026-08-23T15:56:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:55.296070",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-08-23T16:16:26.690293",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "M.City 90+2'de üç puanı kaptı!",
-      "summary": "İngiltere Premier Lig'de sezonun açılış haftasında Bournemouth'u konuk eden Manchester City, son bölümüne 1-0 geride girdiği karşılaşmayı 90+2'de Gvardiol'un attığı golle 2-1 kazanmayı başardı. City böylece, yeni teknik direktörü Enzo Maresca yönetiminde çıktığı ilk lig maçından üç puanla ayrıldı.",
-      "url": "https://www.haberturk.com/manchester-city-bournemouth-2-1-mac-sonucu-3907550-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/23/ver1787497859/3907550/jpg/1280x1280",
-      "published": "2026-08-23T15:11:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:14:33.848186",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.782331",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "PSV beleeft feestmiddag tegen FC Groningen met vijf goals en twee debutanten",
-      "summary": "PSV heeft FC Groningen op pijnlijke wijze zijn eerste puntenverlies van het seizoen bezorgd. De landskampioen beleefde een feestmiddag, met vijf treffers en twee debutanten: Filip Kostic en Lutsharel Geertruida.",
-      "url": "https://www.vi.nl/nieuws/psv-beleeft-feestmiddag-tegen-fc-groningen-met-vijf-goals-en-twee-debutanten",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/6478efccb3f12bbed68259689e13f23e6e3b0342.jpg?width=1200",
-      "published": "2026-08-23T14:24:00",
+      "title": "Salah heeft eerste treffer in Turkse dienst te pakken",
+      "summary": "Het eerste doelpunt van Mohamed Salah namens Trabzonspor is een feit. De 34-jarige aanvaller scoorde tegen Istanbul Basaksehir voor het eerst sinds zijn overstap naar Turkije.",
+      "url": "https://www.vi.nl/nieuws/salah-heeft-eerste-treffer-in-turkse-dienst-te-pakken",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/88eddbf0f342f9f1737c7b81663adbb875262ae7.jpg?width=1200",
+      "published": "2026-08-23T16:38:26",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-23T16:16:22.304317",
+      "fetched_at": "2026-08-23T17:15:46.004394",
       "priority_score": 57,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-08-23T17:15:50.350168",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Trabzonspor’da Muhammed Salah ilk golünü Başakşehir’e attı: Tribünler yıkıldı (VİDEO)",
+      "summary": "Süper Lig’in ikinci haftasında Trabzonspor sahasında Başakşehir’i ağırladı. Trabzonspor’un yeni transferi Muhammed Salah ilk golünü 10. dakikada Başakşehir’e karşı attı. Salah’ın attığı ilk golü haberimizden izleyebilirsiniz. Muhammed Salah Trabzonspor’daki ilk golünü haberimizde bulabilirsiniz.",
+      "url": "https://www.yenisafak.com/galeri/spor/salahin-trabzonspordaki-ilk-golunu-izle-salahin-basaksehire-attigi-golu-izle-video-izle-4850351",
+      "image_url": null,
+      "published": "2026-08-23T16:58:49",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:15:07.882159",
+      "priority_score": 82,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-23T17:15:50.120598",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Aston Villa 'must accept everything' - Emery after Brighton thrashing",
+      "summary": "Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T16:20:57",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:11:53.767451",
+      "priority_score": 80,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-23T17:15:49.530241",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Newcastle United v Liverpool: Premier League – live",
+      "summary": "⚽ Premier League updates from the 4.30pm (BST) kick-off⚽ Live scores | Get the Football Daily email | Drop us a lineDelving into the Liverpool XI, there are two eye-catching selections.Firstly, Rio Ngumoha: the 17-year-old looks like he is lining up on the right wing, with Cody Gakpo on the left. Af",
+      "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "image_url": null,
+      "published": "2026-08-23T17:00:15",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:31.003129",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.572137",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
+      "summary": "West Brom’s head coach, James Morrison, insisted his side must “stay humble” after Isaac Price inspired them to a 3-1 comeback win against promotion favourites Burnley in the Championship at the Hawthorns. The Northern Ireland international scored twice in the second half after setting up Harry Whit",
+      "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
+      "image_url": null,
+      "published": "2026-08-23T13:24:14",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:31.004242",
+      "priority_score": 78,
+      "categories": [
+        "transfers",
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-23T17:15:49.587486",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Trabzonspor'la anılan Nunez Al Diriyah'ta!",
+      "summary": "Suudi Arabistan ekibi Al Diriyah, Al Hilal'den Uruguaylı golcü futbolcu Darwin Nunez'i kiralık olarak renklerine bağladı. Darwin Nunez, geçtiğimiz günlerde Trabzonspor'un transfer listesinde yer almıştı.",
+      "url": "https://www.haberturk.com/trabzonspor-la-adi-anilan-darwin-nunez-al-diriyah-a-kiralandi-3907517-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/23/ver1787486913/3907517/jpg/1280x1280",
+      "published": "2026-08-23T12:09:35",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:13:55.218100",
+      "priority_score": 78,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-23T16:16:27.407748",
+      "processed_at": "2026-08-23T17:15:49.672445",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Darwin Nunez imzayı attı! Resmi açıklama",
+      "summary": "Trabzonspor'un uzun süredir transfer gündeminde olan Uruguaylı golcü Darwin Nunez'in yeni takımı belli oldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/darwin-nunez-imzayi-atti-resmi-aciklama-43282534",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8adfbf9858e588ff03cf8f.jpg",
+      "published": "2026-08-23T11:58:32",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:14:08.724147",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "match_results"
+      ],
+      "processed_at": "2026-08-23T17:15:49.709991",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe’de ayrılık! Bonservisi belli oldu",
+      "summary": "Süper Lig’de transfer döneminin bitmesine kısa süre kala Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor çalışmalarına devam ediyor. 4 büyükler başta olmak üzere diğer Süper Lig ekipleri de, kadrosunu güçlendirmek için yoğun mesai harcıyor. Günün transfer gelişmelerini anbean haberimizden öğrenebil",
+      "url": "https://www.hurriyet.com.tr/sporarena/live-fenerbahcede-ayrilik-bonservisi-belli-oldu-43282424",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ac31f9858e588ff03cf2e.jpg",
+      "published": "2026-08-23T10:02:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:14:08.724251",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-23T17:15:49.720671",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
+      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weaknessHull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday.It was a dis",
+      "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
+      "image_url": null,
+      "published": "2026-08-23T15:07:39",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:31.004525",
+      "priority_score": 73,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.592828",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
+      "summary": "Unai Emery gave a coy and cryptic response to questions about Ollie Watkins' absence from Aston Villa's squad for their Premier League defeat at Brighton.",
+      "url": "https://www.skysports.com/football/news/12040/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-emery-watkins-aston_7329317.jpg?20260823165701",
+      "published": "2026-08-23T16:46:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:05.286563",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-23T17:15:49.543102",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City 'completely deserved to win' - Maresca",
+      "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T15:52:45",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:11:53.767586",
+      "priority_score": 70,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.531053",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Brighton blow Villa away in first-half masterclass at The Amex",
+      "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
+      "url": "https://www.skysports.com/watch/video/13576325/brighton-4-0-aston-villa-premier-league-highlights",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7329251.jpg?20260823161457",
+      "published": "2026-08-23T16:13:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:05.286725",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.550132",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Nightmare start! Aston Villa concede four first-half goals in thumping by Brighton",
+      "summary": "Aston Villa produced one of the worst opening 45 minutes in Premier League history on their way to a heavy 4-0 defeat at Brighton.",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/report/559450",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-brighton_7329087.jpg?20260823141243",
+      "published": "2026-08-23T15:55:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:05.286877",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.557546",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "TRABZONSPOR BAŞAKŞEHİR MAÇ KADROSU: Trabzonspor İstanbul Başakşehir maçı ne zaman, hangi kanalda, saat kaçta?",
+      "summary": "Trabzonspor İstanbul Başakşehir maçı hakkında detaylar sorgulanıyor. Süper Lig'in 2. haftasında Trabzonspor sahasında Başakşehir ile karşı karşıya gelecek. Ligin ilk haftasında Kasımpaşa ile berabere kalan bordo-mavililer mutlak galibiyeti hedefliyor. Futbolseverler Trabzonspor İstanbul Başakşehir m",
+      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-basaksehir-mac-kadrosu-trabzonspor-istanbul-basaksehir-maci-ne-zaman-hangi-kanalda-saat-kacta-3457913",
+      "image_url": null,
+      "published": "2026-08-23T16:43:54",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:14:33.508291",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-23T17:15:49.893225",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Kane first Englishman to win Germany's player of the year award",
+      "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T14:16:55",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:11:53.767326",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-23T17:15:49.529258",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Wasteful Palace punished by Everton in Sage's first game",
+      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-22T19:00:58",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:11:53.768195",
+      "priority_score": 65,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.536295",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
+      "summary": "Striker wants move and said final year of deal was invalid29-year-old took his case to tribunal and Fifa but lostJean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in an attempt to have it ruled invalid by an independent Premier League tribunal and ",
+      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
+      "image_url": null,
+      "published": "2026-08-23T10:49:06",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:31.005168",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "world_cup"
+      ],
+      "processed_at": "2026-08-23T17:15:49.602337",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Maçta iki gol var!",
+      "summary": "Trendyol Süper Lig'in 2. haftasında Trabzonspor sahasında Başakşehir'i ağırlıyor.. Bordo-mavililer rakibini mağlup edip ilk galibiyetini almak isterken; turuncu-lacivertliler de 2'de 2 yapmak istiyor. İşte Trabzonspor-Başakşehir maçına dair tüm detaylar ve ilk 11'ler...",
+      "url": "https://www.haberturk.com/trabzonspor-basaksehir-maci-canli-anlatim-ts-basaksehir-super-lig-2-hafta-maci-kac-kac-mac-skoru-ve--3907360-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/22/ver1787497021/3907360/jpg/1280x1280",
+      "published": "2026-08-23T16:51:47",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:13:55.217524",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-23T17:15:49.638732",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'Marmoush op het punt om Man City te verlaten voor Spurs'",
+      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/marmoush-op-het-punt-om-net-als-savinho-man-city-te-verlaten-voor-spurs",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
+      "published": "2026-08-23T16:03:34",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:15:46.004552",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-23T17:15:50.391039",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Norris hit with two-shot penalty to blow winning chances at Nexo Championship",
+      "summary": "Shaun Norris was hit with a two-shot penalty, for kicking a replaced divot from under his feet on the fifth hole of his final round at the Nexo Championship.",
+      "url": "https://www.skysports.com/watch/video/13576348/shaun-norris-hit-with-two-shot-penalty-to-blow-winning-chances-at-nexo-championship",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-golf-norris_7329319.jpg?20260823165705",
+      "published": "2026-08-23T16:48:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-23T17:12:05.286924",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-23T17:15:49.560590",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -538,12 +578,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T16:15:08.611521",
+      "fetched_at": "2026-08-23T17:14:33.508023",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-23T16:16:26.994650",
+      "processed_at": "2026-08-23T17:15:49.874067",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -557,50 +597,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-23T16:15:08.612329",
+      "fetched_at": "2026-08-23T17:14:33.508921",
       "priority_score": 56,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-23T16:16:27.056360",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T15:53:38",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.169272",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.671042",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T12:36:54",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-23T16:12:43.169920",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-08-23T16:16:26.672442",
+      "processed_at": "2026-08-23T17:15:49.936043",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
