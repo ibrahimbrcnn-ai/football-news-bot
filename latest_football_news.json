@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T02:20:43.005132",
+  "timestamp": "2026-08-24T03:48:40.101004",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:32.222373",
+      "fetched_at": "2026-08-24T03:44:25.322422",
       "priority_score": 100,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-24T02:19:23.731957",
+      "processed_at": "2026-08-24T03:47:18.319503",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -32,7 +32,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:55.945082",
+      "fetched_at": "2026-08-24T03:44:46.930262",
       "priority_score": 91,
       "categories": [
         "transfers",
@@ -40,7 +40,7 @@
         "injuries",
         "bundesliga"
       ],
-      "processed_at": "2026-08-24T02:19:23.763229",
+      "processed_at": "2026-08-24T03:47:18.351733",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -54,33 +54,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:18:03.730492",
+      "fetched_at": "2026-08-24T03:45:52.174901",
       "priority_score": 86,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-24T02:19:23.992289",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Mohamed Salah şov yaptı, Trabzonspor kazandı! Başakşehir…",
-      "summary": "Trabzonspor, Mohamed Salah’ın golleriyle Başakşehir’i mağlup etti.",
-      "url": "https://www.cnnturk.com/spor/futbol/mohamed-salah-sov-yapti-trabzonspor-kazandi-basaksehir-3457968",
-      "image_url": null,
-      "published": "2026-08-23T21:06:36",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-24T02:18:19.846788",
-      "priority_score": 81,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-24T02:19:24.062861",
+      "processed_at": "2026-08-24T03:47:18.587430",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -94,13 +75,32 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:32.222742",
+      "fetched_at": "2026-08-24T03:44:25.322767",
       "priority_score": 78,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-24T02:19:23.737228",
+      "processed_at": "2026-08-24T03:47:18.324964",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mohamed Salah şov yaptı, Trabzonspor kazandı! Başakşehir…",
+      "summary": "Trabzonspor, Mohamed Salah’ın golleriyle Başakşehir’i mağlup etti.",
+      "url": "https://www.cnnturk.com/spor/futbol/mohamed-salah-sov-yapti-trabzonspor-kazandi-basaksehir-3457968",
+      "image_url": null,
+      "published": "2026-08-23T21:06:36",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-24T03:46:09.585344",
+      "priority_score": 76,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-08-24T03:47:18.659654",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -114,13 +114,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:57.529485",
+      "fetched_at": "2026-08-24T03:45:47.118055",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-08-24T02:19:23.911940",
+      "processed_at": "2026-08-24T03:47:18.505007",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -134,13 +134,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-24T02:15:57.862968",
+      "fetched_at": "2026-08-24T03:43:50.512677",
       "priority_score": 70,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-24T02:19:23.652077",
+      "processed_at": "2026-08-24T03:47:18.236124",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -154,13 +154,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-24T02:15:57.862228",
+      "fetched_at": "2026-08-24T03:43:50.512126",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-24T02:19:23.650491",
+      "processed_at": "2026-08-24T03:47:18.234436",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -174,12 +174,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:57.529107",
+      "fetched_at": "2026-08-24T03:45:47.117663",
       "priority_score": 46,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-08-24T02:19:23.859131",
+      "processed_at": "2026-08-24T03:47:18.450959",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -193,33 +193,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:32.222987",
+      "fetched_at": "2026-08-24T03:44:25.323025",
       "priority_score": 73,
       "categories": [
         "transfers",
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-08-24T02:19:23.742994",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "PSG puan kaybıyla başladı!",
-      "summary": "Fransa Ligue 1'de son şampiyon PSG, ligin açılış haftasında Rennes ile 2-2 berabere kaldı. Szymanski ve Lepaul'ün golleriyle 2-0 yenik duruma düşen PSG, Ferran Torres'in golleriyle 1 puanı kurtardı.",
-      "url": "https://www.haberturk.com/rennes-psg-2-2-mac-sonucu-3907603-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/24/ver1787521330/3907603/jpg/1280x1280",
-      "published": "2026-08-23T21:45:41",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-24T02:17:46.241848",
-      "priority_score": 73,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-24T02:19:23.783169",
+      "processed_at": "2026-08-24T03:47:18.330830",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -233,14 +214,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:18:45.596546",
+      "fetched_at": "2026-08-24T03:46:40.402415",
       "priority_score": 72,
       "categories": [
         "match_results",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-24T02:19:24.277507",
+      "processed_at": "2026-08-24T03:47:19.023162",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -254,13 +235,32 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:32.223308",
+      "fetched_at": "2026-08-24T03:44:25.323337",
       "priority_score": 68,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-24T02:19:23.750668",
+      "processed_at": "2026-08-24T03:47:18.338758",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "PSG puan kaybıyla başladı!",
+      "summary": "Fransa Ligue 1'de son şampiyon PSG, ligin açılış haftasında Rennes ile 2-2 berabere kaldı. Szymanski ve Lepaul'ün golleriyle 2-0 yenik duruma düşen PSG, Ferran Torres'in golleriyle 1 puanı kurtardı.",
+      "url": "https://www.haberturk.com/rennes-psg-2-2-mac-sonucu-3907603-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/24/ver1787521330/3907603/jpg/1280x1280",
+      "published": "2026-08-23T21:45:41",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-24T03:45:33.295224",
+      "priority_score": 68,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-08-24T03:47:18.372484",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -274,14 +274,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:18:45.595573",
+      "fetched_at": "2026-08-24T03:46:40.401483",
       "priority_score": 67,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-24T02:19:24.216303",
+      "processed_at": "2026-08-24T03:47:18.953361",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -295,31 +295,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:57.529216",
+      "fetched_at": "2026-08-24T03:45:47.117771",
       "priority_score": 66,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-24T02:19:23.873127",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Signs that Jaissle's Newcastle are not to be written off",
-      "summary": "Newcastle United were predicted to struggle from the off by some pundits, but head coach Matthias Jaissle will take encouragement from aspects of their display even after conceding a late equaliser against Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c80n021k098o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-23T20:38:18",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-24T02:15:57.862025",
-      "priority_score": 65,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-24T02:19:23.650154",
+      "processed_at": "2026-08-24T03:47:18.465340",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -333,13 +314,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-24T02:15:57.863884",
+      "fetched_at": "2026-08-24T03:43:50.513300",
       "priority_score": 65,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-24T02:19:23.655204",
+      "processed_at": "2026-08-24T03:47:18.239399",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -353,14 +334,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:32.224070",
+      "fetched_at": "2026-08-24T03:44:25.324057",
       "priority_score": 63,
       "categories": [
         "transfers",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-08-24T02:19:23.756934",
+      "processed_at": "2026-08-24T03:47:18.345201",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -374,13 +355,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:46.242097",
+      "fetched_at": "2026-08-24T03:45:33.295478",
       "priority_score": 63,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-24T02:19:23.796090",
+      "processed_at": "2026-08-24T03:47:18.385923",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -394,13 +375,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:55.945670",
+      "fetched_at": "2026-08-24T03:44:46.930793",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-08-24T02:19:23.767744",
+      "processed_at": "2026-08-24T03:47:18.356394",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -414,12 +395,31 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:57.529273",
+      "fetched_at": "2026-08-24T03:45:47.117828",
       "priority_score": 61,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-24T02:19:23.880423",
+      "processed_at": "2026-08-24T03:47:18.472887",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Signs that Jaissle's Newcastle are not to be written off",
+      "summary": "Newcastle United were predicted to struggle from the off by some pundits, but head coach Matthias Jaissle will take encouragement from aspects of their display even after conceding a late equaliser against Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c80n021k098o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-23T20:38:18",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-24T03:43:50.511865",
+      "priority_score": 60,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-24T03:47:18.234079",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -433,34 +433,14 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:46.241772",
-      "priority_score": 58,
+      "fetched_at": "2026-08-24T03:45:33.295147",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-08-24T02:19:23.780531",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Barça heeft De Jong niet nodig voor doelpuntrijk debutantenfeestje tegen Elche",
-      "summary": "Landskampioen Barcelona heeft zondagavond geen fout gemaakt bij zijn start van het nieuwe seizoen in Spanje. Elche werd op een ruime nederlaag getrakteerd. Het werd een debutantenfeestje, afgesloten met een (kleine) kater.",
-      "url": "https://www.vi.nl/nieuws/barca-heeft-de-jong-niet-nodig-voor-doelpuntrijk-debutantenfeestje-tegen-elche",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/3e48331ae7817bc8007f427aca7f3f70fd5fca9f.jpg?width=1200",
-      "published": "2026-08-23T21:27:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-24T02:19:20.556638",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-08-24T02:19:24.336194",
+      "processed_at": "2026-08-24T03:47:18.369751",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -474,12 +454,32 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:46.242039",
+      "fetched_at": "2026-08-24T03:45:33.295417",
       "priority_score": 53,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-08-24T02:19:23.793103",
+      "processed_at": "2026-08-24T03:47:18.382869",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Barça heeft De Jong niet nodig voor doelpuntrijk debutantenfeestje tegen Elche",
+      "summary": "Landskampioen Barcelona heeft zondagavond geen fout gemaakt bij zijn start van het nieuwe seizoen in Spanje. Elche werd op een ruime nederlaag getrakteerd. Het werd een debutantenfeestje, afgesloten met een (kleine) kater.",
+      "url": "https://www.vi.nl/nieuws/barca-heeft-de-jong-niet-nodig-voor-doelpuntrijk-debutantenfeestje-tegen-elche",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/23/3e48331ae7817bc8007f427aca7f3f70fd5fca9f.jpg?width=1200",
+      "published": "2026-08-23T21:27:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-24T03:47:14.537569",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-08-24T03:47:19.089321",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -493,13 +493,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-08-24T02:19:20.557115",
+      "fetched_at": "2026-08-24T03:47:14.538065",
       "priority_score": 52,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-08-24T02:19:24.444871",
+      "processed_at": "2026-08-24T03:47:19.212614",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -513,13 +513,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:08.786987",
+      "fetched_at": "2026-08-24T03:44:02.768906",
       "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-24T02:19:23.680139",
+      "processed_at": "2026-08-24T03:47:18.265279",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -533,13 +533,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:18:19.847566",
+      "fetched_at": "2026-08-24T03:46:09.586037",
       "priority_score": 51,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-24T02:19:24.124295",
+      "processed_at": "2026-08-24T03:47:18.722819",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -553,12 +553,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-24T02:15:57.861669",
+      "fetched_at": "2026-08-24T03:43:50.511577",
       "priority_score": 50,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-08-24T02:19:23.649909",
+      "processed_at": "2026-08-24T03:47:18.233747",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -572,12 +572,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-24T02:16:08.786771",
+      "fetched_at": "2026-08-24T03:44:02.768695",
       "priority_score": 46,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-24T02:19:23.668438",
+      "processed_at": "2026-08-24T03:47:18.253156",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -591,12 +591,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-24T02:17:57.529162",
+      "fetched_at": "2026-08-24T03:45:47.117717",
       "priority_score": 46,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-08-24T02:19:23.866617",
+      "processed_at": "2026-08-24T03:47:18.458633",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
