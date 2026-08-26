@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T12:35:44.157116",
+  "timestamp": "2026-08-26T13:49:41.092716",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:20.325636",
+      "fetched_at": "2026-08-26T13:44:25.614145",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.422337",
+      "processed_at": "2026-08-26T13:48:09.246651",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -32,14 +32,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:55.084734",
+      "fetched_at": "2026-08-26T13:44:59.706785",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.473468",
+      "processed_at": "2026-08-26T13:48:09.297508",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -53,7 +53,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:55.104584",
+      "fetched_at": "2026-08-26T13:44:59.709030",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -61,7 +61,26 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-08-26T12:31:53.498231",
+      "processed_at": "2026-08-26T13:48:09.321924",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mainz 2026/27 season preview: Can Urs Fischer continue the 05ers' upwards trajectory in his first full season in charge?",
+      "summary": "After a sluggish start to their 2025/26 campaign, Mainz will be hoping for a quicker start out the blocks and to avoid being dragged into a relegation battle this time around as they head into the 2026/27 term in what is head coach Urs Fischer's first full season at the 05ers' helm.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/mainz-2026-27-season-preview-fischer-amiri-gruber-38776",
+      "image_url": null,
+      "published": "2026-08-26T13:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-26T13:45:27.046419",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-08-26T13:48:09.336276",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -75,34 +94,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.612477",
-      "priority_score": 62,
+      "fetched_at": "2026-08-26T13:47:30.350249",
+      "priority_score": 57,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.338086",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Avrupa Ligi'nde rövanş zamanı!",
-      "summary": "UEFA Avrupa Ligi play-off turu rövanş maçlarının tamamı yarın yapılacak. Beşiktaş ilk maçta 3-0 yendiği Litvanya ekibi Kauno Zalgiris'e konuk olacak, Trabzonspor ise ilk maçta 1-0 yenildiği Macaristan temsilcisi Ferencvaros ile deplasmanda karşı karşıya gelecek.",
-      "url": "https://www.haberturk.com/uefa-avrupa-ligi-play-off-turunda-rovans-zamani-3908185-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787733318/3908185/jpg/1280x1280",
-      "published": "2026-08-26T08:35:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T12:30:02.416281",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T12:31:53.616359",
+      "processed_at": "2026-08-26T13:48:10.285283",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -116,7 +114,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.774383",
+      "fetched_at": "2026-08-26T13:45:27.069162",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -124,49 +122,49 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T12:31:53.535585",
+      "processed_at": "2026-08-26T13:48:09.384236",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "Christopher Nkunku has rejoined RB Leipzig on a season-long loan deal from AC Milan. He will be hoping to reproduce the scoring form he demonstrated during his first spell at the Red Bull Arena, where he developed into one of the Bundesliga's most feared strikers."
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray'ın dünya yıldızı transferini açıkladı: \"Prensipte anlaştılar, o Galatasaray'ı istiyor!\"",
-      "summary": "Galatasaray'ın yaz transfer dönemindeki en büyük transferi belli oluyor. Fransız basınından Foot Mercato'nun haberine göre sarı kırmızılılar uzun süredir görüşmelerde bulunduğu futbolcu için prensip anlaşmasına vardı.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayin-dunya-yildizi-transferini-acikladi-prensipte-anlastilar-o-galatasarayi-istiyor-4850827",
+      "title": "Galatasaray'a Ismaila Sarr darbesi",
+      "summary": "Galatasaray'ın kanat transferi için gündemine aldığı Ismaila Sarr konusunda rekabet kızıştı. İngiliz devi, Senegalli yıldız için 50 milyon sterlinlik teklif sundu.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasaraya-ismaila-sarr-darbesi-4851011",
       "image_url": null,
-      "published": "2026-08-25T19:03:57",
+      "published": "2026-08-26T13:12:07",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.613014",
-      "priority_score": 92,
+      "fetched_at": "2026-08-26T13:47:30.347933",
+      "priority_score": 87,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.387248",
+      "processed_at": "2026-08-26T13:48:10.137627",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Torreira iddiası! 'Galatasaray ile sözleşmesini feshetmek istiyor'",
-      "summary": "Galatasaray'ın Uruguaylı orta saha oyuncusu Lucas Torreira için yeni bir iddia gündeme geldi. Buna göre sarı kırmızılı oyuncu, sözleşmesini feshetmek ve Arjantin'e transfer olmak istiyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/torreira-iddiasi-galatasaray-ile-sozlesmesini-feshetmek-istiyor-43285751",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ecfc8b506f6e33738118c.jpg",
-      "published": "2026-08-26T11:37:00",
-      "source": "Hürriyet Spor",
+      "title": "EFL latest: Wrexham set to complete two deals as medicals completed",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "image_url": "https://e2.365dm.com/25/12/1920x1080/skysports-ryan-reynolds-rob-mac_7109207.jpg?20251213173058",
+      "published": "2026-08-26T13:50:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-26T12:30:13.656703",
-      "priority_score": 91,
+      "fetched_at": "2026-08-26T13:44:36.166294",
+      "priority_score": 86,
       "categories": [
         "transfers",
-        "super_lig"
+        "injuries"
       ],
-      "processed_at": "2026-08-26T12:31:53.651152",
+      "processed_at": "2026-08-26T13:48:09.250730",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Man City sign Bouaddi in record-breaking deal",
@@ -178,14 +176,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:31.341083",
+      "fetched_at": "2026-08-26T13:44:36.167029",
       "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.434513",
+      "processed_at": "2026-08-26T13:48:09.281312",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -199,13 +197,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:30:13.656774",
+      "fetched_at": "2026-08-26T13:46:33.557054",
       "priority_score": 86,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:53.658556",
+      "processed_at": "2026-08-26T13:48:09.525181",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -219,13 +217,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:20.323124",
+      "fetched_at": "2026-08-26T13:44:25.611299",
       "priority_score": 85,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.411301",
+      "processed_at": "2026-08-26T13:48:09.234272",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -239,7 +237,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.775038",
+      "fetched_at": "2026-08-26T13:45:27.069700",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -247,70 +245,27 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T12:31:53.541335",
+      "processed_at": "2026-08-26T13:48:09.390607",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Bayern Munich’s new No.10? Nathaniel Brown impresses in unfamiliar role",
-      "summary": "When Bayern Munich confirmed the signing of Morocco international Ismael Saibari on 1 July, few would have expected the record German champions to add another new No.10 to their star-studded squad less than 48 hours later.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/nathaniel-brown-bayern-munich-new-no10-supercup-stuttgart-38785",
-      "image_url": null,
-      "published": "2026-08-25T12:54:40",
-      "source": "Bundesliga Official",
+      "title": "Torreira iddiası! 'Galatasaray ile sözleşmesini feshetmek istiyor'",
+      "summary": "Galatasaray'ın Uruguaylı orta saha oyuncusu Lucas Torreira için yeni bir iddia gündeme geldi. Buna göre sarı kırmızılı oyuncu, sözleşmesini feshetmek ve Arjantin'e transfer olmak istiyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/torreira-iddiasi-galatasaray-ile-sozlesmesini-feshetmek-istiyor-43285751",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ecfc8b506f6e33738118c.jpg",
+      "published": "2026-08-26T11:37:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.777297",
+      "fetched_at": "2026-08-26T13:46:33.556981",
       "priority_score": 81,
       "categories": [
         "transfers",
-        "breaking_news",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-26T12:31:53.564200",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Felix Uduokhai'de rota değişti!",
-      "summary": "Beşiktaş'ta takımdan ayrılması beklenen Felix Uduokhai'nin Monza'ya transferinde son anda pürüz çıktı. Alman futbolcu, Union Berlin ile anlaşmaya varmak üzere.",
-      "url": "https://www.haberturk.com/felix-uduokhai-union-berlin-yolcusu-transferde-rota-degisti-3908225-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787743783/3908225/jpg/1280x1280",
-      "published": "2026-08-26T11:35:47",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T12:30:02.415339",
-      "priority_score": 78,
-      "categories": [
-        "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:53.567995",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray’ın Demirovic planı suya düştü",
-      "summary": "Yaz transfer döneminde Lesley Ugochukwu ve Aleksey Batrakov’u kadrosuna katan Galatasaray, uzun süredir takip ettiği golcü Ermedin Demirovic konusunda olumsuz bir gelişmeyle karşılaştı.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-demirovic-plani-suya-dustu-3459037",
-      "image_url": null,
-      "published": "2026-08-26T09:08:23",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T12:30:39.212779",
-      "priority_score": 76,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T12:31:54.041840",
+      "processed_at": "2026-08-26T13:48:09.517269",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -324,7 +279,7 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:30:55.065500",
+      "fetched_at": "2026-08-26T13:47:10.135015",
       "priority_score": 74,
       "categories": [
         "transfers",
@@ -332,28 +287,27 @@
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.083045",
+      "processed_at": "2026-08-26T13:48:09.984610",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Mustafa Muhammed Süper Lig'e dönüyor",
-      "summary": "Galatasaray'ın eski forveti Mustafa Muhammed, Türkiye'ye dönmeye hazırlanıyor. Fransız basını, Nantes forması giyen Mısırlı golcünün Süper Lig ekibine transfer olacağını yazdı.",
-      "url": "https://www.yenisafak.com/galeri/spor/mustafa-muhammed-super-lige-donuyor-4850922",
+      "title": "Forest in talks with Celta Vigo over Javi Rueda as Axel Disasi joins Palace on loan",
+      "summary": "Forest likely to end summer spending with right-backBrentford agree deal to sign El Hadji Malick DioufNottingham Forest are in talks over the €15m (£12.8m) signing of the Celta Vigo right-back Javi Rueda, which would probably be their final incoming of the window after Liam Delap from Chelsea.Oliver",
+      "url": "https://www.theguardian.com/football/2026/aug/26/forest-in-talks-with-celta-vigo-over-javi-rueda-as-axel-disasi-joins-palace-on-loan",
       "image_url": null,
-      "published": "2026-08-26T07:09:03",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "published": "2026-08-26T13:05:18",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.612304",
-      "priority_score": 72,
+      "fetched_at": "2026-08-26T13:44:59.707794",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "match_results",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:54.318443",
+      "processed_at": "2026-08-26T13:48:09.308186",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -367,74 +321,75 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.772567",
+      "fetched_at": "2026-08-26T13:45:27.067168",
       "priority_score": 71,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T12:31:53.518194",
+      "processed_at": "2026-08-26T13:48:09.365130",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray'da gündem olan Osimhen iddiası: Satışı kaçınılmaz",
-      "summary": "Transfer döneminde rakiplerine kıyasla daha sakin bir görüntü çizen Galatasaray hakkında dikkat çeken bir ekonomik kriz iddiası ortaya atıldı. Gazeteci Devrim Zengi, sarı-kırmızılı kulübün mali açıdan zor bir süreçten geçtiğini öne sürerek Victor Osimhen'in satışının gündeme gelebileceğini savundu.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-gundem-olan-osimhen-iddiasi-satisi-kacinilmaz-4850909",
-      "image_url": null,
-      "published": "2026-08-26T06:35:50",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
+      "title": "Galatasaray'a kötü haber! İngiliz devi, Ismaila Sarr için devrede",
+      "summary": "Galatasaray'ın transfer listesinde bulunan Senegalli oyuncu Ismaila Sarr için sürpriz bir gelişme yaşandı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-kotu-haber-ingiliz-devi-ismaila-sarr-icin-devrede-43285871",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ee3a77e0533a4eee0ac3a.jpg",
+      "published": "2026-08-26T13:03:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.612647",
-      "priority_score": 67,
+      "fetched_at": "2026-08-26T13:46:33.556665",
+      "priority_score": 71,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.352822",
+      "processed_at": "2026-08-26T13:48:09.484281",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "'Paixão op weg naar de Premier League, Liverpool biedt op Sarr'",
-      "summary": "Het is weer de tijd van het jaar waarin het transfers regent. Traditiegetrouw volgt Voetbal International de buitenlandse markt op de voet. Bekijk hier ons blog voor de transferperikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/paixao-op-weg-naar-de-premier-league-liverpool-biedt-op-sarr",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/02/03/c3435c37b46c1432f7bdc81322cb05ea211247de.jpg?width=1200",
-      "published": "2026-08-26T12:03:13",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Felix Uduokhai'de rota değişti!",
+      "summary": "Beşiktaş'ta takımdan ayrılması beklenen Felix Uduokhai'nin Monza'ya transferinde son anda pürüz çıktı. Alman futbolcu, Union Berlin ile anlaşmaya varmak üzere.",
+      "url": "https://www.haberturk.com/felix-uduokhai-union-berlin-yolcusu-transferde-rota-degisti-3908225-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787743783/3908225/jpg/1280x1280",
+      "published": "2026-08-26T11:35:47",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:50.320023",
+      "fetched_at": "2026-08-26T13:46:20.428983",
+      "priority_score": 68,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T13:48:09.429965",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mustafa Muhammed Süper Lig'e dönüyor",
+      "summary": "Galatasaray'ın eski forveti Mustafa Muhammed, Türkiye'ye dönmeye hazırlanıyor. Fransız basını, Nantes forması giyen Mısırlı golcünün Süper Lig ekibine transfer olacağını yazdı.",
+      "url": "https://www.yenisafak.com/galeri/spor/mustafa-muhammed-super-lige-donuyor-4850922",
+      "image_url": null,
+      "published": "2026-08-26T07:09:03",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T13:47:30.350063",
       "priority_score": 67,
       "categories": [
         "transfers",
-        "premier_league",
-        "serie_a"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.422565",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
-      "summary": "Mercedes chief Toto Wolff says he is \"not at all\" disappointed by Max Verstappen having committed to Red Bull with a new contract that runs until 2030.",
-      "url": "https://www.skysports.com/f1/news/12040/13577061/max-verstappen-mercedes-boss-toto-wolff-says-he-is-not-at-all-disappointed-by-dutchmans-new-red-bull-contract",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-max-verstappen-red-bull_7331074.jpg?20260825174754",
-      "published": "2026-08-26T07:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-26T12:28:31.341379",
-      "priority_score": 66,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-26T12:31:53.444215",
+      "processed_at": "2026-08-26T13:48:10.264172",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -448,13 +403,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:20.323606",
+      "fetched_at": "2026-08-26T13:44:25.612501",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.411952",
+      "processed_at": "2026-08-26T13:48:09.236520",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -468,34 +423,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:20.324760",
+      "fetched_at": "2026-08-26T13:44:25.613246",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T12:31:53.415711",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Miretti Beşiktaş için geliyor!",
-      "summary": "Sağ kanada Ernest Poku'yu transfer eden Beşiktaş, orta sahasını da Fabio Miretti ile güçlendiriyor... Siyah-beyazlılar, Juventus forması giyen İtalyan oyuncu ile her konuda anlaşmaya varırken, 23 yaşındaki orta sahanın yarın imza için İstanbul'a geleceği öğrenildi. Miretti, Poku ile birlikte 10+4'lü",
-      "url": "https://www.haberturk.com/son-dakika-fabio-miretti-besiktas-icin-geliyor-3908182-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787732427/3908182/jpg/1280x1280",
-      "published": "2026-08-26T08:21:08",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T12:30:02.416354",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T12:31:53.620463",
+      "processed_at": "2026-08-26T13:48:09.239615",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -509,33 +443,53 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.611958",
+      "fetched_at": "2026-08-26T13:47:30.349713",
       "priority_score": 62,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.292082",
+      "processed_at": "2026-08-26T13:48:10.235599",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Şaşırtan gerçek ortaya çıktı: Fenerbahçeli yıldızın transferi iptal olabilir",
-      "summary": "Transfer çalışmalarına devam eden Fenerbahçe’de ilginç bir gelişme yaşandı. Sarı lacivertli oyuncunun transferinin iptal olabileceği iddia edildi.",
-      "url": "https://www.yenisafak.com/galeri/spor/sasirtan-gercek-ortaya-cikti-fenerbahceli-yildizin-transferi-iptal-olabilir-4850934",
+      "title": "Galatasaray'da gündem olan Osimhen iddiası: Satışı kaçınılmaz",
+      "summary": "Transfer döneminde rakiplerine kıyasla daha sakin bir görüntü çizen Galatasaray hakkında dikkat çeken bir ekonomik kriz iddiası ortaya atıldı. Gazeteci Devrim Zengi, sarı-kırmızılı kulübün mali açıdan zor bir süreçten geçtiğini öne sürerek Victor Osimhen'in satışının gündeme gelebileceğini savundu.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-gundem-olan-osimhen-iddiasi-satisi-kacinilmaz-4850909",
       "image_url": null,
-      "published": "2026-08-26T07:36:11",
+      "published": "2026-08-26T06:35:50",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:31:11.612130",
+      "fetched_at": "2026-08-26T13:47:30.350421",
       "priority_score": 62,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.309098",
+      "processed_at": "2026-08-26T13:48:10.300997",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City considering bid for Chelsea's Fernandez",
+      "summary": "Manchester City are considering making a bid for Chelsea midfielder Enzo Fernandez before the transfer deadline.",
+      "url": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-fernandez_7331664.jpg?20260826122332",
+      "published": "2026-08-26T11:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-26T13:44:36.166538",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-26T13:48:09.258248",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -549,13 +503,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.771257",
+      "fetched_at": "2026-08-26T13:45:27.049474",
       "priority_score": 61,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T12:31:53.507842",
+      "processed_at": "2026-08-26T13:48:09.353743",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -569,53 +523,93 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T12:29:13.771886",
+      "fetched_at": "2026-08-26T13:45:27.050075",
       "priority_score": 61,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T12:31:53.513827",
+      "processed_at": "2026-08-26T13:48:09.360583",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe'ye Oosterwolde şoku! Transferde pürüz çıktı",
-      "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe'nin transferi için Roma ile anlaşma sağladığı Jayden Oosterwolde ile ilgili çarpıcı bir gelişme yaşandı. İtalyan ekibi, Hollandalı savunma oyuncusunun...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/08/26/fenerbahceye-oosterwolde-soku-transferde-puruz-cikti",
-      "image_url": "https://iaftm.tmgrup.com.tr/69d280/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/26/fenerbahceye-oosterwolde-soku-transferde-puruz-cikti-1787728433699.jpeg",
-      "published": "2026-08-26T07:14:46",
+      "title": "Galatasaray'da Ismaila Sarr gelişmesi! Yaklaşık 60 milyon euro...",
+      "summary": "Galatasaray'ın kanat transferi doğrultusunda listesinin üst sıralarına yazdığı Ismaila Sarr ile ilgili ters köşe bir gelişme yaşandı. Sarı-kırmızılıların anlaşma sağladığı Senegalli oyuncu için İngiltere'den...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/26/galatasarayda-ismaila-sarr-gelismesi-yaklasik-60-milyon-euro",
+      "image_url": "https://iaftm.tmgrup.com.tr/d54b87/1200/675/0/0/2047/1153?u=https://iftm.tmgrup.com.tr/2026/08/26/galatasarayda-ismaila-sarr-gelismesi-yaklasik-60-milyon-euro-1787749272789.jpg",
+      "published": "2026-08-26T13:01:34",
       "source": "Fotomac",
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:30:55.067368",
+      "fetched_at": "2026-08-26T13:47:10.134682",
       "priority_score": 59,
       "categories": [
         "transfers",
-        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:54.206559",
+      "processed_at": "2026-08-26T13:48:09.956097",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand",
-      "summary": "After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this seasonWhat’s in a name? Quite a bit, judging by the discussion at Roberto De Zerbi’s Tottenham press conference on Tuesday, shortly after the club had completed the £75m signing of Savi",
-      "url": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand",
-      "image_url": null,
-      "published": "2026-08-25T21:30:25",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Pape Sarr'a Fransa'dan kanca! Galatasaray görüşüyordu",
+      "summary": "Transfer döneminin kapanmasına az bir süre kalmışken Galatasaray transfer çalışmalarına hız kesmeden devam ediyor. Sarı-kırmızılılarda orta saha transferinde en önde gelen isimlerden biri de Pape Matar...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/08/26/pape-sarra-fransadan-kanca-galatasaray-gorusuyordu",
+      "image_url": "https://iaftm.tmgrup.com.tr/4ae5e7/1200/675/0/0/544/306?u=https://iftm.tmgrup.com.tr/2026/08/26/pape-sarra-fransadan-kanca-galatasaray-gorusuyordu-1787750298325.jpeg",
+      "published": "2026-08-26T12:58:22",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T12:28:55.102750",
-      "priority_score": 58,
+      "fetched_at": "2026-08-26T13:47:10.135333",
+      "priority_score": 59,
       "categories": [
-        "transfers"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-08-26T12:31:53.478206",
+      "processed_at": "2026-08-26T13:48:10.011123",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Şaşırtan gerçek ortaya çıktı: Fenerbahçeli yıldızın transferi iptal olabilir",
+      "summary": "Transfer çalışmalarına devam eden Fenerbahçe’de ilginç bir gelişme yaşandı. Sarı lacivertli oyuncunun transferinin iptal olabileceği iddia edildi.",
+      "url": "https://www.yenisafak.com/galeri/spor/sasirtan-gercek-ortaya-cikti-fenerbahceli-yildizin-transferi-iptal-olabilir-4850934",
+      "image_url": null,
+      "published": "2026-08-26T07:36:11",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T13:47:30.349888",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T13:48:10.253958",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Beşiktaş'ın yeni transferi gece yarısı geldi",
+      "summary": "Beşiktaş'ın prensip anlaşmasına vardığı genç oyuncu, gece geç saatlerde İstanbul'a geldi. Havalimanında taraftarların yoğun ilgisiyle karşılanan Hollandalı futbolcu, “Yüzde 100 hazırım” mesajı vererek siyah-beyazlı formayla sahaya çıkmak için sabırsızlandığını söyledi.",
+      "url": "https://www.yenisafak.com/galeri/spor/besiktasin-yeni-transferi-gece-yarisi-geldi-4850896",
+      "image_url": null,
+      "published": "2026-08-26T05:29:02",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T13:47:30.350631",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T13:48:10.313711",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
