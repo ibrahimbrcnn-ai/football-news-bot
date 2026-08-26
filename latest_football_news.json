@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T10:29:02.404194",
+  "timestamp": "2026-08-26T11:24:00.004638",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:00.695802",
+      "fetched_at": "2026-08-26T11:19:00.191384",
       "priority_score": 100,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T10:27:33.124850",
+      "processed_at": "2026-08-26T11:22:36.526669",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Manchester City confirm Bouaddi signing as Marmoush and González head out",
+      "summary": "Spurs to take Marmoush on loan with obligation to buyCity agree £52m Nico González sale to NewcastleManchester City have confirmed the signing of Ayyoub Bouaddi from Lille for €95m (£81.4m) plus €5m, with the 18-year-old midfielder agreeing a five-year contract.Bouaddi’s arrival comes after City str",
+      "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
+      "image_url": null,
+      "published": "2026-08-26T10:15:43",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:19:34.954498",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-26T11:22:36.567666",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -32,7 +53,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:34.275679",
+      "fetched_at": "2026-08-26T11:19:34.973462",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -40,48 +61,27 @@
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-08-26T10:27:33.171007",
+      "processed_at": "2026-08-26T11:22:36.595573",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Remembering Christopher Nkunku's excellent first RB Leipzig spell",
-      "summary": "Christopher Nkunku has rejoined RB Leipzig on a season-long loan deal from AC Milan. He will be hoping to reproduce the scoring form he demonstrated during his first spell at the Red Bull Arena, where he developed into one of the Bundesliga's most feared strikers.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/christopher-nkunku-first-leipzig-spell-top-scorer-dfb-cup-38735",
+      "title": "Galatasaray gol makinesi için harekete geçti: ‘Osimhen ile harika bir ikili olurlar’",
+      "summary": "Galatasaray’da hücum hattı için dikkat çeken bir isim gündeme geldi. Sarı-kırmızılı yönetimin, Avrupa’da gol yollarındaki etkinliğiyle öne çıkan Çekyalı forvet için harekete geçmeye hazırlandığı belirtildi.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasaray-gol-makinesi-icin-harekete-gecti-osimhen-ile-harika-bir-ikili-olurlar-4850916",
       "image_url": null,
-      "published": "2026-08-25T18:19:39",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-08-26T06:56:37",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.156737",
-      "priority_score": 100,
+      "fetched_at": "2026-08-26T11:21:55.243918",
+      "priority_score": 62,
       "categories": [
-        "transfers",
-        "breaking_news",
-        "serie_a",
-        "bundesliga"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.190149",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Latest golf leaderboards: British Masters and more",
-      "summary": "Latest golf scores and results from around the world, including the PGA Tour's Tour Championship, the Husqvarna British Masters and more.",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "image_url": "https://e1.365dm.com/26/04/1920x1080/skysports-tyrrell-hatton-masters_7218386.jpg?20260412210839",
-      "published": "2026-08-26T09:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:13.454692",
-      "priority_score": 66,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-08-26T10:27:33.131198",
+      "processed_at": "2026-08-26T11:22:37.392658",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -95,95 +95,35 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:00.695601",
+      "fetched_at": "2026-08-26T11:19:00.190866",
       "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T10:27:33.123450",
+      "processed_at": "2026-08-26T11:22:36.521516",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Avrupa Ligi'nde rövanş zamanı!",
-      "summary": "UEFA Avrupa Ligi play-off turu rövanş maçlarının tamamı yarın yapılacak. Beşiktaş ilk maçta 3-0 yendiği Litvanya ekibi Kauno Zalgiris'e konuk olacak, Trabzonspor ise ilk maçta 1-0 yenildiği Macaristan temsilcisi Ferencvaros ile deplasmanda karşı karşıya gelecek.",
-      "url": "https://www.haberturk.com/uefa-avrupa-ligi-play-off-turunda-rovans-zamani-3908185-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787733318/3908185/jpg/1280x1280",
-      "published": "2026-08-26T08:35:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208730",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T10:27:33.238334",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'un kamp kadrosu belli oldu!",
-      "summary": "Trabzonspor’un UEFA Avrupa Ligi Play-Off Turu rövanş maçında deplasmanda Ferencvaros ile oynayacağı karşılaşmanın kamp kadrosu belli oldu.",
-      "url": "https://www.haberturk.com/trabzonsporun-ferencvaros-maci-kamp-kadrosu-belli-oldu-3908217-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787737890/3908217/jpg/1280x1280",
-      "published": "2026-08-26T09:59:42",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208374",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-08-26T10:27:33.218760",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Mostafa Mohamed, Süper Lig'e dönüyor!",
-      "summary": "Konyaspor, Nantes forması giyen Galatasaray'ın eski golcüsü Mustafa Muhammed'in transferinde sona yaklaştı. Yeşil-beyazlıların, 28 yaşındaki Mısırlı santrfor için Fransız ekibine yaklaşık 1 milyon euro bonservis bedeli ödemesi bekleniyor.",
-      "url": "https://www.haberturk.com/mostafa-mohamed-super-lig-e-donuyor-adim-adim-konyaspor-a-3908183-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787731551/3908183/jpg/1280x1280",
-      "published": "2026-08-26T08:06:42",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208889",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T10:27:33.250247",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray, Leao ile anlaştı! Milan'dan tek şart",
-      "summary": "Galatasaray-Rafael Leao transferinde önemli bir gelişme yaşandı. Sarı kırmızılılar, Portekizli yıldız ile anlaşmaya vardı. İşte ayrıntılar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-leao-ile-anlasti-milandan-tek-sart-43284987",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8de6e0b506f6e337380f75.jpg",
-      "published": "2026-08-26T05:12:00",
-      "source": "Hürriyet Spor",
+      "title": "Remembering Christopher Nkunku's excellent first RB Leipzig spell",
+      "summary": "Christopher Nkunku has rejoined RB Leipzig on a season-long loan deal from AC Milan. He will be hoping to reproduce the scoring form he demonstrated during his first spell at the Red Bull Arena, where he developed into one of the Bundesliga's most feared strikers.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/christopher-nkunku-first-leipzig-spell-top-scorer-dfb-cup-38735",
+      "image_url": null,
+      "published": "2026-08-25T18:19:39",
+      "source": "Bundesliga Official",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T10:25:56.323362",
+      "fetched_at": "2026-08-26T11:20:00.142161",
       "priority_score": 100,
       "categories": [
         "transfers",
+        "breaking_news",
         "serie_a",
-        "super_lig"
+        "bundesliga"
       ],
-      "processed_at": "2026-08-26T10:27:33.329188",
+      "processed_at": "2026-08-26T11:22:36.636973",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -197,55 +137,74 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:13.454640",
+      "fetched_at": "2026-08-26T11:19:11.823312",
       "priority_score": 96,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T10:27:33.130199",
+      "processed_at": "2026-08-26T11:22:36.534556",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Manchester City agree Omar Marmoush loan to Spurs with initial £50m obligation to buy",
-      "summary": "City agree £52m Nico González sale to NewcastleClub expected to make Enzo Fernández bidManchester City have agreed to loan Omar Marmoush to Tottenham for the season, with an obligation to buy the forward for an initial £50m, and struck a deal to sell Nico González to Newcastle for £52m.Marmoush is t",
-      "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
-      "image_url": null,
-      "published": "2026-08-26T09:25:22",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Fenerbahçe'de bir ayrılık daha! Bonservisi belli oldu",
+      "summary": "Fenerbahçe, 10+4 yabancı kuralından dolayı elindeki oynatmadığı futbolcularla yollarını ayırmak isterken, yeni bir ismin daha transferinde aşama kaydedildi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-bir-ayrilik-daha-bonservisi-belli-oldu-43285615",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8ec6abb506f6e33738117b.jpg",
+      "published": "2026-08-26T10:51:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:34.264055",
-      "priority_score": 83,
+      "fetched_at": "2026-08-26T11:20:58.501062",
+      "priority_score": 96,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T11:22:36.749298",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City complete £86m Bouaddi signing from Lille",
+      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-26T10:30:52",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:19:00.189275",
+      "priority_score": 95,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T10:27:33.152386",
+      "processed_at": "2026-08-26T11:22:36.515977",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Vote for the best Bundesliga home jersey in 2026/27!",
-      "summary": "Bundesliga Kit Kings is back for 2026/27! Which side in Germany’s top flight has the best home kit for the coming campaign? Cast your vote in the official Bundesliga app now as we build up to the start of the new season on Friday!",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/vote-best-home-jersey-2026-27-bayern-munich-dortmund-leverkusen-38715",
+      "title": "Galatasaray'ın dünya yıldızı transferini açıkladı: \"Prensipte anlaştılar, o Galatasaray'ı istiyor!\"",
+      "summary": "Galatasaray'ın yaz transfer dönemindeki en büyük transferi belli oluyor. Fransız basınından Foot Mercato'nun haberine göre sarı kırmızılılar uzun süredir görüşmelerde bulunduğu futbolcu için prensip anlaşmasına vardı.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayin-dunya-yildizi-transferini-acikladi-prensipte-anlastilar-o-galatasarayi-istiyor-4850827",
       "image_url": null,
-      "published": "2026-08-26T10:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-08-25T19:03:57",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.155666",
-      "priority_score": 81,
+      "fetched_at": "2026-08-26T11:21:55.244305",
+      "priority_score": 92,
       "categories": [
         "transfers",
-        "breaking_news",
-        "bundesliga"
+        "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.179565",
+      "processed_at": "2026-08-26T11:22:37.439561",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -259,7 +218,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.157031",
+      "fetched_at": "2026-08-26T11:20:00.142705",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -267,7 +226,7 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T10:27:33.193489",
+      "processed_at": "2026-08-26T11:22:36.642688",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -281,7 +240,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.158411",
+      "fetched_at": "2026-08-26T11:20:00.144491",
       "priority_score": 81,
       "categories": [
         "transfers",
@@ -289,27 +248,7 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T10:27:33.207203",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Felix Uduokhai'de rota değişti!",
-      "summary": "Beşiktaş'ta takımdan ayrılması beklenen Felix Uduokhai'nin Monza'ya transferinde son anda pürüz çıktı. Alman futbolcu, Union Berlin ile anlaşmaya varmak üzere.",
-      "url": "https://www.haberturk.com/felix-uduokhai-union-berlin-yolcusu-transferde-rota-degisti-3908225-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787737317/3908225/jpg/1280x1280",
-      "published": "2026-08-26T09:42:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208525",
-      "priority_score": 78,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-26T10:27:33.225278",
+      "processed_at": "2026-08-26T11:22:36.665371",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -323,14 +262,157 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:26:19.691907",
+      "fetched_at": "2026-08-26T11:21:24.097710",
       "priority_score": 76,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.458689",
+      "processed_at": "2026-08-26T11:22:37.090196",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray resmi teklifini iletti: Genç golcü için tam 30 milyon euro!",
+      "summary": "Son dakika Galatasaray transfer haberleri | Victor Osimhen'e alternatif bir santrfor arayışında olan Galatasaray, transfer için çalışmalarını sürdürüyor. Emredin Demirovic, Conrad Harder, Lucas Stassin...Devamı için tıklayınız",
+      "url": "https://www.aspor.com.tr/galatasaray/2026/08/26/galatasaray-resmi-teklifini-iletti-genc-golcu-icin-tam-30-milyon-euro",
+      "image_url": "https://iaftm.tmgrup.com.tr/6c9539/1200/675/0/207/1500/1050?u=https://iftm.tmgrup.com.tr/2026/08/26/galatasaray-resmi-teklifini-iletti-genc-golcu-icin-tam-30-milyon-euro-1787727828603.jpeg",
+      "published": "2026-08-25T18:52:43",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:21:38.982138",
+      "priority_score": 74,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T11:22:37.165020",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "João Palhinha joins Benfica from Bayern Munich",
+      "summary": "João Palhinha has completed a permanent transfer from Bayern Munich back to his native Portugal with Benfica.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/joao-palhinha-joins-benfica-bayern-munich-portugal-38731",
+      "image_url": null,
+      "published": "2026-08-26T11:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:20:00.139605",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-26T11:22:36.609928",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bayern Munich’s Felipe Chávez joins Magdeburg on loan after contract extension",
+      "summary": "Felipe Chávez has signed a contract extension at Bayern Munich until 2028 and will spend the 2026/27 season on loan at Magdeburg in Bundesliga 2.",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/bayern-munich-felipe-chavez-joins-magdeburg-on-loan-peru-38793",
+      "image_url": null,
+      "published": "2026-08-26T10:30:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:20:00.140113",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-26T11:22:36.615751",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Vote for the best Bundesliga home jersey in 2026/27!",
+      "summary": "Bundesliga Kit Kings is back for 2026/27! Which side in Germany’s top flight has the best home kit for the coming campaign? Cast your vote in the official Bundesliga app now as we build up to the start of the new season on Friday!",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/vote-best-home-jersey-2026-27-bayern-munich-dortmund-leverkusen-38715",
+      "image_url": null,
+      "published": "2026-08-26T10:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:20:00.140669",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-26T11:22:36.619936",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Felix Uduokhai'de rota değişti!",
+      "summary": "Beşiktaş'ta takımdan ayrılması beklenen Felix Uduokhai'nin Monza'ya transferinde son anda pürüz çıktı. Alman futbolcu, Union Berlin ile anlaşmaya varmak üzere.",
+      "url": "https://www.haberturk.com/felix-uduokhai-union-berlin-yolcusu-transferde-rota-degisti-3908225-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787737317/3908225/jpg/1280x1280",
+      "published": "2026-08-26T09:42:16",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:20:46.072510",
+      "priority_score": 68,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T11:22:36.711920",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da gündem olan Osimhen iddiası: Satışı kaçınılmaz",
+      "summary": "Transfer döneminde rakiplerine kıyasla daha sakin bir görüntü çizen Galatasaray hakkında dikkat çeken bir ekonomik kriz iddiası ortaya atıldı. Gazeteci Devrim Zengi, sarı-kırmızılı kulübün mali açıdan zor bir süreçten geçtiğini öne sürerek Victor Osimhen'in satışının gündeme gelebileceğini savundu.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-gundem-olan-osimhen-iddiasi-satisi-kacinilmaz-4850909",
+      "image_url": null,
+      "published": "2026-08-26T06:35:50",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:21:55.244051",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T11:22:37.406632",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City aan de haal met duurste achttienjarige in voetbalhistorie",
+      "summary": "Ayyoub Bouaddi heeft na een ijzersterk WK zijn toptransfer te pakken. De Marokkaan, die 79 minuten speelde in de voor Oranje fatale WK-wedstrijd, maakt de overstap van Lille naar Manchester City. Daar betalen de Engelsen grof geld voor, Bouaddi is in één klap recordhouder in zijn leeftijdscategorie.",
+      "url": "https://www.vi.nl/nieuws/man-city-aan-de-haal-met-duurste-achttienjarige-in-voetbalhistorie",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/26/6b67510bb1ab397c77e87c7a2b532e0fe195b0f2.jpg?width=1200",
+      "published": "2026-08-26T10:40:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:22:33.505482",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-26T11:22:37.514627",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -344,12 +426,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:13.454838",
+      "fetched_at": "2026-08-26T11:19:11.823565",
       "priority_score": 66,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-26T10:27:33.135166",
+      "processed_at": "2026-08-26T11:22:36.543260",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -363,34 +445,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.158707",
+      "fetched_at": "2026-08-26T11:20:00.144900",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-26T10:27:33.211671",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Tottenham agree loan for Man City's Marmoush",
-      "summary": "Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-26T08:18:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:00.694869",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-26T10:27:33.121094",
+      "processed_at": "2026-08-26T11:22:36.672810",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -404,13 +466,33 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-26T10:24:00.695015",
+      "fetched_at": "2026-08-26T11:19:00.189754",
       "priority_score": 65,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-08-26T10:27:33.121277",
+      "processed_at": "2026-08-26T11:22:36.516445",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Tottenham agree loan for Man City's Marmoush",
+      "summary": "Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-08-26T08:18:41",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:19:00.190705",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-26T11:22:36.520202",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -424,54 +506,74 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208772",
+      "fetched_at": "2026-08-26T11:20:46.072882",
       "priority_score": 63,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.240888",
+      "processed_at": "2026-08-26T11:22:36.737611",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray'dan orta sahaya sürpriz transfer!",
-      "summary": "Galatasaray, transfer çalışmalarına devam ediyor. Özellikle orta saha bölgesine takviye yapmak isteyen Sarı-Kırmızılılar rotayı yeniden Fransa'ya çevirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-orta-sahaya-surpriz-transfer-43285208",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8e8a077e0533a4eee0a9c4.jpg",
-      "published": "2026-08-26T06:43:24",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Süper Lig devi transfer görüşmelerini gizlice yürütmüştü: Yıldız oyuncunun İstanbul’a geliş tarihi belli oldu",
+      "summary": "Beşiktaş’ın orta saha transferinde gözler İtalya’ya çevrildi. Siyah-beyazlıların anlaşmaya vardığı oyuncu İstanbul’a geliyor.",
+      "url": "https://www.yenisafak.com/galeri/spor/super-lig-devi-transfer-gorusmelerini-gizlice-yurutmustu-yildiz-oyuncunun-istanbula-gelis-tarihi-belli-oldu-4850948",
+      "image_url": null,
+      "published": "2026-08-26T08:19:39",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:25:56.323323",
-      "priority_score": 61,
+      "fetched_at": "2026-08-26T11:21:55.243523",
+      "priority_score": 62,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.324269",
+      "processed_at": "2026-08-26T11:22:37.351194",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray Sarr'dan vazgeçmiyor! Dev teklif masada",
-      "summary": "Süper Lig'de üst üste 5. kez şampiyonluk hedefleyen Galatasaray transfer çalışmalarına devam ediyor. Özellikle kanat bölgesine takviye yapmak isteyen sarı-kırmızılılar rotayı İngiltere'ye çevirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-sarrdan-vazgecmiyor-dev-teklif-masada-43285170",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8e7507b506f6e337381057.jpg",
-      "published": "2026-08-26T05:09:34",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Şaşırtan gerçek ortaya çıktı: Fenerbahçeli yıldızın transferi iptal olabilir",
+      "summary": "Transfer çalışmalarına devam eden Fenerbahçe’de ilginç bir gelişme yaşandı. Sarı lacivertli oyuncunun transferinin iptal olabileceği iddia edildi.",
+      "url": "https://www.yenisafak.com/galeri/spor/sasirtan-gercek-ortaya-cikti-fenerbahceli-yildizin-transferi-iptal-olabilir-4850934",
+      "image_url": null,
+      "published": "2026-08-26T07:36:11",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:25:56.323400",
-      "priority_score": 61,
+      "fetched_at": "2026-08-26T11:21:55.243646",
+      "priority_score": 62,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.334155",
+      "processed_at": "2026-08-26T11:22:37.367625",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Beşiktaş'ın yeni transferi gece yarısı geldi",
+      "summary": "Beşiktaş'ın prensip anlaşmasına vardığı genç oyuncu, gece geç saatlerde İstanbul'a geldi. Havalimanında taraftarların yoğun ilgisiyle karşılanan Hollandalı futbolcu, “Yüzde 100 hazırım” mesajı vererek siyah-beyazlı formayla sahaya çıkmak için sabırsızlandığını söyledi.",
+      "url": "https://www.yenisafak.com/galeri/spor/besiktasin-yeni-transferi-gece-yarisi-geldi-4850896",
+      "image_url": null,
+      "published": "2026-08-26T05:29:02",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-26T11:21:55.244177",
+      "priority_score": 62,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-26T11:22:37.417805",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -485,131 +587,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:26:19.692140",
+      "fetched_at": "2026-08-26T11:21:24.098117",
       "priority_score": 61,
       "categories": [
         "transfers",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.480394",
+      "processed_at": "2026-08-26T11:22:37.124418",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand",
-      "summary": "After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this seasonWhat’s in a name? Quite a bit, judging by the discussion at Roberto De Zerbi’s Tottenham press conference on Tuesday, shortly after the club had completed the £75m signing of Savi",
-      "url": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand",
-      "image_url": null,
-      "published": "2026-08-25T21:30:25",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:34.274638",
-      "priority_score": 58,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-26T10:27:33.158080",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Deadline Day volg je op de voet bij VI: liveshows, liveblogs en video's",
-      "summary": "Ook dit jaar pakt Voetbal International weer uit tijdens Deadline Day. Of eigenlijk: tijdens Deadline Days. Want zowel op de laatste dag van de transfermarkt in de topcompetities (dinsdag 1 september) als in Nederland (woensdag 2 september) zijn wij er met diverse liveshows, met liveblogs en met ext",
-      "url": "https://www.vi.nl/nieuws/deadline-day-volg-je-op-de-voet-bij-vi-liveshows-liveblogs-en-video-s",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/26/28d50022bf0cc0a6a5acef94b202e53472ead3b0.jpg?width=1200",
-      "published": "2026-08-26T08:40:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:27:29.379374",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-26T10:27:33.587475",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Man City set for late Fernandez move as Chelsea replacement emerges",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13577214/enzo-fernandez-transfer-news-manchester-city-to-make-late-move-for-chelsea-midfielder-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-08-25T22:51:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:13.455148",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-26T10:27:33.147613",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bayern Munich board member for sport Max Eberl and CEO Jan-Christian Dreesen sign contract extensions",
-      "summary": "Bayern Munich board member for sport Max Eberl and club CEO Jan-Christian Dreesen have put pen to paper on new contracts, tying them both to the club until 30 June 2029.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/max-eberl-extends-bayern-munich-contract-board-member-kompany-38602",
-      "image_url": null,
-      "published": "2026-08-25T19:08:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:58.156440",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-26T10:27:33.186792",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man City to make offer for £120m-rated Fernandez",
-      "summary": "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-26T09:55:42",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-26T10:24:00.694668",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-08-26T10:27:33.120910",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor, Macaristan'da tur için sahada",
-      "summary": "Temsilcimiz Trabzonspor, UEFA Avrupa Ligi play-off turu rövanş maçında yarın akşam Macaristan ekibi Ferencvaros'a konuk olacak. Trabzon'daki ilk maçı 1-0 kaybeden bordo-mavililer, tur için rakibini en az 2 farkla mağlup etmek zorunda...",
-      "url": "https://www.haberturk.com/trabzonspor-ferencvaros-a-karsi-tur-icin-sahada-3908221-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/26/ver1787736647/3908221/jpg/1280x1280",
-      "published": "2026-08-26T09:31:53",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Fenerbahçe'ye Oosterwolde şoku! Transferde pürüz çıktı",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe'nin transferi için Roma ile anlaşma sağladığı Jayden Oosterwolde ile ilgili çarpıcı bir gelişme yaşandı. İtalyan ekibi, Hollandalı savunma oyuncusunun...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/08/26/fenerbahceye-oosterwolde-soku-transferde-puruz-cikti",
+      "image_url": "https://iaftm.tmgrup.com.tr/69d280/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/26/fenerbahceye-oosterwolde-soku-transferde-puruz-cikti-1787728433699.jpeg",
+      "published": "2026-08-26T07:14:46",
+      "source": "Fotomac",
+      "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-26T10:25:45.208606",
-      "priority_score": 53,
+      "fetched_at": "2026-08-26T11:21:38.983232",
+      "priority_score": 59,
       "categories": [
-        "general"
+        "transfers",
+        "breaking_news",
+        "super_lig"
       ],
-      "processed_at": "2026-08-26T10:27:33.230659",
+      "processed_at": "2026-08-26T11:22:37.250161",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
