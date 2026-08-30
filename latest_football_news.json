@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T00:59:04.262855",
+  "timestamp": "2026-08-30T06:09:00.620466",
   "total_items": 30,
   "news": [
     {
@@ -12,13 +12,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-30T00:54:25.128088",
+      "fetched_at": "2026-08-30T06:04:27.244245",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news"
       ],
-      "processed_at": "2026-08-30T00:57:32.660026",
+      "processed_at": "2026-08-30T06:07:27.369448",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -32,14 +32,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.901841",
+      "fetched_at": "2026-08-30T06:04:51.708069",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-30T00:57:32.837767",
+      "processed_at": "2026-08-30T06:07:27.549408",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -53,13 +53,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.361985",
+      "fetched_at": "2026-08-30T06:05:40.710520",
       "priority_score": 98,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:32.884719",
+      "processed_at": "2026-08-30T06:07:27.597505",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -73,197 +73,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-30T00:53:46.852096",
-      "priority_score": 85,
+      "fetched_at": "2026-08-30T06:03:53.573804",
+      "priority_score": 80,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-08-30T00:57:32.589774",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
-      "summary": "Team from town of 13,000 shock 2024 championsJuventus 2-0 Parma; Sevilla 1-3 Atlético MadridThe Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday.Lukas Petkov and Cole Campbell scored within 60 se",
-      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
-      "image_url": null,
-      "published": "2026-08-29T21:46:43",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:54:25.129859",
-      "priority_score": 83,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-30T00:57:32.681607",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da Victor Osimhen fırtınası: 3 haftada 7 yaptı!",
-      "summary": "Galatasaray formasıyla üçüncü sezonuna da fırtına gibi başlayan Victor Osimhen, Göztepe karşısında da performansıyla geceye damga vurdu. Sarı-kırmızılıların 3-2 kazandığı mücadelede Nijeryalı yıldız, 2 gole direkt katkı sağladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-victor-osimhen-firtinasi-3-haftada-7-yapti-43289524",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a933f425548acce7124f198.jpg",
-      "published": "2026-08-29T20:29:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:55:54.799947",
-      "priority_score": 81,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:32.996220",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'I'll never forget today' - Martín Demichelis and RB Leipzig enjoy dream start to campaign against Borussia Mönchengladbach",
-      "summary": "Bayern Munich were always going to be a tough act to follow after their thumping victory over VfB Stuttgart on Friday, but new RB Leipzig head coach Martín Demichelis could hardly have wished for a better performance from his team in his first Bundesliga match in charge of the club.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/martin-demichelis-dream-rb-leipzig-start-nusa-nkunku-borussia-monchengladbach-38880",
-      "image_url": null,
-      "published": "2026-08-30T02:05:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.876143",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-30T00:57:32.768952",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Iraola awaits first win as Liverpool rescue late draw against Forest",
-      "summary": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-08-29T19:12:20",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:53:46.853293",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-08-30T00:57:32.594644",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da son dakika şoku: Yıldız isim maça başlayamadı",
-      "summary": "alatasaray’ın Göztepe’yi ağırladığı karşılaşmada maç öncesi beklenmedik bir değişiklik yaşandı. İlk 11’de gösterilen milli futbolcu son anda sahaya çıkmadı.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-son-dakika-soku-yildiz-isim-maca-baslayamadi-4851776",
-      "image_url": null,
-      "published": "2026-08-29T18:45:43",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:56:49.655275",
-      "priority_score": 57,
-      "categories": [
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:33.642606",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Rafael Leao'nun ardından bir golcü daha geliyor",
-      "summary": "Galatasaray, Rafael Leao transferinin ardından bir takviye için daha kolları sıvadı. Sarı-kırmızılılar milli futbolcuyu ikna ederken, kulübüne de 12 milyon euronun üzerinde bir teklif yaptı.",
-      "url": "https://www.yenisafak.com/galeri/spor/rafael-leaonun-ardindan-bir-golcu-daha-geliyor-4851768",
-      "image_url": null,
-      "published": "2026-08-29T18:02:51",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:56:49.655475",
-      "priority_score": 87,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:33.656002",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
-      "summary": "‘I don’t think we can afford to lose any players,’ says MoyesForest’s Armstrong bid said to be £40m; Palace agree £22m feeThe sale of the 19-year-old Harrison Armstrong to Nottingham Forest would be a “club decision” for Everton, according to David Moyes. After his team’s 1-1 draw at Bournemouth, in",
-      "url": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
-      "image_url": null,
-      "published": "2026-08-29T18:14:18",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:54:25.129382",
-      "priority_score": 83,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-30T00:57:32.676366",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
-      "published": "2026-08-29T21:40:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:53:58.621774",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-08-30T00:57:32.640617",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Every Bundesliga Man of the Match winner in 2026/27",
-      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
-      "image_url": null,
-      "published": "2026-08-30T03:59:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.874244",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-30T00:57:32.747316",
+      "processed_at": "2026-08-30T06:07:27.298396",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -277,13 +94,155 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-08-30T00:53:46.852551",
+      "fetched_at": "2026-08-30T06:03:53.574260",
       "priority_score": 80,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-08-30T00:57:32.590977",
+      "processed_at": "2026-08-30T06:07:27.299648",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
+      "summary": "Team from town of 13,000 shock 2024 championsJuventus 2-0 Parma; Sevilla 1-3 Atlético MadridThe Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an impressive 3-2 home victory on Saturday.Lukas Petkov and Cole Campbell scored within 60 se",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "image_url": null,
+      "published": "2026-08-29T21:46:43",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:27.246050",
+      "priority_score": 78,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-30T06:07:27.391635",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'I'll never forget today' - Martín Demichelis and RB Leipzig enjoy dream start to campaign against Borussia Mönchengladbach",
+      "summary": "Bayern Munich were always going to be a tough act to follow after their thumping victory over VfB Stuttgart on Friday, but new RB Leipzig head coach Martín Demichelis could hardly have wished for a better performance from his team in his first Bundesliga match in charge of the club.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/martin-demichelis-dream-rb-leipzig-start-nusa-nkunku-borussia-monchengladbach-38880",
+      "image_url": null,
+      "published": "2026-08-30T02:05:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:51.682380",
+      "priority_score": 66,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-08-30T06:07:27.479760",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da son dakika şoku: Yıldız isim maça başlayamadı",
+      "summary": "alatasaray’ın Göztepe’yi ağırladığı karşılaşmada maç öncesi beklenmedik bir değişiklik yaşandı. İlk 11’de gösterilen milli futbolcu son anda sahaya çıkmadı.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-son-dakika-soku-yildiz-isim-maca-baslayamadi-4851776",
+      "image_url": null,
+      "published": "2026-08-29T18:45:43",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:06:47.295371",
+      "priority_score": 57,
+      "categories": [
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:28.381045",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Rafael Leao'nun ardından bir golcü daha geliyor",
+      "summary": "Galatasaray, Rafael Leao transferinin ardından bir takviye için daha kolları sıvadı. Sarı-kırmızılılar milli futbolcuyu ikna ederken, kulübüne de 12 milyon euronun üzerinde bir teklif yaptı.",
+      "url": "https://www.yenisafak.com/galeri/spor/rafael-leaonun-ardindan-bir-golcu-daha-geliyor-4851768",
+      "image_url": null,
+      "published": "2026-08-29T18:02:51",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:06:47.295556",
+      "priority_score": 87,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:28.395093",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
+      "summary": "‘I don’t think we can afford to lose any players,’ says MoyesForest’s Armstrong bid said to be £40m; Palace agree £22m feeThe sale of the 19-year-old Harrison Armstrong to Nottingham Forest would be a “club decision” for Everton, according to David Moyes. After his team’s 1-1 draw at Bournemouth, in",
+      "url": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
+      "image_url": null,
+      "published": "2026-08-29T18:14:18",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:27.245582",
+      "priority_score": 83,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-30T06:07:27.386220",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
+      "published": "2026-08-29T21:40:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:05.071675",
+      "priority_score": 76,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-08-30T06:07:27.358415",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+    },
+    {
+      "title": "Galatasaray'da Victor Osimhen fırtınası: 3 haftada 7 yaptı!",
+      "summary": "Galatasaray formasıyla üçüncü sezonuna da fırtına gibi başlayan Victor Osimhen, Göztepe karşısında da performansıyla geceye damga vurdu. Sarı-kırmızılıların 3-2 kazandığı mücadelede Nijeryalı yıldız, 2 gole direkt katkı sağladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-victor-osimhen-firtinasi-3-haftada-7-yapti-43289524",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a933f425548acce7124f198.jpg",
+      "published": "2026-08-29T20:29:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:05:54.106893",
+      "priority_score": 76,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:27.771627",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -297,13 +256,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:56:49.655923",
+      "fetched_at": "2026-08-30T06:06:47.296020",
       "priority_score": 72,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:33.682211",
+      "processed_at": "2026-08-30T06:07:28.421943",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -317,34 +276,35 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:56:49.656480",
+      "fetched_at": "2026-08-30T06:06:47.296650",
       "priority_score": 72,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:33.736507",
+      "processed_at": "2026-08-30T06:07:28.477905",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray 3 puanı 3 golle aldı!",
-      "summary": "Trendyol Süper Lig'in 3. haftasında Galatasaray sahasında Göztepe'yi 3-2 mağlup etti. Galatasaray'a galibiyeti getiren golleri 33. dakikada Davinson Sanchez, 55. dakikada Gabriel Sara ve 63. dakikada Victor Osimhen kaydetti.",
-      "url": "https://www.haberturk.com/galatasaray-3-goztepe-2-mac-sonucu-3908865-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/29/ver1788035591/3908865/jpg/1280x1280",
-      "published": "2026-08-29T21:08:14",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Every Bundesliga Man of the Match winner in 2026/27",
+      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
+      "image_url": null,
+      "published": "2026-08-30T03:59:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.361616",
-      "priority_score": 68,
+      "fetched_at": "2026-08-30T06:04:51.680467",
+      "priority_score": 71,
       "categories": [
-        "match_results",
-        "super_lig"
+        "transfers",
+        "breaking_news",
+        "bundesliga"
       ],
-      "processed_at": "2026-08-30T00:57:32.857167",
+      "processed_at": "2026-08-30T06:07:27.458597",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -358,95 +318,53 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.869546",
+      "fetched_at": "2026-08-30T06:04:51.675793",
       "priority_score": 66,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-08-30T00:57:32.719773",
+      "processed_at": "2026-08-30T06:07:27.430146",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray 3-2 Göztepe Maç Özeti | Osimhen şov yaptı, Aslan kazandı",
-      "summary": "Galatasaray, Trendyol Süper Lig'in üçüncü haftasında sahasında Göztepe'yi ağırladı. Bu müsabakanın canlı anlatımı burada.",
-      "url": "https://www.cnnturk.com/spor/futbol/live-galatasaray-3-2-goztepe-mac-ozeti-osimhen-sov-yapti-aslan-kazandi-3460473",
+      "title": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+      "summary": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-08-29T23:31:01",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
+      "published": "2026-08-29T19:12:20",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:03:53.575004",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-08-30T06:07:27.303436",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray 3 puanı 3 golle aldı!",
+      "summary": "Trendyol Süper Lig'in 3. haftasında Galatasaray sahasında Göztepe'yi 3-2 mağlup etti. Galatasaray'a galibiyeti getiren golleri 33. dakikada Davinson Sanchez, 55. dakikada Gabriel Sara ve 63. dakikada Victor Osimhen kaydetti.",
+      "url": "https://www.haberturk.com/galatasaray-3-goztepe-2-mac-sonucu-3908865-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/29/ver1788035591/3908865/jpg/1280x1280",
+      "published": "2026-08-29T21:08:14",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:56:20.010040",
-      "priority_score": 66,
+      "fetched_at": "2026-08-30T06:05:40.710091",
+      "priority_score": 63,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:33.175960",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "\"Leao'yu Süper Lig'den de bir takım istedi!\"",
-      "summary": "Galatasaray'ın anlaşmaya vardığı Rafael Leao'nun transfer görüşmeleri hakkında açıklama yapan menajer George Gardi, \"Leao'ya Serie A'dan ve Premier Lig'den takımların ilgisi ve teklifleri vardı. Süper Lig'den de bir takım istedi. Daha yüksek teklifler de oldu. Kendisi istediği için tercihi Galatasar",
-      "url": "https://www.haberturk.com/george-gardi-leao-yu-super-lig-den-de-bir-takim-istedi-3909003-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/30/ver1788040184/3909003/jpg/1280x1280",
-      "published": "2026-08-29T21:49:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.361342",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:32.843808",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Okan Buruk'tan transfer açıklaması!",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Göztepe'yi 3-2 mağlup ettikleri maçın ardından açıklamalarda bulundu",
-      "url": "https://www.haberturk.com/okan-buruk-tan-transfer-aciklamasi-son-gunleri-degerlendirmek-istiyoruz-3909002-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/30/ver1788039937/3909002/jpg/1280x1280",
-      "published": "2026-08-29T21:45:49",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.361451",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:32.848637",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da galibiyet üçlüsü Leao'dan!",
-      "summary": "Galatasaray’ın İtalya Serie A ekiplerinden Milan’dan transfer ettiği Portekizli futbolcu Rafael Leao, sarı-kırmızılı takımın Göztepe’yi 3-2 mağlup ettiği karşılaşmanın ardından sahaya inerek taraftarları selamladı ve üçlü çektirdi",
-      "url": "https://www.haberturk.com/galatasaray-da-galibiyet-uclusu-rafael-leao-dan-3908997-spor",
-      "image_url": "https://im.haberturk.com/l/2026/08/29/ver1788037070/3908997/jpg/1280x1280",
-      "published": "2026-08-29T20:58:00",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.361696",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:32.862525",
+      "processed_at": "2026-08-30T06:07:27.569156",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -460,51 +378,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.362205",
+      "fetched_at": "2026-08-30T06:05:40.710736",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-08-30T00:57:32.904005",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-08-29T22:22:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:53:58.620897",
-      "priority_score": 61,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-08-30T00:57:32.605004",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Elversberg tear up the record books after dream Bundesliga debut victory over Bayer Leverkusen",
-      "summary": "Vincent Wagner's Elversberg, who were playing fourth-tier football as recently as five years ago, marked their Bundesliga debut in stunning fashion on Saturday, defeating seasoned top-flight campaigners Bayer Leverkusen 3-2 to make history at the first time of asking.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/elversberg-record-breaking-debut-victory-bayer-leverkusen-38879",
-      "image_url": null,
-      "published": "2026-08-30T04:23:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.872281",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-08-30T00:57:32.742332",
+      "processed_at": "2026-08-30T06:07:27.617312",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -518,55 +397,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-08-30T00:54:49.898686",
+      "fetched_at": "2026-08-30T06:04:51.704917",
       "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-08-30T00:57:32.809384",
+      "processed_at": "2026-08-30T06:07:27.520647",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Batrakov, Galatasaray formasıyla ilk resmi maçına çıktı!",
-      "summary": "Galatasaray'ın yeni transferleri Aleksey Batrakov, sarı-kırmızılı formayla ilk resmi maçına Göztepe karşısında çıktı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/batrakov-galatasaray-formasiyla-ilk-resmi-macina-cikti-43289579",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9345e55548acce7124f1d4.jpg",
-      "published": "2026-08-29T20:49:53",
-      "source": "Hürriyet Spor",
+      "title": "Galatasaray 3-2 Göztepe Maç Özeti | Osimhen şov yaptı, Aslan kazandı",
+      "summary": "Galatasaray, Trendyol Süper Lig'in üçüncü haftasında sahasında Göztepe'yi ağırladı. Bu müsabakanın canlı anlatımı burada.",
+      "url": "https://www.cnnturk.com/spor/futbol/live-galatasaray-3-2-goztepe-mac-ozeti-osimhen-sov-yapti-aslan-kazandi-3460473",
+      "image_url": null,
+      "published": "2026-08-29T23:31:01",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:55:54.799870",
+      "fetched_at": "2026-08-30T06:06:18.776744",
       "priority_score": 61,
       "categories": [
-        "transfers",
+        "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:32.986979",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe'den ayrılan Amrabat'tan şaşırtan transfer! İşte yeni takımı",
-      "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe'nin sözleşmesini karşılıklı olarak feshettiği Sofyan Amrabat ile ilgili flaş bir gelişme yaşandı. Real Betis'e transfer olacağı konuşulan Faslı orta...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahceden-ayrilan-amrabattan-sasirtan-transfer-iste-yeni-takimi",
-      "image_url": "https://iaftm.tmgrup.com.tr/6830d7/1200/675/0/67/800/517?u=https://iftm.tmgrup.com.tr/2026/08/29/fenerbahceden-ayrilan-amrabattan-sasirtan-transfer-iste-yeni-takimi-1788029935143.jpeg",
-      "published": "2026-08-29T19:03:24",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-08-30T00:56:33.579381",
-      "priority_score": 59,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-08-30T00:57:33.513488",
+      "processed_at": "2026-08-30T06:07:27.859743",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -580,14 +438,76 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-08-30T00:54:25.131304",
+      "fetched_at": "2026-08-30T06:04:27.247556",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league",
         "world_cup"
       ],
-      "processed_at": "2026-08-30T00:57:32.706300",
+      "processed_at": "2026-08-30T06:07:27.416523",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Leao'yu Süper Lig'den de bir takım istedi!\"",
+      "summary": "Galatasaray'ın anlaşmaya vardığı Rafael Leao'nun transfer görüşmeleri hakkında açıklama yapan menajer George Gardi, \"Leao'ya Serie A'dan ve Premier Lig'den takımların ilgisi ve teklifleri vardı. Süper Lig'den de bir takım istedi. Daha yüksek teklifler de oldu. Kendisi istediği için tercihi Galatasar",
+      "url": "https://www.haberturk.com/george-gardi-leao-yu-super-lig-den-de-bir-takim-istedi-3909003-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/30/ver1788040184/3909003/jpg/1280x1280",
+      "published": "2026-08-29T21:49:50",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:05:40.709843",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:27.555582",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Okan Buruk'tan transfer açıklaması!",
+      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Göztepe'yi 3-2 mağlup ettikleri maçın ardından açıklamalarda bulundu",
+      "url": "https://www.haberturk.com/okan-buruk-tan-transfer-aciklamasi-son-gunleri-degerlendirmek-istiyoruz-3909002-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/30/ver1788039937/3909002/jpg/1280x1280",
+      "published": "2026-08-29T21:45:49",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:05:40.709930",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:27.560485",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da galibiyet üçlüsü Leao'dan!",
+      "summary": "Galatasaray’ın İtalya Serie A ekiplerinden Milan’dan transfer ettiği Portekizli futbolcu Rafael Leao, sarı-kırmızılı takımın Göztepe’yi 3-2 mağlup ettiği karşılaşmanın ardından sahaya inerek taraftarları selamladı ve üçlü çektirdi",
+      "url": "https://www.haberturk.com/galatasaray-da-galibiyet-uclusu-rafael-leao-dan-3908997-spor",
+      "image_url": "https://im.haberturk.com/l/2026/08/29/ver1788037070/3908997/jpg/1280x1280",
+      "published": "2026-08-29T20:58:00",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:05:40.710227",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:27.574641",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -601,14 +521,92 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-08-30T00:55:41.362135",
+      "fetched_at": "2026-08-30T06:05:40.710668",
       "priority_score": 58,
       "categories": [
         "transfers",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-08-30T00:57:32.898342",
+      "processed_at": "2026-08-30T06:07:27.611433",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe'ye Brezilya'dan sürpriz 10 numara",
+      "summary": "Fenerbahçe'nin gündemine Brezilya'dan sürpriz bir isim geldi. Gremio forması giyen Gabriel Mec'in sarı-lacivertli kulübe önerildiği, yönetimin ise genç futbolcunun transferine sıcak baktığı öne sürüldü.",
+      "url": "https://www.yenisafak.com/galeri/spor/fenerbahceye-brezilyadan-surpriz-10-numara-4851742",
+      "image_url": null,
+      "published": "2026-08-29T15:01:46",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:06:47.296468",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:28.456311",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Norris: I can be forceful to get what I want at McLaren",
+      "summary": "Reigning world champion Lando Norris says he is in a position at McLaren where he \"can be forceful to try to get what I want\" after signing a contract extension with the team.",
+      "url": "https://www.skysports.com/f1/news/12040/13578159/lando-norris-mclaren-driver-says-he-can-be-forceful-to-get-what-he-wants-with-team-after-signing-new-contract",
+      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-lando-norris-mclaren_7333696.jpg?20260828154040",
+      "published": "2026-08-30T07:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:05.070740",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-30T06:07:27.315873",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-08-29T22:22:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:04:05.070817",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-08-30T06:07:27.318456",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Batrakov, Galatasaray formasıyla ilk resmi maçına çıktı!",
+      "summary": "Galatasaray'ın yeni transferleri Aleksey Batrakov, sarı-kırmızılı formayla ilk resmi maçına Göztepe karşısında çıktı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/batrakov-galatasaray-formasiyla-ilk-resmi-macina-cikti-43289579",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9345e55548acce7124f1d4.jpg",
+      "published": "2026-08-29T20:49:53",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-08-30T06:05:54.106818",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-08-30T06:07:27.761511",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
