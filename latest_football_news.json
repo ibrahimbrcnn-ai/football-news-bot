@@ -1,28 +1,7 @@
 {
-  "timestamp": "2026-09-05T02:01:05.070220",
+  "timestamp": "2026-09-05T06:35:46.645552",
   "total_items": 30,
   "news": [
-    {
-      "title": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
-      "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That",
-      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-09-04T21:07:54",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:23.107169",
-      "priority_score": 100,
-      "categories": [
-        "transfers",
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-05T01:59:35.270164",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
     {
       "title": "RB Leipzig confirm talks on extending contract with club captain David Raum",
       "summary": "RB Leipzig have confirmed they are planning to open contract extension talks with Germany international left-back and club captain David Raum later this month, with his current deal due to expire next summer.",
@@ -33,7 +12,7 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:51.389844",
+      "fetched_at": "2026-09-05T06:31:41.044289",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -41,7 +20,28 @@
         "serie_a",
         "bundesliga"
       ],
-      "processed_at": "2026-09-05T01:59:35.338695",
+      "processed_at": "2026-09-05T06:34:24.492721",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
+      "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That",
+      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-09-04T21:07:54",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:31:19.483548",
+      "priority_score": 98,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-05T06:34:24.441178",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -55,13 +55,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.326755",
-      "priority_score": 96,
+      "fetched_at": "2026-09-05T06:32:48.735370",
+      "priority_score": 91,
       "categories": [
         "transfers",
         "match_results"
       ],
-      "processed_at": "2026-09-05T01:59:35.418585",
+      "processed_at": "2026-09-05T06:34:24.577465",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -75,13 +75,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180620",
-      "priority_score": 81,
+      "fetched_at": "2026-09-05T06:30:57.679091",
+      "priority_score": 76,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-09-05T01:59:35.254320",
+      "processed_at": "2026-09-05T06:34:24.435856",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -95,115 +95,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:50.057806",
+      "fetched_at": "2026-09-05T06:33:44.339463",
       "priority_score": 72,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.738508",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da Osimhen telaşı: Kusursuz seriyi Başakşehir'de sürdürdü, sakatlanıp çıktı!",
-      "summary": "Süper Lig'in 4. haftasında Başakşehir'in konuğu olan Galatasaray'da Victor Osimhen, 'gol katkısı' serisini sürdürürken, ilk yarının sonlarında talihsiz bir sakatlık yaşadı ve oyuna devam edemedi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-osimhen-telasi-kusursuz-seriyi-basaksehirde-surdurdu-sakatlanip-cikti-43296413",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9b0919304058ea73db6c82.jpg",
-      "published": "2026-09-04T17:56:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.327255",
-      "priority_score": 71,
-      "categories": [
-        "match_results",
-        "injuries",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-05T01:59:35.483390",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Leigh seal play-off spot as Saints miss out for first time",
-      "summary": "Leigh Leopards secured their Super League play-off place with a 48-10 victory over St Helens, who missed the play-offs for the first time in the club's history.",
-      "url": "https://www.skysports.com/watch/video/13581546/hull-kr-v-huddersfield-giants-super-league-highlights-as-robins-win-36-6-to-seal-play-off-spot",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-leigh-super-league_7341440.jpg?20260904221153",
-      "published": "2026-09-04T21:58:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180579",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "injuries"
-      ],
-      "processed_at": "2026-09-05T01:59:35.251647",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Every Bundesliga Man of the Match winner in 2026/27",
-      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
-      "image_url": null,
-      "published": "2026-09-05T04:15:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:51.376002",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-05T01:59:35.324506",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "GALATASARAY BAŞAKŞEHİR MAÇ SKORU: Galatasaray Başakşehir maçı kaç kaç bitti?",
-      "summary": "Galatasaray Başakşehir maçına ilişkin araştırmalar hız kazandı. Futbol tutkunları Galatasaray Başakşehir maçına dair detayları sorgulamaya başladı. Süper Lig'in 4. haftasına lider giren Galatasaray, Başakşehir'e konuk oldu. Sarı-kırmızılılar kazanarak zirvedeki yerini korumayı hedefledi. Peki Galata",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-basaksehir-canli-izle-galatasaray-basaksehir-maci-ne-zaman-saat-kacta-hangi-kanalda-3462938",
-      "image_url": null,
-      "published": "2026-09-04T23:12:56",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:58:19.924448",
-      "priority_score": 71,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-05T01:59:35.571848",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Chaotic Crystal Palace transfer window leaves Pierre Sage to run the gamut of emotions",
-      "summary": "Manager was frustrated not to land defensive targets and lost last-day tug of war but can draw on positives as he seeks his first pointsAt least Pierre Sage did his research before joining Crystal Palace in June. Having stepped into Oliver Glasner’s shoes after the most successful era in the club’s ",
-      "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
-      "image_url": null,
-      "published": "2026-09-04T11:58:29",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:23.109036",
-      "priority_score": 68,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-05T01:59:35.297233",
+      "processed_at": "2026-09-05T06:34:24.815847",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -217,53 +115,152 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:50.057928",
+      "fetched_at": "2026-09-05T06:33:44.339575",
       "priority_score": 67,
       "categories": [
         "match_results",
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.747011",
+      "processed_at": "2026-09-05T06:34:24.823019",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Try AND a new deal! | Charnley delivers unique celebration",
-      "summary": "Josh Charnley scores for Leigh Leopards against St Helens before producing a contract during the celebrations and signing an extension to remain with the club.",
-      "url": "https://www.skysports.com/watch/video/13581483/leigh-leopards-v-st-helens-josh-charnley-scores-try-then-signs-contract-extension-during-celebration",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-chanley-rugby-league_7341279.jpg?20260904202508",
-      "published": "2026-09-04T20:20:00",
+      "title": "Leigh seal play-off spot as Saints miss out for first time",
+      "summary": "Leigh Leopards secured their Super League play-off place with a 48-10 victory over St Helens, who missed the play-offs for the first time in the club's history.",
+      "url": "https://www.skysports.com/watch/video/13581546/hull-kr-v-huddersfield-giants-super-league-highlights-as-robins-win-36-6-to-seal-play-off-spot",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-leigh-super-league_7341440.jpg?20260904221153",
+      "published": "2026-09-04T21:58:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180663",
-      "priority_score": 66,
+      "fetched_at": "2026-09-05T06:30:57.679054",
+      "priority_score": 56,
       "categories": [
-        "transfers"
+        "breaking_news",
+        "injuries"
       ],
-      "processed_at": "2026-09-05T01:59:35.256787",
+      "processed_at": "2026-09-05T06:34:24.433331",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
-      "summary": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "title": "Man Utd made midfield recruitment summer priority - what happens now?",
+      "summary": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-09-04T21:30:00",
+      "published": "2026-09-05T05:56:59",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:30:48.552925",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-05T06:34:24.404115",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "TRABZONSPOR KONFERANS LİGİ KADROSU: TS UEFA Listesi Belli Oldu Mu? Trabzonspor Konferans Ligi Kadrosunda Kimler Var?",
+      "summary": "Trabzonspor Konferans Ligi kadrosu, TS UEFA listesi, Trabzonspor UEFA kadrosu bordo mavili taraftarların gündemindeki yerini koruyor. UEFA Konferans Ligi karşılaşmaları öncesinde gözler Trabzonspor'un UEFA'ya bildirdiği oyuncu listesine çevrildi. Fatih Tekke'nin istifasının ardından teknik heyetin t",
+      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-konferans-ligi-kadrosu-ts-uefa-listesi-belli-oldu-mu-trabzonspor-konferans-ligi-kadrosunda-kimler-var-3462340",
+      "image_url": null,
+      "published": "2026-09-05T09:10:08",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:33:10.519846",
+      "priority_score": 51,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-09-05T06:34:24.731052",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Every Bundesliga Man of the Match winner in 2026/27",
+      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
+      "image_url": null,
+      "published": "2026-09-05T04:15:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:31:41.032936",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-05T06:34:24.481120",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Chaotic Crystal Palace transfer window leaves Pierre Sage to run the gamut of emotions",
+      "summary": "Manager was frustrated not to land defensive targets and lost last-day tug of war but can draw on positives as he seeks his first pointsAt least Pierre Sage did his research before joining Crystal Palace in June. Having stepped into Oliver Glasner’s shoes after the most successful era in the club’s ",
+      "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
+      "image_url": null,
+      "published": "2026-09-04T11:58:29",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:23.109376",
-      "priority_score": 63,
+      "fetched_at": "2026-09-05T06:31:19.485145",
+      "priority_score": 68,
       "categories": [
         "transfers",
-        "premier_league"
+        "breaking_news"
       ],
-      "processed_at": "2026-09-05T01:59:35.306295",
+      "processed_at": "2026-09-05T06:34:24.463466",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Verbazing rond Gakpo: 'Liverpool heeft per toeval grote transferblunder voorkomen'",
+      "summary": "Cody Gakpo was vrijdagavond, samen met Alexander Isak, de grote uitblinker bij Liverpool tijdens de 0-2 overwinning op Ipswich Town . Zijn twee assists maakten grote indruk op de Britse media.",
+      "url": "https://www.vi.nl/nieuws/gakpo-maakt-indruk-tegen-ipswich-barcola-gaat-het-heel-zwaar-krijgen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/05/9e4fc2d67a795b9796a039064f2c515778cdaafe.jpg?width=1200",
+      "published": "2026-09-05T06:31:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:34:21.897823",
+      "priority_score": 67,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-05T06:34:24.896624",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "GALATASARAY BAŞAKŞEHİR MAÇ SKORU: Galatasaray Başakşehir maçı kaç kaç bitti?",
+      "summary": "Galatasaray Başakşehir maçına ilişkin araştırmalar hız kazandı. Futbol tutkunları Galatasaray Başakşehir maçına dair detayları sorgulamaya başladı. Süper Lig'in 4. haftasına lider giren Galatasaray, Başakşehir'e konuk oldu. Sarı-kırmızılılar kazanarak zirvedeki yerini korumayı hedefledi. Peki Galata",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-basaksehir-canli-izle-galatasaray-basaksehir-maci-ne-zaman-saat-kacta-hangi-kanalda-3462938",
+      "image_url": null,
+      "published": "2026-09-04T23:12:56",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:33:10.520154",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-05T06:34:24.760455",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -277,33 +274,32 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:41.303697",
+      "fetched_at": "2026-09-05T06:32:33.602335",
       "priority_score": 63,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.377045",
+      "processed_at": "2026-09-05T06:34:24.519289",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-04T22:18:00",
+      "title": "Try AND a new deal! | Charnley delivers unique celebration",
+      "summary": "Josh Charnley scores for Leigh Leopards against St Helens before producing a contract during the celebrations and signing an extension to remain with the club.",
+      "url": "https://www.skysports.com/watch/video/13581483/leigh-leopards-v-st-helens-josh-charnley-scores-try-then-signs-contract-extension-during-celebration",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-chanley-rugby-league_7341279.jpg?20260904202508",
+      "published": "2026-09-04T20:20:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180759",
+      "fetched_at": "2026-09-05T06:30:57.679130",
       "priority_score": 61,
       "categories": [
-        "transfers",
-        "premier_league"
+        "transfers"
       ],
-      "processed_at": "2026-09-05T01:59:35.266496",
+      "processed_at": "2026-09-05T06:34:24.438270",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -317,33 +313,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.326903",
+      "fetched_at": "2026-09-05T06:32:48.735488",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-05T01:59:35.435905",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Türkiye 75-89 Belçika (FIBA 2026 Kadınlar Dünya Kupası)",
-      "summary": "Trendyol Süper Lig'in 4. haftasında Başakşehir'in konuğu olan Galatasaray'da Victor Osimhen şoku yaşandı. Maçın ilk golünü atan Nijeryalı yıldız, yaşadığı sakatlığın ardından oyuna devam edemedi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/turkiye-75-89-belcika-fiba-2026-kadinlar-dunya-kupasi-43296440",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9b0dc8304058ea73db6c95.jpg",
-      "published": "2026-09-04T18:28:26",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.327212",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-05T01:59:35.474413",
+      "processed_at": "2026-09-05T06:34:24.592744",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -357,13 +332,33 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:23.109217",
+      "fetched_at": "2026-09-05T06:31:19.485336",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-09-05T01:59:35.301350",
+      "processed_at": "2026-09-05T06:34:24.466894",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+      "summary": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "image_url": null,
+      "published": "2026-09-04T21:30:00",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:31:19.485480",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-05T06:34:24.470952",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -377,13 +372,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:50.058257",
+      "fetched_at": "2026-09-05T06:33:44.339891",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.770121",
+      "processed_at": "2026-09-05T06:34:24.842810",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -397,13 +392,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:50.058380",
+      "fetched_at": "2026-09-05T06:33:44.339991",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.777755",
+      "processed_at": "2026-09-05T06:34:24.849336",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -417,13 +412,13 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:50.058590",
+      "fetched_at": "2026-09-05T06:33:44.340198",
       "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.800482",
+      "processed_at": "2026-09-05T06:34:24.868668",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -437,12 +432,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.326946",
+      "fetched_at": "2026-09-05T06:32:48.735528",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-05T01:59:35.440506",
+      "processed_at": "2026-09-05T06:34:24.596831",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -456,13 +451,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:52.327123",
+      "fetched_at": "2026-09-05T06:32:48.735683",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.463221",
+      "processed_at": "2026-09-05T06:34:24.616848",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -476,7 +471,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:57:58.754331",
+      "fetched_at": "2026-09-05T06:32:54.224876",
       "priority_score": 56,
       "categories": [
         "match_results",
@@ -484,7 +479,65 @@
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.518036",
+      "processed_at": "2026-09-05T06:34:24.635626",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "TRANSFER SEZONU NE ZAMAN BİTİYOR? 2026-2027 Avrupa Transfer Dönemi Son Tarih Ne? Süper Lig'de Gözler Yeni İmzalarda",
+      "summary": "Transfer sezonu ne zaman bitiyor, 2026-2027 transfer dönemi tarihleri, TFF transfer takvimi, Süper Lig transfer dönemi, yaz transfer sezonu, transfer haberleri, futbol transferleri, Trendyol Süper Lig aramalarında yoğunluk yaşanıyor. Türkiye Futbol Federasyonu'nun aldığı kararlar doğrultusunda 2026-",
+      "url": "https://www.cnnturk.com/spor/futbol/transfer-sezonu-ne-zaman-bitiyor-2026-2027-avrupa-transfer-donemi-son-tarih-ne-super-ligde-gozler-yeni-imzalarda-3461428",
+      "image_url": null,
+      "published": "2026-09-05T09:10:53",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:33:10.519628",
+      "priority_score": 56,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-05T06:34:24.702836",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "De nieuwe wereld van Joey Veerman: 'Er moet wel tien procent bovenop'",
+      "summary": "Na lang wachten kreeg Joey Veerman (27) dan toch zijn droomtransfer. Een topclub, niet eens zo ver van huis, maar wel een andere dimensie. Een bezoek aan het Signal Iduna Park en een rondgang langs kenners, van Veerman en Borussia: wat staat de middenvelder te wachten?",
+      "url": "https://www.vi.nl/pro/de-nieuwe-wereld-van-joey-veerman-er-moet-wel-tien-procent-bovenop",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/08/31/6ea27c83d6be6bf7202fc60ef882be06b7807a67.jpg?width=1200",
+      "published": "2026-09-05T06:03:25",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:34:21.897875",
+      "priority_score": 52,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-05T06:34:24.906776",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Serena and Venus Williams suffer agonising US Open doubles defeat",
+      "summary": "Serena and Venus Williams turn back the clock to defeat Maya Joint and Chan Hao-Ching in a US Open women's doubles first-round epic.",
+      "url": "https://www.skysports.com/tennis/news/12040/13581587/us-open-serena-and-venus-williams-suffer-agonising-defeat-to-maya-joint-and-chan-hao-ching-in-a-womens-doubles-first-round-epic",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-serena-williams-venus-williams_7341530.jpg?20260905044502",
+      "published": "2026-09-05T03:20:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-05T06:30:57.678564",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-05T06:34:24.413138",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -498,14 +551,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:19.924686",
-      "priority_score": 56,
+      "fetched_at": "2026-09-05T06:33:10.520379",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.593482",
+      "processed_at": "2026-09-05T06:34:24.780605",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -519,90 +572,33 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-05T01:58:19.924895",
-      "priority_score": 56,
+      "fetched_at": "2026-09-05T06:33:10.520573",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-09-05T01:59:35.608252",
+      "processed_at": "2026-09-05T06:34:24.794229",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "PSG slaat megaslag: Luis Enrique en vijf spelers verlengen contract",
-      "summary": "Paris Saint-Germain gaat langer verder met Luis Enrique, zo maakt de kampioen van Frankrijk en Europa vrijdagavond bekend. Behalve de Spaanse trainer hebben ook vijf spelers contractverlengingen getekend.",
-      "url": "https://www.vi.nl/nieuws/psg-slaat-megaslag-luis-enrique-en-vijf-spelers-verlengen-contract",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/04/97386e5cc5e7c2f3cc48f4d8976d0ddaa813ad2c.jpg?width=1200",
-      "published": "2026-09-04T19:01:04",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:59:33.209788",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-05T01:59:36.014299",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Greaves makes more history with win at Czech Darts Open",
-      "summary": "Beau Greaves made more darting history as she became the first woman to win a match on the PDC's European Tour - a feat that secured her a second-round clash with Luke Humphries at the Czech Darts Open.",
-      "url": "https://www.skysports.com/darts/news/12040/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open",
-      "image_url": "https://e0.365dm.com/26/07/1920x1080/skysports-beau-greaves-darts_7307269.jpg?20260726172234",
-      "published": "2026-09-04T20:55:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180089",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-05T01:59:35.234003",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Recruitment's been SHOCKING!' - Wilkin and Jones-Buchanan on Saints' woes",
-      "summary": "Jon Wilkin and Jamie Jones-Buchanan assess the problems facing St Helens after their 48-10 defeat at Leigh saw them miss the Super League play-offs for the first time in the club's history, with recruitment and squad balance coming under scrutiny.",
-      "url": "https://www.skysports.com/watch/video/13581567/leigh-leopards-v-st-helens-jon-wilkin-and-jamie-jones-buchanan-assess-saints-after-missing-play-offs",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-st-helens-super_7341464.jpg?20260904222951",
-      "published": "2026-09-04T22:24:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-05T01:56:00.180707",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-05T01:59:35.259835",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bilal El Khannouss inspires VfB Stuttgart to big win over Cologne",
-      "summary": "VfB Stuttgart took a commanding 4-1 win over Cologne in Friday's Matchday 2 opener, with Bilal El Khannouss in fine form with a sparkling solo effort, while Ermedin Demirović and Josha Vagnoman also struck splendid individual goals.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-cologne-match-report-highlights-matchday-2-39024",
+      "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
+      "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
+      "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-09-05T04:30:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-09-04T09:31:21",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-05T01:56:51.374279",
-      "priority_score": 51,
+      "fetched_at": "2026-09-05T06:30:48.553423",
+      "priority_score": 50,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-05T01:59:35.321067",
+      "processed_at": "2026-09-05T06:34:24.405650",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
