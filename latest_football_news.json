@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T23:24:15.118357",
+  "timestamp": "2026-09-08T02:14:54.529340",
   "total_items": 30,
   "news": [
     {
@@ -12,15 +12,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.167849",
+      "fetched_at": "2026-09-08T01:59:50.763651",
       "priority_score": 91,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:12.887473",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.518647",
+      "title_tr": "Bundesliga Matchday 2 video highlights",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -33,35 +33,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:11:59.449452",
+      "fetched_at": "2026-09-08T02:01:13.031697",
       "priority_score": 86,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-07T23:13:13.196472",
+      "processed_at": "2026-09-08T02:02:17.826715",
       "title_tr": "Galatasaray'ın yeni yıldızı Leao'dan, Osimhen'e: 100 asist yapmak istiyorum",
       "summary_tr": "Galatasaray’ın yeni transferi Rafael Leao, kulübün YouTube kanalında ilk kapsamlı röportajını verdi. Portekizli kanat, transfer sürecinden Okan Buruk’la iletişimine, Osimhen hedefinden 27 numaraya kadar konuştu."
-    },
-    {
-      "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-07T23:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:09:39.345443",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-07T23:13:12.766155",
-      "title_tr": "Papers: Man Utd monitoring Dortmund star Nmecha",
-      "summary_tr": "The top stories and transfer rumours from Tuesday's newspapers..."
     },
     {
       "title": "Isak reflects on quick goalscoring start to the season",
@@ -73,12 +53,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:39.346364",
+      "fetched_at": "2026-09-08T01:59:04.580450",
       "priority_score": 66,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-07T23:13:12.802260",
+      "processed_at": "2026-09-08T02:02:17.433570",
       "title_tr": "Isak reflects on quick goalscoring start to the season",
       "summary_tr": "Liverpool striker Alexander Isak reflects on his start to the season where he has scored three goals in three games."
     },
@@ -92,15 +72,35 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:11:59.449974",
+      "fetched_at": "2026-09-08T02:01:13.032233",
       "priority_score": 66,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-07T23:13:13.216815",
+      "processed_at": "2026-09-08T02:02:17.846957",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-09-07T23:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:59:04.579545",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-08T02:02:17.397736",
+      "title_tr": "Papers: Man Utd monitoring Dortmund star Nmecha",
+      "summary_tr": "The top stories and transfer rumours from Tuesday's newspapers..."
     },
     {
       "title": "Better than Jürgen Klopp, Ottmar Hitzfeld and Co.: Niko Kovač tops the Borussia Dortmund pile",
@@ -112,15 +112,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.168561",
+      "fetched_at": "2026-09-08T01:59:50.764341",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:12.895515",
+      "processed_at": "2026-09-08T02:02:17.526819",
       "title_tr": "Better than Jürgen Klopp, Ottmar Hitzfeld and Co.: Niko Kovač tops the Borussia Dortmund pile",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "Borussia Dortmund's victory over Hoffenheim was Niko Kovač's 50th Bundesliga game as head coach, and he is setting a record-breaking pace."
     },
     {
       "title": "Stevens ziet verbeterpunt voor Veerman in Duitsland: 'Voetbal bestaat ook uit balverlies'",
@@ -132,14 +132,14 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-09-07T23:13:10.721331",
+      "fetched_at": "2026-09-08T02:02:14.065089",
       "priority_score": 57,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:13.401665",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:18.032656",
+      "title_tr": "Stevens ziet verbeterpunt voor Veerman in Duitsland: 'Voetbal bestaat ook uit balverlies'",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -152,12 +152,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.252642",
+      "fetched_at": "2026-09-08T01:59:26.039857",
       "priority_score": 53,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-09-07T23:13:12.821218",
+      "processed_at": "2026-09-08T02:02:17.452450",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -171,35 +171,16 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:29.584058",
+      "fetched_at": "2026-09-08T01:58:55.351426",
       "priority_score": 45,
       "categories": [
         "premier_league",
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-09-07T23:13:12.758574",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.390227",
+      "title_tr": "Chiesa might leave Liverpool - Tuesday's gossip",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
-      "summary": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrestsThe concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fi",
-      "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
-      "image_url": null,
-      "published": "2026-09-07T18:00:14",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.251765",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-07T23:13:12.811451",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrestsThe concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fi"
     },
     {
       "title": "Who will be new Liverpool sporting director - and what issues do they face?",
@@ -211,12 +192,31 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:29.583249",
+      "fetched_at": "2026-09-08T01:58:55.350603",
       "priority_score": 40,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-09-07T23:13:12.756096",
+      "processed_at": "2026-09-08T02:02:17.387770",
+      "title_tr": "Who will be new Liverpool sporting director - and what issues do they face?",
+      "summary_tr": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director."
+    },
+    {
+      "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
+      "summary": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrestsThe concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fi",
+      "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
+      "image_url": null,
+      "published": "2026-09-07T18:00:14",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:59:26.039003",
+      "priority_score": 38,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-08T02:02:17.442738",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -230,35 +230,16 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.255203",
+      "fetched_at": "2026-09-08T01:59:26.042417",
       "priority_score": 63,
       "categories": [
         "match_results",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-09-07T23:13:12.852343",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for GunnersKirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 vi"
-    },
-    {
-      "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "published": "2026-09-07T17:35:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:09:39.345757",
-      "priority_score": 61,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-07T23:13:12.779062",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+      "processed_at": "2026-09-08T02:02:17.483551",
+      "title_tr": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Loris Karius delivers on Schalke's big night against Bayern Munich",
@@ -270,15 +251,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.171492",
+      "fetched_at": "2026-09-08T01:59:50.767144",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:12.916688",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-09-08T02:02:17.547861",
+      "title_tr": "Loris Karius delivers on Schalke's big night against Bayern Munich",
+      "summary_tr": "Loris Karius has completed quite the redemption arc. The Schalke goalkeeper produced a Man of the Match performance to help his side shut out Bayern Munich in their first Bundesliga home game since May 2023, securing a memorable point for the newly promoted side."
+    },
+    {
+      "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "published": "2026-09-07T17:35:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:59:04.579859",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-08T02:02:17.410649",
+      "title_tr": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Fenerbahçe'nin eski stoperi Djiku'dan Galatasaraylı Batrakov'a övgüler!",
@@ -290,15 +290,15 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:11:32.190304",
+      "fetched_at": "2026-09-08T02:00:51.725171",
       "priority_score": 56,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-07T23:13:12.964564",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-09-08T02:02:17.595647",
+      "title_tr": "Fenerbahçe'nin eski stoperi Djiku'dan Galatasaraylı Batrakov'a övgüler!",
+      "summary_tr": "Fenerbahçe'den 2025 yılında Spartak Moskova'ya transfer olan Alexander Djiku, Lokomotiv Moskova'dan Galatasaray'a transfer olan Aleksey Batrakov'a övgülerde bulundu."
     },
     {
       "title": "Joey Barton to remain in custody until trial after bail application turned down",
@@ -310,13 +310,33 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.253740",
+      "fetched_at": "2026-09-08T01:59:26.040954",
       "priority_score": 53,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-07T23:13:12.832457",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.463727",
+      "title_tr": "Joey Barton to remain in custody until trial after bail application turned down",
+      "summary_tr": "Former footballer accused of attack outside golf clubHis trial has been pushed back to March next yearThe former footballer Joey Barton will remain in custody until his trial next year after a bail application was refused.The 44-year-old had been due to stand trial at Liverpool crown court last week"
+    },
+    {
+      "title": "Iğdır FK, İstanbul'da 2 golle kazandı!",
+      "summary": "Iğdır FK, Trendyol 1. Lig’in 6. haftasında İstanbulspor'u deplasmanda 2-1 yendi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/igdir-fk-istanbulda-2-golle-kazandi-43299258",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9ee5033c2ee1c0fb72eede.jpg",
+      "published": "2026-09-07T16:23:48",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-08T02:00:51.725238",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-08T02:02:17.600424",
+      "title_tr": "Iğdır FK, İstanbul'da 2 golle kazandı!",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -329,35 +349,15 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:12:31.269110",
-      "priority_score": 52,
+      "fetched_at": "2026-09-08T02:01:39.134985",
+      "priority_score": 47,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-07T23:13:13.247157",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.877105",
+      "title_tr": "Süper Lig'de şaşırtan skor: Göztepeli taraftarlar ne olduğunu anlayamadı!",
       "summary_tr": "Süper Lig’de gecenin sürprizi yaşandı. İzmir ekibi Göztepe kendi sahasında kalesinde 4 gol gördü ve taraftarlarından tepki gördü."
-    },
-    {
-      "title": "Iğdır FK, İstanbul'da 2 golle kazandı!",
-      "summary": "Iğdır FK, Trendyol 1. Lig’in 6. haftasında İstanbulspor'u deplasmanda 2-1 yendi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/igdir-fk-istanbulda-2-golle-kazandi-43299258",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9ee5033c2ee1c0fb72eede.jpg",
-      "published": "2026-09-07T16:23:48",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:11:32.190371",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-09-07T23:13:12.969396",
-      "title_tr": "Iğdır FK, İstanbul'da 2 golle kazandı!",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "The flap of a wing: How St Helens let success become stagnation",
@@ -369,14 +369,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:39.346049",
+      "fetched_at": "2026-09-08T01:59:04.580145",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-09-07T23:13:12.791594",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "The dust has settled on the fact that St Helens have missed out on play-off rugby for the first time after their seventh-placed finish in Super League."
+      "processed_at": "2026-09-08T02:02:17.422885",
+      "title_tr": "The flap of a wing: How St Helens let success become stagnation",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Putellas outshone by Cascarino on debut but is spine of London City's success",
@@ -388,13 +388,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:39.346212",
+      "fetched_at": "2026-09-08T01:59:04.580304",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-09-07T23:13:12.795510",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.426858",
+      "title_tr": "Putellas outshone by Cascarino on debut but is spine of London City's success",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -407,13 +407,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.170663",
+      "fetched_at": "2026-09-08T01:59:50.766354",
       "priority_score": 46,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:12.910127",
+      "processed_at": "2026-09-08T02:02:17.541357",
       "title_tr": "Maurice Krattenmacher makes his mark as Elversberg's dream start continues",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -427,14 +427,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.171998",
+      "fetched_at": "2026-09-08T01:59:50.767622",
       "priority_score": 46,
       "categories": [
         "bundesliga"
       ],
-      "processed_at": "2026-09-07T23:13:12.924138",
+      "processed_at": "2026-09-08T02:02:17.555307",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "Serhou Guirassy has wasted no time laying down the gauntlet to Harry Kane. The Borussia Dortmund striker followed up his goal in the opening-day win over Hamburg with another decisive display against Hoffenheim, scoring and providing an assist as his side came from 2-0 down to claim all three points"
     },
     {
       "title": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
@@ -446,53 +446,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.252187",
+      "fetched_at": "2026-09-08T01:59:26.039414",
       "priority_score": 43,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-09-07T23:13:12.816333",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
-      "summary": "As he prepares for the upcoming international window, the US head coach spoke about Folarin Balogun, the LA Olympics and dual national playersIt’s been two months since the US men’s national team crashed out of the World Cup in disappointing fashion, and their head coach, Mauricio Pochettino, is bac",
-      "url": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach",
-      "image_url": null,
-      "published": "2026-09-07T17:44:09",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:10:03.254230",
-      "priority_score": 43,
-      "categories": [
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-07T23:13:12.838842",
-      "title_tr": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Robin Gosens shines for Schalke against Bayern Munich ahead of Union return",
-      "summary": "Robin Gosens’ Bundesliga debut for boyhood club Schalke may not have gone to plan, but he played a pivotal role in his second outing, keeping Bayern Munich’s right side quiet as the teams played out a goalless draw at the VELTINS-Arena. Now, a visit to former club Union Berlin is on the horizon, and",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/robin-gosens-shines-schalke-against-bayern-munich-union-berlin-return-39077",
-      "image_url": null,
-      "published": "2026-09-07T17:46:27",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:10:27.148055",
-      "priority_score": 41,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-07T23:13:12.876128",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "processed_at": "2026-09-08T02:02:17.447601",
+      "title_tr": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -505,13 +466,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:11:32.189840",
+      "fetched_at": "2026-09-08T02:00:51.724687",
       "priority_score": 41,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-07T23:13:12.929478",
-      "title_tr": "Milli para yüzücü Defne Kurt, Avrupa şampiyonu oldu!",
+      "processed_at": "2026-09-08T02:02:17.560643",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
@@ -524,33 +485,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-07T23:11:32.190017",
+      "fetched_at": "2026-09-08T02:00:51.724879",
       "priority_score": 41,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-07T23:13:12.941402",
+      "processed_at": "2026-09-08T02:02:17.572456",
       "title_tr": "Orhan Ak'tan 4 gollü galibiyet sonrası takımına övgü!",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bursaspor, Manisa FK'yı 2 golle devirdi!",
-      "summary": "Trendyol 1. Lig'in 6. haftasında Manisa Futbol Kulübü, sahasında ağırladığı Bursaspor'a 2-1 mağlup oldu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/bursaspor-manisa-fkyi-2-golle-devirdi-43299381",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9f0c1f3c2ee1c0fb72f015.jpg",
-      "published": "2026-09-07T19:10:37",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-07T23:11:32.190231",
-      "priority_score": 41,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-09-07T23:13:12.956998",
-      "title_tr": "Bursaspor, Manisa FK'yı 2 golle devirdi!",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "Gaziantep FK Teknik Direktörü Orhan Ak, Göztepe karşısında harika bir performans sergilediklerini belirterek, Göztepe’ye dört gol atmanın her takımın harcı olmadığını söyledi."
     },
     {
       "title": "New video shows Williams handball - but won't end VAR row",
@@ -562,14 +504,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:29.583501",
+      "fetched_at": "2026-09-08T01:58:55.350852",
       "priority_score": 40,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-09-07T23:13:12.756595",
+      "processed_at": "2026-09-08T02:02:17.388259",
       "title_tr": "New video shows Williams handball - but won't end VAR row",
-      "summary_tr": "A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham."
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Chelsea explored move for Fulham midfielder Berge",
@@ -581,15 +523,72 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-07T23:09:29.584607",
+      "fetched_at": "2026-09-08T01:58:55.352007",
       "priority_score": 40,
       "categories": [
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-09-07T23:13:12.761303",
+      "processed_at": "2026-09-08T02:02:17.392916",
       "title_tr": "Chelsea explored move for Fulham midfielder Berge",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield options before Enzo Fernandez's departure."
+    },
+    {
+      "title": "All the goals from the opening weekend of the WSL",
+      "summary": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn4k1lwl2zxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-07T15:21:29",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:58:55.352419",
+      "priority_score": 40,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-08T02:02:17.395124",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "Watch every goal from the opening weekend of the Women's Super League 2026-27 season."
+    },
+    {
+      "title": "New camera angle shows Williams' disallowed goal hit arm",
+      "summary": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckg8jjq5d05o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-07T11:31:43",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:58:55.352588",
+      "priority_score": 40,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-09-08T02:02:17.396450",
+      "title_tr": "New camera angle shows Williams' disallowed goal hit arm",
+      "summary_tr": "New video footage shows the ball coming off Neco Williams' arm before his disallowed goal for Nottingham Forest in the 0-0 draw against Tottenham."
+    },
+    {
+      "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+      "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitorsThere have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to cr",
+      "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage",
+      "image_url": null,
+      "published": "2026-09-07T15:41:54",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-08T01:59:26.040489",
+      "priority_score": 38,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-08T02:02:17.458297",
+      "title_tr": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+      "summary_tr": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitorsThere have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to cr"
     }
   ]
 }
