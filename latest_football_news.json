@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T00:56:05.181985",
+  "timestamp": "2026-09-09T05:36:53.432761",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.691153",
-      "priority_score": 83,
+      "fetched_at": "2026-09-09T05:32:15.990246",
+      "priority_score": 78,
       "categories": [
         "match_results",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-09-09T00:54:35.424324",
+      "processed_at": "2026-09-09T05:35:30.892640",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -33,12 +33,32 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.692615",
+      "fetched_at": "2026-09-09T05:32:15.992262",
       "priority_score": 78,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-09T00:54:35.439320",
+      "processed_at": "2026-09-09T05:35:30.912036",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "ÖZET | Haaland duble yaptı, Manchester City Porto deplasmanında 3 puanı aldı",
+      "summary": "UEFA Şampiyonlar Ligi lig aşamasının ilk haftasında Manchester City, deplasmanda Porto’yu 2-0 mağlup etti. Estádio do Dragão’da oynanan karşılaşmada her iki golü de Erling Haaland kaydetti.",
+      "url": "https://www.cnnturk.com/spor/futbol/ozet-haaland-duble-yapti-manchester-city-porto-deplasmaninda-3-puani-aldi-3464468",
+      "image_url": null,
+      "published": "2026-09-09T08:05:08",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:34:16.945697",
+      "priority_score": 76,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-09T05:35:31.221348",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -52,76 +72,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.951966",
-      "priority_score": 76,
+      "fetched_at": "2026-09-09T05:32:42.628197",
+      "priority_score": 66,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-09T00:54:35.464872",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Şampiyonlar Ligi'nde perde açıldı: Devler sahneye çıktı",
-      "summary": "UEFA Şampiyonlar Ligi'nde yeni sezon 6 karşılaşmayla başladı. Real Madrid sahasında Inter'i 2-1 mağlup ederken, Manchester City deplasmanda Porto'yu Erling Haaland'ın attığı iki golle geçti. Gecede üç karşılaşmada ise 5 gol kaydedildi.",
-      "url": "https://www.cnnturk.com/spor/futbol/sampiyonlar-liginde-perde-acildi-devler-sahneye-cikti-3464385",
-      "image_url": null,
-      "published": "2026-09-09T01:44:30",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:53:17.874305",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-09-09T00:54:35.714511",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
-      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-08T22:09:47",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:38.416366",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-09-09T00:54:35.380349",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Blow for Man Utd as top target agrees new contract",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-08T23:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916179",
-      "priority_score": 66,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-09T00:54:35.384854",
+      "processed_at": "2026-09-09T05:35:30.944617",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -135,14 +93,133 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.955425",
+      "fetched_at": "2026-09-09T05:32:42.633361",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-09T00:54:35.487638",
+      "processed_at": "2026-09-09T05:35:30.974722",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
+      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-08T22:09:47",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:33.022008",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-09T05:35:30.834415",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Blow for Man Utd as top target agrees new contract",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-09-08T23:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:47.751534",
+      "priority_score": 61,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-09T05:35:30.846962",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mbappe ve Arda Güler ödülünü aldı",
+      "summary": "Real Madrid forması giyen milli futbolcu Arda Güler, UEFA Şampiyonlar Ligi'nde 'en iyi çıkış yapan oyuncu' ödülünü Inter maçı öncesi aldı.",
+      "url": "https://www.cnnturk.com/spor/futbol/mbappe-ve-arda-guler-odulunu-aldi-3464459",
+      "image_url": null,
+      "published": "2026-09-09T07:10:31",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:34:16.946281",
+      "priority_score": 61,
+      "categories": [
+        "la_liga",
+        "serie_a"
+      ],
+      "processed_at": "2026-09-09T05:35:31.250142",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Favourite Kane makes Ballon d'Or shortlist",
+      "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-08T15:27:09",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:33.022659",
+      "priority_score": 50,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-09T05:35:30.835764",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Verliezende Farioli tevreden na Champions League-debuut: 'Geweldige prestatie'",
+      "summary": "Hoewel FC Porto-trainer Francesco Farioli onderuit is gegaan in zijn eerste Champions League-wedstrijd, kijkt hij er met een positief gevoel op terug. De oud-trainer van Ajax trekt veel lessen uit het duel met Manchester City.",
+      "url": "https://www.vi.nl/nieuws/verliezende-farioli-tevreden-na-champions-league-debuut-geweldige-prestatie",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/09/5f50948f194351aaf9af0acc03eb439c5c908359.jpg?width=1200",
+      "published": "2026-09-09T05:15:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:35:27.460889",
+      "priority_score": 47,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-09T05:35:31.715155",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Zo kijk je gratis naar Barcelona tegen Feyenoord in Champions League",
+      "summary": "Voor Feyenoord start woensdag het Champions League-avontuur. De Rotterdammers trappen af met een wedstrijd tegen Barcelona in Camp Nou. In dit artikel lees je hoe je dat duel kunt bekijken.",
+      "url": "https://www.vi.nl/nieuws/zo-kijk-je-gratis-naar-barcelona-tegen-feyenoord-in-champions-league",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/381e559f2ee6e63f11654aa8e7c9c02fbf135ef2.jpg?width=1200",
+      "published": "2026-09-09T05:03:58",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:35:27.460964",
+      "priority_score": 47,
+      "categories": [
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-09T05:35:31.731158",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -156,54 +233,15 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916272",
-      "priority_score": 51,
+      "fetched_at": "2026-09-09T05:31:47.751627",
+      "priority_score": 46,
       "categories": [
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-09-09T00:54:35.387106",
+      "processed_at": "2026-09-09T05:35:30.850900",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Favourite Kane makes Ballon d'Or shortlist",
-      "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-08T15:27:09",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:38.416854",
-      "priority_score": 50,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-09T00:54:35.381370",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ontketende Guirassy is Lewandowski voorbij bij Dortmund",
-      "summary": "De prachtige hymne van de Champions League klonk weer door menig speaker in stadions te Europa. In de VI Live miste je niets van de start van de competitiefase. Maar eerst ging de focus op de Eredivisie. FC Utrecht en Go Ahead Eagles maakten hun gestaakte duel af en NEC speelde een inhaalwedstrijd t",
-      "url": "https://www.vi.nl/nieuws/ontketende-guirassy-is-lewandowski-voorbij-bij-dortmund",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/08/b6dcac2eb1448a8585e0381302250351dd471226.png?width=1200",
-      "published": "2026-09-08T21:45:23",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:54:31.806679",
-      "priority_score": 47,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-09-09T00:54:36.154316",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
@@ -215,75 +253,36 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.690185",
-      "priority_score": 73,
+      "fetched_at": "2026-09-09T05:32:15.988940",
+      "priority_score": 68,
       "categories": [
         "transfers",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-09-09T00:54:35.414780",
+      "processed_at": "2026-09-09T05:35:30.880318",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Real Madrid, Inter'i devirdi!",
-      "summary": "Şampiyonlar Ligi'nin açılış gününde Real Madrid, Inter'i 2-1 mağlup ederek sezona üç puanla başladı. Arda Güler'in cezası nedeniyle forma giymediği maçta İspanya devine galibiyeti getiren golleri Mbappe ve Valverde kaydetti. Inter'de milli futbolcu Hakan Çalhanoğlu 60 dakika sahada kaldı.",
-      "url": "https://www.haberturk.com/spor/real-madrid-inter-2-1-mac-sonucu-real-madrid-sampiyonlar-ligi-ne-galibiyetle-basladi-3911175",
-      "image_url": "https://im.haberturk.com/l/2026/09/09/ver1788902651/3911175/jpg/1920x1080",
-      "published": "2026-09-08T21:24:39",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Şampiyonlar Ligi'nde perde açıldı: Devler sahneye çıktı",
+      "summary": "UEFA Şampiyonlar Ligi'nde yeni sezon 6 karşılaşmayla başladı. Real Madrid sahasında Inter'i 2-1 mağlup ederken, Manchester City deplasmanda Porto'yu Erling Haaland'ın attığı iki golle geçti. Gecede üç karşılaşmada ise 5 gol kaydedildi.",
+      "url": "https://www.cnnturk.com/spor/futbol/sampiyonlar-liginde-perde-acildi-devler-sahneye-cikti-3464385",
+      "image_url": null,
+      "published": "2026-09-09T01:44:30",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-09T00:52:41.387415",
-      "priority_score": 68,
+      "fetched_at": "2026-09-09T05:34:16.946461",
+      "priority_score": 66,
       "categories": [
         "match_results",
+        "premier_league",
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-09-09T00:54:35.498915",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bowen at the double as West Ham climb top of the Championship",
-      "summary": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jarrod-bowen-west-ham_7345528.jpg?20260908221801",
-      "published": "2026-09-08T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916346",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-09T00:54:35.389854",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
-      "summary": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
-      "url": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-christie-bournemouth_7345497.jpg?20260908215326",
-      "published": "2026-09-08T21:35:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916500",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-09T00:54:35.394822",
+      "processed_at": "2026-09-09T05:35:31.259472",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -297,7 +296,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.691604",
+      "fetched_at": "2026-09-09T05:32:15.990851",
       "priority_score": 63,
       "categories": [
         "breaking_news",
@@ -305,49 +304,68 @@
         "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-09-09T00:54:35.427766",
+      "processed_at": "2026-09-09T05:35:30.897011",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Doelpuntenmachine Haaland streeft Müller voorbij en evenaart Agüero",
-      "summary": "Erling Haaland was opnieuw de grote man bij Manchester City. De Noorse veelvraat is met zijn twee goals tegen FC Porto weer een plekje gestegen op de Champions League-topscorerslijst. Ook evenaarde hij een clubrecord van The Citizens .",
-      "url": "https://www.vi.nl/nieuws/doelpuntenmachine-haaland-streeft-muller-voorbij-en-evenaart-aguero",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/08/c40e715c1d8e98a5f9d4f556116c60bb609947db.jpg?width=1200",
-      "published": "2026-09-08T21:54:11",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Real Madrid, Inter'i devirdi!",
+      "summary": "Şampiyonlar Ligi'nin açılış gününde Real Madrid, Inter'i 2-1 mağlup ederek sezona üç puanla başladı. Arda Güler'in cezası nedeniyle forma giymediği maçta İspanya devine galibiyeti getiren golleri Mbappe ve Valverde kaydetti. Inter'de milli futbolcu Hakan Çalhanoğlu 60 dakika sahada kaldı.",
+      "url": "https://www.haberturk.com/spor/real-madrid-inter-2-1-mac-sonucu-real-madrid-sampiyonlar-ligi-ne-galibiyetle-basladi-3911175",
+      "image_url": "https://im.haberturk.com/l/2026/09/09/ver1788902651/3911175/jpg/1920x1080",
+      "published": "2026-09-08T21:24:39",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-09T00:54:31.806867",
-      "priority_score": 62,
+      "fetched_at": "2026-09-09T05:33:37.538991",
+      "priority_score": 63,
       "categories": [
         "match_results",
-        "premier_league",
-        "champions_league"
+        "la_liga",
+        "serie_a"
       ],
-      "processed_at": "2026-09-09T00:54:36.197968",
+      "processed_at": "2026-09-09T05:35:30.983236",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Bayer Leverkusen's Spanish-speaking reset under Carles Martínez",
-      "summary": "Ibrahim Maza and Patrik Schick rounded off Bayer Leverkusen’s first Bundesliga victory of 2026/27 against Union Berlin, but it was their two Argentine goalscorers who underlined the Spanish-speaking reset that's taken place at the BayArena.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-spanish-argentinian-contingent-shining-under-carles-martinez-39075",
-      "image_url": null,
-      "published": "2026-09-08T05:30:00",
-      "source": "Bundesliga Official",
+      "title": "Bowen at the double as West Ham climb top of the Championship",
+      "summary": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jarrod-bowen-west-ham_7345528.jpg?20260908221801",
+      "published": "2026-09-08T22:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "germany",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.968937",
+      "fetched_at": "2026-09-09T05:31:47.751722",
       "priority_score": 61,
       "categories": [
         "match_results",
-        "breaking_news",
-        "bundesliga"
+        "breaking_news"
       ],
-      "processed_at": "2026-09-09T00:54:35.496401",
+      "processed_at": "2026-09-09T05:35:30.855174",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
+      "summary": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
+      "url": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-christie-bournemouth_7345497.jpg?20260908215326",
+      "published": "2026-09-08T21:35:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:47.751977",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-09T05:35:30.862591",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -361,13 +379,34 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-09T00:52:54.226942",
+      "fetched_at": "2026-09-09T05:33:51.873531",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-09T00:54:35.601396",
+      "processed_at": "2026-09-09T05:35:31.149411",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Doelpuntenmachine Haaland streeft Müller voorbij en evenaart Agüero",
+      "summary": "Erling Haaland was opnieuw de grote man bij Manchester City. De Noorse veelvraat is met zijn twee goals tegen FC Porto weer een plekje gestegen op de Champions League-topscorerslijst. Ook evenaarde hij een clubrecord van The Citizens .",
+      "url": "https://www.vi.nl/nieuws/doelpuntenmachine-haaland-streeft-muller-voorbij-en-evenaart-aguero",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/08/c40e715c1d8e98a5f9d4f556116c60bb609947db.jpg?width=1200",
+      "published": "2026-09-08T21:54:11",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:35:27.461622",
+      "priority_score": 57,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-09T05:35:31.879416",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -381,13 +420,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-09T00:52:41.387597",
-      "priority_score": 58,
+      "fetched_at": "2026-09-09T05:33:37.539237",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-09T00:54:35.508487",
+      "processed_at": "2026-09-09T05:35:30.994271",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -401,89 +440,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-09-09T00:54:31.806605",
-      "priority_score": 57,
+      "fetched_at": "2026-09-09T05:35:27.461338",
+      "priority_score": 52,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-09-09T00:54:36.143276",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
-      "summary": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
-      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260908221222",
-      "published": "2026-09-08T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916451",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-09T00:54:35.392975",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Colwill earns Cardiff point but winless start continues",
-      "summary": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
-      "url": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-joel-colwill-cardiff_7345517.jpg?20260908220810",
-      "published": "2026-09-08T21:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916599",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-09T00:54:35.398011",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Watford comeback condemns Preston to fifth defeat in six",
-      "summary": "Watford shook off an awful first-half display to grab a 2-1 victory over Preston, who suffered their fifth defeat in six league games.",
-      "url": "https://www.skysports.com/football/watford-vs-preston-north-end/report/560564",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-paul-heckingbottom_7345493.jpg?20260908215102",
-      "published": "2026-09-08T21:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916703",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-09T00:54:35.401622",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Warwickshire put pressure on Somerset and Nottingham with Glamorgan 19-year first",
-      "summary": "Warwickshire ramped up their bid for the Rothesay County Championship Division One title as they rolled Glamorgan for 69 all out in Cardiff.",
-      "url": "https://www.skysports.com/cricket/news/12040/13583334/warwickshire-turn-up-the-heat-on-somerset-and-nottingham-in-county-championship-as-they-inflict-glamorgan-19-year-first",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-ethan-bamber-warwickshire_7345581.jpg?20260908225703",
-      "published": "2026-09-08T21:59:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:50:50.916752",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-09T00:54:35.404356",
+      "processed_at": "2026-09-09T05:35:31.811454",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -497,33 +460,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.951101",
+      "fetched_at": "2026-09-09T05:32:42.626955",
       "priority_score": 51,
       "categories": [
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-09-09T00:54:35.453567",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Borussia Dortmund's Konstantinos Karetsas taken to hospital after circulatory problems",
-      "summary": "Borussia Dortmund youngster Konstantinos Karetsas was forced off during Tuesday's UEFA Champions League clash with Villarreal after suffering circulatory problems.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/konstantinos-karetsas-circulatory-problems-dortmund-villarreal-39090",
-      "image_url": null,
-      "published": "2026-09-09T04:14:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.951501",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-09-09T00:54:35.458632",
+      "processed_at": "2026-09-09T05:35:30.930073",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -537,34 +480,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:37.953945",
+      "fetched_at": "2026-09-09T05:32:42.631078",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-09-09T00:54:35.484864",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Rafael Leao'den Sporting maçı sözleri: Galibiyet için hazırım",
-      "summary": "Galatasaray'ın yeni transferi Rafael Leao, UEFA Şampiyonlar Ligi'ne yarın deplasmanda Portekiz temsilcisi Sporting'i yenerek başlamak istediklerini söyledi.Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/09/08/rafael-leaoden-sporting-maci-sozleri-galibiyet-icin-hazirim",
-      "image_url": "https://iasbh.tmgrup.com.tr/c2ab24/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/09/08/rafael-leao-1788894920727.jpeg",
-      "published": "2026-09-08T19:18:07",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-09T00:53:00.483819",
-      "priority_score": 51,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-09T00:54:35.675052",
+      "processed_at": "2026-09-09T05:35:30.970994",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -578,13 +500,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.690559",
+      "fetched_at": "2026-09-09T05:32:15.989405",
       "priority_score": 48,
       "categories": [
         "breaking_news",
         "champions_league"
       ],
-      "processed_at": "2026-09-09T00:54:35.417845",
+      "processed_at": "2026-09-09T05:35:30.884621",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -598,12 +520,89 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-09T00:51:14.692995",
+      "fetched_at": "2026-09-09T05:32:15.992782",
       "priority_score": 48,
       "categories": [
         "serie_a"
       ],
-      "processed_at": "2026-09-09T00:54:35.444136",
+      "processed_at": "2026-09-09T05:35:30.918234",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mourinho zag 'krankzinnige wedstrijd' en gaat niet in op fluitconcerten",
+      "summary": "José Mourinho kijkt met een goed gevoel terug op zijn rentree in de Champions League met Real Madrid, al was de Portugese trainer niet volledig tevreden. De Madrilenen boekten een belangrijke overwinning, maar volgens Mourinho was het duel veel te open en had het zelfs in 6-6 kunnen eindigen. Ook de",
+      "url": "https://www.vi.nl/nieuws/mourinho-zag-krankzinnige-wedstrijd-en-gaat-niet-in-op-fluitconcerten",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/09/d28745d17c75c6e34a2219c5a2d70e88d7de99c7.jpg?width=1200",
+      "published": "2026-09-09T04:45:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:35:27.461192",
+      "priority_score": 47,
+      "categories": [
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-09T05:35:31.777380",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
+      "summary": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
+      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260908221222",
+      "published": "2026-09-08T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:47.751902",
+      "priority_score": 46,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-09T05:35:30.859906",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Colwill earns Cardiff point but winless start continues",
+      "summary": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
+      "url": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-joel-colwill-cardiff_7345517.jpg?20260908220810",
+      "published": "2026-09-08T21:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:31:47.752187",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-09T05:35:30.870259",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bayern Munich's Harry Kane, Michael Olise, Luis Díaz and Dayot Upamecano among nominees for 2026 Ballon d’Or",
+      "summary": "Bayern Munich's Harry Kane, Michael Olise, Luis Díaz and Dayot Upamecano have been announced on the 30-player shortlist for the 2026 Men's Ballon d’Or award, with the quartet now in with the chance of scooping the game's biggest individual honour when it is presented in London on 26 October.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-michael-olise-luis-diaz-2026-ballon-dor-shortlist-bayern-munich-39079",
+      "image_url": null,
+      "published": "2026-09-08T14:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-09T05:32:42.630401",
+      "priority_score": 46,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-09T05:35:30.965243",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
