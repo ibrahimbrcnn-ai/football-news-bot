@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T01:07:27.633714",
+  "timestamp": "2026-09-23T07:00:55.836409",
   "total_items": 30,
   "news": [
     {
@@ -12,15 +12,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:52.749816",
+      "fetched_at": "2026-09-23T06:56:50.389399",
       "priority_score": 98,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-09-23T01:05:50.532416",
-      "title_tr": "Mikel Arteta, 2030'a kadar Arsenal'de kalması için sözleşme uzatımının beklendiğini kabul etti",
-      "summary_tr": "Teknik Direktör'ün mevcut sözleşmesi sezon sonunda sona erecekİspanyol, yıllık 10 milyon £'luk maaşında büyük bir artış bekleyebilirMikel Arteta, Arsenal'le geçen sezonki başarısının takdiri olarak büyük bir maaş artışı içeren uzun vadeli bir sözleşme uzatması konusunda anlaştı ve teknik direktör olarak saltanatını bir aralık ötesine taşıyabilir"
+      "processed_at": "2026-09-23T06:59:36.570654",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Arteta agrees new Arsenal contract",
@@ -32,233 +32,15 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.683720",
+      "fetched_at": "2026-09-23T06:56:29.837176",
       "priority_score": 96,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-09-23T01:05:50.492091",
-      "title_tr": "Arteta yeni Arsenal sözleşmesini kabul etti",
-      "summary_tr": "Mikel Arteta, Arsenal'deki süresini uzatmak için yeni bir anlaşma imzaladı."
-    },
-    {
-      "title": "Harry Kane contract talks set to wrap up – Bayern Munich latest",
-      "summary": "Bayern Munich CEO Jan-Christian Dreesen expects Harry Kane's future at the club to be resolved after the September-October international break.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-confirms-bayern-munich-contract-extension-talks-start-soon-38685",
-      "image_url": null,
-      "published": "2026-09-23T03:26:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:03:17.298134",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-23T01:05:50.586352",
-      "title_tr": "Harry Kane'le sözleşme görüşmeleri tamamlanmak üzere - Bayern Münih'te son gelişme",
-      "summary_tr": "Bayern Münih CEO'su Jan-Christian Dreesen, Harry Kane'in kulüpteki geleceğinin Eylül-Ekim milli aradan sonra çözülmesini bekliyor."
-    },
-    {
-      "title": "Paderborn to play DC United in US friendly",
-      "summary": "Paderborn are set to travel to Washington, D.C., during the first international break of the 2026/27 season, when the Bundesliga side will take on Major League Soccer club D.C. United in a friendly.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/paderborn-us-tour-dc-united-friendly-match-report-highlights-37853",
-      "image_url": null,
-      "published": "2026-09-22T22:30:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:03:17.299403",
-      "priority_score": 66,
-      "categories": [
-        "breaking_news",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-23T01:05:50.595943",
-      "title_tr": "Paderborn ABD hazırlık maçında DC United'la oynayacak",
-      "summary_tr": "Paderborn, Bundesliga takımının Major League Soccer kulübü D.C. United ile hazırlık maçı yapacağı 2026/27 sezonunun ilk uluslararası tatili sırasında Washington D.C.'ye gidecek."
-    },
-    {
-      "title": "Salah, Liverpool'u geride bıraktı! Trabzon'da kariyer rekoru",
-      "summary": "Trabzonspor’un Mısırlı yıldızı Mohamed Salah, bordo-mavili forma altında kariyerinin en etkili ilk 6 maçlık lig başlangıcına imza attı. Basel, Chelsea, Fiorentina, Roma ve Liverpool dönemlerindeki ilk 6 maçlık performanslarını geride bırakan Salah, Süper Lig’de 7 gol ve 2 asistle 9 gole doğrudan kat",
-      "url": "https://www.hurriyet.com.tr/sporarena/salah-liverpoolu-geride-birakti-trabzonda-kariyer-rekoru-43315393",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab2586d29066eaba7b37e1a.jpg",
-      "published": "2026-09-22T10:30:01",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:04:12.823072",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T01:05:50.814497",
-      "title_tr": "Salah, Liverpool'u geride bıraktı! Trabzon'da kariyer rekoru",
-      "summary_tr": "Trabzonspor’un Mısırlı yıldızı Mohamed Salah, bordo-mavili forma altında kariyerinin en etkili ilk 6 maçlık lig başlangıcına imza attı. Basel, Chelsea, Fiorentina, Roma ve Liverpool dönemlerindeki ilk 6 maçlık performanslarını geride bırakan Salah, Süper Lig’de 7 gol ve 2 asistle 9 gole doğrudan kat"
-    },
-    {
-      "title": "Robertson voelt zich schuldig naar Liverpool-aanwinsten: 'Gaven niets om voetbal'",
-      "summary": "Andy Robertson heeft in de podcast The Overlap teruggeblikt op zijn laatste seizoen bij Liverpool. De club rouwde om de tragische dood van Diogo Jota en daardoor hadden ook de aanwinsten het extra lastig op Anfield.",
-      "url": "https://www.vi.nl/nieuws/robertson-voelt-zich-schuldig-naar-liverpool-aanwinsten-gaven-niets-om-voetbal",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/22/3c8a9506cf601958a9eb0cf84580ec4cf72dfdfb.jpg?width=1200",
-      "published": "2026-09-22T20:46:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:05:47.856531",
-      "priority_score": 52,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-09-23T01:05:51.508314",
-      "title_tr": "Robertson, Liverpool'la transfer olduğu için kendini suçlu hissediyor: 'Futbolu umursamadım'",
-      "summary_tr": "Andy Robertson, The Overlap adlı podcast'te Liverpool'da geçirdiği son sezonunu anlattı. Kulüp, Diogo Jota'nın trajik ölümünün yasını tuttu ve bu da Anfield'da transferleri daha da zorlaştırdı."
-    },
-    {
-      "title": "Rafael Leao'yu yerden yere vurdu: Tatildeymiş gibi",
-      "summary": "Galatasaray’da henüz gol ya da asistle tanışamayan Rafael Leao’nun performansı tartışma yarattı. Portekizli yıldız için gelen sert yorum ise gündeme damga vurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/rafael-laaoyu-yerden-yere-vurdu-tatildeymis-gibi-3469746",
-      "image_url": null,
-      "published": "2026-09-22T12:51:39",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:04:38.617390",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T01:05:51.091559",
-      "title_tr": "Rafael Leao'yu yerden yere vurdu: Tatildeymiş gibi",
-      "summary_tr": "Galatasaray’da henüz gol ya da asistle tanışamayan Rafael Leao’nun performansı tartışma yarattı. Portekizli yıldız için gelen sert yorum ise gündeme damga vurdu."
-    },
-    {
-      "title": "I was close to joining Liverpool in 2016 - Mbappe",
-      "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-22T15:58:22",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:18.536273",
-      "priority_score": 50,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-09-23T01:05:50.471671",
-      "title_tr": "2016'da Liverpool'a katılmaya çok yaklaşmıştım - Mbappe",
-      "summary_tr": "Kylian Mbappe, annesinin Jurgen Klopp'un \"büyük bir hayranı\" olduğunu ve oğlunun Merseyside'a taşınmasını istediğini söyledi."
-    },
-    {
-      "title": "Lions and Irons: the Dockers derby – a photo essay",
-      "summary": "For the first time in 14 years, Millwall and West Ham faced each other in their 100th meeting. Documentary photographer Adam Isfendiyar was at the Den to record the fans’ matchday experienceWhen Millwall hosted West Ham at the Den on Saturday, it was the 100th competitive meeting between the clubs, ",
-      "url": "https://www.theguardian.com/football/2026/sep/22/millwall-west-ham-dockers-derby-in-pictures",
-      "image_url": null,
-      "published": "2026-09-22T07:00:39",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:52.753434",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-23T01:05:50.580811",
-      "title_tr": "Aslanlar ve Ütüler: Dockers derbisi – bir fotoğraf denemesi",
-      "summary_tr": "Millwall ve West Ham, 14 yıl aradan sonra ilk kez 100. karşılaşmasında karşı karşıya geldi. Belgesel fotoğrafçısı Adam İsfendiyar, taraftarların maç günü deneyimini kaydetmek için Den'deydi Millwall, Cumartesi günü West Ham'ı Den'de ağırladığında, bu kulüpler arasındaki 100. rekabetçi toplantıydı."
-    },
-    {
-      "title": "Jacks stars as England beat Sri Lanka in first ODI",
-      "summary": "England continued their white-ball dominance over Sri Lanka with an 89-run victory in Durham, taking a 1-0 lead in the three-match ODI series.",
-      "url": "https://www.skysports.com/cricket/news/12040/13590741/england-beat-sri-lanka-by-89-runs-after-will-jacks-heroics-in-one-day-international-in-durham",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-overton-england-cricket_7358859.jpg?20260922185209",
-      "published": "2026-09-22T16:06:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.683926",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-23T01:05:50.499831",
-      "title_tr": "İngiltere ilk ODI'de Sri Lanka'yı yenerken Jacks yıldız oldu",
-      "summary_tr": "İngiltere, Durham'da 89 sayılık galibiyetle Sri Lanka üzerindeki beyaz top üstünlüğünü sürdürdü ve üç maçlık ODI serisinde 1-0 öne geçti."
-    },
-    {
-      "title": "Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu",
-      "summary": "Üst üste yaşadığı sakatlıklar nedeniyle uzun süre formasından uzak kalan Galatasaray'ın Fildişili savunmacısı Wilfried Singo'nun bu ay sonunda sahalara dönmesi bekleniyor. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-singo-gelismesi-sahalara-donus-tarihi-belli-oldu-43315715",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab27e3cb00cc157ee7c24f2.jpg",
-      "published": "2026-09-22T13:10:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:04:12.822696",
-      "priority_score": 46,
-      "categories": [
-        "injuries",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T01:05:50.772290",
-      "title_tr": "Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu",
-      "summary_tr": "Üst üste yaşadığı sakatlıklar nedeniyle uzun süre formasından uzak kalan Galatasaray'ın Fildişili savunmacısı Wilfried Singo'nun bu ay sonunda sahalara dönmesi bekleniyor. İşte detaylar..."
-    },
-    {
-      "title": "Galatasaray'ın beklediği haber geldi! Osimhen'in dönüş maçı belli oldu",
-      "summary": "Galatasaray'da sakatlığı nedeniyle bir süredir forma giyemeyen Victor Osimhen'in son durumu belli oldu. Yıldız futbolcunun takıma geri döneceği maç da netleşti.",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-bekledigi-haber-geldi-osimhenin-donus-maci-belli-oldu-3469739",
-      "image_url": null,
-      "published": "2026-09-22T10:56:14",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:04:38.617576",
-      "priority_score": 46,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T01:05:51.104852",
-      "title_tr": "Galatasaray'ın beklediği haber geldi! Osimhen'in dönüş maçı belli oldu",
-      "summary_tr": "Galatasaray'da sakatlığı nedeniyle bir süredir forma giyemeyen Victor Osimhen'in son durumu belli oldu. Yıldız futbolcunun takıma geri döneceği maç da netleşti."
-    },
-    {
-      "title": "Man Utd & Liverpool eye Mitchell - Wednesday's gossip",
-      "summary": "Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan attacker Alejandro Garnacho is on the radar of La Liga clubs, while Chelsea want Gambian teenager Adama Jeng, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-22T21:19:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:18.536466",
-      "priority_score": 45,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-09-23T01:05:50.472405",
-      "title_tr": "Man Utd ve Liverpool Mitchell'i izliyor - Çarşamba günkü dedikodular",
-      "summary_tr": "Manchester United ve Liverpool, Crystal Palace'ın defans oyuncusu Tyrick Mitchell'e meraklı, Aston Villa'nın kiralık hücum oyuncusu Alejandro Garnacho La Liga kulüplerinin radarında, Chelsea ise Gambiyalı genç Adama Jeng'i ve daha fazlasını istiyor."
+      "processed_at": "2026-09-23T06:59:36.539235",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Arteta agrees new deal with champions Arsenal",
@@ -270,15 +52,234 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:18.535399",
+      "fetched_at": "2026-09-23T06:56:18.635427",
       "priority_score": 80,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-09-23T01:05:50.469625",
-      "title_tr": "Arteta şampiyon Arsenal'le yeni anlaşmaya vardı",
-      "summary_tr": "Mikel Arteta, Premier Lig şampiyonu Arsenal ile geliştirilmiş yeni bir sözleşme konusunda anlaştı."
+      "processed_at": "2026-09-23T06:59:36.517987",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Süper Lig'in yıldızına flaş milli görev! Kadroya son dakikada dahil edildi",
+      "summary": "UEFA Uluslar A Ligi'ndeki zorlu maraton öncesinde A Milli Takım'da kadro güncellemesine gidildi. Trabzonspor formasıyla dikkat çeken 29 yaşındaki başarılı ismin Riva kampına katılacağı açıklandı.",
+      "url": "https://www.yenisafak.com/galeri/spor/super-ligin-yildizina-flas-milli-gorev-kadroya-son-dakikada-dahil-edildi-4858218",
+      "image_url": null,
+      "published": "2026-09-23T06:34:07",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:59.598002",
+      "priority_score": 72,
+      "categories": [
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:37.206752",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "From leaving Rangers to La Liga - Scotland is next step for Ure",
+      "summary": "Robbie Ure has made it all the way to Sevilla since failing to break through at Rangers and now a first Scotland cap awaits the striker, writes Tom English.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617jyexnnd5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T06:20:56",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:56:18.634317",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-09-23T06:59:36.512690",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Paderborn to play DC United in US friendly",
+      "summary": "Paderborn are set to travel to Washington, D.C., during the first international break of the 2026/27 season, when the Bundesliga side will take on Major League Soccer club D.C. United in a friendly.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/paderborn-us-tour-dc-united-friendly-match-report-highlights-37853",
+      "image_url": null,
+      "published": "2026-09-22T22:30:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:57:13.049406",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-23T06:59:36.612908",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'a bir şok daha: Yıldız ismin sahalara dönüşü uzadı",
+      "summary": "Galatasaray'da sakatlığı nedeniyle tedavisi devam eden yıldız futbolcunun milli ara sonrasında da forma giyemeyeceği öğrenildi. Sarı-kırmızılı oyuncunun Kasımpaşa ve Barcelona karşılaşmalarında görev yapması beklenmiyor.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasaraya-bir-sok-daha-yildiz-ismin-sahalara-donusu-uzadi-4858213",
+      "image_url": null,
+      "published": "2026-09-23T06:24:47",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:59.598114",
+      "priority_score": 57,
+      "categories": [
+        "injuries",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:37.218274",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Robertson over laatste seizoen Liverpool: 'We gaven niets om voetbal'",
+      "summary": "Andy Robertson heeft in de podcast The Overlap teruggeblikt op zijn laatste seizoen bij Liverpool. De club rouwde om de tragische dood van Diogo Jota en daardoor hadden ook de aanwinsten het extra lastig op Anfield.",
+      "url": "https://www.vi.nl/nieuws/robertson-voelt-zich-schuldig-naar-liverpool-aanwinsten-gaven-niets-om-voetbal",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/22/3c8a9506cf601958a9eb0cf84580ec4cf72dfdfb.jpg?width=1200",
+      "published": "2026-09-23T05:28:33",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:59:33.581304",
+      "priority_score": 52,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-23T06:59:37.511363",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Can Europe inspire new 'Medinah miracle' at Presidents Cup?",
+      "summary": "If the International Team are going to end Team USA’s Presidents Cup dominance this week, live on Sky Sports, they may require their own 'Miracle at Medinah' to do it.",
+      "url": "https://www.skysports.com/golf/news/12040/13590713/presidents-cup-2026-can-europe-inspire-new-miracle-at-medinah-and-shock-international-team-victory-over-team-usa",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-presidents-cup_7356877.jpg?20260920114507",
+      "published": "2026-09-23T06:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:56:29.836852",
+      "priority_score": 51,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-09-23T06:59:36.525859",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Rafael Leao'yu yerden yere vurdu: Tatildeymiş gibi",
+      "summary": "Galatasaray’da henüz gol ya da asistle tanışamayan Rafael Leao’nun performansı tartışma yarattı. Portekizli yıldız için gelen sert yorum ise gündeme damga vurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/rafael-laaoyu-yerden-yere-vurdu-tatildeymis-gibi-3469746",
+      "image_url": null,
+      "published": "2026-09-22T12:51:39",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:29.111213",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:36.996898",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Arbitragecommissie geeft Real gelijk: ook Atlético had rood moeten krijgen",
+      "summary": "In de nasleep van de verhitte Madrileense derby heeft Real Madrid het gelijk nu toch aan zijn zijde gekregen. De scheidsrechtercommissie in Spanje heeft dinsdagavond namelijk geoordeeld dat ook Atlético Madrid rood had moeten krijgen.",
+      "url": "https://www.vi.nl/nieuws/arbitragecommissie-geeft-real-gelijk-ook-atletico-had-rood-moeten-krijgen",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/23/2c77199bc4754f68dff4fb343458d452abdfa7c2.jpg?width=1200",
+      "published": "2026-09-23T06:58:02",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:59:33.580796",
+      "priority_score": 47,
+      "categories": [
+        "la_liga"
+      ],
+      "processed_at": "2026-09-23T06:59:37.352798",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu",
+      "summary": "Üst üste yaşadığı sakatlıklar nedeniyle uzun süre formasından uzak kalan Galatasaray'ın Fildişili savunmacısı Wilfried Singo'nun bu ay sonunda sahalara dönmesi bekleniyor. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-singo-gelismesi-sahalara-donus-tarihi-belli-oldu-43315715",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab27e3cb00cc157ee7c24f2.jpg",
+      "published": "2026-09-22T13:10:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:08.020858",
+      "priority_score": 46,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:36.788251",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'ın beklediği haber geldi! Osimhen'in dönüş maçı belli oldu",
+      "summary": "Galatasaray'da sakatlığı nedeniyle bir süredir forma giyemeyen Victor Osimhen'in son durumu belli oldu. Yıldız futbolcunun takıma geri döneceği maç da netleşti.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-bekledigi-haber-geldi-osimhenin-donus-maci-belli-oldu-3469739",
+      "image_url": null,
+      "published": "2026-09-22T10:56:14",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:29.111316",
+      "priority_score": 46,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:37.007367",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Harry Kane contract talks set to wrap up – Bayern Munich latest",
+      "summary": "Bayern Munich CEO Jan-Christian Dreesen expects Harry Kane's future at the club to be resolved after the September-October international break.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-confirms-bayern-munich-contract-extension-talks-start-soon-38685",
+      "image_url": null,
+      "published": "2026-09-23T03:26:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:57:13.048640",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-23T06:59:36.605315",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!",
@@ -290,16 +291,16 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:04:12.822437",
+      "fetched_at": "2026-09-23T06:58:08.020721",
       "priority_score": 71,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:50.745355",
-      "title_tr": "Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!",
-      "summary_tr": "Son olarak Süper Lig'de Trabzonspor'a 4-0 gibi ağır bir skorla mağlup olan Galatasaray'da yeni transferlerden verim alınamadı. Bununla beraber istatistiklerde, savunmada son 60 yılın en kötüsü olduğu ortaya çıktı."
+      "processed_at": "2026-09-23T06:59:36.766374",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Kayserispor'un 'öde-kaldır' yasağı 4'e yükseldi!",
@@ -311,55 +312,36 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:04:01.648965",
+      "fetched_at": "2026-09-23T06:57:57.400560",
       "priority_score": 63,
       "categories": [
         "transfers",
         "world_cup"
       ],
-      "processed_at": "2026-09-23T01:05:50.668967",
-      "title_tr": "Kayserispor'un 'öde-kaldır' yasağı 4'e yükseldi!",
-      "summary_tr": "Kayserispor ile sözleşmesini fesheden 32 yaşındaki Portekizli kanat oyuncusu Carlos Mane’nin 75 bin Euro alacağından dolayı sarı-kırmızılı takıma transfer yasağı geldi. Kayserispor’un FIFA’daki toplam dosya sayısı 4’e yükseldi."
+      "processed_at": "2026-09-23T06:59:36.677590",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Papers: Rice prepared to commit long-term future to Arsenal",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13590828/declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-22T22:00:00",
-      "source": "Sky Sports Football",
+      "title": "Fenerbahçe'de Romelu Lukaku operasyonu! Düğmeye basıldı",
+      "summary": "Fenerbahçe teknik direktörü İsmail Kartal, yaz transfer döneminde kadroya katılan ancak henüz skor katkısı yapamayan Romelu Lukaku için milli arada özel bir operasyon başlattı. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-romelu-lukaku-operasyonu-dugmeye-basildi-43316138",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab35b9cb00cc157ee7c2797.jpg",
+      "published": "2026-09-23T04:55:12",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.683787",
+      "fetched_at": "2026-09-23T06:58:08.020289",
       "priority_score": 61,
       "categories": [
         "transfers",
-        "premier_league"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:50.494549",
-      "title_tr": "Makaleler: Rice, Arsenal'e uzun vadeli bir gelecek taahhüt etmeye hazırlanıyor",
-      "summary_tr": "Çarşamba günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
-    },
-    {
-      "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-      "summary": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-22T06:19:17",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:18.537019",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-09-23T01:05:50.475687",
-      "title_tr": "Chelsea, Villa yedek kulübesinde mücadele ediyor - Garnacho belirleyici sezonla karşı karşıya",
-      "summary_tr": "Alejandro Garnacho, kariyerine hızlı bir başlangıç ​​yapmak amacıyla Chelsea'den kiralık olarak Aston Villa'ya katıldı ancak Midlands'teki ilk haftaları zorlu geçti."
+      "processed_at": "2026-09-23T06:59:36.706516",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Trabzonspor'dan teknik heyete flaş takviye!",
@@ -371,34 +353,34 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:04:01.648884",
+      "fetched_at": "2026-09-23T06:57:57.400516",
       "priority_score": 58,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-23T01:05:50.663555",
-      "title_tr": "Trabzonspor'dan teknik heyete flaş takviye!",
-      "summary_tr": "Trabzonspor, yardımcı antrenörlük görevi için Jerome Boateng ile prensipte anlaştı."
+      "processed_at": "2026-09-23T06:59:36.673317",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Icardi şoke oldu! 2099'a kadar men edildi",
-      "summary": "Galatasaray ile sözleşmesinin sona ermesinin ardından henüz yeni bir takım ile anlaşma sağlayamayan Mauro Icardi'ye bakanlıktan şoke eden haber geldi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/icardi-soke-oldu-2099a-kadar-men-edildi-43315308",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab24b4f29066eaba7b37d7c.jpg",
-      "published": "2026-09-22T09:34:00",
-      "source": "Hürriyet Spor",
+      "title": "Papers: Rice prepared to commit long-term future to Arsenal",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13590828/declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-09-22T22:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "turkey",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T01:04:12.823146",
+      "fetched_at": "2026-09-23T06:56:29.837213",
       "priority_score": 56,
       "categories": [
         "transfers",
-        "super_lig"
+        "premier_league"
       ],
-      "processed_at": "2026-09-23T01:05:50.821374",
-      "title_tr": "Icardi şoke oldu! 2099'a kadar men edildi",
-      "summary_tr": "Galatasaray ile sözleşmesinin sona ermesinin ardından henüz yeni bir takım ile anlaşma sağlayamayan Mauro Icardi'ye bakanlıktan şoke eden haber geldi."
+      "processed_at": "2026-09-23T06:59:36.541553",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Galatasaraylı yıldızdan şaşırtan istek: Yönetim bu talebi beklemiyordu",
@@ -410,55 +392,91 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:05:08.731766",
+      "fetched_at": "2026-09-23T06:58:59.598983",
       "priority_score": 52,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:51.346217",
-      "title_tr": "Galatasaraylı yıldızdan şaşırtan istek: Yönetim bu talebi beklemiyordu",
-      "summary_tr": "Galatasaray'da sözleşmesi sezon sonunda bitecek olan genç oyuncu için yeni sözleşme görüşmeleri sürüyor. Sarı-kırmızılı yönetimden istenen özel madde ise dikkat çekti."
+      "processed_at": "2026-09-23T06:59:37.307277",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "'Julian Ward keert terug als technisch directeur van Liverpool'",
-      "summary": "De zomerse transferwindow is in veel landen ten einde. Toch zijn er her en der nog markten open en ook de geruchtenstroom richting de winter is alweer op gang gekomen. Er zijn daarnaast ook nog genoeg transfervrije spelers. Volg al het transfernieuws en alle geruchten in onderstaand blog. Bekijk hie",
-      "url": "https://www.vi.nl/nieuws/galatasaray-spot-toptarget-voor-winterwindow-bij-real-madrid",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/1a44c5cda8c92ce8eb8c4f91efe667c65050a968.jpg?width=1200",
-      "published": "2026-09-22T18:28:41",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:05:47.857006",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-09-23T01:05:51.613179",
-      "title_tr": "'Julian Ward Liverpool'un teknik direktörü olarak geri dönüyor'",
-      "summary_tr": "Birçok ülkede yaz transfer dönemi sona erdi. Ama hâlâ orada burada açık pazarlar var ve kışa dair söylentiler çoktan başladı. Transferi olmayan çok oyuncu var. Tüm transfer haberlerini ve söylentilerini aşağıdaki blogdan takip edin. Burayı görüntüle"
-    },
-    {
-      "title": "Why is the September and October international break so long?",
-      "summary": "The Bundesliga and Europe's other top leagues are pausing for close to three weeks from the weekend of 18-20 September to 9-11 October, as players join up with their national teams for the merged international break. There is a good reason for the new format.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/why-is-september-october-international-break-so-long-39210",
-      "image_url": null,
-      "published": "2026-09-23T00:33:00",
-      "source": "Bundesliga Official",
+      "title": "Ferrari set Baku target as Rosberg pinpoints team's repeat flaw",
+      "summary": "Ferrari boss Frederic Vasseur has stressed the importance of executing weekends more cleanly after a costly run of results for the team at recent races.",
+      "url": "https://www.skysports.com/f1/news/12040/13590751/ferrari-boss-frederic-vasseur-sets-goal-for-azerbaijan-gp-as-nico-rosberg-pinpoints-teams-achilles-heel",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7358773.jpg?20260922165952",
+      "published": "2026-09-23T06:00:00",
+      "source": "Sky Sports Football",
       "source_priority": 8,
-      "region": "germany",
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T01:03:17.298758",
+      "fetched_at": "2026-09-23T06:56:29.836911",
       "priority_score": 51,
       "categories": [
-        "serie_a",
-        "bundesliga"
+        "match_results"
       ],
-      "processed_at": "2026-09-23T01:05:50.591677",
-      "title_tr": "Eylül ve Ekim uluslararası tatili neden bu kadar uzun?",
-      "summary_tr": "Bundesliga ve Avrupa'nın diğer üst ligleri, 18-20 Eylül hafta sonundan 9-11 Ekim tarihlerine kadar üç haftaya yakın bir süre boyunca oyuncuların birleştirilmiş uluslararası ara için milli takımlarıyla bir araya gelmesi nedeniyle ara verecek. Yeni formatın iyi bir nedeni var."
+      "processed_at": "2026-09-23T06:59:36.527581",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "I was close to joining Liverpool in 2016 - Mbappe",
+      "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-22T15:58:22",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:56:18.634993",
+      "priority_score": 50,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-09-23T06:59:36.514628",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Lions and Irons: the Dockers derby – a photo essay",
+      "summary": "For the first time in 14 years, Millwall and West Ham faced each other in their 100th meeting. Documentary photographer Adam Isfendiyar was at the Den to record the fans’ matchday experienceWhen Millwall hosted West Ham at the Den on Saturday, it was the 100th competitive meeting between the clubs, ",
+      "url": "https://www.theguardian.com/football/2026/sep/22/millwall-west-ham-dockers-derby-in-pictures",
+      "image_url": null,
+      "published": "2026-09-22T07:00:39",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:56:50.391210",
+      "priority_score": 48,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-23T06:59:36.601031",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Okan Buruk'tan yıldız isimle ilgili olay açıklama: \"Oynatmak istiyorum ama...\"",
+      "summary": "Galatasaray'da teknik direktör Okan Buruk, bu sezon çok fazla süre vermediği yıldız isim için dikkat çeken bir açıklama yaptı. İşte detaylar...",
+      "url": "https://www.yenisafak.com/galeri/spor/okan-buruktan-yildiz-isimle-ilgili-olay-aciklama-oynatmak-istiyorum-ama-4858211",
+      "image_url": null,
+      "published": "2026-09-23T06:22:03",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:58:59.598219",
+      "priority_score": 47,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-09-23T06:59:37.232525",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Fenerbahçelileri kızdırdı: Sergen Yalçın’ın 11’i olay oldu",
@@ -470,15 +488,53 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:05:08.731519",
+      "fetched_at": "2026-09-23T06:58:59.598878",
       "priority_score": 47,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:51.330085",
-      "title_tr": "Fenerbahçelileri kızdırdı: Sergen Yalçın’ın 11’i olay oldu",
-      "summary_tr": "Yorumculuk yapan teknik direktör Sergen Yalçın, Süper Lig’de 6. haftanın en iyi 11’ini belirledi. Galatasaray’ı 4-0 mağlup eden Trabzonspor’dan 4 futbolcuya kadrosunda yer veren Yalçın, Eyüpspor’u 8-0 yenen Fenerbahçe’den ise hiçbir oyuncuyu tercih etmedi. 4 gol atan Vedat Muriqi’yi de kadrosuna alm"
+      "processed_at": "2026-09-23T06:59:37.293901",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Trainingen, persmomenten en reisdagen: dit is de planning van Oranje",
+      "summary": "Het Nederlands elftal werkt eind september en begin oktober een extra lange interlandperiode af. Dat vergt een uitgebreide planning. In dit artikel lees je hoe de interlandperiode er voor Oranje uitziet, van trainingsdagen tot persmomenten en reisdagen.",
+      "url": "https://www.vi.nl/nieuws/trainingen-persmomenten-en-reisdagen-dit-is-de-planning-van-oranje",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/23/1f3b10824fc99f83fbe11baee3594fa898fe9362.jpg?width=1200",
+      "published": "2026-09-23T06:41:50",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:59:33.580858",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-09-23T06:59:37.367455",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Jacks stars as England beat Sri Lanka in first ODI",
+      "summary": "England continued their white-ball dominance over Sri Lanka with an 89-run victory in Durham, taking a 1-0 lead in the three-match ODI series.",
+      "url": "https://www.skysports.com/cricket/news/12040/13590741/england-beat-sri-lanka-by-89-runs-after-will-jacks-heroics-in-one-day-international-in-durham",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-overton-england-cricket_7358859.jpg?20260922185209",
+      "published": "2026-09-22T16:06:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-23T06:56:29.837294",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-23T06:59:36.546481",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Scotland's Pocognoli has 'good mix' as he eyes winning start to his reign",
@@ -490,114 +546,55 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.684091",
+      "fetched_at": "2026-09-23T06:56:29.837456",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-09-23T01:05:50.505441",
-      "title_tr": "İskoçyalı Pocognoli, saltanatının başlangıcına galibiyetle bakarken 'iyi bir karışıma' sahip",
-      "summary_tr": "İskoçya'nın yeni başkanı Sebastien Pocognoli, ilk kadrosunda \"iyi bir karışım\" olduğuna inanarak Sky Sports'a değişim zamanının geldiğini söyledi."
+      "processed_at": "2026-09-23T06:59:36.551885",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Packer on Red Roses losing their winning run, responding vs NZ and motherhood",
-      "summary": "England Red Roses back-row Marlie Packer chats exclusively to Sky Sports following the end of their 39-Test winning run, and ahead of Saturday's huge home Test against New Zealand's Black Ferns.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13590630/marlie-packer-chats-to-sky-sports-about-englands-red-roses-losing-their-winning-run-planning-a-response-vs-new-zealand-and-motherhood",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-england-red-roses_7358690.jpg?20260922155321",
-      "published": "2026-09-22T11:01:00",
-      "source": "Sky Sports Football",
+      "title": "Dört büyükler üç kulübü zengin etti! 14 futbolcu için tam 222 milyon euro ödediler",
+      "summary": "Süper Lig'de \"4 büyükler\" olarak adlandırılan Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor son 5 yılda yurt dışında yaptıkları transferlerde en çok hangi kulüplere para kazandırdı? Sizler için derledik...",
+      "url": "https://www.hurriyet.com.tr/sporarena/dort-buyukler-uc-kulubu-zengin-etti-14-futbolcu-icin-tam-222-milyon-euro-odediler-43316107",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab356d1b00cc157ee7c277a.jpg",
+      "published": "2026-09-23T04:00:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.684380",
+      "fetched_at": "2026-09-23T06:58:08.020405",
       "priority_score": 46,
       "categories": [
-        "breaking_news"
+        "transfers",
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:50.513673",
-      "title_tr": "Red Roses'taki Packer galibiyet serisini kaybediyor, Yeni Zelanda'ya ve anneliğe karşılık veriyor",
-      "summary_tr": "İngiltere Red Roses arka sıradaki Marlie Packer, 39 Testlik galibiyet serilerinin sona ermesinin ardından ve Cumartesi günü Yeni Zelanda'nın Black Ferns takımına karşı oynayacağı devasa iç saha Testi öncesinde Sky Sports ile özel olarak sohbet ediyor."
+      "processed_at": "2026-09-23T06:59:36.721139",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray'ın yeni transferi Aleksey Batrakov: Rusya'yı özledim!",
-      "summary": "Rusya Milli Takımı'na çağrılan Galatasaray'ın yeni transferi Aleksey Batrakov, Rusya'yı ve eski takımını özlediğini ifade etti.Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/09/22/galatasarayin-yeni-transferi-aleksey-batrakov-rusyayi-ozledim",
-      "image_url": "https://iaftm.tmgrup.com.tr/79e2be/1200/675/0/0/2048/1151?u=https://iftm.tmgrup.com.tr/2026/09/22/galatasarayin-yeni-transferi-aleksey-batrakov-rusyayi-ozledim-1790063073583.jpg",
-      "published": "2026-09-22T07:47:54",
+      "title": "Galatasaray'da o yıldızlar sınıfta kaldı! Yeni transferlerin istatistikleri...",
+      "summary": "Galatasaray’ın yeni oyuncuları ligin ilk 6 haftasında bekleneni veremedi. Transfere toplamda 79 milyon euro bonservis harcayan sarı-kırmızılılar, beş yeni isimden toplamda 1 asist katkısı alabildi. İşte...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/09/23/yeniler-sinifta-kaldi",
+      "image_url": "https://iaftm.tmgrup.com.tr/b1fd6b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/09/22/yeniler-sinifta-kaldi-1790098210822.jpeg",
+      "published": "2026-09-22T17:30:19",
       "source": "Fotomac",
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T01:04:51.802791",
+      "fetched_at": "2026-09-23T06:58:41.860193",
       "priority_score": 44,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-23T01:05:51.198649",
-      "title_tr": "Galatasaray'ın yeni transferi Aleksey Batrakov: Rusya'yı özledim!",
-      "summary_tr": "Rusya Milli Takımı'na çağrılan Galatasaray'ın yeni transferi Aleksey Batrakov, Rusya'yı ve eski takımını özlediğini ifade etti.Devamı için tıklayınız"
-    },
-    {
-      "title": "Mariona Caldentey penalty provides late WCL relief for Arsenal against Køge",
-      "summary": "Mariona Caldentey’s 93rd-minute penalty delivered a win and a hefty dose of relief to fans bouncing behind the goal in the North Bank after the ball hit the back of the net, but ­Arsenal’s narrow defeat of HB Køge in their Champions League opener left more questions unanswered than answered for the ",
-      "url": "https://www.theguardian.com/football/2026/sep/22/arsenal-hb-koge-womens-champions-league-match-report",
-      "image_url": null,
-      "published": "2026-09-22T21:10:16",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:52.750165",
-      "priority_score": 43,
-      "categories": [
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-09-23T01:05:50.537187",
-      "title_tr": "Mariona Caldentey cezası, Arsenal'in Køge karşısında geç WCL rahatlamasını sağlıyor",
-      "summary_tr": "Mariona Caldentey'nin 93. dakikadaki penaltısı, North Bank'te topun filelere çarpmasının ardından kalenin arkasında zıplayan taraftarlara bir galibiyet ve büyük bir rahatlama sağladı, ancak Arsenal'in Şampiyonlar Ligi açılışında HB Køge'yi az farkla mağlup etmesi, cevaplanandan daha fazla soruyu yanıtsız bıraktı."
-    },
-    {
-      "title": "Arsenal penalty clinches late win in WCL; Man City rescue draw at Bayern",
-      "summary": "Mariona Caldentey's second-half stoppage-time penalty secured Arsenal a dramatic 1-0 win over Danish side HB Koge to open their Champions League campaign at Meadow Park.",
-      "url": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/report/578232",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-mariona-caldentey_7359012.jpg?20260922221031",
-      "published": "2026-09-22T20:21:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:02:32.684460",
-      "priority_score": 41,
-      "categories": [
-        "premier_league",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-09-23T01:05:50.517773",
-      "title_tr": "Arsenal, WCL'de son galibiyetini perçinledi; Bayern Münih'te Manchester City kurtarma kurası",
-      "summary_tr": "Mariona Caldentey'in ikinci yarıda duraklama süresi cezası, Arsenal'in Danimarka takımı HB Koge'yi 1-0 yenerek Şampiyonlar Ligi mücadelesini Meadow Park'ta başlatmasını sağladı."
-    },
-    {
-      "title": "How Tidiam Gomis has become important in RB Leipzig’s attack this season",
-      "summary": "Tidiam Gomis has gone from fringe player to genuine attacking option at RB Leipzig in the space of a few months. The 20-year-old has already made a significant impact in the 2026/27 Bundesliga season – and there are plenty of signs that his role could continue to grow.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/how-tidiam-gomis-became-important-rb-leipzig-diomande-39321",
-      "image_url": null,
-      "published": "2026-09-22T16:51:23",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T01:03:17.300888",
-      "priority_score": 41,
-      "categories": [
-        "transfers",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-23T01:05:50.607778",
-      "title_tr": "Tidiam Gomis, RB Leipzig'in bu sezonki hücumunda nasıl önemli hale geldi?",
-      "summary_tr": "Tidiam Gomis, birkaç ay içinde RB Leipzig'de uç oyuncudan gerçek hücum seçeneğine geçti. 20 yaşındaki oyuncu, 2026/27 Bundesliga sezonunda şimdiden önemli bir etki yarattı ve rolünün büyümeye devam edebileceğine dair pek çok işaret var."
+      "processed_at": "2026-09-23T06:59:37.052455",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
