@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T02:13:38.071503",
+  "timestamp": "2026-09-24T08:00:46.841537",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:56.959361",
+      "fetched_at": "2026-09-24T07:56:32.850263",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -21,7 +21,27 @@
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-09-24T02:12:06.520925",
+      "processed_at": "2026-09-24T07:59:26.043469",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'ın ilk transferi belli oldu: Ocak ayında imzayı atacak",
+      "summary": "Ocak ayı transfer dönemi için çalışmalarını hızlandıran Galatasaray'da yönetim, genç futbolcunun transferi için önemli bir adım attı. Sarı-kırmızılıların, oyuncuyla dört yıllık sözleşme konusunda anlaşma sağladığı öne sürüldü.",
+      "url": "https://www.yenisafak.com/spor/galatasarayin-ilk-transferi-belli-oldu-ocak-ayinda-imzayi-atacak-4858571",
+      "image_url": null,
+      "published": "2026-09-24T06:51:55",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:58:44.187074",
+      "priority_score": 97,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T07:59:26.557086",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -35,35 +55,33 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:56.961665",
+      "fetched_at": "2026-09-24T07:56:32.852182",
       "priority_score": 83,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-24T02:12:06.550241",
+      "processed_at": "2026-09-24T07:59:26.068062",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe Lukaku'yu gönderip onu kiralayacak: 65 milyon Euroluk golcü",
-      "summary": "Fenerbahçe, Romelu Lukaku’nun performans sorunları nedeniyle ayrılık kararı aldı. Sarı-lacivertliler, Premier Lig'de forma şansı bulamayan yıldız golcünün kiralık transferi için görüşmelere başladı.",
-      "url": "https://www.yenisafak.com/galeri/spor/fenerbahce-lukakuyu-gonderip-onu-kiralayacak-65-milyon-euroluk-golcu-4858345",
-      "image_url": null,
-      "published": "2026-09-23T11:46:02",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "title": "Azerbaijan GP: McLaren, Red Bull with major upgrades for first practice LIVE!",
+      "summary": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13590644/f1-azerbaijan-gp-live-thursday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku",
+      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-lando-norris-mclaren_7221783.jpg?20260416155502",
+      "published": "2026-09-24T08:51:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-24T02:11:18.284341",
-      "priority_score": 72,
+      "fetched_at": "2026-09-24T07:56:08.781223",
+      "priority_score": 61,
       "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
+        "breaking_news"
       ],
-      "processed_at": "2026-09-24T02:12:07.250589",
+      "processed_at": "2026-09-24T07:59:25.977260",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Sedlacek wins first PDC Pro Tour title at Players Championship 30",
@@ -75,33 +93,129 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.443926",
+      "fetched_at": "2026-09-24T07:56:08.781911",
       "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-09-24T02:12:06.472850",
+      "processed_at": "2026-09-24T07:59:25.997781",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Sky Sports to show England men's tour of South Africa this winter",
-      "summary": "Sky Sports and Cricket South Africa have extended their longstanding partnership, with Sky Sports and NOW to exclusively broadcast the England men's three-Test and three-ODI tour of South Africa this winter.",
-      "url": "https://www.skysports.com/cricket/news/12040/13590791/sky-sports-to-show-england-mens-tour-of-south-africa-this-winter-plus-australia-mens-tour-in-coming-weeks",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jacob-bethell-england_7359129.jpg?20260923081042",
-      "published": "2026-09-23T16:30:00",
-      "source": "Sky Sports Football",
+      "title": "Galatasaray'a Victor Osimhen'den müjde",
+      "summary": "Süper Lig'de verilen milli araya Trabzonspor mağlubiyetiyle giren Galatasaray'a yıldız isminden müjdeli haber geldi. Ülkesinde olan Victor Osimhen hazırım mesajı verdi.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaraya-victor-osimhenden-mujde-3470662",
+      "image_url": null,
+      "published": "2026-09-24T09:25:13",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
-      "region": "europe",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.444171",
+      "fetched_at": "2026-09-24T07:58:15.151193",
       "priority_score": 61,
       "categories": [
-        "breaking_news",
-        "serie_a"
+        "super_lig"
       ],
-      "processed_at": "2026-09-24T02:12:06.483952",
+      "processed_at": "2026-09-24T07:59:26.398984",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man Utd selling Old Trafford turf cubes for £125",
+      "summary": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative announced the same day the club reported its overall debt remains more than £1bn.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-24T07:08:11",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:55:56.372389",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-24T07:59:25.965853",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Bu Okan Buruk'a saygısızlık olur!\"",
+      "summary": "Galatasaray'ın efsane teknik direktörü Fatih Terim, Trabzonspor maçının ardından tepki alan Okan Buruk hakkında Youtube kanalında açıklamalarda bulundu",
+      "url": "https://www.haberturk.com/spor/foto/fatih-terim-den-okan-buruk-sozleri-bu-ona-saygisizlik-olur-3914714",
+      "image_url": "https://im.haberturk.com/l/2026/09/24/ver1790233866/3914714/jpg/1920x1080",
+      "published": "2026-09-24T07:19:21",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:57:38.927858",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T07:59:26.121988",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "'He's thinking about the future of German football' - Lothar Matthäus discusses Jürgen Klopp's start to life as Germany head coach",
+      "summary": "Lothar Matthäus knows a thing or two about success on the international stage, having won the 1990 FIFA World Cup as Germany captain. Now a television pundit in his homeland, the former Ballon d'Or winner has shared his thoughts on the start of Jürgen Klopp's reign as head coach of the national team",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/lothar-matthaus-interview-jurgen-klopp-germany-dortmund-39331",
+      "image_url": null,
+      "published": "2026-09-24T07:31:35",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:56:54.261399",
+      "priority_score": 51,
+      "categories": [
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-09-24T07:59:26.078062",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Anadolu Efes, EuroLeague'de Barcelona deplasmanında! Maçın heyecanı canlı yayın ile Misli'de",
+      "summary": "Anadolu Efes, EuroLeague'in 2026-2027 sezonunun ilk haftasında İspanya ekibi Barcelona ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+      "url": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-barcelona-deplasmaninda-macin-heyecani-canli-yayin-ile-mislide-43317617",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab4c9ef081ef476a8ca9de1.jpg",
+      "published": "2026-09-24T07:12:31",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:57:52.813123",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-09-24T07:59:26.185119",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'a Victor Osimhen müjdesi! 'Hazırım' mesajını verdi",
+      "summary": "Süper Lig'de verilen milli araya Trabzonspor mağlubiyetiyle giren Galatasaray'a, son 3 resmi maçta sakatlığı nedeniyle forma giyemeyen yıldız oyuncusu Victor Osimhen'den müjdeli haber geldi. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-victor-osimhen-mujdesi-hazirim-mesajini-verdi-43317516",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab4c3214562d7e716a3d19d.jpg",
+      "published": "2026-09-24T06:28:53",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:57:52.813294",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T07:59:26.200740",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -115,33 +229,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:14.469381",
+      "fetched_at": "2026-09-24T07:55:56.374280",
       "priority_score": 50,
       "categories": [
         "match_results",
         "world_cup"
       ],
-      "processed_at": "2026-09-24T02:12:06.448918",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "England players carrying World Cup scar - Saka",
-      "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T14:03:42",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:14.469562",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-24T02:12:06.449385",
+      "processed_at": "2026-09-24T07:59:25.973851",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -155,113 +249,74 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:10:16.221801",
+      "fetched_at": "2026-09-24T07:57:38.928597",
       "priority_score": 48,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-24T02:12:06.612570",
+      "processed_at": "2026-09-24T07:59:26.164119",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Trabzonspor'dan Salah uyarısı!",
-      "summary": "Trabzonspor, Muhammed Salah’ın ismi, görselleri ve bordo-mavili formayla çekilmiş görüntülerinin bazı işletmeler tarafından ticari amaçlarla izinsiz kullanılmasına karşı kamuoyunu uyardı. Bordo-mavili kulüp, tespit edilen ihlallerle ilgili hukuki ve cezai başvuruların yapılacağını açıkladı.",
-      "url": "https://www.haberturk.com/spor/trabzonspor-dan-muhammed-salah-uyarisi-3914624",
-      "image_url": "https://im.haberturk.com/l/2026/09/23/ver1790176805/3914624/jpg/1920x1080",
-      "published": "2026-09-23T15:21:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Serdal Adalı gizli transferi canlı yayında duyurdu! “Sır gibi sakladık, sessiz sedasız getirdik”",
+      "summary": "Beşiktaş Başkanı Serdal Adalı gündeme dair çarpıcı açıklamalarda bulundu. Ocak ayındaki kadro hamlelerinin sinyalini veren Adalı, altyapıya kazandırılan genç oyuncuyu ve gerçekleşmeyen transferin arkasındaki detayları paylaştı.",
+      "url": "https://www.yenisafak.com/galeri/spor/serdal-adali-gizli-transferi-canli-yayinda-duyurdu-sir-gibi-sakladik-sessiz-sedasiz-getirdik-4858548",
+      "image_url": null,
+      "published": "2026-09-24T05:31:06",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:10:16.222113",
-      "priority_score": 48,
+      "fetched_at": "2026-09-24T07:58:44.187995",
+      "priority_score": 77,
       "categories": [
-        "general"
+        "transfers",
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-09-24T02:12:06.633261",
+      "processed_at": "2026-09-24T07:59:26.621533",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Patrik Schick: Bayer Leverkusen's constant is breaking new ground",
-      "summary": "Amongst the many changes at Bayer Leverkusen over the past couple of years, Patrik Schick is one of the few remaining constants. But even as those around him come and go, his ability to find the back of the net has never wavered, and 2026/27 could be his best campaign yet…",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/patrik-schick-bayer-leverkusen-constant-carles-martinez-leipzig-39325",
+      "title": "Charles taking record-breaking price tag in his stride",
+      "summary": "Fulham midfielder Shea Charles tells BBC Sport NI he does \"not really think about\" the price tag which saw him become Northern Ireland's most expensive footballer when he joined Premier League Fulham from Southampton.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw98022gvjr1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-09-23T11:28:51",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:09:24.733797",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-24T02:12:06.573833",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
-      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mvy20202eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T11:28:58",
+      "published": "2026-09-24T06:41:49",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:14.470052",
-      "priority_score": 70,
+      "fetched_at": "2026-09-24T07:55:56.373472",
+      "priority_score": 75,
       "categories": [
         "transfers",
-        "breaking_news"
+        "breaking_news",
+        "premier_league"
       ],
-      "processed_at": "2026-09-24T02:12:06.451807",
+      "processed_at": "2026-09-24T07:59:25.969591",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Lukaku transferinde şaşırtan gerçek! Fenerbahçe istemiyordu ancak...",
-      "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde 5 takviye yapan Fenerbahçe'nin en çok konuşulan transferlerinden biriyse Romelu Lukaku olmuştu. Belçika basını, tecrübeli golcünün sarı-lacivertli...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/fenerbahce/2026/09/23/lukaku-transferinde-sasirtan-gercek-fenerbahce-istemiyordu-ancak",
-      "image_url": "https://iaftm.tmgrup.com.tr/587b60/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/09/23/lukaku-transferinde-sasirtan-gercek-fenerbahce-istemiyordu-ancak-1790161704886.jpeg",
-      "published": "2026-09-23T11:09:06",
-      "source": "Fotomac",
-      "source_priority": 7,
+      "title": "İşte yeni isimlerin 6 haftalık performansı",
+      "summary": "Yaz transfer dönemini hareketli geçiren Beşiktaş, Fenerbahçe ve Galatasaray birbirinden önemli isimleri Türkiye'ye getirdi. İşte 3 büyüklerde Dusan Vlahovic, Vedat Muriqi, Rafael Leao ve diğer yeni transferlerin milli araya kadar gösterdiği performanslar...",
+      "url": "https://www.haberturk.com/spor/foto/iste-3-buyuklerde-dusan-vlahovic-vedat-muriqi-rafael-leao-ve-diger-yeni-transferlerin-milli-araya-kadar-gosterdigi-performans-3914718",
+      "image_url": "https://im.haberturk.com/l/2026/09/24/ver1790234568/3914718/jpg/1920x1080",
+      "published": "2026-09-24T07:22:17",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:10:57.931976",
-      "priority_score": 69,
+      "fetched_at": "2026-09-24T07:57:38.927775",
+      "priority_score": 73,
       "categories": [
         "transfers",
-        "match_results",
-        "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-09-24T02:12:07.018839",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da imza yolda! 4 yıllık sözleşme",
-      "summary": "Son dakika Galatasaray haberleri: Ocak ayı için çalışmalarına şimdiden başlayan Galatasaray, iç transfer için de düğmeye bastı. Bu doğrultuda girişimlerini sürdüren yönetimin 4 yıllık imza attırmak istediği...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/09/23/galatasarayda-imza-yolda-4-yillik-sozlesme",
-      "image_url": "https://iaftm.tmgrup.com.tr/c57c2f/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/09/23/galatasarayda-imza-yolda-4-yillik-sozlesme-1790154248491.jpeg",
-      "published": "2026-09-23T09:05:01",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:10:57.932225",
-      "priority_score": 69,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-24T02:12:07.027271",
+      "processed_at": "2026-09-24T07:59:26.118292",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -275,56 +330,34 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-24T02:09:24.750569",
+      "fetched_at": "2026-09-24T07:56:54.281129",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-09-24T02:12:06.586641",
+      "processed_at": "2026-09-24T07:59:26.109220",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Harry Kane contract talks set to wrap up – Bayern Munich latest",
-      "summary": "Bayern Munich CEO Jan-Christian Dreesen expects Harry Kane's future at the club to be resolved after the September-October international break.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-confirms-bayern-munich-contract-extension-talks-start-soon-38685",
-      "image_url": null,
-      "published": "2026-09-23T03:26:00",
-      "source": "Bundesliga Official",
+      "title": "Bu işte bir terslik var! Transferin zenginleri puan fakiri oldu",
+      "summary": "Süper Lig'de yaz transfer döneminde bilançosu artı veren takımlar ligin dibine inerken, eksi veren kulüpler zirvede yer aldı. G.Saray 73.07 milyon Euro eksi verdi ama ikinci sırada, 68.85 milyon fazla harcama yapan Beşiktaş üçüncü, 8.32 milyon Euro ile en çok eksi veren takımlardan Amedspor ise lide",
+      "url": "https://www.hurriyet.com.tr/sporarena/bu-iste-bir-terslik-var-transferin-zenginleri-puan-fakiri-oldu-43317428",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab4b4e5081ef476a8ca9cde.jpg",
+      "published": "2026-09-24T05:55:00",
+      "source": "Hürriyet Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:09:24.751305",
+      "fetched_at": "2026-09-24T07:57:52.813387",
       "priority_score": 66,
       "categories": [
         "transfers",
-        "serie_a",
-        "bundesliga"
+        "super_lig"
       ],
-      "processed_at": "2026-09-24T02:12:06.592576",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
-      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T21:33:27",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:14.470200",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-09-24T02:12:06.452755",
+      "processed_at": "2026-09-24T07:59:26.208571",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -338,33 +371,32 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:56.959888",
+      "fetched_at": "2026-09-24T07:56:32.850743",
       "priority_score": 63,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-24T02:12:06.526693",
+      "processed_at": "2026-09-24T07:59:26.049675",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
-      "summary": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
-      "url": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
-      "published": "2026-09-23T18:30:00",
+      "title": "Sky Sports to show England men's tour of South Africa this winter",
+      "summary": "Sky Sports and Cricket South Africa have extended their longstanding partnership, with Sky Sports and NOW to exclusively broadcast the England men's three-Test and three-ODI tour of South Africa this winter.",
+      "url": "https://www.skysports.com/cricket/news/12040/13590791/sky-sports-to-show-england-mens-tour-of-south-africa-this-winter-plus-australia-mens-tour-in-coming-weeks",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jacob-bethell-england_7359129.jpg?20260923081042",
+      "published": "2026-09-23T16:30:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.444293",
+      "fetched_at": "2026-09-24T07:56:08.782260",
       "priority_score": 61,
       "categories": [
-        "match_results",
-        "serie_a",
-        "world_cup"
+        "breaking_news",
+        "serie_a"
       ],
-      "processed_at": "2026-09-24T02:12:06.490344",
+      "processed_at": "2026-09-24T07:59:26.014504",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -378,73 +410,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-24T02:09:24.733137",
+      "fetched_at": "2026-09-24T07:56:54.263353",
       "priority_score": 61,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-09-24T02:12:06.568262",
+      "processed_at": "2026-09-24T07:59:26.090325",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Kaptein scores winner as Chelsea earn narrow victory over Austria Wien",
-      "summary": "Wieke Kaptein scored a stunning goal but Chelsea were given a stern test by Austria Wien as they began their Women's Champions League campaign with a hard-fought 1-0 win at Plough Lane.",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/report/578238",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-wieke-kaptein-chelsea_7359808.jpg?20260923205428",
-      "published": "2026-09-23T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
+      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T21:33:27",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.443794",
-      "priority_score": 56,
+      "fetched_at": "2026-09-24T07:55:56.373732",
+      "priority_score": 60,
       "categories": [
-        "match_results",
+        "transfers",
         "premier_league",
-        "champions_league"
+        "la_liga"
       ],
-      "processed_at": "2026-09-24T02:12:06.468314",
+      "processed_at": "2026-09-24T07:59:25.970586",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Giants QB Dart ruled out for 2026 season with knee injury",
-      "summary": "New York Giants quarterback Jaxson Dart will miss the remainder of the 2026 NFL season due to a knee injury.",
-      "url": "https://www.skysports.com/nfl/news/12040/13591231/nfl-new-york-giants-quarterback-jaxson-dart-ruled-out-for-the-2026-season-due-to-knee-injury",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jaxson-dart_7359896.jpg?20260923234044",
-      "published": "2026-09-23T23:37:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Yazın Süper Lig’e geliyordu, şimdi dünya devine gidiyor! Masadaki rakam dudak uçuklattı!",
+      "summary": "Yaz transfer sezonunda adı Fenerbahçe ile anılan Borussia Dortmund’un yıldız futbolcusu Serhou Guirassy için çarpıcı bir transfer iddiası gündeme geldi.",
+      "url": "https://www.yenisafak.com/galeri/spor/yazin-super-lige-geliyordu-simdi-dunya-devine-gidiyor-masadaki-rakam-dudak-ucuklatti-4858557",
+      "image_url": null,
+      "published": "2026-09-24T06:13:24",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.443986",
-      "priority_score": 56,
+      "fetched_at": "2026-09-24T07:58:44.187798",
+      "priority_score": 57,
       "categories": [
-        "injuries"
+        "transfers",
+        "bundesliga",
+        "super_lig"
       ],
-      "processed_at": "2026-09-24T02:12:06.475254",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Presidents Cup: Latest schedule and tee times",
-      "summary": "Latest scores, results, pairings and tee times for the 16th Presidents Cup, as Team USA host the International Team at Medinah Country Club, Illinois.",
-      "url": "https://www.skysports.com/golf/news/12040/13590592/presidents-cup-2026-latest-scores-results-tee-times-leaderboard-as-team-usa-host-international-team-at-medinah",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-justin-thomas_7359898.jpg?20260923235258",
-      "published": "2026-09-23T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.444616",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-09-24T02:12:06.499110",
+      "processed_at": "2026-09-24T07:59:26.602996",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -458,12 +472,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-24T02:10:46.210551",
+      "fetched_at": "2026-09-24T07:58:15.152355",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-24T02:12:06.922334",
+      "processed_at": "2026-09-24T07:59:26.454049",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -477,130 +491,112 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:56.960262",
+      "fetched_at": "2026-09-24T07:56:32.851204",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-09-24T02:12:06.532789",
+      "processed_at": "2026-09-24T07:59:26.055971",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Kane dicht bij nieuw Bayern-contract, daarna mogelijk American Football-avontuur",
-      "summary": "Harry Kane is dicht bij een nieuw contract bij Bayern München. Dat vertelde de aanvaller woensdag zelf bij het trainingskamp van de nationale ploeg van Engeland. Ná dat nieuwe contract, zou de topschutter graag nog eens van sport wisselen.",
-      "url": "https://www.vi.nl/nieuws/kane-dicht-bij-nieuw-bayern-contract-daarna-mogelijk-american-football-avontuur",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/23/70ee287e708cd06955267eee021f6ba732c62cd2.jpg?width=1200",
-      "published": "2026-09-23T21:24:17",
+      "title": "“Ocakta iş bitiyor!” Dev isimler listeye girdi: Milli yıldız adım adım Fenerbahçe'ye...",
+      "summary": "Yaz transfer döneminde orta saha takviyesini tamamlayamayan Fenerbahçe, ocak ayı için harekete geçti. Sarı-lacivertlilerin transfer listesindeki 3 önemli ismin detayları netleşti.",
+      "url": "https://www.yenisafak.com/galeri/spor/ocakta-is-bitiyor-dev-isimler-listeye-girdi-milli-yildiz-adim-adim-fenerbahceye-4858582",
+      "image_url": null,
+      "published": "2026-09-24T07:10:08",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:58:44.186881",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T07:59:26.543432",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Officieel: Diemers tekent bij hekkensluiter De Graafschap",
+      "summary": "Mark Diemers keert terug bij De Graafschap. De 32-jarige creatieve middenvelder heeft daarmee eindelijk een nieuwe club gevonden na zijn vertrek bij SC Cambuur. Diemers heeft een contract tot medio 2028 getekend.",
+      "url": "https://www.vi.nl/nieuws/officieel-diemers-tekent-bij-hekkensluiter-de-graafschap",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/24/09c7f510b087c922c5d3f00889dd8260410e70c8.jpg?width=1200",
+      "published": "2026-09-24T07:55:04",
       "source": "VI.nl",
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-09-24T02:12:02.825974",
+      "fetched_at": "2026-09-24T07:59:21.474144",
       "priority_score": 52,
       "categories": [
-        "transfers",
-        "bundesliga"
+        "transfers"
       ],
-      "processed_at": "2026-09-24T02:12:07.384161",
+      "processed_at": "2026-09-24T07:59:26.730360",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
-      "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss",
+      "title": "Kaptein scores winner as Chelsea earn narrow victory over Austria Wien",
+      "summary": "Wieke Kaptein scored a stunning goal but Chelsea were given a stern test by Austria Wien as they began their Women's Champions League campaign with a hard-fought 1-0 win at Plough Lane.",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/report/578238",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-wieke-kaptein-chelsea_7359808.jpg?20260923205428",
+      "published": "2026-09-23T22:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:56:08.781759",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-09-24T07:59:25.992189",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Giants QB Dart ruled out for 2026 season with knee injury",
+      "summary": "New York Giants quarterback Jaxson Dart will miss the remainder of the 2026 NFL season due to a knee injury.",
+      "url": "https://www.skysports.com/nfl/news/12040/13591231/nfl-new-york-giants-quarterback-jaxson-dart-ruled-out-for-the-2026-season-due-to-knee-injury",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jaxson-dart_7359896.jpg?20260923234044",
+      "published": "2026-09-23T23:37:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-24T07:56:08.782048",
+      "priority_score": 51,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-09-24T07:59:26.003588",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "England players carrying World Cup scar - Saka",
+      "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-09-23T07:00:26",
+      "published": "2026-09-23T14:03:42",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-24T02:08:14.471117",
+      "fetched_at": "2026-09-24T07:55:56.374529",
       "priority_score": 50,
       "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-24T02:12:06.462423",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Gedson Fernandes Trabzonspor'a transfer olacak mı? Resmi açıklama geldi",
-      "summary": "Son dakika Trabzonspor transfer haberleri: Ülkemizde bir dönem Beşiktaş ve Galatasaray formalarını da terleten ve kariyerini Rus ekibi Spartak Moskova'da sürdüren Gedson Fernandes'in, Trabzonspor'a transfer...Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/trabzonspor/2026/09/23/gedson-fernandes-trabzonspora-transfer-olacak-mi-resmi-aciklama-geldi",
-      "image_url": "https://iaftm.tmgrup.com.tr/5b2bab/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/09/23/gedson-fernandes-trabzonspora-transfer-olacak-mi-resmi-aciklama-geldi-1790166063176.jpeg",
-      "published": "2026-09-23T12:21:47",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:10:57.932621",
-      "priority_score": 49,
-      "categories": [
-        "transfers",
         "breaking_news",
-        "super_lig"
+        "world_cup"
       ],
-      "processed_at": "2026-09-24T02:12:07.066466",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Man Utd line up Conte for sensational PL return",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-23T23:20:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.443721",
-      "priority_score": 46,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-24T02:12:06.466062",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Scheffler and Burns partner for Thursday fourballs at Presidents Cup",
-      "summary": "Scottie Scheffler and Sam Burns will take on Min Woo Lee and Sungjae Im in the first match of Thursday's fourballs at the Presidents Cup, as captains Brandt Snedeker and Geoff Ogilvy revealed their pairings for the opening session.",
-      "url": "https://www.skysports.com/golf/news/12040/13591108/presidents-cup-2026-scottie-scheffler-and-sam-burns-to-partner-for-first-thursday-fourballs-match-for-team-usa",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7359886.jpg?20260924014440",
-      "published": "2026-09-23T16:48:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.444051",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-24T02:12:06.478194",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Northampton chief lifts lid on Pollock contract negotiations with Hearn",
-      "summary": "Northampton Saints director of rugby Phil Dowson believes more players could follow Henry Pollock and work with promoters like Eddie Hearn to grow their profile.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13591204/henry-pollock-northampton-chief-expects-more-players-to-work-with-promoters-like-eddie-hearn-as-he-lifts-lid-on-negotiations",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-henry-pollock-northampton_7313112.jpg?20260803172815",
-      "published": "2026-09-23T21:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-24T02:08:27.444110",
-      "priority_score": 46,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-24T02:12:06.481076",
+      "processed_at": "2026-09-24T07:59:25.975122",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
