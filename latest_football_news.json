@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T23:24:16.414808",
+  "timestamp": "2026-09-24T02:13:38.071503",
   "total_items": 30,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:31.554774",
+      "fetched_at": "2026-09-24T02:08:56.959361",
       "priority_score": 100,
       "categories": [
         "transfers",
@@ -21,7 +21,7 @@
         "serie_a",
         "world_cup"
       ],
-      "processed_at": "2026-09-23T23:22:46.827677",
+      "processed_at": "2026-09-24T02:12:06.520925",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -35,12 +35,12 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:31.556115",
+      "fetched_at": "2026-09-24T02:08:56.961665",
       "priority_score": 83,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-23T23:22:46.850882",
+      "processed_at": "2026-09-24T02:12:06.550241",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -54,14 +54,14 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T23:22:00.489836",
+      "fetched_at": "2026-09-24T02:11:18.284341",
       "priority_score": 72,
       "categories": [
         "transfers",
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-09-23T23:22:47.304527",
+      "processed_at": "2026-09-24T02:12:07.250589",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -75,252 +75,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678561",
-      "priority_score": 66,
+      "fetched_at": "2026-09-24T02:08:27.443926",
+      "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-09-23T23:22:46.789709",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Giants QB Dart ruled out for 2026 season with knee injury",
-      "summary": "New York Giants quarterback Jaxson Dart will miss the remainder of the 2026 NFL season due to a knee injury.",
-      "url": "https://www.skysports.com/nfl/news/12040/13591231/nfl-new-york-giants-quarterback-jaxson-dart-ruled-out-for-the-2026-season-due-to-knee-injury",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jaxson-dart_7359896.jpg?20260923234044",
-      "published": "2026-09-23T23:37:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678604",
-      "priority_score": 66,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-09-23T23:22:46.791582",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ronaldo spurred on by 1,000-goal target and Portugal glory",
-      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T16:26:38",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:18:56.591685",
-      "priority_score": 50,
-      "categories": [
-        "match_results",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-23T23:22:46.772366",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "England players carrying World Cup scar - Saka",
-      "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T14:03:42",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:18:56.591813",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-23T23:22:46.772705",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ronaldo hedefini açıkladı!",
-      "summary": "Portekizli yıldız golcü Cristiano Ronaldo, futbol kariyerinde 1000. golünü atmayı ve milli takımda UEFA Uluslar Ligi'ni kazanmayı hedeflediğini söyledi.",
-      "url": "https://www.haberturk.com/spor/foto/cristiano-ronaldo-hedefini-acikladi-3914640",
-      "image_url": "https://im.haberturk.com/l/2026/09/23/ver1790182351/3914640/jpg/1920x1080",
-      "published": "2026-09-23T16:52:47",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:20:50.665893",
-      "priority_score": 48,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-09-23T23:22:46.905055",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'dan Salah uyarısı!",
-      "summary": "Trabzonspor, Muhammed Salah’ın ismi, görselleri ve bordo-mavili formayla çekilmiş görüntülerinin bazı işletmeler tarafından ticari amaçlarla izinsiz kullanılmasına karşı kamuoyunu uyardı. Bordo-mavili kulüp, tespit edilen ihlallerle ilgili hukuki ve cezai başvuruların yapılacağını açıkladı.",
-      "url": "https://www.haberturk.com/spor/trabzonspor-dan-muhammed-salah-uyarisi-3914624",
-      "image_url": "https://im.haberturk.com/l/2026/09/23/ver1790176805/3914624/jpg/1920x1080",
-      "published": "2026-09-23T15:21:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:20:50.666103",
-      "priority_score": 48,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-09-23T23:22:46.921674",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Patrik Schick: Bayer Leverkusen's constant is breaking new ground",
-      "summary": "Amongst the many changes at Bayer Leverkusen over the past couple of years, Patrik Schick is one of the few remaining constants. But even as those around him come and go, his ability to find the back of the net has never wavered, and 2026/27 could be his best campaign yet…",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/patrik-schick-bayer-leverkusen-constant-carles-martinez-leipzig-39325",
-      "image_url": null,
-      "published": "2026-09-23T11:28:51",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:58.522613",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-23T23:22:46.869520",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
-      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mvy20202eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T11:28:58",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:18:56.592149",
-      "priority_score": 70,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-23T23:22:46.774382",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
-      "summary": "Danish midfielder has been recuperating in homelandEriksen: ‘I’m pleased we were able to find a solution’Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday.The 34-year-old collapsed during a Denmark friendly ⁠",
-      "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark",
-      "image_url": null,
-      "published": "2026-09-23T19:46:10",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:31.555049",
-      "priority_score": 68,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-23T23:22:46.832254",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
-      "summary": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
-      "url": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
-      "published": "2026-09-23T18:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678832",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "serie_a",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-23T23:22:46.803517",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bundesliga Player of the Month for September: Michael Olise, Phillip Tietz, Miguel Gutiérrez, Igor Matanović, Maximilian Mittelstädt and Yannik Engelhardt the nominees",
-      "summary": "The Bundesliga is once again presenting the official Player of the Month award for the 2026/27 season. The vote has been conducted in cooperation with official licensing partner EA SPORTS since 2018/19. The nominees for September 2026 are Michael Olise, Phillip Tietz, Miguel Gutiérrez, Igor Matanovi",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/vote-player-of-the-month-2026-27-ea-sports-winners-39299",
-      "image_url": null,
-      "published": "2026-09-23T10:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:58.535512",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-23T23:22:46.879744",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Harry Kane contract talks set to wrap up – Bayern Munich latest",
-      "summary": "Bayern Munich CEO Jan-Christian Dreesen expects Harry Kane's future at the club to be resolved after the September-October international break.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-confirms-bayern-munich-contract-extension-talks-start-soon-38685",
-      "image_url": null,
-      "published": "2026-09-23T03:26:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:58.535976",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-09-23T23:22:46.884450",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
-      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-23T21:33:27",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:18:56.592247",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-09-23T23:22:46.775059",
+      "processed_at": "2026-09-24T02:12:06.472850",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -334,13 +95,276 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678749",
+      "fetched_at": "2026-09-24T02:08:27.444171",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-09-23T23:22:46.798432",
+      "processed_at": "2026-09-24T02:12:06.483952",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ronaldo spurred on by 1,000-goal target and Portugal glory",
+      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T16:26:38",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:14.469381",
+      "priority_score": 50,
+      "categories": [
+        "match_results",
+        "world_cup"
+      ],
+      "processed_at": "2026-09-24T02:12:06.448918",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "England players carrying World Cup scar - Saka",
+      "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T14:03:42",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:14.469562",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news",
+        "world_cup"
+      ],
+      "processed_at": "2026-09-24T02:12:06.449385",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ronaldo hedefini açıkladı!",
+      "summary": "Portekizli yıldız golcü Cristiano Ronaldo, futbol kariyerinde 1000. golünü atmayı ve milli takımda UEFA Uluslar Ligi'ni kazanmayı hedeflediğini söyledi.",
+      "url": "https://www.haberturk.com/spor/foto/cristiano-ronaldo-hedefini-acikladi-3914640",
+      "image_url": "https://im.haberturk.com/l/2026/09/23/ver1790182351/3914640/jpg/1920x1080",
+      "published": "2026-09-23T16:52:47",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:10:16.221801",
+      "priority_score": 48,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-24T02:12:06.612570",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Trabzonspor'dan Salah uyarısı!",
+      "summary": "Trabzonspor, Muhammed Salah’ın ismi, görselleri ve bordo-mavili formayla çekilmiş görüntülerinin bazı işletmeler tarafından ticari amaçlarla izinsiz kullanılmasına karşı kamuoyunu uyardı. Bordo-mavili kulüp, tespit edilen ihlallerle ilgili hukuki ve cezai başvuruların yapılacağını açıkladı.",
+      "url": "https://www.haberturk.com/spor/trabzonspor-dan-muhammed-salah-uyarisi-3914624",
+      "image_url": "https://im.haberturk.com/l/2026/09/23/ver1790176805/3914624/jpg/1920x1080",
+      "published": "2026-09-23T15:21:11",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:10:16.222113",
+      "priority_score": 48,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-09-24T02:12:06.633261",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Patrik Schick: Bayer Leverkusen's constant is breaking new ground",
+      "summary": "Amongst the many changes at Bayer Leverkusen over the past couple of years, Patrik Schick is one of the few remaining constants. But even as those around him come and go, his ability to find the back of the net has never wavered, and 2026/27 could be his best campaign yet…",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/patrik-schick-bayer-leverkusen-constant-carles-martinez-leipzig-39325",
+      "image_url": null,
+      "published": "2026-09-23T11:28:51",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:09:24.733797",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-24T02:12:06.573833",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
+      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mvy20202eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T11:28:58",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:14.470052",
+      "priority_score": 70,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-24T02:12:06.451807",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Lukaku transferinde şaşırtan gerçek! Fenerbahçe istemiyordu ancak...",
+      "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer döneminde 5 takviye yapan Fenerbahçe'nin en çok konuşulan transferlerinden biriyse Romelu Lukaku olmuştu. Belçika basını, tecrübeli golcünün sarı-lacivertli...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/fenerbahce/2026/09/23/lukaku-transferinde-sasirtan-gercek-fenerbahce-istemiyordu-ancak",
+      "image_url": "https://iaftm.tmgrup.com.tr/587b60/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/09/23/lukaku-transferinde-sasirtan-gercek-fenerbahce-istemiyordu-ancak-1790161704886.jpeg",
+      "published": "2026-09-23T11:09:06",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:10:57.931976",
+      "priority_score": 69,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T02:12:07.018839",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da imza yolda! 4 yıllık sözleşme",
+      "summary": "Son dakika Galatasaray haberleri: Ocak ayı için çalışmalarına şimdiden başlayan Galatasaray, iç transfer için de düğmeye bastı. Bu doğrultuda girişimlerini sürdüren yönetimin 4 yıllık imza attırmak istediği...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/galatasaray/2026/09/23/galatasarayda-imza-yolda-4-yillik-sozlesme",
+      "image_url": "https://iaftm.tmgrup.com.tr/c57c2f/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/09/23/galatasarayda-imza-yolda-4-yillik-sozlesme-1790154248491.jpeg",
+      "published": "2026-09-23T09:05:01",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:10:57.932225",
+      "priority_score": 69,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T02:12:07.027271",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bundesliga Player of the Month for September: Michael Olise, Phillip Tietz, Miguel Gutiérrez, Igor Matanović, Maximilian Mittelstädt and Yannik Engelhardt the nominees",
+      "summary": "The Bundesliga is once again presenting the official Player of the Month award for the 2026/27 season. The vote has been conducted in cooperation with official licensing partner EA SPORTS since 2018/19. The nominees for September 2026 are Michael Olise, Phillip Tietz, Miguel Gutiérrez, Igor Matanovi",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/vote-player-of-the-month-2026-27-ea-sports-winners-39299",
+      "image_url": null,
+      "published": "2026-09-23T10:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:09:24.750569",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-24T02:12:06.586641",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Harry Kane contract talks set to wrap up – Bayern Munich latest",
+      "summary": "Bayern Munich CEO Jan-Christian Dreesen expects Harry Kane's future at the club to be resolved after the September-October international break.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-confirms-bayern-munich-contract-extension-talks-start-soon-38685",
+      "image_url": null,
+      "published": "2026-09-23T03:26:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:09:24.751305",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "serie_a",
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-24T02:12:06.592576",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
+      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-23T21:33:27",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:14.470200",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-09-24T02:12:06.452755",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
+      "summary": "Danish midfielder has been recuperating in homelandEriksen: ‘I’m pleased we were able to find a solution’Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday.The 34-year-old collapsed during a Denmark friendly ⁠",
+      "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark",
+      "image_url": null,
+      "published": "2026-09-23T19:46:10",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:56.959888",
+      "priority_score": 63,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-24T02:12:06.526693",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
+      "summary": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
+      "url": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+      "published": "2026-09-23T18:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:27.444293",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-09-24T02:12:06.490344",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -354,32 +378,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:58.522141",
+      "fetched_at": "2026-09-24T02:09:24.733137",
       "priority_score": 61,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-09-23T23:22:46.865101",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Man Utd line up Conte for sensational PL return",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-23T23:20:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678405",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-23T23:22:46.784396",
+      "processed_at": "2026-09-24T02:12:06.568262",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -393,14 +398,33 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678462",
+      "fetched_at": "2026-09-24T02:08:27.443794",
       "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-09-23T23:22:46.786167",
+      "processed_at": "2026-09-24T02:12:06.468314",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Giants QB Dart ruled out for 2026 season with knee injury",
+      "summary": "New York Giants quarterback Jaxson Dart will miss the remainder of the 2026 NFL season due to a knee injury.",
+      "url": "https://www.skysports.com/nfl/news/12040/13591231/nfl-new-york-giants-quarterback-jaxson-dart-ruled-out-for-the-2026-season-due-to-knee-injury",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-jaxson-dart_7359896.jpg?20260923234044",
+      "published": "2026-09-23T23:37:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:27.443986",
+      "priority_score": 56,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-09-24T02:12:06.475254",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -414,33 +438,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.679064",
+      "fetched_at": "2026-09-24T02:08:27.444616",
       "priority_score": 56,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-09-23T23:22:46.810386",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Serdal Adalı: Bu şekilde gidersek hâkim olamayacağımız olaylar olur",
-      "summary": "Serdal Adalı, Beşiktaş ve Türk futbolunun gündemi ile hedefleri ve transfer sezonundan Vincenzo Italiano ile anlaşmalarına kadar birçok konuda açıklamalarda bulundu.",
-      "url": "https://www.cnnturk.com/spor/futbol/serdal-adali-bu-sekilde-gidersek-hakim-olamayacagimiz-olaylar-olur-3470612",
-      "image_url": null,
-      "published": "2026-09-24T00:09:44",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:21:26.637371",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T23:22:47.121465",
+      "processed_at": "2026-09-24T02:12:06.499110",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -454,12 +458,12 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-23T23:21:26.637926",
+      "fetched_at": "2026-09-24T02:10:46.210551",
       "priority_score": 56,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-23T23:22:47.152243",
+      "processed_at": "2026-09-24T02:12:06.922334",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -473,13 +477,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:31.555309",
+      "fetched_at": "2026-09-24T02:08:56.960262",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-09-23T23:22:46.837077",
+      "processed_at": "2026-09-24T02:12:06.532789",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -493,13 +497,13 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-09-23T23:22:44.173894",
+      "fetched_at": "2026-09-24T02:12:02.825974",
       "priority_score": 52,
       "categories": [
         "transfers",
         "bundesliga"
       ],
-      "processed_at": "2026-09-23T23:22:47.401440",
+      "processed_at": "2026-09-24T02:12:07.384161",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -513,31 +517,71 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-23T23:18:56.592844",
+      "fetched_at": "2026-09-24T02:08:14.471117",
       "priority_score": 50,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-09-23T23:22:46.781570",
+      "processed_at": "2026-09-24T02:12:06.462423",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Gedson Fernandes Trabzonspor'a transfer olacak mı? Resmi açıklama geldi",
+      "summary": "Son dakika Trabzonspor transfer haberleri: Ülkemizde bir dönem Beşiktaş ve Galatasaray formalarını da terleten ve kariyerini Rus ekibi Spartak Moskova'da sürdüren Gedson Fernandes'in, Trabzonspor'a transfer...Devamı için tıklayınız",
+      "url": "https://www.fotomac.com.tr/trabzonspor/2026/09/23/gedson-fernandes-trabzonspora-transfer-olacak-mi-resmi-aciklama-geldi",
+      "image_url": "https://iaftm.tmgrup.com.tr/5b2bab/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/09/23/gedson-fernandes-trabzonspora-transfer-olacak-mi-resmi-aciklama-geldi-1790166063176.jpeg",
+      "published": "2026-09-23T12:21:47",
+      "source": "Fotomac",
+      "source_priority": 7,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:10:57.932621",
+      "priority_score": 49,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "super_lig"
+      ],
+      "processed_at": "2026-09-24T02:12:07.066466",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Man Utd line up Conte for sensational PL return",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-09-23T23:20:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-24T02:08:27.443721",
+      "priority_score": 46,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-09-24T02:12:06.466062",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Scheffler and Burns partner for Thursday fourballs at Presidents Cup",
-      "summary": "Scottie Scheffler and Sam Burns will take on Min Woo Lee and Sungjae Im in the first match of Thursday's fourballs at the Presidents Cup.",
+      "summary": "Scottie Scheffler and Sam Burns will take on Min Woo Lee and Sungjae Im in the first match of Thursday's fourballs at the Presidents Cup, as captains Brandt Snedeker and Geoff Ogilvy revealed their pairings for the opening session.",
       "url": "https://www.skysports.com/golf/news/12040/13591108/presidents-cup-2026-scottie-scheffler-and-sam-burns-to-partner-for-first-thursday-fourballs-match-for-team-usa",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7359886.jpg?20260923231650",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7359886.jpg?20260924014440",
       "published": "2026-09-23T16:48:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678662",
+      "fetched_at": "2026-09-24T02:08:27.444051",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-09-23T23:22:46.793905",
+      "processed_at": "2026-09-24T02:12:06.478194",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -551,52 +595,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-23T23:19:06.678706",
+      "fetched_at": "2026-09-24T02:08:27.444110",
       "priority_score": 46,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-09-23T23:22:46.796146",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Raskin'den Beşiktaş itirafı! 'Hazırdım'",
-      "summary": "Beşiktaş'ın yaz transfer sezonunda kadrosuna katmak istediği ancak başarılı olamadığı Raskin, transfer sürecine dair açıklık getirdi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/raskinden-besiktas-itirafi-hazirdim-43317356",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab434d74562d7e716a3cfcc.jpg",
-      "published": "2026-09-23T20:22:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:21:03.359818",
-      "priority_score": 46,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T23:22:46.948082",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Serdal Adalı'dan Italiano, Sergen Yalçın, Vlahovic, Trossard, Önder Özen ve transfer açıklaması: Çalışmaları durdurmadık",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, siyah beyazlı camiada merak edilen konulara dair konuştu. Adalı, Italiano, Sergen Yalçın, Graf, Önder Özen ve transfere dair önemli ifadeler kullandı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-italiano-sergen-yalcin-vlahovic-trossard-onder-ozen-ve-transfer-aciklamasi-calismalari-durdurmadik-43317290",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab4163e4562d7e716a3cefd.jpg",
-      "published": "2026-09-23T18:11:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-23T23:21:03.359870",
-      "priority_score": 46,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-09-23T23:22:46.958339",
+      "processed_at": "2026-09-24T02:12:06.481076",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
