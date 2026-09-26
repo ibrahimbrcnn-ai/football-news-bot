@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T12:01:29.783264",
+  "timestamp": "2026-09-26T15:34:29.490287",
   "total_items": 30,
   "news": [
     {
@@ -12,19 +12,39 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:14.840665",
-      "priority_score": 88,
+      "fetched_at": "2026-09-26T15:31:15.658561",
+      "priority_score": 83,
       "categories": [
         "transfers",
         "super_lig",
         "world_cup"
       ],
-      "processed_at": "2026-09-26T11:59:59.944016",
-      "title_tr": "FIFA'dan F.Bahçe'ye 3 dönem transfer yasağı!",
-      "summary_tr": "Fenerbahçe, FIFA tarafından 3 dönem transfer yasağı cezası aldı. Sarı-lacivertli kulüp, cezanın En-Nesyri transferindeki bonservis taksidinin ödenmemesi gerekçesiyle verildiğini, söz konusu borcun pazartesi günü ödenerek transfer yasağının kaldırılacağını açıkladı."
+      "processed_at": "2026-09-26T15:33:05.421984",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Golf leaderboards: Fitzpatrick resumes Open de France charge",
+      "title": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
+      "summary": "Manager Maresca posts ‘I know nothing’ message David Bernstein: a fine is not sufficient if appeal failsKhaldoon Al Mubarak, the Manchester City chair, has spoken for the first time since the club was found guilty on virtually all counts of breaching Premier League financial rules, saying “nothing h",
+      "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
+      "image_url": null,
+      "published": "2026-09-26T14:52:09",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:30:02.362410",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.287673",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Golf leaderboards: Fitzpatrick leads Open de France as Fleetwood withdraws",
       "summary": "Latest golf scores and results from around the world, including the DP World Tour's FedEx Open de France and more..",
       "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
       "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-matt-fitzpatrick_7360578.jpg?20260924185745",
@@ -33,33 +53,92 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-09-26T11:56:45.129160",
+      "fetched_at": "2026-09-26T15:29:38.678098",
+      "priority_score": 71,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-26T15:33:05.280093",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City continue perfect WSL start with win over Charlton",
+      "summary": "Highlights of the WSL match between Charlton Athletic and Manchester City.",
+      "url": "https://www.skysports.com/watch/video/13592115/charlton-athletic-0-1-manchester-city-wsl-highlights",
+      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-charlton_7361822.jpg?20260926153112",
+      "published": "2026-09-26T15:29:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677758",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.264629",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mohamed Salah milli takım kampından ayrıldı",
+      "summary": "Trabzonspor ve Mısır milli takımının yıldızı Mohamed Salah, Angola maçı sonrası kamptan ayrıldı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/mohamed-salah-milli-takim-kampindan-ayrildi-43320388",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab7b3a8dd6978f9f36344c2.jpg",
+      "published": "2026-09-26T12:01:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:31:28.288746",
       "priority_score": 66,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-09-26T11:59:59.816413",
-      "title_tr": "Golf liderlik tabloları: Fitzpatrick, Open de France hücumuna devam ediyor",
-      "summary_tr": "DP World Tour'un FedEx Open de France'ı ve daha fazlası dahil olmak üzere dünyanın dört bir yanından en son golf skorları ve sonuçları.."
+      "processed_at": "2026-09-26T15:33:05.456304",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Mısır'dan Salah için 'suni çim' önlemi!",
-      "summary": "Trabzonspor'un yıldız futbolcusu Muhammed Salah, ülkesi Mısır'ın suni çim zeminde oynayacağı Güney Sudan maçında dinlendirilecek. Mısır Futbol Federasyonu, Salah'ı korumak amacıyla bu kararın alındığını açıkladı.",
-      "url": "https://www.haberturk.com/spor/misir-dan-salah-icin-suni-cim-onlem-guney-sudan-macinda-oynamayacak-3915274",
-      "image_url": "https://im.haberturk.com/l/2026/09/26/ver1790421319/3915274/jpg/1920x1080",
-      "published": "2026-09-26T11:15:37",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Man City chairman confident club will prove innocence",
+      "summary": "Man City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-26T15:02:28",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:14.840309",
+      "fetched_at": "2026-09-26T15:29:30.010144",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.235640",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Slovenia 0-0 Scotland: Nations League – live",
+      "summary": "An extremely dominant second-half display wasn’t enough to win Scotland all three points in their first game under Sebastien PocognoliSebastien Pocognoli: “We had a good camp, we reached all the aspects that we wanted to reach on the pitch but also off the pitch,” said Scotland’s head coach during h",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
+      "image_url": null,
+      "published": "2026-09-26T15:18:33",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:30:02.362838",
       "priority_score": 63,
       "categories": [
-        "general"
+        "breaking_news"
       ],
-      "processed_at": "2026-09-26T11:59:59.921854",
-      "title_tr": "Mısır'dan Salah için 'suni çim' önlemi!",
-      "summary_tr": "Trabzonspor'un yıldız futbolcusu Muhammed Salah, ülkesi Mısır'ın suni çim zeminde oynayacağı Güney Sudan maçında dinlendirilecek. Mısır Futbol Federasyonu, Salah'ı korumak amacıyla bu kararın alındığını açıkladı."
+      "processed_at": "2026-09-26T15:33:05.290633",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Süper Lig devine FIFA’dan şok darbe! Tam 3 dönem transfer yasağı getirildi! İşte nedeni...",
@@ -71,7 +150,7 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:59:19.091475",
+      "fetched_at": "2026-09-26T15:32:24.678003",
       "priority_score": 62,
       "categories": [
         "transfers",
@@ -79,65 +158,200 @@
         "super_lig",
         "world_cup"
       ],
-      "processed_at": "2026-09-26T12:00:00.508548",
-      "title_tr": "Süper Lig devine FIFA’dan şok darbe! Tam 3 dönem transfer yasağı getirildi! İşte nedeni...",
-      "summary_tr": "Türk futbolunda son dakika gelişmesi! FIFA, şok bir karara imza atarak şampiyonluk mücadelesi veren dev kulübe 3 dönem transfer yasağı getirdi."
-    },
-    {
-      "title": "Pocognoli names first Scotland XI vs Slovenia LIVE!",
-      "summary": "",
-      "url": "https://www.skysports.com/football/slovenia-vs-scotland/live/554006",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastian-pocognoli_7352167.jpg?20260915130337",
-      "published": "2026-09-26T12:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:45.129450",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-09-26T11:59:59.832186",
-      "title_tr": "Pocognoli ilk İskoçya XI'ini Slovenya'ya karşı CANLI olarak adlandırıyor!",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Mbappe sakatlandı, Arda Güler’in o tepkisi İspanya'da gündem oldu",
-      "summary": "Türkiye - Fransa karşılaşmasında golü attıktan hemen sonra sakatlanan dünya yıldızı Kylian Mbappe, oyunu terk etmek zorunda kaldı. Arda Güler'in sakatlık tepkisi ise İspanya'da gündem oldu.",
-      "url": "https://www.yenisafak.com/galeri/spor/mbappe-sakatlandi-arda-gulerin-o-tepkisi-ispanyada-gundem-oldu-4859153",
-      "image_url": null,
-      "published": "2026-09-26T08:17:36",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:59:19.090600",
-      "priority_score": 57,
-      "categories": [
-        "match_results",
-        "injuries"
-      ],
-      "processed_at": "2026-09-26T12:00:00.412823",
+      "processed_at": "2026-09-26T15:33:06.142426",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Türkiye-Fransa maçını Nihat Kahveci yorumladı: Yeniliyorsan böyle yenil!",
-      "summary": "UEFA Uluslar A Ligi ilk maçında Türkiye, Fransa'ya 1-0'lık skorla mağlup oldu. Maç sonrası Milli Takım'ın unutulmaz golcülerinden Nihat Kahveci, ay-yıldızlıları yorumladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/turkiye-fransa-macini-nihat-kahveci-yorumladi-yeniliyorsan-boyle-yenil-43320036",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab769ebdd6978f9f363430a.jpg",
-      "published": "2026-09-26T06:47:00",
-      "source": "Hürriyet Spor",
+      "title": "Muhammed Salah için dikkat çeken karar: Maçta forma giymeyecek",
+      "summary": "Mısır Futbol Federasyonu, Trabzonspor'da forma giyen Muhammed Salah'ın Güney Sudan karşılaşmasında dinlendirileceğini açıkladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/muhammed-salah-icin-dikkat-ceken-karar-macta-forma-giymeyecek-3471734",
+      "image_url": null,
+      "published": "2026-09-26T16:25:02",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:28.103412",
-      "priority_score": 56,
+      "fetched_at": "2026-09-26T15:31:50.118514",
+      "priority_score": 61,
       "categories": [
-        "match_results"
+        "general"
       ],
-      "processed_at": "2026-09-26T12:00:00.007067",
+      "processed_at": "2026-09-26T15:33:05.654786",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hateboer over Groningen-terugkeer: 'Was op zoek naar avontuur in de zon'",
+      "summary": "Hans Hateboer dook na het verstrijken van de transferdeadline plots weer op bij FC Groningen. Een terugkeer bij zijn oude voetballiefde lag voor de dertienvoudig international echter nog niet helemaal in de planning, gaf hij in gesprek met VI toe.",
+      "url": "https://www.vi.nl/nieuws/hateboer-over-groningen-terugkeer-was-op-zoek-naar-avontuur-in-de-zon",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/26/c1f01ac24068c69c736cbc92255dc50352986053.jpg?width=1200",
+      "published": "2026-09-26T13:45:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:33:00.855639",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-09-26T15:33:06.244879",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Mısır'dan Salah için 'suni çim' önlemi!",
+      "summary": "Trabzonspor'un yıldız futbolcusu Muhammed Salah, ülkesi Mısır'ın suni çim zeminde oynayacağı Güney Sudan maçında dinlendirilecek. Mısır Futbol Federasyonu, Salah'ı korumak amacıyla bu kararın alındığını açıkladı.",
+      "url": "https://www.haberturk.com/spor/misir-dan-salah-icin-suni-cim-onlem-guney-sudan-macinda-oynamayacak-3915274",
+      "image_url": "https://im.haberturk.com/l/2026/09/26/ver1790421319/3915274/jpg/1920x1080",
+      "published": "2026-09-26T11:15:37",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:31:15.658033",
+      "priority_score": 53,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-09-26T15:33:05.392850",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hamburg's Albert Grønbæk set for injury lay-off after muscle tear on international duty",
+      "summary": "Hamburg are set for a spell without top scorer this season, Albert Grønbæk, after the midfielder suffered a muscle tear while representing Denmark during the international break.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/albert-gronbaek-injury-lay-off-muscle-tear-hamburg-denmark-39362",
+      "image_url": null,
+      "published": "2026-09-26T14:06:39",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:30:23.740092",
+      "priority_score": 51,
+      "categories": [
+        "injuries",
+        "serie_a"
+      ],
+      "processed_at": "2026-09-26T15:33:05.357109",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Harry Kane would be very proud to win Ballon d'Or",
+      "summary": "Bayern Munich striker Harry Kane has said he would be very proud to win the Ballon d'Or following his stunning 2025/26 campaign.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-would-be-very-proud-to-win-ballon-dor-bayern-munich-39359",
+      "image_url": null,
+      "published": "2026-09-26T11:35:46",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:30:23.741779",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-09-26T15:33:05.369743",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "VI Live: Heracles heeft weinig te duchten van Vitesse, N'Djoli scoort weer",
+      "summary": "In de Nations League staat zaterdag een heerlijke kraker op de voetbalfans te wachten. Engeland neemt het op tegen WK-winnaar Spanje. Daarnaast is er volop voetbal in de Keuken Kampioen Divisie. Blijf op de hoogte van het interland- en clubvoetbal in deze VI Live.",
+      "url": "https://www.vi.nl/nieuws/vi-live-engeland-tegen-wk-winnaar-spanje-volop-kkd-voetbal",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/23/936a73461a04be6169e80363e8923d5ce1bbd23f.jpg?width=1200",
+      "published": "2026-09-26T15:18:16",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:33:00.855246",
+      "priority_score": 47,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-09-26T15:33:06.159894",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "No Premier League appetite to strip Man City of titles - but threat remains",
+      "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-09-26T13:26:40",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:30.010709",
+      "priority_score": 45,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.236503",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ireland players vote to go ahead with Israel matches despite ‘different views’",
+      "summary": "Scheduled press conference and training session delayedIrish FA admits ‘players shared different views’ The Republic of Ireland’s Nations League fixtures with Israel will go ahead after players voted on Saturday for the matches to be played.The scheduled press conference before Sunday’s first game –",
+      "url": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
+      "image_url": null,
+      "published": "2026-09-26T14:43:23",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:30:02.363285",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-26T15:33:05.295550",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Orthodox leaves Prix Morny defeat behind in Middle Park",
+      "summary": "Orthodox bounced back from his Prix Morny defeat to strike at the highest level for the first time in the Tattersalls Middle Park Stakes at Newmarket.",
+      "url": "https://www.skysports.com/racing/news/12040/13592124/orthodox-leaves-prix-morny-defeat-behind-in-middle-park",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-rossa-ryan-orthodox_7361830.jpg?20260926153630",
+      "published": "2026-09-26T15:36:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677529",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-26T15:33:05.255608",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Catalaanse krant: 'Frenkie de Jong op derde plan bij Barça-terugkeer na blessure'",
+      "summary": "De zomerse transferwindow is achter de rug, maar de geruchtenstroom richting de winter is alweer op gang gekomen. Er zijn daarnaast ook nog genoeg transfervrije spelers. Volg al het transfernieuws en alle geruchten in onderstaand blog. Bekijk hier ons blog voor de perikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transfers-en-geruchten-in-het-buitenland",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/1a44c5cda8c92ce8eb8c4f91efe667c65050a968.jpg?width=1200",
+      "published": "2026-09-26T12:16:53",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:33:00.856066",
+      "priority_score": 57,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-09-26T15:33:06.353727",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -151,7 +365,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:28.103558",
+      "fetched_at": "2026-09-26T15:31:28.289493",
       "priority_score": 56,
       "categories": [
         "transfers",
@@ -159,142 +373,7 @@
         "super_lig",
         "world_cup"
       ],
-      "processed_at": "2026-09-26T12:00:00.027803",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man City legal fight could spiral out of control - Purslow",
-      "summary": "Manchester City's legal fight with the Premier League has the potential to \"spiral out of control\" a former top club executive has warned.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-26T11:03:53",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:32.615198",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T11:59:59.806073",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Enzo Maresca approached for comment; pressure grows on Republic of Ireland – matchday live",
-      "summary": "Manchester City news and Nations League buildupToday’s games | Read Football Daily | Mail EmilliaEngland host Spain at Wembley this evening. Thomas Tuchel was asked yesterday if he thought that Spain’s possession-based style of play gives them an advantage.In response, the England head coach said: “",
-      "url": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-      "image_url": null,
-      "published": "2026-09-26T11:42:51",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.708640",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T11:59:59.852404",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "England aim to win over Wembley and revive Wonderwall in Spain glamour fixture",
-      "summary": "Emotions of a Nations League match cannot pulse to the same levels as the World Cup but Tuchel needs to reconnectThomas Tuchel has pictured the scene. It comes after the final whistle has blown on England’s Nations League opener against Spain on Saturday night, the first post-World Cup fixture for b",
-      "url": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
-      "image_url": null,
-      "published": "2026-09-25T18:00:13",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.711542",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-09-26T11:59:59.900657",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Zirkzee traint met Oranje: spits mee naar Belgrado voor duel met Servië",
-      "summary": "Joshua Zirkzee heeft zich zaterdag gemeld op het trainingsveld van het Nederlands elftal. De spits van Manchester United trainde voor het eerst mee, nadat hij werd opgeroepen als vervanger van de geblesseerde Brian Brobbey. Later op de dag reist hij mee af naar Belgrado, waar het duel met Servië wac",
-      "url": "https://www.vi.nl/nieuws/zirkzee-traint-met-oranje-spits-mee-naar-belgrado-voor-duel-met-servie",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/26/defba1d8800cc1e7def8a148dd564f4b60e66b27.jpg?width=1200",
-      "published": "2026-09-26T11:10:52",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:59:56.091534",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T12:00:00.556441",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Pochettino: 'Afscheid Messi is te vergelijken met stoppen Maradona'",
-      "summary": "Mauricio Pochettino heeft vooruitgekeken naar het naderende afscheid van Lionel Messi. De wereldster krijgt op 6 oktober in Buenos Aires tegen Benin een groots afscheid van de nationale ploeg. Het zal voor de voormalige wereldkampioen zijn laatste interland voor Argentinië zijn.",
-      "url": "https://www.vi.nl/video/pochettino-afscheid-messi-is-te-vergelijken-met-stoppen-maradona",
-      "image_url": "https://images.performgroup.com/transcoded/20260926/260926_EN_SPN_INTL_POCHETTINO_MESSI_RETIREMENT_RD_1790407255793-1_2847_1.jpeg",
-      "published": "2026-09-26T08:35:53",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:59:56.091947",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-09-26T12:00:00.663140",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ngumoha not in England squad to face Spain",
-      "summary": "Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-26T10:27:29",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:32.616069",
-      "priority_score": 45,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-09-26T11:59:59.807740",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Curry agrees two-year $116m contract extension with Warriors",
-      "summary": "The Golden State Warriors have signed star guard Steph Curry to a two-year, $116m (£88m) contract extension, according to ESPN.",
-      "url": "https://www.skysports.com/nba/news/12040/13591980/nba-steph-curry-agrees-two-year-116m-contract-extension-with-golden-state-warriors",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-stephen-curry-warriors_7221246.jpg?20260416065844",
-      "published": "2026-09-26T07:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:45.129610",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "match_results"
-      ],
-      "processed_at": "2026-09-26T11:59:59.839660",
+      "processed_at": "2026-09-26T15:33:05.540977",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -308,147 +387,128 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:14.840732",
-      "priority_score": 58,
+      "fetched_at": "2026-09-26T15:31:15.658630",
+      "priority_score": 53,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-09-26T11:59:59.947787",
+      "processed_at": "2026-09-26T15:33:05.426993",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13591966/transfer-news-crystal-palace-chairman-steve-parish-tells-liverpool-accepting-50m-ismaila-sarr-bid-was-never-going-to-happen-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-09-25T23:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:45.129809",
-      "priority_score": 56,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-09-26T11:59:59.844909",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Internationals look to extend shock lead over USA at Presidents Cup LIVE!",
-      "summary": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13591905/presidents-cup-team-usa-vs-internationals-live-latest-updates-scores-highlights-from-saturday-foursomes-fourballs-at-medinah",
-      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7361344.jpg?20260925184655",
-      "published": "2026-09-26T12:45:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:45.129338",
-      "priority_score": 51,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-09-26T11:59:59.823899",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Trabzonspor'da en golcü üçlü geleneği sürüyor!",
-      "summary": "Trabzonspor'da hücum hattı değişti, golcü kimliği değişmedi. Geçtiğimiz sezon Paul Onuachu, Felipe Augusto ve Ernest Muçi ile skor üreten bordo-mavililer, yeni sezonda Muhammed Salah, Noah Saviolo ve Paul...Devamı için tıklayınız",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/09/26/trabzonsporda-en-golcu-uclu-gelenegi-suruyor",
-      "image_url": "https://iasbh.tmgrup.com.tr/1c9431/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/09/26/trabzonsporda-en-golcu-uclu-gelenegi-suruyor-1790408199439.jpeg",
-      "published": "2026-09-26T07:37:44",
-      "source": "Sabah Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:58:34.358945",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-09-26T12:00:00.127325",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Mbappe’den Arda Güler’e şok hareket: Frikik öncesi dikkat çeken an",
-      "summary": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup'taki ilk maçında Fransa'ya 1-0 mağlup oldu. Kocaeli Stadı'ndaki mücadelede Kylian Mbappe galibiyet golünü atarken, yıldız futbolcunun Arda Güler'in frikik kullanacağı sırada yaptığı hareket dikkat çekti.",
-      "url": "https://www.yenisafak.com/galeri/spor/mbappeden-arda-gulere-sok-hareket-frikik-oncesi-dikkat-ceken-an-4859156",
+      "title": "Mbappe sakatlandı, Arda Güler’in o tepkisi İspanya'da gündem oldu",
+      "summary": "Türkiye - Fransa karşılaşmasında golü attıktan hemen sonra sakatlanan dünya yıldızı Kylian Mbappe, oyunu terk etmek zorunda kaldı. Arda Güler'in sakatlık tepkisi ise İspanya'da gündem oldu.",
+      "url": "https://www.yenisafak.com/galeri/spor/mbappe-sakatlandi-arda-gulerin-o-tepkisi-ispanyada-gundem-oldu-4859153",
       "image_url": null,
-      "published": "2026-09-26T08:24:26",
+      "published": "2026-09-26T08:17:36",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:59:19.090467",
-      "priority_score": 47,
+      "fetched_at": "2026-09-26T15:32:24.676706",
+      "priority_score": 52,
       "categories": [
-        "match_results"
+        "match_results",
+        "injuries"
       ],
-      "processed_at": "2026-09-26T12:00:00.401805",
+      "processed_at": "2026-09-26T15:33:06.012510",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Ocak'ta Beşiktaş'a! Serdal Adalı konuşmuştu",
-      "summary": "Beşiktaş'ın ara transfer sezonunda kadrosuna katmak için girişimlerde bulunacağı ilk isim belli oldu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/ocakta-besiktasa-serdal-adali-konusmustu-43320069",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab7726bdd6978f9f3634336.jpg",
-      "published": "2026-09-26T07:24:58",
+      "title": "Man City chairman responds to reports surrounding 115 charges",
+      "summary": "Manchester City chairman Khaldoon Al Mubarak has reaffirmed his belief the club will prove their innocence in the Premier League 115 charges case following reports on Friday.",
+      "url": "https://www.skysports.com/football/news/12040/13592103/man-city-chairman-khaldoon-al-mubarak-responds-to-reports-surrounding-115-charges-in-premier-league-financial-probe",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-khaldoon-al-mubarak_7361799.jpg?20260926151348",
+      "published": "2026-09-26T15:05:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677371",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.251031",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Warwickshire win County Championship",
+      "summary": "Warwickshire thrashed visitors Leicestershire by an innings and 79 runs at Edgbaston to seal a ninth County Championship title and their first since 2021 on Saturday.",
+      "url": "https://www.skysports.com/cricket/news/12040/13592028/warwickshire-defeat-leicestershire-at-edgbaston-to-win-county-championship-and-claim-first-title-in-five-years",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-warwickshire-cricket_7361739.jpg?20260926142316",
+      "published": "2026-09-26T14:25:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677693",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-09-26T15:33:05.262255",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Greenwood free-kick vs Charlton maintains Man City's perfect record",
+      "summary": "Alex Greenwood's free-kick earned Manchester City a narrow 1-0 win against Charlton in the WSL.",
+      "url": "https://www.skysports.com/football/charlton-athletic-women-vs-manchester-city-women/report/575776",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-alex-greenwood-man-city_7361735.jpg?20260926142217",
+      "published": "2026-09-26T15:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.678032",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-09-26T15:33:05.276119",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Türkiye-Fransa maçını Nihat Kahveci yorumladı: Yeniliyorsan böyle yenil!",
+      "summary": "UEFA Uluslar A Ligi ilk maçında Türkiye, Fransa'ya 1-0'lık skorla mağlup oldu. Maç sonrası Milli Takım'ın unutulmaz golcülerinden Nihat Kahveci, ay-yıldızlıları yorumladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/turkiye-fransa-macini-nihat-kahveci-yorumladi-yeniliyorsan-boyle-yenil-43320036",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ab769ebdd6978f9f363430a.jpg",
+      "published": "2026-09-26T06:47:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:58:28.103361",
-      "priority_score": 46,
+      "fetched_at": "2026-09-26T15:31:28.289279",
+      "priority_score": 51,
       "categories": [
-        "transfers",
-        "super_lig"
+        "match_results"
       ],
-      "processed_at": "2026-09-26T12:00:00.000032",
+      "processed_at": "2026-09-26T15:33:05.512645",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Ward appointed Liverpool's sporting director",
-      "summary": "Julian Ward becomes Liverpool's sporting director for the second time following the departure of Richard Hughes.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zkvkez48o?at_medium=RSS&at_campaign=rss",
+      "title": "Ngumoha not in England squad to face Spain",
+      "summary": "Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-09-26T09:08:17",
+      "published": "2026-09-26T10:27:29",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-26T11:56:32.616460",
+      "fetched_at": "2026-09-26T15:29:30.011546",
       "priority_score": 45,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-09-26T11:59:59.809540",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "The issues Mourinho is struggling to fix at Real",
-      "summary": "Jose Mourinho only returned to Real Madrid in July but a lot needs to improve in order for there to be a title race in La Liga.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-09-26T09:32:55",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:56:32.616587",
-      "priority_score": 45,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-09-26T11:59:59.810295",
+      "processed_at": "2026-09-26T15:33:05.238669",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -462,130 +522,69 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-09-26T11:56:32.616848",
+      "fetched_at": "2026-09-26T15:29:30.011919",
       "priority_score": 45,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-09-26T11:59:59.812000",
+      "processed_at": "2026-09-26T15:33:05.240305",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
-      "summary": "We analyse what City must do to appeal, why even that might not be the end of the legal wrangling, and the penalties that could await if the verdict is upheldManchester City have been found guilty of the vast majority of the 134 disciplinary charges brought against them by the Premier League. Contin",
-      "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
+      "title": "Mbappe’den Arda Güler’e şok hareket: Frikik öncesi dikkat çeken an",
+      "summary": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup'taki ilk maçında Fransa'ya 1-0 mağlup oldu. Kocaeli Stadı'ndaki mücadelede Kylian Mbappe galibiyet golünü atarken, yıldız futbolcunun Arda Güler'in frikik kullanacağı sırada yaptığı hareket dikkat çekti.",
+      "url": "https://www.yenisafak.com/galeri/spor/mbappeden-arda-gulere-sok-hareket-frikik-oncesi-dikkat-ceken-an-4859156",
       "image_url": null,
-      "published": "2026-09-26T07:00:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.708905",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T11:59:59.856454",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
-      "summary": "Club’s owners FSG move swiftly to fill key postMove comes amid upheaval in Anfield hierarchyLiverpool have appointed Julian Ward as their sporting director for a second time following the departure of Richard Hughes to Al-Hilal.Ward, who was Liverpool’s sporting director for one season in 2022-23, h",
-      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
-      "image_url": null,
-      "published": "2026-09-26T08:20:40",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.709211",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T11:59:59.859951",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "‘Island girl’ Malard aims to ‘become a legend’ in Réunion with Bompastor",
-      "summary": "She left her Indian Ocean island home at the urging of Chelsea’s now-manager – now they’re working together again in pursuit of a Stamford Bridge legacyIt is rare to see Melvine Malard without a grin and she has a mountain of reasons to keep it that way. A wedding in June, a big-money move to Chelse",
-      "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
-      "image_url": null,
-      "published": "2026-09-26T07:00:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.709460",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-09-26T11:59:59.863818",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
-      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his careerLike the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began",
-      "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
-      "image_url": null,
-      "published": "2026-09-26T07:00:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.709957",
-      "priority_score": 43,
-      "categories": [
-        "la_liga",
-        "world_cup",
-        "euros"
-      ],
-      "processed_at": "2026-09-26T11:59:59.868384",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "How do England beat Spain, or even score against them? The data suggests crosses",
-      "summary": "Thomas Tuchel wishes his team could play more like the world champions, but he may have to, as he himself put it, ‘embrace the chaos’ insteadEngland are about to face the hardest challenge in international football, maybe at any level of the game. They are going to try to score against Spain.Spain c",
-      "url": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
-      "image_url": null,
-      "published": "2026-09-26T07:00:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-09-26T11:57:05.710210",
-      "priority_score": 43,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-09-26T11:59:59.872842",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe transfer yasağının nedeni açıkladı: O futbolcu için ödeme yapılmamış",
-      "summary": "FIFA’dan Fenerbahçe’ye 3 dönem transfer yasağı cezası getirilmişti. Sarı lacivertli kulübün gelen ceza ile ilgili açıklama yaptı. Peki Fenerbahçe, neden transfer yasağı cezası aldı? Detayları haberimizde bulabilirsiniz.",
-      "url": "https://www.yenisafak.com/spor/fenerbahce-neden-transfer-yasacagi-cezasi-aldi-fenerbahce-aciklama-yapti-o-futbolcu-icin-odeme-yapilmamis-4859133",
-      "image_url": null,
-      "published": "2026-09-26T07:04:36",
+      "published": "2026-09-26T08:24:26",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-09-26T11:59:19.090869",
+      "fetched_at": "2026-09-26T15:32:24.676520",
       "priority_score": 42,
       "categories": [
-        "transfers",
-        "super_lig",
-        "world_cup"
+        "match_results"
       ],
-      "processed_at": "2026-09-26T12:00:00.439831",
+      "processed_at": "2026-09-26T15:33:05.997600",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Azerbaijan Grand Prix | Race Highlights",
+      "summary": "Highlights from the 2026 Azerbaijan Grand Prix.",
+      "url": "https://www.skysports.com/watch/video/13592072/azerbaijan-grand-prix-race-highlights",
+      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-highlights_7361722.jpg?20260926141128",
+      "published": "2026-09-26T14:09:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677822",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-26T15:33:05.266619",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "CARNAGE as Norris out of Azerbaijan GP in multi-car crash!",
+      "summary": "There was carnage on the safety car restart after contact between Alpine team-mates resulted in Lando Norris crashing out of the Azerbaijan Grand Prix.",
+      "url": "https://www.skysports.com/watch/video/13592053/f1-carnage-as-alpine-contact-crashes-norris-out-of-the-azerbaijan-gp",
+      "image_url": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-alpine_7361662.jpg?20260926132057",
+      "published": "2026-09-26T13:16:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-09-26T15:29:38.677965",
+      "priority_score": 41,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-09-26T15:33:05.272815",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
