@@ -1,27 +1,7 @@
 {
-  "timestamp": "2026-10-10T23:09:51.296374",
+  "timestamp": "2026-10-11T02:53:35.756017",
   "total_items": 30,
   "news": [
-    {
-      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
-      "published": "2026-10-10T22:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:57.498482",
-      "priority_score": 76,
-      "categories": [
-        "breaking_news",
-        "la_liga"
-      ],
-      "processed_at": "2026-10-10T23:08:25.552518",
-      "title_tr": "Gordon, Barcelona'nın ilk golünü atarken Vinicius Jr. Real galibiyetiyle oyundan atıldı",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
     {
       "title": "Arda'lı Real evinde tek golle kazandı",
       "summary": "İspanya La Liga'nın 8. haftasında Real Madrid, evinde ağırladığı Villarreal'i 1-0 mağlup etti. Milli futbolcumuz Arda Güler maçta 77 dakika süre aldı.",
@@ -32,15 +12,15 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.437741",
+      "fetched_at": "2026-10-11T02:50:35.037670",
       "priority_score": 73,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-10-10T23:08:25.722697",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-11T02:52:11.779688",
+      "title_tr": "Arda'lı Real evinde tek golle kazandı",
+      "summary_tr": "İspanya La Liga'nın 8. haftasında Real Madrid, evinde ağırladığı Villarreal'i 1-0 mağlup etti. Milli futbolcumuz Arda Güler maçta 77 dakika süre aldı."
     },
     {
       "title": "10 kişi Tottenham, Old Trafford'ta puanı aldı!",
@@ -52,15 +32,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.438157",
-      "priority_score": 73,
+      "fetched_at": "2026-10-11T02:50:35.038058",
+      "priority_score": 68,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-10T23:08:25.747192",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-11T02:52:11.806653",
+      "title_tr": "10 kişi Tottenham, Old Trafford'ta puanı aldı!",
+      "summary_tr": "İngiltere Premier Ligi'nin 6. haftasında Manchester United ile Tottenham, 1-1 berabere kaldı. 78. dakikada Rodrigo Bentancur'un gördüğü kırmızı kartla 10 kişi kalmasına rağmen 90+2'de Dominic Solanke'nin golüyle beraberliği kurtaran Tottenham, puanını 3'e çıkardı. Ligdeki galibiyet hasreti 4 maça çı"
+    },
+    {
+      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
+      "published": "2026-10-10T22:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:54.569593",
+      "priority_score": 66,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-10-11T02:52:11.590856",
+      "title_tr": "Gordon, Barcelona'nın ilk golünü atarken Vinicius Jr. Real galibiyetiyle oyundan atıldı",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Every Bundesliga Man of the Match winner in 2026/27",
@@ -72,76 +72,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.345636",
-      "priority_score": 71,
+      "fetched_at": "2026-10-11T02:49:48.102373",
+      "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.641890",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
-      "summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League win this season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-10T19:00:12",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:45.658547",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-10T23:08:25.529147",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ipswich produce late fightback to stun winless Fulham",
-      "summary": "Two goals in three minutes sees Ipswich produce a late fightback to snatch a 2-1 victory against Fulham at Portman Road, with the away side still searching for their first Premier League win of the season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-10T19:00:14",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:45.659263",
-      "priority_score": 70,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-10T23:08:25.530643",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
-      "summary": "Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The former Real Madrid manager was minutes away from a first managerial victory in the competition after Ryan Sessegnon’s brilliant 55th-m",
-      "url": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-10-10T18:29:27",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:05:20.025618",
-      "priority_score": 68,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-10-10T23:08:25.609799",
+      "processed_at": "2026-10-11T02:52:11.689682",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -155,14 +93,76 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.353374",
+      "fetched_at": "2026-10-11T02:49:48.110012",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.709894",
+      "processed_at": "2026-10-11T02:52:11.765892",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+      "summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League win this season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-10T19:00:12",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:44.691989",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-11T02:52:11.565665",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ipswich produce late fightback to stun winless Fulham",
+      "summary": "Two goals in three minutes sees Ipswich produce a late fightback to snatch a 2-1 victory against Fulham at Portman Road, with the away side still searching for their first Premier League win of the season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-10T19:00:14",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:44.692721",
+      "priority_score": 65,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-11T02:52:11.567357",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
+      "summary": "Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The former Real Madrid manager was minutes away from a first managerial victory in the competition after Ryan Sessegnon’s brilliant 55th-m",
+      "url": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-10-10T18:29:27",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:49:20.999482",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-10-11T02:52:11.654435",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -176,13 +176,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:20.024235",
+      "fetched_at": "2026-10-11T02:49:20.998106",
       "priority_score": 58,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-10-10T23:08:25.590469",
+      "processed_at": "2026-10-11T02:52:11.633724",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -196,13 +196,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.438231",
-      "priority_score": 73,
+      "fetched_at": "2026-10-11T02:50:35.038134",
+      "priority_score": 68,
       "categories": [
         "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-10-10T23:08:25.752000",
+      "processed_at": "2026-10-11T02:52:11.811808",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -216,13 +216,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-10T23:04:45.659654",
-      "priority_score": 70,
+      "fetched_at": "2026-10-11T02:48:44.693130",
+      "priority_score": 60,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-10T23:08:25.532030",
+      "processed_at": "2026-10-11T02:52:11.568856",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -236,13 +236,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:20.024962",
+      "fetched_at": "2026-10-11T02:49:20.998820",
       "priority_score": 58,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-10-10T23:08:25.600595",
+      "processed_at": "2026-10-11T02:52:11.644576",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -256,12 +256,12 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.437848",
+      "fetched_at": "2026-10-11T02:50:35.037747",
       "priority_score": 58,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-10-10T23:08:25.726669",
+      "processed_at": "2026-10-11T02:52:11.783887",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -275,33 +275,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.438308",
-      "priority_score": 58,
+      "fetched_at": "2026-10-11T02:50:35.038210",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "la_liga"
       ],
-      "processed_at": "2026-10-10T23:08:25.756280",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Wenger urged to stand for FIFA presidency",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13597627/arsene-wenger-urged-to-stand-against-gianni-infantino-for-fifa-presidency-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-10-10T22:36:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:57.498459",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "world_cup"
-      ],
-      "processed_at": "2026-10-10T23:08:25.549899",
+      "processed_at": "2026-10-11T02:52:11.818088",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -315,13 +295,13 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-10T23:04:57.499024",
-      "priority_score": 56,
+      "fetched_at": "2026-10-11T02:48:54.570087",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-10T23:08:25.565122",
+      "processed_at": "2026-10-11T02:52:11.604422",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -335,13 +315,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.342833",
-      "priority_score": 56,
+      "fetched_at": "2026-10-11T02:49:48.099614",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.631451",
+      "processed_at": "2026-10-11T02:52:11.678358",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -355,215 +335,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.346212",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-10T23:08:25.647961",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'ın rakibi Barcelona, 3 puanı 3 golle aldı!",
-      "summary": "İspanya LaLiga'nın 8. haftasında Barcelona, sahasında Getafe'yi 3-0 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayin-rakibi-barcelona-3-puani-3-golle-aldi-43337073",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aca8641ad0afbfd26bbc168.jpg",
-      "published": "2026-10-10T18:38:59",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:06:43.637057",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-10T23:08:25.808113",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bayern Münih 5. saniyede gol yediği maçta berabere kaldı!",
-      "summary": "Almanya Birinci Futbol Ligi (Bundesliga) ekiplerinden Augsburg'da Robin Fellhauer, Bayern Münih maçında 5. saniyede attığı golle tarihe geçti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/bayern-munih-5-saniyede-gol-yedigi-macta-berabere-kaldi-43337050",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aca7797ad0afbfd26bbc133.jpg",
-      "published": "2026-10-10T17:36:55",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:06:43.637287",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-10T23:08:25.832236",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Joao Pereira: 'Sahada enerji eksikti!'",
-      "summary": "Corendon Alanyaspor, Trendyol Süper Lig'in 7. haftasında sahasında Erzurumspor FK ile golsüz berabere kaldı. Karşılaşmanın ardından açıklamalarda bulunan Alanyaspor Teknik Direktörü Joao Pereira, istedikleri oyunu sahaya yansıtamadıklarını belirterek, \"1 puan bizim için mükemmel değil. Sonuçtan dola",
-      "url": "https://www.hurriyet.com.tr/sporarena/joao-pereira-sahada-enerji-eksikti-43337047",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aca764ead0afbfd26bbc129.jpg",
-      "published": "2026-10-10T17:31:48",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:06:43.637367",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-10T23:08:25.839393",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Alanyaspor ile Erzurumspor FK, sessizliği bozamadı",
-      "summary": "Alanyaspor ile Erzurumspor FK, Süper Lig’de golsüz berabere kaldı.",
-      "url": "https://www.cnnturk.com/spor/futbol/alanyaspor-ile-erzurumspor-fk-sessizligi-bozamadi-3477472",
-      "image_url": null,
-      "published": "2026-10-10T18:41:51",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:07:07.922319",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-10T23:08:26.102196",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
-      "summary": "Brentford extend their unbeaten start to the new Premier League season as Kristoffer Ajer scores late to earn his side a 2-2 draw at Aston Villa, who's wait for a first home Premier League win of the season goes on.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-10T19:00:33",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:45.659462",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-10T23:08:25.531414",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ronaldo provisionally suspended by Portuguese FA",
-      "summary": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-10T17:37:24",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:45.660685",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-10-10T23:08:25.538195",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe maçı öncesi sakatlık şoku!",
-      "summary": "İngiltere Premier Lig'in 6. haftasında Aston Villa sahasında Brentford ile kozlarını paylaştı. Mücadele karşılıklı gollerle 2-2 sona erdi. Hafta içerisinde temsilcimiz Fenerbahçe ile oynayacak Aston Villa'da Matteo Ruggeri sakatlandı ve maça devam edemedi. Oyuncunun durumu henüz netlik kazanmadı.",
-      "url": "https://www.haberturk.com/spor/fenerbahce-maci-oncesi-aston-villa-da-sakatlik-soku-matteo-ruggeri-maca-devam-edemedi-3918816",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791660862/3918816/jpg/1920x1080",
-      "published": "2026-10-10T19:34:43",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.438002",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "injuries",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-10T23:08:25.736523",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "\"Daha iyi bir noktaya geleceğim!\"",
-      "summary": "Trendyol Süper Lig'in 7. haftasında Fenerbahçe, deplasmanda Çaykur Rizespor'u 3-0 mağlup etti. Sarı-lacivertli ekipte sakatlıktan golle dönen Marco Asensio zorlu mücadelenin ardından performansını değerlendirdi. İspanyol futbolcu, \"Daha iyi bir noktaya geleceğim\" dedi.",
-      "url": "https://www.haberturk.com/spor/caykur-rizespor-galibiyeti-sonrasi-fenerbahce-de-marco-asensio-daha-iyi-bir-noktaya-gelecegim-3918806",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791658027/3918806/jpg/1920x1080",
-      "published": "2026-10-10T18:47:37",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:06:31.438455",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "injuries",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-10T23:08:25.766372",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Dundee United 1-0 Hibernian",
-      "summary": "Watch highlights from the Scottish Premiership match between Dundee United and Hibernian.",
-      "url": "https://www.skysports.com/watch/video/13597620/dundee-united-1-0-hibernian-scottish-premiership-highlights",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/364636b62601700976d629330afd56069a86bd00a8e8c25237a95ac95de4594d_7373712.jpg?20261010222244",
-      "published": "2026-10-10T22:20:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:04:57.498930",
+      "fetched_at": "2026-10-11T02:49:48.102929",
       "priority_score": 51,
       "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-10-10T23:08:25.562202",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Christopher Nkunku scores hat-trick as RB Leipzig demolish Eintracht Frankfurt",
-      "summary": "A rampant RB Leipzig tore Eintracht Frankfurt apart at the Red Bull Arena, with Christopher Nkunku's first-half hat-trick the centrepiece of a ruthless 6-0 rout.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-eintracht-frankfurt-match-report-highlights-matchday-5-39497",
-      "image_url": null,
-      "published": "2026-10-10T18:30:07",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.344033",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
+        "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.637721",
+      "processed_at": "2026-10-11T02:52:11.696213",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -577,13 +355,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.350281",
+      "fetched_at": "2026-10-11T02:49:48.106884",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.677050",
+      "processed_at": "2026-10-11T02:52:11.729570",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -597,13 +375,234 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-10T23:05:46.352146",
+      "fetched_at": "2026-10-11T02:49:48.108806",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-10T23:08:25.693474",
+      "processed_at": "2026-10-11T02:52:11.747995",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Niclas Füllkrug hitting new heights for Werder Bremen after rescuing point in Dortmund",
+      "summary": "Niclas Füllkrug was once again the hero for Werder Bremen as his late equaliser in second-half stoppage-time away to former club Borussia Dortmund not only helped the Green-Whites claim another point after falling behind but also saw the 33-year-old forward extend his own impressive goalscoring run.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/niclas-fullkrug-hitting-new-heights-werder-bremen-borussia-dortmund-matchday-5-39477",
+      "image_url": null,
+      "published": "2026-10-10T08:22:03",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:49:48.109580",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-11T02:52:11.757547",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Alanyaspor ile Erzurumspor FK, sessizliği bozamadı",
+      "summary": "Alanyaspor ile Erzurumspor FK, Süper Lig’de golsüz berabere kaldı.",
+      "url": "https://www.cnnturk.com/spor/futbol/alanyaspor-ile-erzurumspor-fk-sessizligi-bozamadi-3477472",
+      "image_url": null,
+      "published": "2026-10-10T18:41:51",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:51:05.926650",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-11T02:52:12.045921",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
+      "summary": "Brentford extend their unbeaten start to the new Premier League season as Kristoffer Ajer scores late to earn his side a 2-2 draw at Aston Villa, who's wait for a first home Premier League win of the season goes on.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-10T19:00:33",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:44.692928",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-11T02:52:11.568169",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ronaldo provisionally suspended by Portuguese FA",
+      "summary": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-10T17:37:24",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:44.694198",
+      "priority_score": 50,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-10-11T02:52:11.575498",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-10T15:44:14",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:44.694389",
+      "priority_score": 50,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-11T02:52:11.577287",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Aston Villa’s wait for home win goes on after Ajer hits back for Brentford",
+      "summary": "Kristoffer Ajer spent a chunk of the extended international window fielding questions about the state of mind of his Norway teammate Erling Haaland and perhaps in recent weeks he also picked up some finishing tips. Two minutes after John McGinn’s shot cannoned in via Ajer’s calf, the centre-back str",
+      "url": "https://www.theguardian.com/football/2026/oct/10/aston-villa-brentford-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-10-10T16:09:59",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:49:21.000338",
+      "priority_score": 48,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-10-11T02:52:11.666949",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe maçı öncesi sakatlık şoku!",
+      "summary": "İngiltere Premier Lig'in 6. haftasında Aston Villa sahasında Brentford ile kozlarını paylaştı. Mücadele karşılıklı gollerle 2-2 sona erdi. Hafta içerisinde temsilcimiz Fenerbahçe ile oynayacak Aston Villa'da Matteo Ruggeri sakatlandı ve maça devam edemedi. Oyuncunun durumu henüz netlik kazanmadı.",
+      "url": "https://www.haberturk.com/spor/fenerbahce-maci-oncesi-aston-villa-da-sakatlik-soku-matteo-ruggeri-maca-devam-edemedi-3918816",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791660862/3918816/jpg/1920x1080",
+      "published": "2026-10-10T19:34:43",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:50:35.037906",
+      "priority_score": 48,
+      "categories": [
+        "match_results",
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-11T02:52:11.794768",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Daha iyi bir noktaya geleceğim!\"",
+      "summary": "Trendyol Süper Lig'in 7. haftasında Fenerbahçe, deplasmanda Çaykur Rizespor'u 3-0 mağlup etti. Sarı-lacivertli ekipte sakatlıktan golle dönen Marco Asensio zorlu mücadelenin ardından performansını değerlendirdi. İspanyol futbolcu, \"Daha iyi bir noktaya geleceğim\" dedi.",
+      "url": "https://www.haberturk.com/spor/caykur-rizespor-galibiyeti-sonrasi-fenerbahce-de-marco-asensio-daha-iyi-bir-noktaya-gelecegim-3918806",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791658027/3918806/jpg/1920x1080",
+      "published": "2026-10-10T18:47:37",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:50:35.038360",
+      "priority_score": 48,
+      "categories": [
+        "match_results",
+        "injuries",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-11T02:52:11.829415",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Chelsea gol oldu yağdı",
+      "summary": "İngiltere Premier Lig'de oynanan maçta Chelsea, sahasında Bournemouth'u 5-1 mağlup etti.",
+      "url": "https://www.yenisafak.com/spor/chelsea-gol-oldu-yagdi-4863203",
+      "image_url": null,
+      "published": "2026-10-10T16:28:43",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:51:30.330695",
+      "priority_score": 47,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-11T02:52:12.353828",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Wenger urged to stand for FIFA presidency",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13597627/arsene-wenger-urged-to-stand-against-gianni-infantino-for-fifa-presidency-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-10-10T22:36:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:48:54.569570",
+      "priority_score": 46,
+      "categories": [
+        "transfers",
+        "world_cup"
+      ],
+      "processed_at": "2026-10-11T02:52:11.587978",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Christopher Nkunku scores hat-trick as RB Leipzig demolish Eintracht Frankfurt",
+      "summary": "A rampant RB Leipzig tore Eintracht Frankfurt apart at the Red Bull Arena, with Christopher Nkunku's first-half hat-trick the centrepiece of a ruthless 6-0 rout.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-eintracht-frankfurt-match-report-highlights-matchday-5-39497",
+      "image_url": null,
+      "published": "2026-10-10T18:30:07",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-11T02:49:48.100804",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-11T02:52:11.685121",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
