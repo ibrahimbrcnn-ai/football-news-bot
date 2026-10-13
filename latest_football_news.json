@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T23:25:37.476231",
+  "timestamp": "2026-10-13T04:32:15.123459",
   "total_items": 30,
   "news": [
     {
@@ -12,14 +12,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:06.448214",
+      "fetched_at": "2026-10-13T04:28:03.284051",
       "priority_score": 83,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-10-12T23:24:17.050321",
+      "processed_at": "2026-10-13T04:30:51.035338",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Sidiki Cherif, Premier Lig'de ilk golünü böyle attı",
+      "summary": "Fenerbahçe’nin yaz döneminde Coventry City’ye transfer ettiği genç forvet Sidiki Cherif, Premier Lig’deki ilk 11 başlangıcında adından söz ettirdi. CBS Arena’da oynanan karşılaşmada Coventry, Newcastle United’ı 4-1 mağlup ederek sezonun ilk iç saha galibiyetini aldı ve küme düşme hattından uzaklaştı",
+      "url": "https://www.cnnturk.com/spor/futbol/sidiki-cherif-premier-ligde-ilk-golunu-boyle-atti-3478439",
+      "image_url": null,
+      "published": "2026-10-13T07:06:56",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:29:42.789283",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-13T04:30:51.316939",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -33,14 +54,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.294430",
+      "fetched_at": "2026-10-13T04:27:28.549723",
       "priority_score": 70,
       "categories": [
         "transfers",
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-10-12T23:24:16.976455",
+      "processed_at": "2026-10-13T04:30:50.939604",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -54,33 +75,14 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229235",
-      "priority_score": 66,
+      "fetched_at": "2026-10-13T04:27:39.875263",
+      "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-12T23:24:16.984800",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-10-12T23:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229444",
-      "priority_score": 66,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-10-12T23:24:16.992128",
+      "processed_at": "2026-10-13T04:30:50.950488",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -94,134 +96,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-12T23:23:02.789813",
+      "fetched_at": "2026-10-13T04:29:42.791176",
       "priority_score": 61,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-12T23:24:17.396137",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray, Bursaspor Basketbol'a evinde kaybetti!",
-      "summary": "Galatasaray, Türkiye Sigorta Basketbol Süper Ligi 3. hafta maçında Bursaspor Basketbol'a 93-88 yenildi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-bursaspor-basketbola-evinde-kaybetti-43339252",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6acd275a8562bad6a4dfeca7.jpg",
-      "published": "2026-10-12T18:30:52",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:22:38.027865",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-12T23:24:17.172954",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Coventry thrash Newcastle to claim first home win of season",
-      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-12T21:35:07",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.294127",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-12T23:24:16.975893",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
-      "summary": "Kick-off put back by an hour after attack interceptedPortuguese forward scores in Al-Nassr’s 3-1 victoryCristiano Ronaldo’s Al-Nassr had their Asian Champions League match delayed by an hour on Monday after the Saudi-led military coalition said it had intercepted a missile fired by the Houthis towar",
-      "url": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
-      "image_url": null,
-      "published": "2026-10-12T22:11:56",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:21:06.446981",
-      "priority_score": 53,
-      "categories": [
-        "serie_a",
-        "champions_league"
-      ],
-      "processed_at": "2026-10-12T23:24:17.032529",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "World heavyweight title will be on the line for Fury vs AJ",
-      "summary": "Tyson Fury and Anthony Joshua will fight for the WBA world heavyweight championship when they box on December 11, confirmed Frank Warren.",
-      "url": "https://www.skysports.com/boxing/news/12040/13598248/fury-vs-joshua-the-wba-super-heavyweight-world-championship-will-be-on-the-line-for-cardiff-fight-confirms-frank-warren",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-fury-joshua_7366718.jpg?20261002160953",
-      "published": "2026-10-12T17:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229576",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-12T23:24:16.998814",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Every Bundesliga Man of the Match winner in 2026/27",
-      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
-      "image_url": null,
-      "published": "2026-10-12T00:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:21:31.589407",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-12T23:24:17.102858",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man City bananas 'brought fun back', says Varadi",
-      "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvgx7e5y5gxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-12T17:57:10",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.295038",
-      "priority_score": 65,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-12T23:24:16.978937",
+      "processed_at": "2026-10-13T04:30:51.445457",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -235,111 +116,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229690",
-      "priority_score": 61,
+      "fetched_at": "2026-10-13T04:27:39.875942",
+      "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-12T23:24:17.006361",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Hull City 1. Lig'den transfer yaptı: Genç Türk Premier Lig'de forma giyecek",
-      "summary": "Acun Ilıcalı’nın sahibi olduğu Hull City, Trendyol 1. Lig'de forma giyen genç file bekçisinin transferi için anlaşmaya vardı. Başarılı ismin ocak ayında İngiliz ekibine katılacağı duyuruldu.",
-      "url": "https://www.yenisafak.com/spor/hull-city-1-ligden-transfer-yapti-genc-turk-premier-ligde-forma-giyecek-4863663",
-      "image_url": null,
-      "published": "2026-10-12T12:31:42",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:23:33.961097",
-      "priority_score": 57,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-10-12T23:24:17.537491",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Coventry stun Newcastle in game of spectacular goals!",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Coventry City and Newcastle United.",
-      "url": "https://www.skysports.com/watch/video/13598341/coventry-city-4-1-newcastle-united-premier-league-highlights",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375464.jpg?20261012221405",
-      "published": "2026-10-12T22:11:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229731",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-12T23:24:17.008502",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Nicolo Zaniolo'dan Galatasaray açıklaması!",
-      "summary": "Galatasaray'dan Udinese'ye transfer olan Nicolo Zaniolo, İtalyan basınına açıklamalarda bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/nicolo-zaniolodan-galatasaray-aciklamasi-43338922",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6acce2f793192880ef06c37d.jpg",
-      "published": "2026-10-12T13:40:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:22:38.028225",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-12T23:24:17.217461",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Ex-Port Vale & Gillingham captain Loft dies at 39",
-      "summary": "Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-12T15:12:32",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.294931",
-      "priority_score": 55,
-      "categories": [
-        "transfers",
-        "injuries"
-      ],
-      "processed_at": "2026-10-12T23:24:16.978376",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
-      "summary": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
-      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375372.jpg?20261012201821",
-      "published": "2026-10-12T20:14:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229349",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-12T23:24:16.988339",
+      "processed_at": "2026-10-13T04:30:50.978526",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -353,13 +135,211 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:31.573142",
+      "fetched_at": "2026-10-13T04:28:26.806346",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-12T23:24:17.072533",
+      "processed_at": "2026-10-13T04:30:51.064147",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ismael Garcia: 'Barcelona ile oynamak dişçiye gitmek gibi'",
+      "summary": "Galatasaray Yardımcı Antrenörü Ismael Garcia, dev maç öncesi konuştu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/ismael-garcia-barcelona-ile-oynamak-disciye-gitmek-gibi-43339231",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6acd1f078562bad6a4dfec70.jpg",
+      "published": "2026-10-13T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:29:21.237599",
+      "priority_score": 51,
+      "categories": [
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-13T04:30:51.184387",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'ın Şampiyonlar Ligi'nde rakibi Barcelona!",
+      "summary": "Devler Ligi’ne Sporting yenilgisi ile başlayan sarı kırmızılı ekip, bu sezon oynadığı dokuz resmi karşılaşmayı da kazanan ünlü rakibini yenerek Avrupa’da bu kez ilk kez kazanma amacında. Aslan’da Singo ve Günay oynamayacak.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayin-sampiyonlar-liginde-rakibi-barcelona-43339228",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6acd1d9c8562bad6a4dfec62.jpg",
+      "published": "2026-10-13T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:29:21.237684",
+      "priority_score": 51,
+      "categories": [
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-13T04:30:51.191143",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Coventry thrash Newcastle to claim first home win of season",
+      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-12T21:35:07",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:28.549236",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-13T04:30:50.938861",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
+      "summary": "Kick-off put back by an hour after attack interceptedPortuguese forward scores in Al-Nassr’s 3-1 victoryCristiano Ronaldo’s Al-Nassr had their Asian Champions League match delayed by an hour on Monday after the Saudi-led military coalition said it had intercepted a missile fired by the Houthis towar",
+      "url": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
+      "image_url": null,
+      "published": "2026-10-12T22:11:56",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:28:03.282068",
+      "priority_score": 48,
+      "categories": [
+        "serie_a",
+        "champions_league"
+      ],
+      "processed_at": "2026-10-13T04:30:51.012236",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "World heavyweight title will be on the line for Fury vs AJ",
+      "summary": "Tyson Fury and Anthony Joshua will fight for the WBA world heavyweight championship when they box on December 11, confirmed Frank Warren.",
+      "url": "https://www.skysports.com/boxing/news/12040/13598248/fury-vs-joshua-the-wba-super-heavyweight-world-championship-will-be-on-the-line-for-cardiff-fight-confirms-frank-warren",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-fury-joshua_7366718.jpg?20261002160953",
+      "published": "2026-10-12T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:39.875780",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-13T04:30:50.968562",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Man City bananas 'brought fun back', says Varadi",
+      "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvgx7e5y5gxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-12T17:57:10",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:28.550757",
+      "priority_score": 60,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-13T04:30:50.942848",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hull City 1. Lig'den transfer yaptı: Genç Türk Premier Lig'de forma giyecek",
+      "summary": "Acun Ilıcalı’nın sahibi olduğu Hull City, Trendyol 1. Lig'de forma giyen genç file bekçisinin transferi için anlaşmaya vardı. Başarılı ismin ocak ayında İngiliz ekibine katılacağı duyuruldu.",
+      "url": "https://www.yenisafak.com/spor/hull-city-1-ligden-transfer-yapti-genc-turk-premier-ligde-forma-giyecek-4863663",
+      "image_url": null,
+      "published": "2026-10-12T12:31:42",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:30:11.965178",
+      "priority_score": 57,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-13T04:30:51.612758",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-10-12T23:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:39.875561",
+      "priority_score": 56,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-13T04:30:50.959935",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ex-Port Vale & Gillingham captain Loft dies at 39",
+      "summary": "Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-12T15:12:32",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:28.550570",
+      "priority_score": 55,
+      "categories": [
+        "transfers",
+        "injuries"
+      ],
+      "processed_at": "2026-10-13T04:30:50.942124",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Coventry stun Newcastle in game of spectacular goals!",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Coventry City and Newcastle United.",
+      "url": "https://www.skysports.com/watch/video/13598341/coventry-city-4-1-newcastle-united-premier-league-highlights",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375464.jpg?20261012221405",
+      "published": "2026-10-12T22:11:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:39.876007",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-13T04:30:50.981540",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -373,13 +353,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:31.586881",
+      "fetched_at": "2026-10-13T04:28:26.824851",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-12T23:24:17.082349",
+      "processed_at": "2026-10-13T04:30:51.076594",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -393,13 +373,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:31.587360",
+      "fetched_at": "2026-10-13T04:28:26.825644",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-12T23:24:17.087516",
+      "processed_at": "2026-10-13T04:30:51.083221",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -413,13 +393,33 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:31.587758",
+      "fetched_at": "2026-10-13T04:28:26.826294",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-12T23:24:17.092505",
+      "processed_at": "2026-10-13T04:30:51.089655",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray, Bursaspor Basketbol'a evinde kaybetti!",
+      "summary": "Galatasaray, Türkiye Sigorta Basketbol Süper Ligi 3. hafta maçında Bursaspor Basketbol'a 93-88 yenildi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-bursaspor-basketbola-evinde-kaybetti-43339252",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6acd275a8562bad6a4dfeca7.jpg",
+      "published": "2026-10-12T18:30:52",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:29:21.238053",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-13T04:30:51.216300",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -433,12 +433,12 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.294816",
+      "fetched_at": "2026-10-13T04:27:28.550365",
       "priority_score": 50,
       "categories": [
         "general"
       ],
-      "processed_at": "2026-10-12T23:24:16.977803",
+      "processed_at": "2026-10-13T04:30:50.941363",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -452,13 +452,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:06.447266",
+      "fetched_at": "2026-10-13T04:28:03.282544",
       "priority_score": 48,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-10-12T23:24:17.036575",
+      "processed_at": "2026-10-13T04:30:51.017640",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -472,13 +472,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:06.448457",
+      "fetched_at": "2026-10-13T04:28:03.284456",
       "priority_score": 48,
       "categories": [
         "breaking_news",
         "world_cup"
       ],
-      "processed_at": "2026-10-12T23:24:17.054528",
+      "processed_at": "2026-10-13T04:30:51.040779",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -492,34 +492,34 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-12T23:23:33.961200",
+      "fetched_at": "2026-10-13T04:30:11.965371",
       "priority_score": 47,
       "categories": [
         "match_results",
         "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-10-12T23:24:17.548219",
+      "processed_at": "2026-10-13T04:30:51.626676",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Ronaldo zet in de Champions League volgende stap richting de magische duizend goals",
-      "summary": "Cristiano Ronaldo heeft ook in zijn tweede wedstrijd sinds zijn veelbesproken vertrek bij de Portugese nationale ploeg gescoord voor Al-Nassr. Deze keer was het raak tegen Neftchi Fargona: 3-1. De doelpuntenteller van Ronaldo staat nu op 981 stuks.",
-      "url": "https://www.vi.nl/nieuws/ronaldo-zet-in-de-champions-league-volgende-stap-richting-de-magische-duizend-goal",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/12/fa48657d76ffbb5d7eff2aae1848aea791200dff.jpg?width=1200",
-      "published": "2026-10-12T21:11:07",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
+      "summary": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
+      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375372.jpg?20261012201821",
+      "published": "2026-10-12T20:14:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-12T23:24:14.030524",
-      "priority_score": 47,
+      "fetched_at": "2026-10-13T04:27:39.875421",
+      "priority_score": 46,
       "categories": [
-        "match_results",
-        "champions_league"
+        "breaking_news",
+        "premier_league"
       ],
-      "processed_at": "2026-10-12T23:24:17.623209",
+      "processed_at": "2026-10-13T04:30:50.955023",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -533,33 +533,12 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:44.229396",
+      "fetched_at": "2026-10-13T04:27:39.875491",
       "priority_score": 46,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-12T23:24:16.990208",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Man Utd eye Simeone - Tuesday's gossip",
-      "summary": "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's Aleksandar Stankovic.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-12T20:49:48",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.295178",
-      "priority_score": 45,
-      "categories": [
-        "premier_league",
-        "la_liga",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-12T23:24:16.979486",
+      "processed_at": "2026-10-13T04:30:50.957455",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -573,32 +552,51 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-12T23:20:36.295287",
+      "fetched_at": "2026-10-13T04:27:28.551220",
       "priority_score": 45,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-10-12T23:24:16.980358",
+      "processed_at": "2026-10-13T04:30:50.944695",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Carrick promises Manchester United will ‘come out fighting’ after sticky start",
-      "summary": "United have endured worst league start since 1986-87Trip to Atlético in Champions League awaits on TuesdayManchester United have endured their worst league start in 40 years but Michael Carrick insists he is “loving it”. United arrived in Madrid without Kobbie Mainoo and Luke Shaw, who both picked u",
-      "url": "https://www.theguardian.com/football/2026/oct/12/michael-carrick-manchester-united-no-negativity-atletico-madrid",
-      "image_url": null,
-      "published": "2026-10-12T20:52:16",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Ronaldo zet in de Champions League volgende stap richting de magische duizend goals",
+      "summary": "Cristiano Ronaldo heeft ook in zijn tweede wedstrijd sinds zijn veelbesproken vertrek bij de Portugese nationale ploeg gescoord voor Al-Nassr. Deze keer was het raak tegen Neftchi Fargona: 3-1. De doelpuntenteller van Ronaldo staat nu op 981 stuks.",
+      "url": "https://www.vi.nl/nieuws/ronaldo-zet-in-de-champions-league-volgende-stap-richting-de-magische-duizend-goal",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/12/fa48657d76ffbb5d7eff2aae1848aea791200dff.jpg?width=1200",
+      "published": "2026-10-12T21:11:07",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-10-12T23:21:06.446592",
-      "priority_score": 43,
+      "fetched_at": "2026-10-13T04:30:47.268831",
+      "priority_score": 42,
       "categories": [
-        "premier_league",
+        "match_results",
         "champions_league"
       ],
-      "processed_at": "2026-10-12T23:24:17.028903",
+      "processed_at": "2026-10-13T04:30:51.722436",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Four Super League clubs show support for NRL deal after Leigh criticism",
+      "summary": "Leeds Rhinos, St Helens, Hull KR and Hull FC have released statements in favour of the NRL's investment in Super League after Leigh Leopards owner Derek Beaumont came out against the deal on social media.",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13598221/leeds-rhinos-st-helens-hull-kr-hull-fc-release-statements-in-support-of-nrl-investment-after-leigh-leopards-owner-comes-out-against-deal",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-peter-vlandys-rugby-league_7320759.jpg?20260813160933",
+      "published": "2026-10-12T16:35:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-13T04:27:39.875851",
+      "priority_score": 41,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-13T04:30:50.971800",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
