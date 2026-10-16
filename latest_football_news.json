@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T20:18:32.990661",
+  "timestamp": "2026-10-16T23:11:51.816874",
   "total_items": 30,
   "news": [
     {
@@ -12,34 +12,55 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.914953",
-      "priority_score": 90,
+      "fetched_at": "2026-10-16T23:06:52.694879",
+      "priority_score": 85,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.133636",
+      "processed_at": "2026-10-16T23:10:34.367923",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Do Manchester City have any grounds to win their appeal?",
-      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+      "title": "'Leeds verlengt met succestrainer, Milan wil parel belonen met nieuw contract'",
+      "summary": "De zomerse transferwindow is achter de rug, maar de geruchtenstroom richting de winter is alweer op gang gekomen. Er zijn daarnaast ook nog genoeg transfervrije spelers. Volg al het transfernieuws en alle geruchten in onderstaand blog. Bekijk hier ons blog voor de perikelen in Nederland.",
+      "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transfers-en-geruchten-in-het-buitenland",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/1a44c5cda8c92ce8eb8c4f91efe667c65050a968.jpg?width=1200",
+      "published": "2026-10-16T20:35:07",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:10:32.110307",
+      "priority_score": 77,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-10-16T23:10:35.186444",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bellingham agrees new Real deal - Saturday's gossip",
+      "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-16T16:17:01",
+      "published": "2026-10-16T21:57:37",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.914285",
-      "priority_score": 70,
+      "fetched_at": "2026-10-16T23:06:52.695269",
+      "priority_score": 75,
       "categories": [
-        "breaking_news",
-        "premier_league"
+        "transfers",
+        "premier_league",
+        "la_liga"
       ],
-      "processed_at": "2026-10-16T20:17:06.132561",
+      "processed_at": "2026-10-16T23:10:34.369662",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -53,13 +74,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.978344",
+      "fetched_at": "2026-10-16T23:07:28.200370",
       "priority_score": 68,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.174866",
+      "processed_at": "2026-10-16T23:10:34.417254",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -73,55 +94,14 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.980226",
+      "fetched_at": "2026-10-16T23:07:28.204734",
       "priority_score": 68,
       "categories": [
         "match_results",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-10-16T20:17:06.199750",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'a 'dev' golcü: 8 maçta 7 kez fileleri havalandırdı",
-      "summary": "Galatasaray'la ilgili dikkat çeken bir transfer iddiası ortaya atıldı. Sarı-kırmızılıların Ligue 2'de gol krallığı yarışında zirvede yer alan oyuncuyu gündemine aldığı belirtildi.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasaraya-dev-golcu-8-macta-7-kez-fileleri-havalandirdi-4864894",
-      "image_url": null,
-      "published": "2026-10-16T12:51:14",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:16:25.565728",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-16T20:17:06.825180",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Haas boss Komatsu dismisses 'Ferrari B-team' label",
-      "summary": "Haas boss Ayao Komatsu has dismissed the suggestion that his squad have become a \"Ferrari B-team\" after they confirmed the signing of a second driver from the Italian outfit's academy.",
-      "url": "https://www.skysports.com/f1/news/12040/13599707/haas-boss-ayao-komatsu-dismisses-ferrari-b-team-label-following-signing-of-second-academy-driver-rafael-camara",
-      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-haas-ferrari-sepang_7377740.jpg?20261015180310",
-      "published": "2026-10-16T12:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:13:30.353230",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-16T20:17:06.168618",
+      "processed_at": "2026-10-16T23:10:34.464889",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -135,52 +115,32 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-16T20:14:24.454814",
+      "fetched_at": "2026-10-16T23:07:53.163370",
       "priority_score": 61,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-16T20:17:06.238794",
+      "processed_at": "2026-10-16T23:10:34.506151",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Can in-form Christopher Nkunku and Antonio Nusa fire RB Leipzig to victory against Bayern Munich?",
-      "summary": "RB Leipzig could hardly have asked for a better time for Christopher Nkunku and Antonio Nusa to hit top form. The attacking duo have been at the heart of Leipzig’s recent goalscoring exploits and, with a huge trip to Bayern Munich coming up on Matchday 6, their pace, creativity and finishing should ",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/can-christopher-nkunku-antonio-nusa-rb-leipzig-down-bayern-munich-39524",
+      "title": "Younes Ebnoutalib strike earns Eintracht Frankfurt first home win of the season",
+      "summary": "Younes Ebnoutalib's second-half strike gave Eintracht Frankfurt a 1-0 win over Cologne on Matchday 6, ending the Eagles' winless home run this season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/eintracht-frankfurt-cologne-match-report-highlights-matchday-6-el-mala-moore-39591",
       "image_url": null,
-      "published": "2026-10-16T08:34:00",
+      "published": "2026-10-16T20:27:11",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-16T20:14:24.454231",
+      "fetched_at": "2026-10-16T23:07:53.143036",
       "priority_score": 51,
       "categories": [
-        "match_results",
-        "bundesliga"
+        "breaking_news"
       ],
-      "processed_at": "2026-10-16T20:17:06.235352",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "KUPS KUOPİO - TRABZONSPOR MAÇI KAÇ KAÇ BİTTİ? KuPS Kuopio Trabzonspor maç özeti",
-      "summary": "KuPS Kuopio Trabzonspor maçı için geri sayım sona erdi. Bordo-mavilileri ekran başına kilitleyen KuPS Kuopio Trabzonspor maçı 15 Ekim akşam saatlerinde başladı. İki takım da sahadan golle ayrılmanın yollarını aradı. Trabzonspor, UEFA Konferans Ligi'nin ilk haftasında bugün Finlandiya ekibi KuPS Kuop",
-      "url": "https://www.cnnturk.com/spor/futbol/kups-kuopio-trabzonspor-maci-nereden-izlenir-kups-kuopio-trabzonspor-maci-saat-kacta-hangi-kanalda-sifreli-mi-sifresiz-mi-3479899",
-      "image_url": null,
-      "published": "2026-10-15T22:07:08",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:15:53.850935",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-10-16T20:17:06.577347",
+      "processed_at": "2026-10-16T23:10:34.476569",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -194,13 +154,13 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:15:17.304078",
+      "fetched_at": "2026-10-16T23:08:44.001176",
       "priority_score": 48,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.322928",
+      "processed_at": "2026-10-16T23:10:34.605261",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -214,71 +174,94 @@
       "source_priority": 6,
       "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-10-16T20:17:02.762809",
+      "fetched_at": "2026-10-16T23:10:32.110763",
       "priority_score": 47,
       "categories": [
         "serie_a",
         "champions_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.963548",
+      "processed_at": "2026-10-16T23:10:35.287917",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "\"Keşke Metin hocanın ayrılığı olmasaydı!\"",
-      "summary": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği, Galatasaray'ı konuk edecek. Maç öncesinde başkent ekibinin başkanı Arda Çakmak, HT Spor'a özel açıklamalarda bulundu",
-      "url": "https://www.haberturk.com/spor/genclerbirligi-baskani-arda-cakmak-tan-ht-spor-a-ozel-aciklamalar-keske-metin-hocanin-ayriligi-olmasaydi-3920318",
-      "image_url": "https://im.haberturk.com/l/2026/10/16/ver1792173011/3920318/jpg/1920x1080",
-      "published": "2026-10-16T17:50:26",
+      "title": "\"Bir karakter ortaya koyduk ve kazandık\"",
+      "summary": "Beşiktaş Başantrenörü Dusan Alimpijevic, EuroLeague'de Bayern Münih karşısında alınan galibiyetin ardından açıklamalarda bulundu.",
+      "url": "https://www.haberturk.com/spor/dusan-alimpijevic-bir-karakter-ortaya-koyduk-ve-kazandik-3920354",
+      "image_url": "https://im.haberturk.com/l/2026/10/16/ver1792183795/3920354/jpg/1920x1080",
+      "published": "2026-10-16T20:50:12",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:15:17.303616",
+      "fetched_at": "2026-10-16T23:08:44.000299",
       "priority_score": 43,
       "categories": [
+        "match_results",
+        "bundesliga",
         "super_lig"
       ],
-      "processed_at": "2026-10-16T20:17:06.286915",
+      "processed_at": "2026-10-16T23:10:34.552755",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’",
-      "summary": "Up to 60 roles at risk after structural reviewArteta signed new deal worth more than £20m a seasonMikel Arteta has defended Arsenal’s decision to cut up to 60 jobs and insisted it was felt to be necessary to ensure they can continue achieving success.The Premier League champions are understood to ha",
-      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
+      "title": "Galatasaray'a 'dev' golcü: 8 maçta 7 kez fileleri havalandırdı",
+      "summary": "Galatasaray'la ilgili dikkat çeken bir transfer iddiası ortaya atıldı. Sarı-kırmızılıların Ligue 2'de gol krallığı yarışında zirvede yer alan oyuncuyu gündemine aldığı belirtildi.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasaraya-dev-golcu-8-macta-7-kez-fileleri-havalandirdi-4864894",
       "image_url": null,
-      "published": "2026-10-16T15:03:23",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-10-16T12:51:14",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.978834",
-      "priority_score": 63,
+      "fetched_at": "2026-10-16T23:09:53.142228",
+      "priority_score": 67,
       "categories": [
         "transfers",
-        "premier_league"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-10-16T20:17:06.182883",
+      "processed_at": "2026-10-16T23:10:35.033724",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
-      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produceSome criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at Liverpool. The past we",
-      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
+      "title": "Do Manchester City have any grounds to win their appeal?",
+      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-16T16:40:30",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-10-16T16:17:01",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.979233",
-      "priority_score": 63,
+      "fetched_at": "2026-10-16T23:06:52.693998",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-16T23:10:34.366056",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "url": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
+      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "published": "2026-10-16T21:40:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:07:04.168415",
+      "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-10-16T20:17:06.186815",
+      "processed_at": "2026-10-16T23:10:34.406270",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -292,13 +275,13 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:15:53.850403",
+      "fetched_at": "2026-10-16T23:09:19.587004",
       "priority_score": 61,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-10-16T20:17:06.544393",
+      "processed_at": "2026-10-16T23:10:34.895362",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -312,33 +295,52 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.915453",
+      "fetched_at": "2026-10-16T23:06:52.696140",
       "priority_score": 60,
       "categories": [
         "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.136292",
+      "processed_at": "2026-10-16T23:10:34.374240",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; James injury blow for Blues",
-      "summary": "Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
+      "title": "Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’",
+      "summary": "Up to 60 roles at risk after structural reviewArteta signed new deal worth more than £20m a seasonMikel Arteta has defended Arsenal’s decision to cut up to 60 jobs and insisted it was felt to be necessary to ensure they can continue achieving success.The Premier League champions are understood to ha",
+      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
       "image_url": null,
-      "published": "2026-10-16T16:53:42",
+      "published": "2026-10-16T15:03:23",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.978549",
-      "priority_score": 53,
+      "fetched_at": "2026-10-16T23:07:28.201142",
+      "priority_score": 58,
       "categories": [
-        "injuries",
+        "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.178978",
+      "processed_at": "2026-10-16T23:10:34.427295",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
+      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produceSome criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at Liverpool. The past we",
+      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
+      "image_url": null,
+      "published": "2026-10-16T16:40:30",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:07:28.201578",
+      "priority_score": 58,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-16T23:10:34.432080",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -352,13 +354,33 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.981528",
+      "fetched_at": "2026-10-16T23:07:28.204418",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.216392",
+      "processed_at": "2026-10-16T23:10:34.458886",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Can in-form Christopher Nkunku and Antonio Nusa fire RB Leipzig to victory against Bayern Munich?",
+      "summary": "RB Leipzig could hardly have asked for a better time for Christopher Nkunku and Antonio Nusa to hit top form. The attacking duo have been at the heart of Leipzig’s recent goalscoring exploits and, with a huge trip to Bayern Munich coming up on Matchday 6, their pace, creativity and finishing should ",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/can-christopher-nkunku-antonio-nusa-rb-leipzig-down-bayern-munich-39524",
+      "image_url": null,
+      "published": "2026-10-16T08:34:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:07:53.162430",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-16T23:10:34.501622",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -372,73 +394,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.915563",
+      "fetched_at": "2026-10-16T23:06:52.695898",
       "priority_score": 50,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.137038",
+      "processed_at": "2026-10-16T23:10:34.373080",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend",
-      "summary": "Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to ArsenalPremier League top scorers | Follow us on TikTokA lively reception awaits the former Liverpool midfielders Jordan Henderson and Xabi Alonso at Everton and, in the case of the former, any jeers can",
-      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
-      "image_url": null,
-      "published": "2026-10-15T23:01:44",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.981255",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-16T20:17:06.212184",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Vente zorgt voor magisch aantal Heerenveen-goals in Abe Lenstra Stadion",
-      "summary": "SC Heerenveen heeft vrijdagavond in de thuiswedstrijd tegen Excelsior haar duizendste Eredivisie-doelpunt gemaakt in het Abe Lenstra Stadion. Dylan Vente was de maker van de historische treffer.",
-      "url": "https://www.vi.nl/nieuws/vente-zorgt-voor-magisch-aantal-heerenveen-goals-in-abe-lenstra-stadion",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/16/49c96e70e8d5b06cbd64526d98f58dcbdb424c67.jpg?width=1200",
-      "published": "2026-10-16T19:54:23",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:17:02.762763",
-      "priority_score": 47,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-10-16T20:17:06.949431",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Everton latest: Moyes confirms 'lull' in new contract talks",
-      "summary": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "published": "2026-10-16T14:19:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:13:30.352888",
-      "priority_score": 46,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-10-16T20:17:06.151303",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
     },
     {
       "title": "Surprise leaders Freiburg face toughest test yet at Bayer Leverkusen",
@@ -450,13 +414,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-16T20:14:24.455732",
+      "fetched_at": "2026-10-16T23:07:53.164825",
       "priority_score": 46,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-16T20:17:06.249696",
+      "processed_at": "2026-10-16T23:10:34.520485",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -470,13 +434,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-16T20:14:24.456883",
+      "fetched_at": "2026-10-16T23:07:53.166623",
       "priority_score": 46,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-16T20:17:06.263093",
+      "processed_at": "2026-10-16T23:10:34.537639",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -490,70 +454,32 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:15:32.316672",
+      "fetched_at": "2026-10-16T23:08:56.292296",
       "priority_score": 46,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-10-16T20:17:06.344360",
+      "processed_at": "2026-10-16T23:10:34.654497",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Arteta told Arsenal job cuts will help create success",
-      "summary": "Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to \"achieve the success we want to create\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
+      "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence",
+      "summary": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
       "image_url": null,
-      "published": "2026-10-16T15:31:54",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-10-16T21:30:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.914504",
-      "priority_score": 45,
+      "fetched_at": "2026-10-16T23:07:28.200705",
+      "priority_score": 43,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.132810",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Real demand Tebas resign over Goebbels comparison",
-      "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-16T15:43:32",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.914813",
-      "priority_score": 45,
-      "categories": [
-        "la_liga"
-      ],
-      "processed_at": "2026-10-16T20:17:06.133260",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-      "summary": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-16T16:01:49",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-16T20:13:19.915199",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-16T20:17:06.135021",
+      "processed_at": "2026-10-16T23:10:34.422416",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -567,32 +493,109 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.980041",
+      "fetched_at": "2026-10-16T23:07:28.203282",
       "priority_score": 43,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-10-16T20:17:06.195494",
+      "processed_at": "2026-10-16T23:10:34.448097",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo card lit up with both on Friday. But while Chelsea’s statement on their crocked right-back having successful knee ",
-      "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter",
-      "image_url": null,
-      "published": "2026-10-16T14:37:46",
-      "source": "Guardian Football",
+      "title": "\"Keşke Metin hocanın ayrılığı olmasaydı!\"",
+      "summary": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği, Galatasaray'ı konuk edecek. Maç öncesinde başkent ekibinin başkanı Arda Çakmak, HT Spor'a özel açıklamalarda bulundu",
+      "url": "https://www.haberturk.com/spor/genclerbirligi-baskani-arda-cakmak-tan-ht-spor-a-ozel-aciklamalar-keske-metin-hocanin-ayriligi-olmasaydi-3920318",
+      "image_url": "https://im.haberturk.com/l/2026/10/16/ver1792173011/3920318/jpg/1920x1080",
+      "published": "2026-10-16T17:50:26",
+      "source": "Habertürk Spor",
       "source_priority": 9,
-      "region": "england",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-16T20:13:55.980658",
+      "fetched_at": "2026-10-16T23:08:44.000547",
       "priority_score": 43,
       "categories": [
-        "premier_league"
+        "super_lig"
       ],
-      "processed_at": "2026-10-16T20:17:06.204343",
+      "processed_at": "2026-10-16T23:10:34.566767",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe'nin transfer etmesi gereken 5 futbolcunun isimlerini açıkladı",
+      "summary": "Fenerbahçe’nin kadrosunu devre arasında güçlendirmesi gerektiğini söyleyen teknik direktör Bülent Uygun, sarı-lacivertlilere 5 genç futbolcu önerdi. Uygun, Fenerbahçe’nin ocak ayına kadar şampiyonluk yarışının içinde kalmasının kritik olduğunu vurguladı.",
+      "url": "https://www.yenisafak.com/galeri/spor/fenerbahcenin-transfer-etmesi-gereken-5-futbolcunun-isimlerini-acikladi-4864957",
+      "image_url": null,
+      "published": "2026-10-16T19:16:08",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:09:53.140469",
+      "priority_score": 42,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-16T23:10:34.937840",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Klaverboer beleeft feestavond bij Heerenveen: 'Wat ik hier heb, is hartstikke mooi'",
+      "summary": "SC Heerenveen had vrijdag, thuis tegen Excelsior, een hoop om vrolijk over te zijn. Bernt Klaverboer sprak na de 4-0 zege van een avond om niet snel te vergeten: 'Misschien zelfs wel nooit meer.'",
+      "url": "https://www.vi.nl/nieuws/klaverboer-beleeft-feestavond-bij-heerenveen-wat-ik-hier-heb-is-hartstikke-mooi",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/16/3559f1d195befac587a716f4789a5fe47f7c432f.jpg?width=1200",
+      "published": "2026-10-16T20:54:23",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:10:32.110237",
+      "priority_score": 42,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-16T23:10:35.169693",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Everton latest: Moyes confirms 'lull' in new contract talks",
+      "summary": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "image_url": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "published": "2026-10-16T14:19:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:07:04.168079",
+      "priority_score": 41,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-16T23:10:34.392312",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
+    },
+    {
+      "title": "'One of the best weeks of my life' - Kartal feeling fresh ahead of Wuhan semi-finals",
+      "summary": "British star Sonay Kartal says she is due a couple of new tattoos after enjoying \"one of the best weeks\" of her life by reaching the semi-finals of the Wuhan Open.",
+      "url": "https://www.skysports.com/tennis/news/12040/13599804/sonay-kartal-british-star-says-she-is-due-a-couple-of-new-tattoos-after-reaching-wuhan-open-semi-finals",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-sonay-kartal-tennis_7378262.jpg?20261016130749",
+      "published": "2026-10-16T13:27:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-16T23:07:04.168218",
+      "priority_score": 41,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-16T23:10:34.396614",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
