@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-10-17T17:41:53.180313",
+  "timestamp": "2026-10-17T19:54:37.826929",
   "total_items": 30,
   "news": [
+    {
+      "title": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson",
+      "summary": "The four Premier League clubs playing in the lesser continental competitions face each other on Sunday – but three are struggling domesticallyThe sun shone. The temperature was in the high 20s. There was a mood of great conviviality. If you were struggling with the official allocation, it turned out",
+      "url": "https://www.theguardian.com/football/2026/oct/17/europe-is-a-blast-but-more-a-curse-than-a-blessing-if-you-are-not-a-super-club",
+      "image_url": null,
+      "published": "2026-10-17T19:00:38",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:54.307064",
+      "priority_score": 83,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:00.886146",
+      "title_tr": "Avrupa bir patlama ama eğer Premier Lig'in süper kulübü değilseniz, nimetten ziyade lanettir. I Jonathan Wilson",
+      "summary_tr": "Daha küçük kıta müsabakalarında oynayan dört Premier Lig kulübü Pazar günü karşı karşıya geliyor ancak üçü yurt içinde mücadele ediyor. Sıcaklık 20'lerin üzerindeydi. Büyük bir şenlik havası vardı. Resmi tahsisle uğraşıyorsanız, ortaya çıktı"
+    },
     {
       "title": "Gençlerbirliği - Galatasaray MAÇ ÖZETİ | Aslan, 3 puanı son dakikada aldı",
       "summary": "Lider Galatasaray, Trendyol Süper Lig'in 8. haftasında bugün Gençlerbirliği'ne konuk oldu. Aslan, Deniz Gül'ün golüyle başkentte 3 puanı aldı.",
@@ -12,14 +33,14 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-17T17:39:15.918779",
-      "priority_score": 91,
+      "fetched_at": "2026-10-17T19:51:49.738364",
+      "priority_score": 81,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-10-17T17:40:24.382155",
+      "processed_at": "2026-10-17T19:53:01.355239",
       "title_tr": "Gençlerbirliği - Galatasaray MAÇ ÖZETİ | Aslan, 3 puanı son dakikada aldı",
       "summary_tr": "Lider Galatasaray, Trendyol Süper Lig'in 8. haftasında bugün Gençlerbirliği'ne konuk oldu. Aslan, Deniz Gül'ün golüyle başkentte 3 puanı aldı."
     },
@@ -33,237 +54,36 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.281442",
-      "priority_score": 90,
+      "fetched_at": "2026-10-17T19:49:15.286986",
+      "priority_score": 80,
       "categories": [
         "breaking_news",
         "injuries"
       ],
-      "processed_at": "2026-10-17T17:40:23.969378",
+      "processed_at": "2026-10-17T19:53:00.802337",
       "title_tr": "Liverpool oyuncuları 'zorlu' program nedeniyle 'hassas' durumda - Iraola",
       "summary_tr": "Andoni Iraola Liverpool'un zorlu programı, Dominik Szoboszlai'nin Brentford'a karşı alınan 2-1'lik galibiyet sırasında ilk yarıda sakatlanarak oyundan atılmasının ardından oyuncularını \"hassas bir duruma\" sokuyor."
     },
     {
-      "title": "Almeraq proves his class in British Champions Sprint",
-      "summary": "Almeraq confirmed himself as this season’s star sprinter with a third top-level triumph of the campaign in the Qatar Racing British Champions Sprint Stakes at Ascot.",
-      "url": "https://www.skysports.com/racing/news/12040/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-almeraq-racing_7378943.jpg?20261017150124",
-      "published": "2026-10-17T14:02:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:37:01.309987",
-      "priority_score": 86,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-17T17:40:23.999003",
-      "title_tr": "Almeraq Britanya Şampiyonlar Sprint'inde klasını kanıtladı",
-      "summary_tr": "Almeraq, Ascot'ta düzenlenen Qatar Racing British Champions Sprint Stakes yarışında sezonun üçüncü üst düzey zaferini kazanarak bu sezonun yıldız sprinteri olduğunu kanıtladı."
-    },
-    {
-      "title": "Yarmoliuk red card changed game dynamic - Andrews",
-      "summary": "Brentford manager Keith Andrews says Yehor Yarmoliuk's first-half red card changed the dynamic of their game against Liverpool which ended in a 2-1 defeat for the Bees.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6eq373g3vx9o?at_medium=RSS&at_campaign=rss",
+      "title": "Every Bundesliga Man of the Match winner in 2026/27",
+      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
       "image_url": null,
-      "published": "2026-10-17T17:14:21",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.281905",
-      "priority_score": 80,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-17T17:40:23.971262",
-      "title_tr": "Yarmoliuk'un kırmızı kartı oyunun dinamiğini değiştirdi - Andrews",
-      "summary_tr": "Brentford menajeri Keith Andrews, Yehor Yarmoliuk'un ilk yarıdaki kırmızı kartının, Bees'in 2-1 mağlup olduğu Liverpool'a karşı oynadıkları oyunun dinamiğini değiştirdiğini söyledi."
-    },
-    {
-      "title": "Scottish Premiership: Kiltie double sinks Motherwell to lift Kilmarnock",
-      "summary": "Kilmarnock move off bottom with 3-2 winHibs 1-2 Falkirk; Aberdeen 3-1 St MirrenGreg Kiltie scored twice to lift Kilmarnock off the bottom with a 3-2 home victory over Motherwell. Kiltie struck first and last as Neil McCann’s side inflicted a fifth consecutive defeat on the Steelmen, who join Killie ",
-      "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
-      "image_url": null,
-      "published": "2026-10-17T17:05:15",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.510237",
-      "priority_score": 78,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-17T17:40:24.019334",
-      "title_tr": "İskoçya Premiership: Kiltie, Kilmarnock'u kaldırmak için Motherwell'i iki kez batırdı",
-      "summary_tr": "Kilmarnock, Hibs'in 1-2 Falkirk'ü 3-2 yenmesiyle dibe vurdu; Aberdeen 3-1 St MirrenGreg Kiltie iki gol atarak Kilmarnock'u evinde Motherwell'e karşı 3-2'lik galibiyetle mağlup etti. Neil McCann'in ekibi, Killie'ye katılan Steelmen'i art arda beşinci yenilgiye uğratırken Kiltie ilk ve son vuruşu yaptı."
-    },
-    {
-      "title": "Deniz Gül sonradan girdi, galibiyeti getirdi: Galatasaray Gençlerbirliği deplasmanında son dakikalarda güldü | ÖZET",
-      "summary": "Trendyol Süper Lig’in 8. haftasında Galatasaray deplasmanda Gençlerbirliği’ne konuk oldu. Karşılaşma sarı-kırmızılıların 1-0’lık üstünlüğüyle tamamlandı. Galibiyet golü dakika 88. dakikada Deniz Gül'den geldi. Sarı-kırmızılılar bu sonuçla puanını 19’a yükselterek liderliğini korudu. Gençlerbirliği i",
-      "url": "https://www.yenisafak.com/spor/genclerbirligi-0-1-galatasaray-mac-ozeti-izle-video-4865132",
-      "image_url": null,
-      "published": "2026-10-17T14:55:46",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:39:45.172902",
-      "priority_score": 77,
-      "categories": [
-        "match_results",
-        "breaking_news",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.826826",
-      "title_tr": "Deniz Gül sonradan girdi, galibiyeti getirdi: Galatasaray Gençlerbirliği deplasmanında son dakikalarda güldü | ÖZET",
-      "summary_tr": "Trendyol Süper Lig’in 8. haftasında Galatasaray deplasmanda Gençlerbirliği’ne konuk oldu. Karşılaşma sarı-kırmızılıların 1-0’lık üstünlüğüyle tamamlandı. Galibiyet golü dakika 88. dakikada Deniz Gül'den geldi. Sarı-kırmızılılar bu sonuçla puanını 19’a yükselterek liderliğini korudu. Gençlerbirliği i"
-    },
-    {
-      "title": "Bundesliga and Topps launch 'Starting XI Debut Patch' for the 2026/27 season",
-      "summary": "The Bundesliga and its official licensing partner Topps are creating a new connection between on-pitch action and the world of collecting.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-and-topps-launch-starting-xi-debut-patch-for-the-2026-27-season-38780",
-      "image_url": null,
-      "published": "2026-10-17T07:30:00",
+      "published": "2026-10-17T16:05:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:47.913079",
-      "priority_score": 66,
+      "fetched_at": "2026-10-17T19:50:16.818775",
+      "priority_score": 71,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-17T17:40:24.086022",
-      "title_tr": "Bundesliga ve Topps, 2026/27 sezonu için 'Başlangıç ​​XI İlk Yamasını' başlatıyor",
-      "summary_tr": "Bundesliga ve resmi lisans ortağı Topps, sahadaki aksiyon ile koleksiyon dünyası arasında yeni bir bağlantı kuruyor."
-    },
-    {
-      "title": "Galatasaraylı yıldız taraftarı çıldırttı: \"Acilen kovulmalı!\"",
-      "summary": "Galatasaray'ın Gençlerbirliği deplasmanında oynadığı karşılaşmada yıldız futbolcu, sarı-kırmızılı taraftarların eleştirilerinin hedefi oldu. Teknik direktör Okan Buruk'un ilk 11'de görevlendirdiği tecrübeli oyuncu, özellikle ilk yarıdaki performansıyla tepki çekti.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayli-yildiz-taraftari-cildirtti-acilen-kovulmali-4865120",
-      "image_url": null,
-      "published": "2026-10-17T13:48:30",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:39:45.173201",
-      "priority_score": 62,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.847247",
-      "title_tr": "Galatasaraylı yıldız taraftarı çıldırttı: \"Acilen kovulmalı!\"",
-      "summary_tr": "Galatasaray'ın Gençlerbirliği deplasmanında oynadığı karşılaşmada yıldız futbolcu, sarı-kırmızılı taraftarların eleştirilerinin hedefi oldu. Teknik direktör Okan Buruk'un ilk 11'de görevlendirdiği tecrübeli oyuncu, özellikle ilk yarıdaki performansıyla tepki çekti."
-    },
-    {
-      "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
-      "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats” but they were able to forget the cacophony of noise around the",
-      "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-10-17T16:08:40",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.508756",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-17T17:40:24.004571",
-      "title_tr": "Haaland, Manchester City'nin Ipswich'i mağlup etmesiyle Maresca'nın rekor başlangıç ​​yapmasına yardımcı oldu",
-      "summary_tr": "Manchester City'nin suçlu kararında yüksek maaşlı avukatlar ve şişirilebilir meyve endüstrisi dışında çok az kazanan oldu. Hayranlar acı çekti, kendilerine söylenen her şeyi sorgulamaya zorlandılar ve \"hile\" olarak etiketlendiler ancak etraftaki gürültünün kakofonisini unutmayı başardılar."
-    },
-    {
-      "title": "Manchester City yoluna kayıpsız devam etti",
-      "summary": "İngiltere Premier Lig'in 7. haftasında Manchester City, sahasında konuk ettiği Ipswich Town'u 3-2 mağlup etti.",
-      "url": "https://www.haberturk.com/spor/manchester-city-3-2-ipswich-town-mac-sonucu-ve-ozeti-ingiltere-premier-lig-3920529",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792256773/3920529/jpg/1920x1080",
-      "published": "2026-10-17T17:06:13",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.782611",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-17T17:40:24.108454",
-      "title_tr": "Manchester City yoluna kayıpsız devam etti",
-      "summary_tr": "İngiltere Premier Lig'in 7. haftasında Manchester City, sahasında konuk ettiği Ipswich Town'u 3-2 mağlup etti."
-    },
-    {
-      "title": "Liverpool deplasmanda 3 puanı aldı",
-      "summary": "İngiltere Premier Lig'in 7. haftasında Liverpool, deplasmanda Brentford'u 2-1 mağlup etmeyi başardı.",
-      "url": "https://www.haberturk.com/spor/brentford-1-2-liverpool-mac-sonucu-ve-ozeti-ingiltere-premier-lig-3920528",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792256305/3920528/jpg/1920x1080",
-      "published": "2026-10-17T17:00:12",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.782685",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-17T17:40:24.111964",
-      "title_tr": "Liverpool deplasmanda 3 puanı aldı",
-      "summary_tr": "İngiltere Premier Lig'in 7. haftasında Liverpool, deplasmanda Brentford'u 2-1 mağlup etmeyi başardı."
-    },
-    {
-      "title": "Sorry Derby beaten at home by Stoke",
-      "summary": "Luke Graham scored his first goal for Stoke as they won 1-0 at Pride Park to pile more pressure on struggling Derby.",
-      "url": "https://www.skysports.com/football/derby-county-vs-stoke-city/report/560621",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-derby-stoke_7379035.jpg?20261017160646",
-      "published": "2026-10-17T17:15:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:37:01.309515",
-      "priority_score": 76,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-17T17:40:23.982782",
-      "title_tr": "Üzgünüm Derby evinde Stoke'a yenildi",
-      "summary_tr": "Luke Graham, Stoke adına ilk golünü Pride Park'ta 1-0 kazanarak Derby'deki mücadeleyi daha da fazla baskı altına almak için attı."
-    },
-    {
-      "title": "Galatasaray Deniz'le 'Gül'dü!",
-      "summary": "Trendyol Süper Lig'in 8. haftasında lider Galatasaray deplasmanda Gençlerbirliği'ne konuk oldu. Mücadeleyi sarı-kırmızılılar Deniz Gül'ün golüyle 1-0 kazandı ve haftayı lider kapatmayı garantiledi.",
-      "url": "https://www.haberturk.com/spor/genclerbirligi-galatasaray-mac-sonucu-iste-genclerbirligi-gs-maci-ozeti-ve-golleri-super-lig-3920379",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792249397/3920379/jpg/1920x1080",
-      "published": "2026-10-17T15:09:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.783235",
-      "priority_score": 73,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.138064",
-      "title_tr": "Galatasaray Deniz'le 'Gül'dü!",
-      "summary_tr": "Trendyol Süper Lig'in 8. haftasında lider Galatasaray deplasmanda Gençlerbirliği'ne konuk oldu. Mücadeleyi sarı-kırmızılılar Deniz Gül'ün golüyle 1-0 kazandı ve haftayı lider kapatmayı garantiledi."
+      "processed_at": "2026-10-17T19:53:00.934493",
+      "title_tr": "2026/27 sezonunda Bundesliga'daki tüm Maçın Adamları kazananı",
+      "summary_tr": "2026/27 sezonundaki her Bundesliga fikstüründe taraftarlar tarafından oylanan resmi bir Adamın Adamı bulunuyor. Sezon boyunca adidas sponsorluğundaki ödülü hangi oyuncuların aldığını buradan öğrenin."
     },
     {
       "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
@@ -275,36 +95,178 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.280572",
+      "fetched_at": "2026-10-17T19:49:15.286039",
       "priority_score": 70,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-17T17:40:23.967901",
+      "processed_at": "2026-10-17T19:53:00.796942",
       "title_tr": "Chelseali Martinez 'ihtiyati testler' için hastaneye kaldırıldı",
       "summary_tr": "Kaleci Emiliano Martinez, Chelsea'nin cumartesi günü Everton'da aldığı 2-0'lık galibiyet nedeniyle dokuz ay sonra ilk kez gol yemedikleri için hastaneye kaldırıldı."
     },
     {
-      "title": "Bellingham agrees new Real deal - Saturday's gossip",
-      "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
+      "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
+      "summary": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question, the former Real Madrid manager has a Premier League win under his belt at the seventh attempt, lifting his side off the foot of th",
+      "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
       "image_url": null,
-      "published": "2026-10-16T21:57:37",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
+      "published": "2026-10-17T16:08:39",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.281049",
-      "priority_score": 70,
+      "fetched_at": "2026-10-17T19:49:54.304458",
+      "priority_score": 68,
       "categories": [
-        "transfers",
+        "breaking_news",
         "premier_league",
         "la_liga"
       ],
-      "processed_at": "2026-10-17T17:40:23.968446",
-      "title_tr": "Bellingham yeni Real anlaşmasını kabul etti - Cumartesi günkü dedikodular",
-      "summary_tr": "Real Madrid orta saha oyuncusu Jude Bellingham, geleceğini La Liga kulübüne adamaya hazır, Arsenal ve Liverpool, Jules Kounde'nin Barselona'daki geleceğini izleyen kulüpler arasında Brentford'lu Kevin Schade, Man Utd ve Chelsea'nin fiyatlarını ve daha fazlasını anlattı."
+      "processed_at": "2026-10-17T19:53:00.854289",
+      "title_tr": "Alex Iwobi'nin Fulham'ın ilk galibiyeti için Hull'u batırmasının ardından Arbeloa üzerindeki baskı kalktı",
+      "summary_tr": "Álvaro Arbeloa ancak maç sonrası sahadaki turuna kadar gülümsemeye izin verdi. Geleceğinin sorgulandığı rahatsız edici bir haftanın ardından Real Madrid'in eski teknik direktörü, yedinci denemesinde Premier Lig galibiyetini elde ederek yan tarafını ayağa kaldırdı."
+    },
+    {
+      "title": "Barcelona yeni bir rekora imza attı!",
+      "summary": "İspanya LaLiga'nın 9. haftasında Barcelona, deplasmanda Real Betis'i 5-2 mağlup etti. Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia ile Olmo'nun golleriyle galibiyete uzanan lider Barcelona, puanını 27'ye yükseltti ve LaLiga'ya 9'da 9 yaparak başlayan ilk takım olarak tarihe geçti. 54. dakikda Fac",
+      "url": "https://www.haberturk.com/spor/real-betis-barcelona-mac-sonucu-iste-real-betis-barcelona-maci-ozeti-ve-golleri-ispanya-laliga-3920547",
+      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792264063/3920547/jpg/1920x1080",
+      "published": "2026-10-17T19:08:44",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:51:07.984715",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "la_liga"
+      ],
+      "processed_at": "2026-10-17T19:53:01.025242",
+      "title_tr": "Barcelona yeni bir rekora imza attı!",
+      "summary_tr": "İspanya LaLiga'nın 9. haftasında Barcelona, deplasmanda Real Betis'i 5-2 mağlup etti. Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia ile Olmo'nun golleriyle galibiyete uzanan lider Barcelona, puanını 27'ye yükseltti ve LaLiga'ya 9'da 9 yaparak başlayan ilk takım olarak tarihe geçti. 54. dakikda Fac"
+    },
+    {
+      "title": "Sorry Derby beaten at home by Stoke",
+      "summary": "Luke Graham scored his first goal for Stoke as they won 1-0 at Pride Park to pile more pressure on struggling Derby.",
+      "url": "https://www.skysports.com/football/derby-county-vs-stoke-city/report/560621",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-derby-stoke_7379035.jpg?20261017160646",
+      "published": "2026-10-17T17:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:28.853947",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-17T19:53:00.829748",
+      "title_tr": "Üzgünüm Derby evinde Stoke'a yenildi",
+      "summary_tr": "Luke Graham, Stoke adına ilk golünü, Pride Park'ta 1-0 kazandıkları maçta Derby'deki mücadeleyi daha da fazla baskı altına almak için attı."
+    },
+    {
+      "title": "Bundesliga and Topps launch 'Starting XI Debut Patch' for the 2026/27 season",
+      "summary": "The Bundesliga and its official licensing partner Topps are creating a new connection between on-pitch action and the world of collecting.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-and-topps-launch-starting-xi-debut-patch-for-the-2026-27-season-38780",
+      "image_url": null,
+      "published": "2026-10-17T07:30:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:50:16.825085",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-17T19:53:00.981020",
+      "title_tr": "Bundesliga ve Topps, 2026/27 sezonu için 'İlk 11 İlk Yamasını' Başlatıyor",
+      "summary_tr": "Bundesliga ve resmi lisans ortağı Topps, sahadaki aksiyon ile koleksiyon dünyası arasında yeni bir bağlantı kuruyor."
+    },
+    {
+      "title": "Maresca neemt blessurezorgen om Haaland weg na vervolg op feilloze start met City",
+      "summary": "Enzo Maresca heeft zorgen om Erling Haaland weggenomen. De Noorse ster strompelde na de zege op Ipswich Town naar de catacomben in, maar volgens de Italiaanse manager is er geen reden tot paniek. Ook ging Maresca in op de feilloze competitiestart van Manchester City.",
+      "url": "https://www.vi.nl/nieuws/maresca-neemt-blessurezorgen-om-haaland-weg-na-vervolg-op-feilloze-start-met-city",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/20/c9f2535f7ce9173f5ac0de2b73f4979dbaf428e9.jpg?width=1200",
+      "published": "2026-10-17T19:13:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:52:57.433533",
+      "priority_score": 57,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:01.999843",
+      "title_tr": "Maresca, City ile kusursuz başlangıcını sürdürdükten sonra Haaland'ın sakatlık endişelerini hafifletti",
+      "summary_tr": "Enzo Maresca, Erling Haaland'la ilgili endişeleri giderdi. Norveçli yıldız, Ipswich Town galibiyetinin ardından topallayarak yeraltı mezarlarına gitti ancak İtalyan menajere göre paniğe kapılacak bir neden yok. Maresca ayrıca Manchester City'nin turnuvaya kusursuz başlangıcından da bahsetti."
+    },
+    {
+      "title": "Scottish Premiership: Kiltie double sinks Motherwell to lift Kilmarnock",
+      "summary": "Kilmarnock move off bottom with 3-2 winHibs 1-2 Falkirk; Aberdeen 3-1 St MirrenGreg Kiltie scored twice to lift Kilmarnock off the bottom with a 3-2 home victory over Motherwell. Kiltie struck first and last as Neil McCann’s side inflicted a fifth consecutive defeat on the Steelmen, who join Killie ",
+      "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+      "image_url": null,
+      "published": "2026-10-17T17:05:15",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:54.305387",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-17T19:53:00.863274",
+      "title_tr": "İskoçya Premiership: Kiltie, Kilmarnock'u kaldırmak için Motherwell'i iki kez batırdı",
+      "summary_tr": "Kilmarnock, Hibs'in 1-2 Falkirk'ü 3-2 yenmesiyle dibe vurdu; Aberdeen 3-1 St MirrenGreg Kiltie iki gol atarak Kilmarnock'u evinde Motherwell'e karşı 3-2'lik galibiyetle mağlup etti. Killie'ye katılan Steelmen'i Neil McCann'in takımı art arda beşinci yenilgiye uğratırken Kiltie ilk ve son vuruşu yaptı."
+    },
+    {
+      "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+      "summary": "Lamine Yamal opens scoring in ninth straight winLuis Díaz hat-trick helps Bayern thump RB Leipzig 6-1Barcelona’s La Liga juggernaut rolled into Seville on Saturday and left with the scoreboard smoking, as the leaders beat Real Betis 5-2 to make it ⁠nine wins from nine ⁠and stretch their blistering l",
+      "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+      "image_url": null,
+      "published": "2026-10-17T19:05:47",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:54.306705",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "la_liga",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-17T19:53:00.877850",
+      "title_tr": "Avrupa futbolu: Barcelona, ​​Real Betis'i yenerek %100'lük rekorunu sürdürdü",
+      "summary_tr": "Lamine Yamal üst üste dokuzuncu galibiyetle skora başladıLuis Díaz hat-trick yaparak Bayern'in RB Leipzig'i 6-1 yenmesine yardımcı olduBarcelona'nın La Liga'daki ezici gücü Cumartesi günü Sevilla'ya geldi ve liderler Real Betis'i 5-2 yenerek dokuzdan dokuz galibiyete ulaştı ve güçlerini sürdürdüler."
+    },
+    {
+      "title": "Luis Díaz hat-trick leads Bayern Munich's demolition of RB Leipzig",
+      "summary": "Luis Díaz scored a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 at the Allianz Arena.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-6-1-leipzig-diaz-hat-trick-match-report-highlights-matchday-6-39614",
+      "image_url": null,
+      "published": "2026-10-18T02:27:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:50:16.797164",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-17T19:53:00.905348",
+      "title_tr": "Luis Díaz hat-trick yaparak Bayern Münih'in RB Leipzig'i yıkmasına öncülük etti",
+      "summary_tr": "Luis Díaz, Allianz Arena'da Bayern Münih'in RB Leipzig'i 6-1 mağlup ettiği maçta hat-trick yaptı."
     },
     {
       "title": "Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı",
@@ -316,7 +278,7 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-17T17:38:51.010302",
+      "fetched_at": "2026-10-17T19:51:24.122184",
       "priority_score": 66,
       "categories": [
         "match_results",
@@ -324,9 +286,68 @@
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-10-17T17:40:24.202615",
+      "processed_at": "2026-10-17T19:53:01.180148",
       "title_tr": "Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı",
       "summary_tr": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile deplasmanda karşılaşan Galatasaray'da Rafael Leao, yaşadığı sakatlık nedeniyle oyuna girdikten yalnızca 16 dakika sonra kenara geldi. Yerine giren Deniz Gül ise galibiyet golüne imza attı."
+    },
+    {
+      "title": "Haaland nets double as Man City go six points clear at the top",
+      "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-17T19:00:09",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:15.284954",
+      "priority_score": 65,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:00.794654",
+      "title_tr": "Manchester City altı puan farkla zirvede yer alırken Haaland ağlarını ikiye katladı",
+      "summary_tr": "Manchester City, Premier Lig'de altı puan farkla zirvede yer alırken, Enzo Maresca'nın takımı, Etihad'da Ipswich'i 3-2 yenerek üst üste yedinci lig galibiyetini elde etti."
+    },
+    {
+      "title": "Neto scores twice as Chelsea win at Everton",
+      "summary": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-17T19:00:03",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:15.285446",
+      "priority_score": 65,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:00.795294",
+      "title_tr": "Neto, Chelsea'nin Everton galibiyetinde iki gol attı",
+      "summary_tr": "Pedro Neto, Chelsea adına Hill Dickinson Stadyumu'nda Everton'u 2-0 yenerken, Emiliano Martinez'in kafa travmasının gölgesinde kalan maçta iki gol attı."
+    },
+    {
+      "title": "Iwobi delivers Fulham's first win of season",
+      "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-17T19:00:06",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:15.285642",
+      "priority_score": 65,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:00.795761",
+      "title_tr": "Iwobi, Fulham'ın sezondaki ilk galibiyetini aldı",
+      "summary_tr": "Alex Iwobi, Fulham'ı Hull'a karşı sezonun ilk Premier Lig galibiyetine kovdu."
     },
     {
       "title": "TÜMOSAN Konyaspor Amedspor deplasmanında son dakikada yıkıldı | ÖZET",
@@ -338,7 +359,7 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-17T17:39:45.172463",
+      "fetched_at": "2026-10-17T19:52:19.695028",
       "priority_score": 62,
       "categories": [
         "match_results",
@@ -346,68 +367,28 @@
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-10-17T17:40:24.777099",
+      "processed_at": "2026-10-17T19:53:01.925242",
       "title_tr": "TÜMOSAN Konyaspor Amedspor deplasmanında son dakikada yıkıldı | ÖZET",
       "summary_tr": "Trendyol Süper Lig’in 8. haftasında TÜMOSAN Konyaspor deplasmanda Amedspor'a 1-0 mağlup oldu. Gol dakika 86. dakikada Mbaya Diagne'den geldi. Amed SK bu sonuçla puanını 17'ye çıkararak ikinci sırada yer aldı. TÜMOSAN Konyaspor ise 5 puanla 16. sırada yer aldı. TÜMOSAN Konyaspor - Amedspor maç özeti"
     },
     {
-      "title": "Southampton frustrated at home by Bolton",
-      "summary": "James Bree, Lewis Dobbin and Leo Scienza all squandered chances as Southampton dropped points at home for the first time this season with a 0-0 draw against Bolton.",
-      "url": "https://www.skysports.com/football/southampton-vs-bolton-wanderers/report/560625",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-efl-championship_7379163.jpg?20261017171021",
-      "published": "2026-10-17T17:15:00",
+      "title": "Manzambi haunts Newcastle with winner for Aston Villa",
+      "summary": "Johan Manzambi came back to haunt Newcastle as his first-half goal was enough for Aston Villa to win 1-0 at St James' Park on Saturday Night Football",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
+      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-johan-manzambi-aston-villa_7379353.jpg?20261017190857",
+      "published": "2026-10-17T19:30:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:01.309846",
+      "fetched_at": "2026-10-17T19:49:28.853864",
       "priority_score": 61,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-17T17:40:23.992506",
-      "title_tr": "Southampton evinde Bolton karşısında hüsrana uğradı",
-      "summary_tr": "James Bree, Lewis Dobbin ve Leo Scienza, Southampton'ın Bolton'la 0-0 berabere kalarak bu sezon ilk kez evinde puan kaybetmesiyle şanslarını boşa harcadı."
-    },
-    {
-      "title": "Muhammed Salah'ın morali tavan yaptı",
-      "summary": "Trabzonspor’un Mısırlı yıldızı Muhammed Salah, bordo-mavili formayla ortaya koyduğu performans ve neşeli tavırlarıyla Beşiktaş maçı öncesi moralli görünüyor. Trabzon’da mutlu olduğu gözlenen yıldız futbolcu, sahadaki etkili oyununu skor katkısına da yansıtıyor.",
-      "url": "https://www.cnnturk.com/spor/futbol/muhammed-salahin-morali-tavan-yapti-3480683",
-      "image_url": null,
-      "published": "2026-10-17T11:07:31",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:39:15.929867",
-      "priority_score": 61,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.505626",
-      "title_tr": "Muhammed Salah'ın morali tavan yaptı",
-      "summary_tr": "Trabzonspor’un Mısırlı yıldızı Muhammed Salah, bordo-mavili formayla ortaya koyduğu performans ve neşeli tavırlarıyla Beşiktaş maçı öncesi moralli görünüyor. Trabzon’da mutlu olduğu gözlenen yıldız futbolcu, sahadaki etkili oyununu skor katkısına da yansıtıyor."
-    },
-    {
-      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
-      "summary": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-17T13:39:16",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.280852",
-      "priority_score": 60,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-17T17:40:23.968102",
-      "title_tr": "Neto yıldız oldu ama kim bastırıldı? - Everton - Chelsea için oyuncu derecelendirmeleri",
-      "summary_tr": "Pedro Neto'nun Chelsea adına ikinci yarıda attığı iki gol, Cumartesi günü Everton'da deplasmanda önemli bir galibiyet elde edilmesini sağladı."
+      "processed_at": "2026-10-17T19:53:00.827891",
+      "title_tr": "Manzambi, Aston Villa'nın galibiyle Newcastle'ı domine etti",
+      "summary_tr": "Johan Manzambi, Cumartesi Gecesi Futbolu maçında Aston Villa'nın St James' Park'ta 1-0 kazanmasına yeten ilk yarı golüyle Newcastle'a geri döndü."
     },
     {
       "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
@@ -419,135 +400,114 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.509793",
+      "fetched_at": "2026-10-17T19:49:54.304844",
       "priority_score": 58,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-17T17:40:24.015546",
+      "processed_at": "2026-10-17T19:53:00.858735",
       "title_tr": "Birmingham ile berabere kalan Arsenal için Boos, galibiyetsiz WSL koşusunu uzatıyor",
-      "summary_tr": "Olivia Smith'in golüyle beraberlik Arsenal'in yenilgisini önledi ancak Birmingham'la iç saha beraberliği Renée Slegers'ın Gunners koçu olarak geleceğine dair korkuları yatıştırmaya pek yardımcı olmadı. Emirates Stadı'nda final düdüğüne Boos eşlik ederken, sonuç olarak Arsenal altı maçta altı puanla ve hiçbir galibiyet alamadan geride kaldı."
+      "summary_tr": "Olivia Smith'in ekolayzırı Arsenal'in yenilgisini önledi, ancak Birmingham ile iç saha beraberliği Renée Slegers'ın Gunners koçu olarak geleceğine dair korkuları yatıştırmaya pek yardımcı olmadı. Emirates Stadı'nda final düdüğüne Boos eşlik ederken, sonuç olarak Arsenal altı maçta altı puanla ve hiçbir galibiyet alamadan geride kaldı."
     },
     {
-      "title": "\"Bu maçla ilgili gururluyum\"",
-      "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, 1-0 yenildikleri Galatasaray müsabakasının ardından, \"Maç bitiminde tüm futbolcularımla görüştüm ve konuştum. Söylediğim şey şuydu, ‘sizinle gurur duyuyorum. Bu maçla ilgili gururlu olduğumu söyleyebilirim çünkü gerçekten takımım iyi bir maç çıkardı\" ded",
-      "url": "https://www.haberturk.com/spor/bernd-strock-bu-macla-ilgili-gururlu-oldugumu-soyleyebilirim-3920514",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792253562/3920514/jpg/1920x1080",
-      "published": "2026-10-17T16:12:56",
+      "title": "Inter, 2. yarıda üç puanı kaptı!",
+      "summary": "İtalya Serie A'nın 7. haftasında Inter, deplasmanda Bologna'yı 3-1 mağlup etti. 44'te Marcus Thuram, 69'da Carlos Augusto ve 83. dakikada Ange Bonny'nin golleriyle 1-0'dan geri dönen lider Inter, puanını 19'a yükseltti. Bologna ise 5 puanda kaldı.",
+      "url": "https://www.haberturk.com/spor/bologna-inter-mac-sonucu-iste-bologna-inter-maci-sonucu-ve-ozeti-italya-serie-a-3920538",
+      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792261876/3920538/jpg/1920x1080",
+      "published": "2026-10-17T18:32:17",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.782902",
+      "fetched_at": "2026-10-17T19:51:07.985019",
       "priority_score": 58,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.120051",
-      "title_tr": "\"Bu maçla ilgili gururluyum\"",
-      "summary_tr": "Gençlerbirliği Teknik Direktörü Bernd Storck, 1-0 yenildikleri Galatasaray müsabakasının ardından, \"Maç bitiminde tüm futbolcularımla görüştüm ve konuştum. Söylediğim şey şuydu, ‘sizinle gurur duyuyorum. Bu maçla ilgili gururlu olduğumu söyleyebilirim çünkü gerçekten takımım iyi bir maç çıkardı\" ded"
-    },
-    {
-      "title": "\"Hafta içi yorgunluğu maça yansıdı\"",
-      "summary": "Galatasaray'ın kalecisi Uğurcan Çakır, Süper Lig'in 8. haftasında 1-0 kazandıkları Gençlerbirliği maçının ardından konuştu. Hafta içi Barcelona'yla oynadıkları UEFA Şampiyonnlar Ligi maçındaki yorgunluğun bugüne yansıdığını belirten Çakır, \"İlk yarı iyi bir mücadele vardı sahada. İki takım da çok iy",
-      "url": "https://www.haberturk.com/spor/ugurcan-cakir-hafta-ici-yorgunlugu-maca-yansidi-3920508",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792251777/3920508/jpg/1920x1080",
-      "published": "2026-10-17T15:44:13",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.783110",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "la_liga",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-17T17:40:24.131124",
-      "title_tr": "\"Hafta içi yorgunluğu maça yansıdı\"",
-      "summary_tr": "Galatasaray'ın kalecisi Uğurcan Çakır, Süper Lig'in 8. haftasında 1-0 kazandıkları Gençlerbirliği maçının ardından konuştu. Hafta içi Barcelona'yla oynadıkları UEFA Şampiyonnlar Ligi maçındaki yorgunluğun bugüne yansıdığını belirten Çakır, \"İlk yarı iyi bir mücadele vardı sahada. İki takım da çok iy"
-    },
-    {
-      "title": "Brentford 1-2 Liverpool highlights",
-      "summary": "",
-      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-alexander-isak-liverpool_7379104.jpg?20261017164515",
-      "published": "2026-10-17T13:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:37:01.309862",
-      "priority_score": 56,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-10-17T17:40:23.993940",
-      "title_tr": "Brentford 1-2 Liverpool'un öne çıkanları",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Galatasaray maçları gollü geçiyor, Chelsea maçları hızlı başlıyor! İşte Misli’den günün tüyoları",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-maclari-gollu-geciyor-chelsea-maclari-hizli-basliyor-iste-misliden-gunun-tuyolari-43345329",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad367c8c628bee4419ef0a5.jpg",
-      "published": "2026-10-17T12:20:06",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-17T17:38:51.010693",
-      "priority_score": 56,
       "categories": [
         "match_results",
         "premier_league",
-        "super_lig"
+        "serie_a"
       ],
-      "processed_at": "2026-10-17T17:40:24.244816",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:01.044359",
+      "title_tr": "Inter, 2. yarıda üç puanı kaptı!",
+      "summary_tr": "İtalya Serie A'nın 7. haftasında Inter, deplasmanda Bologna'yı 3-1 mağlup etti. 44'te Marcus Thuram, 69'da Carlos Augusto ve 83. dakikada Ange Bonny'nin golleriyle 1-0'dan geri dönen lider Inter, puanını 19'a yükseltti. Bologna ise 5 puanda kaldı."
     },
     {
-      "title": "Man City's Maresca 'very happy' after Ipswich win",
-      "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+      "title": "Fenerbahçe kazandı moral depoladı!",
+      "summary": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe, evinde ağırladığı Alanyaspor'u 3-0 mağlup etti. Sarı-lacivertlilere galibiyeti getiren golleri Romelu Lukaku ile Kerem Aktürkoğlu kaydetti.",
+      "url": "https://www.haberturk.com/spor/fenerbahce-3-0-alanyaspor-mac-sonucu-iste-fb-aly-maci-ozeti-ve-golleri-trendyol-super-lig-3920393",
+      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792259999/3920393/jpg/1920x1080",
+      "published": "2026-10-17T18:03:29",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:51:07.985186",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-17T19:53:01.055541",
+      "title_tr": "Fenerbahçe kazandı moral depoladı!",
+      "summary_tr": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe, evinde ağırladığı Alanyaspor'u 3-0 mağlup etti. Sarı-lacivertlilere galibiyeti getiren golleri Romelu Lukaku ile Kerem Aktürkoğlu kaydetti."
+    },
+    {
+      "title": "Liverpool come from behind to beat nine-man Brentford",
+      "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-17T17:08:01",
+      "published": "2026-10-17T19:00:13",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-17T17:36:50.282049",
+      "fetched_at": "2026-10-17T19:49:15.284666",
       "priority_score": 55,
       "categories": [
-        "premier_league"
+        "general"
       ],
-      "processed_at": "2026-10-17T17:40:23.971917",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:00.794295",
+      "title_tr": "Liverpool dokuz kişilik Brentford'u yenmek için geriden geldi",
+      "summary_tr": "Liverpool, Gtech Community Stadium'da Brentford'u 2-1 mağlup ederken, ev sahibi ekip maçı Yehor Yarmoliuk ve Vitaly Janelt'in kırmızı kartlarının ardından dokuz kişiyle bitirdi."
     },
     {
-      "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
-      "summary": "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win as Fulham head coach in similar fashion as the weeks and games before. After all their chances and possession, Craven Cottage sho",
-      "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
+      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
+      "summary": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-17T16:08:39",
+      "published": "2026-10-17T13:39:16",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:49:15.286434",
+      "priority_score": 55,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-17T19:53:00.798845",
+      "title_tr": "Neto yıldız oldu ama kim bastırıldı? - Everton - Chelsea için oyuncu derecelendirmeleri",
+      "summary_tr": "Pedro Neto'nun Chelsea adına ikinci yarıda attığı iki gol, Cumartesi günü Everton'da deplasmanda önemli bir galibiyet elde edilmesini sağladı."
+    },
+    {
+      "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
+      "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around th",
+      "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-10-17T16:08:40",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.509469",
+      "fetched_at": "2026-10-17T19:49:54.303639",
       "priority_score": 53,
       "categories": [
-        "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-17T17:40:24.011996",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:00.845256",
+      "title_tr": "Haaland, Manchester City'nin Ipswich'i mağlup etmesiyle Maresca'nın rekor başlangıç ​​yapmasına yardımcı oldu",
+      "summary_tr": "Manchester City'nin suçlu kararında yüksek maaşlı avukatlar ve şişirilebilir meyve endüstrisi dışında çok az kazanan oldu. Hayranlar, \"hile\" olarak etiketlenirken kendilerine söylenen her şeyi sorgulamak zorunda kaldıkları için acı çektiler, ancak etraftaki gürültünün kakofonisini unutmayı başardılar."
     },
     {
       "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
@@ -559,20 +519,20 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.510532",
+      "fetched_at": "2026-10-17T19:49:54.305719",
       "priority_score": 53,
       "categories": [
         "injuries",
         "premier_league",
         "serie_a"
       ],
-      "processed_at": "2026-10-17T17:40:24.023524",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:00.868175",
+      "title_tr": "Neto'nun Everton'daki ikilisi Chelsea'yi Martínez'in kafa travmasıyla gölgelenen zafere taşıdı",
+      "summary_tr": "Chelsea, uluslararası aradan Xabi Alonso'ya iyiye işaret eden bir ruh, otorite ve dayanıklılıkla döndü. Son yıllarda hiç de mutlu bir avlanma alanı olmayan Everton'daki sorunları, Pedro Neto'nun iki kez sakatlanması nedeniyle Emi Martínez'in kafa travması nedeniyle tedaviye ihtiyaç duyduğu yedi dakikayla sınırlıydı."
     },
     {
       "title": "Championship roundup: West Ham go second; Norwich beaten again",
-      "summary": "Mukasa’s first-half goal enough to beat leaders SwanseaCanaries suffer sixth straight loss; Watford beat CharltonWest Ham ended Swansea’s four-match winning streak with a 1-0 away victory that reduced the gap at the top of the Championship to a single point.Divine Mukasa’s calm first-half finish pro",
+      "summary": "Mukasa’s first-half goal enough to beat leaders SwanseaCanaries suffer sixth straight loss; Watford beat CharltonNuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea.Divine Mukasa’s first-half strike in front of a record Swansea.com Stadium ",
       "url": "https://www.theguardian.com/football/2026/oct/17/championship-roundup-middlesbrough-watford-millwall-swansea-west-ham",
       "image_url": null,
       "published": "2026-10-17T16:29:23",
@@ -580,34 +540,74 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-17T17:37:22.510929",
+      "fetched_at": "2026-10-17T19:49:54.306250",
       "priority_score": 53,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-17T17:40:24.026933",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:00.872617",
+      "title_tr": "Şampiyona özeti: West Ham ikinci oldu; Norwich yine mağlup oldu",
+      "summary_tr": "Mukasa'nın ilk yarıda lideri yenmeye yetecek golü SwanseaCanaries üst üste altıncı yenilgiye uğradı; Watford, Charlton'ı yendiNuno Espírito Santo, West Ham'ın \"zorlu bir haftayı\" Şampiyona lideri Swansea'yı devirerek tamamlamasından memnundu.Divine Mukasa'nın ilk yarıdaki golü rekor Swansea.com Stadyumu önünde"
     },
     {
-      "title": "Hull City deplasmanda mağlup!",
-      "summary": "İngiltere Premier Lig'in 7. haftasında Hull City, deplasmanda Fulham'a 1-0 mağlup oldu. 33. dakikada Alex Iwobi'nin golüne engel olamayan Hull City'nin ligdeki galibiyet hasreti 5 maça çıktı ve haftayı 9 puanla tamamladı. 90+4. dakikada Ryan Sessegnon'un gördüğü kırmızı kartla 10 kişi kalan Fulham i",
-      "url": "https://www.haberturk.com/spor/fulham-hull-city-mac-sonucu-iste-fulham-hull-city-maci-ozeti-ve-golleri-ingiltere-premier-lig-3920525",
-      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792255527/3920525/jpg/1920x1080",
-      "published": "2026-10-17T16:45:38",
+      "title": "\"Çok güzel bir karakter ortaya koyduk\"",
+      "summary": "Fenerbahçe'nin sol beki Levent Mercan, Süper Lig'in 8. haftasında 3-0 kazandıkları Alanyaspor maçının ardından değerlendirmelerde bulundu. Çok iyi bir karakter ortaya koyduklarının altını çizen Mercan, \"Çok mutluyuz kazandığımız için. Çok iyi oynadık. Maça çok iyi başladık. Biraz düştük ama takım ol",
+      "url": "https://www.haberturk.com/spor/levent-mercan-cok-guzel-bir-karakter-ortaya-koyduk-3920552",
+      "image_url": "https://im.haberturk.com/l/2026/10/17/ver1792265633/3920552/jpg/1920x1080",
+      "published": "2026-10-17T19:34:04",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-17T17:38:36.782833",
+      "fetched_at": "2026-10-17T19:51:07.984483",
       "priority_score": 53,
       "categories": [
         "match_results",
-        "premier_league"
+        "super_lig"
       ],
-      "processed_at": "2026-10-17T17:40:24.116940",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-10-17T19:53:01.010601",
+      "title_tr": "\"Çok güzel bir karakter ortaya koyduk\"",
+      "summary_tr": "Fenerbahçe'nin sol beki Levent Mercan, Süper Lig'in 8. haftasında 3-0 kazandıkları Alanyaspor maçının ardından değerlendirmelerde bulundu. Çok iyi bir karakter ortaya koyduklarının altını çizen Mercan, \"Çok mutluyuz kazandığımız için. Çok iyi oynadık. Maça çok iyi başladık. Biraz düştük ama takım ol"
+    },
+    {
+      "title": "İlkay Gündoğan'dan Okan Buruk sorusuna flaş yanıt!",
+      "summary": "Galatasaray, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği'ni Deniz Gül'ün 88. dakikada attığı golle 1-0 mağlup etti. Karşılaşmanın ardından açıklamalarda bulunan İlkay Gündoğan, ilk yarıdaki performansı değerlendirdi ve son dönemde Okan Buruk'la ilgili gündeme gelen sözlerine açıklık getirdi.",
+      "url": "https://www.yenisafak.com/spor/ilkay-gundogandan-okan-buruk-sorusuna-flas-yanit-4865144",
+      "image_url": null,
+      "published": "2026-10-17T15:43:47",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:52:19.694465",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-17T19:53:01.873153",
+      "title_tr": "İlkay Gündoğan'dan Okan Buruk sorusuna flaş yanıt!",
+      "summary_tr": "Galatasaray, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği'ni Deniz Gül'ün 88. dakikada attığı golle 1-0 mağlup etti. Karşılaşmanın ardından açıklamalarda bulunan İlkay Gündoğan, ilk yarıdaki performansı değerlendirdi ve son dönemde Okan Buruk'la ilgili gündeme gelen sözlerine açıklık getirdi."
+    },
+    {
+      "title": "Leao neden oyundan çıktı? Okan Buruk gerçeği açıkladı",
+      "summary": "Galatasaray, Süper Lig'in 8. haftasında Gençlerbirliği'ni 88. dakikada bulduğu golle 1-0 mağlup etti. Karşılaşmada Rafael Leao'yu oyuna aldıktan 16 dakika sonra kenara çeken Okan Buruk, değişikliğin nedenini açıkladı.",
+      "url": "https://www.yenisafak.com/galeri/spor/leao-neden-oyundan-cikti-okan-buruk-gercegi-acikladi-4865143",
+      "image_url": null,
+      "published": "2026-10-17T15:42:14",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-17T19:52:19.694654",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-17T19:53:01.887068",
+      "title_tr": "Leao neden oyundan çıktı? Okan Buruk gerçeği açıkladı",
+      "summary_tr": "Galatasaray, Süper Lig'in 8. haftasında Gençlerbirliği'ni 88. dakikada bulduğu golle 1-0 mağlup etti. Karşılaşmada Rafael Leao'yu oyuna aldıktan 16 dakika sonra kenara çeken Okan Buruk, değişikliğin nedenini açıkladı."
     }
   ]
 }
