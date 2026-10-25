@@ -1,7 +1,28 @@
 {
-  "timestamp": "2026-10-25T05:33:49.367415",
+  "timestamp": "2026-10-25T10:26:28.266090",
   "total_items": 30,
   "news": [
+    {
+      "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
+      "summary": "⚽️ News before the 2pm GMT Premier League fixtures⚽️ How they stand | Fixtures | Mail JohnAintree Racecourse has confirmed today’s race meeting has been cancelled due to high winds. Will that mean Liverpool v Brighton is called off?The Met Office has issued a yellow weather warning for wind in Liver",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
+      "image_url": null,
+      "published": "2026-10-25T09:52:44",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:22:06.608191",
+      "priority_score": 98,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-25T10:25:15.444370",
+      "title_tr": "Carrick, Manchester United'ın \"yönetilemez\" olduğunu, klasik birikim ve daha fazlasını yalanladı - maç günü canlı",
+      "summary_tr": "⚽️ Saat 14:00 GMT Premier Lig fikstürü öncesi haberler⚽️ Durum nasıl | Fikstür | Mail JohnAintree Hipodromu bugünkü yarış toplantısının şiddetli rüzgarlar nedeniyle iptal edildiğini doğruladı. Bu, Liverpool - Brighton maçının iptal edildiği anlamına mı gelir? Met Ofisi, Liver'da rüzgar için sarı hava uyarısı yayınladı"
+    },
     {
       "title": "Bundesliga Matchday 7 video highlights",
       "summary": "Niclas Füllkrug continued his stellar goalscoring form as Werder Bremen extended their unbeaten run to six games, Borussia Mönchengladbach picked up their first points of the campaign with a victory away to Stuttgart, and RB Leipzig made it four home wins from four after thrashing Elversberg.",
@@ -12,37 +33,16 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.972616",
+      "fetched_at": "2026-10-25T10:22:33.498549",
       "priority_score": 91,
       "categories": [
         "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-25T05:32:40.119060",
+      "processed_at": "2026-10-25T10:25:15.507677",
       "title_tr": "Bundesliga 7. Maçın öne çıkan videoları",
       "summary_tr": "Werder Bremen yenilmezlik serisini altı maça çıkarırken Niclas Füllkrug muhteşem gol formunu sürdürdü, Borussia Mönchengladbach Stuttgart deplasmanında kazandığı galibiyetle sezondaki ilk puanlarını aldı ve RB Leipzig, Elversberg'i mağlup ettikten sonra evinde dört galibiyet elde etti."
-    },
-    {
-      "title": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
-      "summary": "Forward sent off after 80 minutes for second yellow card‘We need to have maturity to deal with difficult moments’Xabi Alonso said that Cole Palmer must learn from his red card during Chelsea’s shock 2-0 defeat to Tottenham, who claimed their first win at Stamford Bridge since 2018 thanks to an own g",
-      "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
-      "image_url": null,
-      "published": "2026-10-24T20:19:17",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:29:53.139662",
-      "priority_score": 83,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-25T05:32:40.063423",
-      "title_tr": "Alonso, Cole Palmer'a Chelsea'nin Spurs'e yenildiği maçtaki kırmızı karttan ders alması çağrısında bulundu",
-      "summary_tr": "Forvet 80 dakika sonra ikinci sarı karttan oyundan atıldı'Zor anlarla başa çıkmak için olgunluğa ihtiyacımız var'Xabi Alonso, Chelsea'nin Stamford Bridge'de 2018'den bu yana ilk galibiyetini kendi kalesine alan Tottenham'a 2-0'lık şok yenilgisi sırasında Cole Palmer'ın kırmızı kartından ders alması gerektiğini söyledi."
     },
     {
       "title": "Arsenal beat Everton to go level on points with leaders Man City",
@@ -54,76 +54,234 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:24.023689",
+      "fetched_at": "2026-10-25T10:21:31.988316",
       "priority_score": 80,
       "categories": [
         "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.016653",
+      "processed_at": "2026-10-25T10:25:15.395714",
       "title_tr": "Arsenal, Everton'u yenerek lider Man City ile aynı puana ulaştı",
       "summary_tr": "Kulüpteki ilk golü Ezri Konsa ve Gabriel Magalhaes'in golleri, Arsenal'in Emirates'te Everton'u 2-0 yenerek lig lideri Manchester City ile aynı seviyeye gelmesine yardımcı oldu."
     },
     {
-      "title": "M.City'ye ilk çelme Aston Villa'dan!",
-      "summary": "Aston Villa, İngiltere Premier Lig'in 8. haftasında ağırladığı Manchester City'yi 2-1'lik skorla mağlup etti. Ev sahibine üç puanı getiren golleri Nicolas Jackson kaydetti. Ligde bu sezon ilk kez puan kaybeden City'nin golü ise Haaland'dan geldi.",
-      "url": "https://www.haberturk.com/spor/aston-villa-manchester-city-mac-sonucu-iste-aston-villa-city-maci-ozeti-premier-lig-3922273",
-      "image_url": "https://im.haberturk.com/l/2026/10/24/ver1792848327/3922273/jpg/1920x1080",
-      "published": "2026-10-24T13:25:44",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Why are Liverpool struggling for Premier League goals?",
+      "summary": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-25T06:26:00",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-25T05:31:05.275210",
-      "priority_score": 78,
+      "fetched_at": "2026-10-25T10:21:31.985888",
+      "priority_score": 75,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.244117",
-      "title_tr": "M.City'ye ilk çelme Aston Villa'dan!",
-      "summary_tr": "Aston Villa, İngiltere Premier Lig'in 8. haftasında ağırladığı Manchester City'yi 2-1'lik skorla mağlup etti. Ev sahibine üç puanı getiren golleri Nicolas Jackson kaydetti. Ligde bu sezon ilk kez puan kaybeden City'nin golü ise Haaland'dan geldi."
+      "processed_at": "2026-10-25T10:25:15.383658",
+      "title_tr": "Liverpool neden Premier Lig'de gol bulmakta zorlanıyor?",
+      "summary_tr": "Liverpool bu sezon dört kupa maçında 15 gol attı, ancak yedi Premier Lig maçında yalnızca dokuz gol attı."
     },
     {
-      "title": "Transferde dev derbi: Galatasaray'ın gözdesine Beşiktaş da talip",
-      "summary": "Galatasaray'ın bir süredir yakından takip ettiği genç yıldız adayı için Beşiktaş'ın da devreye girdiği belirtildi. Siyah-beyazlıların CSKA Moskova ile masaya oturmaya hazırlandığı belirtilirken, genç oyuncu için talep edilen bonservis bedeli dikkat çekiyor.",
-      "url": "https://www.yenisafak.com/galeri/spor/transferde-dev-derbi-galatasarayin-gozdesine-besiktas-da-talip-4866979",
+      "title": "Every Bundesliga Man of the Match winner in 2026/27",
+      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
       "image_url": null,
-      "published": "2026-10-24T15:28:59",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "published": "2026-10-24T13:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-25T05:32:00.376979",
-      "priority_score": 72,
+      "fetched_at": "2026-10-25T10:22:33.510460",
+      "priority_score": 66,
       "categories": [
         "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-25T10:25:15.578483",
+      "title_tr": "2026/27 sezonunda Bundesliga'daki tüm Maçın Adamları kazananı",
+      "summary_tr": "2026/27 sezonundaki her Bundesliga fikstüründe taraftarlar tarafından oylanan resmi bir Adamın Adamı bulunuyor. Sezon boyunca adidas sponsorluğundaki ödülü hangi oyuncuların aldığını buradan öğrenin."
+    },
+    {
+      "title": "Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay",
+      "summary": "Home side broke the game open with some unique corner routines, but a goalkeeping error ruined the planThere was an odd interlude at Stamford Bridge with 76 minutes gone and the score still 0-0, one of those moments where suddenly your brain seems to be on inside out, like trying to walk the wrong w",
+      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-austin-macphee-mike-penders-roberto-de-zerbi",
+      "image_url": null,
+      "published": "2026-10-24T20:59:57",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:22:06.608680",
+      "priority_score": 63,
+      "categories": [
+        "breaking_news",
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-10-25T10:25:15.450125",
+      "title_tr": "Chelsea'nin kodlamasındaki aksaklık Alonso'ya mal olurken, yeniden dirilen Spurs tüm sistemleri devre dışı bırakıyor | Barney Ronay",
+      "summary_tr": "Ev sahibi takım benzersiz korner hareketleri ile maçın açılışını yaptı ancak kalecilik hatası planı mahvetti. Stamford Bridge'de 76. dakika bitmesine rağmen skor hala 0-0 olan tuhaf bir ara devre vardı; öyle anlardan biri ki aniden beyniniz ters yöne dönüyor, sanki yanlış yöne gitmeye çalışıyormuş gibi."
+    },
+    {
+      "title": "Batrakov için İngiliz devleri devrede!",
+      "summary": "Yaz transfer döneminde 25 milyon euro karşılığında Lokomotif Moskova'dan transfer edilen Aleksey Batrakov, Galatasaray formasıyla son çıktığı maçlarda kendini göstermeye başladı. Özellikle UEFA Şampiyonlar Ligi'nde oynanan Barcelona ve Lille karşılaşmalarında rakip fileleri havalandıran Rus futbolcu",
+      "url": "https://www.haberturk.com/spor/foto/barcelona-ve-lille-maclariyla-yildizi-parladi-aleksey-batrakor-icin-liverpool-ve-arsenal-devreye-3922361",
+      "image_url": "https://im.haberturk.com/l/2026/10/25/ver1792909464/3922361/jpg/1920x1080",
+      "published": "2026-10-25T07:46:48",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:23:26.639548",
+      "priority_score": 63,
+      "categories": [
+        "transfers",
+        "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.870653",
-      "title_tr": "Transferde dev derbi: Galatasaray'ın gözdesine Beşiktaş da talip",
-      "summary_tr": "Galatasaray'ın bir süredir yakından takip ettiği genç yıldız adayı için Beşiktaş'ın da devreye girdiği belirtildi. Siyah-beyazlıların CSKA Moskova ile masaya oturmaya hazırlandığı belirtilirken, genç oyuncu için talep edilen bonservis bedeli dikkat çekiyor."
+      "processed_at": "2026-10-25T10:25:15.614236",
+      "title_tr": "Batrakov için İngiliz devleri devrede!",
+      "summary_tr": "Yaz transfer döneminde 25 milyon euro karşılığında Lokomotif Moskova'dan transfer edilen Aleksey Batrakov, Galatasaray formasıyla son çıktığı maçlarda kendini göstermeye başladı. Özellikle UEFA Şampiyonlar Ligi'nde oynanan Barcelona ve Lille karşılaşmalarında rakip fileleri havalandıran Rus futbolcu"
     },
     {
-      "title": "“Milli Takım’a alınsın” denilmişti! Avrupa’da şov yaptı",
-      "summary": "Aylar önce A Milli Takım’a kazandırılması gündeme gelen golcü futbolcu, Almanya'da çıktığı karşılaşmada attığı iki golle yeniden dikkatleri üzerine çekti. Dev transfer sonrası performansını yukarı taşıyan golcünün son gösterisi eski tartışmayı yeniden başlattı.",
-      "url": "https://www.yenisafak.com/galeri/spor/milli-takima-alinsin-denilmisti-avrupada-sov-yapti-4866990",
+      "title": "Eski futbolcular dev derbiyi değerlendirdi!",
+      "summary": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park Stadyumu'nda karşı karşıya gelecek. Dev derbi öncesi eski futbolcular HT Spor'a özel açıklamalarda bulundu.",
+      "url": "https://www.haberturk.com/spor/eski-futbolcular-galatasaray-fenerbahce-derbisini-ht-spor-a-degerlendirdi-3922413",
+      "image_url": "https://im.haberturk.com/l/2026/10/25/ver1792922718/3922413/jpg/1920x1080",
+      "published": "2026-10-25T10:05:20",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:23:26.639117",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-25T10:25:15.591400",
+      "title_tr": "Eski futbolcular dev derbiyi değerlendirdi!",
+      "summary_tr": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park Stadyumu'nda karşı karşıya gelecek. Dev derbi öncesi eski futbolcular HT Spor'a özel açıklamalarda bulundu."
+    },
+    {
+      "title": "Saviolo, Rizespor maçında kadroda olabilir",
+      "summary": "Trabzonspor'da Hearts maçının son bölümünde bileğinden sakatlanarak oyundan ayrılan Noah Saviolo için yapılan MR incelemesi rahatlatıcı sonuç verdi. Kontrollerde bağ ya da dokularda ciddi bir hasara rastlanmazken yalnızca ödem tespit edildi.",
+      "url": "https://www.cnnturk.com/spor/futbol/saviolo-rizespor-macinda-kadroda-olabilir-3484163",
       "image_url": null,
-      "published": "2026-10-24T17:24:04",
+      "published": "2026-10-25T12:09:36",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:04.773804",
+      "priority_score": 51,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-10-25T10:25:15.911770",
+      "title_tr": "Saviolo, Rizespor maçında kadroda olabilir",
+      "summary_tr": "Trabzonspor'da Hearts maçının son bölümünde bileğinden sakatlanarak oyundan ayrılan Noah Saviolo için yapılan MR incelemesi rahatlatıcı sonuç verdi. Kontrollerde bağ ya da dokularda ciddi bir hasara rastlanmazken yalnızca ödem tespit edildi."
+    },
+    {
+      "title": "Dursun Özbek 18'inci, Aziz Yıldırım 54'üncü kıtalararası derbi heyecanını yaşayacak",
+      "summary": "Trendyol Süper Lig'in 9. haftasında 26 Ekim Pazartesi günü oynanacak Galatasaray-Fenerbahçe mücadelesiyle sarı-kırmızılı kulübün başkanı Dursun Özbek 18. Fenerbahçe derbisi, sarı-lacivertli kulübün başkanı Aziz Yıldırım ise 54. Galatasaray derbisi heyecanını yaşayacak.",
+      "url": "https://www.cnnturk.com/spor/futbol/dursun-ozbek-18inci-aziz-yildirim-54uncu-kitalararasi-derbi-heyecanini-yasayacak-3484148",
+      "image_url": null,
+      "published": "2026-10-25T11:04:55",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:04.774198",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-25T10:25:15.932654",
+      "title_tr": "Dursun Özbek 18'inci, Aziz Yıldırım 54'üncü kıtalararası derbi heyecanını yaşayacak",
+      "summary_tr": "Trendyol Süper Lig'in 9. haftasında 26 Ekim Pazartesi günü oynanacak Galatasaray-Fenerbahçe mücadelesiyle sarı-kırmızılı kulübün başkanı Dursun Özbek 18. Fenerbahçe derbisi, sarı-lacivertli kulübün başkanı Aziz Yıldırım ise 54. Galatasaray derbisi heyecanını yaşayacak."
+    },
+    {
+      "title": "Real Madrid'e El Clasico öncesi büyük şok! Kadrodan çıkarıldı",
+      "summary": "İspanya La Liga'da gözler El Clasico'ya çevrilmişken Real Madrid'e şok bir haber geldi. Yıldız isim, Barcelona maçı kadrosundan çıkarıldı.",
+      "url": "https://www.yenisafak.com/spor/real-madride-el-clasico-oncesi-buyuk-sok-kadrodan-cikarildi-4867123",
+      "image_url": null,
+      "published": "2026-10-25T10:12:57",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:32:00.376639",
-      "priority_score": 67,
+      "fetched_at": "2026-10-25T10:24:32.827067",
+      "priority_score": 47,
       "categories": [
-        "transfers",
-        "match_results"
+        "la_liga"
       ],
-      "processed_at": "2026-10-25T05:32:40.819992",
-      "title_tr": "“Milli Takım’a alınsın” denilmişti! Avrupa’da şov yaptı",
-      "summary_tr": "Aylar önce A Milli Takım’a kazandırılması gündeme gelen golcü futbolcu, Almanya'da çıktığı karşılaşmada attığı iki golle yeniden dikkatleri üzerine çekti. Dev transfer sonrası performansını yukarı taşıyan golcünün son gösterisi eski tartışmayı yeniden başlattı."
+      "processed_at": "2026-10-25T10:25:16.316504",
+      "title_tr": "Real Madrid'e El Clasico öncesi büyük şok! Kadrodan çıkarıldı",
+      "summary_tr": "İspanya La Liga'da gözler El Clasico'ya çevrilmişken Real Madrid'e şok bir haber geldi. Yıldız isim, Barcelona maçı kadrosundan çıkarıldı."
+    },
+    {
+      "title": "Dursun Özbek derbi primini belirledi! Lille maçının iki katından fazlasını verecek",
+      "summary": "Galatasaray, Süper Lig'in 9. haftasında Fenerbahçe ile karşılaşacak. Derbi maçı öncesi sarı-kırmızılarda başkan Dursun Özbek, galibiyet primini belirledi.",
+      "url": "https://www.yenisafak.com/spor/dursun-ozbek-derbi-primini-belirledi-lille-macinin-iki-katindan-fazlasini-verecek-4867116",
+      "image_url": null,
+      "published": "2026-10-25T09:39:04",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:32.827293",
+      "priority_score": 47,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-25T10:25:16.335504",
+      "title_tr": "Dursun Özbek derbi primini belirledi! Lille maçının iki katından fazlasını verecek",
+      "summary_tr": "Galatasaray, Süper Lig'in 9. haftasında Fenerbahçe ile karşılaşacak. Derbi maçı öncesi sarı-kırmızılarda başkan Dursun Özbek, galibiyet primini belirledi."
+    },
+    {
+      "title": "Yoshida takes first LPGA title at BMW Ladies Championship",
+      "summary": "Yuri Yoshida won the BMW Ladies Championship holding off Haeran Ryu and Hye-Jin Choi in a close finish at Pine Beach Golf Links on Sunday.",
+      "url": "https://www.skysports.com/golf/news/12040/13603467/yuri-yoshida-takes-first-lpga-title-at-bmw-ladies-championship-holding-off-haeran-ryu-and-hye-jin-choi-in-tight-finish",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-lpga-yuri-yoshida_7386432.jpg?20261025083248",
+      "published": "2026-10-25T08:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:21:45.268654",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-25T10:25:15.431502",
+      "title_tr": "Yoshida, BMW Bayanlar Şampiyonası'nda ilk LPGA unvanını aldı",
+      "summary_tr": "Yuri Yoshida, Pazar günü Pine Beach Golf Links'te Haeran Ryu ve Hye-Jin Choi'yi geride bırakarak BMW Bayanlar Şampiyonasını kazandı."
+    },
+    {
+      "title": "Maximilian Beier breaks Eintracht Frankfurt resistance as Borussia Dortmund return to winning ways",
+      "summary": "Maximilian Beier scored a superb late winner as Borussia Dortmund recovered from back-to-back Bundesliga draws to beat Eintracht Frankfurt and climb to the top of the table.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-eintracht-frankfurt-match-report-highlights-matchday-7-beier-guirassy-39714",
+      "image_url": null,
+      "published": "2026-10-24T18:22:50",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:22:33.499470",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-25T10:25:15.516058",
+      "title_tr": "Borussia Dortmund kazanma yollarına dönerken Maximilian Beier Eintracht Frankfurt direnişini kırdı",
+      "summary_tr": "Maximilian Beier, Borussia Dortmund'un arka arkaya Bundesliga beraberliklerinden sonra Eintracht Frankfurt'u yenerek puan tablosunun tepesine tırmanmasıyla muhteşem bir son galibiyet elde etti."
     },
     {
       "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
@@ -135,13 +293,13 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:24.024831",
+      "fetched_at": "2026-10-25T10:21:31.987563",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.022073",
+      "processed_at": "2026-10-25T10:25:15.390146",
       "title_tr": "Penders hatası ve Palmer kırmızı görüyor - Chelsea - Spurs için oyuncu derecelendirmeleri",
       "summary_tr": "Kaleci Mike Penders, Premier Lig'de zorlu bir ilk başlangıcına göğüs gerdi ve Spurs'un Chelsea'yi 2-0 yendiği maçta kendi kalesine gol attı. Biz ve sizin oyuncuları şu şekilde derecelendirdik."
     },
@@ -155,155 +313,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:53.139913",
+      "fetched_at": "2026-10-25T10:22:06.609966",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.067365",
+      "processed_at": "2026-10-25T10:25:15.466891",
       "title_tr": "Clinical Arsenal, Konsa ve Gabriel sayesinde Everton'a karşı değerli bir galibiyet elde etti",
       "summary_tr": "David Moyes için bekleyiş sürüyor. 63 yaşındaki İskoç, Everton'un menajeri olarak bu stadyuma yaptığı 14. ziyaretinde şansının değişeceğini umuyor olmalıydı. Ancak Ezri Konsa Arsenal adına ilk golünü attığı andan itibaren Premier Lig şampiyonu gol atma yeteneğini yeniden keşfetti."
-    },
-    {
-      "title": "‘Night and day different’ – why did Ferrari's pace evaporate again?",
-      "summary": "Ferrari's wait for a first Grand Prix pole position since August 2025 continued in the United States on Saturday as Charles Leclerc and Lewis Hamilton qualified outside the top three in a session the team had appeared favourites for.",
-      "url": "https://www.skysports.com/f1/news/12040/13603156/lewis-hamilton-charles-leclerc-reasons-why-ferrari-went-from-us-gp-pole-favourites-to-behind-kimi-antonelli-red-bulls-on-grid",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-charles-leclerc-lewis-hamilton_7386334.jpg?20261025014525",
-      "published": "2026-10-24T23:50:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:29:32.217557",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-25T05:32:40.029605",
-      "title_tr": "'Gece ve gündüz farklı' - Ferrari'nin hızı neden tekrar buharlaştı?",
-      "summary_tr": "Ferrari'nin Ağustos 2025'ten bu yana ilk Grand Prix pol pozisyonu için beklemesi Cumartesi günü Amerika Birleşik Devletleri'nde devam etti ve Charles Leclerc ve Lewis Hamilton, takımın favori olarak göründüğü bir seansta ilk üçün dışında kaldı."
-    },
-    {
-      "title": "İsmail Kartal derbinin ilk 11'ini netleştiriyor: 3 mevkide kararsız!",
-      "summary": "Süper Lig'in 9. haftasında deplasmanda Galatasaray ile karşı karşıya gelecek Fenerbahçe'de ilk 11 büyük oranda netleşirken, sarı-lacivertlilerin teknik direktörü 3 mevkide kararsızlık yaşıyor. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-derbinin-ilk-11ini-netlestiriyor-3-mevkide-kararsiz-43354057",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6add8a50aa7d7bef197629a1.jpg",
-      "published": "2026-10-25T04:49:49",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:31:17.871096",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-25T05:32:40.264214",
-      "title_tr": "İsmail Kartal derbinin ilk 11'ini netleştiriyor: 3 mevkide kararsız!",
-      "summary_tr": "Süper Lig'in 9. haftasında deplasmanda Galatasaray ile karşı karşıya gelecek Fenerbahçe'de ilk 11 büyük oranda netleşirken, sarı-lacivertlilerin teknik direktörü 3 mevkide kararsızlık yaşıyor. İşte detaylar..."
-    },
-    {
-      "title": "Okan Buruk'tan derbi öncesi takıma mesaj! Galatasaray'ın Fenerbahçe maçı zafer planı ortaya çıktı",
-      "summary": "Galatasaray, Süper Lig'in 9. haftasında ezeli rakibi Fenerbahçe'yi sahasında konuk edecek. Mücadele öncesi sarı-kırmızılı ekibin teknik patronu Okan Buruk, takıma özel bir moral konuşması yaptı. Öte yandan deneyimli hocanın zafer planı da netleşti. İşte haberin detayları...",
-      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-derbi-oncesi-takima-mesaj-galatasarayin-fenerbahce-maci-zafer-plani-ortaya-cikti-43354059",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6add874caa7d7bef19762989.jpg",
-      "published": "2026-10-25T04:38:04",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:31:17.871172",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-10-25T05:32:40.274760",
-      "title_tr": "Okan Buruk'tan derbi öncesi takıma mesaj! Galatasaray'ın Fenerbahçe maçı zafer planı ortaya çıktı",
-      "summary_tr": "Galatasaray, Süper Lig'in 9. haftasında ezeli rakibi Fenerbahçe'yi sahasında konuk edecek. Mücadele öncesi sarı-kırmızılı ekibin teknik patronu Okan Buruk, takıma özel bir moral konuşması yaptı. Öte yandan deneyimli hocanın zafer planı da netleşti. İşte haberin detayları..."
-    },
-    {
-      "title": "Maximilian Beier breaks Eintracht Frankfurt resistance as Borussia Dortmund return to winning ways",
-      "summary": "Maximilian Beier scored a superb late winner as Borussia Dortmund recovered from back-to-back Bundesliga draws to beat Eintracht Frankfurt and climb to the top of the table.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-eintracht-frankfurt-match-report-highlights-matchday-7-beier-guirassy-39714",
-      "image_url": null,
-      "published": "2026-10-24T18:22:50",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.973256",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-25T05:32:40.125688",
-      "title_tr": "Borussia Dortmund kazanma yollarına dönerken Maximilian Beier Eintracht Frankfurt direnişini kırdı",
-      "summary_tr": "Maximilian Beier, Borussia Dortmund'un arka arkaya Bundesliga beraberliklerinden sonra Eintracht Frankfurt'u yenerek puan tablosunun tepesine tırmanmasıyla muhteşem bir son galibiyet elde etti."
-    },
-    {
-      "title": "Every Bundesliga Man of the Match winner in 2026/27",
-      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
-      "image_url": null,
-      "published": "2026-10-24T13:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.979460",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-25T05:32:40.167701",
-      "title_tr": "2026/27 sezonunda Bundesliga'daki tüm Maçın Adamları kazananı",
-      "summary_tr": "2026/27 sezonundaki her Bundesliga fikstüründe taraftarlar tarafından oylanan resmi bir Adamın Adamı bulunuyor. Sezon boyunca adidas sponsorluğundaki ödülü hangi oyuncuların aldığını buradan öğrenin."
-    },
-    {
-      "title": "Batrakov, Osimhen'in yaptığı jesti açıkladı!",
-      "summary": "Galatasaray'a bu yaz transfer döneminde imza atan Aleksey Batrakov, verdiği bir röportajda Victor Osimhen hakkında dikkat çeken bir itirafta bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/batrakov-osimhenin-yaptigi-jesti-acikladi-43353795",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6adcd39b957c6a1e2fd1a207.jpg",
-      "published": "2026-10-24T15:52:06",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:31:17.871696",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-25T05:32:40.351555",
-      "title_tr": "Batrakov, Osimhen'in yaptığı jesti açıkladı!",
-      "summary_tr": "Galatasaray'a bu yaz transfer döneminde imza atan Aleksey Batrakov, verdiği bir röportajda Victor Osimhen hakkında dikkat çeken bir itirafta bulundu."
-    },
-    {
-      "title": "Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay",
-      "summary": "Home side broke the game open with some unique corner routines, but a goalkeeping error ruined the planThere was an odd interlude at Stamford Bridge with 76 minutes gone and the score still 0-0, one of those moments where suddenly your brain seems to be on inside out, like trying to walk the wrong w",
-      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-austin-macphee-mike-penders-roberto-de-zerbi",
-      "image_url": null,
-      "published": "2026-10-24T20:59:57",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:29:53.142287",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-25T05:32:40.104955",
-      "title_tr": "Chelsea'nin kodlamasındaki aksaklık Alonso'ya mal olurken, yeniden dirilen Spurs tüm sistemleri devre dışı bırakıyor | Barney Ronay",
-      "summary_tr": "Ev sahibi takım benzersiz korner hareketleri ile maçın açılışını yaptı ancak kalecilik hatası planı mahvetti. Stamford Bridge'de 76. dakika bitmesine rağmen skor hala 0-0 olan tuhaf bir ara devre vardı; öyle anlardan biri ki aniden beyniniz ters yöne dönüyor, sanki yanlış yöne gitmeye çalışıyormuş gibi."
     },
     {
       "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
@@ -315,54 +333,34 @@
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:32.217703",
+      "fetched_at": "2026-10-25T10:21:45.268300",
       "priority_score": 61,
       "categories": [
         "transfers"
       ],
-      "processed_at": "2026-10-25T05:32:40.036151",
+      "processed_at": "2026-10-25T10:25:15.415829",
       "title_tr": "Belgeler: Getafe'nin kanat oyuncusu şok anlaşması teklif etmesiyle Sancho İspanya'ya gidebilir",
       "summary_tr": "Pazar günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
     },
     {
-      "title": "Galatasaray öne geçerse kaybetmiyor!",
-      "summary": "İki ezeli rakibin bu sezonki ilk randevusu öncesi skor üstünlüğünü ele almak büyük önem taşıyor. Galatasaray bu sezon Süper Lig’de geriye düştüğü maçlarda hanesine 4 puan yazdırmayı başarırken, öne geçince hiç yenilmedi. Fenerbahçe ise öne geçtiği maçlarda iki kez mağlup oldu, geriye düştüklerini is",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-one-gecerse-kaybetmiyor-43354027",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6add28d82818a025f780cfdf.jpg",
-      "published": "2026-10-25T04:00:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
+      "title": "Avrupa sonrası Beşiktaş'ı bekleyen tehlike!",
+      "summary": "Trendyol Süper Lig'in 9. haftasında Beşiktaş, sahasında Başakşehir'i ağırlayacak. Son oynanan Trabzonspor'a mağlup olan ve Crystal Palace ile berabere kalan siyah-beyazlılar, Avrupa dönüşü galibiyet alarak moral depolamak istiyor. Avrupa maçlarının ardından ligde kayıp yaşayan Beşiktaş, kötü istatis",
+      "url": "https://www.haberturk.com/spor/besiktas-avrupa-maclarindan-sonra-yasadigi-puan-kayiplarini-basaksehir-macinda-yasamak-istemiyor-3922373",
+      "image_url": "https://im.haberturk.com/l/2026/10/25/ver1792911057/3922373/jpg/1920x1080",
+      "published": "2026-10-25T06:53:34",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:31:17.871320",
-      "priority_score": 56,
+      "fetched_at": "2026-10-25T10:23:26.639783",
+      "priority_score": 58,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.292452",
-      "title_tr": "Galatasaray öne geçerse kaybetmiyor!",
-      "summary_tr": "İki ezeli rakibin bu sezonki ilk randevusu öncesi skor üstünlüğünü ele almak büyük önem taşıyor. Galatasaray bu sezon Süper Lig’de geriye düştüğü maçlarda hanesine 4 puan yazdırmayı başarırken, öne geçince hiç yenilmedi. Fenerbahçe ise öne geçtiği maçlarda iki kez mağlup oldu, geriye düştüklerini is"
-    },
-    {
-      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-      "summary": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-24T15:05:45",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:29:24.024715",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-25T05:32:40.021009",
-      "title_tr": "Man City'nin sızdıran savunması Donnarumma ve Guehi mücadelelerini öne çıkarıyor",
-      "summary_tr": "Manchester City'nin Premier Lig sezonuna %100 galibiyetle başlaması, Aston Villa karşısında aniden sona eriyor ve Enzo Maresca'nın çözmesi gereken bariz savunma sorunları kalıyor."
+      "processed_at": "2026-10-25T10:25:15.630519",
+      "title_tr": "Avrupa sonrası Beşiktaş'ı bekleyen tehlike!",
+      "summary_tr": "Trendyol Süper Lig'in 9. haftasında Beşiktaş, sahasında Başakşehir'i ağırlayacak. Son oynanan Trabzonspor'a mağlup olan ve Crystal Palace ile berabere kalan siyah-beyazlılar, Avrupa dönüşü galibiyet alarak moral depolamak istiyor. Avrupa maçlarının ardından ligde kayıp yaşayan Beşiktaş, kötü istatis"
     },
     {
       "title": "Vedat Muriç'ten ses getirecek Osimhen sözleri! \"İyi bir oyuncu ama...\"",
@@ -374,16 +372,35 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:31:46.109687",
+      "fetched_at": "2026-10-25T10:24:17.337556",
       "priority_score": 54,
       "categories": [
         "match_results",
         "breaking_news",
         "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.635270",
+      "processed_at": "2026-10-25T10:25:16.227746",
       "title_tr": "Vedat Muriç'ten ses getirecek Osimhen sözleri! \"İyi bir oyuncu ama...\"",
       "summary_tr": "Son dakika Fenerbahçe haberleri: Fenerbahçe'nin Kosovalı golcüsü Vedat Muriç, pazartesi günü oynayacakları Galatasaray derbisi öncesi dikkat çeken açıklamalarda bulundu. Tecrübeli golcü, sarı-kırmızılıların...Devamı için tıklayınız"
+    },
+    {
+      "title": "Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews",
+      "summary": "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hallWhen football’s dignitaries assemble on Monday at the London Palladium for the Ballon d’Or ceremony it will be a far cry from the first awards 70 years ago. That was held in the slightly ",
+      "url": "https://www.theguardian.com/football/2026/oct/25/ballon-dor-ceremony-returns-to-england-in-nod-to-revolutionary-stanley-matthews",
+      "image_url": null,
+      "published": "2026-10-25T08:00:58",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:22:06.609068",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-25T10:25:15.455429",
+      "title_tr": "Ballon d'Or töreni 'devrimci' Stanley Matthews'a selam olarak İngiltere'ye dönüyor",
+      "summary_tr": "Matthews'un ailesi, Blackpool belediye binasındaki ilk ödülün üzerinden 70 yıl sonra Londra Palladium'un ev sahipliği yapması nedeniyle 'çok heyecanlı' Futbolun ileri gelenleri, Pazartesi günü Ballon d'Or töreni için Londra Palladium'da bir araya geldiğinde, bu, 70 yıl önceki ilk ödüllerden çok farklı olacak. Bu biraz gerçekleştirildi"
     },
     {
       "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
@@ -395,13 +412,13 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:53.140760",
+      "fetched_at": "2026-10-25T10:22:06.610801",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.079702",
+      "processed_at": "2026-10-25T10:25:15.478051",
       "title_tr": "Aston Villa City'nin kusursuz başlangıcını bitirirken Maresca, Guéhi'nin gaflarından 'endişelenmiyor'",
       "summary_tr": "Defans oyuncusu son iki lig maçında üç gole mal oldu Emery, 'harika' maç kazanan Jackson'ı övdü Manchester City yöneticisi, Marc Guéhi'nin son iki Premier Lig maçında kendi tarafına üç gol atmasına rağmen Marc Guéhi'nin formundan endişe duymadığını söyledi."
     },
@@ -415,75 +432,35 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:31:05.274784",
+      "fetched_at": "2026-10-25T10:23:26.640202",
       "priority_score": 53,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-25T05:32:40.206751",
+      "processed_at": "2026-10-25T10:25:15.656881",
       "title_tr": "Fatih Karagümrük üç maç sonra kazandı!",
       "summary_tr": "Trendyol 1. Lig'in 12. haftasında Fatih Karagümrük, deplasmanda Sarıyer'i 2-0 mağlup etti. Ahmed Traore ve Cenk Tosun'un (p) golleriyle ligdeki üç maçlık galibiyet hasretini bitiren Fatih Karagümrük, puanını 16'ya çıkardı. Sarıyer ise 16 puanda kaldı."
     },
     {
-      "title": "Arsenal, zirveyle puanını eşitledi!",
-      "summary": "İngiltere Premier Ligi'nin 8. haftasında Arsenal, evinde Everton'u 2-0 mağlup etti. Ezri Konsa ile Gabriel'in golleriyle üst üste 3. galibiyetini alan ve lider Manchester City'yle puanını eşitleyen Arsenal, haftayı 21 puanla tamamladı. Everton ise 10 puanda kaldı.",
-      "url": "https://www.haberturk.com/spor/arsenal-everton-mac-sonucu-iste-arsenal-everton-maci-ozeti-ve-golleri-ingiltere-premier-lig-3922313",
-      "image_url": "https://im.haberturk.com/l/2026/10/24/ver1792860051/3922313/jpg/1920x1080",
-      "published": "2026-10-24T16:41:23",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:31:05.274980",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-25T05:32:40.224176",
-      "title_tr": "Arsenal, zirveyle puanını eşitledi!",
-      "summary_tr": "İngiltere Premier Ligi'nin 8. haftasında Arsenal, evinde Everton'u 2-0 mağlup etti. Ezri Konsa ile Gabriel'in golleriyle üst üste 3. galibiyetini alan ve lider Manchester City'yle puanını eşitleyen Arsenal, haftayı 21 puanla tamamladı. Everton ise 10 puanda kaldı."
-    },
-    {
-      "title": "Beşiktaş BOA ilk kez mağlup!",
-      "summary": "Halkbank Kadınlar Basketbol Süper Ligi'nin 5. haftasında Beşiktaş BOA, konuk olduğu BOTAŞ'a 70-66'lık skorla yenildi. Başkent ekibine kaybeden Siyah Beyazlılar, bu sezon ligdeki ilk mağlubiyetini aldı.",
-      "url": "https://www.haberturk.com/spor/botas-70-besiktas-boa-66-mac-sonucu-3922307",
-      "image_url": "https://im.haberturk.com/l/2026/10/24/ver1792857232/3922307/jpg/1920x1080",
-      "published": "2026-10-24T15:54:46",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:31:05.275067",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-25T05:32:40.231799",
-      "title_tr": "Beşiktaş BOA ilk kez mağlup!",
-      "summary_tr": "Halkbank Kadınlar Basketbol Süper Ligi'nin 5. haftasında Beşiktaş BOA, konuk olduğu BOTAŞ'a 70-66'lık skorla yenildi. Başkent ekibine kaybeden Siyah Beyazlılar, bu sezon ligdeki ilk mağlubiyetini aldı."
-    },
-    {
-      "title": "Batrakov'un sözleşmesindeki o madde ortaya çıktı! Serbest kalma bedeli netleşti",
-      "summary": "Galatasaray'da son dönemlerin gözde ismi Aleksey Batrakov'un sözleşmesinde yer alan serbest kalma maddesi ortaya çıktı. İşte detaylar...",
-      "url": "https://www.yenisafak.com/galeri/spor/batrakovun-serbest-kalma-bedeli-ne-kadar-4866967",
+      "title": "Galatasaraylı futbolcudan şaşırtan seri: 73 maçta gol atamadı hedefi Fenerbahçe",
+      "summary": "Galatasaray, Süper Lig'in 9. haftasında pazartesi günü Fenerbahçe ile derbi maçında karşı karşıya gelecek. Sarı-kırmızılılarda 73 maçtır gol atamayan tecrübeli isim, gözünü bu karşılaşmaya çevirdi.",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasarayli-futbolcudan-sasirtan-seri-73-macta-gol-atamadi-hedefi-fenerbahce-4867110",
       "image_url": null,
-      "published": "2026-10-24T13:24:00",
+      "published": "2026-10-25T08:57:23",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:32:00.377622",
+      "fetched_at": "2026-10-25T10:24:32.827949",
       "priority_score": 52,
       "categories": [
-        "transfers",
+        "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.959176",
-      "title_tr": "Batrakov'un sözleşmesindeki o madde ortaya çıktı! Serbest kalma bedeli netleşti",
-      "summary_tr": "Galatasaray'da son dönemlerin gözde ismi Aleksey Batrakov'un sözleşmesinde yer alan serbest kalma maddesi ortaya çıktı. İşte detaylar..."
+      "processed_at": "2026-10-25T10:25:16.393364",
+      "title_tr": "Galatasaraylı futbolcudan şaşırtan seri: 73 maçta gol atamadı hedefi Fenerbahçe",
+      "summary_tr": "Galatasaray, Süper Lig'in 9. haftasında pazartesi günü Fenerbahçe ile derbi maçında karşı karşıya gelecek. Sarı-kırmızılılarda 73 maçtır gol atamayan tecrübeli isim, gözünü bu karşılaşmaya çevirdi."
     },
     {
       "title": "RB Leipzig deliver second-half masterclass to defeat Elversberg and extend home record",
@@ -495,112 +472,133 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.977446",
+      "fetched_at": "2026-10-25T10:22:33.506191",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-10-25T05:32:40.163394",
+      "processed_at": "2026-10-25T10:25:15.562467",
       "title_tr": "RB Leipzig, Elversberg'i yenmek ve iç saha rekorunu genişletmek için ikinci yarıda ustalık sınıfı verdi",
       "summary_tr": "Martín Demichelis'in ekibi, Red Bull Arena'da Elversberg'e karşı Bundesliga galibiyet serisini sürdürürken RB Leipzig ikinci yarıda dört gol attı."
     },
     {
-      "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
-      "summary": "Oscar Bobb’s first Premier League goal for Fulham earned a win against Coventry that lifted Álvaro Arbeloa’s side clear of the relegation zone.Bobb produced a fine bit of individual skill to score in the 80th minute, twisting his way into the area and bending a shot into the far corner. It was his s",
-      "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-10-24T16:11:49",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "title": "Galatasaray öne geçerse kaybetmiyor!",
+      "summary": "İki ezeli rakibin bu sezonki ilk randevusu öncesi skor üstünlüğünü ele almak büyük önem taşıyor. Galatasaray bu sezon Süper Lig’de geriye düştüğü maçlarda hanesine 4 puan yazdırmayı başarırken, öne geçince hiç yenilmedi. Fenerbahçe ise öne geçtiği maçlarda iki kez mağlup oldu, geriye düştüklerini is",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-one-gecerse-kaybetmiyor-43354027",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6add28d82818a025f780cfdf.jpg",
+      "published": "2026-10-25T04:00:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:29:53.140229",
-      "priority_score": 48,
+      "fetched_at": "2026-10-25T10:23:40.467488",
+      "priority_score": 51,
       "categories": [
-        "breaking_news",
-        "premier_league"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.071237",
-      "title_tr": "Fulham, Oscar Bobb'un geç gösterisinin Coventry'yi batırmasının ardından bırakma bölgesinden çıktı",
-      "summary_tr": "Oscar Bobb'ın Fulham adına Premier Lig'deki ilk golü, Coventry'ye karşı kazandığı galibiyetle Álvaro Arbeloa'nın takımını küme düşme bölgesinden uzaklaştırdı. Bobb, 80. dakikada gol atmak için iyi bir bireysel yetenek sergiledi, ceza sahasına doğru ilerledi ve şutu uzak köşeye doğru büktü. Bu onunkiydi"
+      "processed_at": "2026-10-25T10:25:15.796230",
+      "title_tr": "Galatasaray öne geçerse kaybetmiyor!",
+      "summary_tr": "İki ezeli rakibin bu sezonki ilk randevusu öncesi skor üstünlüğünü ele almak büyük önem taşıyor. Galatasaray bu sezon Süper Lig’de geriye düştüğü maçlarda hanesine 4 puan yazdırmayı başarırken, öne geçince hiç yenilmedi. Fenerbahçe ise öne geçtiği maçlarda iki kez mağlup oldu, geriye düştüklerini is"
     },
     {
-      "title": "Barcelona - Real Madrid Maç Kadrosu ve Muhtemel 11’ler",
-      "summary": "İspanya La Liga 10. haftasında Barcelona ve Real Madrid karşı karşıya geliyor. Bu akşam saat 23.00’de başlayacak karşılaşma S Sport ve S Sports Plus ekranlarından yayınlanacak. potify Camp Nou'da oynanacak dev mücadelede Real Madrid forması giyen Arda Güler ile Barcelona'nın genç yıldızı Lamine Yama",
-      "url": "https://www.yenisafak.com/galeri/spor/barcelona-real-madrid-ilk-11-barcelona-real-madrid-mac-kadrosu-belli-oldu-mu-arda-guler-oynayacak-mi-kimler-eksik-4867065",
+      "title": "Frikikten golünü attı, üstüne takla şov yaptı!",
+      "summary": "Amatör futbolcu Osman Ismak'ın attığı golün ardından yaptığı \"11 taklalı gol sevinci\" sosyal medyada büyük ilgi gördü.",
+      "url": "https://www.cnnturk.com/spor/futbol/frikikten-golunu-atti-ustune-takla-sov-yapti-3484236",
       "image_url": null,
-      "published": "2026-10-25T05:00:56",
+      "published": "2026-10-25T13:13:19",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:04.773517",
+      "priority_score": 51,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-10-25T10:25:15.903307",
+      "title_tr": "Frikikten golünü attı, üstüne takla şov yaptı!",
+      "summary_tr": "Amatör futbolcu Osman Ismak'ın attığı golün ardından yaptığı \"11 taklalı gol sevinci\" sosyal medyada büyük ilgi gördü."
+    },
+    {
+      "title": "Tarihi derbide Fenerbahçe üstünlüğü",
+      "summary": "Galatasaray ile Fenerbahçe yarın oynanacak derbiyle 407. kez rakip olacak. Ezeli rekabette sarı-lacivertlilerin 150'ye 131 üstünlüğü bulunuyor.",
+      "url": "https://www.cnnturk.com/spor/futbol/tarihi-derbide-fenerbahce-ustunlugu-3484147",
+      "image_url": null,
+      "published": "2026-10-25T10:58:38",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:04.774437",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-25T10:25:15.939676",
+      "title_tr": "Tarihi derbide Fenerbahçe üstünlüğü",
+      "summary_tr": "Galatasaray ile Fenerbahçe yarın oynanacak derbiyle 407. kez rakip olacak. Ezeli rekabette sarı-lacivertlilerin 150'ye 131 üstünlüğü bulunuyor."
+    },
+    {
+      "title": "Fenerbahçe’de derbi mesaisi: İsmail Kartal'ı ilk 11’de 3 kritik karar bekliyor",
+      "summary": "Süper Lig'de Galatasaray deplasmanına çıkacak olan Fenerbahçe’de teknik direktör İsmail Kartal, derbi kadrosunu şekillendirmeye devam ediyor. Sarı-lacivertlilerde birçok pozisyon netleşirken, forvet, 10 numara ve savunmanın solunda son karar henüz verilmedi.",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-derbi-mesaisi-ismail-kartalin-ilk-11de-3-kritik-karar-bekliyor-3484124",
+      "image_url": null,
+      "published": "2026-10-25T09:30:57",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-25T10:24:04.775317",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-25T10:25:15.988899",
+      "title_tr": "Fenerbahçe’de derbi mesaisi: İsmail Kartal'ı ilk 11’de 3 kritik karar bekliyor",
+      "summary_tr": "Süper Lig'de Galatasaray deplasmanına çıkacak olan Fenerbahçe’de teknik direktör İsmail Kartal, derbi kadrosunu şekillendirmeye devam ediyor. Sarı-lacivertlilerde birçok pozisyon netleşirken, forvet, 10 numara ve savunmanın solunda son karar henüz verilmedi."
+    },
+    {
+      "title": "Galatasaraylı yıldız yine antrenmanda yok: Okan Buruk düşünceli",
+      "summary": "Trendyol Süper Lig 9. haftasında Fenerbahçe'yi konuk edecek olan Galatasaray'da yıldız isim antrenmana çıkamadı. Salonda tedaviyle geçiren başarılı futbolcunun son durumuna bakılacak.",
+      "url": "https://www.yenisafak.com/spor/galatasarayli-yildiz-yine-antrenmanda-yok-okan-buruk-dusunceli-4867107",
+      "image_url": null,
+      "published": "2026-10-25T08:48:36",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:32:00.376187",
+      "fetched_at": "2026-10-25T10:24:32.828136",
       "priority_score": 47,
       "categories": [
-        "la_liga"
+        "injuries",
+        "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.785218",
-      "title_tr": "Barcelona - Real Madrid Maç Kadrosu ve Muhtemel 11’ler",
-      "summary_tr": "İspanya La Liga 10. haftasında Barcelona ve Real Madrid karşı karşıya geliyor. Bu akşam saat 23.00’de başlayacak karşılaşma S Sport ve S Sports Plus ekranlarından yayınlanacak. potify Camp Nou'da oynanacak dev mücadelede Real Madrid forması giyen Arda Güler ile Barcelona'nın genç yıldızı Lamine Yama"
+      "processed_at": "2026-10-25T10:25:16.409066",
+      "title_tr": "Galatasaraylı yıldız yine antrenmanda yok: Okan Buruk düşünceli",
+      "summary_tr": "Trendyol Süper Lig 9. haftasında Fenerbahçe'yi konuk edecek olan Galatasaray'da yıldız isim antrenmana çıkamadı. Salonda tedaviyle geçiren başarılı futbolcunun son durumuna bakılacak."
     },
     {
-      "title": "Werder Bremen's Niclas Füllkrug makes history with his brace against Mainz",
-      "summary": "Move over Harry Kane, it's Werder Bremen's Niclas Füllkrug leading the way at the top of the Bundesliga scoring chart after notching his seventh and eighth goals of the campaign against Mainz on Matchday 7.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-niclas-fullkrug-turning-back-time-39645",
+      "title": "Italiano acil istedi: Beşiktaş ocak ayında ilk ona gidecek",
+      "summary": "Süper Lig'de bu sezon mutlak şampiyonluk hedefleyen Beşiktaş'ta düğmeye basıldı. Italiano'nun isteği üzerine ocak ayında ilk o isim için nabız yoklanacak.",
+      "url": "https://www.yenisafak.com/galeri/spor/italiano-acil-istedi-besiktas-ocak-ayinda-ilk-ona-gidecek-4867097",
       "image_url": null,
-      "published": "2026-10-24T16:51:11",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
+      "published": "2026-10-25T07:44:47",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.973745",
-      "priority_score": 46,
+      "fetched_at": "2026-10-25T10:24:32.829104",
+      "priority_score": 47,
       "categories": [
-        "match_results",
-        "bundesliga"
+        "breaking_news",
+        "super_lig"
       ],
-      "processed_at": "2026-10-25T05:32:40.130992",
-      "title_tr": "Werder Bremen'li Niclas Füllkrug, Mainz karşısında yaptığı hazırlıkla tarih yazdı",
-      "summary_tr": "Harry Kane'i bir kenara bırakın, Werder Bremenli Niclas Füllkrug, 7. Maç gününde Mainz'e karşı sezondaki yedinci ve sekizinci gollerini attıktan sonra Bundesliga skor tablosunun zirvesinde yer alıyor."
-    },
-    {
-      "title": "Niclas Füllkrug's brace sinks Mainz as Werder Bremen edge a five-goal thriller",
-      "summary": "Niclas Füllkrug and Werder Bremen kept up their good form to beat Mainz away from home, with the experienced striker's first-half brace helping them secure a 3-2 win at the MEWA Arena.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/mainz-werder-bremen-match-report-highlights-matchday-7-39706",
-      "image_url": null,
-      "published": "2026-10-24T15:32:22",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.975332",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-25T05:32:40.146101",
-      "title_tr": "Werder Bremen beş gollü gerilim maçında Niclas Füllkrug'un desteğiyle Mainz'ı mağlup etti",
-      "summary_tr": "Niclas Füllkrug ve Werder Bremen, Mainz'ı deplasmanda yenmek için iyi formlarını korurken, deneyimli forvetin ilk yarıdaki desteği MEWA Arena'da 3-2'lik galibiyet elde etmelerine yardımcı oldu."
-    },
-    {
-      "title": "Ten-man Augsburg held by ten-man Union Berlin in frantic draw on Matchday 7",
-      "summary": "With the red card shown to players on both sides, Augsburg and Union Berlin played out a captivating 1-1 draw on Matchday 7, which saw Mauro Lustrinelli's side pick up their first points of the campaign away from home.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/augsburg-union-berlin-match-report-highlights-matchday-7-massengo-haberer-39708",
-      "image_url": null,
-      "published": "2026-10-24T15:31:33",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-25T05:30:18.976214",
-      "priority_score": 46,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-25T05:32:40.151859",
-      "title_tr": "On kişilik Augsburg, 7. Maç günü çılgınca bir kura çekiminde on kişilik Union Berlin tarafından mağlup edildi",
-      "summary_tr": "Her iki tarafın oyuncularına da kırmızı kart gösterilen Augsburg ve Union Berlin, 7. Maç günü 1-1'lik büyüleyici bir beraberlikle karşılaştı ve Mauro Lustrinelli'nin takımı deplasmanda sezondaki ilk puanlarını aldı."
+      "processed_at": "2026-10-25T10:25:16.495883",
+      "title_tr": "Italiano acil istedi: Beşiktaş ocak ayında ilk ona gidecek",
+      "summary_tr": "Süper Lig'de bu sezon mutlak şampiyonluk hedefleyen Beşiktaş'ta düğmeye basıldı. Italiano'nun isteği üzerine ocak ayında ilk o isim için nabız yoklanacak."
     }
   ]
 }
