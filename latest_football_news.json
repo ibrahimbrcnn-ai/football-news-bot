@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T16:56:52.333341",
+  "timestamp": "2026-10-30T21:18:34.492381",
   "total_items": 30,
   "news": [
     {
@@ -12,15 +12,35 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-30T16:54:41.094045",
-      "priority_score": 92,
+      "fetched_at": "2026-10-30T21:16:28.410776",
+      "priority_score": 87,
       "categories": [
         "transfers",
         "match_results",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-10-30T16:55:25.204701",
+      "processed_at": "2026-10-30T21:17:11.481197",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Çok net bir skorla kazandık\"",
+      "summary": "Galatasaray'ın başarılı oyuncularından Yunus Akgün, Süper Lig'in 9. haftasında Konyaspor'u 4-0 mağlup ettikleri maçın ardından değerlendirmelerde bulundu. Çok iyi oyun ve net bir skorla kazandıklarını belirten Akgün, \"İki tane çok büyük galibiyet aldık ve öz güvenimiz yüksekti. Bu maçta hata yapmama",
+      "url": "https://www.haberturk.com/spor/yunus-akgun-cok-net-bir-skorla-kazandik-3923840",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793391891/3923840/jpg/1920x1080",
+      "published": "2026-10-30T20:26:08",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:21.226964",
+      "priority_score": 83,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.791400",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -34,249 +54,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-30T16:52:34.302822",
+      "fetched_at": "2026-10-30T21:14:34.708216",
       "priority_score": 81,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-30T16:55:24.735028",
+      "processed_at": "2026-10-30T21:17:10.735903",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "AC Milan deelt fonkelnieuw contract uit aan Pulisic",
-      "summary": "De zomerse transferwindow is achter de rug, maar de geruchtenstroom richting de winter is alweer op gang gekomen. Er zijn daarnaast ook nog genoeg transfervrije spelers. Volg al het transfernieuws en alle geruchten in onderstaand blog. Bekijk hier ons blog voor de perikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transfers-en-geruchten-in-het-buitenland",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/1a44c5cda8c92ce8eb8c4f91efe667c65050a968.jpg?width=1200",
-      "published": "2026-10-30T15:44:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:55:19.915274",
-      "priority_score": 77,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-30T16:55:25.320284",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arteta warns Dowman that top flight is not ‘Disneyland’ after red, Maresca says Donnarumma is droppable, and more – football live",
-      "summary": "⚽ News and previews heading into the weekend’s action⚽ Premier League: 10 things to look out for | Mail AndyDejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victory against Coventry last week and followed",
-      "url": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+      "title": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot",
+      "summary": "Andoni Iraola’s team have shot up the table after a slow start but they are still not scoring enough goalsBy WhoScoredEvery Liverpool win this season seems to come with an asterisk. Yes, they beat Brentford, but Brentford had a man sent off. Yes they beat Villarreal, but they conceded three. On Sund",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/30/liverpool-matches-title-contenders-andoni-iraola-arsenal",
       "image_url": null,
-      "published": "2026-10-30T16:29:55",
+      "published": "2026-10-30T17:00:18",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-30T16:52:04.694538",
+      "fetched_at": "2026-10-30T21:14:13.327998",
       "priority_score": 73,
       "categories": [
-        "injuries",
+        "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-10-30T16:55:24.679512",
+      "processed_at": "2026-10-30T21:17:10.652533",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fears Chelsea's Lacroix could be out until January",
-      "summary": "Chelsea fear Maxence Lacroix will have a lengthy lay-off having suffered a serious hamstring injury.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T16:21:10",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.842769",
-      "priority_score": 65,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-30T16:55:24.648984",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bayern Munich and Borussia Dortmund evenly matched heading into Klassiker statement",
-      "summary": "Bayern Munich host Borussia Dortmund in the first Klassiker of the Bundesliga season on Saturday, with both teams level on points at the top of the table. But where do they stand ahead of a potentially defining fixture? Here’s the lowdown…",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-klassiker-evenly-matched-kane-olise-guirassy-39750",
-      "image_url": null,
-      "published": "2026-10-30T08:11:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:52:34.302156",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-30T16:55:24.726677",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "What Howe could bring to Man Utd - and what are the challenges?",
-      "summary": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T16:27:13",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.842357",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-30T16:55:24.648406",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Okan Buruk'tan Osimhen açıklaması!",
-      "summary": "Son dakika Galatasaray haberleri: Trendyol Süper Lig'in 10. haftasında TÜMOSAN Konyaspor ile karşılaşan Galatasaray'da teknik direktör Okan Buruk, mücadele öncesi açıklamalarda bulundu.Devamı için tıklayınız",
-      "url": "https://www.fotomac.com.tr/galatasaray/2026/10/30/okan-buruktan-osimhen-aciklamasi",
-      "image_url": "https://iftm.tmgrup.com.tr/Defaults/Upload/ftm-default-1754911393144.png",
-      "published": "2026-10-30T16:29:09",
-      "source": "Fotomac",
-      "source_priority": 7,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:54:23.733285",
-      "priority_score": 54,
-      "categories": [
-        "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:25.040940",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Putellas provides mindset change as London City bid to upstage champions",
-      "summary": "Ballon d’Or winner’s move to WSL has transformed the Lionesses on and off the pitch with belief soaring ahead of Manchester City clashAs Martin Semmens, the London City Lionesses chief executive, sits down is his office he looks like the cat that got the cream. He says he has just learned that the c",
-      "url": "https://www.theguardian.com/football/2026/oct/30/alexia-putellas-london-city-lionesses-manchester-city-womens-super-league",
-      "image_url": null,
-      "published": "2026-10-30T16:16:24",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:52:04.695061",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-30T16:55:24.684263",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'a Franculino ve Aral'dan kötü haber!",
-      "summary": "Trabzonspor, Franculino Dju ve Aral Şimşir'in sağlık durumları hakkında açıklama yaptı",
-      "url": "https://www.haberturk.com/spor/trabzonspor-dan-franculino-dju-ve-aral-simsir-icin-sakatlik-aciklamasi-3923804",
-      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793378598/3923804/jpg/1920x1080",
-      "published": "2026-10-30T16:43:54",
+      "title": "Singo'dan sakatlık açıklaması!",
+      "summary": "Galatasaray'ın defans oyuncusu Wilfried Singo, Süper Lig'in 9. haftasında 4-0 kazandıkları Konyaspor maçının ardından açıklamalarda bulundu. Uzun süren sakatlık süreciyle ilgili konuşan Fildişili stoper, \"Sakatlık süreci zordu, uzun çalışmalar gerektirdi. Şimdi iyi bir şekilde oynamayı umuyordum.\" d",
+      "url": "https://www.haberturk.com/spor/wilfried-singo-dan-sakatlik-aciklamasi-3923836",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793390088/3923836/jpg/1920x1080",
+      "published": "2026-10-30T19:55:11",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-30T16:53:32.260109",
-      "priority_score": 53,
+      "fetched_at": "2026-10-30T21:15:21.227118",
+      "priority_score": 68,
       "categories": [
-        "general"
-      ],
-      "processed_at": "2026-10-30T16:55:24.761133",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Italiano'dan Napoli itirafı!",
-      "summary": "Beşiktaş'ın teknik direktörü Vincenzo Italiano, İtalyan ekibi Napoli'yle ilgili dikkat çeken bir itirafta bulundu. Siyah Beyazlılar'la anlaşmaya varmadan önce Napoli'nin ilgi gösterdiğini belirten İtalyan çalıştırıcı, \"Napoli'nin bana karşı duyduğu ve her zaman göstermiş olduğu saygıdan memnunum ama",
-      "url": "https://www.haberturk.com/spor/foto/vincenzo-italiano-dan-napoli-itirafi-3923796",
-      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793377042/3923796/jpg/1920x1080",
-      "published": "2026-10-30T16:17:50",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:32.260159",
-      "priority_score": 53,
-      "categories": [
-        "serie_a",
+        "match_results",
+        "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-10-30T16:55:24.763103",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Hollie Doyle glad to be back in the saddle",
-      "summary": "Sky Sports Racing’s ambassador Hollie Doyle prepares for her first rides back at Southwell on Saturday and previews the key contests from Keeneland at the Breeders' Cup on Saturday.",
-      "url": "https://www.skysports.com/racing/news/12040/13605765/hollie-doyle-grateful-for-another-chance-to-do-what-i-love",
-      "image_url": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802",
-      "published": "2026-10-30T13:48:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:51:42.453113",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-30T16:55:24.658313",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Konya'ya gitmeyip İstanbul'da kalmıştı: Maça saatler kala Galatasaray'da Osimhen gelişmesi!",
-      "summary": "Süper Lig'in 10. haftasında bu akşam Konyaspor'a konuk olacak Galatasaray'da kamp kadrosunda olmasına rağmen takımla birlikte Konya'ya gitmeyen Osimhen'den maça saatler kala sevindirici haber geldi. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/konyaya-gitmeyip-istanbulda-kalmisti-maca-saatler-kala-galatasarayda-osimhen-gelismesi-43360660",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae48a20aa7d7bef197648db.jpg",
-      "published": "2026-10-30T12:15:27",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:43.954712",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.824070",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Milan, Christian Pulisic ile nikâh tazeledi",
-      "summary": "Milan, ABD’li yıldızı Christian Pulisic’in sözleşmesinin uzatıldığını duyurdu.",
-      "url": "https://www.cnnturk.com/spor/futbol/milan-christian-pulisic-ile-nikah-tazeledi-3486774",
-      "image_url": null,
-      "published": "2026-10-30T17:37:50",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:54:10.303990",
-      "priority_score": 71,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-30T16:55:24.950141",
+      "processed_at": "2026-10-30T21:17:10.801397",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -290,154 +116,14 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-30T16:52:34.303748",
+      "fetched_at": "2026-10-30T21:14:34.709754",
       "priority_score": 66,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-30T16:55:24.748244",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Calvert-Lewin set for new Leeds deal",
-      "summary": "England striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T10:26:53",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.843633",
-      "priority_score": 65,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-10-30T16:55:24.653652",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Milan, Pulisic ile uzattı!",
-      "summary": "İtalya Serie A devi Milan, ABD'li hücum oyuncusu Christian Pulisic'in sözleşmesini 3031 yılına kadar uzattı.",
-      "url": "https://www.haberturk.com/spor/milan-pulisic-in-sozlesmesini-uzatti-3923782",
-      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793370658/3923782/jpg/1920x1080",
-      "published": "2026-10-30T14:30:59",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:32.260307",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "serie_a"
-      ],
-      "processed_at": "2026-10-30T16:55:24.772163",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Beşiktaş'ta yeniden Willock harekâtı! Yapılacak teklifi duyurdular",
-      "summary": "Beşiktaş yaz transfer döneminde kadrosuna katmak isteyip başarılı olamadığı Joe Willock için yeniden harekete geçti. Siyah-beyazlıların sözleşmesi sezon sonunda bitecek olan İngiliz orta saha oyuncusu için kulübü Newcastle United'a yapmaya hazırlandığı teklifin detayları ortaya çıktı. İşte detaylar.",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktasta-yeniden-willock-harekati-yapilacak-teklifi-duyurdular-43360277",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae453aeaa7d7bef197646ad.jpg",
-      "published": "2026-10-30T10:27:59",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:43.954817",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.838391",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Icardi'den Galatasaray ve transfer itirafı!",
-      "summary": "Son olarak Galatasaray forması giyen Arjantinli santrfor Mauro Icardi, geleceği hakkında konuştu. Deneyimli futbolcu, İstanbul'da gördüğü sevginin yerinin özel olacağını aktardı.",
-      "url": "https://www.haberturk.com/spor/mauro-icardi-den-galatasaray-ve-transfer-itirafi-istanbul-da-gordugum-sevginin-yeri-ayri-olacak-3923718",
-      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793352706/3923718/jpg/1920x1080",
-      "published": "2026-10-30T09:32:31",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:32.260510",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.789187",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Bursaspor'un gol makinesi Süper Lig devine",
-      "summary": "Trendyol 1. Lig'de liderlik koltuğunda bulunan Bursaspor'un golcüsü Iheanacho, performansıyla transfer gündemine girdi. Nijeryalı futbolcunun Süper Lig devinin radarında olduğu öne sürüldü.",
-      "url": "https://www.yenisafak.com/galeri/spor/bursasporun-gol-makinesi-super-lig-devine-4868473",
-      "image_url": null,
-      "published": "2026-10-30T14:11:45",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:54:41.093877",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:25.195205",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe Tarfin, Dwight Powell'ı duyurdu!",
-      "summary": "Fenerbahçe Tarfin, Kanadalı basketbolcu Dwight Powell'ı transfer etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-dwight-powelli-duyurdu-43360997",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae4c07cc44e39ea41369d03.jpg",
-      "published": "2026-10-30T16:06:22",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:43.954501",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.800147",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Icardi’den Galatasaray ve transfer açıklaması: 'Cevabımı sahada vermek için sabırsızlanıyorum!'",
-      "summary": "Galatasaray’dan ayrıldıktan sonra henüz yeni bir kulüple anlaşmayan Mauro Icardi, geleceğine ilişkin konuştu. Arjantinli yıldız, İtalya’ya dönme isteğini dile getirirken sarı-kırmızılı taraftarlarla kurduğu özel bağa da dikkat çekti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/icardiden-galatasaray-ve-transfer-aciklamasi-cevabimi-sahada-vermek-icin-sabirsizlaniyorum-43360434",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae467c933682fc5418a5b7e.jpg",
-      "published": "2026-10-30T09:51:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:43.954854",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.845399",
+      "processed_at": "2026-10-30T21:17:10.762419",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -451,31 +137,295 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.842526",
+      "fetched_at": "2026-10-30T21:13:30.580599",
       "priority_score": 55,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-30T16:55:24.648613",
+      "processed_at": "2026-10-30T21:17:10.602532",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Britain's first £100m man facing defining moment",
-      "summary": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Fears Chelsea's Lacroix could be out until January",
+      "summary": "Chelsea fear Maxence Lacroix will have a lengthy lay-off having suffered a serious hamstring injury.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-30T13:42:15",
+      "published": "2026-10-30T16:21:10",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.842643",
+      "fetched_at": "2026-10-30T21:13:30.581106",
       "priority_score": 55,
+      "categories": [
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-30T21:17:10.603447",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Leclerc dominates Mexico City GP first practice",
+      "summary": "Ferrari's Charles Leclerc was fastest from champion-elect Kimi Antonelli in first practice at the Mexico City Grand Prix.",
+      "url": "https://www.skysports.com/f1/news/12040/13605830/mexico-city-gp-charles-leclerc-dominates-first-practice-from-kimi-antonelli-as-ferrari-show-strong-pace",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-charles-leclerc_7392182.jpg?20261030192705",
+      "published": "2026-10-30T19:30:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:13:43.884073",
+      "priority_score": 51,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-10-30T16:55:24.648780",
+      "processed_at": "2026-10-30T21:17:10.614463",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Rafael Leao: Daha iyisini yapacağım",
+      "summary": "Rafael Leao, takımı Galatasaray’ın Konyaspor ile oynadığı maçın ardından açıklamalarda bulundu.",
+      "url": "https://www.cnnturk.com/spor/futbol/rafael-leao-daha-iyisini-yapacagim-3486846",
+      "image_url": null,
+      "published": "2026-10-30T22:51:43",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:57.891062",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:11.011619",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
+      "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in questionSon Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international record-breakers. Now there is a surprising danger of ",
+      "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
+      "image_url": null,
+      "published": "2026-10-30T09:00:49",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:14:13.342609",
+      "priority_score": 48,
+      "categories": [
+        "premier_league",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-10-30T21:17:10.686615",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Osimhen zirveye yerleşti, Leao siftah yaptı!",
+      "summary": "Galatasaray, Süper Lig'in 10. haftasında deplasmanda Konyaspor'u 4-0 mağlup ederek liderliğini sürdürdü. Victor Osimhen, Yunus Akgün, Aleksey Batrakov ve Rafael Leao'nun golleriyle galibiyete uzanan Galatasaray'da Osimhen ligdeki gol sayısını 9'a çıkararak krallık yarışında zirveye yerleşti. Leao is",
+      "url": "https://www.haberturk.com/spor/galatasaray-ligde-ust-uste-4-galibiyetini-aldi-rafael-leao-ilk-gol-sevinci-yasadi-3923832",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793389356/3923832/jpg/1920x1080",
+      "published": "2026-10-30T19:44:34",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:21.227221",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.809290",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'dan dört dörtlük galibiyet!",
+      "summary": "Süper Lig'in 10. haftasında Galatasaray deplasmanda Konyaspor'u 4-0 mağlup etti. Sarı-kırmızılılara galibiyeti getiren golleri 12. dakikada Victor Osimhen, 28. dakikada Yunus Akgün, 49. dakikada Aleksey Batrakov ve 55. dakikada Rafael Leao (p) kaydetti. Bu sonuçla birlikte Galatasaray ligde puanını ",
+      "url": "https://www.haberturk.com/spor/konyaspor-galatasaray-maci-canli-anlatim-konya-gs-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3923654",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793386670/3923654/jpg/1920x1080",
+      "published": "2026-10-30T19:03:48",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:21.227268",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.813253",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Osimhen'den büyük fedakarlık! Avrupa'da daha iyisi sadece Harry Kane!",
+      "summary": "Galatasaray'ın golcüsü Victor Osimhen durdurulamıyor. Dün ikinci kez baba olan ijeryalı yıldız, özel uçakla Konya'ya gelerek maçta ilk 11'de sahaya çıktı ve golünü atarak Avrupa'nın yıldız golcüleri arasında kendine yer buldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/osimhenden-buyuk-fedakarlik-avrupada-daha-iyisi-sadece-harry-kane-43361023",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae4dae7c44e39ea41369d31.jpg",
+      "published": "2026-10-30T17:59:05",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:34.753132",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.874815",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Okan Buruk: Hedefim 5. şampiyonluk ve Avrupa'da başarı",
+      "summary": "Okan Buruk, takımı Galatasaray’ın Konyaspor deplasmanında farklı kazandığı maçın ardından açıklamalarda bulundu.",
+      "url": "https://www.cnnturk.com/spor/futbol/okan-buruk-hedefim-5-sampiyonluk-ve-avrupada-basari-3486850",
+      "image_url": null,
+      "published": "2026-10-30T23:37:20",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:57.890910",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:11.006089",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Konyaspor 0-4 Galatasaray Maç Özeti | Aslan, deplasmanda farklı kazandı",
+      "summary": "TÜMOSAN Konyaspor ile Galatasaray, Süper Lig’de haftanın açılışında kozlarını paylaştı. Bu müsabakanın canlı anlatımı burada.",
+      "url": "https://www.cnnturk.com/spor/futbol/live-konyaspor-0-4-galatasaray-mac-ozeti-aslan-deplasmanda-farkli-kazandi-3486750",
+      "image_url": null,
+      "published": "2026-10-30T21:58:48",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:57.891187",
+      "priority_score": 66,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:11.021568",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Calvert-Lewin set for new Leeds deal",
+      "summary": "England striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-30T10:26:53",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:13:30.581919",
+      "priority_score": 65,
+      "categories": [
+        "transfers"
+      ],
+      "processed_at": "2026-10-30T21:17:10.608195",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Osimhen Galatasaraylıları duygulandırdı: Yeni doğan çocuğuna rağmen Konya'ya geldi",
+      "summary": "Galatasaray'ın yıldız golcüsü Victor Osimhen, Tümosan Konyaspor deplasmanı öncesinde yaptığı fedakârlık ve maçta attığı golle sarı-kırmızılı taraftarların büyük takdirini topladı.",
+      "url": "https://www.yenisafak.com/galeri/spor/osimhen-galatasaraylilari-duygulandirdi-yeni-dogan-cocuguna-ragmen-konyaya-geldi-4868504",
+      "image_url": null,
+      "published": "2026-10-30T18:04:35",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:16:28.409892",
+      "priority_score": 62,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:11.381256",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bayern Munich and Borussia Dortmund evenly matched heading into Klassiker statement",
+      "summary": "Bayern Munich host Borussia Dortmund in the first Klassiker of the Bundesliga season on Saturday, with both teams level on points at the top of the table. But where do they stand ahead of a potentially defining fixture? Here’s the lowdown…",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-klassiker-evenly-matched-kane-olise-guirassy-39750",
+      "image_url": null,
+      "published": "2026-10-30T08:11:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:14:34.707742",
+      "priority_score": 61,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-30T21:17:10.729702",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Milan, Christian Pulisic ile nikâh tazeledi",
+      "summary": "Milan, ABD’li yıldızı Christian Pulisic’in sözleşmesinin uzatıldığını duyurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/milan-christian-pulisic-ile-nikah-tazeledi-3486774",
+      "image_url": null,
+      "published": "2026-10-30T17:37:50",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:57.891759",
+      "priority_score": 61,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-10-30T21:17:11.081527",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Rafael Leao: 'Fenerbahçe özgüven kazandırdı!'",
+      "summary": "Galatasaray'da Rafael Leao, Bitshiabu ve Singo, Konyaspor galibiyetinin ardından açıklamalarda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/rafael-leao-fenerbahce-ozguven-kazandirdi-43361069",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae4efd6c44e39ea41369d69.jpg",
+      "published": "2026-10-30T19:28:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:34.753077",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.867057",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -489,12 +439,131 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-30T16:51:30.842866",
+      "fetched_at": "2026-10-30T21:13:30.581228",
       "priority_score": 55,
       "categories": [
         "injuries"
       ],
-      "processed_at": "2026-10-30T16:55:24.649218",
+      "processed_at": "2026-10-30T21:17:10.603866",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Hedefim bu sene de şampiyon olmak!\"",
+      "summary": "Galatasaray Teknik Direktörü Okan Buruk, ligdeki 4-0'lık Konyaspor galibiyetinin ardından açıklamalarda bulundu.",
+      "url": "https://www.haberturk.com/spor/okan-buruk-hedefim-bu-sene-de-sampiyon-olmak-3923845",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793393961/3923845/jpg/1920x1080",
+      "published": "2026-10-30T20:59:46",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:21.226845",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.783617",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Benim yüzde yüzüm bu değil\"",
+      "summary": "Galatasaray'ın Portekizli oyuncusu Rafael Leao, Süper Lig'in 10. haftasındaki 4-0'lık Konyaspor galibiyetinin ardından konuştu. Fizik olarak yüzde yüz hazır olmadığını belirten Leao, \"Barcelona ve Konyaspor maçları en iyi maçlarımdı. Rafael Leao'nun yüzde yüzü bu değil. Sakatlıktan döndüm, teknik ek",
+      "url": "https://www.haberturk.com/spor/rafael-leao-benim-yuzde-yuzum-bu-degil-3923833",
+      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793389396/3923833/jpg/1920x1080",
+      "published": "2026-10-30T19:44:59",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:15:21.227170",
+      "priority_score": 53,
+      "categories": [
+        "injuries",
+        "la_liga",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:10.804365",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bursaspor'un gol makinesi Süper Lig devine",
+      "summary": "Trendyol 1. Lig'de liderlik koltuğunda bulunan Bursaspor'un golcüsü Iheanacho, performansıyla transfer gündemine girdi. Nijeryalı futbolcunun Süper Lig devinin radarında olduğu öne sürüldü.",
+      "url": "https://www.yenisafak.com/galeri/spor/bursasporun-gol-makinesi-super-lig-devine-4868473",
+      "image_url": null,
+      "published": "2026-10-30T14:11:45",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:16:28.410562",
+      "priority_score": 52,
+      "categories": [
+        "transfers",
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-30T21:17:11.464755",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bundesliga Matchday 8 probable teams",
+      "summary": "Could Bayern Munich have Manuel Neuer and Joshua Kimmich back in time for Saturday's Der Klassiker at home to Borussia Dortmund?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
+      "image_url": null,
+      "published": "2026-10-31T01:50:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:14:34.705462",
+      "priority_score": 51,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-30T21:17:10.697904",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bundesliga 2, Matchday 10: Bochum come from behind against Cottbus ahead of top-of-the-table-tussle as Kaiserslautern host Hertha",
+      "summary": "Bochum came from behind to defeat Energie Cottbus on Friday evening before third-placed Kaiserslautern are bidding to become the first team to defeat leaders Hertha Berlin on Saturday afternoon.",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-10-highlights-nuremberg-kaiserslautern-bochum-wolfsburg-hertha-39753",
+      "image_url": null,
+      "published": "2026-10-30T19:51:17",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:14:34.706001",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-30T21:17:10.706237",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Britain's first £100m man facing defining moment",
+      "summary": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-30T13:42:15",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-30T21:13:30.580788",
+      "priority_score": 50,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-30T21:17:10.602761",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -508,92 +577,35 @@
       "source_priority": 7,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-30T16:54:23.733608",
-      "priority_score": 54,
+      "fetched_at": "2026-10-30T21:16:09.370457",
+      "priority_score": 49,
       "categories": [
         "transfers",
         "breaking_news",
         "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-10-30T16:55:25.068998",
+      "processed_at": "2026-10-30T21:17:11.299100",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "summary": "Chelsea take on Michael Carrick’s Manchester United on Saturday while Liverpool host Arsenal on SundaySaturday 12.30pm TNT Sports 1 Venue Stamford Bridge Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/oct/30/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improvingPremier League top scorersMichael Carrick and Bruno Fernandes held clear-the-air talks this week. Fernandes was an unused substitute against Bournemouth after criticising Carrick’s tactic",
+      "url": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
       "image_url": null,
-      "published": "2026-10-30T16:19:26",
+      "published": "2026-10-30T00:01:38",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-30T16:52:04.704956",
-      "priority_score": 53,
+      "fetched_at": "2026-10-30T21:14:13.342946",
+      "priority_score": 48,
       "categories": [
+        "injuries",
         "premier_league"
       ],
-      "processed_at": "2026-10-30T16:55:24.699724",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "İlk 11'ler belli oldu!",
-      "summary": "Süper Lig'de 10. haftanın perdesini lider Galatasaray açıyor. Fenerbahçe'ye karşı elde ettiği derbi zaferiyle hem liderliğini sürdüren hem de büyük moral kazanan sarı-kırmızılılar, Konyaspor'a konuk oluyor. 22 puanla liderlik koltuğunda oturan sarı-kırmızılılar, Konya'yı mağlup ederek zirvedeki yeri",
-      "url": "https://www.haberturk.com/spor/konyaspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-konya-gs-maci-canli-yayin-konyaspor-3923654",
-      "image_url": "https://im.haberturk.com/l/2026/10/30/ver1793375090/3923654/jpg/1920x1080",
-      "published": "2026-10-30T16:03:16",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:53:32.260201",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-10-30T16:55:24.764764",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Thomas Reis'den flaş Trabzonspor itirafı: 'İlk telefon geldiğinde...'",
-      "summary": "Trabzonspor Teknik Direktörü Thomas Reis, bordo-mavili kulübe transfer sürecini anlattı. Alman teknik adam, Trabzonspor'dan gelen teklifin kendisini gururlandırdığını belirterek kısa sürede karar verdiğini söyledi.",
-      "url": "https://www.yenisafak.com/spor/thomas-reisden-flas-trabzonspor-itirafi-ilk-telefon-geldiginde-4868383",
-      "image_url": null,
-      "published": "2026-10-30T08:24:30",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:54:41.094626",
-      "priority_score": 52,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-10-30T16:55:25.265127",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Wilkin: Rugby League World Cup format 'fundamentally flawed'",
-      "summary": "Sky Sports' Jon Wilkin believes the Rugby League World Cup format is \"fundamentally flawed\" after England were left on the brink of their first group-stage exit in the tournament's history.",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13605797/rugby-league-world-cup-jon-wilkin-says-tournament-format-is-fundamentally-flawed-as-england-on-brink-of-historic-exit",
-      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-england-rugby-league-world-cup_7391699.jpg?20261030094252",
-      "published": "2026-10-30T15:25:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-30T16:51:42.453193",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-10-30T16:55:24.660756",
+      "processed_at": "2026-10-30T21:17:10.690284",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
