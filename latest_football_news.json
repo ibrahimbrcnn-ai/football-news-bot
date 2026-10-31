@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T14:05:26.265332",
+  "timestamp": "2026-10-31T18:24:33.021866",
   "total_items": 30,
   "news": [
     {
@@ -12,20 +12,20 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-10-31T14:00:54.698257",
+      "fetched_at": "2026-10-31T18:19:56.466142",
       "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-10-31T14:03:57.617736",
-      "title_tr": "Önemli değil: Mac Allister, Liverpool'un yeniden canlanmasını tetiklemek için sözleşme şüphelerini nasıl ortadan kaldırdı?",
-      "summary_tr": "Iraola'nın orta sahası saldırganlığını ve yoğunluğunu, Arsenal'in Pazar günkü Anfield ziyareti sırasında yeniden keşfettiAlexis Mac Allister, Atletico Madrid'in geçen ay Anfield'a yaptığı ziyaretten önce, yeni bir sözleşme için Liverpool'a baskı uygulayabilecek güçlü bir konumda buldu."
+      "processed_at": "2026-10-31T18:23:03.101218",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Bundesliga Matchday 8 confirmed and probable teams",
-      "summary": "Could Bayern Munich have Manuel Neuer and Joshua Kimmich back in time for Saturday's Der Klassiker at home to Borussia Dortmund?",
+      "summary": "Do Bayern Munich have Manuel Neuer or Joshua Kimmich back in time for Der Klassiker at home to Borussia Dortmund?",
       "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
       "image_url": null,
       "published": "2026-10-31T13:30:00",
@@ -33,76 +33,231 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-31T14:01:15.112858",
-      "priority_score": 96,
+      "fetched_at": "2026-10-31T18:20:19.958696",
+      "priority_score": 86,
       "categories": [
         "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-31T14:03:57.651148",
-      "title_tr": "Bundesliga 8. Maç günü onaylanan ve muhtemel takımlar",
-      "summary_tr": "Bayern Münih, Borussia Dortmund'un evinde Cumartesi günü oynanacak Der Klassiker maçında Manuel Neuer ve Joshua Kimmich'i zamanında geri getirebilecek mi?"
+      "processed_at": "2026-10-31T18:23:03.166165",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Dart survives match points to reach first WTA Tour singles final",
-      "summary": "Highlights from the Guangzhou Open semi-final between Sun Xinran and Harriet Dart.",
-      "url": "https://www.skysports.com/watch/video/13606081/sun-xinran-vs-harriet-dart-guangzhou-open-highlights",
-      "image_url": "https://e1.365dm.com/26/10/1920x1080/skysports-tennis-harriet-dart_7392625.jpg?20261031135046",
-      "published": "2026-10-31T13:08:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
+      "title": "Carrick bemoans Man Utd defending in Chelsea loss",
+      "summary": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-31T15:13:43",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-31T14:00:33.355778",
-      "priority_score": 76,
+      "fetched_at": "2026-10-31T18:19:18.717535",
+      "priority_score": 70,
+      "categories": [
+        "breaking_news",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.019518",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "F.Bahçe Kadıköy'de yıkıldı!",
+      "summary": "Trendyol Süper Lig'in 10. haftasında Fenerbahçe sahasında Göztepe'yi ağırladı. İlk yarıyı 1-0 üstün kapatan sarı-lacivertliler, rakibine 2-1'lik skorla yenildi ve üst üste 2. mağlubiyetini aldı. Sarı-kırmızılılar ise üst üste 4. galibiyetini alarak çıkışını sürdürdü.",
+      "url": "https://www.haberturk.com/spor/fenerbahce-goztepe-mac-sonucu-fenerbahce-goztepe-maci-ozeti-ve-golleri-super-lig-3923869",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793470050/3923869/jpg/1920x1080",
+      "published": "2026-10-31T18:08:21",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:11.508957",
+      "priority_score": 68,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-10-31T18:23:03.229097",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Ermedin Demirović bags brace as VfB Stuttgart shine at Bayer Leverkusen",
+      "summary": "Ermedin Demirović scored twice as a powerful show of attacking from VfB Stuttgart saw them to a statement away win as Bayer Leverkusen lost at home for the first time this season.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-match-report-highlights-matchday-8-39800",
+      "image_url": null,
+      "published": "2026-10-31T16:30:22",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:20:19.935274",
+      "priority_score": 66,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-10-31T14:03:57.594905",
-      "title_tr": "Dart maç puanlarından kurtularak ilk WTA Turu tekler finaline ulaştı",
-      "summary_tr": "Sun Xinran ve Harriet Dart arasındaki Guangzhou Açık yarı finalinden önemli anlar."
+      "processed_at": "2026-10-31T18:23:03.127785",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Chelsea v Manchester United: Premier League – live",
-      "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London⚽ Football Daily | Goalscorers | Live Scores | Email Scott3 min: A rare old atmosphere at the Bridge. Saturday lunchtime pints! You see? We have photographic proof.2 min: A fairly hectic and shapeless start. “The ghosts of managerial past are truly",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+      "title": "'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row",
+      "summary": "Real Madrid head coach Jose Mourinho says the \"best thing is to keep your mouth shut\" but backs Kylian Mbappe following reaction to his Mao Zedong remark.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-10-31T13:54:54",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-10-31T17:40:41",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-31T14:00:54.698026",
-      "priority_score": 68,
+      "fetched_at": "2026-10-31T18:19:18.716172",
+      "priority_score": 65,
       "categories": [
-        "match_results",
-        "premier_league"
+        "la_liga"
       ],
-      "processed_at": "2026-10-31T14:03:57.615169",
-      "title_tr": "Chelsea - Manchester United: Premier Lig – canlı",
-      "summary_tr": "⚽ Batı Londra'da saat 12.30 GMT'nin başlama vuruşuyla ilgili güncellemeler⚽ Football Daily | Golcüler | Canlı Skorlar | E-posta Scott3 dk: Köprüde nadir görülen eski bir atmosfer. Cumartesi öğle yemeği pintleri! Anlıyorsun? Elimizde fotoğraflı kanıt var. 2 dk: Oldukça telaşlı ve şekilsiz bir başlangıç. “Yönetimsel geçmişin hayaletleri gerçekten"
+      "processed_at": "2026-10-31T18:23:03.015422",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Galatasaray'da sözleşme krizi: Bir türlü kabul etmiyor",
-      "summary": "Galatasaray'da sözleşme görüşmelerinde kriz yaşanıyor. Sarı-kırmızılıların yaklaşık 1 milyon euroluk teklifini maç oynama garantisi istediği için kabul etmeyen genç oyuncu, kiralık gönderilme fikrine de sıcak bakmıyor.",
-      "url": "https://www.yenisafak.com/spor/galatasarayda-sozlesme-krizi-bir-turlu-kabul-etmiyor-4868677",
+      "title": "Kane presents Ballon d'Or trophy to Bayern fans at Allianz Arena",
+      "summary": "Harry Kane presents his Ballon D'or trophy to the Bayern Munich fans at Allianz Arena ahead of their Bundesliga match against Borussia Dortmund.",
+      "url": "https://www.skysports.com/watch/video/13606355/harry-kane-presents-ballon-dor-trophy-to-bayern-fans-at-allianz-arena",
+      "image_url": "https://e2.365dm.com/26/10/1920x1080/skysports-kane-bundesliga_7393071.jpg?20261031175433",
+      "published": "2026-10-31T17:45:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:28.928693",
+      "priority_score": 61,
+      "categories": [
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-31T18:23:03.052006",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Pendikspor 6 maç sonra kazandı!",
+      "summary": "Trendyol 1. Lig'in 13. haftasında Pendikspor, Fatih Karagümrük'ü 1-0 mağlup etti. 2. yarıda Damir Hrelja'nın kaydettiği golle ligdeki 6 maçlık galibiyet hasretini bitiren Pendikspor, puanını 14'e çıkardı. Fatih Karagümrük ise haftayı 16 puanla 10. sırada tamamladı.",
+      "url": "https://www.haberturk.com/spor/fatih-karagumruk-pendikspor-mac-sonucu-iste-fatih-karagumruk-pendikspor-maci-ozeti-ve-golleri-1-lig-3923970",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793459578/3923970/jpg/1920x1080",
+      "published": "2026-10-31T15:13:17",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:11.509552",
+      "priority_score": 58,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-10-31T18:23:03.259800",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Eski Galatasaraylı Süper Lig'in en şanssızı: Yok böyle istatistik",
+      "summary": "Sezon başında Galatasaray'dan Çaykur Rizespor'a kiralık transfer olan Ahmed Kutucu, Süper Lig'de ilginç bir istatistikle gündeme geldi.",
+      "url": "https://www.yenisafak.com/spor/eski-galatasarayli-super-ligin-en-sanssizi-yok-boyle-istatistik-4868690",
       "image_url": null,
-      "published": "2026-10-31T13:12:59",
+      "published": "2026-10-31T14:33:59",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:03:16.931670",
-      "priority_score": 67,
+      "fetched_at": "2026-10-31T18:22:22.555182",
+      "priority_score": 57,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-10-31T14:03:57.974338",
-      "title_tr": "Galatasaray'da sözleşme krizi: Bir türlü kabul etmiyor",
-      "summary_tr": "Galatasaray'da sözleşme görüşmelerinde kriz yaşanıyor. Sarı-kırmızılıların yaklaşık 1 milyon euroluk teklifini maç oynama garantisi istediği için kabul etmeyen genç oyuncu, kiralık gönderilme fikrine de sıcak bakmıyor."
+      "processed_at": "2026-10-31T18:23:03.842335",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Tottenham v Crystal Palace: Premier League – live",
+      "summary": "⚽ Updates on the 5.30pm GMT kick-off in north London⚽ Football Daily | Premier League table | Email Niall6 mins: Spurs enjoying the early possession, stroking the ball swiftly around midfield.3 mins: If Palace can get a point here, then Manchester United will drop into the bottom three. And as long ",
+      "url": "https://www.theguardian.com/football/live/2026/oct/31/tottenham-v-crystal-palace-premier-league-live",
+      "image_url": null,
+      "published": "2026-10-31T18:09:18",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:56.462961",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.061241",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "FENERBAHÇE - GÖZTEPE MAÇI CANLI İZLE ŞİFRESİZ | Fenerbahçe-Göztepe maçı saat kaçta, hangi kanalda? Canlı yayın bilgileri",
+      "summary": "Trendyol Süper Lig’in 10. haftasında Fenerbahçe, sahasında Göztepe’yi ağırlayacak. Galatasaray derbisinde aldığı yenilginin ardından yeniden çıkışa geçmek isteyen sarı-lacivertliler, taraftarı önünde 3 puanı hanesine yazdırmayı hedefliyor. Fenerbahçe için Göztepe karşılaşması, önümüzdeki hafta Şampi",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-goztepe-maci-canli-izle-sifresiz-fenerbahce-goztepe-maci-saat-kacta-hangi-kanalda-canli-yayin-bilgileri-3487141",
+      "image_url": null,
+      "published": "2026-10-31T18:49:34",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:47.571835",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-31T18:23:03.579549",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Fenerbahçe eriyor: Göztepe'ye evinde mağlup (1-2)",
+      "summary": "Fenerbahçe, Trendyol Süper Lig'in 10. haftasında konuk ettiği Göztepe'ye 2-1 mağlup oldu. Öne geçtiği maçtan puansız ayrılan sarı-lacivertliler, lider Galatasaray'ın 9 puan gerisine düştü. Maçın özetine haberin içerisinden ulaşabilirsiniz.",
+      "url": "https://www.yenisafak.com/spor/fenerbahce-1-2-goztepe-mac-ozeti-izle-video-4868671",
+      "image_url": null,
+      "published": "2026-10-31T17:57:00",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:22:22.553888",
+      "priority_score": 47,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-10-31T18:23:03.734260",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bundesliga and Topps launch 'Starting XI Debut Patch' for the 2026/27 season",
+      "summary": "The Bundesliga and its official licensing partner Topps are creating a new connection between on-pitch action and the world of collecting.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-and-topps-launch-starting-xi-debut-patch-for-the-2026-27-season-38780",
+      "image_url": null,
+      "published": "2026-10-31T05:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:20:19.963203",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-10-31T18:23:03.225893",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Bayern Munich and Borussia Dortmund evenly matched heading into Klassiker statement",
@@ -114,190 +269,33 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-10-31T14:01:15.113469",
-      "priority_score": 66,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-31T14:03:57.659978",
-      "title_tr": "Bayern Münih ve Borussia Dortmund, Klassiker açıklamasında eşit şekilde eşleşti",
-      "summary_tr": "Cumartesi günü Bundesliga sezonunun ilk Klassiker maçında Bayern Münih, Borussia Dortmund'u ağırlayacak ve her iki takım da puan bakımından eşit seviyede yer alacak. Peki potansiyel olarak belirleyici bir fikstürün önünde nerede duruyorlar? İşte düşüş…"
-    },
-    {
-      "title": "James makes first PL start of seasin for Leeds at Bournemouth LIVE!",
-      "summary": "",
-      "url": "https://www.skysports.com/football/bournemouth-vs-leeds-united/live/559525",
-      "image_url": "https://e2.365dm.com/26/09/1920x1080/skysports-daniel-farke-leeds_7350728.jpg?20260913185553",
-      "published": "2026-10-31T13:30:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:33.356010",
+      "fetched_at": "2026-10-31T18:20:19.959863",
       "priority_score": 61,
       "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-31T14:03:57.607138",
-      "title_tr": "James, Bournemouth LIVE'da Leeds adına ilk PL sezonuna başlıyor!",
-      "summary_tr": "NO QUERY SPECIFIED. EXAMPLE REQUEST: GET?Q=HELLO&LANGPAIR=EN|IT"
-    },
-    {
-      "title": "Çorum FK, Erzurum'da 3 golle kazandı!",
-      "summary": "Süper Lig'in 10. haftasında Çorum FK, Erzurumspor FK'yı deplasmanda 3-1 mağlup etti. Erzurumspor'un ligdeki 4 maçlık yenilmezlik serisi sona erdi",
-      "url": "https://www.haberturk.com/spor/erzurumspor-fk-1-corum-fk-3-mac-sonucu-super-lig-3923935",
-      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793450049/3923935/jpg/1920x1080",
-      "published": "2026-10-31T12:34:32",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:07.563546",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-31T14:03:57.703875",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Carragher apologises to Villa for 'wrong' language",
-      "summary": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-31T13:51:00",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:20.032946",
-      "priority_score": 55,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-31T14:03:57.587272",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray'da Stuttgart hazırlıkları başladı!",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında salı günü evinde Alman ekibi Stuttgart ile oynayacağı maçın hazırlıklarına yaptığı antrenmanla başladı.",
-      "url": "https://www.haberturk.com/spor/galatasaray-stuttgart-macinin-hazirliklarina-basladi-3923940",
-      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793453162/3923940/jpg/1920x1080",
-      "published": "2026-10-31T13:26:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:07.563472",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-10-31T14:03:57.699062",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arda Güler'den Real Madrid'e müjdeli haber!",
-      "summary": "Real Madrid'de yaşadığı sakatlık nedeniyle Racing Santander maçında forma giyip giymeyeceği merak konusu olan milli futbolcu Arda Güler'den sevindiren haber geldi.",
-      "url": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-real-madride-mujdeli-haber-43361589",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae5c8dde801c6dc9244e264.jpg",
-      "published": "2026-10-31T10:55:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:18.705373",
-      "priority_score": 51,
-      "categories": [
-        "injuries",
-        "la_liga"
-      ],
-      "processed_at": "2026-10-31T14:03:57.750810",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arda Güler’de korkulan olmadı! Racing Santander maçında forma giyebilir...",
-      "summary": "El Clasico’daki galibiyetle LaLiga zirvesine yaklaşan Real Madrid’de, Racing Santander maçı öncesi Arda Güler’den olumlu haber geldi. Hafta içinde kas gerilmesi nedeniyle antrenmanlara katılamayan milli yıldız, dün takımla birlikte çalıştı. Genç oyuncunun deplasmanda forma giyebileceği belirtildi.",
-      "url": "https://www.cnnturk.com/spor/futbol/arda-gulerde-korkulan-olmadi-racing-santander-macinda-forma-giyebilir-3487134",
-      "image_url": null,
-      "published": "2026-10-31T14:16:24",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:43.933000",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-10-31T14:03:57.923117",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Gaziantep FK, Trabzonspor karşısında tarihindeki ilk galibiyetini almak istiyor",
-      "summary": "Süper Lig’in 10’uncu haftasında Trabzonspor sahasında Gaziantep FK’yı konuk edecek. Yarın oynanacak maçla iki takım Süper Lig’de 15’inci kez karşı karşıya gelecek.",
-      "url": "https://www.cnnturk.com/spor/futbol/gaziantep-fk-trabzonspor-karsisinda-tarihindeki-ilk-galibiyetini-almak-istiyor-3487133",
-      "image_url": null,
-      "published": "2026-10-31T14:09:47",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:43.933085",
-      "priority_score": 51,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-10-31T14:03:57.931451",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-      "summary": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T15:41:43",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:20.033571",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-31T14:03:57.588320",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Every Bundesliga Man of the Match winner in 2026/27",
-      "summary": "Every Bundesliga fixture in 2026/27 has an official Man of the Man voted by fans. Find out here which players have received the adidas-sponsored award throughout the season.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/official-man-of-the-match-winners-2026-27-adidas-kane-olise-38856",
-      "image_url": null,
-      "published": "2026-10-31T02:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:01:15.117401",
-      "priority_score": 66,
-      "categories": [
-        "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-10-31T14:03:57.683918",
+      "processed_at": "2026-10-31T18:23:03.184662",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-31T14:35:50",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:18.716455",
+      "priority_score": 60,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.016001",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -311,140 +309,247 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-10-31T14:00:20.033332",
-      "priority_score": 65,
+      "fetched_at": "2026-10-31T18:19:18.718331",
+      "priority_score": 60,
       "categories": [
         "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-10-31T14:03:57.587690",
+      "processed_at": "2026-10-31T18:23:03.024879",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Fenerbahçe’den Kelechi Iheanacho hamlesi",
-      "summary": "Fenerbahçe’nin, 1. Lig’in gol makinesi Kelechi Iheanacho’yu devre arası transfer döneminde kadrosuna katmak istediği iddia edildi. Nijeryalı forvet için Bursaspor Başkanı Enes Çelik’ten de dikkat çekici bir açıklama geldi.",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahceden-kelechi-iheanacho-hamlesi-3486993",
-      "image_url": null,
-      "published": "2026-10-31T11:18:03",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:02:43.941524",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-10-31T14:03:57.951716",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Rusya'da gündem Aleksey Batrakov!",
-      "summary": "Galatasaray'ın Süper Lig'in 10. haftasında deplasmanda Konyaspor'u 4-0 mağlup ettiği maçta 1 gol 1 asistle yıldızlaşan Rus futbolcu Aleksey Batrakov'un performansı, Rus basınında manşetleri süsledi.",
-      "url": "https://www.haberturk.com/spor/foto/rusya-da-gundem-aleksey-batrakov-konyaspor-u-ezdi-3923924",
-      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793444134/3923924/jpg/1920x1080",
-      "published": "2026-10-31T10:56:29",
+      "title": "Atletico Madrid seriye bağladı!",
+      "summary": "İspanya La Liga'nın 11. haftasında Levante sahasında Atletico Madrid'i ağırladı. Mücadeleyi Madrid temsilcisi 2-0 kazandı ve üst üste 7. galibiyetini elde etti.",
+      "url": "https://www.haberturk.com/spor/levante-0-atletico-madrid-2-mac-sonucu-ozeti-ve-golleri-3923961",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793457521/3923961/jpg/1920x1080",
+      "published": "2026-10-31T14:52:46",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:02:07.563620",
+      "fetched_at": "2026-10-31T18:21:11.509778",
       "priority_score": 58,
       "categories": [
         "match_results",
-        "premier_league",
-        "super_lig"
+        "la_liga"
       ],
-      "processed_at": "2026-10-31T14:03:57.709128",
+      "processed_at": "2026-10-31T18:23:03.274334",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Transfer savaşı şimdiden başladı: Batrakov için 5 dünya devi devrede!",
-      "summary": "Galatasaray'ın genç yıldızı Aleksey Batrakov, Avrupa'nın dev kulüplerinin radarına girdi. Liverpool ve Arsenal'ın ardından Barcelona ile Paris Saint-Germain de 21 yaşındaki futbolcuyu takibe aldı.",
-      "url": "https://www.yenisafak.com/galeri/spor/transfer-savasi-simdiden-basladi-batrakov-icin-5-dunya-devi-devrede-4868648",
+      "title": "Chelsea, M. United'ı rahat geçti!",
+      "summary": "İngiltere Premier Lig'in 9. haftasında Chelsea sahasında Manchester United'ı ağırladı. Mücadeleyi 'Maviler' 2-0 kazandı ve 3 puanı hanesine yazdırdı.",
+      "url": "https://www.haberturk.com/spor/chelsea-2-manchester-united-0-mac-sonucu-3923955",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793455813/3923955/jpg/1920x1080",
+      "published": "2026-10-31T14:30:23",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:11.509925",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.285541",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Galatasaray'da sözleşme krizi: Bir türlü kabul etmiyor",
+      "summary": "Galatasaray'da sözleşme görüşmelerinde kriz yaşanıyor. Sarı-kırmızılıların yaklaşık 1 milyon euroluk teklifini maç oynama garantisi istediği için kabul etmeyen genç oyuncu, kiralık gönderilme fikrine de sıcak bakmıyor.",
+      "url": "https://www.yenisafak.com/spor/galatasarayda-sozlesme-krizi-bir-turlu-kabul-etmiyor-4868677",
       "image_url": null,
-      "published": "2026-10-31T11:10:19",
+      "published": "2026-10-31T13:12:59",
       "source": "Yeni Şafak Spor",
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:03:16.932548",
+      "fetched_at": "2026-10-31T18:22:22.555986",
       "priority_score": 57,
       "categories": [
         "transfers",
-        "premier_league",
-        "la_liga",
         "super_lig"
       ],
-      "processed_at": "2026-10-31T14:03:58.055216",
+      "processed_at": "2026-10-31T18:23:03.890605",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Bayern-directeur haalt uit naar Tuchel: 'Wat een gebrek aan energie'",
-      "summary": "Max Eberl heeft stevige kritiek geuit op Thomas Tuchel, die tussen maart 2023 en juni 2024 trainer was van Bayern München. In een interview met het clubmagazine 51 blikte de sportief directeur terug op zijn eerste maanden bij de Duitse topclub. Hij was naar eigen zeggen geschrokken van de sfeer binn",
-      "url": "https://www.vi.nl/nieuws/bayern-directeur-haalt-uit-naar-tuchel-wat-een-gebrek-aan-energie",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/31/21fa2f20764556a2a1141d8140d71090b6551457.jpg?width=1200",
-      "published": "2026-10-31T12:48:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
+      "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
+      "image_url": "https://e0.365dm.com/26/10/1920x1080/skysports-chelsea-man-u_7392697.jpg?20261031145739",
+      "published": "2026-10-31T17:15:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
       "language": "both",
-      "fetched_at": "2026-10-31T14:03:52.843623",
-      "priority_score": 57,
+      "fetched_at": "2026-10-31T18:19:28.928037",
+      "priority_score": 56,
       "categories": [
-        "transfers",
-        "serie_a",
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.031788",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Nahuel Noll stands tall as Gladbach and Paderborn share spoils in goalless draw",
+      "summary": "Borussia Mönchengladbach and Paderborn shared the points in a goalless draw at Borussia Park, a result shaped by a VAR intervention and a string of fine saves at both ends of the pitch. Paderborn stopper Nahuel Noll piped teammate Mattes Hansen to the Man of the Match award.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-paderborn-match-report-highlights-matchday-8-39805",
+      "image_url": null,
+      "published": "2026-10-31T16:30:14",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:20:19.936678",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-10-31T18:23:03.135196",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+      "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-10-31T17:27:06",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:18.715531",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.014755",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds",
+      "summary": "Accidents will happen. They also have consequences. Leeds were playing well, certainly better than Bournemouth for the first 30 minutes until James Trafford committed a grievous error. The goalkeeper made a horrible mess of a pass to an unwitting Ao Tanaka. In stole Justin Kluivert to set up Evanils",
+      "url": "https://www.theguardian.com/football/2026/oct/31/bournemouth-leeds-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-10-31T17:16:21",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:56.463775",
+      "priority_score": 53,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-10-31T18:23:03.070200",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
+      "summary": "Michael Carrick is now a little more pre-doomed, pre-sacked, but is miles away from being the actual story hereOn and on and on. And then on just a little bit more it would seem. Manchester United: always crashing in the same Carrick.The obvious question after this 2-0 defeat at Stamford Bridge is h",
+      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
+      "image_url": null,
+      "published": "2026-10-31T17:54:19",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:19:56.466537",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-10-31T18:23:03.108882",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Manisa FK, 10 maçlık hasreti bitirdi!",
+      "summary": "Trendyol 1. Lig'in 13. haftasında Manisa FK, sahasında Batman Petrolspor'u 2-1 yendi. Cheikne Sylla'nın golleriyle 1-0'dan geri dönen Manisa FK, ligdeki 10 maçlık galibiye hasretine son verdi ve puanını 13'e çıkardı. Batman Petrolspor ise 23 puanda kaldı.",
+      "url": "https://www.haberturk.com/spor/manisa-fk-batman-petrolspor-mac-sonucu-iste-manisa-fk-batman-petrolspor-maci-ozeti-ve-golleri-1-lig-3923997",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793469688/3923997/jpg/1920x1080",
+      "published": "2026-10-31T18:02:30",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:11.509055",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-10-31T18:23:03.234282",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Hull City'nin galibiyet hasreti sürüyor!",
+      "summary": "İngiltere Premier Ligi'nin 9. haftasında Hull City, evinde Ipswich Town'la 2-2 berabere kaldı. Bu sonucun ardından ligdeki galibiyet hasreti 7 maça çıkan Hull City ve son 3 karşılaşmada kazanamayan Ipswich Town, haftayı 11 puanla tamamladı.",
+      "url": "https://www.haberturk.com/spor/hull-city-ipswich-town-mac-sonucu-iste-hull-city-ipswich-town-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3923992",
+      "image_url": "https://im.haberturk.com/l/2026/10/31/ver1793468396/3923992/jpg/1920x1080",
+      "published": "2026-10-31T17:40:06",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:21:11.509139",
+      "priority_score": 53,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-10-31T18:23:03.239561",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bundesliga honours Ballon d'Or winner Harry Kane with giant projection",
+      "summary": "On Saturday evening, the Bundesliga paid a special tribute to Ballon d'Or winner Harry Kane. Just a few days after the award ceremony in London, the Bayern Munich striker appeared larger than life on Munich’s Olympic Tower before kick-off against Borussia Dortmund in Der Klassiker.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/giant-projection-berlin-tower-harry-kane-bayern-munich-ballon-d-or-39808",
+      "image_url": null,
+      "published": "2026-10-31T16:55:16",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-10-31T18:20:19.934031",
+      "priority_score": 51,
+      "categories": [
         "bundesliga"
       ],
-      "processed_at": "2026-10-31T14:03:58.103345",
+      "processed_at": "2026-10-31T18:23:03.121291",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "'Lisandro Martínez staat voor overstap naar Spanje'",
-      "summary": "Atlético Madrid en Barcelona volgen de situatie van Lisandro Martínez bij Manchester United nauwlettend. De 28-jarige Argentijn beschikt over een contract tot medio 2027, maar volgens het Spaanse AS zijn zowel de club als de verdediger niet van plan de optie voor een extra seizoen te lichten. Daardo",
-      "url": "https://www.vi.nl/nieuws/lisandro-martinez-staat-voor-overstap-naar-spanje",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/10/31/4921b29ce352b1bb22cf864b1295c7047bf60d0e.jpg?width=1200",
-      "published": "2026-10-31T10:27:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
+      "title": "Fenerbahçe'de 'yönetim istifa' sesleri: Taraftardan sert protesto",
+      "summary": "Trendyol Süper Lig'in 10. haftasında Göztepe'ye sahasında 2-1 mağlup olan Fenerbahçe'de taraftarlar, üst üste gelen gollerin ardından yönetime tepki gösterdi. Sarı-lacivertli tribünlerden 'Yönetim istifa' tezahüratları yükseldi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-yonetim-istifa-sesleri-taraftardan-sert-protesto-43361946",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6ae62fa9c44e39ea4136a0ea.jpg",
+      "published": "2026-10-31T18:11:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:03:52.843818",
-      "priority_score": 57,
+      "fetched_at": "2026-10-31T18:21:25.379889",
+      "priority_score": 51,
       "categories": [
-        "transfers",
-        "premier_league",
-        "la_liga"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-10-31T14:03:58.145097",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "'Como dreigt sterkhouder kwijt te raken, Ødegaard flirt met Bayern'",
-      "summary": "De zomerse transferwindow is achter de rug, maar de geruchtenstroom richting de winter is alweer op gang gekomen. Er zijn daarnaast ook nog genoeg transfervrije spelers. Volg al het transfernieuws en alle geruchten in onderstaand blog. Bekijk hier ons blog voor de perikelen in Nederland.",
-      "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transfers-en-geruchten-in-het-buitenland",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/09/03/1a44c5cda8c92ce8eb8c4f91efe667c65050a968.jpg?width=1200",
-      "published": "2026-10-31T09:55:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:03:52.843889",
-      "priority_score": 57,
-      "categories": [
-        "transfers",
-        "serie_a",
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-31T14:03:58.162327",
+      "processed_at": "2026-10-31T18:23:03.303535",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
@@ -458,150 +563,33 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:02:18.705411",
-      "priority_score": 56,
+      "fetched_at": "2026-10-31T18:21:25.380785",
+      "priority_score": 51,
       "categories": [
         "match_results",
         "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-10-31T14:03:57.757403",
+      "processed_at": "2026-10-31T18:23:03.398094",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live",
-      "summary": "⚽ Clockwatch updates on the Saturday 3pm GMT kick-offs⚽ Football Daily | Scorers | Live Scores | Table | Mail TomCoventry XI: Rushworth, van Ewijk, Mfuni, Pinnock, Dasilva, Yirenkyi, Torp, Sakamoto, Rudoni, Gboho, Awoniyi. Subs: Bentley, Kesler-Hayden, Latibeaudiere, Grimes, Mason-Clark, Hamer, Simm",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
+      "title": "88. Cumhurbaşkanlığı Koşusu ve 46. Cumhuriyet Koşusu’nda kazananlar belli oldu",
+      "summary": "Türk atçılığının en önemli yarışlarından olan 88. Cumhurbaşkanlığı Koşusu ve 46. Cumhuriyet Koşusu'nun heyecanı Ankara’da yaşandı. Cumhurbaşkanlığı koşusunu Etsuko isimli İngiliz atıyla Ayhan Kurşun kazandı. Cumhuriyet Koşusu'nu ise Selim Kaya ile start alan Özmen Bey kazandı.",
+      "url": "https://www.cnnturk.com/spor/binicilik/88-cumhurbaskanligi-kosusunda-sampiyon-etsuko-3487148",
       "image_url": null,
-      "published": "2026-10-31T13:54:40",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:54.698626",
-      "priority_score": 53,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-10-31T14:03:57.620185",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Dart reaches first WTA Tour final after dramatic comeback",
-      "summary": "Harriet Dart is through to her first WTA Tour singles final after beating Sun Xinran 5-7 7-6 (7-1) 6-0 at the Guangzhou Open.",
-      "url": "https://www.skysports.com/tennis/news/12040/13606067/guangzhou-open-harriet-dart-reaches-first-wta-tour-final-after-dramatic-comeback-against-chinese-teenager-sun-xinran",
-      "image_url": "https://e1.365dm.com/26/08/1920x1080/skysports-harriet-dart-tennis_7336702.jpg?20260831162857",
-      "published": "2026-10-31T11:29:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:33.356104",
-      "priority_score": 51,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-31T14:03:57.613343",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "How do Bayern Munich's Harry Kane and Borussia Dortmund's Serhou Guirassy compare?",
-      "summary": "Der Klassiker rarely needs an extra storyline, given its history and potential impact on the title race. But when Bayern Munich host Borussia Dortmund at the Allianz Arena on Matchday 8, the heavyweight duel between Harry Kane and Serhou Guirassy adds another compelling subplot.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/kane-guirassy-compared-bayern-dortmund-26-27-klassiker-36156",
-      "image_url": null,
-      "published": "2026-10-31T08:30:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:01:15.114937",
-      "priority_score": 51,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-10-31T14:03:57.675496",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Çorum FK, Erzurumspor FK deplasmanında da kazandı",
-      "summary": "Çorum FK, Erzurumspor FK’ye konuk olduğu müsabakadan galibiyetle ayrıldı.",
-      "url": "https://www.cnnturk.com/spor/futbol/corum-fk-erzurumspor-fk-deplasmaninda-da-kazandi-3487152",
-      "image_url": null,
-      "published": "2026-10-31T16:41:22",
+      "published": "2026-10-31T18:20:29",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-10-31T14:02:43.932241",
+      "fetched_at": "2026-10-31T18:21:47.573014",
       "priority_score": 51,
       "categories": [
-        "match_results",
-        "premier_league"
+        "match_results"
       ],
-      "processed_at": "2026-10-31T14:03:57.865761",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "From WiFi to 'relief' - how was Ferguson's Irish League debut?",
-      "summary": "After a 1-1 draw in his first match as Glentoran manager, Duncan Ferguson speaks of his \"relief\" in a week filled with WiFi and homework.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj5ynr23rg4ro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T22:52:32",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:20.034151",
-      "priority_score": 50,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-10-31T14:03:57.591233",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fears Chelsea's Lacroix could be out until January",
-      "summary": "Chelsea fear Maxence Lacroix will have a lengthy lay-off having suffered a serious hamstring injury.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-10-30T16:21:10",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:20.034318",
-      "priority_score": 50,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-31T14:03:57.592595",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
-      "summary": "‘No discussions about that … Everyone has to be ready’Brazilian has started only twice in 11 games this seasonXabi Alonso has ruled out a January move for Estêvão Willian but has said the Chelsea youngster must adapt to his style of play before earning a regular spot in the team.The debate around Es",
-      "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
-      "image_url": null,
-      "published": "2026-10-30T22:30:26",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-10-31T14:00:54.699701",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-10-31T14:03:57.631870",
+      "processed_at": "2026-10-31T18:23:03.646337",
       "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
       "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
