@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T16:33:06.617893",
+  "timestamp": "2026-11-06T21:56:58.254361",
   "total_items": 30,
   "news": [
     {
@@ -12,8 +12,8 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-06T16:29:13.439008",
-      "priority_score": 96,
+      "fetched_at": "2026-11-06T21:52:42.329354",
+      "priority_score": 91,
       "categories": [
         "transfers",
         "breaking_news",
@@ -21,30 +21,50 @@
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-11-06T16:31:46.093165",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.449437",
+      "title_tr": "Borussia Dortmund'lu Serhou Guirassy, ​​Elversberg karşılaşmasında forma giyemeyecek",
+      "summary_tr": "Niko Kovač, Serhou Guirassy'nin, Borussia Dortmund'un Çarşamba günü UEFA Şampiyonlar Ligi'nde Real Betis karşısında aldığı galibiyet sırasında sakatlanan forvetin ardından Elversberg'e karşı oynayacağı 9. Maç maçında kaçıracağını doğruladı."
+    },
+    {
+      "title": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
+      "summary": "Jude had asked head coach to scout Dortmund midfielder‘It will be beautiful for Jude to have his brother close’Thomas Tuchel has given a first England call-up to Jobe Bellingham, admitting the midfielder’s older brother, Jude, had nagged him to do so, as he set up the prospect of their family dream ",
+      "url": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
+      "image_url": null,
+      "published": "2026-11-06T19:00:50",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:20.069930",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-06T21:55:24.367007",
+      "title_tr": "Bellingham'lar Jobe'un Tuchel İngiltere 2.0'da Jude'a katılmasıyla 'güzel hikayeyi' kutluyor",
+      "summary_tr": "Jude, baş antrenörden Dortmund'un orta saha oyuncusunu gözlemlemesini istemişti.'Kardeşinin yakınlarda olması Jude için çok güzel olacak'Thomas Tuchel, İngiltere'deki ilk Jobe Bellingham çağrısını yaptı ve orta saha oyuncusunun ağabeyi Jude'un, aile hayallerini kurması için onu bu konuda dırdır ettiğini kabul etti."
     },
     {
       "title": "Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'",
       "summary": "Galatasaray, Victor Osimhen'in sol dizinde esneme tespit edildiğini açıkladı. Nijeryalı golcü operasyon geçirecek.",
       "url": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-osimhen-icin-sakatlik-aciklamasi-operasyon-gecirecek-43368793",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aedf97baa7d7bef197663df.jpg",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aee0061aa7d7bef19766400.jpg",
       "published": "2026-11-06T15:57:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:30:08.838092",
-      "priority_score": 86,
+      "fetched_at": "2026-11-06T21:53:46.869234",
+      "priority_score": 76,
       "categories": [
         "match_results",
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-11-06T16:31:46.192887",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.584305",
+      "title_tr": "Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'",
+      "summary_tr": "Galatasaray, Victor Osimhen'in sol dizinde esneme tespit edildiğini açıkladı. Nijeryalı golcü operasyon geçirecek."
     },
     {
       "title": "Borussia Dortmund midfielder Jobe Bellingham receives first senior England call-up",
@@ -56,328 +76,94 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-06T16:29:13.439848",
-      "priority_score": 76,
+      "fetched_at": "2026-11-06T21:52:42.330125",
+      "priority_score": 71,
       "categories": [
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-11-06T16:31:46.100014",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.456805",
+      "title_tr": "Borussia Dortmund'un orta saha oyuncusu Jobe Bellingham, İngiltere'den ilk üst düzey çağrılmasını aldı",
+      "summary_tr": "Borussia Dortmund'un orta saha oyuncusu Jobe Bellingham, ilk kez İngiltere A Milli Takımı'na çağrıldı."
     },
     {
       "title": "SON DAKİKA | Galatasaray’da Victor Osimhen şoku: ameliyat olacak",
       "summary": "Galatasaray, Victor Osimhen’in dizinden ameliyat olacağını duyurdu.",
       "url": "https://www.cnnturk.com/spor/futbol/son-dakika-galatasarayda-victor-osimhen-soku-ameliyat-olacak-3490064",
       "image_url": null,
-      "published": "2026-11-06T19:10:28",
+      "published": "2026-11-06T21:12:00",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:30:34.080178",
+      "fetched_at": "2026-11-06T21:54:13.039897",
       "priority_score": 71,
       "categories": [
         "injuries",
         "super_lig"
       ],
-      "processed_at": "2026-11-06T16:31:46.430440",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.873133",
+      "title_tr": "SON DAKİKA | Galatasaray’da Victor Osimhen şoku: ameliyat olacak",
+      "summary_tr": "Galatasaray, Victor Osimhen’in dizinden ameliyat olacağını duyurdu."
     },
     {
-      "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
-      "summary": "Carrick says it is possible to restore former glory at Old Trafford with time and Unai Emery confirms Aston Villa contract talks Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
+      "title": "Premier League team news: predicted lineups for the weekend action",
+      "summary": "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael CarrickSaturday 12.30pm TNT Sports 1 Venue Elland Road Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-team-news-predicted-lineups-for-the-weekend-action",
       "image_url": null,
-      "published": "2026-11-06T16:06:30",
+      "published": "2026-11-06T16:43:45",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:49.220125",
+      "fetched_at": "2026-11-06T21:52:20.071303",
       "priority_score": 68,
       "categories": [
-        "transfers",
-        "injuries",
+        "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-06T16:31:46.037983",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.386134",
+      "title_tr": "Premier Lig takım haberleri: hafta sonu maçı için öngörülen kadrolar",
+      "summary_tr": "Manchester United, Michael Carrick üzerindeki baskıyı hafifletmek için sekiz maçta ilk lig galibiyetini almak isteyen Aston Villa'yı ağırladıCumartesi 12.30 TNT Sports 1 Venue Elland Road Okumaya devam et..."
     },
     {
-      "title": "Football Daily | You want proper football? Here are the FA Cup first-round ties to look out for",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!For the FA Cup, the early rounds are the juice. The first round proper to be played out over the long weekend is looking, well, proper. And on Saturday at 3pm GMT, a proper time, 31 ties will kick off. No VAR, either. At the stage when the bottom tw",
-      "url": "https://www.theguardian.com/football/2026/nov/06/fa-cup-first-round-ties-to-look-out-for-football-daily-newsletter",
+      "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+      "summary": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-11-06T14:55:19",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-11-06T21:08:04",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:49.221633",
-      "priority_score": 63,
+      "fetched_at": "2026-11-06T21:51:46.001109",
+      "priority_score": 55,
       "categories": [
-        "breaking_news",
-        "injuries"
+        "la_liga",
+        "serie_a"
       ],
-      "processed_at": "2026-11-06T16:31:46.048614",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.298051",
+      "title_tr": "Real Madrid ve PSG Suzuki'ye meraklı - Cumartesi günkü dedikodular",
+      "summary_tr": "Paris St-Germain ve Real Madrid, Aston Villa'nın kalecisi Zion Suzuki ile ilgileniyor, Inter Milan, Crystal Palace'tan Chris Richards ve daha fazlası için hamleyi değerlendiriyor."
     },
     {
       "title": "Galatasaray'da Osimhen şoku!",
       "summary": "Galatasaray, Victor Osimhen'in dizinden operasyon geçireceğini ve bu nedenle Amedspor maçında forma giyemeyeceğini açıkladı.",
       "url": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-osimhen-soku-3925470",
       "image_url": "https://im.haberturk.com/l/2026/11/06/ver1793981184/3925470/jpg/1920x1080",
-      "published": "2026-11-06T16:13:25",
+      "published": "2026-11-06T16:22:46",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:29:59.469693",
-      "priority_score": 63,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-11-06T16:31:46.117912",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fiorentina Torreira için devrede!",
-      "summary": "Galatasaray'ın Uruguaylı orta saha oyuncusu Lucas Torreira'nın İtalya'ya dönmek istediği iddia edildi. İtalyan basınında yer alan haberlere göre, orta saha hattını güçlendirmek isteyen Fiorentina, tecrübeli futbolcuyu transfer listesine aldı.",
-      "url": "https://www.haberturk.com/spor/fiorentina-lucas-torreira-icin-yeniden-devrede-3925419",
-      "image_url": "https://im.haberturk.com/l/2026/11/06/ver1793967873/3925419/jpg/1920x1080",
-      "published": "2026-11-06T13:08:01",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:29:59.470277",
-      "priority_score": 63,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-06T16:31:46.146945",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-      "summary": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-06T14:25:41",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.793849",
-      "priority_score": 55,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-11-06T16:31:45.968536",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-      "summary": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-06T15:21:40",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.794350",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-11-06T16:31:45.970524",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
-      "summary": "Michael Carrick believes Manchester United can reach the heights achieved under Sir Alex Ferguson but is not expecting the same level of patience.",
-      "url": "https://www.skysports.com/football/news/12040/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7399116.jpg?20261106143020",
-      "published": "2026-11-06T15:40:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:24.780523",
-      "priority_score": 51,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-06T16:31:45.985166",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Trabzonspor'da Alanyaspor maçı mesaisi başladı!",
-      "summary": "Trabzonspor, Corendon Alanyaspor maçının hazırlıklarına başladı.",
-      "url": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-alanyaspor-maci-mesaisi-basladi-43368778",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6aedf43d242372ca50175e5f.jpg",
-      "published": "2026-11-06T15:38:06",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:30:08.838252",
-      "priority_score": 51,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-11-06T16:31:46.204833",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Galatasaray Amedspor Maçı Ne Zaman, Saat Kaçta? GS-Amed Maçı Hangi Kanalda, Şifresiz Nereden İzlenir? Gözler Zirvedeki İki Takımın Mücadelesinde!",
-      "summary": "Trendyol Süper Lig’in 11. haftasında zirve mücadelesi İstanbul’a taşınıyor. İlk 10 maçta topladığı 25 puanla liderliğini sürdüren Galatasaray, en yakın takipçisi Amedspor’u sahasında ağırlayacak. Sarı-kırmızılılar kazanarak iki puanlık farkı açmak isterken 23 puanlı Amed Sportif Faaliyetler, deplasm",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-amedspor-maci-ne-zaman-saat-kacta-gs-amed-maci-hangi-kanalda-sifresiz-nereden-izlenir-gozler-zirvedeki-iki-takimin-3489952",
-      "image_url": null,
-      "published": "2026-11-06T15:53:32",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:30:34.081921",
-      "priority_score": 51,
-      "categories": [
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-06T16:31:46.548243",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Minutenlange lofzang voor Veerman: 'Hier veel intenser dan in Nederland'",
-      "summary": "Niko Kovac is zeer te spreken over de stappen die Joey Veerman heeft gezet sinds zijn overstap van PSV naar Borussia Dortmund. De trainer van de Duitsers meent dat de intensiteit in Duitsland vele malen hoger ligt dan in Nederland en dat Veerman daar in het begin moeite mee had, maar inmiddels niet ",
-      "url": "https://www.vi.nl/nieuws/veerman-krijgt-minutenlange-lofzang-van-zijn-trainer",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/06/3272bce90263ddc0c825b9396006c0e00a8c300e.jpg?width=1200",
-      "published": "2026-11-06T16:28:13",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:31:41.015304",
-      "priority_score": 47,
-      "categories": [
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-06T16:31:46.893250",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Iraola wil minuten voor Gravenberch niet uitsluiten bij 'te eerlijk' Liverpool",
-      "summary": "Ryan Gravenberch is niet opgenomen in de selectie van het Nederlands elftal voor de aankomende interlands, maar maakt mogelijk zondag al wel minuten voor Liverpool. Manager Andoni Iraola bleef vrijdag een beetje vaag over de fitheid van de middenvelder, maar wilde in ieder geval niet uitsluiten dat ",
-      "url": "https://www.vi.nl/nieuws/iraola-wil-minuten-voor-gravenberch-niet-uitsluiten-bij-te-eerlijk-liverpool",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/06/7a3b9f3539644b4006c734b007baa136fe2cb1f3.jpg?width=1200",
-      "published": "2026-11-06T16:02:33",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:31:41.015544",
-      "priority_score": 47,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-11-06T16:31:46.939533",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fitness boost for England as Fin Smith given green light to face Australia",
-      "summary": "Fin Smith will steer England through their crucial autumn opener against Australia on Sunday after completing his recovery from a calf problem.",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13608784/fin-smith-fitness-boost-for-england-as-fly-half-given-green-light-to-face-australia-with-henry-pollock-on-bench-for-australia-clash",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-fin-smith_7396518.jpg?20261104062530",
-      "published": "2026-11-06T15:06:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:24.780684",
-      "priority_score": 46,
-      "categories": [
-        "injuries"
-      ],
-      "processed_at": "2026-11-06T16:31:45.989816",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Jobe Bellingham ‘deserves’ England call; Arteta ‘can’t help’ leaving technical area: football news – live",
-      "summary": "⚽ All the latest heading into a busy weekend of football⚽ Premier League: 10 things to look out for | Mail John What do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just playing ability. Tuchel’s press conference is set for 11am so we’ll see how he ex",
-      "url": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-      "image_url": null,
-      "published": "2026-11-06T16:22:47",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:49.219789",
-      "priority_score": 58,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-06T16:31:46.033209",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Fenerbahçe’de Emre Belözoğlu, imzayı attı! İlk açıklamalar…",
-      "summary": "Fenerbahçe ile sözleşme imzalayan Emre Belözoğlu, kendisi için düzenlenen basın toplantısında dikkat çeken açıklamalarda bulundu.",
-      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-emre-belozoglu-imzayi-atti-ilk-aciklamalar-3490051",
-      "image_url": null,
-      "published": "2026-11-06T18:08:57",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:30:34.081129",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-06T16:31:46.500863",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Nottingham Forest’s historic goal drought at home is part of longstanding problem",
-      "summary": "Oliver Glasner’s side are yet to score at City Ground this season but troubles in front of goal precede his arrivalNottingham Forest and Schalke are yet to score at home in 2026-27. The former are one of only five teams in the history of the English top flight to have failed to score in their first ",
-      "url": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
-      "image_url": null,
-      "published": "2026-11-06T10:49:59",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:49.222065",
+      "fetched_at": "2026-11-06T21:53:35.803886",
       "priority_score": 53,
       "categories": [
-        "breaking_news"
+        "super_lig"
       ],
-      "processed_at": "2026-11-06T16:31:46.054299",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.518118",
+      "title_tr": "Galatasaray'da Osimhen şoku!",
+      "summary_tr": "Galatasaray, Victor Osimhen'in dizinden operasyon geçireceğini ve bu nedenle Amedspor maçında forma giyemeyeceğini açıkladı."
     },
     {
       "title": "Galatasaray'da sürpriz ayrılık: Yeni sözleşme imzalamıştı, takıma veda ediyor!",
@@ -389,55 +175,73 @@
       "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:31:02.498882",
+      "fetched_at": "2026-11-06T21:54:42.569500",
       "priority_score": 52,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-11-06T16:31:46.861283",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:25.323912",
+      "title_tr": "Galatasaray'da sürpriz ayrılık: Yeni sözleşme imzalamıştı, takıma veda ediyor!",
+      "summary_tr": "Sezon başında kadro dışı planlamaları kapsamında kiralık olarak gönderilen 24 yaşındaki stoperin geleceğinde sıcak gelişmeler yaşanıyor."
     },
     {
-      "title": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug?",
-      "summary": "Coach Jürgen Klopp has recalled Bundesliga leading scorer Niklas Füllkrug to the Germany squad for the first time since September 2025 – we take a look at what Werder Bremen’s in-form forward will bring to the national team.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/what-will-niclas-fullkrug-give-jurgen-klopp-and-germany-werder-bremen-39902",
+      "title": "Kasımpaşa, Gaziantep FK deplasmanında kazandı",
+      "summary": "Kasımpaşa, Gaziantep FK’ye konuk olduğu müsabakadan galibiyetle ayrıldı.",
+      "url": "https://www.cnnturk.com/spor/futbol/kasimpasa-gaziantep-fk-deplasmaninda-kazandi-3490095",
       "image_url": null,
-      "published": "2026-11-06T12:58:38",
-      "source": "Bundesliga Official",
+      "published": "2026-11-06T22:13:35",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:29:13.421481",
+      "fetched_at": "2026-11-06T21:54:13.039326",
       "priority_score": 51,
       "categories": [
-        "breaking_news",
-        "bundesliga"
+        "match_results",
+        "premier_league"
       ],
-      "processed_at": "2026-11-06T16:31:46.088042",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.818369",
+      "title_tr": "Kasımpaşa, Gaziantep FK deplasmanında kazandı",
+      "summary_tr": "Kasımpaşa, Gaziantep FK’ye konuk olduğu müsabakadan galibiyetle ayrıldı."
     },
     {
-      "title": "Championship preview: Contenders, pretenders and strugglers",
-      "summary": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
+      "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
+      "summary": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-11-06T09:22:00",
+      "published": "2026-11-06T14:25:41",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.796230",
+      "fetched_at": "2026-11-06T21:51:46.001374",
       "priority_score": 50,
       "categories": [
-        "match_results",
-        "injuries"
+        "serie_a"
       ],
-      "processed_at": "2026-11-06T16:31:45.981372",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.298695",
+      "title_tr": "Portekizli teknik adam Ronaldo'nun emekli olacağı konusunda 'hiçbir şey bilmiyordu'",
+      "summary_tr": "Portekiz teknik direktörü Jorge Jesus, Cristiano Ronaldo'nun uluslararası futboldan emekli olduğunu \"hepimiz öğrendiğinde öğrendiğini\" söyledi."
+    },
+    {
+      "title": "Bliksemstart met twee goals in 128 seconden blijkt hoogtepunt van Willem II – PEC",
+      "summary": "Willem II en PEC Zwolle hebben vrijdagavond allebei een punt overgehouden aan hun ontmoeting. Het duel startte zeer spectaculair met twee razendsnelle doelpunten. Het bleek echter geen voorbode voor een echt spektakelstuk.",
+      "url": "https://www.vi.nl/nieuws/bliksemstart-met-twee-goals-in-128-seconden-blijkt-hoogtepunt-van-willem-ii-pec",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/06/9057e48a38a7b886dd1ea5bfcbd2ffdf15db5b1d.jpg?width=1200",
+      "published": "2026-11-06T20:55:32",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:55:20.239351",
+      "priority_score": 47,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-11-06T21:55:25.425968",
+      "title_tr": "128 saniyede iki golle başlayan yıldırım Willem II – PEC'in en önemli anlarından biri oldu",
+      "summary_tr": "Willem II ve PEC Zwolle Cuma akşamı yaptıkları toplantıdan birer puan kazandılar. Maç çok hızlı iki golle başladı. Ancak bunun gerçek bir gösterinin habercisi olmadığı ortaya çıktı."
     },
     {
       "title": "Fenerbahçe, Emre Belözoğlu'yla imzaladı!",
@@ -449,72 +253,311 @@
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-06T16:29:59.469780",
-      "priority_score": 48,
+      "fetched_at": "2026-11-06T21:53:35.803957",
+      "priority_score": 43,
       "categories": [
         "transfers",
         "super_lig"
       ],
-      "processed_at": "2026-11-06T16:31:46.122053",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.524146",
+      "title_tr": "Fenerbahçe, Emre Belözoğlu'yla imzaladı!",
+      "summary_tr": "Fenerbahçe, teknik direktör Emre Belözoğlu için imza töreni düzenledi. Yuvasına dönmenin gururunu yaşadığını söyleyen 46 yaşındaki çalıştırıcı; kupalara giden yolu bildiğini, camianın beklentilerinin ve oturduğu koltuğun ağırlığının farkında olduğunu dile getirdi ve kendisini sarı-lacivertlilere bağ"
     },
     {
-      "title": "Vliegende keeper: David Raya is bij Arsenal ook verdediger en aanvaller",
-      "summary": "Wie twijfels uit over de titelkansen van Arsenal, zal niet over de defensie van de kampioen van Engeland beginnen. In die veelgeprezen verdediging is doelman David Raya (31) een constante factor. Door risico te nemen heeft de Spanjaard zich onmisbaar gemaakt.",
-      "url": "https://www.vi.nl/pro/vliegende-keeper-david-raya-is-bij-arsenal-ook-verdediger-en-aanvaller",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/02/01ff9f8bb6237d3caf975326392f34afd4cd602c.jpg?width=1200",
-      "published": "2026-11-06T16:00:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:31:41.015615",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-06T16:31:46.957142",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Carrick wil glorietijden uit Ferguson-tijdperk doen herleven",
-      "summary": "Michael Carrick wil met Manchester United terug naar de standaarden die Sir Alex Ferguson zette in zijn tijd bij de Red Devils . Er is weinig over van de topclub die in de decennia voor en na de eeuwwisseling werd gevreesd in heel Europa, maar volgens de huidige manager is het een realistisch streve",
-      "url": "https://www.vi.nl/nieuws/carrick-wil-glorietijden-uit-ferguson-tijdperk-doen-herleven",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/06/e70ca9becf73cb62da4acb67af1673576e55ccc9.jpg?width=1200",
-      "published": "2026-11-06T15:35:06",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:31:41.015689",
-      "priority_score": 47,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-06T16:31:46.971503",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Palmer misses too many chances to impress - Tuchel",
-      "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+      "title": "Miro Muheim and Albert Grønbæk hit screamers as Hamburg beat ten-man Gladbach",
+      "summary": "Miro Muheim and Albert Grønbæk both scored sensational goals as Hamburger defeated Borussia Mönchengladbach 3-1 on Friday night, with HSV taking advantage after Kō Itakura's red card early in the second half.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/hamburg-borussia-monchengladbach-match-report-highlights-matchday-9-39907",
       "image_url": null,
-      "published": "2026-11-06T11:59:37",
+      "published": "2026-11-06T21:23:16",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:42.327708",
+      "priority_score": 66,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-11-06T21:55:24.435542",
+      "title_tr": "Hamburg on kişilik Gladbach'ı yenerken Miro Muheim ve Albert Grønbæk çığlık attı",
+      "summary_tr": "Miro Muheim ve Albert Grønbæk, Cuma gecesi Hamburger'in Borussia Mönchengladbach'ı 3-1 mağlup ettiği maçta sansasyonel goller atarken, HSV, Kō Itakura'nın ikinci yarının başlarında gördüğü kırmızı karttan yararlandı."
+    },
+    {
+      "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
+      "summary": "Carrick says it is possible to restore former glory at Old Trafford with time and Unai Emery confirms Aston Villa contract talks Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
+      "image_url": null,
+      "published": "2026-11-06T16:06:30",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:20.070228",
+      "priority_score": 58,
+      "categories": [
+        "transfers",
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-06T21:55:24.371757",
+      "title_tr": "Premier Lig haberleri: United'dan Baleba haftalardır yok, Maresca Donnarumma'yı destekliyor",
+      "summary_tr": "Carrick, Old Trafford'daki eski ihtişamını zamanla geri getirmenin mümkün olduğunu söylüyor ve Unai Emery, Aston Villa ile sözleşme görüşmelerini doğruluyor Okumaya devam et..."
+    },
+    {
+      "title": "Football Daily | You want proper football? Here are the FA Cup first-round ties to look out for",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!For the FA Cup, the early rounds are the juice. The first round proper to be played out over the long weekend is looking, well, proper. And on Saturday at 3pm GMT, a proper time, 31 ties will kick off. No VAR, either. At the stage when the bottom tw",
+      "url": "https://www.theguardian.com/football/2026/nov/06/fa-cup-first-round-ties-to-look-out-for-football-daily-newsletter",
+      "image_url": null,
+      "published": "2026-11-06T14:55:19",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:20.073051",
+      "priority_score": 58,
+      "categories": [
+        "breaking_news",
+        "injuries"
+      ],
+      "processed_at": "2026-11-06T21:55:24.405914",
+      "title_tr": "Futbol Günlük | Düzgün futbol mu istiyorsun? İşte dikkat etmeniz gereken FA Cup ilk tur eşleşmeleri",
+      "summary_tr": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Şimdi kaydolun! FA Cup için ilk turlar çok önemli. Uzun hafta sonu boyunca oynanacak ilk tur uygun görünüyor. Ve Cumartesi günü saat 15:00 GMT'de, uygun zamanda, 31 beraberlik başlayacak. VAR'da da yok. En alttaki tw'nin olduğu aşamada"
+    },
+    {
+      "title": "New champion Antonelli tops Brazil practice",
+      "summary": "Kimi Antonelli completed an impressive first day back on track as F1's new world champion to set the pace in second practice at the Sao Paulo Grand Prix.",
+      "url": "https://www.skysports.com/f1/news/12040/13608866/sao-paulo-gp-kimi-antonelli-fastest-for-mercedes-in-second-practice-at-interlagos-ahead-of-lando-norris-in-upgraded-mclaren",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-lando-norris_7399437.jpg?20261106195713",
+      "published": "2026-11-06T20:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:51:57.960699",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-11-06T21:55:24.317937",
+      "title_tr": "Yeni şampiyon Antonelli Brezilya antrenmanlarının zirvesinde",
+      "summary_tr": "Kimi Antonelli, F1'in yeni dünya şampiyonu olarak Sao Paulo Grand Prix'sinin ikinci antrenmanında tempoyu belirleyen etkileyici bir ilk günü pistte tamamladı."
+    },
+    {
+      "title": "‘The message was clear’ - Vasseur holds Hamilton-Leclerc meeting after clash",
+      "summary": "Ferrari boss Frederic Vasseur says he reminded Lewis Hamilton and Charles Leclerc that the team comes first after their first-lap clash in Mexico in a meeting ahead of this weekend's Sao Paulo Grand Prix.",
+      "url": "https://www.skysports.com/f1/news/12040/13608869/ferrari-boss-frederic-vasseur-confirms-lewis-hamilton-charles-leclerc-meeting-after-mexico-clash-ahead-of-sao-paulo-gp",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-charles-leclerc-lewis-hamilton_7399379.jpg?20261106184758",
+      "published": "2026-11-06T18:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:51:57.960876",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-11-06T21:55:24.328094",
+      "title_tr": "'Mesaj açıktı' - Vasseur çatışmanın ardından Hamilton-Leclerc toplantısı yaptı",
+      "summary_tr": "Ferrari patronu Frederic Vasseur, Lewis Hamilton ve Charles Leclerc'e, bu hafta sonu Sao Paulo Grand Prix'si öncesinde yapılan toplantıda, Meksika'daki ilk tur karşılaşmasının ardından takımın ilk sırada yer aldığını hatırlattığını söyledi."
+    },
+    {
+      "title": "Norris tops Brazil first practice in upgraded McLaren",
+      "summary": "Lando Norris was fastest in his upgraded McLaren from new Formula 1 world champion Kimi Antonelli in first practice at the Sao Paulo Grand Prix.",
+      "url": "https://www.skysports.com/f1/news/12040/13608857/sao-paulo-gp-lando-norris-tops-brazil-first-practice-in-upgraded-mclaren-from-kimi-antonelli-and-max-verstappen",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-lando-norris_7399252.jpg?20261106163914",
+      "published": "2026-11-06T16:40:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:51:57.961249",
+      "priority_score": 51,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-11-06T21:55:24.345729",
+      "title_tr": "Norris, geliştirilmiş McLaren ile Brezilya'daki ilk antrenmanda lider oldu",
+      "summary_tr": "Lando Norris, Sao Paulo Grand Prix'sinin ilk antrenmanında yeni Formula 1 dünya şampiyonu Kimi Antonelli'den alınan yükseltilmiş McLaren aracıyla en hızlı isim oldu."
+    },
+    {
+      "title": "Bundesliga Matchday 9 probable teams",
+      "summary": "Serhou Guirassy will miss Borussia Dortmund's clash with Elversberg on Saturday afternoon. Who will replace him up front?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
+      "image_url": null,
+      "published": "2026-11-07T01:35:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:42.325825",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-06T21:55:24.421239",
+      "title_tr": "Bundesliga 9. Maç günü muhtemel takımlar",
+      "summary_tr": "Serhou Guirassy, ​​Borussia Dortmund'un Cumartesi öğleden sonra Elversberg ile yapacağı karşılaşmada forma giyemeyecek. Onun yerine kim gelecek?"
+    },
+    {
+      "title": "Sebastian Grønning on Hertha Berlin’s promotion ambitions, Stefan Leitl and his goalscoring instincts",
+      "summary": "Hertha Berlin have made a sensational start to the 2026/27 Bundesliga 2 campaign, going unbeaten across 10 matches - winning nine - to top the table. The Bundesliga caught up with striker Sebastian Grønning to discuss the capital club’s remarkable form, the influence of head coach Stefan Leitl, his ",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/sebastian-gronning-interview-hertha-berlin-promotion-stefan-leitl-39894",
+      "image_url": null,
+      "published": "2026-11-07T00:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:42.326820",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-06T21:55:24.429098",
+      "title_tr": "Sebastian Grønning, Hertha Berlin'in yükselme hedeflerini, Stefan Leitl'i ve gol atma içgüdülerini anlatıyor",
+      "summary_tr": "Hertha Berlin, 2026/27 Bundesliga 2 sezonuna sansasyonel bir başlangıç ​​yaptı ve çıktığı 10 maçta yenilmedi ve dokuzunu kazanarak zirveye yerleşti. Bundesliga, başkent kulübünün olağanüstü formunu, başantrenör Stefan Leitl'in etkisini ve kariyerini tartışmak üzere forvet Sebastian Grønning ile bir araya geldi."
+    },
+    {
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "summary": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-06T15:21:40",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.793612",
-      "priority_score": 45,
+      "fetched_at": "2026-11-06T21:51:46.002007",
+      "priority_score": 50,
       "categories": [
-        "premier_league"
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-11-06T16:31:45.968065",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.301423",
+      "title_tr": "FIFA, Infantino'yu 'samuray ruhuyla' devirmeyi umuyor",
+      "summary_tr": "Gianni Infantino'nun başkanlık için ilk rakibi BBC Sport'a neden seçimde yer aldığını anlatıyor."
+    },
+    {
+      "title": "Championship preview: Contenders, pretenders and strugglers",
+      "summary": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-06T09:22:00",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:51:46.003118",
+      "priority_score": 50,
+      "categories": [
+        "match_results",
+        "injuries"
+      ],
+      "processed_at": "2026-11-06T21:55:24.309044",
+      "title_tr": "Şampiyona önizlemesi: Yarışmacılar, taklitçiler ve mücadeleciler",
+      "summary_tr": "BBC Sport, Cumartesi günkü Şampiyona karşılaşmasında dikkat edilmesi gereken beş şeyin altını çiziyor."
+    },
+    {
+      "title": "Nottingham Forest’s historic goal drought at home is part of longstanding problem",
+      "summary": "Oliver Glasner’s side are yet to score at City Ground this season but troubles in front of goal precede his arrivalNottingham Forest and Schalke are yet to score at home in 2026-27. The former are one of only five teams in the history of the English top flight to have failed to score in their first ",
+      "url": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
+      "image_url": null,
+      "published": "2026-11-06T10:49:59",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:20.071813",
+      "priority_score": 48,
+      "categories": [
+        "breaking_news"
+      ],
+      "processed_at": "2026-11-06T21:55:24.391877",
+      "title_tr": "Nottingham Forest'ın tarihi hedefi evindeki kuraklık, uzun süredir devam eden sorunun bir parçası",
+      "summary_tr": "Oliver Glasner'ın takımı bu sezon City Ground'da henüz gol atamadı ancak onun gelişinden önce kale önünde sorunlar yaşandı. Nottingham Forest ve Schalke, 2026-27'de henüz kendi sahasında gol atamadı. İlki, İngiltere'nin en iyi uçuş tarihinde ilk maçında gol atamayan beş takımdan biri."
+    },
+    {
+      "title": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug?",
+      "summary": "Coach Jürgen Klopp has recalled Bundesliga leading scorer Niklas Füllkrug to the Germany squad for the first time since September 2025 – we take a look at what Werder Bremen’s in-form forward will bring to the national team.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/what-will-niclas-fullkrug-give-jurgen-klopp-and-germany-werder-bremen-39902",
+      "image_url": null,
+      "published": "2026-11-06T12:58:38",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:52:42.328517",
+      "priority_score": 46,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-06T21:55:24.444142",
+      "title_tr": "Almanya teknik direktörü Jürgen Klopp, Werder Bremen'in forvet oyuncusu Niclas Füllkrug'un geri çağrılmasından ne bekleyebilir?",
+      "summary_tr": "Antrenör Jürgen Klopp, Bundesliga'nın önde gelen golcüsü Niklas Füllkrug'u Eylül 2025'ten bu yana ilk kez Almanya kadrosuna geri çağırdı; Werder Bremen'in formda forvetinin milli takıma neler getireceğine bir göz atacağız."
+    },
+    {
+      "title": "KENAN YILDIZ MİLLİ TAKIMDA NEDEN YOK? Kenan Yıldız sakat mı?",
+      "summary": "A Milli Futbol Takımı'nın Belçika ve Fransa ile oynayacağı karşılaşmaların kadrosu açıklandı. Kenan Yıldız'ın kadroda yer almaması dikkat çekti. Futbolseverler Kenan Yıldız'ın neden kadroda olmadığını araştırmaya başladı. Bununla birlikte sakatlık durumu olup olmadığı sorgulanıyor. Peki Kenan Yıldız",
+      "url": "https://www.cnnturk.com/spor/kenan-yildiz-milli-takimda-neden-yok-kenan-yildiz-sakat-mi-3490090",
+      "image_url": null,
+      "published": "2026-11-06T21:42:04",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:54:13.039717",
+      "priority_score": 46,
+      "categories": [
+        "injuries"
+      ],
+      "processed_at": "2026-11-06T21:55:24.857603",
+      "title_tr": "KENAN YILDIZ MİLLİ TAKIMDA NEDEN YOK? Kenan Yıldız sakat mı?",
+      "summary_tr": "A Milli Futbol Takımı'nın Belçika ve Fransa ile oynayacağı karşılaşmaların kadrosu açıklandı. Kenan Yıldız'ın kadroda yer almaması dikkat çekti. Futbolseverler Kenan Yıldız'ın neden kadroda olmadığını araştırmaya başladı. Bununla birlikte sakatlık durumu olup olmadığı sorgulanıyor. Peki Kenan Yıldız"
+    },
+    {
+      "title": "Fenerbahçe’de Emre Belözoğlu, imzayı attı! İlk açıklamalar…",
+      "summary": "Fenerbahçe ile sözleşme imzalayan Emre Belözoğlu, kendisi için düzenlenen basın toplantısında dikkat çeken açıklamalarda bulundu.",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-emre-belozoglu-imzayi-atti-ilk-aciklamalar-3490051",
+      "image_url": null,
+      "published": "2026-11-06T18:08:57",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:54:13.040726",
+      "priority_score": 46,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-06T21:55:24.958869",
+      "title_tr": "Fenerbahçe’de Emre Belözoğlu, imzayı attı! İlk açıklamalar…",
+      "summary_tr": "Fenerbahçe ile sözleşme imzalayan Emre Belözoğlu, kendisi için düzenlenen basın toplantısında dikkat çeken açıklamalarda bulundu."
+    },
+    {
+      "title": "Paşa seriye bağladı!",
+      "summary": "Süper Lig'de 11. haftanın açılış maçında Kasımpaşa, deplasmanda Gaziantep FK'yı 2-0 yenerek çıkışını sürdürdü. İstanbul ekibine üç puanı getiren golleri Hajradinovic ve Benedyczak kaydetti. Emre Belözoğlu'nun ayrılığı sonrası takımın başına getirilen Alfred Schreuder yönetimindeki ilk maçını kazanan",
+      "url": "https://www.haberturk.com/spor/gaziantep-fk-kasimpasa-mac-sonucu-iste-gaziantep-kasimpasa-maci-ozeti-super-lig-3925503",
+      "image_url": "https://im.haberturk.com/l/2026/11/06/ver1793990106/3925503/jpg/1920x1080",
+      "published": "2026-11-06T19:13:25",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-06T21:53:35.803424",
+      "priority_score": 43,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-06T21:55:24.484514",
+      "title_tr": "Paşa seriye bağladı!",
+      "summary_tr": "Süper Lig'de 11. haftanın açılış maçında Kasımpaşa, deplasmanda Gaziantep FK'yı 2-0 yenerek çıkışını sürdürdü. İstanbul ekibine üç puanı getiren golleri Hajradinovic ve Benedyczak kaydetti. Emre Belözoğlu'nun ayrılığı sonrası takımın başına getirilen Alfred Schreuder yönetimindeki ilk maçını kazanan"
     },
     {
       "title": "Has Anderson lived up to the hype after Man City move?",
@@ -526,72 +569,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.794550",
-      "priority_score": 45,
+      "fetched_at": "2026-11-06T21:51:46.001777",
+      "priority_score": 40,
       "categories": [
         "premier_league"
       ],
-      "processed_at": "2026-11-06T16:31:45.971664",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.300322",
+      "title_tr": "Anderson, Manchester City'nin taşınmasından sonra beklentileri karşılayabildi mi?",
+      "summary_tr": "Elliot Anderson, 116 milyon sterline Manchester City'ye transfer olduktan sonra Nottingham Forest'a dönerken, fiyat etiketini tutturabildi mi?"
     },
     {
-      "title": "Lampard looks for Coventry progress as belief grows",
-      "summary": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
+      "title": "James out for minimum of five games - Bompastor",
+      "summary": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-11-06T08:11:03",
+      "published": "2026-11-06T16:44:44",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.795209",
-      "priority_score": 45,
+      "fetched_at": "2026-11-06T21:51:46.002279",
+      "priority_score": 40,
       "categories": [
-        "transfers",
-        "premier_league"
+        "injuries",
+        "world_cup"
       ],
-      "processed_at": "2026-11-06T16:31:45.974265",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Wolves legend and ex-England defender Coady retires",
-      "summary": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-06T11:29:51",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.795419",
-      "priority_score": 45,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-11-06T16:31:45.975315",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
-    },
-    {
-      "title": "Talking points as Premiership prepares for international break",
-      "summary": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-06T13:44:22",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-06T16:28:11.795621",
-      "priority_score": 45,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-11-06T16:31:45.976671",
-      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
-      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+      "processed_at": "2026-11-06T21:55:24.302558",
+      "title_tr": "James en az beş maç oynamayacak - Bompastor",
+      "summary_tr": "Sonia Bompastor, Lauren James'in en azından önümüzdeki birkaç hafta sahalardan uzak kalacağını söyleyerek, onun İngiltere'nin Dünya Kupası eleme play-off maçlarına katılıp katılamayacağı konusunda şüphe uyandırdı."
     }
   ]
 }
