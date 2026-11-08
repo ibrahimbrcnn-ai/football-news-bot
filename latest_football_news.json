@@ -1,30 +1,52 @@
 {
-  "timestamp": "2026-11-08T10:57:19.868823",
+  "timestamp": "2026-11-08T16:55:22.252192",
   "total_items": 30,
   "news": [
     {
-      "title": "Messi makes history with MLS Golden Boot",
-      "summary": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "title": "Bayern Munich confirm Manuel Neuer partial tendon tear",
+      "summary": "Bayern Munich have confirmed that Manuel Neuer has suffered a partial tendon tear in his right foot, an injury which forced him off in the first half of Bayern's Matchday 9 victory over Mainz on what was his 550th Bundesliga appearance.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-confirm-manuel-neuer-injury-tendon-tear-mainz-matchday-9-39934",
       "image_url": null,
-      "published": "2026-11-08T07:23:50",
+      "published": "2026-11-08T13:30:39",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:51:20.708783",
+      "priority_score": 100,
+      "categories": [
+        "transfers",
+        "breaking_news",
+        "injuries",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-08T16:53:58.902443",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
+      "summary": "Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-08T16:13:36",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-08T10:52:08.325887",
-      "priority_score": 95,
+      "fetched_at": "2026-11-08T16:50:21.471611",
+      "priority_score": 90,
       "categories": [
+        "transfers",
         "match_results",
-        "breaking_news",
-        "serie_a"
+        "premier_league"
       ],
-      "processed_at": "2026-11-08T10:55:43.696190",
-      "title_tr": "Messi, MLS Altın Ayakkabıyla tarih yazıyor",
-      "summary_tr": "Inter Miami'nin forveti Lionel Messi, MLS tarihinde üst üste sezonlarda Altın Ayakkabı ödülünü kazanan ilk oyuncu oldu."
+      "processed_at": "2026-11-08T16:53:58.763871",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day",
+      "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day",
       "summary": "Messi first to win consecutive MLS Golden BootsInter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 pointsLionel Messi won his second consecutive MLS Golden Boot award on Saturday, but Inter Miami squandered a three-goal lead in a 3-3 draw with Charlotte on the fin",
       "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
       "image_url": null,
@@ -33,158 +55,197 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-08T10:52:44.863931",
+      "fetched_at": "2026-11-08T16:50:56.497992",
       "priority_score": 88,
       "categories": [
         "match_results",
         "breaking_news",
         "serie_a"
       ],
-      "processed_at": "2026-11-08T10:55:43.752137",
-      "title_tr": "Nashville, MLS Karar Günü'nde puan rekoru kırarken Messi üst üste ikinci Altın Ayakkabı'yı aldı",
-      "summary_tr": "MLS Altın Ayakkabı'yı üst üste kazanan ilk kişi Messi olduInter Miami dramatik beraberlikle 3-0 öne geçti Nashville 77 puanla yeni lig rekoru kırdıLionel Messi Cumartesi günü üst üste ikinci MLS Altın Ayakkabı ödülünü kazandı ancak Inter Miami, Charlotte'la 3-3 berabere kaldıkları maçta üç gollü üstünlüğü heba etti"
+      "processed_at": "2026-11-08T16:53:58.861828",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer“When I first saw him, I thought to myself: ‘Who on earth is this player?’ laughs Youness Bengelloun as he remembers Mamadou Sangaré. With the transfer window in full swing in July 2025, the ",
-      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+      "title": "Chelsea'ye Sunderland şoku!",
+      "summary": "İngiltere Premier Ligi'nin 10. haftasında Chelsea, deplasmanda Sunderland'e 1-0 mağlup oldu. İlk yarıda Enzo La Fee'nin penaltıdan attığı gole çare bulamayan Chelsea, haftayı 16 puanla tamamladı. Ligdeki 7 maçlık galibiyet hasretine son veren Sunderland ise puanını 8'e yükseltti.",
+      "url": "https://www.haberturk.com/spor/sunderland-chelsea-mac-sonucu-iste-sunderland-chelsea-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3925831",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794155031/3925831/jpg/1920x1080",
+      "published": "2026-11-08T16:24:02",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:52:07.180127",
+      "priority_score": 88,
+      "categories": [
+        "transfers",
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.997424",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Manchester United v Aston Villa: Premier League – live",
+      "summary": "⚽️ Premier League updates from 4.30pm GMT⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United⚽️ Today’s results | Mail TimSunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment for Man United. They now have fewer wins th",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
       "image_url": null,
-      "published": "2026-11-07T12:00:13",
+      "published": "2026-11-08T16:45:09",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-08T10:52:44.865853",
-      "priority_score": 68,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-08T10:55:43.771717",
-      "title_tr": "'Futbol oynayan bir uzaylı': Mamadou Sangaré Premier Lig'de zirveye tırmanıyor",
-      "summary_tr": "Brentford'un Mali orta saha oyuncusu, altı yaşındayken öne çıktı ve 39 milyon £'luk transferden bu yana Premier Lig'de parladı\"Onu ilk gördüğümde kendi kendime şunu düşündüm: 'Bu oyuncu kim Allah aşkına?' Mamadou Sangaré'yi hatırlayan Youness Bengelloun gülüyor. Temmuz 2025'teki transfer dönemi tüm hızıyla devam ederken,"
-    },
-    {
-      "title": "Arda Güler yıldızlaştı, Real Madrid kazandı!",
-      "summary": "Milli futbolcumuz Arda Güler'in 1 gol, 1 asistle oynadığı maçta Real Madrid, Valencia'yı 3-0 mağlup etti. Jose Mourinho'nun ekibi puanını 30'a yükseltirken, Javier Aguirre'nin ekibi 9 puanda kaldı.",
-      "url": "https://www.haberturk.com/spor/valencia-0-real-madrid-3-mac-sonucu-arda-guler-yildizlasti-real-madrid-kazandi-3925715",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794089524/3925715/jpg/1920x1080",
-      "published": "2026-11-07T22:12:46",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.656103",
-      "priority_score": 68,
+      "fetched_at": "2026-11-08T16:50:56.495352",
+      "priority_score": 83,
       "categories": [
         "match_results",
-        "la_liga"
+        "premier_league"
       ],
-      "processed_at": "2026-11-08T10:55:43.940195",
-      "title_tr": "Arda Güler yıldızlaştı, Real Madrid kazandı!",
-      "summary_tr": "Milli futbolcumuz Arda Güler'in 1 gol, 1 asistle oynadığı maçta Real Madrid, Valencia'yı 3-0 mağlup etti. Jose Mourinho'nun ekibi puanını 30'a yükseltirken, Javier Aguirre'nin ekibi 9 puanda kaldı."
+      "processed_at": "2026-11-08T16:53:58.821698",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Bundesliga and Topps launch 'Starting XI Debut Patch' for the 2026/27 season",
-      "summary": "The Bundesliga and its official licensing partner Topps are creating a new connection between on-pitch action and the world of collecting.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-and-topps-launch-starting-xi-debut-patch-for-the-2026-27-season-38780",
+      "title": "Bundesliga 2, Matchday 11: Record-breaking Hertha Berlin beat Wolfsburg, Bochum overcome Karlsruhe",
+      "summary": "Bundesliga 2 leaders Hertha Berlin set a new record for unbeaten games to start the season by seeing off promotion rivals Wolfsburg. Elsewhere, Nuremberg cemented second place with a victory over Darmstadt, while Bochum secured their first home win of the season after Philipp Hofmann's stoppage-time",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-11-highlights-hertha-wolfsburg-heidenheim-hannover-bochum-39854",
       "image_url": null,
-      "published": "2026-11-07T16:30:00",
+      "published": "2026-11-08T14:30:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-08T10:53:05.115841",
-      "priority_score": 66,
+      "fetched_at": "2026-11-08T16:51:20.707988",
+      "priority_score": 76,
       "categories": [
-        "transfers",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-11-08T10:55:43.877842",
-      "title_tr": "Bundesliga ve Topps, 2026/27 sezonu için 'Başlangıç ​​XI İlk Yamasını' başlatıyor",
-      "summary_tr": "Bundesliga ve resmi lisans ortağı Topps, sahadaki aksiyon ile koleksiyon dünyası arasında yeni bir bağlantı kuruyor."
+      "processed_at": "2026-11-08T16:53:58.897141",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Delap double inspires Forest to stunning win over Man City",
-      "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "title": "England await Guehi scan results after injury concern",
+      "summary": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-11-07T20:02:25",
+      "published": "2026-11-08T15:03:01",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-08T10:52:08.326205",
-      "priority_score": 65,
+      "fetched_at": "2026-11-08T16:50:21.473831",
+      "priority_score": 70,
       "categories": [
+        "match_results",
+        "injuries",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.771983",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
+      "summary": "Chelsea put in a tepid performance as Sunderland lifted themselves off the bottom of the Premier League table with a 1-0 win that eases the pressure on under-fire manager Regis Le Bris.",
+      "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
+      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-enzo-le-fee-sunderland_7400955.jpg?20261108144350",
+      "published": "2026-11-08T16:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:31.344846",
+      "priority_score": 51,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.806917",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
+      "summary": "Another Evanilson goal helped fire Marco Rose’s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich.Evanilson failed to score in his first six appearances of the season but found the net for a fifth consecutive Premier League match and made it seven goals in eight after f",
+      "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-11-08T16:14:31",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:56.497137",
+      "priority_score": 78,
+      "categories": [
+        "match_results",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-08T10:55:43.698866",
-      "title_tr": "Delap, Forest'a Man City karşısında çarpıcı bir galibiyet için ilham verdi",
-      "summary_tr": "Liam Delap, Nottingham Forest'ın bu sezon City Ground'da Manchester City'yi 3-1 mağlup ederek Premier Lig'deki ilk galibiyetini alırken muhteşem bir double yaptı."
+      "processed_at": "2026-11-08T16:53:58.848325",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Rafael Leao'nun son durumu belli oldu",
-      "summary": "Amed Sportif Faaliyetler maçında yaşadığı sakatlık nedeniyle oyuna devam edemeyen Rafael Leao'nun son durumu belli oldu. Galatasaray, Portekizli oyuncunun sağ üst arka adale grubunda ileri derecede zorlanma ve kanama tespit edildiğini açıkladı.",
-      "url": "https://www.haberturk.com/spor/son-dakika-galatasaray-dan-sakatlik-aciklamasi-rafael-leao-nun-son-durumu-belli-oldu-3925772",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794131965/3925772/jpg/1920x1080",
-      "published": "2026-11-08T10:00:12",
+      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+      "summary": "Alessia Russo scored twice at Anfield to provide the under-pressure Arsenal head coach, Renée Slegers, with some brief respite but it was another unconvincing display from the north Londoners despite their much-needed 2-1 victory.The in-form Russo’s double took her recent tally to seven goals in her",
+      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+      "image_url": null,
+      "published": "2026-11-08T14:13:00",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:56.496482",
+      "priority_score": 73,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.838115",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Liverpool'a Crystal Palace tesellisi!",
+      "summary": "İngiltere Premier Lig'in 10. haftasında Crystal Palace'a konuk olan Liverpool, rakibini 3-1 yenerek zirve yarışında iddiasını sürdürdü. Kırmızılar'a üç puanı getiren golleri Mac Allister, Wirtz ve Isak kaydetti.",
+      "url": "https://www.haberturk.com/spor/crystal-palace-liverpool-mac-sonucu-iste-crystal-palace-liverpool-maci-ozeti-ingiltere-premier-lig-3925830",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794154124/3925830/jpg/1920x1080",
+      "published": "2026-11-08T16:09:11",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.655590",
-      "priority_score": 63,
+      "fetched_at": "2026-11-08T16:52:07.180200",
+      "priority_score": 68,
       "categories": [
-        "injuries",
-        "super_lig"
+        "match_results"
       ],
-      "processed_at": "2026-11-08T10:55:43.901977",
-      "title_tr": "Rafael Leao'nun son durumu belli oldu",
-      "summary_tr": "Amed Sportif Faaliyetler maçında yaşadığı sakatlık nedeniyle oyuna devam edemeyen Rafael Leao'nun son durumu belli oldu. Galatasaray, Portekizli oyuncunun sağ üst arka adale grubunda ileri derecede zorlanma ve kanama tespit edildiğini açıkladı."
+      "processed_at": "2026-11-08T16:53:59.002170",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "Miroslav Klose on Nuremberg's promotion push, his coaching philosophy, and the form of Harry Kane and Niclas Füllkrug",
-      "summary": "Two years into his tenure as Nuremberg head coach, Miroslav Klose has his sights firmly set on guiding the Franconian club back into the Bundesliga for the first time in eight seasons.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/miroslav-klose-interview-nuremberg-promotion-harry-kane-fullkrug-39904",
-      "image_url": null,
-      "published": "2026-11-08T09:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:05.090525",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-08T10:55:43.797478",
-      "title_tr": "Miroslav Klose, Nürnberg'in yükselme hamlesini, koçluk felsefesini ve Harry Kane ile Niclas Füllkrug'un formunu anlatıyor",
-      "summary_tr": "Nürnberg'in başantrenörü olarak görev yaptıktan iki yıl sonra Miroslav Klose, Franken kulübünü sekiz sezondan sonra ilk kez Bundesliga'ya geri döndürmeyi hedefliyor."
-    },
-    {
-      "title": "Efsane isimden çarpıcı Batrakov iddiası: \"Galatasaray'daki tek sezonu\"",
-      "summary": "Galatasaray'da bir anda taraftarların sevgilisi haline gelen Aleksey Batrakov, Avrupa kulüplerinin de transfer listesine girdi. Rusların efsane ismi ise yıldız oyuncunun yeni sezonda sarı-kırmızılı formayı giymeyebileceğini iddia etti.",
-      "url": "https://www.yenisafak.com/spor/efsane-isimden-carpici-batrakov-iddiasi-galatasaraydaki-tek-sezonu-4870722",
-      "image_url": null,
-      "published": "2026-11-08T09:42:57",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
+      "title": "Milan 6 dakikada fişi çekti!",
+      "summary": "İtalya Serie A'nın 11. haftasında Genoa sahasında Milan'ı ağırladı. Mücadeleyi konuk takım 2-1 kazandı ve 3 puanı hanesine yazdırdı.",
+      "url": "https://www.haberturk.com/spor/genoa-1-milan-2-mac-sonucu-ozeti-ve-golleri-3925829",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794153997/3925829/jpg/1920x1080",
+      "published": "2026-11-08T16:06:58",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-08T10:55:03.426877",
-      "priority_score": 57,
+      "fetched_at": "2026-11-08T16:52:07.180281",
+      "priority_score": 68,
       "categories": [
-        "transfers",
-        "super_lig"
+        "match_results",
+        "serie_a"
       ],
-      "processed_at": "2026-11-08T10:55:44.552621",
-      "title_tr": "Efsane isimden çarpıcı Batrakov iddiası: \"Galatasaray'daki tek sezonu\"",
-      "summary_tr": "Galatasaray'da bir anda taraftarların sevgilisi haline gelen Aleksey Batrakov, Avrupa kulüplerinin de transfer listesine girdi. Rusların efsane ismi ise yıldız oyuncunun yeni sezonda sarı-kırmızılı formayı giymeyebileceğini iddia etti."
+      "processed_at": "2026-11-08T16:53:59.006458",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Bundesliga Matchday 9 video highlights",
@@ -196,95 +257,15 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-08T10:53:05.112500",
+      "fetched_at": "2026-11-08T16:51:20.733532",
       "priority_score": 66,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-11-08T10:55:43.852262",
-      "title_tr": "Bundesliga 9. Maçın öne çıkan videoları",
-      "summary_tr": "Bayern Münih, Mainz'ı deplasmanda geçerken, Felix Nmecha Bundesliga'nın 9. maçında muhteşem bir performans sergiledi."
-    },
-    {
-      "title": "Bayern Munich edge out Mainz to stay top of the table",
-      "summary": "Goals from Joshua Kimmich and Lennart Karl helped Bayern Munich register a 2-1 victory at Mainz on Matchday 9 of the 2026/27 Bundesliga campaign, a result which keeps them top of the table.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/mainz-bayern-munich-match-report-highlights-matchday-9-39922",
-      "image_url": null,
-      "published": "2026-11-07T16:32:10",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:05.115488",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-08T10:55:43.870592",
-      "title_tr": "Bayern Münih Mainz'ı geride bırakarak liderliğini sürdürdü",
-      "summary_tr": "Joshua Kimmich ve Lennart Karl'ın golleri, Bayern Münih'in 2026/27 Bundesliga sezonunun 9. maçında Mainz karşısında 2-1 galibiyet almasına yardımcı oldu ve bu sonuç onları zirvede tuttu."
-    },
-    {
-      "title": "Arda Güler, İspanya'da manşetleri süsledi",
-      "summary": "Real Madrid forması giyen Arda Güler, Valencia maçındaki 1 gol, 1 asistlik performansıyla takımının galibiyetinde başrol oynarken, milli futbolcunun performansı İspanya basınında geniş yer buldu.",
-      "url": "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486",
-      "image_url": null,
-      "published": "2026-11-08T12:08:28",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:54:30.485352",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-08T10:55:44.335739",
-      "title_tr": "Arda Güler, İspanya'da manşetleri süsledi",
-      "summary_tr": "Real Madrid forması giyen Arda Güler, Valencia maçındaki 1 gol, 1 asistlik performansıyla takımının galibiyetinde başrol oynarken, milli futbolcunun performansı İspanya basınında geniş yer buldu."
-    },
-    {
-      "title": "Leeds beat Spurs to end five-game winless run",
-      "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-07T19:59:34",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:52:08.326528",
-      "priority_score": 65,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-08T10:55:43.701453",
-      "title_tr": "Leeds, Spurs'u yenerek beş maçlık galibiyetsiz seriye son verdi",
-      "summary_tr": "Noah Okafor, Premier Lig'de Tottenham'ın Elland Road'da 1-0 mağlup olduğu maçta Leeds United'a 14 Eylül'den bu yana ilk galibiyetini veren tek golü attı."
-    },
-    {
-      "title": "Premier League buildup, FA Cup first round, WSL and more – matchday live",
-      "summary": "⚽ All the news ahead of Sunday’s action ⚽ Sign up to Football Daily | Email SimonRodrigo Muniz rescued a late point for Fulham in a 1-1 draw against Newcastle at Craven Cottage. It came after Jacob Murphy broke the deadlock for the Magpies with a brilliant strike.How things stand in the Premier Leag",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
-      "image_url": null,
-      "published": "2026-11-08T10:31:31",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:52:44.862061",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-08T10:55:43.728473",
-      "title_tr": "Premier Lig hazırlıkları, FA Cup ilk turu, WSL ve daha fazlası – maç günü canlı",
-      "summary_tr": "⚽ Pazar günkü maç öncesinde tüm haberler ⚽ Football Daily'ye kaydolun | E-posta SimonRodrigo Muniz, Craven Cottage'da Newcastle ile 1-1 berabere kalınan maçta Fulham'ın son noktasını kurtardı. Bu, Jacob Murphy'nin muhteşem bir vuruşla Magpies adına çıkmazdan kurtulmasının ardından geldi.Premier Lig'de işler nasıl gidiyor?"
+      "processed_at": "2026-11-08T16:53:58.978512",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
@@ -296,15 +277,15 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-08T10:52:44.862892",
+      "fetched_at": "2026-11-08T16:50:56.498461",
       "priority_score": 63,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-08T10:55:43.736529",
-      "title_tr": "Enzo Maresca, Manchester City'nin Nottingham Ormanı'ndaki yenilgisinin ardından isteksizliğinden üzüntü duyuyor",
-      "summary_tr": "'Arzuya ve yoğunluğa ihtiyacınız var... biz onlarla eşleşemedik'City art arda üç lig maçını kaybettiEnzo Maresca, Premier Lig'de art arda üçüncü kez mağlup olmalarının nedeni olarak takımının istek eksikliğini ve düellolarda silah bakımından geride kalmalarını suçladı. Manchester, sezonun ilk yedi maçını kazandıktan sonra"
+      "processed_at": "2026-11-08T16:53:58.868680",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Bayern Munich's Harry Kane shows there is more to his game in Mainz win",
@@ -316,55 +297,276 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-08T10:53:05.096002",
+      "fetched_at": "2026-11-08T16:51:20.715268",
       "priority_score": 61,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-11-08T10:55:43.833717",
-      "title_tr": "Bayern Münihli Harry Kane, Mainz galibiyetinde oyunundan daha fazlasının olduğunu gösterdi",
-      "summary_tr": "Harry Kane kendisini dünya futbolunun en ölümcül golcülerinden biri olarak kanıtlamış olabilir, ancak asistleri Bayern Münih'in 9. Maç günü Mainz'ı deplasmanda 2-1 mağlup etmesine yardımcı oldu. Ballon d'Or'u büyük ölçüde file arkasını bulma konusundaki inanılmaz becerisi nedeniyle kazanan Kane, şimdi kendini gösteriyor"
+      "processed_at": "2026-11-08T16:53:58.955729",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
-      "summary": "Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospectsOn Sunday afternoon, shortly before 4.30, Unai Emery will leave the tunnel at Old Trafford and walk along the touchline towards the bench. Will he glance",
-      "url": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
-      "image_url": null,
-      "published": "2026-11-07T20:00:19",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:52:44.863205",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-08T10:55:43.742066",
-      "title_tr": "Unai Emery'nin Aston Villa'dan Manchester United'a gitmesinin çok az nedeni var | Jonathan Wilson",
-      "summary_tr": "İspanyol, Pazar günü oraya gittiğinde Old Trafford'un cazibesini hissedebilir ancak daha parlak umutlarla kulüpte kalmak istemekte haklı. Pazar günü öğleden sonra, saat 4.30'dan kısa bir süre önce, Unai Emery Old Trafford'daki tünelden ayrılacak ve taç çizgisi boyunca yedek kulübesine doğru yürüyecek. göz atacak mı"
-    },
-    {
-      "title": "Yazarlar yorumladı! \"1 ayda 8 maç 7 galibiyet\"",
-      "summary": "Trendyol Süper Lig'in 11. haftasında lider Galatasaray, evinde ağırladığı Amed Sportif Faaliyetler'i 4-3 mağlup etti ve iyi gidişatını sürdürdü. Spor yazarları, 7 gollü zorlu mücadeleyi değerlendirdi.",
-      "url": "https://www.haberturk.com/spor/foto/spor-yazarlari-galatasaray-amed-sportif-faaliyetler-macini-yorumladi-1-ayda-8-mac-7-galibiyet-barcelona-disinda-kazandi-3925742",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794124687/3925742/jpg/1920x1080",
-      "published": "2026-11-08T08:02:12",
+      "title": "Fenerbahçe'den gövde gösterisi!",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki Liverpool zaferinin ardından Süper Lig'de de Çorum FK'yı deplasmanda 5-0 yenerek çıkışını sürdürdü. Yeni teknik direktörü Emre Belözoğlu yönetiminde çıktığı ilk maçı farklı şekilde kazanan sarı-lacivertliler, bu sezon deplasmanlardaki en gollü galibiyetine de imza ",
+      "url": "https://www.haberturk.com/spor/foto/fenerbahce-den-corum-da-govde-gosterisi-emre-belozoglu-ndan-farkli-baslangic-3925823",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794152745/3925823/jpg/1920x1080",
+      "published": "2026-11-08T15:45:44",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.655903",
+      "fetched_at": "2026-11-08T16:52:07.180358",
       "priority_score": 58,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-08T16:53:59.010630",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Napoli ile Lazio berabere kaldı!",
+      "summary": "İtalya Serie A'nın 11. haftasında Napoli ve Lazio, 1-1 berabere kaldı. Bu sonuçla beraber Napoli haftayı 15, lider Lazio ise 29 puanla tamamladı.",
+      "url": "https://www.haberturk.com/spor/napoli-lazio-mac-sonucu-iste-napoli-lazio-maci-ozeti-ve-golleri-italya-serie-a-3925811",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794148317/3925811/jpg/1920x1080",
+      "published": "2026-11-08T14:32:40",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:52:07.180879",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "serie_a"
+      ],
+      "processed_at": "2026-11-08T16:53:59.044109",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Miroslav Klose on Nuremberg's promotion push, his coaching philosophy, and the form of Harry Kane and Niclas Füllkrug",
+      "summary": "Two years into his tenure as Nuremberg head coach, Miroslav Klose has his sights firmly set on guiding the Franconian club back into the Bundesliga for the first time in eight seasons.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/miroslav-klose-interview-nuremberg-promotion-harry-kane-fullkrug-39904",
+      "image_url": null,
+      "published": "2026-11-08T09:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:51:20.710479",
+      "priority_score": 56,
+      "categories": [
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-08T16:53:58.920551",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
+      "summary": "How Crystal Palace and Liverpool's players rated following their Premier League match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-08T16:04:18",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:21.472216",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.764535",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Last season difficult with injury and miscarriage - Muniz",
+      "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-08T11:56:01",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:21.472450",
+      "priority_score": 55,
+      "categories": [
+        "match_results",
+        "injuries"
+      ],
+      "processed_at": "2026-11-08T16:53:58.764981",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
+      "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week – both meteorologically and metaphorically – Sunderland were determined that some things should remain the same.Just as they had beaten Chelsea on the final day of last season in May to ensure Euro",
+      "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-11-08T16:16:34",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:56.495824",
+      "priority_score": 53,
+      "categories": [
+        "premier_league",
+        "serie_a"
+      ],
+      "processed_at": "2026-11-08T16:53:58.826062",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Alexander Isak tops off goal trio for Liverpool as late penalty offers little for Crystal Palace",
+      "summary": "It was the moment when Liverpool knew they would win here in south London and so move on from the Premier League loss to Arsenal at Anfield last Sunday and the one in midweek at Fenerbahce in the Champions League.Florian Wirtz had timed his run as Liverpool broke up the right and Bradley Barcola’s l",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
+      "image_url": null,
+      "published": "2026-11-08T16:16:18",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:56.496167",
+      "priority_score": 53,
+      "categories": [
+        "premier_league",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.832052",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "\"Böyle bir başlangıç mükemmel!\"",
+      "summary": "Trendyol Süper Lig'in 11. hafta karşılaşmasında Fenerbahçe deplasmanda Arca Çorum FK'yı 5-0'lık skorla mağlup etti. Sarı-lacivertlilerin teknik direktörü Emre Belözoğlu, galibiyetin ardından açıklamalarda bulundu.",
+      "url": "https://www.haberturk.com/spor/fenerbahce-de-emre-belozoglu-ndan-galibiyet-yorumu-boyle-bir-baslangic-mukemmel-3925824",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794152999/3925824/jpg/1920x1080",
+      "published": "2026-11-08T16:37:37",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:52:07.179879",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-08T16:53:58.984661",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "İrfan Can'dan Milli Takım açıklaması!",
+      "summary": "Fenerbahçe'nin yıldız oyuncusu İrfan Can Kahveci, Çorum FK karşısında elde edilen 5-0'lık galibiyete attığı 2 golle damgasını vurdu. Sarı Lacivertliler'deki 200. maçına çıkmış olmanın mutluluğunu dile getiren milli futbolcu, \"Sezon başından ve yıllardan beri 2-3 senedir kendime çok dikkat ediyorum. ",
+      "url": "https://www.haberturk.com/spor/fenerbahceli-irfan-can-kahveci-den-milli-takim-aciklamasi-davet-gelmeyince-uzuldum-3925826",
+      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794154556/3925826/jpg/1920x1080",
+      "published": "2026-11-08T16:32:51",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:52:07.179977",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-11-08T10:55:43.926959",
-      "title_tr": "Yazarlar yorumladı! \"1 ayda 8 maç 7 galibiyet\"",
-      "summary_tr": "Trendyol Süper Lig'in 11. haftasında lider Galatasaray, evinde ağırladığı Amed Sportif Faaliyetler'i 4-3 mağlup etti ve iyi gidişatını sürdürdü. Spor yazarları, 7 gollü zorlu mücadeleyi değerlendirdi."
+      "processed_at": "2026-11-08T16:53:58.989657",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "İrfan Can Kahveci'den Sergen Yalçın'a olay gönderme: Gol sevinci gündem oldu (VİDEO)",
+      "summary": "Fenerbahçe'nin Çorum FK karşısında aldığı farklı skora İrfan Can Kahveci'nin gol sevinci damga vurdu. İkinci golünün ardından yaptığı hareket, Sergen Yalçın'a gönderme olarak yorumlanırken yıldız futbolcudan maç sonu açıklama geldi.",
+      "url": "https://www.yenisafak.com/galeri/spor/irfan-can-kahveciden-sergen-yalcina-olay-gonderme-gol-sevinci-gundem-oldu-video-4870770",
+      "image_url": null,
+      "published": "2026-11-08T14:39:42",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:53:15.204419",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-08T16:53:59.738481",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Alanyaspor - Trabzonspor Canlı Skor - İlk 11’ler",
+      "summary": "Trendyol Süper Lig 11. haftasında Alanyaspor evinde Trabzonspor’u konuk ediyor. Bugün saat 18.30’da başlayacak karşılaşma beIN Sports 1 ekranlarından yayınlanacak. Alanyaspor - Trabzonspor maçı canlı skor ekranı ve ilk 11’leri haberimizde.",
+      "url": "https://www.yenisafak.com/spor/alanyaspor-trabzonspor-canli-skor-ilk-11ler-4870769",
+      "image_url": null,
+      "published": "2026-11-08T14:37:51",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:53:15.204601",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-08T16:53:59.750884",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bournemouth win at Ipswich to record eight straight victories",
+      "summary": "Bournemouth made it eight wins in a row in all competitions as they continued their charge up the Premier League table with a 2-1 win at Ipswich.",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/report/559539",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-evanilson-bournemouth_7400911.jpg?20261108141439",
+      "published": "2026-11-08T16:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:31.344773",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.803958",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
+    },
+    {
+      "title": "Bournemouth claim eighth win in a row despite late Ipswich scare",
+      "summary": "FREE TO WATCH: Highlights from Ipswich Town’s match against Bournemouth in the Premier League.",
+      "url": "https://www.skysports.com/watch/video/13609784/ipswich-town-1-2-bournemouth-premier-league-highlights",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-ipswich-hlts_7401097.jpg?20261108160923",
+      "published": "2026-11-08T16:06:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-08T16:50:31.345052",
+      "priority_score": 51,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-08T16:53:58.817994",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
       "title": "Trabzonspor’da Muçi gol ve asistlerine devam ediyor! Yamal’ın formu alev aldı… İşte Misli’den günün oyuncu bahisleri",
@@ -376,231 +578,33 @@
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-08T10:54:07.202908",
-      "priority_score": 56,
+      "fetched_at": "2026-11-08T16:52:19.659873",
+      "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-11-08T10:55:44.031089",
-      "title_tr": "Trabzonspor’da Muçi gol ve asistlerine devam ediyor! Yamal’ın formu alev aldı… İşte Misli’den günün oyuncu bahisleri",
-      "summary_tr": "Futbol bülteninde futbolseverleri birbirinden heyecanlı maçlar beklerken oyuncu bahisleriyle maçların keyfi daha da artıyor. İlk günden bu yana büyük bir ilgi gören oyuncu bahisleriyle Misli üyeleri de kazançlarına kazanç katıyor. Oyuncu bahisleriyle İddaacılar, farklı bir oyun deneyimi yaşamaya dev"
+      "processed_at": "2026-11-08T16:53:59.186637",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     },
     {
-      "title": "İspanyollardan Arda Güler'e büyük övgü: 'Hiçbir fırsatı kaçırmıyor, Real Madrid'in vitamin kaynağı!'",
-      "summary": "La Liga'nın 12. haftasında Real Madrid, Arda Güler'in 1 gol, 1 asistle yıldızlaştığı maçta Valencia'yı deplasmanda 3-0 mağlup etti. İspanyol basını, maçın ardından milli futbolcunun performansından övgüyle bahsetti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/ispanyollardan-arda-gulere-buyuk-ovgu-hicbir-firsati-kacirmiyor-real-madridin-vitamin-kaynagi-43370284",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6af03936ac182abf8dd10cfe.jpg",
-      "published": "2026-11-08T08:56:49",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:54:07.203167",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-08T10:55:44.083060",
-      "title_tr": "İspanyollardan Arda Güler'e büyük övgü: 'Hiçbir fırsatı kaçırmıyor, Real Madrid'in vitamin kaynağı!'",
-      "summary_tr": "La Liga'nın 12. haftasında Real Madrid, Arda Güler'in 1 gol, 1 asistle yıldızlaştığı maçta Valencia'yı deplasmanda 3-0 mağlup etti. İspanyol basını, maçın ardından milli futbolcunun performansından övgüyle bahsetti."
-    },
-    {
-      "title": "Galatasaray'ın Amed SF maçındaki gol sevinci tartışması konusu oldu: Kural kitapçığı ne diyor? 7 oyuncuya da sarı kart gösterilmeli miydi? Trio noktayı koydu!",
-      "summary": "Süper Lig'in 11. haftasında Galatasaray, konuk ettiği Amed Sportif Faaliyetler'i 4-3 mağlup ederek liderliğini sürdürdü. Sarı-kırmızılıların Rafael Leao ile bulduğu ilk gol sonrasındaki sevinç esnasında Galatasaraylı oyuncuların yüzlerini formalarıyla kapatarak sevinmesinin ardından 7 oyuncuya da sa",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasarayin-amed-sf-macindaki-gol-sevinci-tartismasi-konusu-oldu-kural-kitapcigi-ne-diyor-7-oyuncuya-da-sari-kart-43370094",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6af00b4baa7d7bef1976677f.jpg",
-      "published": "2026-11-08T06:29:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:54:07.203443",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-08T10:55:44.149611",
-      "title_tr": "Galatasaray'ın Amed SF maçındaki gol sevinci tartışması konusu oldu: Kural kitapçığı ne diyor? 7 oyuncuya da sarı kart gösterilmeli miydi? Trio noktayı koydu!",
-      "summary_tr": "Süper Lig'in 11. haftasında Galatasaray, konuk ettiği Amed Sportif Faaliyetler'i 4-3 mağlup ederek liderliğini sürdürdü. Sarı-kırmızılıların Rafael Leao ile bulduğu ilk gol sonrasındaki sevinç esnasında Galatasaraylı oyuncuların yüzlerini formalarıyla kapatarak sevinmesinin ardından 7 oyuncuya da sa"
-    },
-    {
-      "title": "Galatasaray - Amed SF maçında gol sevinci tartışması! Sarı kart çıkmalı mıydı?",
-      "summary": "Trendyol Süper Lig’in 11. haftasında RAMS Park’ta oynanan zirve mücadelesinde Galatasaray, Amed Sportif Faaliyetler’i 4-3 mağlup ederek puanını 28’e çıkardı ve en yakın rakibiyle arasındaki farkı 5 puana yükseltti. Milli maç arasına lider giren sarı-kırmızılılar, maçı zorlu geçen ve yedi golle dolu ",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-amed-sf-macinda-gol-sevinci-tartismasi-sari-kart-cikmali-miydi-3490436",
+      "title": "İrfan Can Kahveci, Sergen Yalçın’a gönderme mi yaptı? Yanıtladı",
+      "summary": "İrfan Can Kahveci, Arca Çorum FK karşısındaki gol sevincine dair tartışmalara noktayı koydu.",
+      "url": "https://www.cnnturk.com/spor/futbol/irfan-can-kahveci-sergen-yalcina-gonderme-mi-yapti-yanitladi-3490638",
       "image_url": null,
-      "published": "2026-11-08T09:16:08",
+      "published": "2026-11-08T19:38:21",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-08T10:54:30.487143",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-08T10:55:44.480787",
-      "title_tr": "Galatasaray - Amed SF maçında gol sevinci tartışması! Sarı kart çıkmalı mıydı?",
-      "summary_tr": "Trendyol Süper Lig’in 11. haftasında RAMS Park’ta oynanan zirve mücadelesinde Galatasaray, Amed Sportif Faaliyetler’i 4-3 mağlup ederek puanını 28’e çıkardı ve en yakın rakibiyle arasındaki farkı 5 puana yükseltti. Milli maç arasına lider giren sarı-kırmızılılar, maçı zorlu geçen ve yedi golle dolu"
-    },
-    {
-      "title": "The oldest club in London making FA Cup history",
-      "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-08T06:28:56",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:52:08.324667",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-11-08T10:55:43.690018",
-      "title_tr": "Londra'nın FA Cup tarihine geçen en eski kulübü",
-      "summary_tr": "Cray Wanderers, FA Cup ilk turunda Stockport County'yi konuk ediyor ve iki taraf arasında 112 lig sırası bulunuyor."
-    },
-    {
-      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-      "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-08T07:30:01",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:52:08.324880",
-      "priority_score": 55,
-      "categories": [
-        "general"
-      ],
-      "processed_at": "2026-11-08T10:55:43.690587",
-      "title_tr": "'Onun bizden biri olduğuna inanamıyorum' - Salah'ın Trabzon'daki hayatı",
-      "summary_tr": "BBC Sport, Mohamed Salah'ın Trabzonspor'da oynamasını izlemek ve 'Mısır Kralı'nın Karadeniz kıyısında nasıl hayata alıştığını keşfetmek için Türkiye'ye gidiyor."
-    },
-    {
-      "title": "Valencia 90+6'da attı Boca şampiyon oldu",
-      "summary": "Arjantin Ligi'nde Defensa y Justicia'yı Enner Valencia'nın 90+6. dakikadaki golüyle 1-0 mağlup eden Boca Juniors şampiyonluğa ulaştı.",
-      "url": "https://www.haberturk.com/spor/enner-valencia-906-da-atti-boca-juniors-sampiyon-oldu-3925781",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794134215/3925781/jpg/1920x1080",
-      "published": "2026-11-08T10:37:17",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.655431",
-      "priority_score": 53,
+      "fetched_at": "2026-11-08T16:52:41.124585",
+      "priority_score": 51,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-11-08T10:55:43.892733",
-      "title_tr": "Valencia 90+6'da attı Boca şampiyon oldu",
-      "summary_tr": "Arjantin Ligi'nde Defensa y Justicia'yı Enner Valencia'nın 90+6. dakikadaki golüyle 1-0 mağlup eden Boca Juniors şampiyonluğa ulaştı."
-    },
-    {
-      "title": "Fenerbahçe, Belözoğlu ile ilk sınavında",
-      "summary": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Çorum FK'ya konuk oluyor. Ligde son olarak Galatasaray ve Göztepe karşısında mağlubiyetler alan sarı-lacivertliler, Emre Belözoğlu ile çıkacağı ilk sınavda galip gelerek moral depolamak ve şampiyonluk yarışında yoluna devam etmek istiyor. ",
-      "url": "https://www.haberturk.com/spor/corum-fk-fenerbahce-maci-canli-anlatim-corum-fb-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-detaylar-3925732",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794119723/3925732/jpg/1920x1080",
-      "published": "2026-11-08T10:03:40",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.655520",
-      "priority_score": 53,
-      "categories": [
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-08T10:55:43.897344",
-      "title_tr": "Fenerbahçe, Belözoğlu ile ilk sınavında",
-      "summary_tr": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Çorum FK'ya konuk oluyor. Ligde son olarak Galatasaray ve Göztepe karşısında mağlubiyetler alan sarı-lacivertliler, Emre Belözoğlu ile çıkacağı ilk sınavda galip gelerek moral depolamak ve şampiyonluk yarışında yoluna devam etmek istiyor."
-    },
-    {
-      "title": "PSG doludizgin ilerliyor!",
-      "summary": "Fransa Ligue 1'in 10. haftasında PSG, evinde Troyes'i 1-0 mağlup etti. İlk yarıda Illia Zabarnyi'nin attığı golle ligdeki galibiyet serisini 7 maça çıkaran lider PSG, puanını 23'e yükseltti. Troyes ise 8 puanda kaldı.",
-      "url": "https://www.haberturk.com/spor/psg-troyes-mac-sonucu-iste-psg-troyes-maci-ozeti-ve-golleri-fransa-ligue-1-3925714",
-      "image_url": "https://im.haberturk.com/l/2026/11/08/ver1794089030/3925714/jpg/1920x1080",
-      "published": "2026-11-07T22:05:12",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:53:53.656171",
-      "priority_score": 53,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-08T10:55:43.943603",
-      "title_tr": "PSG doludizgin ilerliyor!",
-      "summary_tr": "Fransa Ligue 1'in 10. haftasında PSG, evinde Troyes'i 1-0 mağlup etti. İlk yarıda Illia Zabarnyi'nin attığı golle ligdeki galibiyet serisini 7 maça çıkaran lider PSG, puanını 23'e yükseltti. Troyes ise 8 puanda kaldı."
-    },
-    {
-      "title": "Anderson Talisca Süper Lig'e geri dönüyor: Fenerbahçelileri kızdıracak hamle",
-      "summary": "Sezon başında Fenerbahçe'den ayrılarak Al-Jazira'ya transfer olan Anderson Talisca'nın Türkiye'ye dönmeye sıcak bakıyor. Brezilyalı yıldız için ocak ayı öncesi dikkat çeken gelişmeler yaşanabilir.",
-      "url": "https://www.yenisafak.com/galeri/spor/anderson-talisca-super-lige-geri-donuyor-fenerbahcelileri-kizdiracak-hamle-4870727",
-      "image_url": null,
-      "published": "2026-11-08T10:18:47",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:55:03.426163",
-      "priority_score": 52,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-08T10:55:44.510861",
-      "title_tr": "Anderson Talisca Süper Lig'e geri dönüyor: Fenerbahçelileri kızdıracak hamle",
-      "summary_tr": "Sezon başında Fenerbahçe'den ayrılarak Al-Jazira'ya transfer olan Anderson Talisca'nın Türkiye'ye dönmeye sıcak bakıyor. Brezilyalı yıldız için ocak ayı öncesi dikkat çeken gelişmeler yaşanabilir."
-    },
-    {
-      "title": "İspanyollardan Arda Güler'e büyük övgü: \"Mourinho'nun maestrosu\"",
-      "summary": "Real Madrid'in Valencia'yı 3-0 yendiği maçta performansıyla yıldızlaşan ve golünü kaydeden milli futbolcu Arda Güler, İspanya basınında da manşetleri süsledi.",
-      "url": "https://www.yenisafak.com/galeri/spor/ispanyollardan-arda-gulere-buyuk-ovgu-mourinhonun-maestrosu-4870702",
-      "image_url": null,
-      "published": "2026-11-08T08:24:54",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:55:03.427470",
-      "priority_score": 52,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-08T10:55:44.594196",
-      "title_tr": "İspanyollardan Arda Güler'e büyük övgü: \"Mourinho'nun maestrosu\"",
-      "summary_tr": "Real Madrid'in Valencia'yı 3-0 yendiği maçta performansıyla yıldızlaşan ve golünü kaydeden milli futbolcu Arda Güler, İspanya basınında da manşetleri süsledi."
-    },
-    {
-      "title": "Real Madrid'in galibiyetinde Arda Güler imzası",
-      "summary": "Real Madrid, Arda Güler'in yıldızlaştığı maçta Valencia'yı 3 golle geçti. Milli futbolcu 1 gol 1 asistlik performansıyla karşılaşmanın oyuncusu seçildi. Valencia - Real Madrid maç özetine haberimiz içerisinde yer alan link üzerinden ulaşabilirsiniz.",
-      "url": "https://www.yenisafak.com/galeri/spor/valencia-real-madrid-mac-ozeti-arda-gulerin-golunu-izle-4870670",
-      "image_url": null,
-      "published": "2026-11-08T05:17:29",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-08T10:55:03.428658",
-      "priority_score": 52,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-08T10:55:44.683817",
-      "title_tr": "Real Madrid'in galibiyetinde Arda Güler imzası",
-      "summary_tr": "Real Madrid, Arda Güler'in yıldızlaştığı maçta Valencia'yı 3 golle geçti. Milli futbolcu 1 gol 1 asistlik performansıyla karşılaşmanın oyuncusu seçildi. Valencia - Real Madrid maç özetine haberimiz içerisinde yer alan link üzerinden ulaşabilirsiniz."
+      "processed_at": "2026-11-08T16:53:59.298410",
+      "title_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+      "summary_tr": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT"
     }
   ]
 }
