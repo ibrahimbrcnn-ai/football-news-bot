@@ -1,89 +1,91 @@
 {
-  "timestamp": "2026-11-23T03:29:13.464524",
+  "timestamp": "2026-11-23T13:55:39.158539",
   "total_items": 30,
   "news": [
     {
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+      "title": "Yamal out of Barcelona's Champions League game at Sabah",
+      "summary": "Lamine Yamal will miss Barcelona's Champions League game in Azerbaijan against Sabah this week with an ankle injury, the Spanish champions have confirmed.",
+      "url": "https://www.espn.com/soccer/story/_/id/50571569/lamine-yamal-barcelona-champions-league-sabah",
       "image_url": null,
-      "published": "2026-11-22T17:55:54",
-      "source": "BBC Sport Football",
+      "published": "2026-11-23T13:44:45",
+      "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.921558",
-      "priority_score": 85,
+      "fetched_at": "2026-11-23T13:50:13.974756",
+      "priority_score": 100,
       "categories": [
         "transfers",
         "breaking_news",
+        "injuries",
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-23T13:54:01.593862",
+      "title_tr": "Yamal, Barcelona'nın Sabah'taki Şampiyonlar Ligi maçında yok",
+      "summary_tr": "İspanya şampiyonu, Lamine Yamal'ın bu hafta Barselona'nın Azerbaycan'da Sabah'a karşı oynayacağı Şampiyonlar Ligi maçında ayak bileğinden sakatlanarak forma giyemeyeceğini doğruladı."
+    },
+    {
+      "title": "Man United will need big January transfer spend to avoid relegation",
+      "summary": "Manchester United have a choice: Spend nearly $200 million on new players in January, or lose nearly $400 million if they get relegated at the end of the Premier League season.",
+      "url": "https://www.espn.com/soccer/story/_/id/50571270/man-united-january-transfers-premier-league-relegation",
+      "image_url": null,
+      "published": "2026-11-23T13:21:27",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.974054",
+      "priority_score": 95,
+      "categories": [
+        "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-11-23T03:28:00.544779",
-      "title_tr": "Liverpool-Man Utd'u değiştiren kırmızı kart: doğru karar mı?",
-      "summary_tr": "Leny Yoro'nun sekiz dakika sonrasındaki kırmızı kartı Liverpool-Manchester United maçını değiştirdi - hakemler doğru kararı mı verdi?"
+      "processed_at": "2026-11-23T13:54:01.592583",
+      "title_tr": "Man United'ın küme düşmemek için Ocak ayında büyük transfer harcamalarına ihtiyacı olacak",
+      "summary_tr": "Manchester United'ın bir seçeneği var: Ocak ayında yeni oyunculara yaklaşık 200 milyon dolar harcayacak ya da Premier Lig sezonunun sonunda küme düşmeleri halinde yaklaşık 400 milyon dolar kaybedecek."
     },
     {
-      "title": "Amed'de Diagne krizi sürüyor! Kulüpten son dakika açıklaması geldi",
-      "summary": "Süper Lig ekiplerinden Amed SF'de Mbaye Diagne krizi devam ediyor. Senegalli golcünün takıma hala katılmadığı ifade edilirken, yapılan açıklamada gerekli görülmesi halinde sözleşme yükümlülükleri çerçevesinde işlem yapılacağı bildirildi.",
-      "url": "https://www.yenisafak.com/spor/amedde-diagne-krizi-suruyor-kulupten-son-dakika-aciklamasi-geldi-4875493",
+      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+      "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with AtalantaThis ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A hat-trick, becoming only the third Italian to get",
+      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
       "image_url": null,
-      "published": "2026-11-22T17:18:30",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
+      "published": "2026-11-23T13:18:20",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-23T03:27:23.691228",
-      "priority_score": 77,
+      "fetched_at": "2026-11-23T13:50:57.405119",
+      "priority_score": 93,
       "categories": [
-        "transfers",
         "match_results",
         "breaking_news",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-23T03:28:01.001209",
-      "title_tr": "Amed'de Diagne krizi sürüyor! Kulüpten son dakika açıklaması geldi",
-      "summary_tr": "Süper Lig ekiplerinden Amed SF'de Mbaye Diagne krizi devam ediyor. Senegalli golcünün takıma hala katılmadığı ifade edilirken, yapılan açıklamada gerekli görülmesi halinde sözleşme yükümlülükleri çerçevesinde işlem yapılacağı bildirildi."
-    },
-    {
-      "title": "Milan evinde gol oldu yağdı",
-      "summary": "İtalya Serie A'nın 12. haftasında Milan, evinde konuk ettiği Frosinone'yi 5-1'lik skorla mağlup etti.",
-      "url": "https://www.haberturk.com/spor/milan-frosinone-mac-sonucu-ozeti-ve-golleri-iste-milan-frosinone-maci-detaylari-3929275",
-      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795381966/3929275/jpg/1920x1080",
-      "published": "2026-11-22T21:15:39",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968568",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
         "serie_a"
       ],
-      "processed_at": "2026-11-23T03:28:00.656462",
-      "title_tr": "Milan evinde gol oldu yağdı",
-      "summary_tr": "İtalya Serie A'nın 12. haftasında Milan, evinde konuk ettiği Frosinone'yi 5-1'lik skorla mağlup etti."
+      "processed_at": "2026-11-23T13:54:01.705774",
+      "title_tr": "Esposito, Inter hat-trick'iyle Vieri'yi taklit ediyor ama De Ketelaere yine onun peşini bırakmıyor",
+      "summary_tr": "İtalya'nın yeni kapak yıldızı 'güzel' bir üçlük elde etti ancak takımının iki gollü farkı üç kez atarak Atalanta ile 4-4 berabere kalmasının ardından bunu kutlayamadı. Bu, Pio Esposito için sihirli bir an olmalıydı. Az önce Serie A'da ilk hat-trickini yaparak bunu başaran üçüncü İtalyan oldu."
     },
     {
-      "title": "Trabzonspor tek golle kazandı!",
-      "summary": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, evinde ağırladığı Eyüpspor'u 1-0 mağlup etti. Bordo-mavililere galibiyeti getiren golü 5. dakikada Ozan Tufan kaydetti. Bu sonuçla Trabzonspor puanını 28'e yükseltti ve zirve takibini sürdürdü.",
-      "url": "https://www.haberturk.com/spor/trabzonspor-eyupspor-mac-sonucu-iste-ts-eyup-maci-ozeti-ve-golleri-trendyol-super-lig-3929116",
-      "image_url": "https://im.haberturk.com/l/2026/11/21/ver1795370089/3929116/jpg/1920x1080",
-      "published": "2026-11-22T18:07:42",
-      "source": "Habertürk Spor",
+      "title": "Inside Fifa and US Soccer’s plan for 2031 World Cup: ‘the largest women’s sporting event in history’",
+      "summary": "The US-led four-country bid will be confirmed in Zurich on Monday, projecting record-setting total revenues of $4bnThe biggest and most lucrative event in the history of women’s sport will be confirmed at an Extraordinary Fifa Congress in Zurich on Monday, with a joint bid from the United States, Me",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2031-womens-world-cup-projection-fifa-ussf",
+      "image_url": null,
+      "published": "2026-11-23T11:00:29",
+      "source": "Guardian Football",
       "source_priority": 9,
-      "region": "turkey",
+      "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968917",
-      "priority_score": 68,
+      "fetched_at": "2026-11-23T13:50:57.405598",
+      "priority_score": 73,
       "categories": [
-        "match_results",
-        "super_lig"
+        "transfers",
+        "breaking_news",
+        "world_cup"
       ],
-      "processed_at": "2026-11-23T03:28:00.676031",
-      "title_tr": "Trabzonspor tek golle kazandı!",
-      "summary_tr": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, evinde ağırladığı Eyüpspor'u 1-0 mağlup etti. Bordo-mavililere galibiyeti getiren golü 5. dakikada Ozan Tufan kaydetti. Bu sonuçla Trabzonspor puanını 28'e yükseltti ve zirve takibini sürdürdü."
+      "processed_at": "2026-11-23T13:54:01.719212",
+      "title_tr": "Fifa ve ABD Futbolunun 2031 Dünya Kupası planı: 'tarihteki en büyük kadın spor etkinliği'",
+      "summary_tr": "ABD öncülüğündeki dört ülkenin teklifi Pazartesi günü Zürih'te onaylanacak ve toplam 4 milyar dolarlık rekor gelir öngörülüyor"
     },
     {
       "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
@@ -95,94 +97,36 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.922243",
+      "fetched_at": "2026-11-23T13:50:20.860024",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-23T03:28:00.548741",
+      "processed_at": "2026-11-23T13:54:01.630547",
       "title_tr": "Pochettino, Man Utd'un patronu olarak ilk maçında 'acı' bir yenilgi yaşadı",
       "summary_tr": "Manchester United'ın yeni başantrenörü Mauricio Pochettino, kendi hükümdarlığı döneminde gelişmek için takımının Liverpool'a karşı öfkesini \"enerjiye\" dönüştürmesi gerektiğini söyledi."
     },
     {
-      "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
-      "summary": "Current’s opener came direct from a corner kickDebinha, Trinity Rodman trade goals in stoppage timeWashington Spirit lose third consecutive NWSL finalRead Jeff Rueter’s minute-by-minute reportIt took five years, 90 minutes and a goal for the ages, but the Kansas City Current have their first-ever NW",
-      "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+      "title": "Niclas Füllkrug hits 10-goal milestone in resounding Nordderby triumph",
+      "summary": "On-song Niclas Füllkrug became the first player to reach 10 Bundesliga goals this season, and he did so in style, smashing home a stoppage-time thunderbolt to cap off Werder Bremen's 4-0 demolition of Hamburg and help maintain their strong start to 2026/27.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/niclas-fullkrug-hits-10-goal-milestone-in-resounding-nordderby-triumph-40104",
       "image_url": null,
-      "published": "2026-11-22T03:55:43",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.689918",
-      "priority_score": 63,
-      "categories": [
-        "match_results",
-        "breaking_news"
-      ],
-      "processed_at": "2026-11-23T03:28:00.593703",
-      "title_tr": "Şampiyon köşesi: KC Current, Spirit'e karşı 2-1 sersemletici skorla ilk NWSL Şampiyonasını kazandı",
-      "summary_tr": "Current'ın ilk golü doğrudan köşe vuruşundan geldi Debinha, Trinity Rodman uzatma süresinde takas golleri Washington Spirit üst üste üçüncü NWSL finalini kaybetti Jeff Rueter'ın dakika dakika raporunu okuyun Beş yıl 90 dakika sürdü ve asırlardır bir gol attı, ancak Kansas City Current ilk NW'sine sahip"
-    },
-    {
-      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
-      "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirementCésar Azpilicueta looks well. César Azpilicueta always looks well – “ah, Captain Handsome,” one Chelsea fan says when told who’s turning up – but today especially, smiling in the suns",
-      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
-      "image_url": null,
-      "published": "2026-11-22T08:00:21",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.690829",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-23T03:28:00.600770",
-      "title_tr": "César Azpilicueta: 'Chelsea için beraberlik felaketti; eğer iyi performans gösteremezseniz, elenirsiniz'",
-      "summary_tr": "Eski defans oyuncusu rekor kıran uzun ömrünü, antrenmanda Eden Hazard'a tekme atmasını ve emeklilikten sonraki yaşamını anlatıyorCésar Azpilicueta iyi görünüyor. César Azpilicueta her zaman iyi görünüyor - Chelsea taraftarlarından biri kimin geleceği söylendiğinde \"Ah, Kaptan Yakışıklı\" diyor - ama özellikle bugün güneşin altında gülümsüyor"
-    },
-    {
-      "title": "Borussia Dortmund president Hans-Joachim Watzke sends heartfelt wishes to Bayern Munich's Harry Kane after injury blow",
-      "summary": "The president of Borussia Dortmund, Hans-Joachim Watzke, has reached across the Klassiker divide to praise Bayern Munich striker Harry Kane's impact on the Bundesliga and lament the ankle injury that is set to keep the Ballon d'Or winner sidelined for several months.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-president-hans-joachim-watzke-harry-kane-injury-wishes-bayern-munich-40097",
-      "image_url": null,
-      "published": "2026-11-22T15:26:20",
+      "published": "2026-11-22T19:30:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-23T03:25:25.025823",
-      "priority_score": 56,
+      "fetched_at": "2026-11-23T13:51:23.291599",
+      "priority_score": 61,
       "categories": [
-        "injuries",
+        "match_results",
+        "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-11-23T03:28:00.616861",
-      "title_tr": "Borussia Dortmund başkanı Hans-Joachim Watzke, sakatlık darbesinin ardından Bayern Münihli Harry Kane'e en içten dileklerini iletti",
-      "summary_tr": "Borussia Dortmund başkanı Hans-Joachim Watzke, Klassiker sınırının ötesine geçerek Bayern Münih'in forveti Harry Kane'in Bundesliga'daki etkisini övdü ve Ballon d'Or kazananının birkaç ay sahalardan uzak kalmasına yol açacak olan ayak bileği sakatlığından yakındı."
-    },
-    {
-      "title": "Price looking to continue trend of Grand Slam victors tasting Worlds glory",
-      "summary": "An interesting trend has occurred over the last four years: The winner of the Grand Slam has gone on to win the World Darts Championship.",
-      "url": "https://www.skysports.com/darts/news/12040/13615450/gerwyn-price-looking-to-continue-trend-of-grand-slam-victors-tasting-world-darts-championship-glory",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7413987.jpg?20261122213041",
-      "published": "2026-11-22T21:43:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:24:35.236434",
-      "priority_score": 41,
-      "categories": [
-        "serie_a"
-      ],
-      "processed_at": "2026-11-23T03:28:00.554709",
-      "title_tr": "Fiyat, Grand Slam galiplerinin Dünya zaferini tatma trendini sürdürmeyi hedefliyor",
-      "summary_tr": "Son dört yılda ilginç bir trend ortaya çıktı: Grand Slam'in galibi Dünya Dart Şampiyonası'nı kazandı."
+      "processed_at": "2026-11-23T13:54:01.798957",
+      "title_tr": "Niclas Füllkrug, ses getiren Nordderby zaferinde 10 gollük dönüm noktasına ulaştı",
+      "summary_tr": "Niclas Füllkrug, bu sezon Bundesliga'da 10 gole ulaşan ilk oyuncu oldu ve bunu şık bir şekilde yaparak Werder Bremen'in Hamburg'u 4-0 mağlup etmesinin önüne geçti ve 2026/27 sezonuna güçlü başlangıçlarını sürdürmelerine yardımcı oldu."
     },
     {
       "title": "Michael Gregoritsch double ends Augsburg's barren run with win against Mainz",
@@ -194,35 +138,191 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-23T03:25:25.025507",
+      "fetched_at": "2026-11-23T13:51:23.292918",
       "priority_score": 61,
       "categories": [
         "match_results",
         "breaking_news"
       ],
-      "processed_at": "2026-11-23T03:28:00.611261",
+      "processed_at": "2026-11-23T13:54:01.813382",
       "title_tr": "Michael Gregoritsch, Augsburg'un kısır gidişatını Mainz'a karşı galibiyetle ikiye katladı",
       "summary_tr": "Augsburg, Mainz'a karşı 3-1'lik galibiyetle yedi maçlık galibiyet serisini sonlandırdı ve Michael Gregoritsch, Juma Bah'ın Augsburg adına attığı ilk golün her iki yanında ikişer ikişer gol attı. Ransford-Yeboah Königsdörffer, konuk takım için teselli niteliğinde olan golü yakaladı."
     },
     {
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "title": "Osimhen, Aston Villa maçında oynayacak mı? Okan Buruk açıkladı!",
+      "summary": "Galatasaray teknik direktörü Okan Buruk, yarın akşam Şampiyonlar Ligi'nde oynayacakları Aston Villa maçı öncesinde düzenlenen basın toplantısında tedavisi devam eden Victor Osimhen'in karşılaşmada forma giyemeyeceğini açıkladı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/osimhen-aston-villa-macinda-oynayacak-mi-okan-buruk-acikladi-43387974",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0415893516f14679ccbef6.jpg",
+      "published": "2026-11-23T10:23:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:52:27.255735",
+      "priority_score": 61,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-23T13:54:01.956314",
+      "title_tr": "Osimhen, Aston Villa maçında oynayacak mı? Okan Buruk açıkladı!",
+      "summary_tr": "Galatasaray teknik direktörü Okan Buruk, yarın akşam Şampiyonlar Ligi'nde oynayacakları Aston Villa maçı öncesinde düzenlenen basın toplantısında tedavisi devam eden Victor Osimhen'in karşılaşmada forma giyemeyeceğini açıkladı."
+    },
+    {
+      "title": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
+      "summary": "Osimhen Aston Villa maçında oynayacak mı, Victor Osimhen sakat mı, Galatasaray Aston Villa maçı, Osimhen son durumu, Şampiyonlar Ligi Galatasaray, Galatasaray eksik oyuncular aramaları sarı-kırmızılı taraftarların gündeminde ilk sıralarda yer alıyor. Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftası",
+      "url": "https://www.cnnturk.com/spor/futbol/osimhen-aston-villa-macinda-oynayacak-mi-sampiyonlar-ligi-galatasaray-aston-villa-maci-ne-zaman-victor-osimhenin-saglik-durumu-nasil-3496886",
       "image_url": null,
-      "published": "2026-11-22T21:36:00",
+      "published": "2026-11-23T15:44:48",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:52:56.817591",
+      "priority_score": 61,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-23T13:54:02.120166",
+      "title_tr": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
+      "summary_tr": "Osimhen Aston Villa maçında oynayacak mı, Victor Osimhen sakat mı, Galatasaray Aston Villa maçı, Osimhen son durumu, Şampiyonlar Ligi Galatasaray, Galatasaray eksik oyuncular aramaları sarı-kırmızılı taraftarların gündeminde ilk sıralarda yer alıyor. Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftası"
+    },
+    {
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-23T13:07:12",
       "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.921312",
-      "priority_score": 60,
+      "fetched_at": "2026-11-23T13:50:20.858769",
+      "priority_score": 55,
       "categories": [
-        "match_results",
+        "la_liga"
+      ],
+      "processed_at": "2026-11-23T13:54:01.608651",
+      "title_tr": "'Savunarak 345 maç kazanamazsınız' - Simeone La Liga rekorunu kırdı",
+      "summary_tr": "Diego Simeone, Atletico Madrid'in teknik direktörü olarak La Liga'daki 345. zaferini kaydederek yeni bir başarıya imza attı."
+    },
+    {
+      "title": "Abdülkerim Bardakcı'dan 'aslan' açıklaması!",
+      "summary": "Galatasaraylı futbolcu Abdülkerim Bardakcı, Sarıyer Uskumruköy'de kaçan aslanın kendisine ait olduğu iddialarıyla ilgili konuştu. Milli futbolcu antrenman öncesi yaptığı açıklamada, \"Bir şey söylemek istiyorum çünkü ülke çalkalanıyor şu anda. Benim evde beslediğim bir tane aslan var, o da oğlum\" diy",
+      "url": "https://www.haberturk.com/spor/abdulkerim-bardakci-dan-sariyer-de-kacan-aslana-iliskin-aciklama-3929463",
+      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795436473/3929463/jpg/1920x1080",
+      "published": "2026-11-23T13:26:08",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:52:14.864716",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-23T13:54:01.832666",
+      "title_tr": "Abdülkerim Bardakcı'dan 'aslan' açıklaması!",
+      "summary_tr": "Galatasaraylı futbolcu Abdülkerim Bardakcı, Sarıyer Uskumruköy'de kaçan aslanın kendisine ait olduğu iddialarıyla ilgili konuştu. Milli futbolcu antrenman öncesi yaptığı açıklamada, \"Bir şey söylemek istiyorum çünkü ülke çalkalanıyor şu anda. Benim evde beslediğim bir tane aslan var, o da oğlum\" diy"
+    },
+    {
+      "title": "Unai Emery'den zemin açıklaması!",
+      "summary": "Aston Villa Teknik Direktörü Unai Emery, Galatasaray’ın hem hücumda hem de savunmada çok önemli oyunculara sahip olduğunu söyledi. Emery, RAMS Park’ın zemininin de maçın oynanabileceği düzeyde olması gerektiğine dikkat çekti.",
+      "url": "https://www.haberturk.com/spor/unai-emery-zeminin-macin-oynanabilecegi-duzeyde-olmasi-onemli-3929475",
+      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795438922/3929475/jpg/1920x1080",
+      "published": "2026-11-23T13:02:59",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:52:14.864836",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-23T13:54:01.841028",
+      "title_tr": "Unai Emery'den zemin açıklaması!",
+      "summary_tr": "Aston Villa Teknik Direktörü Unai Emery, Galatasaray’ın hem hücumda hem de savunmada çok önemli oyunculara sahip olduğunu söyledi. Emery, RAMS Park’ın zemininin de maçın oynanabileceği düzeyde olması gerektiğine dikkat çekti."
+    },
+    {
+      "title": "Manchester United'da Osimhen kararı! 'Rekor hedefliyor'",
+      "summary": "Galatasaraylı Victor Osimhen'in adı bir süredir Manchester United ile anılıyordu ve konuya ilişkin son gelişme İngiliz basınından aktarıldı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/manchester-unitedda-osimhen-karari-rekor-hedefliyor-43387888",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b041af22356f0a3a15a3e89.jpg",
+      "published": "2026-11-23T10:54:55",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:52:27.255690",
+      "priority_score": 51,
+      "categories": [
+        "premier_league",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-23T13:54:01.948447",
+      "title_tr": "Manchester United'da Osimhen kararı! 'Rekor hedefliyor'",
+      "summary_tr": "Galatasaraylı Victor Osimhen'in adı bir süredir Manchester United ile anılıyordu ve konuya ilişkin son gelişme İngiliz basınından aktarıldı."
+    },
+    {
+      "title": "Poch blames 'circumstances' in painful Man United loss to Liverpool",
+      "summary": "Mauricio Pochettino called for understanding of the \"circumstances\" that led to Manchester United suffering a 4-0 defeat Sunday against Liverpool in his first game as head coach.",
+      "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool",
+      "image_url": null,
+      "published": "2026-11-23T13:44:45",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.974628",
+      "priority_score": 80,
+      "categories": [
+        "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-23T03:28:00.544271",
-      "title_tr": "'Dünyanın en iyisi 4-0 kaybedebilirdi' - ama Man Utd, Anfield'da daha fazlasını mı yapmalıydı?",
-      "summary_tr": "Mauricio Pochettino, Manchester United'ın koşullarında dünyanın en iyi takımının bile Liverpool karşısında dört gol yiyebileceğine inanıyor; ancak Kırmızı Şeytanlar yenilgide daha fazlasını mı yapmalıydı?"
+      "processed_at": "2026-11-23T13:54:01.593486",
+      "title_tr": "Poch, Manchester United'ın Liverpool'a verdiği acı mağlubiyetin sorumlusu olarak 'koşulları' suçladı",
+      "summary_tr": "Mauricio Pochettino, Manchester United'ın Pazar günü Liverpool'a karşı başantrenör olarak çıktığı ilk maçta 4-0 mağlup olmasına neden olan \"koşulların\" anlaşılması çağrısında bulundu."
+    },
+    {
+      "title": "Schalke legend Raúl recalls ‘unforgettable, magical’ time in Gelsenkirchen",
+      "summary": "When Raúl left Real Madrid in July 2010, few could have predicted just how special his next chapter in football would become. The Spanish legend joined Schalke at the age of 33, spending two years in Gelsenkirchen that he remembers fondly to this day.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/raul-schalke-real-madrid-dfb-cup-interview-champions-league-40051",
+      "image_url": null,
+      "published": "2026-11-23T13:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:51:23.276383",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "la_liga"
+      ],
+      "processed_at": "2026-11-23T13:54:01.753088",
+      "title_tr": "Schalke efsanesi Raúl, Gelsenkirchen'deki 'unutulmaz, büyülü' zamanı anımsıyor",
+      "summary_tr": "Raúl, Temmuz 2010'da Real Madrid'den ayrıldığında, futboldaki bir sonraki bölümünün ne kadar özel olacağını çok az kişi tahmin edebilirdi. İspanyol efsane, 33 yaşında Schalke'ye katıldı ve bugün sevgiyle hatırladığı Gelsenkirchen'de iki yıl geçirdi."
+    },
+    {
+      "title": "Transfer rumors, news: Milan to land Liverpool defender Van Dijk?",
+      "summary": "AC Milan are monitoring the situation of Liverpool defender Virgil van Dijk. Transfer Talk has the latest.",
+      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
+      "image_url": null,
+      "published": "2026-11-23T08:17:36",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.975568",
+      "priority_score": 65,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-11-23T13:54:01.599919",
+      "title_tr": "Transfer söylentileri, haberler: Milan, Liverpool'un defans oyuncusu Van Dijk'i mi kadrosuna katacak?",
+      "summary_tr": "AC Milan, Liverpool'un defans oyuncusu Virgil van Dijk'in durumunu izliyor. Transfer Talk'ta en son gelişmeler var."
     },
     {
       "title": "Man Utd plotting Toney move - Monday's gossip",
@@ -234,15 +334,151 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.921954",
+      "fetched_at": "2026-11-23T13:50:20.859127",
       "priority_score": 60,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-11-23T03:28:00.546640",
+      "processed_at": "2026-11-23T13:54:01.613333",
       "title_tr": "Man Utd Toney'nin hamlesini planlıyor - Pazartesi günkü dedikodu",
       "summary_tr": "Manchester United, Al-Ahli'nin forvet oyuncusu Ivan Toney'i tercih ediyor, Fulham, Calvin Bassey ile sözleşme görüşmelerinde bulunuyor ve PSG, Eli Junior Kroupi'nin takibini hızlandırabilir."
+    },
+    {
+      "title": "Bundesliga Matchday 10 video highlights",
+      "summary": "Felix Nmecha was on target once again for Borussia Dortmund, while Bayer Leverkusen's Patrik Schick made history on an absorbing Matchday 10 in the Bundesliga.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-video-highlights-bayern-munich-borussia-dortmund-leverkusen-leipzig-937",
+      "image_url": null,
+      "published": "2026-11-23T07:55:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:51:23.288915",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-23T13:54:01.764535",
+      "title_tr": "Bundesliga'da 10. haftanın öne çıkan videoları",
+      "summary_tr": "Felix Nmecha, Borussia Dortmund adına bir kez daha hedefteyken, Bayer Leverkusen'den Patrik Schick, Bundesliga'da heyecan verici 10. Maç gününde tarih yazdı."
+    },
+    {
+      "title": "Borussia Dortmund president Hans-Joachim Watzke sends heartfelt wishes to Bayern Munich's Harry Kane after injury blow",
+      "summary": "The president of Borussia Dortmund, Hans-Joachim Watzke, has reached across the Klassiker divide to praise Bayern Munich striker Harry Kane's impact on the Bundesliga and lament the ankle injury that is set to keep the Ballon d'Or winner sidelined for several months.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-president-hans-joachim-watzke-harry-kane-injury-wishes-bayern-munich-40097",
+      "image_url": null,
+      "published": "2026-11-22T15:26:20",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:51:23.293282",
+      "priority_score": 56,
+      "categories": [
+        "injuries",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-23T13:54:01.824502",
+      "title_tr": "Borussia Dortmund başkanı Hans-Joachim Watzke, sakatlık darbesinin ardından Bayern Münihli Harry Kane'e en içten dileklerini iletti",
+      "summary_tr": "Borussia Dortmund başkanı Hans-Joachim Watzke, Klassiker sınırının ötesine geçerek Bayern Münih'in forveti Harry Kane'in Bundesliga'daki etkisini övdü ve Ballon d'Or kazananının birkaç ay sahalardan uzak kalmasına yol açacak olan ayak bileği sakatlığından yakındı."
+    },
+    {
+      "title": "Sources: Man Utd plan to appeal Yoro red card against Liverpool",
+      "summary": "Manchester United have notified the Football Association of their intention to appeal Leny Yoro's red card in the 4-0 defeat to Liverpool, sources have told ESPN.",
+      "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
+      "image_url": null,
+      "published": "2026-11-23T13:44:45",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.974319",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-11-23T13:54:01.592880",
+      "title_tr": "Kaynaklar: Man Utd, Yoro'nun Liverpool'a karşı kırmızı kartına itiraz etmeyi planlıyor",
+      "summary_tr": "Kaynakların ESPN'e verdiği bilgiye göre Manchester United, Liverpool'a karşı 4-0 mağlup olan Leny Yoro'nun kırmızı kartına itiraz etme niyetini Futbol Federasyonu'na bildirdi."
+    },
+    {
+      "title": "Milan into top four as classy Pulisic solo goal caps Serie A rout",
+      "summary": "AC Milan racked up their biggest win of the season under Ruben Amorim as Frosinone were beaten 5-1 at San Siro on Sunday.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401874989",
+      "image_url": null,
+      "published": "2026-11-23T13:44:45",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.974892",
+      "priority_score": 55,
+      "categories": [
+        "serie_a"
+      ],
+      "processed_at": "2026-11-23T13:54:01.594453",
+      "title_tr": "Milan, Pulisic'in Serie A mağlubiyetinde tek başına attığı şık gollerle ilk dörde girdi",
+      "summary_tr": "AC Milan, Pazar günü San Siro'da Frosinone'yi 5-1 yenerken Ruben Amorim yönetiminde sezonun en büyük galibiyetini elde etti."
+    },
+    {
+      "title": "🟥VAR review: Explaining Yoro's early red card vs. Liverpool",
+      "summary": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image_url": null,
+      "published": "2026-11-23T13:44:45",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:13.975348",
+      "priority_score": 55,
+      "categories": [
+        "general"
+      ],
+      "processed_at": "2026-11-23T13:54:01.597654",
+      "title_tr": "🟥VAR incelemesi: Yoro'nun Liverpool karşısında erken kırmızı kartını açıklamak",
+      "summary_tr": "VAR çoğu zaman tartışmalara neden oluyor ama kararlar nasıl alınıyor? Yerleşik hakemimiz Andy Davies her şeyi açıklıyor."
+    },
+    {
+      "title": "Manchester United to appeal against Leny Yoro red card in defeat by Liverpool",
+      "summary": "Mauricio Pochettino said after game it was ‘never a foul’‘No one’s coming to save us,’ admits Kobbie Mainoo Manchester United intend to appeal against the red card Leny Yoro received in the eighth minute of the 4-0 defeat at Liverpool on Sunday. The defender was dismissed after fouling Alexander Isa",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "image_url": null,
+      "published": "2026-11-23T13:30:01",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:57.404536",
+      "priority_score": 53,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-11-23T13:54:01.695379",
+      "title_tr": "Manchester United, Liverpool'a mağlup olan Leny Yoro'nun kırmızı kartına itiraz edecek",
+      "summary_tr": "Mauricio Pochettino maç sonrasında \"Asla faul olmadığını\" söyledi. Kobbie Mainoo, Manchester United'ın Leny Yoro'nun Pazar günü Liverpool'a karşı aldıkları 4-0'lık yenilginin sekizinci dakikasında gördüğü kırmızı karta itiraz etme niyetinde olduğunu kabul etti. Savunma oyuncusu Alexander Isa'ya faul yaptıktan sonra oyundan atıldı"
+    },
+    {
+      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
+      "summary": "Everton striker has worked hard to find his scoring touch after admitting he hit ‘rock bottom’ at times last seasonA most unexpected name sits behind the phenomenon Erling Haaland and the £125m proven marksman Alexander Isak in the Premier League goalscoring chart this season. The rise of Thierno Ba",
+      "url": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
+      "image_url": null,
+      "published": "2026-11-23T08:00:51",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-23T13:50:57.405849",
+      "priority_score": 53,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-23T13:54:01.724500",
+      "title_tr": "'Haaland endişeli olmalı': Thierno Barry'nin yükselişi David Moyes'un mırıldanmasına neden oldu",
+      "summary_tr": "Everton'un forveti, geçen sezon bazı anlarda dibe vurduğunu itiraf ettikten sonra gol atma becerisini bulmak için çok çalıştı. Bu sezon Premier Lig gol tablosunda fenomen Erling Haaland ve 125 milyon sterlinlik kendini kanıtlamış nişancı Alexander Isak'ın arkasında hiç beklenmedik bir isim yer alıyor. Thierno Ba'nın yükselişi"
     },
     {
       "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
@@ -254,117 +490,35 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.688759",
-      "priority_score": 58,
+      "fetched_at": "2026-11-23T13:50:57.406383",
+      "priority_score": 53,
       "categories": [
         "match_results",
         "la_liga",
         "serie_a"
       ],
-      "processed_at": "2026-11-23T03:28:00.581984",
+      "processed_at": "2026-11-23T13:54:01.735087",
       "title_tr": "Avrupa futbolu: Barcelona, ​​Villarreal'i batırmak için iki gol geriden geri adım attı",
       "summary_tr": "Barça, Lamine Yamal'ın kaçırdığı penaltıya rağmen 3-2 galip geldi InterBarcelona ile 4-4'lük heyecan dolu maçta Atalanta, iki gol geriden geri dönerek Pazar günü evinde Villarreal'i 3-2 mağlup etti ve La Liga'nın zirvesindeki üç sayılık liderliğini yeniden sağladı. Yedi dakika içinde Tajon Buchanan'dan iki gol"
     },
     {
-      "title": "Atletico Madrid 3 puana 3 golle ulaştı",
-      "summary": "İspanya La Liga'nın 13. haftasında Atletico Madrid, deplasmanda konuk olduğu Getafe'yi 3-0 mağlup etti.",
-      "url": "https://www.haberturk.com/spor/getafe-atletico-madrid-mac-sonucu-ozeti-ve-golleri-ispanya-la-liga-3929281",
-      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795385631/3929281/jpg/1920x1080",
-      "published": "2026-11-22T22:14:33",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
+      "title": "Verrassend nieuws bij NEC: Emre Mor (29) stopt voorlopig",
+      "summary": "Emre Mor heeft zijn contract bij NEC laten ontbinden. De 29-jarige aanvaller stopt voorlopig met profvoetbal om zich op zijn gezondheid te richten.",
+      "url": "https://www.vi.nl/nieuws/verrassend-nieuws-bij-nec-emre-mor-29-stopt-voorlopig",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/23/f4963eba93e9f77716c6a8c50a0e07b892716e70.jpg?width=1200",
+      "published": "2026-11-23T13:33:00",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
       "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968470",
-      "priority_score": 58,
+      "fetched_at": "2026-11-23T13:53:59.362849",
+      "priority_score": 52,
       "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga"
+        "transfers"
       ],
-      "processed_at": "2026-11-23T03:28:00.651946",
-      "title_tr": "Atletico Madrid 3 puana 3 golle ulaştı",
-      "summary_tr": "İspanya La Liga'nın 13. haftasında Atletico Madrid, deplasmanda konuk olduğu Getafe'yi 3-0 mağlup etti."
-    },
-    {
-      "title": "4-4'lük maç! Atalanta ve Inter yenişemedi",
-      "summary": "İtalya Serie A'nın 12. haftasında Atalanta ile Inter dev maçta 4-4 berabere kaldı.",
-      "url": "https://www.haberturk.com/spor/atalanta-inter-mac-sonucu-ozeti-ve-golleri-iste-atalanta-inter-maci-detaylari-3929279",
-      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795385148/3929279/jpg/1920x1080",
-      "published": "2026-11-22T22:06:14",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968518",
-      "priority_score": 58,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-11-23T03:28:00.654522",
-      "title_tr": "4-4'lük maç! Atalanta ve Inter yenişemedi",
-      "summary_tr": "İtalya Serie A'nın 12. haftasında Atalanta ile Inter dev maçta 4-4 berabere kaldı."
-    },
-    {
-      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-22T21:44:37",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.921860",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-11-23T03:28:00.546262",
-      "title_tr": "FIFA, 2035 Kadınlar Dünya Kupası'nın İngiltere'ye ev sahipliği yapacağını açıkladı",
-      "summary_tr": "FIFA, Pazartesi günü 1966'dan bu yana ilk Dünya Kupası'nın İngiltere'de düzenleneceğini duyuracak."
-    },
-    {
-      "title": "\"Milli takımda haksızlık yapılmıyor\"",
-      "summary": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, Ozan Tufan'ın golüyle Eyüpspor'u 1-0 mağlup etti. Maçın ardından konuşan deneyimli futbolcu, milli takım aday kadrosunda haksızlık olmadığını belirtti.",
-      "url": "https://www.haberturk.com/spor/eyupspor-galibiyeti-sonrasi-trabzonspor-da-ozan-tufan-milli-takimda-haksizlik-edildigini-dusunmuyorum-3929253",
-      "image_url": "https://im.haberturk.com/l/2026/11/22/ver1795373300/3929253/jpg/1920x1080",
-      "published": "2026-11-22T18:49:12",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968812",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-23T03:28:00.668458",
-      "title_tr": "\"Milli takımda haksızlık yapılmıyor\"",
-      "summary_tr": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, Ozan Tufan'ın golüyle Eyüpspor'u 1-0 mağlup etti. Maçın ardından konuşan deneyimli futbolcu, milli takım aday kadrosunda haksızlık olmadığını belirtti."
-    },
-    {
-      "title": "Barcelona geriden gelerek kazandı!",
-      "summary": "İspanya La Liga'nın 13. haftasında Barcelona, sahasında konuk ettiği Villarreal'i 3-2 mağlup etti.",
-      "url": "https://www.haberturk.com/spor/barcelona-villarreal-mac-sonucu-ozeti-ve-golleri-ispanya-la-liga-3929247",
-      "image_url": "https://im.haberturk.com/l/2026/11/22/ver1795367915/3929247/jpg/1920x1080",
-      "published": "2026-11-22T17:22:30",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:26:13.968949",
-      "priority_score": 53,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-23T03:28:00.678747",
-      "title_tr": "Barcelona geriden gelerek kazandı!",
-      "summary_tr": "İspanya La Liga'nın 13. haftasında Barcelona, sahasında konuk ettiği Villarreal'i 3-2 mağlup etti."
+      "processed_at": "2026-11-23T13:54:02.461182",
+      "title_tr": "NEC'den şaşırtan haber: Emre Mor (29) şimdilik duracak",
+      "summary_tr": "Emre Mor'un NEC ile olan sözleşmesi feshedildi. 29 yaşındaki hücum oyuncusu, sağlığına odaklanmak için bir süreliğine profesyonel futbolu bırakacak."
     },
     {
       "title": "RB Leipzig leapfrog Bayern Munich to go top of the Bundesliga goalscoring charts",
@@ -376,13 +530,13 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-23T03:25:25.024330",
+      "fetched_at": "2026-11-23T13:51:23.291091",
       "priority_score": 51,
       "categories": [
         "match_results",
         "bundesliga"
       ],
-      "processed_at": "2026-11-23T03:28:00.604347",
+      "processed_at": "2026-11-23T13:54:01.792471",
       "title_tr": "RB Leipzig, Bayern Münih'i geçerek Bundesliga'nın gol sıralamasında zirveye yerleşti",
       "summary_tr": "Arka arkaya beş gol atan RB Leipzig, ilk 10 maçında 32 lig golüyle ligdeki en yüksek golü kaydetti. Deplasman sorunlarının çözülmesiyle, serbest skor yapan Leipzig lider takım arasında yer alıyor."
     },
@@ -396,209 +550,53 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-23T03:25:25.025036",
+      "fetched_at": "2026-11-23T13:51:23.292299",
       "priority_score": 51,
       "categories": [
         "match_results",
         "champions_league"
       ],
-      "processed_at": "2026-11-23T03:28:00.607737",
+      "processed_at": "2026-11-23T13:54:01.805959",
       "title_tr": "Bremen, Nordderby'de Hamburg'u mağlup ederken Justin Njinmah dönüşte hazır",
       "summary_tr": "Werder Bremen, Nordderby'de Hamburg'u 4-0 mağlup etti; Justin Njinmah'ın ikilisi Marco Friedl ve Niclas Füllkrug, Weserstadion'daki tek taraflı ikinci yarının ardından büyük bir galibiyete imza attı. Sonuç, Bremen'in artık UEFA Şampiyonlar Ligi elemelerinin sadece üç puan gerisinde olduğu anlamına geliyor"
     },
     {
-      "title": "Ozan Tufan'dan A Milli Takım ve Sergen Yalçın açıklaması!",
-      "summary": "Trabzonspor'da Eyüpspor galibiyetindeki tek golü kaydeden Ozan Tufan, karşılaşmanın ardından açıklamalarda bulundu.",
-      "url": "https://www.hurriyet.com.tr/sporarena/ozan-tufandan-a-milli-takim-ve-sergen-yalcin-aciklamasi-43387361",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0338a83516f14679ccb7d8.jpg",
-      "published": "2026-11-22T18:47:07",
+      "title": "Unai Emery: 'Zeminin durumu bir mazeret değil'",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında yarın Galatasaray ile karşılaşacak İngiltere temsilcisi Aston Villa'da teknik direktör Unai Emery, RAMS Park zemininin kendileri için bir bahane olmadığını ve maça dair planlarının değişmeyeceğini söyledi.",
+      "url": "https://www.hurriyet.com.tr/sporarena/unai-emery-zeminin-durumu-bir-mazeret-degil-43388212",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b043b3a3516f14679ccc078.jpg",
+      "published": "2026-11-23T13:11:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-23T03:26:27.302045",
+      "fetched_at": "2026-11-23T13:52:27.255476",
       "priority_score": 51,
       "categories": [
-        "match_results"
+        "super_lig"
       ],
-      "processed_at": "2026-11-23T03:28:00.714515",
-      "title_tr": "Ozan Tufan'dan A Milli Takım ve Sergen Yalçın açıklaması!",
-      "summary_tr": "Trabzonspor'da Eyüpspor galibiyetindeki tek golü kaydeden Ozan Tufan, karşılaşmanın ardından açıklamalarda bulundu."
+      "processed_at": "2026-11-23T13:54:01.908390",
+      "title_tr": "Unai Emery: 'Zeminin durumu bir mazeret değil'",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında yarın Galatasaray ile karşılaşacak İngiltere temsilcisi Aston Villa'da teknik direktör Unai Emery, RAMS Park zemininin kendileri için bir bahane olmadığını ve maça dair planlarının değişmeyeceğini söyledi."
     },
     {
-      "title": "Barcelona fırtınası ikinci yarıda esti: 2-0'dan döndü!",
-      "summary": "İspanya LaLiga'nın 13. haftasında Barcelona, ilk yarısını 2-0 geride kapattığı maçta Villarreal'i evinde ikinci yarıda bulduğu gollerle 3-2 mağlup etti.",
-      "url": "https://www.hurriyet.com.tr/sporarena/barcelona-firtinasi-ikinci-yarida-esti-2-0dan-dondu-43387224",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0306073516f14679ccb739.jpg",
-      "published": "2026-11-22T15:12:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:26:27.302307",
-      "priority_score": 51,
-      "categories": [
-        "match_results",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-23T03:28:00.747352",
-      "title_tr": "Barcelona fırtınası ikinci yarıda esti: 2-0'dan döndü!",
-      "summary_tr": "İspanya LaLiga'nın 13. haftasında Barcelona, ilk yarısını 2-0 geride kapattığı maçta Villarreal'i evinde ikinci yarıda bulduğu gollerle 3-2 mağlup etti."
-    },
-    {
-      "title": "Trabzonspor 1-0 Eyüpspor Maç Özeti | Fırtına, tek golle güldü",
-      "summary": "Trabzonspor, Trendyol Süper Lig’in 12’nci haftasında sahasında Eyüpspor ile karşı karşıya geldi. Bu müsabakanın canlı anlatımı burada.",
-      "url": "https://www.cnnturk.com/spor/futbol/live-trabzonspor-1-0-eyupspor-mac-ozeti-firtina-tek-golle-guldu-3496494",
+      "title": "GALATASARAY - ASTON VILLA MAÇI NE ZAMAN? GS Aston Villa maçı hangi kanalda, saat kaçta? Galatasaray-Aston Villa maç kadrosu",
+      "summary": "UEFA Şampiyonlar Ligi'nde 5. hafta heyecanı yaşanırken Galatasaray, İngiltere Premier Lig temsilcisi Aston Villa'yı sahasında konuk etmeye hazırlanıyor. Süper Lig'de liderlik koltuğunda oturan sarı-kırmızılı ekip, Avrupa'da da yoluna galibiyetle devam etmek istiyor. Şampiyonlar Ligi'nde geride kalan",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-ne-zaman-gs-aston-villa-maci-hangi-kanalda-saat-kacta-galatasaray-aston-villa-mac-kadrosu-3496891",
       "image_url": null,
-      "published": "2026-11-22T20:55:44",
+      "published": "2026-11-23T16:05:50",
       "source": "CNN Türk Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-23T03:26:49.347038",
+      "fetched_at": "2026-11-23T13:52:56.817298",
       "priority_score": 51,
       "categories": [
-        "match_results",
         "super_lig"
       ],
-      "processed_at": "2026-11-23T03:28:00.852452",
-      "title_tr": "Trabzonspor 1-0 Eyüpspor Maç Özeti | Fırtına, tek golle güldü",
-      "summary_tr": "Trabzonspor, Trendyol Süper Lig’in 12’nci haftasında sahasında Eyüpspor ile karşı karşıya geldi. Bu müsabakanın canlı anlatımı burada."
-    },
-    {
-      "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
-      "summary": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues.In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish aft",
-      "url": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
-      "image_url": null,
-      "published": "2026-11-22T15:12:24",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.689194",
-      "priority_score": 48,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-11-23T03:28:00.587450",
-      "title_tr": "Blackburn, Mowbray adına derbi çekilişini kazandı ve Burnley'nin ev sahibi galibiyet bekleyişini uzattı",
-      "summary_tr": "Todd Cantwell'in penaltısı, Tony Mowbray'in sağlık sorunları nedeniyle geri çekilmesinden bu yana ilk maçında Burnley'de Blackburn'e 2-2 beraberlik kazandırdı. Sürükleyici, fiziksel Doğu Lancashire derbisinde, ev sahibi takım Largie Ramazani'nin ilk yarıda yükselen sürüşü ve Jaydon Banel'in arkadan yönlendirdiği son vuruşla iki kez öne geçti."
-    },
-    {
-      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Ale",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "image_url": null,
-      "published": "2026-11-22T18:35:14",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.690096",
-      "priority_score": 48,
-      "categories": [
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-23T03:28:00.596819",
-      "title_tr": "Liverpool, Yoro'nun kırmızı görmesinin ardından Pochettino'nun kabusu Manchester United'ın startını verdi",
-      "summary_tr": "İyileşmenin yeşil filizleri yüksek fırında Manchester United'daki Mauricio Pochettino dönemine göre daha uzun sürdü. Manchester'ın düşmüş devleri adına bir başka berbat Anfield gününde, Pochettino, Leny Yoro'nun Ale'yi reddettiği için kırmızı kart görmesinin ardından sekizinci dakikadan itibaren ateş vaftizine katlandı."
-    },
-    {
-      "title": "Trabzonspor galibiyet serisini sürdürüyor! Eyüpspor'u tek golle geçti",
-      "summary": "Süper Lig'in 12. haftasında Trabzonspor sahasında Eyüpspor'u konuk etti. Bordo-mavili takım rakibini Ozan Tufan'ın attığı golle yenerek galibiyet serisine devam etti.",
-      "url": "https://www.yenisafak.com/spor/trabzonspor-1-0-eyupspor-mac-sonucu-ozeti-izle-4875452",
-      "image_url": null,
-      "published": "2026-11-22T17:50:00",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:27:23.691025",
-      "priority_score": 47,
-      "categories": [
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-23T03:28:00.984531",
-      "title_tr": "Trabzonspor galibiyet serisini sürdürüyor! Eyüpspor'u tek golle geçti",
-      "summary_tr": "Süper Lig'in 12. haftasında Trabzonspor sahasında Eyüpspor'u konuk etti. Bordo-mavili takım rakibini Ozan Tufan'ın attığı golle yenerek galibiyet serisine devam etti."
-    },
-    {
-      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-22T23:20:16",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.921185",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-23T03:28:00.544000",
-      "title_tr": "'Vay canına' bir oyuncu - Ngumoha neden şimdiden Liverpool'da oyunun kurallarını değiştiriyor?",
-      "summary_tr": "Günün Maçı yorumcusu Danny Murphy, Rio Ngumoha'nın, Liverpool'un Manchester United'ı 4-0 yendiği maçta neler yapabileceğini herkese nasıl gösterdiğini anlatıyor."
-    },
-    {
-      "title": "Did Liverpool 'get lucky' with red card decision?",
-      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-22T23:59:59",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:24:23.922152",
-      "priority_score": 45,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-23T03:28:00.548006",
-      "title_tr": "Liverpool kırmızı kart kararıyla 'şanslı' mı oldu?",
-      "summary_tr": "Günün Maçı uzmanları Danny Murphy ve Ashley Young, Manchester United'dan Leny Yoro'nun Anfield'da 8. dakikada kırmızı kart görmesi nedeniyle Liverpool'un belki de \"şanslı\" olduğuna inanıyor."
-    },
-    {
-      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
-      "summary": "Manchester United lose 4-0 to Liverpool after early redArgentinian suffers club’s joint-heaviest debut defeatMauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in th",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
-      "image_url": null,
-      "published": "2026-11-22T21:31:03",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:25:00.687997",
-      "priority_score": 43,
-      "categories": [
-        "premier_league"
-      ],
-      "processed_at": "2026-11-23T03:28:00.573677",
-      "title_tr": "'Benim için acı verici': Pochettino, Anfield'daki aşağılanma nedeniyle Yoro'nun kırmızı kartını eleştirdi",
-      "summary_tr": "Manchester United, erken kırmızının ardından Liverpool'a 4-0 mağlup oldu Arjantinli oyuncu, kulübün ilk maçındaki en ağır yenilgisini yaşadı Mauricio Pochettino, Leny Yoro'nun yanlışlıkla kırmızı kartla ihraç edildiğini ve Manchester United'ın daha önce Liverpool'a karşı aldığı en ağır yenilginin ardından penaltı talebinin reddedildiğini savundu."
-    },
-    {
-      "title": "Thitikul wins CME Group Tour Championship for third year in a row",
-      "summary": "Jeeno Thitikul has won the LPGA Tour's season-ending CME Group Tour Championship for a third consecutive year after storming to a two-shot victory in Florida.",
-      "url": "https://www.skysports.com/watch/video/13615463/cme-group-tour-championship-day-four-highlights",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-golf-cme-tour-championship_7414029.jpg?20261122221004",
-      "published": "2026-11-22T22:05:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-23T03:24:35.236472",
-      "priority_score": 41,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-23T03:28:00.556084",
-      "title_tr": "Thitikul, üst üste üçüncü kez CME Grup Turu Şampiyonasını kazandı",
-      "summary_tr": "Jeeno Thitikul, Florida'da iki atışlık zafere ulaştıktan sonra LPGA Tour'un sezon sonu CME Grup Turu Şampiyonasını üst üste üçüncü kez kazandı."
+      "processed_at": "2026-11-23T13:54:02.087916",
+      "title_tr": "GALATASARAY - ASTON VILLA MAÇI NE ZAMAN? GS Aston Villa maçı hangi kanalda, saat kaçta? Galatasaray-Aston Villa maç kadrosu",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nde 5. hafta heyecanı yaşanırken Galatasaray, İngiltere Premier Lig temsilcisi Aston Villa'yı sahasında konuk etmeye hazırlanıyor. Süper Lig'de liderlik koltuğunda oturan sarı-kırmızılı ekip, Avrupa'da da yoluna galibiyetle devam etmek istiyor. Şampiyonlar Ligi'nde geride kalan"
     }
   ]
 }
