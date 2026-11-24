@@ -1,267 +1,69 @@
 {
-  "timestamp": "2026-11-24T11:52:37.144927",
+  "timestamp": "2026-11-24T21:46:45.604605",
   "total_items": 30,
   "news": [
     {
-      "title": "U.S. to co-host Women's World Cup in 2031; U.K. wins bid for 2035",
-      "summary": "The United States has been confirmed as co-hosts of the 2031 Women's World Cup, before the United Kingdom hosts the tournament four years later.",
-      "url": "https://www.espn.com/soccer/story/_/id/50571732/womens-world-cup-united-states-united-kindgom",
+      "title": "Bayern hold 'constructive' talks with Musiala's agents over health, not money",
+      "summary": "Jamal Musiala's health, rather than his wages, were up for discussion as Bayern Munich officials met with the star player's agents Tuesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/50583931/bayern-munich-jamal-musiala-health-contract",
       "image_url": null,
-      "published": "2026-11-24T10:38:41",
+      "published": "2026-11-24T19:52:12",
       "source": "ESPN FC",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.192876",
+      "fetched_at": "2026-11-24T21:41:27.559891",
       "priority_score": 90,
       "categories": [
         "transfers",
-        "match_results",
-        "breaking_news",
-        "world_cup"
-      ],
-      "processed_at": "2026-11-24T11:50:57.477112",
-      "title_tr": "ABD, 2031'de Kadınlar Dünya Kupası'na ev sahipliği yapacak; İngiltere 2035 teklifini kazandı",
-      "summary_tr": "Birleşik Krallık'ın dört yıl sonra turnuvaya ev sahipliği yapmasından önce, Amerika Birleşik Devletleri'nin 2031 Kadınlar Dünya Kupası'na ortak ev sahipliği yapacağı onaylandı."
-    },
-    {
-      "title": "Raya won't require surgery, Arsenal's Mikel Arteta confirms",
-      "summary": "Mikel Arteta has said David Raya's shoulder injury is better than first feared and that the goalkeeper will not require surgery.",
-      "url": "https://www.espn.com/soccer/story/_/id/50572706/david-raya-arsenal-injury-update",
-      "image_url": null,
-      "published": "2026-11-24T10:38:41",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.193554",
-      "priority_score": 90,
-      "categories": [
-        "breaking_news",
-        "injuries",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-24T11:50:57.479828",
-      "title_tr": "Arsenalli Mikel Arteta, Raya'nın ameliyata gerek duymayacağını doğruladı",
-      "summary_tr": "Mikel Arteta, David Raya'nın omuz sakatlığının ilk korkulduğundan daha iyi olduğunu ve kalecinin ameliyata ihtiyacı olmayacağını söyledi."
-    },
-    {
-      "title": "Jose Mourinho'nun planını ifşa etti! İspanya bu sözlerle çalkalanıyor: \"Transfer edilmesi için oynatıyor\"",
-      "summary": "Real Madrid'de Vinicius Junior'un durumu üzerine konuşan eski kaleci Santiago Canizares, Jose Mourinho'nun Brezilyalı yıldızı kulüplerin ilgisini çekmek için Şampiyonlar Ligi'nde oynattığını savundu.",
-      "url": "https://www.yenisafak.com/galeri/spor/jose-mourinhonun-planini-ifsa-etti-ispanya-bu-sozlerle-calkalaniyor-transfer-edilmesi-icin-oynatiyor-4876065",
-      "image_url": null,
-      "published": "2026-11-24T11:39:56",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:50:14.075424",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-24T11:50:58.116621",
-      "title_tr": "Jose Mourinho'nun planını ifşa etti! İspanya bu sözlerle çalkalanıyor: \"Transfer edilmesi için oynatıyor\"",
-      "summary_tr": "Real Madrid'de Vinicius Junior'un durumu üzerine konuşan eski kaleci Santiago Canizares, Jose Mourinho'nun Brezilyalı yıldızı kulüplerin ilgisini çekmek için Şampiyonlar Ligi'nde oynattığını savundu."
-    },
-    {
-      "title": "Galatasaray'da ilginç ayrılık kararı: 4 isim aynı takıma gönderilebilir",
-      "summary": "Galatasaray'da ara transfer dönemi öncesi kadroda düşünülmeyen isimlerin geleceği merak konusu oldu. Süper Lig ekibi, dört futbolcuyu kadrosuna katmak için sarı-kırmızılıların kapısını çalacak.",
-      "url": "https://www.yenisafak.com/galeri/spor/galatasarayda-ilginc-ayrilik-karari-4-ismi-ayni-takima-gonderecek-4876062",
-      "image_url": null,
-      "published": "2026-11-24T11:33:06",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:50:14.075835",
-      "priority_score": 67,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:58.149610",
-      "title_tr": "Galatasaray'da ilginç ayrılık kararı: 4 isim aynı takıma gönderilebilir",
-      "summary_tr": "Galatasaray'da ara transfer dönemi öncesi kadroda düşünülmeyen isimlerin geleceği merak konusu oldu. Süper Lig ekibi, dört futbolcuyu kadrosuna katmak için sarı-kırmızılıların kapısını çalacak."
-    },
-    {
-      "title": "Niclas Füllkrug hits 10-goal milestone in resounding Nordderby triumph",
-      "summary": "On-song Niclas Füllkrug became the first player to reach 10 Bundesliga goals this season, and he did so in style, smashing home a stoppage-time thunderbolt to cap off Werder Bremen's 4-0 demolition of Hamburg and help maintain their strong start to 2026/27.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/niclas-fullkrug-hits-10-goal-milestone-in-resounding-nordderby-triumph-40104",
-      "image_url": null,
-      "published": "2026-11-24T07:33:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:01.971892",
-      "priority_score": 66,
-      "categories": [
-        "match_results",
         "breaking_news",
         "bundesliga"
       ],
-      "processed_at": "2026-11-24T11:50:57.667351",
-      "title_tr": "Niclas Füllkrug, ses getiren Nordderby zaferinde 10 gollük dönüm noktasına ulaştı",
-      "summary_tr": "Niclas Füllkrug, bu sezon Bundesliga'da 10 gole ulaşan ilk oyuncu oldu ve bunu şık bir şekilde yaparak Werder Bremen'in Hamburg'u 4-0 mağlup etmesinin önüne geçti ve 2026/27 sezonuna güçlü başlangıçlarını sürdürmelerine yardımcı oldu."
+      "processed_at": "2026-11-24T21:45:20.638767",
+      "title_tr": "Bayern, Musiala'nın menajerleriyle para konusunda değil sağlık konusunda 'yapıcı' görüşmelerde bulundu",
+      "summary_tr": "Bayern Münih yetkililerinin Salı günü yıldız oyuncunun menajerleriyle yaptığı görüşmede Jamal Musiala'nın maaşından ziyade sağlığı tartışmaya açıldı."
     },
     {
-      "title": "Andre Onana istatistiklerde zirveye oynuyor",
-      "summary": "Trabzonspor’un Kamerunlu file bekçisi Andre Onana, Avrupa’nın önde gelen liglerinde forma giyen kaleciler arasında 'kalesini gole kapatma' istatistiğiyle ilk 3 içerisinde yer aldı. Türkiye’de ise zirvenin sahibi olan Onana, ortaya koyduğu performansla dikkatleri üzerine çekti.",
-      "url": "https://www.cnnturk.com/spor/futbol/andre-onana-istatistiklerde-zirveye-oynuyor-3497488",
+      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
+      "summary": "Playmaker in best form since moving to Anfield‘I am really enjoying playing under Iraola’Florian Wirtz has credited Andoni Iraola with helping him recapture the form that made him one of the most coveted players in Europe when he joined Liverpool in a deal worth up to £116m in 2025.The Germany inter",
+      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
       "image_url": null,
-      "published": "2026-11-24T14:07:03",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:49:25.221478",
-      "priority_score": 66,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-24T11:50:57.920079",
-      "title_tr": "Andre Onana istatistiklerde zirveye oynuyor",
-      "summary_tr": "Trabzonspor’un Kamerunlu file bekçisi Andre Onana, Avrupa’nın önde gelen liglerinde forma giyen kaleciler arasında 'kalesini gole kapatma' istatistiğiyle ilk 3 içerisinde yer aldı. Türkiye’de ise zirvenin sahibi olan Onana, ortaya koyduğu performansla dikkatleri üzerine çekti."
-    },
-    {
-      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
-      "summary": "The manager’s first game in charge was a disaster and he needs to lift the mood within a sunken squad if a relegation battle is to be avoidedSign up for our free newsletter hereIn as much as any derby can ever be a free hit, there was always a sense that Mauricio Pochettino’s first game as Mancheste",
-      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
-      "image_url": null,
-      "published": "2026-11-23T15:45:50",
+      "published": "2026-11-24T19:02:09",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-24T11:47:36.585794",
-      "priority_score": 63,
+      "fetched_at": "2026-11-24T21:42:09.720547",
+      "priority_score": 83,
       "categories": [
-        "breaking_news",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-24T11:50:57.631381",
-      "title_tr": "Mauricio Pochettino artık Manchester United'ın ne kadar çaresiz olduğunu görebiliyor | Jonathan Wilson",
-      "summary_tr": "Menajerin sorumlu olduğu ilk maç bir felaketti ve küme düşme mücadelesinden kaçınmak istiyorsa, batık kadrodaki morali yükseltmesi gerekiyor. Ücretsiz haber bültenimize buradan kaydolun. Her derbide bedava bir vuruş olabileceği gibi, Mauricio Pochettino'nun Mancheste olarak ilk maçına çıkacağı hissi her zaman vardı."
-    },
-    {
-      "title": "What are Bayern Munich’s options to replace the injured Harry Kane?",
-      "summary": "Harry Kane is set to be out of action for at least three months after injuring his ankle in Bayern Munich’s Matchday 10 draw with Cologne. With an already lengthy list of absentees in attacking areas, who could potentially fill the gap left by the Ballon d’Or winner?",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-options-to-replace-injured-harry-kane-40060",
-      "image_url": null,
-      "published": "2026-11-24T07:35:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:01.970162",
-      "priority_score": 61,
-      "categories": [
-        "injuries",
-        "premier_league",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-24T11:50:57.648193",
-      "title_tr": "Sakatlanan Harry Kane'in yerine Bayern Münih'in seçenekleri neler?",
-      "summary_tr": "Harry Kane, Bayern Münih'in Köln ile oynadığı 10. maç çekilişinde bileğinden sakatlandıktan sonra en az üç ay sahalardan uzak kalacak. Hücum bölgelerinde yer almayanların zaten uzun bir listesi varken, Ballon d'Or kazananının bıraktığı boşluğu potansiyel olarak kim doldurabilir?"
-    },
-    {
-      "title": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
-      "summary": "Osimhen Aston Villa maçında oynayacak mı, Victor Osimhen sakat mı, Galatasaray Aston Villa maçı, Osimhen son durumu, Şampiyonlar Ligi Galatasaray, Galatasaray eksik oyuncular aramaları sarı-kırmızılı taraftarların gündeminde ilk sıralarda yer alıyor. Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftası",
-      "url": "https://www.cnnturk.com/spor/futbol/osimhen-aston-villa-macinda-oynayacak-mi-sampiyonlar-ligi-galatasaray-aston-villa-maci-ne-zaman-victor-osimhenin-saglik-durumu-nasil-3496886",
-      "image_url": null,
-      "published": "2026-11-24T13:07:45",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:49:25.221733",
-      "priority_score": 61,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:57.944905",
-      "title_tr": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
-      "summary_tr": "Osimhen Aston Villa maçında oynayacak mı, Victor Osimhen sakat mı, Galatasaray Aston Villa maçı, Osimhen son durumu, Şampiyonlar Ligi Galatasaray, Galatasaray eksik oyuncular aramaları sarı-kırmızılı taraftarların gündeminde ilk sıralarda yer alıyor. Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftası"
-    },
-    {
-      "title": "Two goals in 15 games - what's going on with Gyokeres?",
-      "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-24T06:45:27",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:47:04.227056",
-      "priority_score": 60,
-      "categories": [
-        "match_results",
-        "premier_league"
-      ],
-      "processed_at": "2026-11-24T11:50:57.490619",
-      "title_tr": "15 maçta iki gol - Gyokeres'e neler oluyor?",
-      "summary_tr": "Arsenal sezona etkileyici bir başlangıç ​​yaptı ancak bu, forvet Viktor Gyokeres için sinir bozucu oldu."
-    },
-    {
-      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-      "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-24T06:57:16",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:47:04.227194",
-      "priority_score": 55,
-      "categories": [
-        "premier_league",
+        "transfers",
         "serie_a"
       ],
-      "processed_at": "2026-11-24T11:50:57.492403",
-      "title_tr": "De Bruyne Manchester City'ye dönerken Napoli'de neden zorlandı?",
-      "summary_tr": "Kevin de Bruyne'nin geçen yaz Napoli'ye taşınması, kariyerinin alacakaranlık yıllarına yaklaşırken Manchester City'de geçirdiği parlak on yılın devamı niteliğindeydi."
+      "processed_at": "2026-11-24T21:45:20.737890",
+      "title_tr": "Florian Wirtz, Liverpool için yeni seviyelere ulaşan Iraola ve Klopp'u selamlıyor",
+      "summary_tr": "Anfield'a taşındığından beri en iyi formda oyun kurucu'Iraola'nın yönetiminde oynamaktan gerçekten keyif alıyorum'Florian Wirtz, Andoni Iraola'nın, 2025'te 116 milyon £ değerinde bir anlaşmayla Liverpool'a katıldığında kendisini Avrupa'nın en imrenilen oyuncularından biri yapan formunu yeniden yakalamasına yardımcı olduğu için teşekkür etti."
     },
     {
-      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
-      "summary": "Our cartoonist on a nightmare start for the Argentinian as he took charge of the Premier League’s biggest crisis clubBuy this cartoon | Some of David’s favourite worksAnd his latest book, Chaos in the Box: get it now Continue reading...",
-      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+      "title": "Bundesliga Matchday 11 probable teams",
+      "summary": "Could Jamal Musiala get a first start since September as the replacement for the injured Harry Kane as Bayern Munich visit Hamburg?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
       "image_url": null,
-      "published": "2026-11-24T11:31:27",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
+      "published": "2026-11-24T04:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-24T11:47:36.572557",
-      "priority_score": 53,
+      "fetched_at": "2026-11-24T21:42:32.158917",
+      "priority_score": 81,
       "categories": [
-        "premier_league"
+        "breaking_news",
+        "injuries",
+        "premier_league",
+        "bundesliga"
       ],
-      "processed_at": "2026-11-24T11:50:57.577254",
-      "title_tr": "David Squires... Pochettino, Manchester United'da fırtınaya doğru uçuyor. Yine başlıyoruz",
-      "summary_tr": "Karikatüristimiz, Premier Lig'in en büyük kriz kulübünün başına geçtiğinde Arjantinli için kabus gibi bir başlangıç ​​yapıyorBu karikatürü satın al | David'in en sevdiği eserlerden bazılarıVe son kitabı, Kutudaki Kaos: hemen alın Okumaya devam et..."
-    },
-    {
-      "title": "Gerçek Aslan, RAMS Park'ta kükreyecek!",
-      "summary": "Galatasaray - Aston Villa maçının canlı anlatımı HT SPOR'da... UEFA Şampiyonlar Ligi'ndeki temsilcilerimizden Galatasaray, 5. hafta maçında İngiliz ekibi Aston Villa'yı konuk ediyor. Dört maç sonunda 6 puanı bulunan Cimbom, RAMS Park'taki kritik 90 dakikadan galibiyetle ayrılıp ilk 24 için önemli bi",
-      "url": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-sampiyonlar-ligi-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3929634",
-      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795503332/3929634/jpg/1920x1080",
-      "published": "2026-11-24T10:53:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:48.039680",
-      "priority_score": 53,
-      "categories": [
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:57.681661",
-      "title_tr": "Gerçek Aslan, RAMS Park'ta kükreyecek!",
-      "summary_tr": "Galatasaray - Aston Villa maçının canlı anlatımı HT SPOR'da... UEFA Şampiyonlar Ligi'ndeki temsilcilerimizden Galatasaray, 5. hafta maçında İngiliz ekibi Aston Villa'yı konuk ediyor. Dört maç sonunda 6 puanı bulunan Cimbom, RAMS Park'taki kritik 90 dakikadan galibiyetle ayrılıp ilk 24 için önemli bi"
+      "processed_at": "2026-11-24T21:45:20.837797",
+      "title_tr": "Bundesliga'da 11. maç muhtemel takımlar",
+      "summary_tr": "Jamal Musiala, Bayern Münih'in Hamburg ziyareti sırasında sakatlanan Harry Kane'in yerine Eylül ayından bu yana ilk kez start alabilecek mi?"
     },
     {
       "title": "Man United will need big January transfer spending to avoid relegation",
@@ -273,15 +75,198 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.194348",
-      "priority_score": 85,
+      "fetched_at": "2026-11-24T21:41:27.560822",
+      "priority_score": 80,
       "categories": [
         "transfers",
         "premier_league"
       ],
-      "processed_at": "2026-11-24T11:50:57.487673",
+      "processed_at": "2026-11-24T21:45:20.647617",
       "title_tr": "Man United'ın küme düşmemek için Ocak ayında büyük transfer harcamalarına ihtiyacı olacak",
       "summary_tr": "Manchester United'ın bir seçeneği var: Ocak ayında yeni oyunculara 150 milyon £ harcayın veya Premier Lig sezonunun sonunda küme düşerlerse 300 milyon £ kaybedin."
+    },
+    {
+      "title": "Deniz Gül ameliyat edilecek!",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında İngiliz temsilcisi Aston Villa'yı Deniz Gül'ün golüyle 1-0 mağlup etti. Golü kaydettiği sırada burnundan yaralanan genç santrfor, ameliyat edilecek.",
+      "url": "https://www.haberturk.com/spor/foto/galatasaray-aston-villa-macinin-kahramani-deniz-gul-ameliyat-edilecek-3929880",
+      "image_url": "https://im.haberturk.com/l/2026/11/25/ver1795554884/3929880/jpg/1920x1080",
+      "published": "2026-11-24T21:15:24",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822470",
+      "priority_score": 78,
+      "categories": [
+        "match_results",
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.848684",
+      "title_tr": "Deniz Gül ameliyat edilecek!",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında İngiliz temsilcisi Aston Villa'yı Deniz Gül'ün golüyle 1-0 mağlup etti. Golü kaydettiği sırada burnundan yaralanan genç santrfor, ameliyat edilecek."
+    },
+    {
+      "title": "Galatasaray Deniz'le 'Gül'dü",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında İngiliz ekibi Aston Villa'yı ağırladı. Sarı-kırmızılılar mücadeledeyi Deniz Gül'ün golüyle 1-0 kazandı ve Devler Ligi'nde üst üste 3. galibiyetini elde ederek 9 puana yükseldi.",
+      "url": "https://www.haberturk.com/spor/galatasaray-aston-villa-mac-sonucu-iste-gs-aston-villa-maci-ozeti-ve-golleri-sampiyonlar-ligi-3929634",
+      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795549346/3929634/jpg/1920x1080",
+      "published": "2026-11-24T20:15:47",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822791",
+      "priority_score": 73,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.876875",
+      "title_tr": "Galatasaray Deniz'le 'Gül'dü",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında İngiliz ekibi Aston Villa'yı ağırladı. Sarı-kırmızılılar mücadeledeyi Deniz Gül'ün golüyle 1-0 kazandı ve Devler Ligi'nde üst üste 3. galibiyetini elde ederek 9 puana yükseldi."
+    },
+    {
+      "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+      "summary": "⚽ Live coverage from six 8pm GMT kick-offs⚽ De Bruyne’s return reminds City what they are missing⚽ Live scores | League phase standings | Email SimonThere’s been a shot on target now, and it’s only gone in! It’s from a corner – one of those where the defender ushers the ball out of play thinking he’",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+      "image_url": null,
+      "published": "2026-11-24T21:34:02",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:42:09.720035",
+      "priority_score": 63,
+      "categories": [
+        "premier_league",
+        "la_liga",
+        "serie_a",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-24T21:45:20.727145",
+      "title_tr": "Manchester City v Napoli, Real Madrid v PSV: Şampiyonlar Ligi saati – canlı",
+      "summary_tr": "⚽ GMT saatiyle 20:00'deki altı başlama vuruşundan canlı yayın⚽ De Bruyne'nin dönüşü City'e ne kaçırdığını hatırlatıyor⚽ Canlı skorlar | Lig aşaması puan durumu | Simon'a e-posta gönder Şu anda hedefe isabet eden bir şut var ve daha yeni kaleye gitti! Bu bir kornerden; defans oyuncusunun topu oyun dışı bıraktığı köşelerden biri."
+    },
+    {
+      "title": "Niclas Füllkrug hits 10-goal milestone in resounding Nordderby triumph",
+      "summary": "On-song Niclas Füllkrug became the first player to reach 10 Bundesliga goals this season, and he did so in style, smashing home a stoppage-time thunderbolt to cap off Werder Bremen's 4-0 demolition of Hamburg and help maintain their strong start to 2026/27.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/niclas-fullkrug-hits-10-goal-milestone-in-resounding-nordderby-triumph-40104",
+      "image_url": null,
+      "published": "2026-11-24T07:33:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:42:32.158113",
+      "priority_score": 61,
+      "categories": [
+        "match_results",
+        "breaking_news",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-24T21:45:20.827071",
+      "title_tr": "Niclas Füllkrug, ses getiren Nordderby zaferinde 10 gollük dönüm noktasına ulaştı",
+      "summary_tr": "Niclas Füllkrug, bu sezon Bundesliga'da 10 gole ulaşan ilk oyuncu oldu ve bunu şık bir şekilde yaparak Werder Bremen'in Hamburg'u 4-0 mağlup etmesinin önüne geçti ve 2026/27 sezonuna güçlü başlangıçlarını sürdürmelerine yardımcı oldu."
+    },
+    {
+      "title": "Galatasaray-Aston Villa maçı sonrası Okan Buruk konuştu! Deniz Gül ve sakatlık açıklaması",
+      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Aston Villa zaferi sonrası açıklamalarda bulundu. Buruk, Deniz Gül'ün son durumuna ilişkin de konuştu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-aston-villa-maci-sonrasi-okan-buruk-konustu-deniz-gul-ve-sakatlik-aciklamasi-43389994",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b05f95d596435f32018f5e0.jpg",
+      "published": "2026-11-24T20:48:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:29.567702",
+      "priority_score": 61,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.935866",
+      "title_tr": "Galatasaray-Aston Villa maçı sonrası Okan Buruk konuştu! Deniz Gül ve sakatlık açıklaması",
+      "summary_tr": "Galatasaray Teknik Direktörü Okan Buruk, Aston Villa zaferi sonrası açıklamalarda bulundu. Buruk, Deniz Gül'ün son durumuna ilişkin de konuştu."
+    },
+    {
+      "title": "VI Live: Real draait het om na invalbeurt Bellingham, PSV heeft het moeilijk",
+      "summary": "PSV staat dinsdagavond voor een ware Champions League-kraker tegen Real Madrid. De Eindhovenaren kunnen een stunt stiekem goed gebruiken, want zij staan virtueel op de rand van wel of geen Europees vervolg. In aanloop naar en vanaf de aftrap om 21.00 uur blijf je in deze VI Live volledig op de hoogt",
+      "url": "https://www.vi.nl/nieuws/vi-live-psv-tegen-real-madrid-in-champions-league",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/16/924f6b8a97c50ae63e4607939574c9cce0b0e15a.jpg?width=1200",
+      "published": "2026-11-24T21:21:21",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:45:16.203473",
+      "priority_score": 57,
+      "categories": [
+        "la_liga",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-24T21:45:21.557546",
+      "title_tr": "VI Live: Real, Bellingham'a girdikten sonra işleri tersine çevirdi, PSV zor zamanlar geçiriyor",
+      "summary_tr": "PSV, Salı akşamı Real Madrid'e karşı Şampiyonlar Ligi'nde gerçek bir rakiple karşı karşıya kalacak. Eindhoven halkı gizlice bir gösteriye başvurabilir, çünkü neredeyse Avrupa'da devam edecek bir filmin eşiğindeler ya da değiller. Saat 21.00'deki başlama vuruşuna kadar ve sonrasında. Bu VI Live'da tam olarak bilgilendirileceksiniz"
+    },
+    {
+      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-24T21:27:13",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:41:34.184688",
+      "priority_score": 55,
+      "categories": [
+        "premier_league"
+      ],
+      "processed_at": "2026-11-24T21:45:20.649025",
+      "title_tr": "Pochettino, Yoro'nun kırmızı kart kararı karşısında Man Utd'un öfkesine öncülük ediyor",
+      "summary_tr": "Manchester United ve Mauricio Pochettino, Leny Yoro'nun kırmızı kartının VAR John Brooks ve hakem şefi Howard Webb tarafından ele alınmasına öfkeli"
+    },
+    {
+      "title": "Man Utd target Collins - Wednesday's gossip",
+      "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-24T20:51:44",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:41:34.185527",
+      "priority_score": 75,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-24T21:45:20.657851",
+      "title_tr": "Man Utd Collins'i hedef alıyor - Çarşamba günkü dedikodu",
+      "summary_tr": "Manchester United, Brentford defans oyuncusu Nathan Collins'i, Bournemouth forveti Eli Junior Kroupi'yi 100 milyon £'a hedefliyor ve Liverpool yeni Rio Ngumoha sözleşmesine yaklaşıyor."
+    },
+    {
+      "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
+      "summary": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
+      "url": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
+      "image_url": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655",
+      "published": "2026-11-24T17:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:41:45.825014",
+      "priority_score": 71,
+      "categories": [
+        "transfers",
+        "breaking_news"
+      ],
+      "processed_at": "2026-11-24T21:45:20.719115",
+      "title_tr": "Dinleyin! Yoro'nun Anfield'daki kırmızı kart kararını destekleyen VAR sesi",
+      "summary_tr": "Maç Yetkilileri Mic'd Up hakkında konuşan Howard Webb ve Michael Owen, Leny Yoro'nun sekizinci dakikada kırmızı kart görmesinin ardından Anfield'daki VAR sürecine bakıyor."
     },
     {
       "title": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
@@ -293,17 +278,158 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.194222",
-      "priority_score": 75,
+      "fetched_at": "2026-11-24T21:41:27.560711",
+      "priority_score": 70,
       "categories": [
         "transfers",
         "injuries",
         "premier_league",
         "bundesliga"
       ],
-      "processed_at": "2026-11-24T11:50:57.486223",
+      "processed_at": "2026-11-24T21:45:20.646068",
       "title_tr": "Transfer söylentileri, haberler: PSG, sakatlık sorunlarının ortasında Estêvão ve Luis Díaz'a göz dikti",
       "summary_tr": "Paris Saint-Germain, Bayern Münih'ten Luis Díaz ve Chelsea'den Estêvão'yu kısa listesine ekledi. Transfer Talk'ta en son gelişmeler var."
+    },
+    {
+      "title": "Transfers PSV: Napoli-directeur bespreekt De Bruyne-geruchten",
+      "summary": "VI volgt het transfernieuws bij PSV op de voet. De doelwitten van de Eindhovenaren, duiding van de clubwatcher, of aandacht in buitenlandse media. We verzamelen alles hier.",
+      "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transferperikelen-rondom-psv-2026-27",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2025/08/02/ca11a6e4-7865-41dd-b98b-a3e0b8e278bb.jpg?width=1200",
+      "published": "2026-11-24T19:40:07",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:45:16.203708",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "serie_a"
+      ],
+      "processed_at": "2026-11-24T21:45:21.624079",
+      "title_tr": "PSV transferleri: Napoli direktörü De Bruyne söylentilerini tartışıyor",
+      "summary_tr": "VI, PSV'deki transfer haberlerini yakından takip ediyor. Eindhoven halkının hedefleri, kulüp gözlemcisinin yorumu veya yabancı medyadaki ilgisi. Her şeyi burada topluyoruz."
+    },
+    {
+      "title": "Yener İnce'den derbi öncesi 3 müjde!",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, evinde İngiliz ekibi Aston Villa ile kozlarını paylaştı. Süper Lig'de Beşiktaş'a dev derbide konuk olacak sarı-kırmızılılarda Mario Lemina, Lucas Torreira ve Deniz Gül sakatlık problemi yaşadı. Lemina ve Torreira oyuna devam edemezken, Deniz için ",
+      "url": "https://www.haberturk.com/spor/yener-ince-den-besiktas-derbisi-oncesi-mujde-sakatlanan-mario-lemina-lucas-torreira-ve-deniz-gul-un-3929864",
+      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795548643/3929864/jpg/1920x1080",
+      "published": "2026-11-24T21:13:26",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822521",
+      "priority_score": 63,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.852757",
+      "title_tr": "Yener İnce'den derbi öncesi 3 müjde!",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, evinde İngiliz ekibi Aston Villa ile kozlarını paylaştı. Süper Lig'de Beşiktaş'a dev derbide konuk olacak sarı-kırmızılılarda Mario Lemina, Lucas Torreira ve Deniz Gül sakatlık problemi yaşadı. Lemina ve Torreira oyuna devam edemezken, Deniz için"
+    },
+    {
+      "title": "Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway",
+      "summary": "Arsenal won the Premier League in controversial fashion last season, but the set-piece goals they counted on have disappeared. Why?",
+      "url": "https://www.espn.com/soccer/story/_/id/50576776/premier-league-set-piece-goal-arsenal-standings-table",
+      "image_url": null,
+      "published": "2026-11-24T17:17:00",
+      "source": "ESPN FC",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:41:27.560491",
+      "priority_score": 60,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-24T21:45:20.643326",
+      "title_tr": "Premier Lig'in duran top golleri neden kurudu ve Arsenal neden hâlâ 1 numara?",
+      "summary_tr": "Arsenal geçen sezon tartışmalı bir şekilde Premier Lig'i kazandı ancak güvendikleri duran top golleri ortadan kalktı. Neden?"
+    },
+    {
+      "title": "\"Önemli isimler yokken kazandık\"",
+      "summary": "Galatasaray'ın Kolombiyalı stoperi Davinson Sanchez, UEFA Şampiyonlar Ligi'nin 5. haftasındaki 1-0'lık Aston Villa galibiyetinin ardından konuştu. Önemli eksiklere rağmen kazandıklarını vurgalayan Sanchez, \"Çok mutluyuz, takım oyunuyla kazandık. Önemli isimler yokken kazandık. Maç maç gideceğiz. Tar",
+      "url": "https://www.haberturk.com/spor/davinson-sanchez-onemli-isimler-yokken-kazandik-3929874",
+      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795552088/3929874/jpg/1920x1080",
+      "published": "2026-11-24T20:28:54",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822702",
+      "priority_score": 58,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.870070",
+      "title_tr": "\"Önemli isimler yokken kazandık\"",
+      "summary_tr": "Galatasaray'ın Kolombiyalı stoperi Davinson Sanchez, UEFA Şampiyonlar Ligi'nin 5. haftasındaki 1-0'lık Aston Villa galibiyetinin ardından konuştu. Önemli eksiklere rağmen kazandıklarını vurgalayan Sanchez, \"Çok mutluyuz, takım oyunuyla kazandık. Önemli isimler yokken kazandık. Maç maç gideceğiz. Tar"
+    },
+    {
+      "title": "Goal en afgekeurde goal Ronaldo, omhaal Félix en rood na spugen bij zege Al-Nassr",
+      "summary": "Al-Nassr speelde dinsdagavond een bewogen wedstrijd in de Aziatische Champions League. Tegen Al-Sadd kwam Cristiano Ronaldo een stapje dichter bij de duizend goals, maakte João Félix een treffer die hij misschien nooit meer zal maken en kreeg Mohammed Waad een rode kaart nadat hij Nawaf Boushal had ",
+      "url": "https://www.vi.nl/nieuws/goal-en-afgekeurde-goal-ronaldo-omhaal-felix-en-rood-na-spugen-bij-zege-al-nassr",
+      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/24/524646dac025206924a43068445e867f3dcf7c0a.png?width=1200",
+      "published": "2026-11-24T21:03:18",
+      "source": "VI.nl",
+      "source_priority": 6,
+      "region": "netherlands",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:45:16.203577",
+      "priority_score": 57,
+      "categories": [
+        "match_results",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-24T21:45:21.582575",
+      "title_tr": "Gol ve izin verilmeyen Ronaldo golü, Félix'in bisiklet vuruşu ve Al-Nassr zaferine tükürdükten sonra kırmızı kart",
+      "summary_tr": "Al-Nassr Salı akşamı Asya Şampiyonlar Ligi'nde olaylı bir maç oynadı. Al-Sadd'a karşı Cristiano Ronaldo bin gole bir adım daha yaklaştı, João Félix bir daha asla atamayacağı bir gol attı ve Mohammed Waad, Nawaf Boushal'a vurarak kırmızı kart gördü"
+    },
+    {
+      "title": "Niclas Füllkrug, Patrik Schick, Michael Olise: Who will finish Bundesliga top scorer in the absence of Harry Kane?",
+      "summary": "Harry Kane has swept up all three of the Bundesliga’s top scorer awards since moving to Germany ahead of the 2023/24 season, but with the Bayern Munich striker set for a lengthy spell on the sidelines with an ankle injury, the likes of Niclas Füllkrug and Patrik Schick will fancy their chances of ge",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/top-scorer-race-without-harry-kane-olise-fullkrug-schick-40120",
+      "image_url": null,
+      "published": "2026-11-24T12:00:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:42:32.144439",
+      "priority_score": 56,
+      "categories": [
+        "injuries",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-24T21:45:20.791199",
+      "title_tr": "Niclas Füllkrug, Patrik Schick, Michael Olise: Harry Kane'in yokluğunda Bundesliga'yı gol kralı kim bitirecek?",
+      "summary_tr": "Harry Kane, 2023/24 sezonu öncesinde Almanya'ya taşındığından beri Bundesliga'nın en golcü oyuncu ödüllerinin üçünü de aldı, ancak Bayern Münih'in forvet oyuncusunun ayak bileğinden sakatlanarak uzun bir süre kenarda kalacağı göz önüne alındığında, Niclas Füllkrug ve Patrik Schick gibi isimler şampiyonluk şanslarını değerlendirecek."
+    },
+    {
+      "title": "What are Bayern Munich’s options to replace the injured Harry Kane?",
+      "summary": "Harry Kane is set to be out of action for at least three months after injuring his ankle in Bayern Munich’s Matchday 10 draw with Cologne. With an already lengthy list of absentees in attacking areas, who could potentially fill the gap left by the Ballon d’Or winner?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-options-to-replace-injured-harry-kane-40060",
+      "image_url": null,
+      "published": "2026-11-24T07:35:00",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:42:32.156510",
+      "priority_score": 56,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-24T21:45:20.808252",
+      "title_tr": "Sakatlanan Harry Kane'in yerine Bayern Münih'in seçenekleri neler?",
+      "summary_tr": "Harry Kane, Bayern Münih'in Köln ile oynadığı 10. maç çekilişinde bileğinden sakatlandıktan sonra en az üç ay sahalardan uzak kalacak. Hücum bölgelerinde yer almayanların zaten uzun bir listesi varken, Ballon d'Or kazananının bıraktığı boşluğu potansiyel olarak kim doldurabilir?"
     },
     {
       "title": "Schalke legend Raúl recalls ‘unforgettable, magical’ time in Gelsenkirchen",
@@ -315,55 +441,55 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-24T11:48:01.972287",
-      "priority_score": 61,
+      "fetched_at": "2026-11-24T21:42:32.158596",
+      "priority_score": 56,
       "categories": [
         "transfers",
         "la_liga"
       ],
-      "processed_at": "2026-11-24T11:50:57.673871",
+      "processed_at": "2026-11-24T21:45:20.833953",
       "title_tr": "Schalke efsanesi Raúl, Gelsenkirchen'deki 'unutulmaz, büyülü' zamanı anımsıyor",
       "summary_tr": "Raúl, Temmuz 2010'da Real Madrid'den ayrıldığında, futboldaki bir sonraki bölümünün ne kadar özel olacağını çok az kişi tahmin edebilirdi. İspanyol efsane, 33 yaşında Schalke'ye katıldı ve bugün sevgiyle hatırladığı Gelsenkirchen'de iki yıl geçirdi."
     },
     {
-      "title": "Fransız basınından olay Greenwood iddiası: 'PSG talip, Fenerbahçe'den ayrılmak istiyor!'",
-      "summary": "Khvicha Kvaratskhelia ve Desire Doue gibi üst düzey kanat oyuncularını sakatlığa kurban veren PSG, gözünü Fenerbahçe'ye dikti. Fransız devinin ara transfer döneminde Mason Greenwood için teklifte bulunacağı iddia edildi. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/fransiz-basinindan-olay-greenwood-iddiasi-psg-talip-fenerbahceden-ayrilmak-istiyor-43389041",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0559169a30875a045796ec.jpg",
-      "published": "2026-11-24T09:30:00",
+      "title": "Davinson Sanchez: 'Takım oyunuyla kazandık!'",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi 5. haftasında sahsında Aston Villa'yı 1-0 mağlup etti. Davinson Sanchez, galibiyet sonrası açıklamalarda bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/davinson-sanchez-takim-oyunuyla-kazandik-43389976",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b05f1123516f14679ccc9a7.jpg",
+      "published": "2026-11-24T20:21:00",
       "source": "Hürriyet Spor",
       "source_priority": 8,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-24T11:48:58.375144",
-      "priority_score": 61,
-      "categories": [
-        "transfers",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:57.776298",
-      "title_tr": "Fransız basınından olay Greenwood iddiası: 'PSG talip, Fenerbahçe'den ayrılmak istiyor!'",
-      "summary_tr": "Khvicha Kvaratskhelia ve Desire Doue gibi üst düzey kanat oyuncularını sakatlığa kurban veren PSG, gözünü Fenerbahçe'ye dikti. Fransız devinin ara transfer döneminde Mason Greenwood için teklifte bulunacağı iddia edildi. İşte detaylar..."
-    },
-    {
-      "title": "Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway",
-      "summary": "Arsenal won the Premier League in controversial fashion last season, but the set-piece goals they counted on have disappeared. Why?",
-      "url": "https://www.espn.com/soccer/story/_/id/50576776/premier-league-set-piece-goal-arsenal-standings-table",
-      "image_url": null,
-      "published": "2026-11-24T08:46:02",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.194114",
-      "priority_score": 60,
+      "fetched_at": "2026-11-24T21:43:29.567742",
+      "priority_score": 56,
       "categories": [
         "match_results",
-        "premier_league"
+        "super_lig"
       ],
-      "processed_at": "2026-11-24T11:50:57.484905",
-      "title_tr": "Premier Lig'in duran top golleri neden kurudu ve Arsenal neden hâlâ 1 numara?",
-      "summary_tr": "Arsenal geçen sezon tartışmalı bir şekilde Premier Lig'i kazandı ancak güvendikleri duran top golleri ortadan kalktı. Neden?"
+      "processed_at": "2026-11-24T21:45:20.941122",
+      "title_tr": "Davinson Sanchez: 'Takım oyunuyla kazandık!'",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi 5. haftasında sahsında Aston Villa'yı 1-0 mağlup etti. Davinson Sanchez, galibiyet sonrası açıklamalarda bulundu."
+    },
+    {
+      "title": "Galatasaray-Aston Villa maçında Deniz Gül ve Bülent Korkmaz benzetmesi! Tarihin şaşırtan cilvesi yaşandı",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde İngiliz temsilcisi Aston Villa'yı Deniz Gül'ün golü ile mağlup etti. Gol esnasında tekmeye kafa atan Deniz Gül, sarı kırmızılıların efsane kaptanı Bülent Korkmaz'a benzetildi. İki isim arasındaki tarih tesadüfü de ortaya çıktı.",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-aston-villa-macinda-deniz-gul-ve-bulent-korkmaz-benzetmesi-tarihin-sasirtan-cilvesi-yasandi-43389965",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b05ee1e596435f32018f597.jpg",
+      "published": "2026-11-24T20:08:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:29.567788",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.951987",
+      "title_tr": "Galatasaray-Aston Villa maçında Deniz Gül ve Bülent Korkmaz benzetmesi! Tarihin şaşırtan cilvesi yaşandı",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi'nde İngiliz temsilcisi Aston Villa'yı Deniz Gül'ün golü ile mağlup etti. Gol esnasında tekmeye kafa atan Deniz Gül, sarı kırmızılıların efsane kaptanı Bülent Korkmaz'a benzetildi. İki isim arasındaki tarih tesadüfü de ortaya çıktı."
     },
     {
       "title": "The youngest Premier League goalscorers this season",
@@ -375,238 +501,113 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-24T11:47:04.227683",
-      "priority_score": 60,
+      "fetched_at": "2026-11-24T21:41:34.185964",
+      "priority_score": 55,
       "categories": [
         "match_results",
         "premier_league"
       ],
-      "processed_at": "2026-11-24T11:50:57.499463",
+      "processed_at": "2026-11-24T21:45:20.665215",
       "title_tr": "Premier Lig'de bu sezonun en genç golcüleri",
       "summary_tr": "Liverpoollu Rio Ngumoha ve Tottenhamlı Luca Williams-Barnett'in muhteşem performanslarının ardından BBC Sport, bu sezon Premier Lig'de gol atan en genç oyuncuları inceliyor."
     },
     {
-      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-      "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "title": "Arsenal v Borussia Dortmund: Champions League – live",
+      "summary": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off⚽️ Nwaneri risks becoming forgotten teenager at Dortmund⚽ Live scores | League phase standings | Email Scott2 min: Tzolis goes racing down the left. A low cross intended for Gyökeres is sliced clear by Schlotterbeck. But Arsenal come again, Maduek",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
       "image_url": null,
-      "published": "2026-11-23T21:41:52",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:47:04.227796",
-      "priority_score": 60,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-24T11:50:57.501234",
-      "title_tr": "Arsenal ve PSG Nusa'ya meraklı - Salı günkü dedikodular",
-      "summary_tr": "Arsenal ve PSG, RB Leipzig'in kanat oyuncusu Antonio Nusa için bir hamle arıyor, Xabi Alonso Chelsea hiyerarşisini destekliyor, Liverpool kaleci Alisson Becker ile sözleşme görüşmelerine başlıyor ve daha fazlası."
-    },
-    {
-      "title": "FIFA'dan 2 Türk kulübüne transfer yasağı!",
-      "summary": "FIFA, Süper Lig ekibi Gençlerbirliği'ne 3 dönem, 1. Lig temsilcisi Pendikspor'a ise süresiz transfer yasağı cezası verildiğini açıkladı.",
-      "url": "https://www.haberturk.com/spor/fifa-dan-genclerbirligi-ve-pendikspor-a-transfer-yasagi-3929739",
-      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795519411/3929739/jpg/1920x1080",
-      "published": "2026-11-24T11:23:35",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:48.039612",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-11-24T11:50:57.677830",
-      "title_tr": "FIFA'dan 2 Türk kulübüne transfer yasağı!",
-      "summary_tr": "FIFA, Süper Lig ekibi Gençlerbirliği'ne 3 dönem, 1. Lig temsilcisi Pendikspor'a ise süresiz transfer yasağı cezası verildiğini açıkladı."
-    },
-    {
-      "title": "Onana Avrupa'nın zirvesinde!",
-      "summary": "Trabzonspor'un yıldız kalecisi Andre Onana, sergilediği performansla dikkat çekiyor. Kamerunlu file bekçisi, Avrupa’nın önde gelen liglerinde forma giyen kaleciler arasında 'kalesini gole kapatma' istatistiğiyle ilk 3 içerisinde yer aldı.",
-      "url": "https://www.haberturk.com/spor/trabzonsporlu-andre-onana-avrupa-nin-zirvesinde-3929674",
-      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795508049/3929674/jpg/1920x1080",
-      "published": "2026-11-24T08:14:22",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:48.039949",
-      "priority_score": 58,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-24T11:50:57.703918",
-      "title_tr": "Onana Avrupa'nın zirvesinde!",
-      "summary_tr": "Trabzonspor'un yıldız kalecisi Andre Onana, sergilediği performansla dikkat çekiyor. Kamerunlu file bekçisi, Avrupa’nın önde gelen liglerinde forma giyen kaleciler arasında 'kalesini gole kapatma' istatistiğiyle ilk 3 içerisinde yer aldı."
-    },
-    {
-      "title": "Fenerbahçe gözünü Mosquera'ya çevirdi!",
-      "summary": "Kocaelispor deplasmanında yaşadığı puan kaybı nedeniyle Süper Lig'deki şampiyonluk yarışında yara alan Fenerbahçe, devre arası transfer döneminde kadrosunu güçlendirmek için çalışmalara başladı. Sarı-lacivertli yönetim, Arsenal'ın 22 yaşındaki İspanyol stoperi Cristhian Mosquera'yı renklerine bağlam",
-      "url": "https://www.haberturk.com/spor/foto/fenerbahce-gozunu-arsenal-dan-cristhian-mosquera-ya-cevirdi-devre-arasin-hamlesi-3929552",
-      "image_url": "https://im.haberturk.com/l/2026/11/23/ver1795460245/3929552/jpg/1920x1080",
-      "published": "2026-11-23T18:57:58",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:48.040267",
-      "priority_score": 58,
-      "categories": [
-        "transfers",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:57.734269",
-      "title_tr": "Fenerbahçe gözünü Mosquera'ya çevirdi!",
-      "summary_tr": "Kocaelispor deplasmanında yaşadığı puan kaybı nedeniyle Süper Lig'deki şampiyonluk yarışında yara alan Fenerbahçe, devre arası transfer döneminde kadrosunu güçlendirmek için çalışmalara başladı. Sarı-lacivertli yönetim, Arsenal'ın 22 yaşındaki İspanyol stoperi Cristhian Mosquera'yı renklerine bağlam"
-    },
-    {
-      "title": "'Tot voor kort ondenkbaar: De Bruyne in een PSV-shirt'",
-      "summary": "'Voor PSV zou Kevin De Bruyne een regelrechte aanwinst zijn', aldus columnist Süleyman Öztürk.",
-      "url": "https://www.vi.nl/pro/de-kev-is-welkom",
-      "image_url": "https://webp.vi.cdn.pxr.nl/news/2026/11/23/50373d53fe70dae2ad54619e2a349ea50add9626.jpg?width=1200",
-      "published": "2026-11-24T11:30:00",
-      "source": "VI.nl",
-      "source_priority": 6,
-      "region": "netherlands",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:50:52.483908",
-      "priority_score": 57,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-24T11:50:58.240405",
-      "title_tr": "'Yakın zamana kadar düşünülemezdi: De Bruyne PSV formasıyla'",
-      "summary_tr": "Köşe yazarı Süleyman Öztürk, \"Kevin De Bruyne PSV için gerçek bir değer olacaktır\" dedi."
-    },
-    {
-      "title": "RB Leipzig leapfrog Bayern Munich to go top of the Bundesliga goalscoring charts",
-      "summary": "Back-to-back five-goal hauls have RB Leipzig sitting on 32 league goals from their opening 10 games, which is the most in the league - and with their away troubles resolved, freescoring Leipzig are right among the leading pack.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-top-bundesliga-goalscoring-charts-gruda-nusa-40106",
-      "image_url": null,
-      "published": "2026-11-24T07:34:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:01.971378",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-24T11:50:57.661218",
-      "title_tr": "RB Leipzig, Bayern Münih'i geçerek Bundesliga'nın gol sıralamasında zirveye yerleşti",
-      "summary_tr": "Arka arkaya beş gol atan RB Leipzig, ilk 10 maçında 32 lig golüyle ligdeki en yüksek golü kaydetti. Deplasman sorunlarının çözülmesiyle, serbest skor yapan Leipzig lider takım arasında yer alıyor."
-    },
-    {
-      "title": "Şampiyonlar Ligi'nde gollerin adresi: Real Madrid ve Manchester City! İşte Misli’den günün tüyoları!",
-      "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-      "url": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-gollerin-adresi-real-madrid-ve-manchester-city-iste-misliden-gunun-tuyolari-43388856",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b053ab99a30875a0457959b.jpg",
-      "published": "2026-11-24T07:21:06",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:58.375381",
-      "priority_score": 56,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "la_liga"
-      ],
-      "processed_at": "2026-11-24T11:50:57.823909",
-      "title_tr": "Şampiyonlar Ligi'nde gollerin adresi: Real Madrid ve Manchester City! İşte Misli’den günün tüyoları!",
-      "summary_tr": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!"
-    },
-    {
-      "title": "Beşiktaş'ta sürpriz ayrılık ihtimali belirdi: En az 30 milyon euro!",
-      "summary": "Beşiktaş, Rus devi Spartak Moskova ile yakın temasta olduğu belirtilen Güney Koreli golcüsü Hyeon-gyu Oh'un bonservis bedelini belirledi. İşte detaylar...",
-      "url": "https://www.hurriyet.com.tr/sporarena/besiktasta-surpriz-ayrilik-ihtimali-belirdi-en-az-30-milyon-euro-43388668",
-      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b051b029a30875a04579439.jpg",
-      "published": "2026-11-24T05:05:00",
-      "source": "Hürriyet Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:48:58.375472",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "match_results",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-24T11:50:57.840893",
-      "title_tr": "Beşiktaş'ta sürpriz ayrılık ihtimali belirdi: En az 30 milyon euro!",
-      "summary_tr": "Beşiktaş, Rus devi Spartak Moskova ile yakın temasta olduğu belirtilen Güney Koreli golcüsü Hyeon-gyu Oh'un bonservis bedelini belirledi. İşte detaylar..."
-    },
-    {
-      "title": "Gençlerbirliği ve Pendikspor'a transfer yasağı!",
-      "summary": "FIFA, Trendyol Süper Lig ekibi Gençlerbirliği ve Trendyol 1. Lig takımlarından Orta Yapı Pendikspor'a transfer yasağı getirdi.",
-      "url": "https://www.cnnturk.com/spor/futbol/genclerbirligi-ve-pendikspora-transfer-yasagi-3497490",
-      "image_url": null,
-      "published": "2026-11-24T14:11:33",
-      "source": "CNN Türk Spor",
-      "source_priority": 8,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:49:25.221307",
-      "priority_score": 56,
-      "categories": [
-        "transfers",
-        "super_lig",
-        "world_cup"
-      ],
-      "processed_at": "2026-11-24T11:50:57.913477",
-      "title_tr": "Gençlerbirliği ve Pendikspor'a transfer yasağı!",
-      "summary_tr": "FIFA, Trendyol Süper Lig ekibi Gençlerbirliği ve Trendyol 1. Lig takımlarından Orta Yapı Pendikspor'a transfer yasağı getirdi."
-    },
-    {
-      "title": "Houston says Herrera available for Dynamo playoff opener amid MLS probe",
-      "summary": "MLS is gathering information regarding the reported arrest of Houston Dynamo FC midfielder Héctor Herrera for suspicion of driving while intoxicated ahead of the team's first game of the playoffs.",
-      "url": "https://www.espn.com/soccer/story/_/id/50577651/houston-herrera-available-dynamo-playoff-opener-mls-probe",
-      "image_url": null,
-      "published": "2026-11-24T10:38:41",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-24T11:46:58.193046",
-      "priority_score": 55,
-      "categories": [
-        "breaking_news"
-      ],
-      "processed_at": "2026-11-24T11:50:57.477478",
-      "title_tr": "Houston, MLS soruşturmasının ortasında Herrera'nın Dynamo playoff açılışında hazır olduğunu söyledi",
-      "summary_tr": "MLS, Houston Dynamo FC orta saha oyuncusu Héctor Herrera'nın, takımın play-off'lardaki ilk maçı öncesinde alkollüyken araba kullandığı şüphesiyle tutuklandığı yönündeki rapor hakkında bilgi topluyor."
-    },
-    {
-      "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
-      "summary": "Even without the charges, the Belgian maestro will be an unwelcome throwback to happier times for Enzo MarescaAs Manchester City come to terms with turbulence, one of their all-time greats has flown in to remind them of the best of times. Kevin De Bruyne will be back at the Etihad Stadium on Tuesday",
-      "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
-      "image_url": null,
-      "published": "2026-11-24T08:00:10",
+      "published": "2026-11-24T21:34:26",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-24T11:47:36.584211",
+      "fetched_at": "2026-11-24T21:42:09.719648",
       "priority_score": 53,
       "categories": [
         "premier_league",
-        "serie_a"
+        "bundesliga",
+        "champions_league"
       ],
-      "processed_at": "2026-11-24T11:50:57.596087",
-      "title_tr": "De Bruyne'nin Napoli'ye dönüşü Manchester City'ye ne kaçırdığını hatırlatacak",
-      "summary_tr": "Belçikalı usta, suçlamalar olmasa bile, Enzo Maresca için daha mutlu günlere hoş olmayan bir geri dönüş olacak. Manchester City türbülansla yüzleşirken, tüm zamanların en iyilerinden biri onlara en iyi zamanlarını hatırlatmak için uçtu. Kevin De Bruyne Salı günü Etihad Stadyumu'na geri dönecek"
+      "processed_at": "2026-11-24T21:45:20.722483",
+      "title_tr": "Arsenal - Borussia Dortmund: Şampiyonlar Ligi – canlı",
+      "summary_tr": "⚽️ GMT saatiyle 20:00'deki başlama vuruşundan dakika dakika güncellemeler⚽️ Nwaneri, Dortmund'da unutulmuş bir genç olma riskiyle karşı karşıya⚽ Canlı skorlar | Lig aşaması puan durumu | E-posta Scott2 dk: Tzolis soldan hızla koşuyor. Gyökeres'e yönelik alçak bir haç, Schlotterbeck tarafından net bir şekilde dilimlendi. Ama Arsenal yine geldi Maduek"
+    },
+    {
+      "title": "\"Şampiyonlar Ligi’nde hedeflerimiz çok yüksek\"",
+      "summary": "Galatasaraylı futbolcu Yunus Akgün, UEFA Şampiyonlar Ligi'nin 5. haftasında Aston Villa'yı 1-0 yendikleri maçın ardından açıklamalarda bulundu. Şampiyonlar Ligi'nde hedeflerinin çok yüksek olduğundan bahseden milli futbolcu, \"Lille maçından sonra çok iyi bir Galatasaray var. Bunu her maçta gösterdik",
+      "url": "https://www.haberturk.com/spor/yunus-akgun-sampiyonlar-liginde-hedeflerimiz-cok-yuksek-3929886",
+      "image_url": "https://im.haberturk.com/l/2026/11/25/ver1795556011/3929886/jpg/1920x1080",
+      "published": "2026-11-24T21:34:28",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822345",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.842271",
+      "title_tr": "\"Şampiyonlar Ligi’nde hedeflerimiz çok yüksek\"",
+      "summary_tr": "Galatasaraylı futbolcu Yunus Akgün, UEFA Şampiyonlar Ligi'nin 5. haftasında Aston Villa'yı 1-0 yendikleri maçın ardından açıklamalarda bulundu. Şampiyonlar Ligi'nde hedeflerinin çok yüksek olduğundan bahseden milli futbolcu, \"Lille maçından sonra çok iyi bir Galatasaray var. Bunu her maçta gösterdik"
+    },
+    {
+      "title": "\"Takımın ne zaman ihtiyacı olursa buradayım\"",
+      "summary": "Galatasaray'ın oyuncularından Lesley Ugochukwu, UEFA Şampiyonlar Ligi'nin 5. haftasında 1-0 yendikleri Aston Villa maçının ardından açıklamalarda bulundu. Kendi performansı açısından da pozitif bir maç olduğunu belirten Ugochukwu, \"Galibiyeti aldık çok mutluyum. Performansım anlamında da her şey çok",
+      "url": "https://www.haberturk.com/spor/lesley-ugochukwu-takimin-ne-zaman-ihtiyaci-olursa-buradayim-3929879",
+      "image_url": "https://im.haberturk.com/l/2026/11/25/ver1795554664/3929879/jpg/1920x1080",
+      "published": "2026-11-24T21:11:14",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822567",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.857358",
+      "title_tr": "\"Takımın ne zaman ihtiyacı olursa buradayım\"",
+      "summary_tr": "Galatasaray'ın oyuncularından Lesley Ugochukwu, UEFA Şampiyonlar Ligi'nin 5. haftasında 1-0 yendikleri Aston Villa maçının ardından açıklamalarda bulundu. Kendi performansı açısından da pozitif bir maç olduğunu belirten Ugochukwu, \"Galibiyeti aldık çok mutluyum. Performansım anlamında da her şey çok"
+    },
+    {
+      "title": "\"Türk futbolu için önemli bir gece!\"",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında Aston Villa'yı 1-0 mağlup etti. Sarı-kırmızılıların teknik direktörü Okan Buruk, galibiyetin ardından çarpıcı açıklamalarda bulundu.",
+      "url": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-sonrasi-okan-buruk-turk-futbolu-icin-onemli-bir-gece-3929872",
+      "image_url": "https://im.haberturk.com/l/2026/11/24/ver1795553361/3929872/jpg/1920x1080",
+      "published": "2026-11-24T20:50:50",
+      "source": "Habertürk Spor",
+      "source_priority": 9,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:43:17.822612",
+      "priority_score": 53,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:20.861435",
+      "title_tr": "\"Türk futbolu için önemli bir gece!\"",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında Aston Villa'yı 1-0 mağlup etti. Sarı-kırmızılıların teknik direktörü Okan Buruk, galibiyetin ardından çarpıcı açıklamalarda bulundu."
+    },
+    {
+      "title": "Galatasaraylı futbolcudan kötü haber geldi: Kırık var",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 5. haftasında sahasında Aston Villa’yı 1-0 mağlup etti. Temsilcimize galibiyeti getiren golü 77. dakikada Deniz Gül kaydetti. Gol attığı pozisyonda sakatlanan Deniz Gül’ün, burnunda kırık olduğu öğrenildi.",
+      "url": "https://www.yenisafak.com/spor/galatasarayli-futbolcudan-kotu-haber-geldi-kirik-var-4876211",
+      "image_url": null,
+      "published": "2026-11-24T20:44:16",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-24T21:44:39.681203",
+      "priority_score": 52,
+      "categories": [
+        "match_results",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-24T21:45:21.334133",
+      "title_tr": "Galatasaraylı futbolcudan kötü haber geldi: Kırık var",
+      "summary_tr": "Galatasaray, UEFA Şampiyonlar Ligi’nin 5. haftasında sahasında Aston Villa’yı 1-0 mağlup etti. Temsilcimize galibiyeti getiren golü 77. dakikada Deniz Gül kaydetti. Gol attığı pozisyonda sakatlanan Deniz Gül’ün, burnunda kırık olduğu öğrenildi."
     }
   ]
 }
