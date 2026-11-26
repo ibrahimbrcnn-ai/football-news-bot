@@ -1,47 +1,92 @@
 {
-  "timestamp": "2026-11-26T05:58:24.439029",
+  "timestamp": "2026-11-26T16:05:16.571650",
   "total_items": 30,
   "news": [
     {
-      "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
-      "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach.",
-      "url": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
+      "title": "Fifa confirms internal data stolen in cyber attack",
+      "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published": "2026-11-26T01:00:51",
-      "source": "ESPN FC",
+      "published": "2026-11-26T11:30:07",
+      "source": "BBC Sport Football",
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:37.410232",
+      "fetched_at": "2026-11-26T15:59:07.321983",
       "priority_score": 100,
+      "categories": [
+        "transfers",
+        "match_results",
+        "breaking_news",
+        "serie_a",
+        "world_cup"
+      ],
+      "processed_at": "2026-11-26T16:03:47.352018",
+      "title_tr": "FIFA, siber saldırıda çalınan dahili verileri doğruladı",
+      "summary_tr": "FIFA, kişisel ve ticari bilgilerin çalınmasıyla sonuçlanan bir siber saldırının kurbanı olduğunu doğruladı."
+    },
+    {
+      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+      "summary": "Rivals engage law firm Wiggin as they seek damagesClaim could be worth hundreds of millions of poundsManchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the Premier League’s financial rules that could be worth hundreds ",
+      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+      "image_url": null,
+      "published": "2026-11-26T12:00:34",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:40.157982",
+      "priority_score": 88,
       "categories": [
         "transfers",
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.311333",
-      "title_tr": "Pochettino: Manchester United, Sporting kura çekiminde yetkililer tarafından 'çok cezalandırıldı'",
-      "summary_tr": "Mauricio Pochettino, Manchester United'ın Sporting CP ile 2-2 berabere kaldığı maçta, başantrenör olarak ilk galibiyetinin reddedilmesi nedeniyle yetkililer tarafından \"cezalandırıldığını\" söyledi."
+      "processed_at": "2026-11-26T16:03:47.390483",
+      "title_tr": "Manchester United, Liverpool ve Spurs, City'e karşı dava açmak için aynı hukuk firmasını kullanıyor",
+      "summary_tr": "Rakipler hukuk firması Wiggin ile tazminat talep ediyor İddia yüz milyonlarca sterlin değerinde olabilir Manchester United, Liverpool ve Tottenham, Premier Lig'in mali kurallarını ihlal ettiği için Manchester City'ye karşı yüzlerce sterlin değerinde olabilecek yasal bir dava hazırlamak için aynı hukuk firmasını kullanıyor"
     },
     {
-      "title": "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
-      "summary": "MLS team owners have agreed on a new playoff format for the 2027-28 season featuring 16 teams, a source confirmed to ESPN.",
-      "url": "https://www.espn.com/soccer/story/_/id/50595745/mls-playoff-format-new-2027-2028-change-owners",
-      "image_url": null,
-      "published": "2026-11-26T01:00:51",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
+      "title": "Osimhen ve transfer kararı! Beklemeye geçti, tarih belli oldu",
+      "summary": "Galatasaray'ın Nijeryalı golcüsü Victor Osimhen'in transfer tercihi, İngiliz basını tarafından duyuruldu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/osimhen-ve-transfer-karari-beklemeye-gecti-tarih-belli-oldu-43391675",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07f82cf90143abc113fed1.jpg",
+      "published": "2026-11-26T09:18:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:37.410528",
-      "priority_score": 95,
+      "fetched_at": "2026-11-26T16:02:11.636355",
+      "priority_score": 81,
       "categories": [
         "transfers",
-        "breaking_news"
+        "match_results",
+        "super_lig"
       ],
-      "processed_at": "2026-11-26T05:57:00.312299",
-      "title_tr": "Kaynak: MLS sahipleri, 2027-28'den itibaren 16 takımlı yeni play-off formatı üzerinde anlaştı",
-      "summary_tr": "ESPN'e konuşan bir kaynağın doğruladığı bilgiye göre, MLS takım sahipleri 2027-28 sezonu için 16 takımın yer alacağı yeni bir play-off formatı üzerinde anlaşmaya vardı."
+      "processed_at": "2026-11-26T16:03:47.541454",
+      "title_tr": "Osimhen ve transfer kararı! Beklemeye geçti, tarih belli oldu",
+      "summary_tr": "Galatasaray'ın Nijeryalı golcüsü Victor Osimhen'in transfer tercihi, İngiliz basını tarafından duyuruldu."
+    },
+    {
+      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "summary": "The French side earned their first group win over troubled German giants as Bellingham and Betis also caught the eyeBayern Munich have hit a snagging point, with injuries wracking Vincent Kompany’s squad just as the head coach returns to work following his own health scare. For Lille’s winner, to ex",
+      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+      "image_url": null,
+      "published": "2026-11-26T15:00:39",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:40.157166",
+      "priority_score": 78,
+      "categories": [
+        "breaking_news",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.381453",
+      "title_tr": "Şampiyonlar Ligi incelemesi: Lille canavarı Bayern, De Bruyne'nin üzücü dönüşü ve United'da daha fazla kaos",
+      "summary_tr": "Bellingham ve Betis'in de dikkatini çekmesiyle Fransız ekibi, sorunlu Alman devlerine karşı ilk grup galibiyetini elde etti. Bayern Münih, tam başantrenör kendi sağlık sorunu nedeniyle işe dönerken Vincent Kompany'nin kadrosunu sarsan sakatlıklar nedeniyle sorunlu bir noktaya geldi. Lille'in kazananı için eski"
     },
     {
       "title": "Lille stun Bayern Munich with second-half turnaround in the UEFA Champions League",
@@ -53,41 +98,220 @@
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.406633",
-      "priority_score": 86,
+      "fetched_at": "2026-11-26T16:00:05.194604",
+      "priority_score": 71,
       "categories": [
         "breaking_news",
         "injuries",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.467855",
+      "processed_at": "2026-11-26T16:03:47.427987",
       "title_tr": "Lille, UEFA Şampiyonlar Ligi'nde ikinci yarıdaki performansıyla Bayern Münih'i şaşkına çevirdi",
       "summary_tr": "Sakatlık geçiren Bayern Münih, Lille'de sezonun ilk UEFA Şampiyonlar Ligi yenilgisini alırken 1-0 öne geçti."
     },
     {
-      "title": "Carra: Lammens confidence worrying but Poch will feel Man Utd were robbed",
-      "summary": "Jamie Carragher says Manchester United goalkeeper Senne Lammens' confidence is a cause for concern after his howler cost Mauricio Pochettino a first win since taking charge.",
-      "url": "https://www.skysports.com/football/news/12040/13616618/man-utd-goalkeeper-senne-lammens-criticised-for-howler-in-sporting-draw-by-jamie-carragher",
-      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-senne-lammens-man-utd_7416704.jpg?20261125235511",
-      "published": "2026-11-25T23:10:00",
+      "title": "Şampiyonlar Ligi maçında akılalmaz detay: Kendi ayağıyla zemini bozdu top oradan sekip gol oldu",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Sporting ile Manchester United'ın 2-2 berabere kaldığı maçta Bruno Fernandes'in attığı ikinci goldeki ilginç ayrıntı dikkat çekti. Portekizli yıldızın şutunda topun, dakikalar önce kendi sol ayağını bastığı çim noktasından sekerek kaleciyi yanılttığı ortaya çı",
+      "url": "https://www.yenisafak.com/spor/sampiyonlar-ligi-macinda-akilalmaz-detay-kendi-ayagiyla-zemini-bozdu-top-oradan-sekip-gol-oldu-4876812",
+      "image_url": null,
+      "published": "2026-11-26T12:52:20",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:03:07.277887",
+      "priority_score": 67,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.831510",
+      "title_tr": "Şampiyonlar Ligi maçında akılalmaz detay: Kendi ayağıyla zemini bozdu top oradan sekip gol oldu",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nin 5. haftasında Sporting ile Manchester United'ın 2-2 berabere kaldığı maçta Bruno Fernandes'in attığı ikinci goldeki ilginç ayrıntı dikkat çekti. Portekizli yıldızın şutunda topun, dakikalar önce kendi sol ayağını bastığı çim noktasından sekerek kaleciyi yanılttığı ortaya çı"
+    },
+    {
+      "title": "'Champions League not decided here' - Vincent Kompany bullish after Bayern Munich beaten by Lille",
+      "summary": "Bayern Munich suffered their first defeat of the season at Lille on Wednesday, but head coach Vincent Kompany was in bullish mood following the UEFA Champions League Matchday 5 reverse.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/vincent-kompany-champions-league-not-decided-today-reaction-bayern-lille-40152",
+      "image_url": null,
+      "published": "2026-11-26T10:08:22",
+      "source": "Bundesliga Official",
+      "source_priority": 8,
+      "region": "germany",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:00:05.193604",
+      "priority_score": 66,
+      "categories": [
+        "breaking_news",
+        "bundesliga",
+        "champions_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.420240",
+      "title_tr": "'Şampiyonlar Ligi'ne burada karar verilmedi' - Vincent Kompany, Bayern Münih'in Lille'e yenilmesinin ardından yükselişe geçti",
+      "summary_tr": "Bayern Münih, sezonun ilk yenilgisini Çarşamba günü Lille karşısında aldı, ancak baş antrenör Vincent Kompany, UEFA Şampiyonlar Ligi 5. Maç gününün tersine dönmesinin ardından iyimser bir ruh halindeydi."
+    },
+    {
+      "title": "Galatasaray'da sakatlık raporu: Yıldız futbolcu ocak ayına kadar yok",
+      "summary": "Şampiyonlar Ligi'nde Aston Villa'yı mağlup ederek ilk 24 yolunda önemli bir avantaj elde eden Galatasaray'da gözler Beşiktaş derbisine çevrildi. Sarı-kırmızılı ekipte kritik mücadele öncesinde Osimhen dahil sakat futbolcuların son durumu belli olmaya başladı.",
+      "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-sakatlik-raporu-yildiz-futbolcu-ocak-ayina-kadar-yok-3498447",
+      "image_url": null,
+      "published": "2026-11-26T11:55:29",
+      "source": "CNN Türk Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:02:39.010762",
+      "priority_score": 61,
+      "categories": [
+        "injuries",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-26T16:03:47.732339",
+      "title_tr": "Galatasaray'da sakatlık raporu: Yıldız futbolcu ocak ayına kadar yok",
+      "summary_tr": "Şampiyonlar Ligi'nde Aston Villa'yı mağlup ederek ilk 24 yolunda önemli bir avantaj elde eden Galatasaray'da gözler Beşiktaş derbisine çevrildi. Sarı-kırmızılı ekipte kritik mücadele öncesinde Osimhen dahil sakat futbolcuların son durumu belli olmaya başladı."
+    },
+    {
+      "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
+      "summary": "Mauricio Pochettino will need more than just good performances to turn Manchester United’s season around – refereeing decisions will have to go their way too.",
+      "url": "https://www.skysports.com/football/news/12040/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-man-utd-sporting_7416621.jpg?20261125220910",
+      "published": "2026-11-26T12:20:00",
       "source": "Sky Sports Football",
       "source_priority": 8,
       "region": "europe",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:51.635680",
-      "priority_score": 81,
+      "fetched_at": "2026-11-26T15:59:16.438540",
+      "priority_score": 56,
+      "categories": [
+        "match_results",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.358392",
+      "title_tr": "Yanlış kararlar ve kötü sonuçlar: Hakemler Manchester United'ın sorunlarını daha da kötüleştiriyor mu?",
+      "summary_tr": "Mauricio Pochettino'nun, Manchester United'ın sezonunu tersine çevirmek için iyi performanslardan daha fazlasına ihtiyacı olacak; hakem kararlarının da kendi yolunda gitmesi gerekecek."
+    },
+    {
+      "title": "Latest golf leaderboards: Ladies European Tour season finale and more",
+      "summary": "Latest golf scores and results from around the world, including the DP World Tour, PGA Tour and LPGA Tour.",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "image_url": "https://e2.365dm.com/26/07/1920x1080/skysports-mimi-rhodes-golf_7310082.jpg?20261108092512",
+      "published": "2026-11-26T10:25:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:16.438628",
+      "priority_score": 56,
+      "categories": [
+        "match_results"
+      ],
+      "processed_at": "2026-11-26T16:03:47.362720",
+      "title_tr": "En yeni golf skor tabloları: Bayanlar Avrupa Turu sezon finali ve daha fazlası",
+      "summary_tr": "DP World Tour, PGA Tour ve LPGA Tour dahil dünyanın dört bir yanından en son golf skorları ve sonuçları."
+    },
+    {
+      "title": "Galatasaray'a derbi öncesi sakat oyunculardan iyi haber",
+      "summary": "Galatasaray'da Beşiktaş derbisi öncesinde sakatlığı bulunan futbolcular, yavaş yavaş takıma dahil olacak. Durumu en çok merak edilen isimlerden Victor Osimhen'in de maçın geniş kadrosunda olması bekleniyor. İşte detaylar...",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-derbi-oncesi-sakat-oyunculardan-iyi-haber-43391957",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b081b2ae4260a756c077c86.jpg",
+      "published": "2026-11-26T11:42:36",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:02:11.636126",
+      "priority_score": 51,
+      "categories": [
+        "super_lig"
+      ],
+      "processed_at": "2026-11-26T16:03:47.509787",
+      "title_tr": "Galatasaray'a derbi öncesi sakat oyunculardan iyi haber",
+      "summary_tr": "Galatasaray'da Beşiktaş derbisi öncesinde sakatlığı bulunan futbolcular, yavaş yavaş takıma dahil olacak. Durumu en çok merak edilen isimlerden Victor Osimhen'in de maçın geniş kadrosunda olması bekleniyor. İşte detaylar..."
+    },
+    {
+      "title": "Galatasaray sözleşmesindeki maddeyi değiştirecek! Oyuncu da sıcak bakıyor",
+      "summary": "Galatasaray, iç transferde sürpriz bir hamleye hazırlanıyor. Sarı-kırmızılılar bu sezon kadrosuna kattığı genç ismin sözleşmesinde madde değişikliği yapacak. İşte ayrıntılar...",
+      "url": "https://www.yenisafak.com/galeri/spor/galatasaray-sozlesmesindeki-maddeyi-degistirecek-oyuncu-da-sicak-bakiyor-4876847",
+      "image_url": null,
+      "published": "2026-11-26T13:59:20",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:03:07.277444",
+      "priority_score": 77,
+      "categories": [
+        "transfers",
+        "super_lig"
+      ],
+      "processed_at": "2026-11-26T16:03:47.793648",
+      "title_tr": "Galatasaray sözleşmesindeki maddeyi değiştirecek! Oyuncu da sıcak bakıyor",
+      "summary_tr": "Galatasaray, iç transferde sürpriz bir hamleye hazırlanıyor. Sarı-kırmızılılar bu sezon kadrosuna kattığı genç ismin sözleşmesinde madde değişikliği yapacak. İşte ayrıntılar..."
+    },
+    {
+      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
+      "summary": "Crystal Palace’s influential supporters’ group disbanded 24 hours before their first home game this season – and Selhurst Park has not been the same sinceSimon Teesdale could not help feeling mixed emotions when his beloved Crystal Palace won the Conference League in Leipzig in May. He started going",
+      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
+      "image_url": null,
+      "published": "2026-11-26T08:00:50",
+      "source": "Guardian Football",
+      "source_priority": 9,
+      "region": "england",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:40.158906",
+      "priority_score": 68,
       "categories": [
         "transfers",
         "breaking_news",
-        "premier_league"
+        "bundesliga"
       ],
-      "processed_at": "2026-11-26T05:57:00.358468",
-      "title_tr": "Carra: Lammen'in kendine olan güveni endişe verici ama Poch Man Utd'un soyulduğunu hissedecek",
-      "summary_tr": "Jamie Carragher, Manchester United kalecisi Senne Lammens'in kendine olan güveninin, Mauricio Pochettino'nun göreve başladığından bu yana ilk galibiyetine mal olması nedeniyle endişe kaynağı olduğunu söyledi."
+      "processed_at": "2026-11-26T16:03:47.406915",
+      "title_tr": "Davul yok, tifo yok… anlamı yok mu? Palace'ın kayıp Holmesdale Fanatiklerinin etkisi",
+      "summary_tr": "Crystal Palace'ın etkili taraftar grubu, bu sezon iç sahadaki ilk maçlarına 24 saat kala dağıldı ve Selhurst Park, Simon Teesdale'in sevgili Crystal Palace'ın Mayıs ayında Leipzig'de Konferans Ligi'ni kazanmasından bu yana karışık duygular hissetmekten kendini alamadı. Gitmeye başladı"
     },
     {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "title": "Okan Buruk'un oğlu Ali Yiğit'in paylaşımı transfer dedikodularını alevlendirdi",
+      "summary": "Teknik direktör Okan Buruk'un oğlu Ali Yiğit Buruk'un, Manchester United'ın yıldızı Bruno Fernandes'in formasıyla sosyal medyada yaptığı selfie paylaşımı sarı-kırmızılı taraftarları heyecanlandırdı. Bu hareket, Portekizli futbolcuyla ilgili transfer iddialarını yeniden gündeme taşıdı.",
+      "url": "https://www.yenisafak.com/spor/okan-burukun-oglu-ali-yigitin-paylasimi-transfer-dedikodularini-alevlendirdi-4876870",
+      "image_url": null,
+      "published": "2026-11-26T15:18:54",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:03:07.277154",
+      "priority_score": 67,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.771335",
+      "title_tr": "Okan Buruk'un oğlu Ali Yiğit'in paylaşımı transfer dedikodularını alevlendirdi",
+      "summary_tr": "Teknik direktör Okan Buruk'un oğlu Ali Yiğit Buruk'un, Manchester United'ın yıldızı Bruno Fernandes'in formasıyla sosyal medyada yaptığı selfie paylaşımı sarı-kırmızılı taraftarları heyecanlandırdı. Bu hareket, Portekizli futbolcuyla ilgili transfer iddialarını yeniden gündeme taşıdı."
+    },
+    {
+      "title": "Delap's chance at redemption against toothless Chelsea",
+      "summary": "When Liam Delap joined Chelsea in the summer of 2025, he probably had ambitions of cementing himself as an elite Premier League No 9. Perhaps even positioning himself to be the heir to Harry Kane's throne for England.",
+      "url": "https://www.skysports.com/football/news/12040/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
+      "image_url": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-liam-delap_7415147.jpg?20261124104255",
+      "published": "2026-11-26T10:00:00",
+      "source": "Sky Sports Football",
+      "source_priority": 8,
+      "region": "europe",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:16.438773",
+      "priority_score": 66,
+      "categories": [
+        "transfers",
+        "premier_league"
+      ],
+      "processed_at": "2026-11-26T16:03:47.368770",
+      "title_tr": "Delap'ın dişsiz Chelsea'ye karşı kurtuluş şansı",
+      "summary_tr": "Liam Delap, 2025 yazında Chelsea'ye katıldığında muhtemelen Premier Lig'in 9. elit oyuncusu olmayı hedefliyordu. Hatta belki de kendisini İngiltere adına Harry Kane'in tahtının varisi olarak konumlandırıyordu."
+    },
+    {
+      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
       "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
@@ -96,76 +320,15 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.501760",
-      "priority_score": 70,
+      "fetched_at": "2026-11-26T15:59:07.321431",
+      "priority_score": 65,
       "categories": [
         "breaking_news",
         "premier_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.324567",
-      "title_tr": "Man Utd'daki işine kaotik bir başlangıç ​​yapan Pochettino'da hayal kırıklığı hüküm sürüyor",
+      "processed_at": "2026-11-26T16:03:47.348708",
+      "title_tr": "Pochettino'nun Man Utd'daki kaotik başlangıcı devam ederken hakemlerde daha fazla hayal kırıklığı yaşanıyor",
       "summary_tr": "Mauricio Pochettino'nun Manchester United menajeri olarak çıktığı ilk iki maçın ardından sonuçları neler?"
-    },
-    {
-      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
-      "summary": "George Hirst double earns Potters 2-1 win over MillwallBurnley’s winless home run extends to 24 matchesGeorge Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go level on points with Middlesbrough at the top.The Scotland international scored his",
-      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
-      "image_url": null,
-      "published": "2026-11-25T22:55:48",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:54:14.641174",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "serie_a"
-      ],
-      "processed_at": "2026-11-26T05:57:00.430419",
-      "title_tr": "Şampiyona özeti: Stoke ikinci sıraya yükseldi, Birmingham Burnley'i rekor kuraklığa mahkum etti",
-      "summary_tr": "George Hirst, Potters'ın Millwall'a karşı 2-1'lik galibiyetini iki katına çıkardıBurnley'in galibiyetsiz serisi 24 maça çıktıGeorge Hirst her iki golü de atarken Stoke, Millwall'u 2-1 yenerek üst üste beşinci şampiyonluk galibiyetini elde ederek Middlesbrough'un zirvesine ulaştı."
-    },
-    {
-      "title": "Fenerbahçe Stamford Bridge'de kazandı!",
-      "summary": "UEFA Şampiyonlar Ligi 5. haftasında temsilcimiz Fenerbahçe, Ukrayna ekibi Shakhtar Donetsk ile kozlarını paylaştı. Stamford Bridge Stadyumu'nda oynanan mücadeleyi sarı-lacivertliler Vedat Muriqi'in golü ile kazandı ve puanını 8'e yükseltti. 2008 yılında Chelsea'ye karşı bu stadyumda aldığı mağlubiye",
-      "url": "https://www.haberturk.com/spor/shakhtar-donetsk-fenerbahce-mac-sonucu-iste-shakhtar-fb-maci-ozeti-ve-golleri-sampiyonlar-ligi-3929935",
-      "image_url": "https://im.haberturk.com/l/2026/11/25/ver1795645744/3929935/jpg/1920x1080",
-      "published": "2026-11-25T22:29:11",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
-      "region": "turkey",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:55:27.322482",
-      "priority_score": 68,
-      "categories": [
-        "match_results",
-        "premier_league",
-        "super_lig"
-      ],
-      "processed_at": "2026-11-26T05:57:00.577723",
-      "title_tr": "Fenerbahçe Stamford Bridge'de kazandı!",
-      "summary_tr": "UEFA Şampiyonlar Ligi 5. haftasında temsilcimiz Fenerbahçe, Ukrayna ekibi Shakhtar Donetsk ile kozlarını paylaştı. Stamford Bridge Stadyumu'nda oynanan mücadeleyi sarı-lacivertliler Vedat Muriqi'in golü ile kazandı ve puanını 8'e yükseltti. 2008 yılında Chelsea'ye karşı bu stadyumda aldığı mağlubiye"
-    },
-    {
-      "title": "Bayern Munich's Tom Bischof on Vincent Kompany's return, Harry Kane's injury and title rivals Borussia Dortmund",
-      "summary": "Speaking to the Bundesliga, Tom Bischof believes that going toe to toe with Borussia Dortmund in the race for the Bundesliga title could help defending champions Bayern Munich in their pursuit of further silverware - even without the injured Harry Kane.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/tom-bischof-interview-bayern-munich-kane-injury-title-race-dortmund-40123",
-      "image_url": null,
-      "published": "2026-11-25T15:00:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.408655",
-      "priority_score": 66,
-      "categories": [
-        "injuries",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-26T05:57:00.492119",
-      "title_tr": "Bayern Münih'ten Tom Bischof, Vincent Kompany'nin dönüşü, Harry Kane'in sakatlığı ve şampiyonluk rakipleri Borussia Dortmund hakkında",
-      "summary_tr": "Bundesliga'ya konuşan Tom Bischof, Bundesliga şampiyonluğu yarışında Borussia Dortmund'la başa baş gitmenin, Harry Kane sakatlanmasa bile şampiyon Bayern Münih'in daha fazla gümüş madalya peşinde koşmasına yardımcı olabileceğine inanıyor."
     },
     {
       "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
@@ -177,97 +340,37 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.502887",
+      "fetched_at": "2026-11-26T15:59:07.322235",
       "priority_score": 65,
       "categories": [
         "breaking_news",
         "bundesliga",
         "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.340747",
+      "processed_at": "2026-11-26T16:03:47.354156",
       "title_tr": "Korkunç Pavloviç'in kendi kalesine attığı gol, Lille'in Bayern'e karşı şok galibiyetine neden oldu",
       "summary_tr": "Bayern Münih, Şampiyonlar Ligi'ndeki ilk yenilgisini, Lille'in ikinci yarıda üç dakikada iki kez fileleri bulması ve Aleksander Pavlovic'in kendi kalesine attığı komik golle büyük üzüntü yaratmasıyla yaşadı."
     },
     {
-      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
-      "summary": "Englishman hailed by teammates and manager Mourinho after coming on to completely change Champions League game against PSV Eindhoven“It was one of those moments when you’re just: ‘Wow.’” Bernardo Silva had a good view of Jude Bellingham scoring the goal, the golazo, that put Real Madrid into the lea",
-      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek actionRate, review, share on Apple Podcasts and join the conversation on email.One day we’ll start a podcast with something other than Manchester United, but not today. Mauricio Poche",
+      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
       "image_url": null,
-      "published": "2026-11-25T12:59:29",
+      "published": "2026-11-26T12:11:18",
       "source": "Guardian Football",
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:14.641979",
+      "fetched_at": "2026-11-26T15:59:40.158200",
       "priority_score": 63,
       "categories": [
-        "match_results",
-        "la_liga",
+        "transfers",
+        "premier_league",
         "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.447806",
-      "title_tr": "'O daha zarif': Bellingham, harika golün ardından Zidane karşılaştırmalarını küçümsüyor",
-      "summary_tr": "İngiliz oyuncu, PSV Eindhoven'a karşı Şampiyonlar Ligi maçını tamamen değiştirdikten sonra takım arkadaşları ve teknik direktör Mourinho tarafından selamlandı: \"Bu, 'Vay canına' dediğin anlardan biriydi.\" Bernardo Silva, Jude Bellingham'ın Real Madrid'i liderliğe taşıyan golü, golazo'yu atışını iyi gördü."
-    },
-    {
-      "title": "Super League reveals new format, seven-team play-offs, international games",
-      "summary": "Super League has revealed a new format, a seven-team play-off system and Magic Weekend and Rivals Round dates, on the same day London Broncos were confirmed as the competition's 15th team for 2027.",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13616617/super-league-reveals-new-15-team-format-seven-team-play-offs-international-games-and-magic-weekend-rivals-round-dates",
-      "image_url": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7363129.jpg?20260928104259",
-      "published": "2026-11-25T17:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:51.635845",
-      "priority_score": 81,
-      "categories": [
-        "transfers",
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-11-26T05:57:00.364972",
-      "title_tr": "Süper Lig'de yeni format, yedi takımlı play-off maçları ve uluslararası maçlar açıklandı",
-      "summary_tr": "Süper Lig yeni bir format, yedi takımlı play-off sistemi ve Magic Weekend ve Rivals Round tarihlerini açıkladı; aynı gün London Broncos, yarışmanın 2027 için 15. takımı olarak onaylandı."
-    },
-    {
-      "title": "Papers: Liverpool agree deal to sign Senegal teenager Ndiaye",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "url": "https://www.skysports.com/football/news/12040/13616560/liverpool-transfer-news-sidy-barhama-ndiaye-agrees-deal-to-sign-for-reds-paper-talk",
-      "image_url": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published": "2026-11-25T21:40:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:51.635955",
-      "priority_score": 76,
-      "categories": [
-        "transfers"
-      ],
-      "processed_at": "2026-11-26T05:57:00.371272",
-      "title_tr": "Belgeler: Liverpool, Senegalli genç Ndiaye'yi transfer etmek için anlaşma sağladı",
-      "summary_tr": "Perşembe günkü gazetelerden öne çıkan haberler ve transfer söylentileri..."
-    },
-    {
-      "title": "Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
-      "summary": "Luis Suárez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit.",
-      "url": "https://www.espn.com/soccer/story/_/id/50594966/inter-miami-mls-playoffs-columbus-crews-luis-suarez",
-      "image_url": null,
-      "published": "2026-11-26T01:00:51",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:37.411116",
-      "priority_score": 70,
-      "categories": [
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-11-26T05:57:00.316499",
-      "title_tr": "Miami play-off'tan erken çıkmaktan kaçınmaya çalışırken Suárez \"hiçbir mazeretin kalmadığını\" söyledi",
-      "summary_tr": "Luis Suárez, MLS Kupası şampiyonunun olası bir ilk tur play-off maçına gözünü diktiği Inter Miami için \"hiçbir mazeretin kalmadığını\" söyledi."
+      "processed_at": "2026-11-26T16:03:47.394125",
+      "title_tr": "Manchester United Lizbon'da: Mauricio Pochettino şanssız mı? – Haftalık Futbol podcast'i",
+      "summary_tr": "Max Rushden'a Barry Glendenning, Nedum Onuoha ve Mark Langdon eşlik ederek tüm Şampiyonlar Ligi hafta ortası aksiyonunu aktarıyor Apple Podcast'leri değerlendirin, inceleyin, paylaşın ve e-postadaki sohbete katılın. Bir gün Manchester United dışında bir şeyle podcast başlatacağız ama bugün değil. Mauricio Poche"
     },
     {
       "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
@@ -279,177 +382,95 @@
       "source_priority": 9,
       "region": "england",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:14.639895",
+      "fetched_at": "2026-11-26T15:59:40.158690",
       "priority_score": 63,
       "categories": [
         "breaking_news"
       ],
-      "processed_at": "2026-11-26T05:57:00.411780",
+      "processed_at": "2026-11-26T16:03:47.403458",
       "title_tr": "Yeniden dirilen Liverpool, Club Brugge'ü geride bırakırken Isak ve Wirtz hedefte",
       "summary_tr": "Liverpool, büyük para sahibi bireylerden topluluğa kadar müthiş bir ivme kazanıyor. Belçika'da çok soğuk bir gecede Andoni Iraola'nın takımı, Club Brugge'un etkileyici koşusunu durdurmak ve Şampiyonlar Ligi'ne otomatik olarak katılmaya bir adım daha yaklaşmak için başarılı bir deplasman gösterisi sergiledi."
     },
     {
-      "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
-      "summary": "Lille 2-1 Bayern Munich, Sabah 1-4 BarcelonaMalen penalty earns Roma 2-2 draw at PSGBayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for the German giants worsened.Dayot Upamecano opened the scoring for Bayern but Ayase ",
-      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "image_url": null,
-      "published": "2026-11-25T22:38:19",
-      "source": "Guardian Football",
+      "title": "Galatasaray'dan Ugochukwu hamlesi!",
+      "summary": "Galatasaray, yaz transfer döneminde satın alma opsiyonuyla birlikte Burnley'den kiraladığı Lesley Ugochukwu'nun daha fazla süre alabilmesi için oyuncunun temsilcisi ve ailesiyle bir görüşme gerçekleştirdi.",
+      "url": "https://www.haberturk.com/spor/galatasaray-dan-lesley-ugochukwu-hamlesi-3930353",
+      "image_url": "https://im.haberturk.com/l/2026/11/26/ver1795696408/3930353/jpg/1920x1080",
+      "published": "2026-11-26T13:47:56",
+      "source": "Habertürk Spor",
       "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:54:14.640480",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "la_liga",
-        "bundesliga",
-        "champions_league"
-      ],
-      "processed_at": "2026-11-26T05:57:00.419697",
-      "title_tr": "Şampiyonlar Ligi: Lille'in geri dönüşü Bayern'in sıkıntılarını artırdı, Gordon Barcelona'yı mağlup etti",
-      "summary_tr": "Lille 2-1 Bayern Münih, Sabah 1-4 BarcelonaMalen penaltı kazandı PSGB'de Roma 2-2 berabere kaldıBayern Münih, Çarşamba günü sezonun ilk yenilgisini aldı ve Şampiyonlar Ligi'nde Lille'e 2-1 yenilerek Alman devleri için zorlu bir hafta daha da kötüleşti. Bayern Münih adına skoru Dayot Upamecano açtı ama Ayase"
-    },
-    {
-      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
-      "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easyNot many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin bowling. The England head coach ringing to tell her of a first senior international call",
-      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-      "image_url": null,
-      "published": "2026-11-25T12:24:49",
-      "source": "Guardian Football",
-      "source_priority": 9,
-      "region": "england",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:54:14.642185",
-      "priority_score": 63,
-      "categories": [
-        "breaking_news",
-        "serie_a"
-      ],
-      "processed_at": "2026-11-26T05:57:00.454164",
-      "title_tr": "'Beni bowlingden biraz uzaklaştırdı': Isobel Goodwin, İngiltere'ye çağrıldıktan sonra yaşayan bir rüya",
-      "summary_tr": "Wiegman aradığında on lobutlu bowling oynayan London City forveti, yolculuğunun kolay olmadığını söylüyor Çok fazla telefon görüşmesi, Isobel Goodwin'in on lobutlu bowling oyununda sırasını kaçırmasını haklı çıkaracak kadar önemli değil. İngiltere'nin başantrenörü ona ilk uluslararası üst düzey görüşmesini anlatmak için arıyor"
-    },
-    {
-      "title": "Poch denied first Man Utd win by Lammens howler at Sporting",
-      "summary": "Mauricio Pochettino was denied a first victory as Manchester United head coach by a goalkeeping howler from Senne Lammens in an incident-packed 2-2 draw with Sporting in the Champions League as Youri Tielemans was sent off late on.",
-      "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/report/577686",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-sanne-lammens-sporting_7416617.jpg?20261125221019",
-      "published": "2026-11-25T22:00:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:51.635911",
-      "priority_score": 61,
-      "categories": [
-        "breaking_news",
-        "premier_league",
-        "champions_league"
-      ],
-      "processed_at": "2026-11-26T05:57:00.367971",
-      "title_tr": "Poch, Lammens'in Sporting'deki ilk Man Utd galibiyetini reddetti",
-      "summary_tr": "Mauricio Pochettino'nun, Manchester United başantrenörü olarak ilk galibiyeti, Şampiyonlar Ligi'nde Sporting'le oynanan olaylarla dolu 2-2'lik beraberlikte Senne Lammens'in kaleci çığırtkanı nedeniyle Youri Tielemans'ın oyundan atılması nedeniyle reddedildi."
-    },
-    {
-      "title": "'He's in a great moment': Iraola praises Isak after brace in Liverpool rout",
-      "summary": "Liverpool boss Andoni Iraola believes striker Alexander Isak is in a \"great moment\" after he scored twice in the 3-0 victory over Club Brugge.",
-      "url": "https://www.espn.com/soccer/story/_/id/50598768/andoni-iraola-alexander-isak-great-moment-liverpool",
-      "image_url": null,
-      "published": "2026-11-26T01:00:51",
-      "source": "ESPN FC",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:37.410761",
-      "priority_score": 60,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-26T05:57:00.313670",
-      "title_tr": "'Harika bir anda': Iraola, Liverpool yenilgisinden sonra Isak'ı övdü",
-      "summary_tr": "Liverpool patronu Andoni Iraola, forvet Alexander Isak'ın Club Brugge'e karşı alınan 3-0'lık galibiyette iki gol atmasının ardından \"harika bir an\" yaşadığına inanıyor."
-    },
-    {
-      "title": "Muğlaspor Teknik Direktörü Koşukavak: Acilen galibiyete ihtiyacımız var",
-      "summary": "TRENDYOL 1'inci Lig'in 16'ncı haftasında Mardin 1969 Spor'u konuk edecek Muğlaspor'da teknik direktör Yalçın Koşukavak, takımın son durumunu değerlendirdi. Koşukavak, “Acilen galibiyete ihtiyacımız var.” dedi.",
-      "url": "https://www.yenisafak.com/spor/muglaspor-mardin-1969-spor-maci-oncesi-kosukavak-konustu-4876634",
-      "image_url": null,
-      "published": "2026-11-26T05:06:54",
-      "source": "Yeni Şafak Spor",
-      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-26T05:56:20.838666",
-      "priority_score": 57,
+      "fetched_at": "2026-11-26T16:01:57.193902",
+      "priority_score": 63,
       "categories": [
-        "breaking_news"
+        "transfers",
+        "super_lig"
       ],
-      "processed_at": "2026-11-26T05:57:01.061187",
-      "title_tr": "Muğlaspor Teknik Direktörü Koşukavak: Acilen galibiyete ihtiyacımız var",
-      "summary_tr": "TRENDYOL 1'inci Lig'in 16'ncı haftasında Mardin 1969 Spor'u konuk edecek Muğlaspor'da teknik direktör Yalçın Koşukavak, takımın son durumunu değerlendirdi. Koşukavak, “Acilen galibiyete ihtiyacımız var.” dedi."
+      "processed_at": "2026-11-26T16:03:47.452089",
+      "title_tr": "Galatasaray'dan Ugochukwu hamlesi!",
+      "summary_tr": "Galatasaray, yaz transfer döneminde satın alma opsiyonuyla birlikte Burnley'den kiraladığı Lesley Ugochukwu'nun daha fazla süre alabilmesi için oyuncunun temsilcisi ve ailesiyle bir görüşme gerçekleştirdi."
     },
     {
-      "title": "VfB Stuttgart beaten by Inter Milan in UEFA Champions League",
-      "summary": "VfB Stuttgart were undone by second-half goals from Petar Sučić and Lautaro Martínez as they lost to Inter Milan in the UEFA Champions League.",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/fc-internazionale-mailand-vfb-stuttgart-match-report-highlights-matchday-5-40148",
+      "title": "Bundesliga Matchday 11 probable teams",
+      "summary": "Could Konrad Laimer replace the injured Harry Kane in attack when Bayern Munich visit Hamburg on Saturday afternoon?",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
       "image_url": null,
-      "published": "2026-11-26T04:55:00",
+      "published": "2026-11-26T04:00:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.407329",
+      "fetched_at": "2026-11-26T16:00:05.204054",
+      "priority_score": 56,
+      "categories": [
+        "injuries",
+        "premier_league",
+        "bundesliga"
+      ],
+      "processed_at": "2026-11-26T16:03:47.437599",
+      "title_tr": "Bundesliga'da 11. maç muhtemel takımlar",
+      "summary_tr": "Konrad Laimer, Bayern Münih Cumartesi öğleden sonra Hamburg'u ziyaret ederken hücumda sakatlanan Harry Kane'in yerini alabilir mi?"
+    },
+    {
+      "title": "MHK Başkanı Anthony Taylor: 'Galatasaray'ın attığı golün iptal edilmesi gerekirdi!'",
+      "summary": "MHK Başkanı Anthony Taylor, Süper Lig ve 1. Lig'deki tartışmalı pozisyonları yorumladı. Taylor, büyük tartışmalara neden olan Galatasaray'ın Samsunspor'a attığı ilk gol için hakemin ve VAR'ın yanlış karar verdiğini belirterek, \"Golün iptal edilmesi gerekirdi.\" değerlendirmesinde bulundu.",
+      "url": "https://www.hurriyet.com.tr/sporarena/anthony-taylor-tartismali-pozisyonlari-tek-tek-degerlendirdi-galatasarayin-attigi-golun-iptal-edilmesi-gerekirdi-43392099",
+      "image_url": "https://image.hurimg.com/i/hurriyet/90/620x350/6b082b0ce4260a756c077d98.jpg",
+      "published": "2026-11-26T12:50:00",
+      "source": "Hürriyet Spor",
+      "source_priority": 8,
+      "region": "turkey",
+      "language": "both",
+      "fetched_at": "2026-11-26T16:02:11.635973",
       "priority_score": 56,
       "categories": [
         "match_results",
-        "serie_a",
-        "champions_league"
+        "super_lig"
       ],
-      "processed_at": "2026-11-26T05:57:00.472791",
-      "title_tr": "VfB Stuttgart, UEFA Şampiyonlar Ligi'nde Inter'e yenildi",
-      "summary_tr": "VfB Stuttgart, UEFA Şampiyonlar Ligi'nde Inter Milan'a yenildikleri sırada Petar Sučić ve Lautaro Martínez'in ikinci yarıdaki golleriyle geride kaldı."
+      "processed_at": "2026-11-26T16:03:47.489752",
+      "title_tr": "MHK Başkanı Anthony Taylor: 'Galatasaray'ın attığı golün iptal edilmesi gerekirdi!'",
+      "summary_tr": "MHK Başkanı Anthony Taylor, Süper Lig ve 1. Lig'deki tartışmalı pozisyonları yorumladı. Taylor, büyük tartışmalara neden olan Galatasaray'ın Samsunspor'a attığı ilk gol için hakemin ve VAR'ın yanlış karar verdiğini belirterek, \"Golün iptal edilmesi gerekirdi.\" değerlendirmesinde bulundu."
     },
     {
-      "title": "What are Bayern Munich’s options to replace the injured Harry Kane?",
-      "summary": "Harry Kane is set to be out of action for at least three months after injuring his ankle in Bayern Munich’s Matchday 10 draw with Cologne. With an already lengthy list of absentees in attacking areas, who could potentially fill the gap left by the Ballon d’Or winner?",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-options-to-replace-injured-harry-kane-40060",
+      "title": "Gençlerbirliği’nden transfer yasağı müjdesi",
+      "summary": "Gençlerbirliği FIFA tarafından verilen transfer yasağının kaldırıldığını duyurdu.",
+      "url": "https://www.cnnturk.com/spor/futbol/genclerbirliginden-transfer-yasagi-mujdesi-3498726",
       "image_url": null,
-      "published": "2026-11-25T07:35:00",
-      "source": "Bundesliga Official",
+      "published": "2026-11-26T18:18:03",
+      "source": "CNN Türk Spor",
       "source_priority": 8,
-      "region": "germany",
+      "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.411131",
+      "fetched_at": "2026-11-26T16:02:39.010193",
       "priority_score": 56,
       "categories": [
-        "injuries",
-        "premier_league",
-        "bundesliga"
+        "transfers",
+        "world_cup"
       ],
-      "processed_at": "2026-11-26T05:57:00.519990",
-      "title_tr": "Sakatlanan Harry Kane'in yerine Bayern Münih'in seçenekleri neler?",
-      "summary_tr": "Harry Kane, Bayern Münih'in Köln ile oynadığı 10. maç çekilişinde bileğinden sakatlandıktan sonra en az üç ay sahalardan uzak kalacak. Hücum bölgelerinde yer almayanların zaten uzun bir listesi varken, Ballon d'Or kazananının bıraktığı boşluğu potansiyel olarak kim doldurabilir?"
-    },
-    {
-      "title": "Niclas Füllkrug, Patrik Schick, Michael Olise: Who will finish Bundesliga top scorer in the absence of Harry Kane?",
-      "summary": "Harry Kane has swept up all three of the Bundesliga’s top scorer awards since moving to Germany ahead of the 2023/24 season, but with the Bayern Munich striker set for a lengthy spell on the sidelines with an ankle injury, the likes of Niclas Füllkrug and Patrik Schick will fancy their chances of ge",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/top-scorer-race-without-harry-kane-olise-fullkrug-schick-40120",
-      "image_url": null,
-      "published": "2026-11-25T07:30:00",
-      "source": "Bundesliga Official",
-      "source_priority": 8,
-      "region": "germany",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.412114",
-      "priority_score": 56,
-      "categories": [
-        "injuries",
-        "bundesliga"
-      ],
-      "processed_at": "2026-11-26T05:57:00.536886",
-      "title_tr": "Niclas Füllkrug, Patrik Schick, Michael Olise: Harry Kane'in yokluğunda Bundesliga'yı gol kralı kim bitirecek?",
-      "summary_tr": "Harry Kane, 2023/24 sezonu öncesinde Almanya'ya taşındığından beri Bundesliga'nın en golcü oyuncu ödüllerinin üçünü de aldı, ancak Bayern Münih'in forvet oyuncusunun ayak bileğinden sakatlanarak uzun bir süre kenarda kalacağı göz önüne alındığında, Niclas Füllkrug ve Patrik Schick gibi isimler şampiyonluk şanslarını değerlendirecek."
+      "processed_at": "2026-11-26T16:03:47.674208",
+      "title_tr": "Gençlerbirliği’nden transfer yasağı müjdesi",
+      "summary_tr": "Gençlerbirliği FIFA tarafından verilen transfer yasağının kaldırıldığını duyurdu."
     },
     {
       "title": "'All coming together' - Isak repaying Liverpool faith",
@@ -461,14 +482,34 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.502133",
+      "fetched_at": "2026-11-26T15:59:07.321532",
       "priority_score": 55,
       "categories": [
         "match_results"
       ],
-      "processed_at": "2026-11-26T05:57:00.329835",
+      "processed_at": "2026-11-26T16:03:47.349081",
       "title_tr": "'Hepsi bir araya geliyor' - Isak, Liverpool'a olan inancının karşılığını veriyor",
       "summary_tr": "Alexander Isak'ın Club Brugge'e attığı iki gol, bu sezonki toplam sayısını 10'a çıkarırken, forvet, Liverpool'un geçen yıl onu kulübe getirmek için neden 125 milyon £ ödediğini göstermeye devam ediyor."
+    },
+    {
+      "title": "The American manager with a maths degree making history in La Liga",
+      "summary": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published": "2026-11-26T13:49:20",
+      "source": "BBC Sport Football",
+      "source_priority": 10,
+      "region": "global",
+      "language": "both",
+      "fetched_at": "2026-11-26T15:59:07.321628",
+      "priority_score": 55,
+      "categories": [
+        "breaking_news",
+        "la_liga"
+      ],
+      "processed_at": "2026-11-26T16:03:47.349591",
+      "title_tr": "Matematik diplomasına sahip Amerikalı teknik adam La Liga'da tarih yazıyor",
+      "summary_tr": "Real Sociedad'ın patronu Pellegrino Matarazzo, La Liga'daki ilk Amerikalı teknik direktör olarak tarihe geçti. Onun tarafı perşembe günü Avrupa Ligi'nde Crystal Palace ile karşılaşacak."
     },
     {
       "title": "Isak scores twice as clinical Liverpool beat Brugge",
@@ -480,14 +521,14 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.502322",
+      "fetched_at": "2026-11-26T15:59:07.321810",
       "priority_score": 55,
       "categories": [
         "match_results",
         "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.331397",
-      "title_tr": "Isak, Liverpool'un Brugge'ü yendiği klinik maçta iki gol attı",
+      "processed_at": "2026-11-26T16:03:47.350685",
+      "title_tr": "Isak, Liverpool'un Brugge'u yendiği klinik maçta iki gol attı",
       "summary_tr": "Liverpool, Alexander Isak ve Florian Wirtz'in golleri sayesinde Club Brugge'u klinik bir performansla mağlup etti ve son Şampiyonlar Ligi maçında aldıkları yenilginin ardından toparlandı."
     },
     {
@@ -500,118 +541,77 @@
       "source_priority": 10,
       "region": "global",
       "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.502772",
+      "fetched_at": "2026-11-26T15:59:07.322149",
       "priority_score": 55,
       "categories": [
         "match_results",
         "la_liga",
         "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.338449",
+      "processed_at": "2026-11-26T16:03:47.353215",
       "title_tr": "Gordon, Barça'nın Sabah karşısında rahat galibiyetinde rol aldı",
       "summary_tr": "Anthony Gordon, Şampiyonlar Ligi'nde Sabah'ı 4-1 yenen Barcelona'nın ilk iki golünü attı."
     },
     {
-      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
-      "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published": "2026-11-25T23:16:18",
-      "source": "BBC Sport Football",
-      "source_priority": 10,
-      "region": "global",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:42.503351",
-      "priority_score": 55,
-      "categories": [
-        "match_results",
-        "champions_league"
-      ],
-      "processed_at": "2026-11-26T05:57:00.349590",
-      "title_tr": "F.Bahçe, Shakhtar'ı geride bırakarak üst üste galibiyetlere imza attı",
-      "summary_tr": "Türk ekibi, Stamford Bridge'de yakın bir karşılaşmada Shakhtar Donetsk'i mağlup ederek Şampiyonlar Ligi'ne katılma umutlarını artırdı."
-    },
-    {
-      "title": "Chelsea'den paylaşım: Kante Bridge'e döndü",
-      "summary": "UEFA Şampiyonlar Ligi 5. haftasında temsilcimiz Fenerbahçe, Londra'da Ukrayna ekibi Shakhtar Donetsk'i 1-0 mağlup etti. Chelsea'nin Stamford Bridge Stadyumu'nda oynanan mücadelenin ardından İngiliz ekibi, N'Golo Kante hakkında paylaşım yaptı.",
-      "url": "https://www.haberturk.com/spor/shakhtar-donetsk-fenerbahce-maci-sonrasi-chelsea-den-n-golo-kante-paylasimi-3930176",
-      "image_url": "https://im.haberturk.com/l/2026/11/26/ver1795647123/3930176/jpg/1920x1080",
-      "published": "2026-11-25T22:52:22",
+      "title": "G.Saray'ın duran top planı Avrupa'da da işledi!",
+      "summary": "Aston Villa'ya karşı sahaya önemli yıldızlarından yoksun çıkan Galatasaray, İngiliz ekibini duran top silahıyla mağlup etti. Okan Buruk'un ekibi duran top gol sayısını 11'e yükseltti.",
+      "url": "https://www.haberturk.com/spor/foto/galatasaray-in-duran-top-plani-avrupa-da-da-isledi-3930262",
+      "image_url": "https://im.haberturk.com/l/2026/11/26/ver1795683845/3930262/jpg/1920x1080",
+      "published": "2026-11-26T09:04:15",
       "source": "Habertürk Spor",
       "source_priority": 9,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-26T05:55:27.322280",
+      "fetched_at": "2026-11-26T16:01:57.194210",
       "priority_score": 53,
       "categories": [
         "match_results",
-        "premier_league",
         "super_lig"
       ],
-      "processed_at": "2026-11-26T05:57:00.562766",
-      "title_tr": "Chelsea'den paylaşım: Kante Bridge'e döndü",
-      "summary_tr": "UEFA Şampiyonlar Ligi 5. haftasında temsilcimiz Fenerbahçe, Londra'da Ukrayna ekibi Shakhtar Donetsk'i 1-0 mağlup etti. Chelsea'nin Stamford Bridge Stadyumu'nda oynanan mücadelenin ardından İngiliz ekibi, N'Golo Kante hakkında paylaşım yaptı."
+      "processed_at": "2026-11-26T16:03:47.475706",
+      "title_tr": "G.Saray'ın duran top planı Avrupa'da da işledi!",
+      "summary_tr": "Aston Villa'ya karşı sahaya önemli yıldızlarından yoksun çıkan Galatasaray, İngiliz ekibini duran top silahıyla mağlup etti. Okan Buruk'un ekibi duran top gol sayısını 11'e yükseltti."
     },
     {
-      "title": "\"Daha fazlasını atabilirdik\"",
-      "summary": "Fenerbahçe'nin defans oyuncusu Milan Skriniar, UEFA Şampiyonlar Ligi'nin 5. haftasında 1-0'lık Shakhtar Donetsk galibiyetinin ardından açıklamalarda bulundu. Daha fazla gol atabilecek fırsatları yakaladıklarını belirten Slovak stoper, \"Hocamız, ekibi, herkes bizi bu maça çok iyi hazırladık. Merkezde",
-      "url": "https://www.haberturk.com/spor/milan-skriniar-atmis-oldugumuz-golden-daha-fazlasini-atabilirdik-3930172",
-      "image_url": "https://im.haberturk.com/l/2026/11/26/ver1795645843/3930172/jpg/1920x1080",
-      "published": "2026-11-25T22:31:19",
-      "source": "Habertürk Spor",
-      "source_priority": 9,
+      "title": "Anthony Taylor'dan Galatasaray'ı kızdıracak karar! Gol için ofsayt dedi",
+      "summary": "Merkez Hakem Kurulu Başkanı Anthony Taylor, Süper Lig'in 12. haftasındaki Galatasaray-Samsunspor maçının tartışmalı pozisyonunu değerlendirdi.",
+      "url": "https://www.yenisafak.com/galeri/spor/anthony-taylordan-galatasarayi-kizdiracak-karar-gol-icin-ofsayt-dedi-4876805",
+      "image_url": null,
+      "published": "2026-11-26T12:38:35",
+      "source": "Yeni Şafak Spor",
+      "source_priority": 6,
       "region": "turkey",
       "language": "both",
-      "fetched_at": "2026-11-26T05:55:27.322434",
-      "priority_score": 53,
+      "fetched_at": "2026-11-26T16:03:07.277973",
+      "priority_score": 52,
       "categories": [
         "match_results",
-        "serie_a",
         "super_lig"
       ],
-      "processed_at": "2026-11-26T05:57:00.573281",
-      "title_tr": "\"Daha fazlasını atabilirdik\"",
-      "summary_tr": "Fenerbahçe'nin defans oyuncusu Milan Skriniar, UEFA Şampiyonlar Ligi'nin 5. haftasında 1-0'lık Shakhtar Donetsk galibiyetinin ardından açıklamalarda bulundu. Daha fazla gol atabilecek fırsatları yakaladıklarını belirten Slovak stoper, \"Hocamız, ekibi, herkes bizi bu maça çok iyi hazırladık. Merkezde"
+      "processed_at": "2026-11-26T16:03:47.841233",
+      "title_tr": "Anthony Taylor'dan Galatasaray'ı kızdıracak karar! Gol için ofsayt dedi",
+      "summary_tr": "Merkez Hakem Kurulu Başkanı Anthony Taylor, Süper Lig'in 12. haftasındaki Galatasaray-Samsunspor maçının tartışmalı pozisyonunu değerlendirdi."
     },
     {
-      "title": "West Brom battle to win at Bolton",
-      "summary": "Norwegian duo Aune Heggebo and Felix Horn Myhre scored the goals as West Brom boosted their promotion push with a 3-1 Sky Bet Championship win at Bolton.",
-      "url": "https://www.skysports.com/football/bolton-wanderers-vs-west-bromwich-albion/report/560698",
-      "image_url": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom_7416584.jpg?20261125212346",
-      "published": "2026-11-25T21:35:00",
-      "source": "Sky Sports Football",
-      "source_priority": 8,
-      "region": "europe",
-      "language": "both",
-      "fetched_at": "2026-11-26T05:53:51.636132",
-      "priority_score": 51,
-      "categories": [
-        "match_results"
-      ],
-      "processed_at": "2026-11-26T05:57:00.387504",
-      "title_tr": "West Brom Bolton'da kazanmak için savaşıyor",
-      "summary_tr": "Norveçli ikili Aune Heggebo ve Felix Horn Myhre golleri atarken West Brom, Bolton'da Sky Bet Şampiyonası'nı 3-1 yenerek yükselme hamlesini artırdı."
-    },
-    {
-      "title": "Why Borussia Dortmund can win the Bundesliga in 2026/27",
-      "summary": "Borussia Dortmund are top of the Bundesliga table 10 games into the 2026/27 season, having proven very difficult to beat and showing previously missing resolve to come from behind and even claim results at both Bayern Munich and Arsenal. Is it evidence that Niko Kovač’s men are now genuine title con",
-      "url": "https://www.bundesliga.com/en/bundesliga/news/why-borussia-dortmund-can-win-title-2026-27-defence-40138",
+      "title": "VfB Stuttgart beaten by Inter Milan in UEFA Champions League",
+      "summary": "VfB Stuttgart were undone by second-half goals from Petar Sučić and Lautaro Martínez as they lost to Inter Milan in the UEFA Champions League.",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/fc-internazionale-mailand-vfb-stuttgart-match-report-highlights-matchday-5-40148",
       "image_url": null,
-      "published": "2026-11-25T09:45:00",
+      "published": "2026-11-26T04:55:00",
       "source": "Bundesliga Official",
       "source_priority": 8,
       "region": "germany",
       "language": "both",
-      "fetched_at": "2026-11-26T05:54:36.408975",
+      "fetched_at": "2026-11-26T16:00:05.195164",
       "priority_score": 51,
       "categories": [
         "match_results",
-        "premier_league",
-        "bundesliga"
+        "serie_a",
+        "champions_league"
       ],
-      "processed_at": "2026-11-26T05:57:00.496927",
-      "title_tr": "Borussia Dortmund neden 2026/27'de Bundesliga'yı kazanabilir?",
-      "summary_tr": "Borussia Dortmund, 2026/27 sezonunda Bundesliga'da son 10 maçta zirvede yer alırken, yenmenin çok zor olduğunu kanıtladı ve daha önce geriden gelme ve hatta hem Bayern Münih hem de Arsenal'de sonuç alma kararlılığını göstermedi. Bu, Niko Kovač'ın adamlarının artık gerçek şampiyonluk dolandırıcısı olduğunun kanıtı mı?"
+      "processed_at": "2026-11-26T16:03:47.435237",
+      "title_tr": "VfB Stuttgart, UEFA Şampiyonlar Ligi'nde Inter'e yenildi",
+      "summary_tr": "VfB Stuttgart, UEFA Şampiyonlar Ligi'nde Inter Milan'a yenildikleri sırada Petar Sučić ve Lautaro Martínez'in ikinci yarıdaki golleriyle geride kaldı."
     }
   ]
 }
